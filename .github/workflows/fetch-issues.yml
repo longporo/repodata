@@ -1,0 +1,68 @@
+name: Fetch freeCodeCamp Issues Data
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run daily at midnight UTC
+  workflow_dispatch: # Allow manual trigger
+
+env:
+  PUBLIC_REPO_OWNER: freeCodeCamp
+  PUBLIC_REPO_NAME: freeCodeCamp
+  PRIVATE_REPO: ${{ secrets.REPO_SCOPED_TOKEN_USER }}/${{ secrets.REPO_SCOPED_TOKEN_REPO }}
+  PRIVATE_REPO_BRANCH: freeCodeCamp # Or your desired branch
+  COMMIT_EMAIL: github-actions[bot]@users.noreply.github.com
+  COMMIT_USERNAME: github-actions[bot]
+
+jobs:
+  fetch_issues:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Private Repo
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ env.PRIVATE_REPO }}
+          token: ${{ secrets.GH_TOKEN }}
+          ref: ${{ env.PRIVATE_REPO_BRANCH }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Set up Git config
+        run: |
+          git config --global user.email "${{ env.COMMIT_EMAIL }}"
+          git config --global user.name "${{ env.COMMIT_USERNAME }}"
+
+      - name: Get date for one month ago
+        id: date
+        run: echo "DATE_ISO=$(date -d '1 month ago' -u +'%Y-%m-%dT%H:%M:%SZ')" >> $GITHUB_OUTPUT
+
+      # Note: This step now uses a Python script for better handling of
+      # GraphQL queries, pagination, and contributor aggregation.
+      - name: Fetch Issues, Correlated Commits/PRs, and Convert to CSV
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          SINCE_DATE: ${{ steps.date.outputs.DATE_ISO }}
+          PUBLIC_REPO_OWNER: ${{ env.PUBLIC_REPO_OWNER }}
+          PUBLIC_REPO_NAME: ${{ env.PUBLIC_REPO_NAME }}
+        run: python scripts/fetch_issues.py
+
+      - name: Show Generated CSV Head
+        run: head issues.csv
+
+      - name: Commit and Push CSV
+        run: |
+          git add issues.csv
+          if ! git diff --staged --quiet; then
+            git commit -m "Update issues data ($(date -u +'%Y-%m-%d'))"
+            # Add retry logic for push
+            git push origin ${{ env.PRIVATE_REPO_BRANCH }} || (sleep 5 && git pull --rebase origin ${{ env.PRIVATE_REPO_BRANCH }} && git push origin ${{ env.PRIVATE_REPO_BRANCH }})
+          else
+            echo "No changes to commit."
+          fi 
