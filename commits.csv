@@ -1,4 +1,5 @@
 sha,message,created_date,number_of_files_updated,diff,author
+7e966906dbae4a813839ca86697defa7b2171731,fix(curriculum): Update the description in python password generator …,2025-05-10T22:08:55Z,1,2,Ajay-2005
 222f0852dbf774058af95f172bf3f42c87e8ec8d,fix(curriculum): updated cat-painting-workshop steps 42-43 to specifi…,2025-05-10T09:40:49Z,2,10,loralridz
 7144b0433348dc566e4782c2f0906516d4813610,fix(curriculum): correct 'asnwer' to 'answer' in English challenges (…,2025-05-10T07:28:38Z,2,4,VisibleNasir
 0a0eefb6f903383284a5ee0bbea7a5e0502eb8d9,fix(curriculum): update default browser styles lecture (#60260),2025-05-09T23:41:58Z,1,2,estefaniacn
@@ -252,15 +253,3 @@ a78f40f7e640d93a0c2abf8f5848f829acdaa232,fix(api): remove authorization checks (
 f07aa3016a7a49ecda7caa9a09f7262b84e6835b,chore(curriculum): adding transcript and video ids to React state and…,2025-04-11T07:42:06Z,6,637,jdwilkin4
 7329ddbe2fb901c1d63904a69096b507df504db1,fix(client): space-out the user bio from nav (#59662),2025-04-11T06:58:06Z,2,5,ahmaxed
 2c1281d8ba481a9c10b5538f64a4a8d21f673e99,fix(curriculum): rewrite HTML Foundations Lesson H (#59659),2025-04-11T03:28:50Z,1,10,raahthor
-b81ed34e785b87b615dd0061d2bbdb71a10e6c09,fix(curriculum): lightbox typo (#59672),2025-04-10T23:14:53Z,1,2,bhawk3
-fda0764aa74129262d1a1bce821dd0a17ab31790,fix(curriculum): misspelled word in review dictionaries and sets (#59…,2025-04-10T22:45:28Z,1,2,clarencepenz
-c4cac248dc74e814d145e2080d9f0ac3a2bc02e6,"fix(learn): lowercase ""Classes"" in JavaScript quiz intro (#59669)",2025-04-10T21:36:03Z,1,2,anupkoshti
-b6fb98f5a3281f91137eabff5af9d5005f45344e,fix: lint errors (#59667),2025-04-10T19:13:09Z,2,3,moT01
-2a6138a7cf7056b7763f7c1c52407f7c601f6137,fix(curriculum): fix tests for steps 28 and 45 of the BST lesson (#59…,2025-04-10T18:30:47Z,2,11,dennmar
-e404d9d44bb087605c580e4d72c3771c234a7043,chore: stop building entire curriculum when testing subset (#59599),2025-04-10T15:14:41Z,2,197,ojeytonwilliams
-5ef98680f9c7932f39ea26cf0c662f7120fd3e05,refactor: remove unused vars (#59658),2025-04-10T15:06:46Z,18,89,ojeytonwilliams
-9d2701b1ab3e1611275e02fc6a210ce4b7261045,"chore(curriculum, tools): improve external curricula data validation …",2025-04-10T15:05:07Z,3,52,huyenltnguyen
-67f8c2868a88614020e09e8c8ae3b8a7d0aa5fff,feat: add review files for python module (#59615),2025-04-10T15:03:45Z,34,508,ilenia-magoni
-b8d4099796dce7b0d25f250ddfae8ea52b84ebeb,feat(tools): create challenge helper script for quiz files (#59523),2025-04-10T14:56:42Z,7,681,a2937
-48091110d5c8b286cf319991c8de6caae7ec1fc0,chore(tools): update screenshot-service to tsx and deps (#59517),2025-04-10T14:51:13Z,2,1777,ShaunSHamilton
-56933d059f935fc384b877604347079609bbca00,feat(client): ab test shorter block donations (#59616),2025-04-10T14:21:43Z,3,59,ahmaxed
