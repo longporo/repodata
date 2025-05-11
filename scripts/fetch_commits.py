@@ -137,7 +137,9 @@ while has_next_page:
                 commit.get("committedDate"),
                 commit.get("changedFilesIfAvailable", 0), # Provide default if missing
                 diff,
-                author_name
+                author_name,
+                PUBLIC_REPO_OWNER,
+                PUBLIC_REPO_NAME
             ])
 
         has_next_page = page_info.get("hasNextPage", False)
@@ -159,7 +161,7 @@ print(f"Writing {len(all_commits)} commits to {OUTPUT_CSV}...")
 try:
     with open(OUTPUT_CSV, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(["sha", "message", "created_date", "number_of_files_updated", "diff", "author"])
+        writer.writerow(["sha", "message", "created_date", "number_of_files_updated", "diff", "author", "repo_owner", "repo_name"])
         writer.writerows(all_commits)
     print("Successfully wrote commits.csv")
 except IOError as e:

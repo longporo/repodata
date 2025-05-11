@@ -293,7 +293,9 @@ def aggregate_and_write_csv(issues_raw_data, pr_author_map, output_file):
             issue_details.get("state"),
             issue_details.get("createdAt"),
             issue_details.get("closedAt") or "", # Use empty string if null
-            ";".join(sorted(list(issue_contributors))) # Join unique names
+            ";".join(sorted(list(issue_contributors))),
+            PUBLIC_REPO_OWNER,
+            PUBLIC_REPO_NAME# Join unique names
         ])
 
     print(f"  Aggregated data for {len(final_data_for_csv)} issues.")
@@ -303,7 +305,7 @@ def aggregate_and_write_csv(issues_raw_data, pr_author_map, output_file):
         with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
             writer = csv.writer(csvfile)
             # Write Header
-            writer.writerow(["issue_id", "issue_number", "title", "state", "created_date", "closed_date", "contributors"])
+            writer.writerow(["issue_id", "issue_number", "title", "state", "created_date", "closed_date", "contributors", "repo_owner", "repo_name"])
             # Write Data Rows
             writer.writerows(final_data_for_csv)
         print(f"Successfully wrote CSV data to {output_file}")
