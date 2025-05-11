@@ -1,4 +1,4 @@
-name: Fetch freeCodeCamp Issues Data
+name: Fetch facebook/react-native Issues Data
 
 on:
   schedule:
@@ -6,10 +6,10 @@ on:
   workflow_dispatch: # Allow manual trigger
 
 env:
-  PUBLIC_REPO_OWNER: freeCodeCamp
-  PUBLIC_REPO_NAME: freeCodeCamp
+  PUBLIC_REPO_OWNER: facebook
+  PUBLIC_REPO_NAME: react-native
   PRIVATE_REPO: ${{ secrets.REPO_SCOPED_TOKEN_USER }}/${{ secrets.REPO_SCOPED_TOKEN_REPO }}
-  PRIVATE_REPO_BRANCH: freeCodeCamp # Or your desired branch
+  PRIVATE_REPO_BRANCH: facebook/react-native
   COMMIT_EMAIL: github-actions[bot]@users.noreply.github.com
   COMMIT_USERNAME: github-actions[bot]
 
