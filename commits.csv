@@ -1,0 +1,466 @@
+sha,message,created_date,number_of_files_updated,diff,author
+77c1eb615400c07fd2a7d7f4a47dd87cef1c8743,RN: Migrate `VirtualView` to Feature Flags (#51233),2025-05-11T07:30:21Z,2,35,yungsters
+996be870713cd72df1f91db99e8f981bbc5406af,Add Playground test (#51220),2025-05-10T08:53:28Z,1,21,rubennorte
+32fafdf9807e8869a9bf927d031741b8ab6c2fb3,cleanup shipped flag enableFabricCompleteRootInCommitPhase,2025-05-10T06:01:51Z,2,6,kassens
+891ee78f131926bd4868f7e6347665b301f0bb71,Add JSI APIs `setRuntimeData` and `getRuntimeData` (#50197),2025-05-10T04:07:15Z,5,264,tsaichien
+499fcfad53d8ac1e72c3034e378fb80894a0edd0,Add UUID struct to JSI (#50270),2025-05-10T04:07:15Z,1,82,tsaichien
+316f86f29f713e2c2a1d600910cde111a5ae91c0,Build JSI with C++17 (#50413),2025-05-10T04:07:15Z,1,2,tsaichien
+cda82f5dd89071caee991173f42048a7df42af5f,fbsource//xplat/js/react-native-github/packages/react-native/ReactAnd…,2025-05-10T00:19:14Z,1,4,generatedunixname89002005287564
+71ef0490653d83d8d8a694e555d56440a916fd90,Directly Trust Text Layout Width (#51206),2025-05-09T19:52:36Z,21,174,NickGerleman
+3a84d42aa18b4b089f5c33fabad13d97c9255990,Make `RetryableMountingLayerException` internal (#51171),2025-05-09T17:40:19Z,2,14,mateoguzmana
+cf428bde1ce98495dca2d2e4e8793664f6123260,Simplify StubViewTree creation (#51221),2025-05-09T15:36:44Z,2,4,javache
+35c96007ebca6262646c902d1b63a07e4304b710,Fix the `use` import on `DefaultStyleValuesUtil` (#51214),2025-05-09T15:24:52Z,1,1,cortinico
+0750b5f0401d6d32133b89b1969cefbac2ccaee5,Improve the error thrown when a bundle fails to load (#51070),2025-05-09T14:24:37Z,3,115,vzaidman
+54499d80075ad5752bb31648183e8036fc84c588,Ensure LogBox is disabled in Fantom tests (#51210),2025-05-09T14:11:24Z,3,83,rubennorte
+30363070a3c4c97912495b0517ca361f585cb279,Define Fantom specific initialization module (#51211),2025-05-09T14:11:24Z,39,94,rubennorte
+9494eee8684cf0f19924dba70c701779b7b8516c,Extract RN environment setup to a specific module (#51209),2025-05-09T14:11:24Z,3,74,rubennorte
+7e640b5dd399fba88456fbb1b432cf6a5d8a8c1d,Add additional test cases for error handling in Fantom event loop (#5…,2025-05-09T14:11:24Z,1,171,rubennorte
+8f722937ffe1fbf5ba85d295a4c962cfccf08a7a,Add `Package.swift` file to prebuild React native core (#51197),2025-05-09T10:19:47Z,3,690,chrfalch
+7a72037b37ca4574362e145cb1929147cfa4e6be,Revert D74291373: Ensure that ShadowNode measure functions respect co…,2025-05-09T08:45:16Z,4,30,yannickl
+435d2e84efb4b819f731e984d6c8e9c51e804f4a,Revert D74292949: Expose Unsnapped Dimensions,2025-05-09T08:45:16Z,5,40,yannickl
+f00fbaedbe2cd765e20f71c9557952d44e66accf,Revert D74361644: IntersectionObserver: Clean up shadow nodes after u…,2025-05-09T05:11:27Z,1,2,RSNara
+a55f430daa4c9168272482125998da849840f9dd,IntersectionObserver: Clean up shadow nodes after unobserve,2025-05-09T03:52:13Z,1,2,RSNara
+e6516f2d7ba3e384c72d0de53f5efaa5ffc341b6,IntersectionObserver: Migrate js infra to shadow node family (#51148),2025-05-09T03:52:13Z,8,184,RSNara
+a4be563935de67c2aac394a37ec2719a461b0df0,Migrate IntersectionObserverManager to shadow node family,2025-05-09T03:52:13Z,3,24,RSNara
+8ed5ccca623fd28acdc1e9499e32f74899e83498,Expose Unsnapped Dimensions (#51181),2025-05-09T00:45:16Z,5,40,NickGerleman
+99119a210487af18983145fd374ff7ebc88931f3,Fix TextLayoutManager MeasureMode Regression (#51183),2025-05-08T23:18:01Z,4,39,NickGerleman
+1c52eec2c6daa74af7a79e9d7239e2f666a64c6f,Ensure that ShadowNode measure functions respect constraints (#51180),2025-05-08T21:41:50Z,4,30,NickGerleman
+65544024b3be9cc1aab0fde1fdf60f8a7ccbbd53,Add script to prepare the .build folder to prebuild React Native with…,2025-05-08T19:59:49Z,3,185,chrfalch
+500f458e5dd7ba9b9ee973c2ff4e7319fa544ebe,Add utils script to create folders to prebuild React Native core (#51…,2025-05-08T19:59:49Z,1,29,chrfalch
+43bfb5da1110c95dcc5d893c02bdf919b4fb936f,building up to React Core (#50766),2025-05-08T19:59:49Z,1,89,chrfalch
+a21a4b87c337f3f2d998a30841430f587c066580,Allow fadingEdgeLength to be set independently on the start and end o…,2025-05-08T17:59:32Z,11,215,Mark Verlingieri
+536aa67817237872f3c15373425aa4d49c0e9545,Add getDiffProps for RawText component (#51179),2025-05-08T16:37:26Z,3,33,Nick Lefever
+0dbfcda6c6aac72bf657b57f1852ed74ce6281f9,Add getDiffProps for ScrollView component (#51168),2025-05-08T16:37:26Z,3,278,Nick Lefever
+4591bb2909b49d7d663bfd7bdc2a8eb68ceb4b9d,Add missing ScrollView props to ScrollProps (#51167),2025-05-08T16:37:26Z,2,37,Nick Lefever
+68baff1d67119834bde41b2ad717a5c9dd7c7614,Add getDiffProps for Unimplemented View component (#51166),2025-05-08T16:37:26Z,2,25,Nick Lefever
+73a03d5314e46fc89c9a19ad3c7f2770f1ac9065,Add getDiffProps for Image component (#51165),2025-05-08T16:37:26Z,3,165,Nick Lefever
+f3c289835fd1812f9142e6a3372a22effb112f55,Move imported types from `@react-native/assets-registry` and `@react-…,2025-05-08T16:07:42Z,3,95,coado
+14cea6e70e5c513eeed3f33b9879e3c5f8ee8305,migrate deprecated KEYCODE_BACK in Modal (#51097),2025-05-08T15:50:45Z,1,48,alanleedev
+bc876fb3b3d2b8da63413750b1966a779adc7996,migrate deprecated onBackPressed() (#51096),2025-05-08T15:50:45Z,2,50,alanleedev
+fd21570a3c395af3e03d2c231767a8b45ce1c0db,Attach @deprecated tag and doc block to ProgressBarAndroid (#51136),2025-05-08T15:14:32Z,1,6,coado
+090a8da0d1134e45ee544653dc2b1fa63cba3718,Kotlinify ReactInstanceManagerInspectorTarget + make internal (#51196),2025-05-08T14:47:57Z,3,157,fabriziocucci
+69fe957dcfb1a3046f95eb0c6fc5fd21e6f0dd68,Add transform that moves comments for default exported variable decla…,2025-05-08T14:07:02Z,3,154,coado
+1f795eb93dd5870c1bf56eac0a81f06b517e12e9,Validate that typegen script can run in action (#51189),2025-05-08T13:11:22Z,1,3,j-piasecki
+320231c6f94c5c9fed1b1a1b819dbfee4b647452,Narrow file set for no-commonjs-exports lint rule (#51191),2025-05-08T13:09:57Z,2,4,huntie
+be8595b18a46635bf679d8e7473f2960c33530fa,Exclude selectively disabled libraries from codegen generation (#51078),2025-05-08T11:38:29Z,2,67,ismarbesic
+04ab28fb7ef292662a27c978a3a8c74c42729cac,Kotlin: Clean up redundant constructs (2/n) (#51170),2025-05-08T10:53:33Z,22,82,mateoguzmana
+db18aac521d238e74893b2cd82f83d3cd452122f,hermes-engine should build with target Java version 17 (#51162),2025-05-08T10:17:16Z,1,5,cortinico
+f75c8f6f04651505140a2c45f3533c51236e696c,Add changelog for v0.80.0-rc.0 (#51152),2025-05-08T09:33:00Z,1,347,react-native-bot
+473e42bbc383fb01981bdfc7085ab923f0c786c0,fix(iOS): enable DEFINES_MODULE in `React-jsc` (#51160),2025-05-08T09:12:45Z,1,2,krozniata
+457f29f09c05c659db9acb2d72394ff3caeca17f,translation auto-update for batch 0/58 on master,2025-05-08T08:28:36Z,1,6,Intl Scheduler
+bbc1e121c71d14803d29a931f642bf8ea6ee2023,Allow Custom ReactNativeFeatureFlags for Shell 2.0 (#51177),2025-05-08T01:58:21Z,2,14,Maddie Lord
+a96aeab147d5441bc9d58a351ae3c91c2cb66744,use difftrain version of eslint-plugin-react-hooks,2025-05-07T21:57:36Z,1,3,kassens
+be60aed1b05d252361c1baa939acaaaa51741944,Allow links that are entire text views to be focusable when co-opted …,2025-05-07T21:46:39Z,1,3,joevilches
+1c312befd5ec42ba23cfc54798f9f437de94e3a4,add tests for some accessibility props (#51155),2025-05-07T20:02:18Z,4,533,sammy-SC
+1908b3dfac3f1c237ef6a2d8cb27c8edb791e3da,Kotlinify JavaScriptModuleRegistry (#51164),2025-05-07T17:34:14Z,3,204,fabriziocucci
+84253c4e2008460f18ea5d64f77a4b9ba634f12c,Add missing `ReplaceWith` on deprecations (#51144),2025-05-07T17:09:35Z,10,41,mateoguzmana
+cf9407041626685251cbc7f5a9803876c6362e5a,Unbreak build_android due to broken `StateReconciliationTest.cpp` (#5…,2025-05-07T15:49:39Z,1,4,cortinico
+130fb7fd30bc2cf5910fc31a445234aee63af642,Fix set-rn-version to account for codegen snapshot test files (#51157),2025-05-07T14:18:45Z,4,67,cipolleschi
+56b2690ecd9c0e22392392a6df242d6a6fd07d75,Fix creation of Draft release (#51159),2025-05-07T14:07:59Z,1,2,cipolleschi
+807dfb4a1bb2923018edee25f12e0b5cede2888f,Fix build codegen (#51130),2025-05-07T13:12:06Z,1,11,cipolleschi
+a3c9db61227b21418635f969e2e07af44944913b,Make `ReactQueueConfigurationImpl` internal (#51143),2025-05-07T12:21:37Z,2,16,mateoguzmana
+f81a721b57da3aae9b7949127407c5d406aec614,Make `DebugServerException` internal (#51140),2025-05-07T11:54:39Z,2,33,mateoguzmana
+12fb101e306778b6e5399b23f822cc0874a5c386,deprecate type aliases ShadowNode::Unshared and ShadowNode::Weak (#51…,2025-05-07T11:51:38Z,13,70,sammy-SC
+f4dd3addb66205502caa32984b0ad5875b6207d2,Remove force disable Fusebox flag (#51127),2025-05-07T11:26:06Z,1,6,huntie
+79c3b4c40933fe8500f3c9a172ce580bb87b677c,MutationObserver: switch from `ShadowNode` to `ShadowNodeFamily` to p…,2025-05-07T11:17:26Z,10,1599,rubennorte
+da56d57ac7ea4f3d2237f8af21d742524549ca0c,Refactor MutationObserver.disconnect (#51128),2025-05-07T11:17:26Z,1,36,rubennorte
+759652b09feb3154704ae0d9be852f4b0f7d30e7,Refactor existing native module into a general purpose native module …,2025-05-07T11:16:41Z,8,281,rubennorte
+12627f10b3da81cfc066152dba27ee4d74f11e45,Report PerformanceResourceTiming events (#51126),2025-05-07T10:49:56Z,10,204,huntie
+f9225635bf80dc1dd94ec05a65aa219f0fdbfdeb,Fix unresolved KDoc references (#51142),2025-05-07T10:31:30Z,13,81,mateoguzmana
+e48b496665588f11e6ed4f85650669538e2695e2,Update fabric-component type test to use namespaced types (#51120),2025-05-07T10:06:04Z,1,39,j-piasecki
+a254b5e69ec37b639c387c44f8d0f5f1fa1005db,Introduce ReactSoftExceptionLogger.CategoryMode to warn categories us…,2025-05-06T22:46:23Z,2,25,mdvacca
+d945c5863a5ed7b755e577bc25d681bfcc1c401b,IntersectionObserver: Switch from `ShadowNode` to `ShadowNodeFamily` …,2025-05-06T22:24:42Z,9,113,yungsters
+d94f4d8c9deef78c0345a7fd3de74424f864c080,Added decalaration for pressRetentionOffset prop to be recognised by …,2025-05-06T17:20:41Z,1,7,iamAbhi-916
+db0fa9200ed85aecd777ca656d95d619678faef2,Update Metro to ^0.82.3 (#51122),2025-05-06T16:29:30Z,5,214,robhogan
+4b06965b30ba50665214e4be812a8f4463510ec8,add fantom test for View.accessibilityRole (#51131),2025-05-06T16:17:49Z,2,30,sammy-SC
+93b8868c7762026665e862085b78ad1cacccc6ab,small changes to ctor of State and ConcreteState (#51118),2025-05-06T14:42:47Z,3,18,sammy-SC
+9bccd6c4ea461e2278c766c04eb64eb36205f8fb,"Explicitly exclude types_generated/ from ""exports"" (#51121)",2025-05-06T14:26:04Z,1,1,huntie
+c34987f0b5f419116e75c82eb2bcf9a2a3344e82,Remove redundant config value for @types/react-native (#51119),2025-05-06T13:49:27Z,1,2,huntie
+9010e691e098b310d56e019e543377bc4350baf2,Update transform types to preserve behavior in TypeScript (#51115),2025-05-06T13:21:15Z,2,135,j-piasecki
+5e612e6ecad60e7f0622964eeec20799e5cc397c,Fix suggesting components from types_generated directory (#51101),2025-05-06T13:01:19Z,2,11,coado
+a65744fd4ad74a2de5bb5f1705aabd2b7c11841d,Unify ref usages in TS type tests (#51117),2025-05-06T12:42:29Z,2,34,j-piasecki
+ef6f2fb32d268b7138b88bc504842a603e15624b,Create granite.target_platform for RN overrides (#51076),2025-05-06T10:38:22Z,1,2,javache
+3ac16dd6a82e7cc8799aa94e5073c2f5283a5cb9,replaced use of rsync with cp in prebuild scripts (#51095),2025-05-06T09:19:54Z,1,5,chrfalch
+3ad0b8244a787d63c0eea4d0bf7f45902e7aa0b7,Throw if getCatalystInstance() is executed when running on bridgless …,2025-05-06T06:53:10Z,1,5,mdvacca
+a02052d37f44498db3bf75fb74ac85cba914c539,Mark BridgelessCatalystInstance as LegacyArchitecture and remove DoNo…,2025-05-06T06:53:10Z,1,12,mdvacca
+e69e35e370a7751d258905e3348fd2b0bb2e93c1,Fantom: Create Shadow Node Reference Counter (#51088),2025-05-06T06:43:41Z,4,288,yungsters
+f85b30b24b30bfaf84d9b604554a8bdf2a1e615a,Underpinnings for Caching Text Layouts (#51065),2025-05-05T23:48:16Z,30,589,NickGerleman
+2562440385a4e2747df8f3bfb734a5c86976f514,Construct FBImagePerfImageInfo and pass to completion handler from wi…,2025-05-05T23:37:56Z,1,2,Aaron Coplan
+43c9a609deb1b769c51751d61904a5d80f0bd05a,Update loadImageURL signature in RCTImageURLLoader to include metadat…,2025-05-05T23:37:56Z,2,100,Aaron Coplan
+e565c662d7550b143930bf2e646a749bcaea026a,Assume full container width when ellipsizing line (#51108),2025-05-05T22:47:10Z,1,16,NickGerleman
+f1e7bbb88bf96725e42ec69eb61f29ec47c4272b,"Fix ""detected text"" annoucement (#51106)",2025-05-05T19:58:18Z,1,33,joevilches
+f4936894f0c034fd4a6cb6c952f36e4d50d0d930,Miscellaneous lint fixes (#51099),2025-05-05T16:48:46Z,1,2,robhogan
+d9823d80bb7dafc4bd1e730468132bcff22cf747,Delete ShadowTreeRevision on background thread (#50997),2025-05-05T14:44:02Z,29,428,rozele
+8d08845cdabfa32d10311c52c46463fbac085b10,Root export `PublicRootInstance` and `PublicTextInstance` for `ReactN…,2025-05-05T10:24:02Z,3,59,coado
+271232d85654cee32322b1c8a3a39ef647ad02e2,"Make call frames point to function definition, not callsite (#51084)",2025-05-05T09:20:58Z,1,13,hoxyq
+69f9a9a0292d59c8a74d72dc4f93782908ea2fae,Add status bar offset to New App Screen on Android (#51091),2025-05-04T20:07:52Z,1,9,huntie
+93f22e79d44db733e65eb9f5b9bcb2ed40ba4352,"community-cli-plugin: Use `TerminalReporter` type from `metro`, repla…",2025-05-04T16:57:57Z,5,14,robhogan
+5eed872463c9eadcf72291d5698e7186eb568e27,Split Java TextLayoutManager Logic (#51066),2025-05-03T06:22:09Z,1,242,NickGerleman
+989b3f61a070c68f30d36036925f54cb081da49e,Fix clipToPaddingBox on new Background and Border drawable (#51055),2025-05-03T02:00:28Z,1,9,jorge-cab
+d45c0419aca95d5fda93c7ff917f21c8212f3886,Revert D73922341: Report PerformanceResourceTiming events,2025-05-02T21:42:24Z,10,204,Jiawei Lü
+e00028f6bb6c19de861f9a25f377295755f3671b,Clean up useEditTextStockAndroidFocusBehavior feature flag (#51039),2025-05-02T20:21:27Z,22,219,joevilches
+6fa1864d52fc47c37aeb5e0f99d972dee92f6ede,Make `ModuleDataCleaner` internal (#51060),2025-05-02T19:51:13Z,2,17,mateoguzmana
+f4d99d6a23a08c2ef2c2fff78dc966961608683b,Reland: [rn][ios] Bridgeless: Fix unstable_hasComponent (#51053),2025-05-02T19:27:58Z,2,73,RSNara
+c514333f4147ddbbc446b8aac5e526a5688baa1a,Apply fixup patch to fbsource,2025-05-02T19:24:24Z,5,20,generatedunixname499836121
+3f62d001fd6110867e331eccc390989d2129a79f,Update error message for non-registered ViewManagers (#51067),2025-05-02T19:22:32Z,1,5,mdvacca
+8c231b7d811774fc227f5bc853aff256471d89fc,Document logic implemented in ComponentDescriptorRegistry when a comp…,2025-05-02T19:22:32Z,1,9,mdvacca
+5ae6f6be25becd9674538df20e62b700155e0d01,Cleanup and document ReactUnimplementedView (#51063),2025-05-02T19:22:32Z,2,31,mdvacca
+809372c49e7a6da6420475b030b0aa972a5bf193,Make `EventBeatManager` internal (#51057),2025-05-02T18:55:01Z,2,9,mateoguzmana
+78dbbaafdd4a732f6cbb1525816b38a51adcf1cf,Support collections dsl (#51042),2025-05-02T18:02:52Z,7,324,l2hyunwoo
+2590438b6707233357361f9fe670067f5073f0f6,Minor cleanup of AbstractLayoutAnimationTest (#51079),2025-05-02T17:21:57Z,1,13,cortinico
+ec38728c7511192315151e5da503ad45a0f3399e,Report PerformanceResourceTiming events (#51025),2025-05-02T15:14:40Z,10,204,huntie
+6b304bc55123b8e7e4129e4668a042522a9a1c99,Fix missing podspec dependency in RCTNetwork (#51071),2025-05-02T15:14:40Z,2,147,huntie
+58a9046978ea6feff136961efdd60e4e5bcfd4f6,Improve cleanup script for ios (#51046),2025-05-02T11:21:12Z,1,2,cipolleschi
+5d98f6f3643e3b305e4acc259ea53d68838cf296,Kotlin: Clean up redundant constructs (#51061),2025-05-02T10:59:22Z,30,95,mateoguzmana
+c6685d29add53ea215612d615e587f9aeda36bce,Fix RNTester SampleLegacyModule not rendering in Old Arch (#51073),2025-05-02T10:59:10Z,1,56,cortinico
+506f03b5e1e90741ef3499044fd71f08305d2c0f,Make `ShareModule` internal (#51059),2025-05-02T09:18:47Z,2,21,mateoguzmana
+e1632da01c0a63ea6b5ca9ecd5a431de741b37ac,Gate network event reporting with feature flag (#51050),2025-05-02T06:19:29Z,1,23,huntie
+c4a2cb9d90f01ce9e23ceafc61cc56795b575e06,Make `JSResponderHandler` internal (#51058),2025-05-02T05:45:33Z,2,13,mateoguzmana
+195b723d743f931907fabb955b68696231654443,"Refactor performanceNow call, remove cxxreact dependency (#51024)",2025-05-02T05:40:39Z,3,12,huntie
+baf895c23934b432bc0de508ea9f0d3dfcd798d2,Add internal support for PerformanceResourceTiming (#50996),2025-05-02T05:40:39Z,9,72,huntie
+1135f10e05820cf20d2cd77e3a88dc4b921e0370,Refactor PerformanceEntry as std::variant (#50995),2025-05-02T05:40:39Z,14,599,huntie
+e6870c68f9f55a1cd2104c20f848b7249ef099c4,Limit request body size for Network.requestWillBeSent (#51026),2025-05-02T04:46:36Z,1,18,huntie
+04f0e66a6bf45200771c264368a637a7e9ca7ca7,Avoid accessing the MainBundle multiple times (#51044),2025-05-02T03:22:50Z,1,6,cipolleschi
+21bf7cf6cf043de323c40edc001add4cd21256ce,remove ATOMIC_VAR_INIT,2025-05-02T02:16:54Z,1,2,rmaz
+e4b6b346bc918b15f8cab519ac4cbef9e9af3ce6,Remove ENABLE_MEASURE_LOGGING (#51064),2025-05-02T01:13:39Z,1,26,NickGerleman
+b1367eeb81078605a39959c49568b00fae7ea8e1,Resubmit: Incorporate maxLines and ellipsization into text layout (#5…,2025-05-02T01:13:39Z,23,231,NickGerleman
+0c58ccf501c1478242c28122bdc87bcd7389e56b,Call Java AudioModule from C++ TM to play audio (#51037),2025-05-01T21:22:10Z,2,6,zeyap
+b406c0a37e9d1950f5ab1e16bdf2d366606f1c0b,Add changelog entry for 0.79.2 (#51054),2025-05-01T19:45:39Z,1,11,fabriziocucci
+b731ea3d3f5ab53cb0360c5bd90a87fa9fe91440,Internalise RNTester examples referencing unexported APIs (#51019),2025-05-01T16:58:30Z,14,1523,huntie
+ba5acdba831d21890f0ad8b5cdaafcf526c31a6b,Introduce enableNetworkEventReporting and enableResourceTimingAPI fea…,2025-05-01T14:00:52Z,20,314,huntie
+07073fbac832633bf1985ce199067aa7bf8a6035,Override `useShadowNodeStateOnClone` for OSS (#51041),2025-05-01T12:48:52Z,2,5,Nick Lefever
+e1d22857916a2b9458368f400755b720f6ea8ed3,Do not access to main bundle when running in prod (#51043),2025-05-01T11:48:55Z,1,4,cipolleschi
+773ba66c64bb0d2b9ff4a35d64bd3a33ac8a769b,Cleanup unnecessary unsafe dereferences in BlobModule (#51016),2025-05-01T11:07:30Z,1,48,javache
+81f3f091aed28ca0176a1a9aed119b63ce8505e3,Make `ReactModalHostManager` internal (#51002),2025-05-01T09:23:01Z,2,89,mateoguzmana
+69f41ca367879ff4fab4ce051ab7b308b3e5018c,a11y] Let links discovered by dataDetectorType be accessible (#50914),2025-05-01T08:52:46Z,3,30,joevilches
+70aced5eb17c48e6b7201377e6068cf6558c7460,Let LinkMovementMethod take precedence over accessibility delegate wh…,2025-05-01T08:52:46Z,1,12,joevilches
+0f5eeb6970a4696fb7baefbacd242c7422aac45c,Use correct scriptId (#51030),2025-05-01T07:22:44Z,1,2,hoxyq
+0b6ed6c7d5da08179e43e52f984615f014693028,Define range for iteration over samples and call stack frames (#51029),2025-05-01T07:22:44Z,1,14,hoxyq
+a5f2acde203ee4be1cf1c92235bdc75b4ab49531,Avoid heap allocations when serializing sampling profile (#51028),2025-05-01T07:22:44Z,4,275,hoxyq
+c09340e73ee52ee10964b0bdf9d1dbde85733746,"Use std::variant, remove heap allocations (#50847)",2025-05-01T07:22:44Z,1,199,hoxyq
+88a04c530ecfa247b65f5866aa3a0e5482674afe,Pre-suppress errors related to `Object.assign`,2025-05-01T02:44:58Z,10,13,SamChou19815
+025f2d931e8dbb0e958316fc065c44134d26a030,"Back out ""Incorporate maxLines and ellipsization into text layout"" (#…",2025-05-01T00:45:25Z,23,229,NickGerleman
+4d8eeb34f9dca9eca2eea142a0d730ea8f71b86d,Allow accessibilityOrder to reference itself (#51004),2025-04-30T22:33:35Z,5,195,joevilches
+62742e21c9ddaadbaca292024fd164e1c941d6e0,getShadowNodeClass() impl in PreparedLayoutTextViewManager (#50925),2025-04-30T22:08:53Z,1,5,joevilches
+b40157e75802ce535945499b93d008cfa88867dc,Make `FabricEventEmitter` internal (#51001),2025-04-30T19:33:28Z,2,18,mateoguzmana
+ae2773f231962c35f6ad9684a8c2d88caf410933,Make AccessibilityOrder also include the host view (#51027),2025-04-30T18:54:09Z,1,6,jorge-cab
+2d3285ab603878ad46a288627027802ef7ed8ebd,Bump Xcode to version 16.2 (#51014),2025-04-30T16:49:42Z,9,46,cipolleschi
+96832873197f7ea9f2451b40eed8e25f44826ad9,Bump maestro to 1.40 (#51022),2025-04-30T16:25:34Z,2,4,cipolleschi
+c232148e74902fa46fe2f72f0dbb63562ce8e0dc,fbsource//xplat/js/react-native-github/packages/react-native/ReactAnd…,2025-04-30T16:07:19Z,1,6,generatedunixname89002005287564
+8de401c62520fc0ef83e820b62e15714dc793b45,Make ResourceDrawableIdHelper an object (#51013),2025-04-30T15:53:59Z,5,65,javache
+16bfb2f87abe4f6388c51fbb775528511f71d36e,Fixup tests for ReactHostImpl Kotlin migration (#51012),2025-04-30T15:53:59Z,2,26,javache
+f53d066d26352e6abfdf2f727ea06425ea163039,Support minimumFontScale in paragraphAttributes (#50933),2025-04-30T12:30:19Z,4,24,anupriya13
+0abd5d63e1c0c4708f81bd698e6d011fa75f01e5,"Back out ""Migrate ReactActivity"" (#50998)",2025-04-30T04:50:25Z,6,314,cortinico
+79d3cb7e1ecd93c009cfc62319cd02761b5bd05b,Make `EventEmitterWrapper` internal (#51003),2025-04-30T02:16:31Z,2,21,mateoguzmana
+e43c5db84b3ddf5bb34022ec00f8e41f74fb7c67,Spannable -> Spanned (#51006),2025-04-30T01:45:58Z,2,14,NickGerleman
+746275ff14c1068d315e9aadde937c06aac4b32f,Incorporate maxLines and ellipsization into text layout (#51007),2025-04-30T01:45:58Z,23,229,NickGerleman
+6f0a0a5c2c7d678646be5af9a3c4ccf1ba9c9804,Correctly Pass SurfaceID to TextLayoutManager (#51005),2025-04-30T01:45:58Z,6,51,NickGerleman
+2e42eab6df0a44e9effb16c2b909ac801eedae9a,Platform specific TextLayoutManager Headers (#50889),2025-04-30T01:45:58Z,7,272,NickGerleman
+2efe8094c0d4251213b5305ddaba11aaf76bfd56,Include offset as separate field in payloads (#50970),2025-04-30T00:03:44Z,13,94,Martin Booth
+1c5ec4bd35082a1a0f310692228e74b56c69f542,introduce more tests for edge cases for view culling (#51000),2025-04-29T21:57:08Z,1,486,sammy-SC
+0a5b21c44c8f527bf5c1cc0d678f6da47f04f94c,Setup feature flag to fix double measurement of android components (#…,2025-04-29T20:50:57Z,20,220,mdvacca
+996630b5b5abcb07dc2e8f90a62e4d0d8be73fef,Avoid copying samples list when serializing (#50985),2025-04-29T19:03:11Z,1,2,hoxyq
+b08f87aa906ee9c769ec0d39aa63de5e00760046,TraceEventProfile as plain data structs (#50984),2025-04-29T19:03:11Z,4,144,hoxyq
+78e45e5828d55ad0b48821df13872113fa71f3be,Deploy 0.269.1 to xplat (#50993),2025-04-29T17:24:21Z,3,12,Alex Taylor (alta)
+6dc4da466a302e2a1afe5455ccc65e4f70553014,Refactor event dispatching logic to improve readability and performan…,2025-04-29T17:13:09Z,1,10,rubennorte
+030ca3c54301bd35c8060dc386fa5f76eb16fcef,Fix bug when dispatching unique and non-unique events of the same typ…,2025-04-29T17:13:09Z,4,38,rubennorte
+ab543d1ab107ffcd8db2eedab2af4df80e6ee0ce,Add isUnique option in RawEvent and refactor EventQueue to use it (#5…,2025-04-29T17:13:09Z,3,62,rubennorte
+41de764c83d2c5e4237a6e144b8b0a55a4380d41,Add Fantom test for Fabric event dispatching (#50989),2025-04-29T17:13:09Z,1,548,rubennorte
+524afb4c2a1c05d7c3fc401e7166f5ba2da962b3,Expose event priorities in Fantom and JS (#50986),2025-04-29T17:13:09Z,4,23,rubennorte
+761b15888df3b0f47b84a2e29a330165bc7a9492,Migrate ViewGroupManager to kotlin (#50895),2025-04-29T16:47:33Z,3,213,riteshshukla04
+9a448736c15e4aaf8b7a6c428f810f81f0c7fdba,Fix E2E tests for template (#50990),2025-04-29T16:14:11Z,1,2,cipolleschi
+91829bef5a047d4c1ff75249bef8249fe6ac948f,Integrate sending notification to discord (#50979),2025-04-29T15:57:30Z,5,341,cipolleschi
+868ec3db86534253833dff5f78b5dcf0ee2d7139,fix crash when host pause called and mCurrentActivity is null (#50992),2025-04-29T15:53:09Z,1,4,Lenny Karunungan
+0968707ef7be95d7f797fbc4544f4f2cf0fce7c7,"Create src/fb_internal/ directory, initially migrate VirtualView (#50…",2025-04-29T14:52:24Z,2,4,huntie
+d2556c3cbd855ed987fb27ef9489886f62cd8f4b,Update exports field to include the types entry (#50974),2025-04-29T14:37:39Z,1,2,j-piasecki
+46ddb604d93297689324e06fbcbf55c910f5976b,Update Metro dependencies to 0.82.2 (#50977),2025-04-29T13:25:22Z,5,241,huntie
+7959a63a1a18c2f45ea8674e3b08a164e6301029,Migrate `rn-tester` codegen types imports to use root exported `Codeg…,2025-04-29T13:06:16Z,3,44,coado
+9666a68977bcb20a1cbfe62c3271369da3207ce6,Attach docs in AnimatedExports (#50975),2025-04-29T12:05:37Z,2,247,coado
+f882206bc9ea212d01c30b9e922b10dc412a4098,Fix typo in ScrollView.d.ts (#50978),2025-04-29T11:01:37Z,1,2,cortinico
+e486fda106e79b3214b6cb1fe5924999a75e842f,Check feature flags for a11yOrder iff prop exists (#50967),2025-04-28T21:39:31Z,1,4,joevilches
+3e3094c3dd57a83e167ffd163093c41f4cf6d8c5,Sync offset value to native immediately (#50941),2025-04-28T21:06:44Z,2,42,Martin Booth
+4ce093154d8fe130fca1f8da57067a666171db7f,Add `screenReaderFocusable` prop (#50850),2025-04-28T19:11:04Z,11,44,jorge-cab
+99c3aa38619e7a67451ae20756979aa0ebb117d5,"Add ""./scripts/*"" exports subpath (#50966)",2025-04-28T18:41:50Z,1,1,huntie
+fd8a3456cac72634cc149904e157e07257dbf364,Add `accessibilityRespondsToUserInteraction` prop (#50837),2025-04-28T18:15:35Z,7,34,jorge-cab
+1cfb46b63b6d553bf4d32f846a320ad1446c5c72,Override `updateRuntimeShadowNodeReferencesOnCommit` for OSS (#50962),2025-04-28T17:55:07Z,2,5,cipolleschi
+4d7c4bd6e8bf79f069970ca4f54ae3f4c92b80e0,Fix ImageSource require (#50963),2025-04-28T17:30:21Z,4,14,jakex7
+6ea24f7bb90829f0806210252dfce50ecee5666d,"Define ""react-native-strict-api"" type exports (#50909)",2025-04-28T17:00:39Z,2,40,huntie
+1d8fec19f06cd392cfef64c35020ac61e78626f8,Fix all active ESLint warnings (#50964),2025-04-28T16:31:46Z,9,11,huntie
+93efaeb241fcf037b22a92b127d5ffd9fe8bde0c,refactor: rewrite Inspector from Java to Kotlin (#50947),2025-04-28T16:20:56Z,3,216,Vin-Xi
+0e963aaa54a0324b20795069bdf112e801ca2f62,Gradle to 8.14 (#50960),2025-04-28T15:01:08Z,12,45,cortinico
+ddcab831b1a97254360c8dd867b101b16584ee63,Migrate already root exported deep imports in rn-tester. (#50958),2025-04-28T14:24:46Z,56,162,coado
+e162fba41366e3fedfd27ed9a8f2689486e67b13,Update interruptible rendering test to use feature flag to fix React<…,2025-04-28T13:55:25Z,1,5,rubennorte
+9ae7f7fcc15465c8704f04868bde754fbc5bbb01,Refactor InterruptibleRendering Fantom test to use dispatchNativeEven…,2025-04-28T13:55:25Z,2,52,rubennorte
+a120c5c4dbd37f82ac06c3b3d30ab4636691b090,Ignore warnings for imports from `react-native/Libraries/Core/Initial…,2025-04-28T12:32:11Z,4,51,coado
+7a919d69669b27d3cd321010e85d20313e117f61,Fix EXC_BAD_ACCESS within RCTInspectorNetworkReporter (#50952),2025-04-28T11:55:05Z,1,6,Sanjay Thakur
+9345c88a619f36537e25cf28b79d2c01cd40f780,Implement LegacyArchitecture warning for ShadowNode measure() (#50932),2025-04-28T11:28:06Z,8,109,cortinico
+3cf01020071c76f40499878674cc7aaf5dbe168a,Redesign New App Screen and move to package (#50939),2025-04-28T11:17:21Z,25,1055,huntie
+1b4a6ec1cae837fe85e2c1c3ba63e8cddc99c070,fix(CI): run monitor-new-issues only in the main repo (#50951),2025-04-28T10:22:04Z,1,1,okwasniewski
+403feb9bc25226120daf1daa1ec401b263b7e833,Migrate ReactActivity (#50871),2025-04-28T08:53:11Z,6,314,rshest
+29cc2357e256aaa0e68bfaf7f155dd3b675f2cee,Remove unused com.facebook.react.bridge.MemoryPressure class (#50924),2025-04-28T08:23:25Z,2,26,mateoguzmana
+9efcdc091c81c6ae6118ed78791096ca07fe0140,Calling setOffset actually calls setAnimatedNodeOffset currently (#50…,2025-04-28T00:52:17Z,1,2,Martin Booth
+eb2f6b1ae5a5693482c3a41ea590e576587f3af2,Fix RemoveClipped subviews algorithm,2025-04-27T00:35:22Z,1,2,jorge-cab
+319ba0afd2f694bc70a20250f0b8c79a06a36dc6,"Define ""exports"" field on main package (#50872)",2025-04-25T22:40:14Z,2,31,huntie
+9526406fc24ed0df10c63c54869814a26d69ece0,Fix crash with nested FlatLists and fix edge case with nested views (…,2025-04-25T20:01:31Z,30,453,jorge-cab
+0f55ef7754109c68a0bd10d958d8c81ead5e42e2,Replace hsr_core dependency for react profiling with hz_tracing depen…,2025-04-25T18:31:43Z,1,18,metaadrianstone
+dfa3a9575a90e2cef54b4276a67795a0cdad8d73,Remove usages of ShadowNodes by fully releasing disableShadowNodeOnNe…,2025-04-25T17:29:33Z,21,236,mdvacca
+6520db2868f1f8e3e62cc5d22b632ee6ff4e0ac4,Fix RNTester running in the old architecture (#50940),2025-04-25T16:53:38Z,1,3,cipolleschi
+248930887164b7669c53fb3e0007f443b78fcf2a,Improve pattern to access host instances in tests (#50938),2025-04-25T16:22:02Z,14,2010,rubennorte
+12b4a0f4f3792a39076447066a6d6da62dff8f8a,"Back out ""Bridgeless: Fix unstable_hasComponent"" (#50937)",2025-04-25T15:44:10Z,2,72,sammy-SC
+0ad9de86d14a63175029e036af297beaa3b6c743,Removing internal ModalHostShadowNode and ModalHostHelper classes (#5…,2025-04-25T15:20:51Z,2,96,cortinico
+465469e92cf91ab6fae85acf088388d857679a03,Cleanup LegacyArchitectureLogger.OSS_LEGACY_WARNINGS_ENABLED (#50931),2025-04-25T14:49:59Z,2,23,cortinico
+1c920d305d3caf1b4fde4cde6e802e72bc8e726e,RNTester - Do not explicitely enable `legacyWarningsEnabled` (#50930),2025-04-25T14:49:59Z,2,4,cortinico
+5a476e94beccc1d3449bae6b838f3e12692230e1,RNGP - Ignore the `legacyWarningsEnabled` property if provided (#50929),2025-04-25T14:49:59Z,5,22,cortinico
+8b0635bd15ccb39d21fb142f0b0193300da0f13a,Make `MeasureUtil` internal (#50918),2025-04-25T13:56:11Z,2,9,mateoguzmana
+8a8737af62d65a5d5f184ce29677c08c79a54f31,feat: add support for numeric font weight values in shadow tree (#50901),2025-04-25T13:52:11Z,1,31,jpudysz
+aa8c072870f6f9740e567a0f455c0e500ff1400c,Fix Switch broken as controlled component (#50928),2025-04-25T13:13:11Z,1,12,javache
+de165a2cfdb9967ae99237d8c9519cc2dd232855,refactor: Rewrite JSBundleLoader from Java to Kotlin (#50911),2025-04-25T12:23:43Z,3,217,yogeshpaliyal
+0c8f3aca0e518c25d0395aa0c014f7e489310ca7,incorporate feedback to Fantom's user guide (#50899),2025-04-25T11:54:58Z,1,50,sammy-SC
+4207f9951fda27948cd5e5cfc555f21df39eb018,Make `DrawerStateChangedEvent` internal (#50917),2025-04-25T10:31:05Z,2,29,mateoguzmana
+7dea1d734ea2189000dcbde3aaf02a20abda309d,Make `ReactInterceptingViewGroup` and `OnInterceptTouchEventListener`…,2025-04-25T10:02:46Z,3,16,mateoguzmana
+906474a709cede33650bc1e506aa3aec15007491,Annotate Interop Event APIs (#50927),2025-04-25T05:06:30Z,6,18,mdvacca
+7e4ec7d8d3325802df18d6efa38d06a8acf05ba7,Mark NativeModule interop classes with InteropLegacyArchitecture (#50…,2025-04-25T05:06:30Z,3,12,mdvacca
+a7b0619846ad4e25626e90e698f40a077a768f46,Introduce InteropLegacyArchitecture annotation (#50906),2025-04-25T05:06:30Z,1,16,mdvacca
+01cc16bbfe323b1e53d3126fbf6496b15f087429,Extract TextLayoutManager::baseline() (#50888),2025-04-25T03:10:57Z,6,55,NickGerleman
+eb459a9f423da74ebeec97e091a4ba57524a187d,Platform specific PargraphState (#50890),2025-04-25T03:10:57Z,8,87,NickGerleman
+fcb3ef3f76923526ce918ad46970da368e983609,Add unit tests for Radial Gradient and fix typo on conversion.h (#50835),2025-04-25T00:27:52Z,2,15,jorge-cab
+fd126b36b7fb18c2be5233d223d7b818419c628d,PreparedLayoutTextViewManager (#50923),2025-04-25T00:20:03Z,2,221,NickGerleman
+6465cb1b0b97bc856085c6f845e68ec0afcc628b,PreparedLayoutTextView (#50922),2025-04-25T00:20:03Z,2,420,NickGerleman
+75a01c37ae040f050778406c0cb1200b3e6dc993,Add unstable `ReferenceStateWrapper` API (#50921),2025-04-25T00:20:03Z,6,55,NickGerleman
+9f941c50c970e35ac6fcfa11848d1f7f5a0a9323,Make StateWrapperImpl Internal (#50920),2025-04-25T00:20:03Z,2,11,NickGerleman
+dd52b4e2126708447d02b12671a923165243206f,Update Fantom tests to use scrollTo (#50912),2025-04-24T22:03:31Z,1,207,lunaleaps
+87c54a7ebab5530de4cec359440d2c5945244e07,fix fetch of content scheme urls failing on Android (#50122),2025-04-24T19:39:58Z,7,189,giantslogik
+ac8b01fb6f27353d0bb59fa94aca523bfaff1c71,Fix OSS build error in JavaModuleWrapper (#50905),2025-04-24T18:41:11Z,1,7,javache
+49ea9d80b883b50d242908bb47881b2680302291,Support headers [crossOrigin and referralPolicy] in Image without src…,2025-04-24T18:10:59Z,1,6,anupriya13
+0e11e6a28bf3a12e30b5c6a7e93f3a5653888375,Sync React 19.1 into React Native OSS (#50865),2025-04-24T17:15:42Z,17,52628,cipolleschi
+e4bf88a0765c765e27236199d8138233c4590047,AGP to 8.9.2 (#50900),2025-04-24T16:44:26Z,2,4,cortinico
+4cc9db1cd501b019e90bb540ce836e2a2c2bf2ff,Fix disappearing redbox on initial load of an invalid bundle. (#50867),2025-04-24T15:54:09Z,1,1,aleqsio
+3e14d1638cf4be771f8a5e707c0fe8395a6dd1af,Add babel plugin to `@react-native/babel-preset` for `console.warn` i…,2025-04-24T15:04:21Z,4,309,coado
+bef5cc100771c3b8bc5dffa565b7c24fef3eb34d,fix: build proper hermes for all debug variants (#50897),2025-04-24T13:15:42Z,1,4,WoLewicki
+51091d434a789615a3642692767f23329bd08a2e,add a view culling test case when for reparenting a culled grand (#50…,2025-04-24T12:32:48Z,2,166,sammy-SC
+d8fe0d2ee28cc5739134f01879bc197d51f7a09c,simplify parent-child flattening-unflattening (#50893),2025-04-24T12:32:48Z,1,37,sammy-SC
+94fed5facc605a226144281b6954bea9eb818d0a,Flip mockito usages to mockito-kotlin (#50878),2025-04-24T12:21:57Z,13,195,mateoguzmana
+79d3eea0b72fc50dab44135d502be2fb39128520,refactor: Rewrite JavaModuleWrapper from Java to Kotlin (#50882),2025-04-24T11:58:43Z,3,301,drrefactor
+c443bc18f54625d48046d2278cec5e5c7b31bf5e,clean up removeTurboModuleManagerDelegateMutex feature flag (#50891),2025-04-24T11:23:42Z,21,195,sammy-SC
+fc55cc3318b2e7a48814cd7b4915a680cf35b342,Simplify InteropModuleRegistry API (#50863),2025-04-24T10:20:12Z,5,52,javache
+22f2247a966257456f169c75b8508ac51f2c73e3,Migrate ReactInstanceProcessedErrorConverter to Kotlin (#50870),2025-04-24T10:03:06Z,6,288,javache
+12147e3bee782a73c1560593912ad706d2262b0c,TypeScript: Replace deprecated React.ElementRef usages to React.Compo…,2025-04-24T10:02:27Z,3,10,mateoguzmana
+4e679a22e7b36ed41c6146243de2f4ad36dc7f69,group reparenting tests for view culling together (#50886),2025-04-24T03:21:49Z,1,1230,sammy-SC
+6f345cb852a63bbd095872b2b91898824965a035,add a test for view culling where during reparenting a view is culled…,2025-04-24T03:21:49Z,2,144,sammy-SC
+f51d6ec9ff78f55c4b45800efe55203d8d6cf3c5,fix bug in reparenting where wrong parentTag is used in differentiato…,2025-04-24T03:21:49Z,2,63,sammy-SC
+d28d4c5ff8be54f45f8f327f00aa7581f997d795,Rename Codegen Component Descriptors Entrypoint for FAC and hook it u…,2025-04-23T23:56:45Z,2,14,arushikesarwani94
+5ec00097b6712897f8f456d63fc2459439e1dfd7,Add pan gesture animation examples to rntester (#50851),2025-04-23T23:41:46Z,2,258,zeyap
+42251ec0eddaf42d0a89caeb75a92ef34c517a95,Fix Non-uniform border colors on TextInput (#50880),2025-04-23T22:26:04Z,1,2,NickGerleman
+cf9514e54904e751ad5c0fd8fda102107abcddc7,Fix ReactTextAnchorViewManager Nullability (#50879),2025-04-23T22:26:04Z,3,54,NickGerleman
+1156c08ac4d1fd9f782c87864d63c3f152f93734,Move shadow node reference updates to tree commit (#50753),2025-04-23T21:55:23Z,2,13,Nick Lefever
+2080fd81f9fd632371fa15c76d0e0fb578bc2919,Split shadow node reference setter and update functionality (#50752),2025-04-23T21:55:23Z,2,17,Nick Lefever
+ee215800d7efa9a82b4d2895890a27200128c6ec,Fix backgroundImage on new Background Drawable (#50877),2025-04-23T21:13:05Z,1,2,jorge-cab
+4d44273672b157f4116c8d2885dfbda3decf70bc,Temporarily revert removal of ShadowNodes (#50876),2025-04-23T20:54:09Z,21,236,mdvacca
+93f12eb71d20feb0d7b96758df6c53b0277032f5,Add prop to filter drag and drop pasting on iOS (#50533),2025-04-23T20:13:17Z,15,231,Abbondanzo
+d10dd7130ccc61c3f183f96edb8fec1279ec8a9a,Add prop to filter drag and drop pasting on Android (#49446),2025-04-23T20:13:17Z,8,70,Abbondanzo
+3b17cdb6435dcb975685672be0d29d2f73bf368f,Add back the folly_compiler_flags for backward compatibility (#50875),2025-04-23T19:15:49Z,1,6,cipolleschi
+3f41fe29488bbcf4fba620b18cace90de737c197,Make fmt and SocketRocket compatible with Swift (#50874),2025-04-23T19:07:20Z,3,148,cipolleschi
+b9b61f002ccce4164f755b5f45ae966781503fc5,Tweak SoftError tags (#50862),2025-04-23T17:31:50Z,5,8,javache
+dc494bb34168fa09be0e9ac0c1dd8037fca192ef,Revert [RN][JS Stable API] Limit @react-native/virtualized-lists subp…,2025-04-23T17:20:06Z,3,32,iwoplaza
+96b66040379f582329c8af50740a5e920a84e990,chore: update license-docs link (#50868),2025-04-23T16:33:43Z,1,3,bornkiss
+ec43150b2a8db3a93137ae69ac414859a2fff73e,Disable react-native-maps for nightlies (#50873),2025-04-23T15:14:36Z,1,4,cipolleschi
+e25e4258a0ac2aa24bc9154a13bc80d213bb60ea,Make `JSStackTrace` internal (#50792),2025-04-23T13:14:20Z,2,21,mateoguzmana
+41b17504bff606a3f822f2c888ec31fcccbc10e3,Make `DrawerSlideEvent` internal (#50791),2025-04-23T12:38:35Z,2,26,mateoguzmana
+d40b4c660bf6fa6ead8ea32441a0fd21597d0344,add view culling tests when flattetning and deleting a subtree (#50860),2025-04-23T12:01:25Z,2,72,sammy-SC
+e0b1b63c3feb0d414cb299607c7262a7db57da90,add view culling test when unflattening a subtree (#50852),2025-04-23T12:01:25Z,2,85,sammy-SC
+8b11970adb7d09bc9a4be78cfaee04cb7e084177,accept Settings.Global.TRANSITION_ANIMATION_SCALE with a comma decima…,2025-04-23T11:45:01Z,1,16,vzaidman
+5ed486cc8fb4aeef12c92a04619cc668427eee75,Text: fix `selectable` prop not working correctly on initial render (…,2025-04-23T09:21:52Z,1,11,mateoguzmana
+45160b64af9452d007cb32c0763c5ae252a6371f,add test describing React commit overriding values set by setNativePr…,2025-04-23T07:08:06Z,1,57,sammy-SC
+e89d2681ee80278837b1be0f38b4e1e02c335911,write a test for setNativeProps+props update (#50849),2025-04-23T01:18:43Z,2,78,sammy-SC
+3af8d9544191e7cd8681240ff370c9c79569e8ac,Revert D73114782: Fix keyboard navigation for FlatList with `removeCl…,2025-04-23T00:15:59Z,7,199,jorge-cab
+aa98b8589bcbd4823774b5fd658372ede0d134f5,Run swift-format OrderedImports rule across fbsource [58] (#50853),2025-04-22T23:53:01Z,1,2,ebgraham
+8f33c006e9ce08aa6e20279476c47c5941931c16,fix deadlock and test flakiness for RuntimeSchedulerTest (#50854),2025-04-22T22:48:50Z,1,7,sammy-SC
+40381830c58075d38afceec769516bc5d62daedf,Revert D73213775: Fix crash with nested FlatLists and fix edge case w…,2025-04-22T22:09:42Z,29,289,simpleton
+5a9023f7aba9b12bd5b47bb5e2e667cbb03cbf38,Fix crash with nested FlatLists and fix edge case with nested views (…,2025-04-22T20:17:21Z,29,289,jorge-cab
+bbff754db370a2d69926048e384ccaa6ff97c230,Fix keyboard navigation for FlatList with `removeClippedSubviews` ena…,2025-04-22T20:17:21Z,7,199,jorge-cab
+98c10d568e9f5828dc14c104fccaa0174fedeb30,Add fabric implementation to find Top-Most relative and relevant pare…,2025-04-22T20:17:21Z,3,41,jorge-cab
+c31699b760fdc0d7ab4107d23929429502afcc6b,Add fabric implementation to find next focusable view (#50824),2025-04-22T20:17:21Z,5,290,jorge-cab
+0796ff80c169b01ca858ed83b8759569481940d0,Add KeyboardFocusableNode ShadowNodeTrait (#50823),2025-04-22T20:17:21Z,6,47,jorge-cab
+43403be02d5f4f54dd31a771b37a076af7eafdcd,fix crash in view culling when parent-child go from flattened-unflatt…,2025-04-22T17:32:55Z,2,82,sammy-SC
+4ab7d531fb46a8189c3fcba1801317e71a17bdce,fix a crash in view culling when the differentiator produces create i…,2025-04-22T17:32:55Z,2,83,sammy-SC
+90a93aa48c3e633580a675c7c12d173e5be9f7e8,fix incorrect parentTag coming from differentiator when reparenting (…,2025-04-22T17:32:55Z,25,456,sammy-SC
+12def6d730f6bbfb72b9e0f66574aaa68577805f,Update the reproducer message (#50848),2025-04-22T16:40:35Z,4,25,cortinico
+4221fc8a32a716a947b3c23af974bc5c4a2219d9,fix flaky RuntimeSchedulerTest (#50845),2025-04-22T16:15:27Z,1,2,sammy-SC
+7a3da81478b98c993df7efef2b894ff71ed286cc,Remove Learn Core warnings for JS APIs with >3y blame (#50840),2025-04-22T15:01:35Z,1,287,huntie
+be37e1b7d83081516f0db0ffe1c7c232c6fedf98,Convert to Kotlin - ReactTextAnchorViewManager (#50841),2025-04-22T14:15:12Z,3,475,cortinico
+2b0189b9649b58dc93ac79ad2bf709fd7bc8f117,Skip cloning Fragments in `ListEmptyComponent` to avoid `onLayout` wa…,2025-04-22T14:06:07Z,2,125,mateoguzmana
+04348e9db61c9a0a7496ed5dbdf9ae6276cf255f,Convert com.facebook.react.runtime.ReactInstance to Kotlin (#50664),2025-04-22T13:18:25Z,6,1276,javache
+ffd7691505638bd8f59c54b5766cdbfa999b0a42,"Fix out-of-date ""Direct Manipulation"" link (#50834)",2025-04-22T13:07:06Z,3,10,mateoguzmana
+66a4a4d9fab6c65505236cd3c9803f3448934ca5,Make `MultiSourceHelper` internal (#50793),2025-04-22T12:55:01Z,2,29,mateoguzmana
+5d1febf7def124ef84e2224923d2b26fcdb81236,refactor: migrate BlobProvider.java to Kotlin (#50756),2025-04-22T12:46:44Z,2,244,JatinDream11
+1fb04e2134d042332c2ff5d10b979afde41ab6f6,Fix Type comparison (v2) in TurboModuleInteropUtils.kt,2025-04-22T12:11:30Z,1,50,alanleedev
+f466e43a150c264ea532befcf02d39a9fc021454,Label coopting RN Tester example (#50812),2025-04-22T02:16:23Z,1,50,joevilches
+e9a0747a8f4a5e71e2264db05a7aac07ba226309,Text with links RN Tester example (#50811),2025-04-22T02:16:23Z,1,42,joevilches
+dc13a459071f397af8c844de9949c9adab5ba152,Accessibility Order RN Tester example (#50810),2025-04-22T02:16:23Z,1,100,joevilches
+f8b7ab873392f10c73ed188c5fcd6d28143ea4ca,Remove usages of ShadowNodes by fully releasing disableShadowNodeOnNe…,2025-04-22T01:43:27Z,21,232,mdvacca
+57779cebf066ee420fa861df8269e875ab1d21f4,Fix border rendering incorrectly when it has translucent alpha (#50829),2025-04-22T00:35:12Z,1,8,jorge-cab
+132a871b465eb6509be0e3d9ae61d032b415f535,Change to use new Background and Border drawables by default (#50828),2025-04-22T00:35:12Z,4,14,jorge-cab
+aa89f7a01c4d1b5724dd1de1470e57ac3f165d39,Fix incorrect conditional for radial gradients (#50836),2025-04-22T00:23:21Z,1,4,jorge-cab
+bc90c839aa8efb6f721a9b72a7b8248a0da3a219,Add showsVerticalScrollIndicator in ScrollViewProps.cpp SetProp (#50798),2025-04-21T23:28:51Z,1,1,anupriya13
+aa4118463314243e639ba81d4d5ad91c7d7402de,Take 2: Mitigate deadlock hazard in RCTUtils.m (#50807),2025-04-21T22:49:27Z,1,20,RSNara
+5b5cf0e1995b11336ed029a7afc8eba1f02ac9d1,cleanup queue configs for some native modules (#50832),2025-04-21T22:09:54Z,8,140,philIip
+77f2c610db0b71fb17d9bb4b859886ef8b33fd6f,fixed wrong class name in string (#50831),2025-04-21T21:32:26Z,1,2,alanleedev
+7284bea01887b5c775593c7353fedabb934936ad,Delete unused tag constant in LegacyArchitectureLogger (#50819),2025-04-21T19:26:41Z,1,2,mdvacca
+6ad41f9a3f60da87e4b95724199420cab7bed905,Update hermes-parser and related packages in xplat to 0.28.1 (#50803),2025-04-21T14:50:22Z,8,112,gkz
+634f06688cdbebcfbdc4a76f4d78c976f6209ed4,Apply SWIFTFORMAT to fbsource,2025-04-21T01:08:18Z,3,15,darichey
+0bdf7bf2c466895dd8686426ad03ff24abcdd415,Log LegacyArchitectureLogger asserts only in Debug mode (#50818),2025-04-20T20:44:24Z,1,22,mdvacca
+f98c227ee9fb906d80a76b03fbd4dd4c4f6c4082,Fix Android Gradle Build and Missing Buck Build for Test (#50813),2025-04-19T01:01:56Z,1,1,NickGerleman
+f2518d43746fbf712b8cb0ca920f134005c1faec,RN/Metro: Configure Transformer for React 19 (#50809),2025-04-19T00:14:47Z,1,1,yungsters
+db6e0000234530979594abf81c6bd0521b561068,Allow Switch to use default UISwitch accessibility annoucements (#50796),2025-04-18T22:33:42Z,1,12,joevilches
+f6589177ce8504d2b6c43b152a03921898b87bec,Fix logic around hiding chrome with deeplinks on small screen (#50806),2025-04-18T22:31:57Z,2,7,NickGerleman
+5fd51881727b2d86f87abf04db032940ac0ec8c4,Fix TextInput `onContentSizeChange` event being dispatched only once …,2025-04-18T06:54:07Z,1,7,j-piasecki
+3e5c609a1e74089ebadfdbd617bff8390e08bae1,"Back out ""Mitigate deadlock hazard in RCTUtils.m"" (#50795)",2025-04-18T03:14:06Z,1,17,NickGerleman
+1b45dc8033e1064b2485c8b855a05634e2c1163f,feat: radial gradient js prop passing (#50268),2025-04-17T23:39:44Z,9,1595,intergalacticspacehighway
+a2409941c20f63d0339e2f2b1c9a2e942d29ca2e,feat: radial gradient android changes (#50269),2025-04-17T23:39:44Z,9,1153,intergalacticspacehighway
+d7533dce1cdb4c0bc70deeab68f53752d13becf2,feat: radial gradient iOS (#50266),2025-04-17T23:39:44Z,11,963,intergalacticspacehighway
+867858df655445efca1bbfe3ddca55a30a11c7e5,refactor: migrate DynamicFromObject to Kotlin (#50754),2025-04-17T22:54:18Z,3,191,yasir6jan
+fa9d082747cf286a112b869e763afff6df6ec9d4,Bridgeless: Fix unstable_hasComponent,2025-04-17T21:33:26Z,2,72,RSNara
+f144b5312263912d30a93f8d2cff9fbf7008174c,"Remove ""usesMapBufferForStateData"" template parameter from ConcreteSh…",2025-04-17T21:25:22Z,6,49,NickGerleman
+f1f2788410c2fa2cfbe6732632c453079c2cd2af,Re-add an `eventName` field inside Event.kt to unbreak several librar…,2025-04-17T20:06:13Z,3,16,cortinico
+16a61bf2ba4323dd7d33e43f6c1d8c9c669be45e,"Remove .npmignore files from other packages, add lint check (#50786)",2025-04-17T19:48:28Z,14,121,huntie
+09187491a64ac180b07b989c99d2263a4ff1bcf4,Align __test_fixtures__ to __fixtures__ (#50785),2025-04-17T19:48:28Z,8,11,huntie
+d1cf58484df81f26dfe81639a96826eb45e8c898,"Replace .npmignore files, ignore all test/fixture/docs directories (#…",2025-04-17T19:48:28Z,9,59,huntie
+cd5991c64830780a54eb86f2e490208d919cf652,Fix CQS signal. Id] 19045409 -- readability-redundant-string-init in …,2025-04-17T18:59:57Z,2,14,generatedunixname89002005287564
+e2232090d7577dde3cba97bc0e8a782fc3c7b537,Update Danger to 13.0.4,2025-04-17T16:49:03Z,3,751,GijsWeterings
+2410fc97b76c4b92abd5b2a9a1565ea13b895cc1,Reorganise dev tooling/debugging modules as src/private/devsupport/ (…,2025-04-17T16:43:48Z,35,204,huntie
+a3d38d57223dafac0c23c044bd78af020538591c,Kotlin to 2.1.20 (#50780),2025-04-17T15:40:20Z,12,33,cortinico
+6bc94475068e7cba7e924f76e4ce5f60fc95cc5a,"Update TextInput props, expose more types from the package (#50781)",2025-04-17T15:03:30Z,4,26,j-piasecki
+74e8c7826864c166efc735b6d419f9005452942d,refactor: migrate DynamicFromArray to Kotlin (#50602),2025-04-17T14:23:48Z,2,166,BogiKay
+95ca59eb9432395a8be63cdeab062b3945dda590,Add unit test for shadow node state on clone (#50774),2025-04-17T13:18:36Z,4,194,Nick Lefever
+b3c110b0b24553adca619eae351f27c6f73ecc4b,Add a lint rule preventing named type imports from React (#50776),2025-04-17T12:39:22Z,6,130,j-piasecki
+cb51d25ba8bd6c4675efd58311891a40d83b4108,refactor: FrescoBasedTextInlineImageSpan (#50532),2025-04-17T11:42:23Z,4,368,gouravkhunger
+f5ae1578208dd1afaa3fdd39d9bf897ef2d3cac1,Added more test cases for URL (#50768),2025-04-17T10:18:13Z,2,6,riteshshukla04
+7ff5db3c462c369a8210674ab53642c3f34e9c37,Fix last Excalidraw SVG diagram in docs (#50765),2025-04-17T08:59:21Z,1,2,rubennorte
+93f161b4bd79cab870c1f5aa7b61df3523d35452,Unblock `binary-compatibility-validator` for Kotlin 2.1.0,2025-04-17T08:52:49Z,1,1,cortinico
+a3252def1990c0d0afba67a4698357bc91c5bb2a,docs(typo): Fix typos in CHANGELOG-pre-060.md (#50772),2025-04-17T08:06:59Z,1,4,Nicholas Wilson
+9d84909330dd47256249373b5dd1f36fbcc9d0fa,Enable CMP0069=NEW for all the targets,2025-04-17T07:00:51Z,1,3,cortinico
+71c82ce1ad6911c40f28e33a4831566581cd59d2,Remove code related to `onInlineViewLayout` event,2025-04-17T02:57:32Z,5,61,NickGerleman
+96939f160b169db422f5d85085375c3cc712345f,Use source shadow node state on clone (#50773),2025-04-17T01:58:26Z,1,4,Nick Lefever
+b962646079c72e91e7790a345033df90659b2f32,Add feature flag for using shadow node state on clone (#50751),2025-04-17T01:58:26Z,20,161,Nick Lefever
+539f2377a45ab54608beef82a49177c1664e61c9,Add feature flag for RSNRU on commit (#50745),2025-04-17T01:58:26Z,20,173,Nick Lefever
+4fa57f98daacee3653badee74cb8f1d763e4d551,Replaced abort with Default value (#50764),2025-04-17T00:16:32Z,1,10,riteshshukla04
+986bcdbbfbd980c9a31a2dfc6ac86709305bde3e,Fix CQS signal. Id] 42896038 -- modernize-concat-nested-namespaces in…,2025-04-16T23:52:06Z,4,40,generatedunixname89002005287564
+5ed459283ae5e10c56900d555a208739b3e1ba61,Add deprecation message for receiveCommand (#50770),2025-04-16T22:51:37Z,1,4,cipolleschi
+692b05e77d42c9b3ef6dfcbb31f6a11ba0f1e5a3,CSS Added hwb(H W B / A) notation (#50750),2025-04-16T22:47:28Z,2,28,zhongwuzw
+95af9700963aa05202f208a00e95cfac6b5fb42f,Update debugger-frontend from 26e19a4...bc635fa (#50762),2025-04-16T20:46:04Z,4,10,vzaidman
+e18e4feb3acb5177630e79548a0a4abf412fd230,react native devtools extra telemetry (#50737),2025-04-16T20:46:04Z,3,39,vzaidman
+3ab7c26e20827e4fb6293434722091060c386ba3,Deploy 0.268.0 to xplat (#50769),2025-04-16T19:54:38Z,3,12,SamChou19815
+d4f2b02b4dbb546f479df4677f93cb822f21a716,Lower JS Thread Priority by 10,2025-04-16T18:19:29Z,3,30,Eugene Lin
+a6f510003c809dd6a402989637b5c8463c083883,Mitigate deadlock hazard in RCTUtils.m,2025-04-16T17:33:53Z,1,17,RSNara
+929099f064a67022ca1f41c25db40397a9be80c8,Move rncxx coremodules,2025-04-16T16:53:18Z,6,250,andrewdacenko
+706b6e878d7d503ed870d6635ae1f963a34e8ccd,Add warning when app is running with the old architecture (#50735),2025-04-16T16:51:23Z,1,9,cipolleschi
+99153d8ad8164680ff0e7a0130210858d75b1df7,Make `HeadlessJsTaskSupportModule` internal (#50739),2025-04-16T16:46:00Z,2,8,mateoguzmana
+6d8a02a66606bd0a3931626aff0e76f7c3b31caa,Fix URL parsing to respect node/chromium convention (#50757),2025-04-16T16:45:46Z,1,14,cipolleschi
+cac27d15bef39e1a4bf7e3279e85a7bae4ee3a9c,Convert to Kotlin - ReactEditText,2025-04-16T16:14:55Z,5,2851,cortinico
+9397b113b006d8ba1fca96292c893349f79f8ee7,Make `ToastModule` internal (#50741),2025-04-16T16:07:26Z,2,31,mateoguzmana
+618279508159191f2b11c0b20446f91e82a27abf,Remove usage of HERMES_BUILD_APPLE_DSYM (#50738),2025-04-16T14:28:46Z,2,8,neildhar
+b743af0aeffdce9ee8bcd86d5d48c2dc1f1275aa,"Back out ""Add KeyboardFocusableNode ShadowNodeTrait""",2025-04-16T14:28:41Z,6,47,GijsWeterings
+eee1d8b11df98d1c830dd0ef78e855c76c97ffaf,"Back out ""Add fabric implementation to find next focusable view""",2025-04-16T14:28:41Z,5,281,GijsWeterings
+1d5324cba9abade0c7572ffe511a16463f3b491b,"Back out ""Add fabric implementation to find Top-Most relative and rel…",2025-04-16T14:28:41Z,3,41,GijsWeterings
+513ff5307c0ec571ce255c55d47cf63841c4e033,"Back out ""Fix keyboard navigation for FlatList with `removeClippedSub…",2025-04-16T14:28:41Z,7,199,GijsWeterings
+7325531eae0eae12e9e204c4bf8a0cf4358b0b03,Fix all Excalidraw SVG diagrams in the docs (#50760),2025-04-16T14:24:33Z,7,18,rubennorte
+44c274ae6e06f9760dedfd10dc4e66b8655b208a,Kotlinify ReactScrollViewManager,2025-04-16T11:57:43Z,4,861,rshest
+e0a506fac383bbf892ea57b43dc6924b3ec5e452,Import React namespace instead of specific types (#50749),2025-04-16T10:58:58Z,2,21,j-piasecki
+e05c0e67d0351e3d4a05bb3867c380d6640be55f,Migrate BridgelessReactContext (#50729),2025-04-16T10:32:28Z,2,365,rshest
+0f9af750d43e9f03b3b163c79e8d53da3034b136,Migrate ReactHorizontalScrollViewManager (#50703),2025-04-16T10:11:30Z,3,780,rshest
+b880d470e015eb0e484179c0d6c91c4691042b6a,Make `StatusBarModule` internal (#50742),2025-04-16T09:53:32Z,2,19,mateoguzmana
+989fddc45d0af133d338a987e17170fb3812d62c,Migrate LayoutAnimationController (#50734),2025-04-16T06:56:59Z,3,478,rshest
+bb6f55e77424a1c3fb8c79f97cc8f983e66cb3d7,Migrate TurboModuleManagerDelegate to Kotlin (#50727),2025-04-16T06:50:46Z,3,142,rshest
+0c77bb9f58d060b90f220dc192fc1f29ca6e7d62,Suppress deprecation warning in OSS for BlobModule,2025-04-16T05:50:48Z,1,2,alanleedev
+a070d529fcddfabc7f9154bbe0d40badc1af5c7d,Suppress deprecation error in OSS for BlobModule (#50748),2025-04-16T03:45:07Z,1,2,alanleedev
+c2aa4c14e9cce9aa0c223ee25a1bb87b9e4f6c48,fix naming error in AndroidInfoModule,2025-04-16T01:14:30Z,1,2,alanleedev
+912b10416da1c5fbf897d211d23a4edc73dcce41,Fix crash with wrong type comparison in TurboModuleInteropUtils.kt (#…,2025-04-15T23:24:48Z,1,64,alanleedev
+cd031e569385be7f8523c0fcb9ba63677e4190ac,RNCI: Migrate OSS CI to Flow DotSlash Binary (#50743),2025-04-15T23:09:45Z,1,7,yungsters
+a89f67fe9c34bde4b878f7f3b284fcccfe0c5aff,Kotlinify BlobModule,2025-04-15T22:05:38Z,3,786,fabriziocucci
+a13f84adcc59d938f6f133ca1bf0206033e38609,Convert CoreReactPackage.java to Kotlin (#50709),2025-04-15T18:47:24Z,9,302,alanleedev
+c9bee009c386272ea93942d51885c34128ea9a03,Record Microtasks step (#50586),2025-04-15T17:40:51Z,5,92,hoxyq
+5bf54bc1f89d9999b650266dc0d3ed2cbb3ed386,Add support for multiple TurboModule providers (#50707),2025-04-15T17:14:07Z,1,3,andrewdacenko
+b028f842333445027f0a4d8c87b429aefcec7239,Fix check nightlies by escaping the artifact folder (#50726),2025-04-15T16:37:11Z,2,101,cipolleschi
+a8bb7ea67a1a06090b9f6493ae333efa72a38c13,Make `JSTimers` internal (#50711),2025-04-15T16:31:00Z,2,14,mateoguzmana
+8726e263486d07d71e0cd80eba5a4c52705fdb14,xplat/js/react-native-github/packages/react-native/ReactAndroid/src/m…,2025-04-15T16:26:31Z,3,1723,Abbondanzo
+38fefb2771d7ff65568fa989f2ca4a5bf44e58ec,Minor Performance and Code Quality Improvements ✈️ (#50682),2025-04-15T16:17:02Z,2,41,sanjaiyan-dev
+be247076bd621a950445094682915724b03986c9,Make `DrawerOpenedEvent` internal (#50712),2025-04-15T15:47:36Z,2,23,mateoguzmana
+4930d83d5129376fceb5df946792fb0655ba4c68,Move docs for specs_DEPRECATED to __docs__ to follow the convention (…,2025-04-15T15:34:41Z,2,19,rubennorte
+2b3726b6a3b8f2e6d83deb1ca5159acafa8dab47,Add README explaning why we have the Fantom specs in src/private (#50…,2025-04-15T15:34:41Z,1,19,rubennorte
+a482726a44c25f4b2660278bb9bf251c90706c6b,Use SVG for all diagrams in RN (#50722),2025-04-15T15:34:41Z,3,5,rubennorte
+c74a2cfb3630f9398a569ea182f3fb79b089228e,Kotlinify TouchTargetHelper (2nd attempt) (#50733),2025-04-15T15:32:26Z,3,905,fabriziocucci
+800b12406f8ea777bef93e98685aacfda0560d5b,Kotlinify ReactLifecycleStateManager (#50685),2025-04-15T14:51:14Z,3,183,rohitverma-d11
+555ffd82e8e27d8a130fff9fe74cd5a60558ed3e,Make `ReactRootViewTagGenerator` internal (#50687),2025-04-15T14:39:07Z,2,9,mateoguzmana
+ffb10bdd7a143a3f885dbcbae92b9f58ed3505ed,Add changelog entry for 0.79.1 (#50732),2025-04-15T14:25:17Z,1,22,fabriziocucci
+1f27e3e2e41a90fbb6f25c2bf378eaa703e81892,Add build-types to release workflows (#50396),2025-04-15T14:12:27Z,2,5,huntie
+81db7e7426530392e0ac7efba3f143f34fdc761b,Omit mouse events from Pressable props (#50717),2025-04-15T12:02:32Z,2,7,j-piasecki
+a0f016ecad4d577300e95de41be4e297b9c02c4f,Migrated file ReactStylesDiffMap to kotlin (#50616),2025-04-15T11:23:18Z,6,198,poonamjain96
+86bede9c608748d552258258efd01e10f8a7664c,Update hermes-parser and related packages in fbsource to 0.28.0 (#50695),2025-04-15T10:56:39Z,10,309,j-piasecki
+49d3d0fd9d8079ee744709f426e94745ec95d1a6,Migrate MaintainVisibleScrollPositionHelper (#50701),2025-04-15T10:18:44Z,2,385,rshest
+eb67bec958f5319fa425b528fbda0e6e812773ef,Use sum of subpaths instead of path.join in `no-deep-imports` lint ru…,2025-04-15T09:39:48Z,1,3,coado
+55de31fe1b6bf5baf3f53be3e849427e205b6404,Define syntax language for .js.flow on GitHub (#50720),2025-04-15T08:44:07Z,1,1,huntie
+e8da86a7fea1a879699aec9a030c743b5aadcf99,Reduce log level for NativeModuleRegistry.onBatchComplete (#50715),2025-04-15T03:56:07Z,1,2,mdvacca
+e1f562fc2b4adf9d0b824ae97190d404b006734f,Categorize LegacyArchitectureLogger soft errors as SOFT_ASSERTIONS (#…,2025-04-15T03:56:07Z,1,3,mdvacca
+a7e76515863500597334302cb92ac9c5c7f989d0,Use standard infra for sample legacy module example,2025-04-15T02:34:27Z,1,1,NickGerleman
+2834825b8ba01119b4ae3a01ec641defaea1a1f2,Migrate ReactClippingViewGroupHelper.java to Kotlin (#50679),2025-04-15T01:18:36Z,3,134,priyanka.raghuvanshi
+fc9f2fe0ea20d6e73be8fdf4eb47affaddea6427,Fix keyboard navigation for FlatList with `removeClippedSubviews` ena…,2025-04-15T01:08:36Z,7,199,jorge-cab
+d56971011aadd5f6c4abed4ca39d4cfc4a0b62e4,Add fabric implementation to find Top-Most relative and relevant pare…,2025-04-15T01:08:36Z,3,41,jorge-cab
+c8a9b9d342bb72f8ad41fd6b16b1c375dd5cf7df,Add fabric implementation to find next focusable view (#50196),2025-04-15T01:08:36Z,5,281,jorge-cab
+96e49330f8990b96a10024df29e11437ea0f74d6,Add KeyboardFocusableNode ShadowNodeTrait,2025-04-15T01:08:36Z,6,47,jorge-cab
+0929697a6df9ab5a3654c0077bb95427eae77b4c,Fix some edge cases with box shadow (#50638),2025-04-14T20:57:54Z,1,14,joevilches
+ab7ef7712080117571c7a34719af740e043b123b,Update assert message in ReactNativeNewArchitectureFeatureFlags (#50666),2025-04-14T20:50:53Z,1,6,mdvacca
+5aa8288e8565663a44158ec10a948f2f0e393874,Convert ReactProp.java to Kotlin (#50671),2025-04-14T20:22:09Z,3,211,OmarBafagih
+47157aaf3a2d98fcca35626872f3cd06069ed7a7,Make `ClearableSynchronizedPool` internal (#50690),2025-04-14T19:21:06Z,2,11,mateoguzmana
+f9c318b05dad217be8c2d4e1ca1a6bc5c920901e,Convert TurboModuleManager.java to Kotlin (#50706),2025-04-14T17:40:32Z,2,885,alanleedev
+309ccb8b60328faaa2879ed73887300747c751dd,IntBufferBatchMountItem - migrate to Kotlin (#50700),2025-04-14T17:37:01Z,2,681,rshest
+f62292337475474184f04c2641d0df1a806adc62,Update VirtualizedLists `react-native` imports (#50551),2025-04-14T17:32:48Z,5,33,j-piasecki
+402ada828af7188f1e9ec61fe43256ac2f134232,Convert DevToolsReactPerfLogger.java to Kotlin,2025-04-14T17:07:07Z,4,503,alanleedev
+c008604e0a05460b440fcfaded70498594465916,Fix changing font scale breaking text (#45978),2025-04-14T15:57:05Z,16,230,j-piasecki
+d791a85911be515a92e3e4d2351986860a70ef8b,Convert TurboModuleInteropUtils.java to Kotlin,2025-04-14T15:50:02Z,2,588,alanleedev
+68cad5d2d3c3b364a86767b0dfe4f92086223a7c,RN: Configure Hermes Parser for React 19 (#50377),2025-04-14T15:36:24Z,1,2,yungsters
+2edb9280591a984e23e16cb09c2ca63a2fee2af9,Make `DrawerClosedEvent` internal (#50689),2025-04-14T15:28:41Z,2,23,mateoguzmana
+152fa171ee81b9d3a4b3d4eb9c13e595f6d1c63f,move rncxx threading (#50702),2025-04-14T14:55:19Z,4,274,andrewdacenko
+30030c5a763280681782e27f26df1d451ff7f93c,Migrate FrescoBasedReactTextInlineImageShadowNode.java to Kotlin (#50…,2025-04-14T14:38:45Z,2,305,nitinshukla413
+864833fca9334ba0b986243fce790e89ff64d932,Generate keep.xml to prevent resource shrinking on Android (#50620),2025-04-14T14:33:27Z,3,47,jakex7
+748183ded0e5899db303c33b250c70aead917b6e,] Clean up feature flag to enable paint time reporting in Event Timin…,2025-04-14T14:12:00Z,25,250,rubennorte
+7771317e5cf49bda65275ea1149160a45c607803,fix(ios): avoid incorrectly updating caret position (#50680),2025-04-14T12:42:24Z,1,12,ouchuan
+db4b3df910eb7bd02cf99126da1d8ce3dc5dc58d,Use emojis in technical docs titles (#50699),2025-04-14T12:41:02Z,17,64,rubennorte
+ab47834eb1910b4da1c594843cf1ab5dc02d23c1,Convert to Kotlin - ReactTextInputManager (#50656),2025-04-14T12:25:39Z,3,2434,cortinico
+7269a2da7979dc8b92cc53fd9dcf99d89d6325d8,Update React types usage in ImageProps (#50541),2025-04-14T12:12:31Z,2,7,j-piasecki
+1d7fd7ebcf6e3169935778002549dbd2019a1cdd,Make `I18nManagerModule` internal (#50691),2025-04-14T11:54:23Z,2,22,mateoguzmana
+fef7fb954c30270ea60b580ca29ccb858df862ed,Make `ImageLoaderModule` internal (#50688),2025-04-14T11:45:29Z,2,52,mateoguzmana
+6f2357a0503c1da65ab37be8a1dc5f94d515f34c,Remove obsolete `@TargetApi` annotations for Lollipop (API 21) (#50686),2025-04-14T11:37:59Z,2,17,mateoguzmana
+18a7c8d57c5843267756fd9d2137964370dc5780,Do not generate ReactCodegen.podspec for libraries (#50645),2025-04-14T10:38:55Z,1,12,cipolleschi
+87809d9326f7463e30bbf78edca0ef2a2fa139d9,Add `no-deep-imports` rule to eslint-plugin-react-native (#50542),2025-04-14T10:02:36Z,6,357,coado
+70cdf12c4d0d27d9fc94645c5779f34d0883320a,Extract inner classes from ReactTextInputManager to separate files (#…,2025-04-12T08:49:35Z,5,413,cortinico
+02aa7e7ce08df5b85c3f3f3a54fe715b5f5262d5,Make class internal - ReactTextInputShadowNode (#50647),2025-04-12T08:49:35Z,2,17,cortinico
+ef12ecfa928f0b6e851c9a3d4f5050237023c139,Deploy 0.267.0 to xplat (#50674),2025-04-12T06:22:56Z,3,12,panagosg7
+f9aed5a74794c11937d80adba12fd415ec925e8d,Enable TextInput-textStyles E2E Test against RNTester,2025-04-12T04:08:16Z,1,10,NickGerleman
+e4ae7be1a24ee7d0055c5e963c4e3283d20f686d,Hide chrome when viewing deep links on tiny screens (#50673),2025-04-12T04:08:16Z,1,42,NickGerleman
+675b51f5628988aece7d3ecbe2ef154645658ec2,Remove chonky header for single modules (#50672),2025-04-12T00:13:19Z,2,115,NickGerleman
+e385ff689bce38d4c47f7401e24aa6390387d40c,Use `rntester-legacy` URL scheme for legacy arch app (#50670),2025-04-11T21:50:12Z,1,6,NickGerleman
+047914562e5f08fc4ff49c31bb29144ee91ad523,move rncxx utils (#50668),2025-04-11T21:35:03Z,4,158,andrewdacenko
+a92a209544a687cc06bf4cba17228433aef1a7fa,Convert ReactPropertyHolder.java to Kotlin (#50633),2025-04-11T21:05:38Z,2,34,OmarBafagih
+d0c8716bfddb809c91abc6e8ccdda06e43aacedd,RN: Revert `Okio.buffer(…)` Change from D72632266 (#50669),2025-04-11T20:32:12Z,1,4,yungsters
+14fdf3257f2f32c3c318598e363f1363a8ee00bf,move rncxx profiling (#50651),2025-04-11T19:07:12Z,10,970,andrewdacenko
+52173ab701094dcc84399cdf8a8769f5242de27d,Use CA shadow apis for box shadow (#50636),2025-04-11T18:55:50Z,6,419,joevilches
+c5e9ef53ae9bfe6ea06ddee54228ada0305e4df7,allow setting SurfaceStartedCallback on UIManager,2025-04-11T17:54:07Z,5,50,zeyap
+8d6098a645745fa964bac475ff14598d0cdfd11a,create UIManagerNativeAnimatedDelegate to drive per frame NativeAnima…,2025-04-11T17:54:07Z,4,49,zeyap
+a812cac1767c39a7db177ac3960074b4fda60aa8,call `TurboModuleWithJSIBindings::installJSIBindings` at core TurboMo…,2025-04-11T17:54:07Z,2,4,zeyap
+5747fc4b17b2b2ae2bceb8a01f2514e15db5e0b3,Fix license comment block in ReactCxxPlatform code,2025-04-11T17:44:01Z,6,42,zeyap
+143beaaa9968aa39f38192042164bd08eb5decb2,Improve format of navigation to home (#50665),2025-04-11T17:28:04Z,17,34,rubennorte
+9fde76a02d62280c7cb18f461a0c672b5dc46a28,Improve documentation for Fantom (expanding on pragmas) (#50663),2025-04-11T17:28:04Z,2,41,rubennorte
+86a738835555e3377f27ddee0e0083cae8c4804f,refactor: migrate DynamicFromMap to Kotlin (#50597),2025-04-11T16:59:00Z,3,263,artus9033
+39b2d664bf7db96a8142489472f08a1585c6970e,Fix incorrect formatting (#50662),2025-04-11T16:11:28Z,1,4,rubennorte
+6a746e8855a5e48e3e738a24d92ab33cd8a47504,Move src/private/component files to specific directories (#50653),2025-04-11T15:49:03Z,7,86,rubennorte
+bd64ec817d4a8be87722122622d30f72e614b87c,"Backout ""Add warning when a component is loaded with the interop layer""",2025-04-11T15:16:46Z,3,12,cipolleschi
+5fd08ce3deb5f9207697e6e5c48ae0a21d794d51,Fix ReactInstanceIntegrationTest.cpp poisoning future tests. (#50658),2025-04-11T15:15:26Z,1,12,GijsWeterings
+45e725b3dc1a03323e70af361cf2e736376f624e,Convert to Kotlin - ReactTextInputShadowNode (#50648),2025-04-11T15:09:24Z,4,454,cortinico
+798eb0ab849a654d26ea83c73fb2436092d040d4,move rncxx logging (#50652),2025-04-11T15:06:06Z,7,310,andrewdacenko
+d18abc8ec7f7165f583fdf307e01ffe9f2003904,Use scrollTop for scrolling tests (#50660),2025-04-11T15:05:48Z,1,4,rubennorte
+277d39a216fc9e9819471206d6f6a973b0ec952b,Add technical documentation for Fantom,2025-04-11T14:52:26Z,2,50,rubennorte
+d06b32d215af6ae6a36da3345556673bbe16a021,Add usage documentation for Fantom (#50659),2025-04-11T14:52:26Z,2,197,rubennorte
+1ac682ca83cac5eb904e282c4c48a88df2efa1be,Fix link to main doc in Event Loop documentation (#50650),2025-04-11T14:52:26Z,1,2,rubennorte
+c8cbf7f8139bb3f7cb0d312801f771aaedd2a72c,Improve documentation for feature flags (#50644),2025-04-11T14:52:26Z,1,52,rubennorte
+c8455804ddcb218d80e6e3b8736120e092a8f67c,Disable default markdownlint rules to prevent conflicts with prettier…,2025-04-11T14:52:26Z,1,1,rubennorte
+e83ece0d17217c18a9b3dea53f261b9e0a45621a,Do not generate Apple specific files for Android (#50654),2025-04-11T14:41:38Z,1,4,cipolleschi
