@@ -1,0 +1,111 @@
+/******* General Chart Styling *******/
+body {
+    font-family: sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+    color: #333;
+}
+
+.chart-container {
+    width: 100%;
+    /* min-height needed for SVG responsiveness in some browsers */
+    min-height: 450px;
+    position: relative; /* Needed for absolute positioning of tooltip */
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+    margin-top: 15px;
+}
+
+.tooltip {
+    position: absolute;
+    text-align: left;
+    padding: 8px;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none; /* Tooltip should not interfere with mouse events */
+    white-space: pre-line; /* Allows line breaks in tooltip text */
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #333;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-size: 11px;
+    fill: #333;
+}
+
+.controls label {
+    font-weight: bold;
+    font-size: 0.9em;
+}
+
+/****** Gantt Chart Specific ******/
+.gantt-rect {
+    stroke: #333;
+    stroke-width: 1;
+    cursor: pointer;
+    transition: opacity 0.2s;
+}
+
+.gantt-rect:hover {
+    opacity: 0.7;
+}
+
+.gantt-rect.state-closed {
+    fill: #90ee90; /* Light green */
+}
+
+.gantt-rect.state-open {
+    fill: #ffb6c1; /* Light pink */
+}
+
+.gantt-axis-label {
+    text-anchor: middle;
+    font-size: 12px;
+    fill: #333;
+}
+
+
+/****** Scatter Chart Specific ******/
+.scatter-dot {
+    fill: steelblue;
+    opacity: 0.7;
+    cursor: pointer;
+    transition: r 0.2s, fill 0.2s;
+}
+
+.scatter-dot:hover {
+    r: 7;
+    fill: orangered;
+}
+
+.scatter-axis-label {
+     text-anchor: middle;
+     font-size: 12px;
+     fill: #333;
+}
+
+/****** Bar Chart Specific ******/
+.bar-rect {
+    fill: steelblue;
+    cursor: pointer;
+    transition: fill 0.2s;
+}
+
+.bar-rect:hover {
+    fill: orangered;
+}
+
+.bar-axis-label {
+     text-anchor: middle;
+     font-size: 12px;
+     fill: #333;
+} 

@@ -1,0 +1,109 @@
+sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+7e966906dbae4a813839ca86697defa7b2171731,fix(curriculum): Update the description in python password generator …,2025-05-10T22:08:55Z,1,2,Ajay-2005,freeCodeCamp,freeCodeCamp
+222f0852dbf774058af95f172bf3f42c87e8ec8d,fix(curriculum): updated cat-painting-workshop steps 42-43 to specifi…,2025-05-10T09:40:49Z,2,10,loralridz,freeCodeCamp,freeCodeCamp
+7144b0433348dc566e4782c2f0906516d4813610,fix(curriculum): correct 'asnwer' to 'answer' in English challenges (…,2025-05-10T07:28:38Z,2,4,VisibleNasir,freeCodeCamp,freeCodeCamp
+0a0eefb6f903383284a5ee0bbea7a5e0502eb8d9,fix(curriculum): update default browser styles lecture (#60260),2025-05-09T23:41:58Z,1,2,estefaniacn,freeCodeCamp,freeCodeCamp
+070f9c70f5bbd424cf2e6118f2e892995ba719d8,fix(curriculum): correct grammar in feature description ('request it'…,2025-05-09T18:41:58Z,1,2,Meenakshi-Marree,freeCodeCamp,freeCodeCamp
+01722e62a75197509824d829e4b2c61ece12b6b3,chore(curriculum): Update user stories and description for the multim…,2025-05-09T16:29:44Z,1,25,ArakhshQ,freeCodeCamp,freeCodeCamp
+053a6072d4781061261ef57f728d7cad28645238,"fix(curriculum): correct grammar in transcript (""you"" → ""you're"") (#6…",2025-05-09T16:22:38Z,1,2,vishnudt2004,freeCodeCamp,freeCodeCamp
+7ffadd053070a853863cdcb63a4a6c56cfaa1114,feat(curriculum): add polygon area calculator lab (#59460),2025-05-09T12:37:44Z,5,908,zairahira,freeCodeCamp,freeCodeCamp
+6fc87117118f6f6651c7c70e9a256ee7100be711,fix(curriculum): use assert.equal in cat painting workshop (#60242),2025-05-09T06:28:36Z,2,14,tanush29,freeCodeCamp,freeCodeCamp
+0dfda08a35f1b3554e2ed2f998767a229111123a,fix(curriculum): add test for href attribute in cat photo app (#60176),2025-05-09T05:54:58Z,1,15,Supravisor,freeCodeCamp,freeCodeCamp
+33cd29513e0c0fa5e3101f903e5fff4833733a37,chore(curriculum):remove stray forumTopicId from lab (#60240),2025-05-09T03:52:30Z,1,1,waleCloud,freeCodeCamp,freeCodeCamp
+64f566e6931d406417f6e1819b607f2423eda0d3,fix(curriculum): blank indicators in English challenges (#60236),2025-05-08T19:48:17Z,3,6,huyenltnguyen,freeCodeCamp,freeCodeCamp
+43754128c2e10c9bb3a72c0d68dcc12b94d86612,feat(curriculum): adding python loops and sequences quiz questions (#…,2025-05-08T16:41:31Z,1,283,jdwilkin4,freeCodeCamp,freeCodeCamp
+d08fe7c653475a751402f1f4a28ac78a7a08383b,fix(curriculum): remove pseudo class from business card lab (#60171),2025-05-08T15:55:36Z,1,16,Supravisor,freeCodeCamp,freeCodeCamp
+074e310b8269720219753d59042a6d46ef6bd022,fix(curriculum): add trim to remove whitespaces in url (#60226),2025-05-08T10:26:41Z,1,2,Ajay-2005,freeCodeCamp,freeCodeCamp
+a169c2a7b1639b79603b174d9b287f0075e789eb,chore(api): remove oldschema.prisma (#60227),2025-05-08T09:57:47Z,1,1101,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+a73ecf2aead8b1e882f759e743675d07b6cb3f62,feat(ui): test indicator icon (#60049),2025-05-08T09:49:08Z,3,71,a2937,freeCodeCamp,freeCodeCamp
+27018424868788166a245b7b4e228c41b70a9c0c,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-05-08T07:50:56Z,9,49,clarencepenz,freeCodeCamp,freeCodeCamp
+aa5b9418e53ed2eb14b275edb50aa6875f470832,fix(learn): remove sentence in transcript (#60224),2025-05-07T23:17:58Z,1,2,anuplohar001,freeCodeCamp,freeCodeCamp
+79565fca2538990cf9f61324bf732e345e5d792e,fix(curriculum): improve Crowdin wording for workshop-recipe-ingredie…,2025-05-07T21:01:13Z,1,2,vkalakota18,freeCodeCamp,freeCodeCamp
+0cb1b30ca5895fe50e457ab514ab283b1c41c88c,"chore(i18n,learn): update i18n-curriculum submodule (#60214)",2025-05-07T20:53:23Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+b0e616a35a045d5d7ceabc32fc63553b231b425d,feat(curriculum): adding superhero application form (React forms) wor…,2025-05-07T20:49:18Z,25,4416,Ksound22,freeCodeCamp,freeCodeCamp
+be2fac9b611e857c3a7457ba40624dd61aae6275,fix(curriculum): update step 33 of cat painting workshop to use asser…,2025-05-07T20:33:12Z,1,8,Sir-En00n3,freeCodeCamp,freeCodeCamp
+31b956d16fac976ddab009294a1e06bb312a55c3,chore: update to mongodb 8 in CI (#60215),2025-05-07T19:45:53Z,3,10,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+f25b5017fbde388c796ac30677e61b5f7e6ff81b,fix(curriculum): typo in english challenge (#60220),2025-05-07T19:22:35Z,1,2,anuplohar001,freeCodeCamp,freeCodeCamp
+7cd09d9f7507cb6a1d41c70653e0b1c8b2a88a69,feat(curriculum): add set 2 for css typography quiz (#59800),2025-05-07T19:11:43Z,1,460,Supravisor,freeCodeCamp,freeCodeCamp
+f2b09783f644385a9d3c7515a9d94dc496929ed0,feat(curriculum): add set 2 for css layout and effects quiz (#59796),2025-05-07T18:59:36Z,1,442,Supravisor,freeCodeCamp,freeCodeCamp
+003489c1d7dcffb4645ffe4decc01959526b1126,feat: add bash commands review content (#59192),2025-05-07T15:33:32Z,1,66,ilenia-magoni,freeCodeCamp,freeCodeCamp
+baf650a3c795bc063cb53dad85f92e811287836e,fix(curriculum): prevent hardcoding in addition functions (#60196),2025-05-07T14:54:22Z,2,12,Averand1,freeCodeCamp,freeCodeCamp
+8a6fcd70dbaafc89916020bf0f2d96369fdfb108,fix(api): update logging (#60210),2025-05-07T10:00:32Z,2,16,raisedadead,freeCodeCamp,freeCodeCamp
+8e86fac37845d80dc21b81dce759d25b083df6d0,fix(curriculum): update cat painting workshop to use specific assert …,2025-05-06T23:39:36Z,1,36,clarencepenz,freeCodeCamp,freeCodeCamp
+32c19f1b92afb63de97d1783ae9aee8846b3add6,fix(curriculum): Make calculator tests less restrictive (#60188),2025-05-06T21:51:38Z,6,18,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
+ff43f3aecaf0f98b199f5b0dac6629c51859fde3,fix(api): whitespace in default values (#60199),2025-05-06T20:22:42Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
+dc5c7893b50b92795da3fcedf74e0f38cdc745ed,fix(api): update logs in user.ts (#60193),2025-05-06T18:19:24Z,1,7,raisedadead,freeCodeCamp,freeCodeCamp
+504a6eaa1d1460926b609ab3f65f21a17bb9f061,chore(curriculum): refactor tests in the workshop-cat-painting steps …,2025-05-06T17:24:40Z,2,20,Sky-walkerX,freeCodeCamp,freeCodeCamp
+d0e63c60cad50f3d3905967451f9d6c9ba1c9608,fix(api): add req id to logs (#60191),2025-05-06T16:50:31Z,1,4,raisedadead,freeCodeCamp,freeCodeCamp
+008e35d851ca10f6b1714de3a1135835e2a7ba3e,fix(api): update logging (#60187),2025-05-06T15:16:36Z,21,296,raisedadead,freeCodeCamp,freeCodeCamp
+c55e98d3eea223e50ee74bcd0b5a7efde2e4bcd0,chore(curriculum): Cat painting workshop updated to use specific asse…,2025-05-06T08:47:30Z,2,14,ArakhshQ,freeCodeCamp,freeCodeCamp
+e5051d472e8cb39a0b6c5bf85607e4d2e14f2d03,fix(GHA): update environment validation (#60011),2025-05-06T07:00:06Z,1,56,raisedadead,freeCodeCamp,freeCodeCamp
+3e9c13bb4349b94a46e411bfffecfdbd77971701,fix(curriculum): typos and spacing in lectures and reviews (#60077),2025-05-06T05:16:29Z,9,44,Supravisor,freeCodeCamp,freeCodeCamp
+abd9e3ff3e7e8dc1c01b542eaa7ab9803853130a,chore(curriculum): update TypeScript quiz questions (#60002),2025-05-05T18:50:06Z,1,78,sidemt,freeCodeCamp,freeCodeCamp
+256b76c3f76b02614dc74e4a4789a8ed691d1a8d,"chore(i18n,learn): update i18n-curriculum submodule (#60159)",2025-05-05T15:44:37Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+b842d09e9635f8a5a3cde9112ca7ef42c5f78df2,"chore(i18n,client): processed translations (#60158)",2025-05-05T15:05:17Z,10,70,camperbot,freeCodeCamp,freeCodeCamp
+a8be31b6ea25e6f1412ccef5499073da5cf82942,fix(a11y): hide Fail icon from screen readers (#60157),2025-05-05T12:30:20Z,2,3,huyenltnguyen,freeCodeCamp,freeCodeCamp
+181321d90dffd8ed2e27fd76eebd5dbc013b9730,fix(curriculum): correct aria-label hint in music player step 43 (#60…,2025-05-05T07:25:43Z,1,2,bobofishbo,freeCodeCamp,freeCodeCamp
+ec43a5c4db594a213f13615366e5c9a1222e8caa,fix(curriculum): assert methods in cat painting step 29 (#60136),2025-05-05T06:24:17Z,1,4,LuluZhuu,freeCodeCamp,freeCodeCamp
+7b3a19f433637efcec706e92ca7c325b21d24422,fix(curriculum): typos in core JS fundamentals lecture (#60151),2025-05-05T04:08:58Z,2,6,Supravisor,freeCodeCamp,freeCodeCamp
+e2407ac6767d50da77cdbe971224e48011bd7db9,fix(curriculum): improve wording for clarity in step 4 instructions /…,2025-05-04T08:33:16Z,1,4,MelvinManni,freeCodeCamp,freeCodeCamp
+c796ea3dca48222bcc252d2f39a8c22b3f730806,fix(curriculum): update assertion syntax for CSS properties in cat pa…,2025-05-04T08:30:14Z,5,10,GuptaShubham-11,freeCodeCamp,freeCodeCamp
+7e72a817bc2bec73d59d00ab0d4b57afde02020b,fix(curriculum): typo in music player workshop step 3 (#60130),2025-05-02T23:07:33Z,1,2,vishnudt2004,freeCodeCamp,freeCodeCamp
+30a3c320c27926103fbd1bc23a942972cf245b9f,fix(curriculum): typo in step 27 of music player workshop (#60134),2025-05-02T22:40:45Z,1,2,joonhoswe,freeCodeCamp,freeCodeCamp
+776c83bdb3f3d4aca86fe9ac6e973a772ae7349e,fix(curriculum): instructions typo in learn about speculation and req…,2025-05-02T16:44:15Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
+7822f2f5337595a4910faa4c89fca30bf4e2aa6c,fix(curriculum): logical typo in clarify information (#60118),2025-05-02T15:50:22Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+f9a2b91c8b0cffcc631c84cde847806f4e08a0fc,fix(curriculum): improve Crowdin compatibility for workshop-nutrition…,2025-05-02T15:40:59Z,1,6,vkalakota18,freeCodeCamp,freeCodeCamp
+3e9982107de9a8daa0b801c57576832930cff469,fix(curriculum): Make Crowdin like the flappy penguin (#60044),2025-05-02T14:57:14Z,13,26,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
+83a6854243f1b4447ff7fb46865f22e335cf074d,fix(curriculum): Reword adjacent code elements for improved Crowdin c…,2025-05-02T14:53:00Z,3,6,omarraf,freeCodeCamp,freeCodeCamp
+31369067da3004494cfa654a2463834c190f7fab,fix(curriculum): update fcc author wording (#60050),2025-05-02T14:03:54Z,6,14,a2937,freeCodeCamp,freeCodeCamp
+2815ede749053d5449509fd0d37b21f111998568,fix(curriculum): change generic assert to use assert.equal in worksho…,2025-05-02T08:31:38Z,1,6,joonhoswe,freeCodeCamp,freeCodeCamp
+e4126be18ba5ffa0b91d44deec5d4514dfd8b6cb,fix(client): add support of MathJax in FSD cert (#60110),2025-05-02T08:15:27Z,1,3,jdwilkin4,freeCodeCamp,freeCodeCamp
+f409d5b3872f7c03e069a2e80056c4a1123d59a1,fix(curriculum): update cat painting workshop step 24 to use assert m…,2025-05-02T06:41:17Z,1,4,cansuakgl,freeCodeCamp,freeCodeCamp
+d375cb3b324a0f333c41aa145ed9c98e183aecd5,feat(curriculum): add multimedia player lab (#59706),2025-05-02T00:26:16Z,5,370,larymak,freeCodeCamp,freeCodeCamp
+62091ed26586b03e8bb80886f0feb28228131ed7,fix(curriculum): updated assert methods (#60089),2025-05-01T22:30:45Z,1,12,shaikhFaris,freeCodeCamp,freeCodeCamp
+ca45f715c23136cfc68eff9acc395931ab2879fe,fix(curriculum): better wording in workshop-todo-app (#60075),2025-05-01T15:39:56Z,1,2,RojaPinnamraju,freeCodeCamp,freeCodeCamp
+6f51bd86dcbd8bf593f47a2775619fd0d0ca8499,fix(curriculum): improve wording for Crowdin compatibility (#60087),2025-05-01T12:07:56Z,5,12,chiuinggum,freeCodeCamp,freeCodeCamp
+f36a45363345fa924d7fe3b2b56ca7bbe2f8c513,fix(curriculum): replace Unicode ƒ with standard f in Map object lect…,2025-05-01T11:46:01Z,1,2,JainSourav30,freeCodeCamp,freeCodeCamp
+1d9b2b2330547121a52e077a2e325183c12accd4,fix(curriculum): Update to wording that crowdin likes in different wo…,2025-05-01T05:27:45Z,3,6,MelvinManni,freeCodeCamp,freeCodeCamp
+9eba39281399ef92164cb7821c974caa7ef42454,chore(client): remove bubbles next to the superblock (#59821),2025-05-01T05:21:38Z,4,245,khalil423,freeCodeCamp,freeCodeCamp
+d0040492f2546fbfdf855ab43c3643deba089e8f,"chore(i18n,client): processed translations (#60084)",2025-05-01T05:20:23Z,10,100,camperbot,freeCodeCamp,freeCodeCamp
+4f787a7a560d3f4a56b6a8990af4fff3402b376d,fix(curriculum): FSD-replace assert with assert.equal in cat painting…,2025-05-01T05:11:04Z,1,6,MrKleenex12,freeCodeCamp,freeCodeCamp
+5c7ec828b7064df7d1046669fec60e8966c5a74b,English Curriculum: Block 17 (#59564),2025-05-01T01:43:53Z,161,16093,anastasiiauk,freeCodeCamp,freeCodeCamp
+8e464d272a4ef27b0be65d88c0fd3ba3e3e6f119,feat(curriculum): add set 2 for computer basics quiz (#59759),2025-05-01T01:43:36Z,1,442,Supravisor,freeCodeCamp,freeCodeCamp
+7be458561a6f4787941f2c586068273c7cbde95e,feat(curriculum): add set 2 for basic css quiz (#59761),2025-05-01T01:43:09Z,1,458,Supravisor,freeCodeCamp,freeCodeCamp
+46c20ab6f6182d9e57dbf68ce6e4e5e8232fac31,refactor(client): use shared Module interface (#60082),2025-04-30T19:52:10Z,1,10,huyenltnguyen,freeCodeCamp,freeCodeCamp
+6a61bbf4de137731688a270e2bdf807351e75f26,chore(curriculum): add string examples to js review (#60085),2025-04-30T19:16:32Z,1,88,a2937,freeCodeCamp,freeCodeCamp
+931c4b2a61403bd3fc4e4cf5322244eb55b13c9d,fix(curriculum): update video IDs (#60033),2025-04-30T12:56:56Z,3,6,kubowania,freeCodeCamp,freeCodeCamp
+46b9bea9ae596b1c6a6e6b77f06c7e848d0af5ad,chore(curriculum): update cat painting workshop specific assert metho…,2025-04-30T09:33:43Z,1,4,Sudhir810,freeCodeCamp,freeCodeCamp
+645c055f350d3bf6545f68c49d8d71cd7ebd83b3,fix(curriculum): added missing html boilerplate (#60072),2025-04-30T08:49:50Z,1,12,Jackkv,freeCodeCamp,freeCodeCamp
+71fb1c9ab419dc6fcee2352a2c19ed9bdc4837fd,fix(curriculum): crowdin wording for page of playing cards lab (#60046),2025-04-30T08:18:45Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+8a1e28bf4b9be529340c78246c27beff80505206,fix(curriculum): updated challenge tests (#60076),2025-04-30T07:38:40Z,1,8,linaslabs,freeCodeCamp,freeCodeCamp
+268aa82111944ae063c3c57cbf38de92f68bffde,fix(curriculum): typos in performance lectures (#60018),2025-04-30T06:00:19Z,3,8,ldtr89,freeCodeCamp,freeCodeCamp
+4bd55ba8d126cdee52aadcd810ddfd09ac8a2201,fix(curriculum): Allow more freedom of implementation in Todo App (#5…,2025-04-30T00:33:20Z,72,1226,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
+5dcb1f611cee502470879d634cc8e530d70d0f13,feat(curriculum): adding quiz questions for Python basics module (#59…,2025-04-30T00:02:31Z,1,286,jdwilkin4,freeCodeCamp,freeCodeCamp
+cd09f71590d3feb0d840492870c983d6e0180e37,feat(curriculum): add toggle visibility useState workshop (#59193),2025-04-29T23:50:32Z,17,1894,jdwilkin4,freeCodeCamp,freeCodeCamp
+05b11175195b00f7bd46666f3b7e13c737053d40,fix(curriculum): updating regex in email masker lab to accept all for…,2025-04-29T22:22:23Z,1,3,roniyaniv,freeCodeCamp,freeCodeCamp
+30b920f4572bdc66a0a4f396f71625b878650201,fix(curriculum): update wording for workshop registration form (#60054),2025-04-29T20:41:18Z,2,4,MelvinManni,freeCodeCamp,freeCodeCamp
+78d3fe740e1c84ca434b2b06ce8cdf5705d47b42,fix(ui): update section names in downloaded solutions (#59934),2025-04-29T20:24:57Z,2,66,a2937,freeCodeCamp,freeCodeCamp
+3d343ac93210d0c034d7b05d655da8e2d341ede4,fix(curriculum): update assertion methods in cat painting workshop (#…,2025-04-29T18:28:50Z,2,4,njnr14,freeCodeCamp,freeCodeCamp
+e810d8746a92520987393f38ee2a198809716876,fix(curriculum): resolves visible answer in question 28 (#60056),2025-04-29T17:25:51Z,1,20,clarencepenz,freeCodeCamp,freeCodeCamp
+a373e81a59414865c6e21a3609eb19547466c190,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-04-29T16:44:43Z,11,54,clarencepenz,freeCodeCamp,freeCodeCamp
+b4c1aa107bebdaab62999b49427632463e687c26,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-04-29T16:34:16Z,9,28,clarencepenz,freeCodeCamp,freeCodeCamp
+86ec68ecf3f8aa5762ed266d28426598611f8265,fix(curriculum): use specific assert methods in cafe menu workshop st…,2025-04-29T16:27:24Z,7,38,clarencepenz,freeCodeCamp,freeCodeCamp
+17812fc54950c288ff3c7f6852656af763615d97,feat(external curricula): build external curricula data v2 (#59533),2025-04-29T11:19:19Z,8,737,huyenltnguyen,freeCodeCamp,freeCodeCamp
+46425aa588f72d9dd0a3d0898a309e5cd6471d08,fix(curriculum): typo in lecture about styling special input elements…,2025-04-29T11:07:43Z,1,2,abhijeet-singhh,freeCodeCamp,freeCodeCamp
+c555f69883a9b82f0103f62467b868a11bc749c6,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-04-29T11:04:15Z,11,80,clarencepenz,freeCodeCamp,freeCodeCamp
+6de79433cafca2c5d04944518a23f99e028b3c67,fix(curriculum): crowdin wording for real time counter lab (#60045),2025-04-29T10:32:50Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+baf3e222337362c58bfcb47b955234408a8db0a9,chore: move budget app to full stack (#59440),2025-04-28T23:08:23Z,5,1275,ilenia-magoni,freeCodeCamp,freeCodeCamp
+4d3ab60216269e1d2553c128b79c2486e2db43bc,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-04-28T23:03:39Z,13,82,clarencepenz,freeCodeCamp,freeCodeCamp
+0f69170fafd7716903fc760b88370b56952b893e,fix(curriculum): better wording (#60040),2025-04-28T20:37:10Z,3,22,ilenia-magoni,freeCodeCamp,freeCodeCamp
+678dc4334eb4789a160f6b32e693fe6995c26229,fix(curriculum): add missing margin & padding shorthand explanations …,2025-04-28T20:36:48Z,2,6,vishal27shetty,freeCodeCamp,freeCodeCamp
+ae6783deccfd9d3aca404858a774b9fa8b1dfd5a,fix(curriculum): replace 'tag' with 'element' in cafe-menu challenges…,2025-04-28T19:34:54Z,2,6,vishal27shetty,freeCodeCamp,freeCodeCamp
+c9799c370ec160c14b5ba6f91e9a2f62c335a4fd,"chore(i18n,client): processed translations (#60031)",2025-04-28T14:10:46Z,1,302,camperbot,freeCodeCamp,freeCodeCamp
+e0274556fa346b089488eb33aa22ab35ebff909b,fix(curriculum): correct assert usage in workshop-cat-painting (#60028),2025-04-28T12:15:17Z,1,8,ShauryaDusht,freeCodeCamp,freeCodeCamp
+da5392ed0f5daf49b6d44bfe6f9f8d22ecf86004,fix(actions): get output correctly in web commit check (#60027),2025-04-28T11:28:15Z,1,4,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+fa66608b41a5bceda8213fa2d05b788ed60f0642,fix(curriculum): update assertions to use assert.equal (#60013),2025-04-26T20:46:04Z,1,6,MelvinManni,freeCodeCamp,freeCodeCamp
+e638a59db753a13f9e421358f8a7e247cbfad8ee,fix(curriculum): replace assert with assert.exists and assert.equal i…,2025-04-26T19:38:15Z,1,8,Lohith-11,freeCodeCamp,freeCodeCamp
+c28c99aa2859fcf6ac5289c7e6c9cade13abc2c0,fix(curriculum): replace generic asserts with specific methods in cat…,2025-04-26T19:36:15Z,1,8,tarek-gritli,freeCodeCamp,freeCodeCamp
+82d88e3e3adfe2f4ef1202d009428867cbdb54cb,fix(curriculum): improve the assert methods  (#60003),2025-04-26T19:30:18Z,1,6,Lynsoo,freeCodeCamp,freeCodeCamp
+058749686dbcae3feabb2842b5cb3b0f826c6c50,fix(curriculum): replace assert === with assert.equal for consistency…,2025-04-26T18:15:59Z,1,8,amoghmadireddi,freeCodeCamp,freeCodeCamp
