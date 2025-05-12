@@ -249,7 +249,3 @@ a875294adf7af4d518717923d289cf54b1ca5bc8,"fix(gha): use machine IP, and better l
 d31445fc15b1e58761ba8eb04c4cc1bc514060ab,fix(curriculum): Add missing backsticks in sort method lecture (#59688),2025-04-13T17:38:09Z,1,2,c0d1ng-ma5ter
 cd50a5564bd2a342c9cf72e0cda65fd965d42fb7,chore: remove duplicate word in comment (#59683),2025-04-12T09:07:19Z,1,2,riyueguang
 c87ae5a8ba052beea1d6bbce55556d0fb1278272,fix(GHA): improve specificity of concurrency (#59677),2025-04-12T08:24:12Z,6,22,raisedadead
-a78f40f7e640d93a0c2abf8f5848f829acdaa232,fix(api): remove authorization checks (#59680),2025-04-11T16:51:00Z,2,8,raisedadead
-f07aa3016a7a49ecda7caa9a09f7262b84e6835b,chore(curriculum): adding transcript and video ids to React state and…,2025-04-11T07:42:06Z,6,637,jdwilkin4
-7329ddbe2fb901c1d63904a69096b507df504db1,fix(client): space-out the user bio from nav (#59662),2025-04-11T06:58:06Z,2,5,ahmaxed
-2c1281d8ba481a9c10b5538f64a4a8d21f673e99,fix(curriculum): rewrite HTML Foundations Lesson H (#59659),2025-04-11T03:28:50Z,1,10,raahthor
