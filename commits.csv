@@ -1,251 +1,263 @@
-sha,message,created_date,number_of_files_updated,diff,author
-7e966906dbae4a813839ca86697defa7b2171731,fix(curriculum): Update the description in python password generator …,2025-05-10T22:08:55Z,1,2,Ajay-2005
-222f0852dbf774058af95f172bf3f42c87e8ec8d,fix(curriculum): updated cat-painting-workshop steps 42-43 to specifi…,2025-05-10T09:40:49Z,2,10,loralridz
-7144b0433348dc566e4782c2f0906516d4813610,fix(curriculum): correct 'asnwer' to 'answer' in English challenges (…,2025-05-10T07:28:38Z,2,4,VisibleNasir
-0a0eefb6f903383284a5ee0bbea7a5e0502eb8d9,fix(curriculum): update default browser styles lecture (#60260),2025-05-09T23:41:58Z,1,2,estefaniacn
-070f9c70f5bbd424cf2e6118f2e892995ba719d8,fix(curriculum): correct grammar in feature description ('request it'…,2025-05-09T18:41:58Z,1,2,Meenakshi-Marree
-01722e62a75197509824d829e4b2c61ece12b6b3,chore(curriculum): Update user stories and description for the multim…,2025-05-09T16:29:44Z,1,25,ArakhshQ
-053a6072d4781061261ef57f728d7cad28645238,"fix(curriculum): correct grammar in transcript (""you"" → ""you're"") (#6…",2025-05-09T16:22:38Z,1,2,vishnudt2004
-7ffadd053070a853863cdcb63a4a6c56cfaa1114,feat(curriculum): add polygon area calculator lab (#59460),2025-05-09T12:37:44Z,5,908,zairahira
-6fc87117118f6f6651c7c70e9a256ee7100be711,fix(curriculum): use assert.equal in cat painting workshop (#60242),2025-05-09T06:28:36Z,2,14,tanush29
-0dfda08a35f1b3554e2ed2f998767a229111123a,fix(curriculum): add test for href attribute in cat photo app (#60176),2025-05-09T05:54:58Z,1,15,Supravisor
-33cd29513e0c0fa5e3101f903e5fff4833733a37,chore(curriculum):remove stray forumTopicId from lab (#60240),2025-05-09T03:52:30Z,1,1,waleCloud
-64f566e6931d406417f6e1819b607f2423eda0d3,fix(curriculum): blank indicators in English challenges (#60236),2025-05-08T19:48:17Z,3,6,huyenltnguyen
-43754128c2e10c9bb3a72c0d68dcc12b94d86612,feat(curriculum): adding python loops and sequences quiz questions (#…,2025-05-08T16:41:31Z,1,283,jdwilkin4
-d08fe7c653475a751402f1f4a28ac78a7a08383b,fix(curriculum): remove pseudo class from business card lab (#60171),2025-05-08T15:55:36Z,1,16,Supravisor
-074e310b8269720219753d59042a6d46ef6bd022,fix(curriculum): add trim to remove whitespaces in url (#60226),2025-05-08T10:26:41Z,1,2,Ajay-2005
-a169c2a7b1639b79603b174d9b287f0075e789eb,chore(api): remove oldschema.prisma (#60227),2025-05-08T09:57:47Z,1,1101,ojeytonwilliams
-a73ecf2aead8b1e882f759e743675d07b6cb3f62,feat(ui): test indicator icon (#60049),2025-05-08T09:49:08Z,3,71,a2937
-27018424868788166a245b7b4e228c41b70a9c0c,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-05-08T07:50:56Z,9,49,clarencepenz
-aa5b9418e53ed2eb14b275edb50aa6875f470832,fix(learn): remove sentence in transcript (#60224),2025-05-07T23:17:58Z,1,2,anuplohar001
-79565fca2538990cf9f61324bf732e345e5d792e,fix(curriculum): improve Crowdin wording for workshop-recipe-ingredie…,2025-05-07T21:01:13Z,1,2,vkalakota18
-0cb1b30ca5895fe50e457ab514ab283b1c41c88c,"chore(i18n,learn): update i18n-curriculum submodule (#60214)",2025-05-07T20:53:23Z,1,2,camperbot
-b0e616a35a045d5d7ceabc32fc63553b231b425d,feat(curriculum): adding superhero application form (React forms) wor…,2025-05-07T20:49:18Z,25,4416,Ksound22
-be2fac9b611e857c3a7457ba40624dd61aae6275,fix(curriculum): update step 33 of cat painting workshop to use asser…,2025-05-07T20:33:12Z,1,8,Sir-En00n3
-31b956d16fac976ddab009294a1e06bb312a55c3,chore: update to mongodb 8 in CI (#60215),2025-05-07T19:45:53Z,3,10,ojeytonwilliams
-f25b5017fbde388c796ac30677e61b5f7e6ff81b,fix(curriculum): typo in english challenge (#60220),2025-05-07T19:22:35Z,1,2,anuplohar001
-7cd09d9f7507cb6a1d41c70653e0b1c8b2a88a69,feat(curriculum): add set 2 for css typography quiz (#59800),2025-05-07T19:11:43Z,1,460,Supravisor
-f2b09783f644385a9d3c7515a9d94dc496929ed0,feat(curriculum): add set 2 for css layout and effects quiz (#59796),2025-05-07T18:59:36Z,1,442,Supravisor
-003489c1d7dcffb4645ffe4decc01959526b1126,feat: add bash commands review content (#59192),2025-05-07T15:33:32Z,1,66,ilenia-magoni
-baf650a3c795bc063cb53dad85f92e811287836e,fix(curriculum): prevent hardcoding in addition functions (#60196),2025-05-07T14:54:22Z,2,12,Averand1
-8a6fcd70dbaafc89916020bf0f2d96369fdfb108,fix(api): update logging (#60210),2025-05-07T10:00:32Z,2,16,raisedadead
-8e86fac37845d80dc21b81dce759d25b083df6d0,fix(curriculum): update cat painting workshop to use specific assert …,2025-05-06T23:39:36Z,1,36,clarencepenz
-32c19f1b92afb63de97d1783ae9aee8846b3add6,fix(curriculum): Make calculator tests less restrictive (#60188),2025-05-06T21:51:38Z,6,18,c0d1ng-ma5ter
-ff43f3aecaf0f98b199f5b0dac6629c51859fde3,fix(api): whitespace in default values (#60199),2025-05-06T20:22:42Z,1,2,raisedadead
-dc5c7893b50b92795da3fcedf74e0f38cdc745ed,fix(api): update logs in user.ts (#60193),2025-05-06T18:19:24Z,1,7,raisedadead
-504a6eaa1d1460926b609ab3f65f21a17bb9f061,chore(curriculum): refactor tests in the workshop-cat-painting steps …,2025-05-06T17:24:40Z,2,20,Sky-walkerX
-d0e63c60cad50f3d3905967451f9d6c9ba1c9608,fix(api): add req id to logs (#60191),2025-05-06T16:50:31Z,1,4,raisedadead
-008e35d851ca10f6b1714de3a1135835e2a7ba3e,fix(api): update logging (#60187),2025-05-06T15:16:36Z,21,296,raisedadead
-c55e98d3eea223e50ee74bcd0b5a7efde2e4bcd0,chore(curriculum): Cat painting workshop updated to use specific asse…,2025-05-06T08:47:30Z,2,14,ArakhshQ
-e5051d472e8cb39a0b6c5bf85607e4d2e14f2d03,fix(GHA): update environment validation (#60011),2025-05-06T07:00:06Z,1,56,raisedadead
-3e9c13bb4349b94a46e411bfffecfdbd77971701,fix(curriculum): typos and spacing in lectures and reviews (#60077),2025-05-06T05:16:29Z,9,44,Supravisor
-abd9e3ff3e7e8dc1c01b542eaa7ab9803853130a,chore(curriculum): update TypeScript quiz questions (#60002),2025-05-05T18:50:06Z,1,78,sidemt
-256b76c3f76b02614dc74e4a4789a8ed691d1a8d,"chore(i18n,learn): update i18n-curriculum submodule (#60159)",2025-05-05T15:44:37Z,1,2,camperbot
-b842d09e9635f8a5a3cde9112ca7ef42c5f78df2,"chore(i18n,client): processed translations (#60158)",2025-05-05T15:05:17Z,10,70,camperbot
-a8be31b6ea25e6f1412ccef5499073da5cf82942,fix(a11y): hide Fail icon from screen readers (#60157),2025-05-05T12:30:20Z,2,3,huyenltnguyen
-181321d90dffd8ed2e27fd76eebd5dbc013b9730,fix(curriculum): correct aria-label hint in music player step 43 (#60…,2025-05-05T07:25:43Z,1,2,bobofishbo
-ec43a5c4db594a213f13615366e5c9a1222e8caa,fix(curriculum): assert methods in cat painting step 29 (#60136),2025-05-05T06:24:17Z,1,4,LuluZhuu
-7b3a19f433637efcec706e92ca7c325b21d24422,fix(curriculum): typos in core JS fundamentals lecture (#60151),2025-05-05T04:08:58Z,2,6,Supravisor
-e2407ac6767d50da77cdbe971224e48011bd7db9,fix(curriculum): improve wording for clarity in step 4 instructions /…,2025-05-04T08:33:16Z,1,4,MelvinManni
-c796ea3dca48222bcc252d2f39a8c22b3f730806,fix(curriculum): update assertion syntax for CSS properties in cat pa…,2025-05-04T08:30:14Z,5,10,GuptaShubham-11
-7e72a817bc2bec73d59d00ab0d4b57afde02020b,fix(curriculum): typo in music player workshop step 3 (#60130),2025-05-02T23:07:33Z,1,2,vishnudt2004
-30a3c320c27926103fbd1bc23a942972cf245b9f,fix(curriculum): typo in step 27 of music player workshop (#60134),2025-05-02T22:40:45Z,1,2,joonhoswe
-776c83bdb3f3d4aca86fe9ac6e973a772ae7349e,fix(curriculum): instructions typo in learn about speculation and req…,2025-05-02T16:44:15Z,1,2,clarencepenz
-7822f2f5337595a4910faa4c89fca30bf4e2aa6c,fix(curriculum): logical typo in clarify information (#60118),2025-05-02T15:50:22Z,1,2,Supravisor
-f9a2b91c8b0cffcc631c84cde847806f4e08a0fc,fix(curriculum): improve Crowdin compatibility for workshop-nutrition…,2025-05-02T15:40:59Z,1,6,vkalakota18
-3e9982107de9a8daa0b801c57576832930cff469,fix(curriculum): Make Crowdin like the flappy penguin (#60044),2025-05-02T14:57:14Z,13,26,c0d1ng-ma5ter
-83a6854243f1b4447ff7fb46865f22e335cf074d,fix(curriculum): Reword adjacent code elements for improved Crowdin c…,2025-05-02T14:53:00Z,3,6,omarraf
-31369067da3004494cfa654a2463834c190f7fab,fix(curriculum): update fcc author wording (#60050),2025-05-02T14:03:54Z,6,14,a2937
-2815ede749053d5449509fd0d37b21f111998568,fix(curriculum): change generic assert to use assert.equal in worksho…,2025-05-02T08:31:38Z,1,6,joonhoswe
-e4126be18ba5ffa0b91d44deec5d4514dfd8b6cb,fix(client): add support of MathJax in FSD cert (#60110),2025-05-02T08:15:27Z,1,3,jdwilkin4
-f409d5b3872f7c03e069a2e80056c4a1123d59a1,fix(curriculum): update cat painting workshop step 24 to use assert m…,2025-05-02T06:41:17Z,1,4,cansuakgl
-d375cb3b324a0f333c41aa145ed9c98e183aecd5,feat(curriculum): add multimedia player lab (#59706),2025-05-02T00:26:16Z,5,370,larymak
-62091ed26586b03e8bb80886f0feb28228131ed7,fix(curriculum): updated assert methods (#60089),2025-05-01T22:30:45Z,1,12,shaikhFaris
-ca45f715c23136cfc68eff9acc395931ab2879fe,fix(curriculum): better wording in workshop-todo-app (#60075),2025-05-01T15:39:56Z,1,2,RojaPinnamraju
-6f51bd86dcbd8bf593f47a2775619fd0d0ca8499,fix(curriculum): improve wording for Crowdin compatibility (#60087),2025-05-01T12:07:56Z,5,12,chiuinggum
-f36a45363345fa924d7fe3b2b56ca7bbe2f8c513,fix(curriculum): replace Unicode ƒ with standard f in Map object lect…,2025-05-01T11:46:01Z,1,2,JainSourav30
-1d9b2b2330547121a52e077a2e325183c12accd4,fix(curriculum): Update to wording that crowdin likes in different wo…,2025-05-01T05:27:45Z,3,6,MelvinManni
-9eba39281399ef92164cb7821c974caa7ef42454,chore(client): remove bubbles next to the superblock (#59821),2025-05-01T05:21:38Z,4,245,khalil423
-d0040492f2546fbfdf855ab43c3643deba089e8f,"chore(i18n,client): processed translations (#60084)",2025-05-01T05:20:23Z,10,100,camperbot
-4f787a7a560d3f4a56b6a8990af4fff3402b376d,fix(curriculum): FSD-replace assert with assert.equal in cat painting…,2025-05-01T05:11:04Z,1,6,MrKleenex12
-5c7ec828b7064df7d1046669fec60e8966c5a74b,English Curriculum: Block 17 (#59564),2025-05-01T01:43:53Z,161,16093,anastasiiauk
-8e464d272a4ef27b0be65d88c0fd3ba3e3e6f119,feat(curriculum): add set 2 for computer basics quiz (#59759),2025-05-01T01:43:36Z,1,442,Supravisor
-7be458561a6f4787941f2c586068273c7cbde95e,feat(curriculum): add set 2 for basic css quiz (#59761),2025-05-01T01:43:09Z,1,458,Supravisor
-46c20ab6f6182d9e57dbf68ce6e4e5e8232fac31,refactor(client): use shared Module interface (#60082),2025-04-30T19:52:10Z,1,10,huyenltnguyen
-6a61bbf4de137731688a270e2bdf807351e75f26,chore(curriculum): add string examples to js review (#60085),2025-04-30T19:16:32Z,1,88,a2937
-931c4b2a61403bd3fc4e4cf5322244eb55b13c9d,fix(curriculum): update video IDs (#60033),2025-04-30T12:56:56Z,3,6,kubowania
-46b9bea9ae596b1c6a6e6b77f06c7e848d0af5ad,chore(curriculum): update cat painting workshop specific assert metho…,2025-04-30T09:33:43Z,1,4,Sudhir810
-645c055f350d3bf6545f68c49d8d71cd7ebd83b3,fix(curriculum): added missing html boilerplate (#60072),2025-04-30T08:49:50Z,1,12,Jackkv
-71fb1c9ab419dc6fcee2352a2c19ed9bdc4837fd,fix(curriculum): crowdin wording for page of playing cards lab (#60046),2025-04-30T08:18:45Z,1,2,Supravisor
-8a1e28bf4b9be529340c78246c27beff80505206,fix(curriculum): updated challenge tests (#60076),2025-04-30T07:38:40Z,1,8,linaslabs
-268aa82111944ae063c3c57cbf38de92f68bffde,fix(curriculum): typos in performance lectures (#60018),2025-04-30T06:00:19Z,3,8,ldtr89
-4bd55ba8d126cdee52aadcd810ddfd09ac8a2201,fix(curriculum): Allow more freedom of implementation in Todo App (#5…,2025-04-30T00:33:20Z,72,1226,c0d1ng-ma5ter
-5dcb1f611cee502470879d634cc8e530d70d0f13,feat(curriculum): adding quiz questions for Python basics module (#59…,2025-04-30T00:02:31Z,1,286,jdwilkin4
-cd09f71590d3feb0d840492870c983d6e0180e37,feat(curriculum): add toggle visibility useState workshop (#59193),2025-04-29T23:50:32Z,17,1894,jdwilkin4
-05b11175195b00f7bd46666f3b7e13c737053d40,fix(curriculum): updating regex in email masker lab to accept all for…,2025-04-29T22:22:23Z,1,3,roniyaniv
-30b920f4572bdc66a0a4f396f71625b878650201,fix(curriculum): update wording for workshop registration form (#60054),2025-04-29T20:41:18Z,2,4,MelvinManni
-78d3fe740e1c84ca434b2b06ce8cdf5705d47b42,fix(ui): update section names in downloaded solutions (#59934),2025-04-29T20:24:57Z,2,66,a2937
-3d343ac93210d0c034d7b05d655da8e2d341ede4,fix(curriculum): update assertion methods in cat painting workshop (#…,2025-04-29T18:28:50Z,2,4,njnr14
-e810d8746a92520987393f38ee2a198809716876,fix(curriculum): resolves visible answer in question 28 (#60056),2025-04-29T17:25:51Z,1,20,clarencepenz
-a373e81a59414865c6e21a3609eb19547466c190,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-04-29T16:44:43Z,11,54,clarencepenz
-b4c1aa107bebdaab62999b49427632463e687c26,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-04-29T16:34:16Z,9,28,clarencepenz
-86ec68ecf3f8aa5762ed266d28426598611f8265,fix(curriculum): use specific assert methods in cafe menu workshop st…,2025-04-29T16:27:24Z,7,38,clarencepenz
-17812fc54950c288ff3c7f6852656af763615d97,feat(external curricula): build external curricula data v2 (#59533),2025-04-29T11:19:19Z,8,737,huyenltnguyen
-46425aa588f72d9dd0a3d0898a309e5cd6471d08,fix(curriculum): typo in lecture about styling special input elements…,2025-04-29T11:07:43Z,1,2,abhijeet-singhh
-c555f69883a9b82f0103f62467b868a11bc749c6,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-04-29T11:04:15Z,11,80,clarencepenz
-6de79433cafca2c5d04944518a23f99e028b3c67,fix(curriculum): crowdin wording for real time counter lab (#60045),2025-04-29T10:32:50Z,1,2,Supravisor
-baf3e222337362c58bfcb47b955234408a8db0a9,chore: move budget app to full stack (#59440),2025-04-28T23:08:23Z,5,1275,ilenia-magoni
-4d3ab60216269e1d2553c128b79c2486e2db43bc,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-04-28T23:03:39Z,13,82,clarencepenz
-0f69170fafd7716903fc760b88370b56952b893e,fix(curriculum): better wording (#60040),2025-04-28T20:37:10Z,3,22,ilenia-magoni
-678dc4334eb4789a160f6b32e693fe6995c26229,fix(curriculum): add missing margin & padding shorthand explanations …,2025-04-28T20:36:48Z,2,6,vishal27shetty
-ae6783deccfd9d3aca404858a774b9fa8b1dfd5a,fix(curriculum): replace 'tag' with 'element' in cafe-menu challenges…,2025-04-28T19:34:54Z,2,6,vishal27shetty
-c9799c370ec160c14b5ba6f91e9a2f62c335a4fd,"chore(i18n,client): processed translations (#60031)",2025-04-28T14:10:46Z,1,302,camperbot
-e0274556fa346b089488eb33aa22ab35ebff909b,fix(curriculum): correct assert usage in workshop-cat-painting (#60028),2025-04-28T12:15:17Z,1,8,ShauryaDusht
-da5392ed0f5daf49b6d44bfe6f9f8d22ecf86004,fix(actions): get output correctly in web commit check (#60027),2025-04-28T11:28:15Z,1,4,ojeytonwilliams
-fa66608b41a5bceda8213fa2d05b788ed60f0642,fix(curriculum): update assertions to use assert.equal (#60013),2025-04-26T20:46:04Z,1,6,MelvinManni
-e638a59db753a13f9e421358f8a7e247cbfad8ee,fix(curriculum): replace assert with assert.exists and assert.equal i…,2025-04-26T19:38:15Z,1,8,Lohith-11
-c28c99aa2859fcf6ac5289c7e6c9cade13abc2c0,fix(curriculum): replace generic asserts with specific methods in cat…,2025-04-26T19:36:15Z,1,8,tarek-gritli
-82d88e3e3adfe2f4ef1202d009428867cbdb54cb,fix(curriculum): improve the assert methods  (#60003),2025-04-26T19:30:18Z,1,6,Lynsoo
-058749686dbcae3feabb2842b5cb3b0f826c6c50,fix(curriculum): replace assert === with assert.equal for consistency…,2025-04-26T18:15:59Z,1,8,amoghmadireddi
-a905083bf88887b14de64e0843e3d3e03912b7a8,chore(api): improve log statements (#59992),2025-04-25T10:34:03Z,4,26,raisedadead
-464181b3b88ea1a7e62de4b4f623e5438fb98035,fix(curriculum): added missing preposition and removed a duplicate ex…,2025-04-25T07:33:09Z,2,20,clarencepenz
-b7bdea5b2306f7194e78a206709172d1713b346c,fix(curriculum): typo in lecture working with css transforms overflow…,2025-04-25T07:03:01Z,2,4,clarencepenz
-126b60bc676c7216fcc0c74c0e8d75e96429359e,fix(curriculum): typo in lecture working with code editors and ides (…,2025-04-25T06:53:22Z,1,2,clarencepenz
-f253fd6639ea44376e2811cfb38bc8c9e3cabbcf,fix(curriculum): Add a note to let users know to use JavaScript only …,2025-04-25T06:48:25Z,1,2,omarraf
-9cd9566593a8c31cade036859e64c2678b241a7e,fix(curriculum): typo in lecture understanding core javascript fundam…,2025-04-24T22:37:43Z,2,4,clarencepenz
-e6ab475d41682e5f3f4bc73950c41c0134c975aa,fix(curriculum): typo in english challenge (#59976),2025-04-24T22:17:37Z,1,2,OKmimech
-331153749ae994cd54502f46c1163bfc906693b3,fix(curriculum): removed console.log from challenge test (#59967),2025-04-24T19:48:22Z,2,4,akremdh1
-fada6f08f842fee2e4f4eaf64fa578be53d01d27,fix(api): add req to the child logger (#59961),2025-04-24T19:35:57Z,1,2,raisedadead
-ff38233f96facc63fe7569da567256da38af1eac,fix(api): adjust levels for cookie related logs (#59946),2025-04-24T19:20:07Z,3,8,raisedadead
-061df27f1d71490fc07d833b76dc06ef5bd94783,feat(curriculum): Quiz set 2 for the CSS pseudo-classes (#59782),2025-04-24T19:07:41Z,1,509,zxc-w
-1faac313e1bf1240935bdb2f6920ba9b70087ab2,fix(curriculum): typo in lecture the var keyword and hoisting (#59965),2025-04-24T18:34:34Z,1,2,clarencepenz
-c6543b2ddf6e6907134a28158d46f7bbf070d022,fix(curriculum): typo in computer basics review page (#59962),2025-04-24T18:24:02Z,1,2,omarraf
-46b910ee408d8c32ff289ba72ee4acc2ad956e77,dev(api): add build options to test env (#59957),2025-04-24T17:03:49Z,4,152,ShaunSHamilton
-f9edfe3bbd406ae314ecd8b66b5e6d1d0b3c135b,fix(curriculum): typo in lecture importance of accessibility and good…,2025-04-24T15:57:33Z,1,2,clarencepenz
-2fd73445550981dc47469ba2ffc8c786ef5331de,fix(api): adjust logs in email-subscription (#59944),2025-04-24T14:37:45Z,1,13,raisedadead
-6a79b76441f33319e6acdbaed8332522f8641fa3,fix(curriculum): lab-post-card no document.styleSheets (#59943),2025-04-24T14:37:09Z,1,34,ShaunSHamilton
-27689faf41a508e4c100f9b31474eb8593a742a8,"fix(api): adjust logging in bouncer, downgrade to trace (#59945)",2025-04-24T14:36:28Z,1,10,raisedadead
-07c45a1ac41076002ff6cd1dc9683b0bfcc08b6d,fix(curriculum): typo in lab weather app (#59950),2025-04-24T14:32:56Z,1,2,clarencepenz
-d2bd2a63c044efe59cab84076a2b33468f46d414,fix(curriculum): improve feedback text in english challenges (#59935),2025-04-24T14:28:06Z,4,14,AilaLu
-446eef91e53e2392d572a09fe071965d4c161d1e,chore(curriculum): add punctuation for trends in tech (#59911),2025-04-24T14:26:32Z,1,2,Supravisor
-596561161bfe08a480690723ff45b0992490dbe0,feat(curriculum): Add set 2 of questions for CSS colors quiz (#59812),2025-04-24T14:25:38Z,1,442,Eyb100
-13904c5dade6996c58a27f440c09093bb9747e26,fix(curriculum): Allowed seperate declarations and assignments  (#59909),2025-04-24T14:17:22Z,1,10,Priyesh1311421
-cfc41c74096ff8607101157d39f8742546acb2a8,chore(external curricula): rename script file (#59942),2025-04-24T12:26:45Z,3,13,huyenltnguyen
-dcb765efc0394527c9274631c71c1dbd5d96638a,fix(curriculum): remove stub feedback from correct answer (#59924),2025-04-24T09:22:56Z,1,4,Abdallah-scout
-e8ce4cd2fe077ac80993c528d9e7fad8b9502dda,fix(curriculum): add indentation to CSS examples in transform propert…,2025-04-24T09:00:18Z,1,48,omarraf
-ae387fbd5ccfc2846e7233de5fe21ca49fecbb08,refactor(api): organise tooling (#59931),2025-04-24T04:57:23Z,7,23,ojeytonwilliams
-3c822da24372ea9b0c0e40bf2252c70c76396427,fix(api): catch GB init errors on prod only (#59912),2025-04-24T04:56:33Z,2,11,raisedadead
-34ee68faa86e9bab00aee7e8935a17146b1b4b69,chore: upgrade tests for accessibility quiz workshop (#59852),2025-04-24T01:48:07Z,2,18,ilenia-magoni
-03e166b15f1c53430c370fca955f6dec1373fa93,fix(curriculum): improve the feedback text in Learn How to Clarify In…,2025-04-24T01:45:43Z,1,2,clarencepenz
-f8e92b2aace0137baa5bc8f41e887bdfa0fdbfa9,fix(curriculum): update tests to specific methods cafe menu steps 1-1…,2025-04-24T01:37:11Z,11,80,JoJoJo-JoJoJo
-450fd76f2a96e98c83799aff88c1d1bbdff41d98,chore(curriculum): cleanup lightbox lab (#59586),2025-04-24T01:20:25Z,1,281,jdwilkin4
-96557d0704b5c7ff961ca0cb150896b5c7920218,fix(curriculum): Use specific assert methods in hotel feedback form (…,2025-04-24T01:04:40Z,23,92,c0d1ng-ma5ter
-133f76d7c274a1beeaf40522b97d9eed330578c0,chore: update piano workshop tests to current standards (#59837),2025-04-24T01:00:03Z,29,160,ilenia-magoni
-ef6d965d5506616708ba65b0816ebb8ff9301215,fix(curriculum): make test more precise in business card lab (#59930),2025-04-24T00:10:23Z,1,2,clarencepenz
-db07c718b92e03d579577fe111b538c2a9a963dd,fix: only log if the request has an Origin header (#59920),2025-04-23T20:50:12Z,2,14,ojeytonwilliams
-6ea8c33170b7705a8e6f641b7e85059cacac6396,fix(curriculum): use specific assert methods in flappy penguin worksh…,2025-04-23T17:28:52Z,21,80,clarencepenz
-9a86afc193e72fcbd99d13620a748fbec30a5805,"chore(i18n,learn): update i18n-curriculum submodule (#59927)",2025-04-23T16:13:32Z,1,2,camperbot
-796368094c0ba43d909f7e830ea76579172b151e,fix(client): retain editableContents through reload (#59573),2025-04-23T15:27:30Z,6,110,ojeytonwilliams
-310d0c691c8b2402b6b22a2c3c1f4e6907b49254,chore: remove DEBUG from .env (#59922),2025-04-23T15:23:43Z,1,1,ojeytonwilliams
-9dfbd80e8ccc54052aeaf5717bd94129344e9672,fix(curriculum): update tests to use specific assert methods in city …,2025-04-23T15:16:50Z,26,86,clarencepenz
-3efc708ee8c1376b0839564d1e509eb62e53a219,"chore(i18n,client): processed translations (#59918)",2025-04-23T15:01:43Z,20,50,camperbot
-575445fb55a86787a6d8e32b4501e73d8ec2a290,chore: remove preinstall script (#59910),2025-04-23T07:14:38Z,1,1,raisedadead
-cfe2025d18d76765c6840e69277d43a4c9bf9e24,fix(curriculum): update specific assert methods in reusable mega navb…,2025-04-23T06:38:42Z,7,18,clarencepenz
-8c03f6bf39253cfa621254af275654f8e9fa1175,fix(curriculum): removed the extra space (#59896),2025-04-23T01:10:37Z,1,2,Priyesh1311421
-33dcdc7a25d7e4434e6ed95ecdeb7a6853c455d3,chore(curriculum): add backticks for anchor element in cat photo app …,2025-04-22T23:14:59Z,2,4,Supravisor
-01fb012da31a016bdd3216248b1c64e42bf6f8dd,fix(curriculum): update tests to use specific assert methods in works…,2025-04-22T19:24:22Z,15,64,clarencepenz
-6ba481156a1ffb8f30b7fd89285665d55582eb0e,fix(curriculum): use correct solution in stand up meeting task 48 (#5…,2025-04-22T18:32:24Z,1,2,a2937
-10d8fc6a82615ab5417a6bdfd003913f68e0ab30,fix(curriculum): specific assert methods now used in registration for…,2025-04-22T17:42:17Z,10,66,clarencepenz
-5a1cb8ee2a1aed9986bd7bcfa5177228fa6a07ce,chore: upgrade tests to current standards in palindrome checker lab (…,2025-04-22T17:06:48Z,1,2,ilenia-magoni
-37028f2bb80b532bf22092ca837c1f754eda93d1,chore(api): log growthbook initialization failures (#59889),2025-04-22T16:36:27Z,3,49,ojeytonwilliams
-6d06eaa5c0c228f51f1217642fd3adf4fc0e88de,fix(curriculum): resolve hoisting transcript errors (#59885),2025-04-22T16:01:42Z,1,4,clarencepenz
-fe6f5db7a99178c8d7ed16de8d7f361409bb474a,feat: add tests to make existing code is not changed in piano worksho…,2025-04-22T15:21:42Z,1,16,ilenia-magoni
-c6ad20bb72e2260f55fe787889914ca8dac19af0,feat(tools): add nvmrc (#59862),2025-04-22T14:44:40Z,1,1,raisedadead
-6478bea038ca4875c25679d5135026488b82265a,feat(api): add user id to user report (#59816),2025-04-22T14:28:16Z,5,76,ShaunSHamilton
-fdbca0bd1f62c6579a111db6d6d58865b4949dd7,fix(api): skip cors logging for /status/* routes (#59881),2025-04-22T14:05:49Z,2,40,ojeytonwilliams
-1cab0991b590c1e436f1870171fea4c25d7ce89e,fix(api): adjust logs (#59887),2025-04-22T13:58:26Z,4,20,raisedadead
-cc1b31f59d448378cde6837a7bc8d06b92ba0fe2,chore(api): throw if growthbook env vars are missing (#59873),2025-04-22T07:41:09Z,1,8,ojeytonwilliams
-6d2bd791458a23a53ad7701662cf49fc462d1467,fix(curriculum): update challenge description for piano workshop (#59…,2025-04-22T06:29:21Z,1,2,Supravisor
-a3941bcd0902bae9fb70b4a9a62ebe6923c3b951,refactor(external curricula): simplify get intro logic (#59707),2025-04-22T05:39:20Z,2,131,huyenltnguyen
-2a4b45efbd3eabb8c14bbae44ddf9dafbe5a3b36,feat: add rpg character lab (python basics) to main (#59303),2025-04-22T00:47:11Z,4,252,ilenia-magoni
-819de54d0daf5a68f2ddb32cd2c3032b8679061b,fix(curriculum): use assert equal and exists methods in blog page wor…,2025-04-22T00:33:04Z,1,6,clarencepenz
-330221ccc14b52c92df071b7d3875b2085ab83ee,fix(curriculum): update specific methods not in used for music instru…,2025-04-22T00:30:50Z,2,20,clarencepenz
-afd483f08238b75bf2cd0383b94a816e55969528,feat(curriculum): add web performance transcripts (#59719),2025-04-22T00:23:08Z,14,706,moT01
-9c8631ad157484336d75a7be5e50d052071d4d64,fix(curriculum): update assert for real time counter lab (#59854),2025-04-21T20:27:41Z,1,5,clarencepenz
-260ef108dc1283120f45f977783a98c1f69b985b,fix(curriculum): use specific asserts in recipe page lab (#59856),2025-04-21T20:24:38Z,1,2,clarencepenz
-d1ce6128656d4176713fd627789f578c08578c5a,fix(curriculum): use assert.lengthOf method in storytelling app works…,2025-04-21T20:20:33Z,1,2,clarencepenz
-a026d95e3a61ef55e172fbe7b015f71ef1c1a568,fix(curriculum): update tests to use specific methods in calorie coun…,2025-04-21T20:05:45Z,1,4,clarencepenz
-ae720e82820b300eec02b44db3cba88869db8c2d,feat(api): add deployment version endpoint (#59841),2025-04-21T19:30:20Z,3,19,raisedadead
-aef4729ce3edf57184d4653ba6a8ebb0dd918b8e,fix(curriculum): update specific methods not used in todo app worksho…,2025-04-21T18:51:52Z,1,4,clarencepenz
-41a1ad3a20fc3ab6b04fd2a1ee99fe85d6063f07,fix(curriculum): use assert.fail method in survey form lab (#59857),2025-04-21T18:34:57Z,1,2,clarencepenz
-9d0a1bc7d63b1974b89770b41820df918885e5df,chore: update curriculum-helpers to v4 (#59835),2025-04-21T15:34:05Z,2,18,ojeytonwilliams
-bf5580700c685f3ad0d1ee438bad70d978be358b,"chore(i18n,learn): update i18n-curriculum submodule (#59851)",2025-04-21T15:33:19Z,1,2,camperbot
-667aa63d03ab7ccc18eb2d898c5555d5795635f6,fix(learn): Audrey Hepburn quote inside of quote (#59833),2025-04-21T15:30:53Z,1,2,Anthonymiranda
-ae956762a64c4e9386040a19cd76b2df5036a59b,"chore(i18n,client): processed translations (#59842)",2025-04-21T15:23:06Z,20,458,camperbot
-573d08dc7048ffcc3951fddb31016e34463497e9,fix: Replace quotes with backticks in Cat Photo App step 9. (#59836),2025-04-21T14:43:21Z,1,2,neelesh-124
-ed6c77e972ee15e454f70c5d1e2c6f249eddbea9,fix(gha): remove workflow_run (#59840),2025-04-21T11:38:58Z,2,37,raisedadead
-08c12b6620262f77f3aa92d4385023014726596c,feat(curriculum): add react data fetching and memoization transcripts…,2025-04-21T07:33:35Z,4,904,moT01
-d1e78aa98796913440b27b94944cc60df5bd0e5a,"fix(curriculum): grammar errors in English for Developers, Block 16, …",2025-04-21T07:21:48Z,2,4,miyaliu666
-22f251ebd868f6014069fdd25433dcf52e6bfaa8,chore(curriculum): add backticks for alt attribute value (#59828),2025-04-21T04:20:16Z,1,2,Supravisor
-9b539eefc7216d630e3f72420ad98676dcaa0e7a,fix: validation now allows challengeType 27 (#59825),2025-04-20T19:42:03Z,1,2,ilenia-magoni
-aa8adedc86cebc27e1f0b54c5bc21b41fc00f246,fix(curriculum): css layout and effects quiz reset options (#59798),2025-04-20T17:26:11Z,1,8,clarencepenz
-65144a25828c0dc86a03f0317b50e8a90c34828c,docs(readme): update outdated urls on README.md (#59817),2025-04-20T10:56:20Z,1,6,xavizera
-e2996eb3e6951e9284a2b58ff1abc10ec1a012f7,fix(gha): cleanup logs and validation,2025-04-20T08:19:47Z,1,18,raisedadead
-de706811261aec4f381b7f1dd7dcb9abdb1b44f3,fix(curriculum): Improved specificity of ARIA answer (#59799),2025-04-19T11:43:16Z,2,4,kaipepler
-3d99e284250125821f171ddb55204ce4be327e7b,feat(curriculum): color picker lab (#59018),2025-04-19T07:58:16Z,5,375,naomi-lgbt
-62ef8f603338eaa82ef3c2db2ee86c9302d2ecc1,feat(curriculum): add lab-tic-tac-toe (#59439),2025-04-18T19:08:07Z,5,584,ShaunSHamilton
-4b3f04f12fd2bb63cec27ceffa487bde9915fd51,feat(curriculum): add labs-react-forms (#59320),2025-04-18T17:26:30Z,5,2225,ShaunSHamilton
-a3fff8e66f5efc8d8ef7be85607000df4ece0a06,fix(curriculum): typo in past experiences English challenge (#59807),2025-04-18T17:03:15Z,1,2,Anthonymiranda
-3b1b7da7b0c973f1d5ab6853a2a22a1094ad4533,fix(client): Modification of component name (#59804),2025-04-18T09:16:09Z,1,6,agilan11
-07fd00dd4837292ff95889b72493762fd7a892f0,fix(curriculum): remove single quotes from permutation generator lab …,2025-04-18T09:11:43Z,1,142,clarencepenz
-ca866b2c80143b0aa32a4d4710e89e411092f22f,fix(curriculum): added additional tip for building a gradebook app (#…,2025-04-18T08:56:01Z,1,3,clarencepenz
-efb8d482fcfc8ffd47dd8509b36fffcba5bd3af4,fix(curriculum): fix test for step 71 of the music player lesson (#59…,2025-04-17T17:14:13Z,1,2,dennmar
-2c436949f650ca3f97a46af7ee1fef20b3243364,fix(client): use translation strings for alt text (#59727),2025-04-17T14:46:22Z,2,12,huyenltnguyen
-e115cd875985d68498bd0cbb0f3c681e6abd10dd,fix(curriculum): update block element in basic css review (#59784),2025-04-17T14:33:39Z,1,2,Supravisor
-aa451dbac90563272a03a1edcb5aa298d57b7417,fix(client): update finish quiz modal (#59788),2025-04-17T14:31:48Z,1,2,clarencepenz
-cccbd797417e217c19c1c0b1365e3fd74e1865c6,fix(curriculum): remove redundant line in review pages (#59772),2025-04-17T14:28:28Z,65,192,clarencepenz
-9c4ed1e2a4c16d1bfca412170bdfb1b05fbb8aea,fix(a11y): hide decorative images from screen readers (#59786),2025-04-17T14:15:05Z,4,4,huyenltnguyen
-897277a037e5d615c88c36f7843c2d18811bc7c2,refactor(GHA): update workflow to be consistent with legacy,2025-04-17T08:29:10Z,1,186,raisedadead
-560a3f661d8975fc012fead1fe0fe2036286977a,fix(GHA): adjust order of checks in legacy,2025-04-17T08:29:09Z,1,12,raisedadead
-a12d9b3d59eba43d67acf3f5f01dabcd9f9e4303,chore(client): remove redundant link underline styles (#59783),2025-04-17T07:27:44Z,1,8,merxgrc
-6a318b5508a3e32cb5d504c9def402a5fba74968,fix(curriculum): improve code examples in greeting bot workshop (#59763),2025-04-17T06:29:13Z,2,6,Supravisor
-ed63d93e94631667c2df8e097fed19a41fb50106,fix(curriculum): change pseudo class to first-of-type (#59736),2025-04-17T04:57:29Z,1,13,clarencepenz
-a227fb73f636ad2c904b51c7f94bc2d6fb8101ca,feat(curriculum): Add English tasks B1 Block 16 (#59645),2025-04-17T02:17:18Z,153,15770,miyaliu666
-c6e6b1e66253b6028d2835f45473669fce90cba4,fix(curriculum):  Navbar component workshop steps (#59676),2025-04-16T16:42:32Z,2,25,clarencepenz
-f4a2d8d03bbaf76f05c023c012ce5ef433bafe05,fix(curriculum) : Improve Question 19 Clarity by Standardizing Answer…,2025-04-16T16:27:57Z,1,6,agilan11
-ccdd205a153a0d8e352040bb0224d62f6f2912d6,refactor(curriculum): mock fetch in Build a Weather App (#59549),2025-04-16T16:17:08Z,1,115,ojeytonwilliams
-26ab080ada7890e75b63d9195d9e54cef7fb2b52,fix(curriculum): allows tests to accept event delegation solution (#5…,2025-04-16T16:09:53Z,1,6,MrSkinny
-0aefe7a551612427deb7b8df86f05b09ee596c6c,"fix(curriculum): Stylized To-Do List - update tests, minor fixes (#59…",2025-04-16T15:59:37Z,1,82,lasjorg
-8f478458a4a3338b666d0b53c3fb891b6e84fac8,fix(curriculum): update testing quiz questions (#59769),2025-04-16T15:46:46Z,1,78,sidemt
-33f0842fc17946f35b75dbe0de0a5ec3f26d34f6,feat(challenge types): add python lab challenge type (#59732),2025-04-16T15:42:59Z,8,43,moT01
-72f8b3db9aafe5ee89e77428fd1208be8b2c66cd,feat(curriculum): add testing review page (#59714),2025-04-16T15:28:33Z,2,204,sidemt
-ce7845365c3dec4926f19104bfea997409446295,chore(client): adjust backend placeholder with localhost (#59765),2025-04-16T15:27:12Z,1,4,ShaunSHamilton
-2541f93fb9673581a9c041c6de9084aa3e16a71e,feat(curriculum): add lab-currency-converter (#59518),2025-04-16T14:53:14Z,5,529,ShaunSHamilton
-1dfb290cab59de0e796079677b02d2d231367973,fix(curriculum): typo in shortest path algorithm step 12 (#59766),2025-04-16T14:43:05Z,1,2,akremdh1
-155deb608ac0457a836482236c6c40c1b90ac213,feat(curriculum): add new question to lecture with css fonts (#59738),2025-04-16T08:55:33Z,1,17,clarencepenz
-d6e4086e63b192f73f9463c33174c30a69654b5f,refactor: use canSaveToDB function more (#59730),2025-04-16T08:35:55Z,2,16,moT01
-7f5a4c9ea027aa5156a9ee0b4bdbe2ba9d7cafeb,fix(curriculum): place comment below example in greeting bot workshop…,2025-04-16T05:44:37Z,1,2,Supravisor
-6ab6b384d25025a6d9c2bbbe92e1dec27a678f25,feat(curriculum): add react forms transcripts (#59621),2025-04-15T19:09:42Z,2,357,moT01
-287fc6f0302c9291d043c313a68491b69b2c97be,fix(curriculum): grammatical issue in several challenges (#59723),2025-04-15T17:22:50Z,8,16,Drowsystudent
-0c05bc8002dbed22a70eccfb583dbb578e5eb323,fix(curriculum): update HTML Review chapter with missing sections (#5…,2025-04-15T16:57:22Z,1,34,JarydSt
-f8c5a86285da7a4e7f7ef9e3fdc03ad7986b6bda,feat: add react debugging video ids and transcripts (#59632),2025-04-15T16:04:12Z,4,548,scissorsneedfoodtoo
-f0ba8441d5c703d58309d3c9e876b25961c38a9b,fix(Curriculum): Fix missing words of tasks in block 13 B1 English cu…,2025-04-15T16:01:44Z,4,20,nieldakarla
-c1fd83fdebcb4c6e76908e300b6a99376f1c96f9,fix(curriculum): use base64 image in mock fetch data (#59729),2025-04-15T15:47:34Z,51,112,moT01
-d5d917f0bb522c0cf03dd6707e1066cf8f7469a0,fix(curriculum): ensure acronym Aria  is in all caps (#59728),2025-04-15T13:22:10Z,2,36,clarencepenz
-6d213cfb7a05f30c8bc97a87e9a45a520674752d,fix(curriculum): add mid dot to formula (#59720),2025-04-15T09:34:53Z,1,2,Supravisor
-88ab14e18b67733d971167d2fc5de7c32552f1bb,fix(curriculum): add confidential and top secret user stories and tes…,2025-04-15T07:41:49Z,1,14,Supravisor
-6a2b95df8d1065c2de8da16d9eec5a4de654a55e,fix(curriculum): allow image placement in any order (#59585),2025-04-15T05:51:34Z,1,7,Supravisor
-0c0817c08914bd645163e14883692a4339729130,fix(curriculum): TOP block name (#59708),2025-04-14T21:36:59Z,1,2,huyenltnguyen
-37593122ddfeabd9cf9f1ac37190f02ca3a1d664,fix(cirriculum): missing word in fill in the blank answer (#59711),2025-04-14T18:53:51Z,1,4,ZE206
-107df1e4a4b7a2b7c07e8e6e0e1a20a0a9352047,fix(GHA): fix formatting and expansion,2025-04-14T17:29:13Z,1,53,raisedadead
-54cc4b0042a6aa4a4174152fd099a115bb679b44,"chore(i18n,learn): update i18n-curriculum submodule (#59713)",2025-04-14T15:20:13Z,1,2,camperbot
-5cda7c7ae0bb81f844c5f2e00bde002bf74257a9,"chore(i18n,client): processed translations (#59709)",2025-04-14T15:20:01Z,10,1002,camperbot
-a875294adf7af4d518717923d289cf54b1ca5bc8,"fix(gha): use machine IP, and better logs",2025-04-14T13:48:13Z,1,34,raisedadead
-6c8f785dd2ab5d031d58669124459209e842fdda,fix(gha): use specifc hostname for Tailscale,2025-04-14T13:47:12Z,1,1,raisedadead
-4a69928b91ea9d036a9db491c252dd1e8bef6bd2,refactor: split ShowCertification into subcomponents (#59663),2025-04-14T10:41:43Z,1,296,ojeytonwilliams
-392fa65e07f547d21dd15469d46256ab02381ab2,fix(curriculum): update favorite icon toggler requirements (#59679),2025-04-14T08:22:39Z,1,6,clarencepenz
-4d11cd8ddb003d1aa0b2bac884ac573a892edc21,fix(curriculum): typos in css review (#59700),2025-04-14T04:28:10Z,1,4,Supravisor
-3fdb52a7158a051454dee426738a8463e620f80d,fix(curriculum): add function invocation to ensure correct answer mat…,2025-04-13T18:05:00Z,1,2,MrSkinny
-d31445fc15b1e58761ba8eb04c4cc1bc514060ab,fix(curriculum): Add missing backsticks in sort method lecture (#59688),2025-04-13T17:38:09Z,1,2,c0d1ng-ma5ter
-cd50a5564bd2a342c9cf72e0cda65fd965d42fb7,chore: remove duplicate word in comment (#59683),2025-04-12T09:07:19Z,1,2,riyueguang
-c87ae5a8ba052beea1d6bbce55556d0fb1278272,fix(GHA): improve specificity of concurrency (#59677),2025-04-12T08:24:12Z,6,22,raisedadead
+sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+ce5d7b3467eaf0d185f031e90fd231300ef45da3,chore(curriculum): update assert methods cat painting workshop steps …,2025-05-12T19:12:53Z,2,18,Yogesh-Bhagwani,freeCodeCamp,freeCodeCamp
+d9afa547a8443dfe18af84db670709193f749b61,chore(.github): update docker-ghcr actions (#60301),2025-05-12T17:39:04Z,1,4,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+825c80475e43a0988da99aef60a3bfbe7b0f3fe9,"chore(i18n,learn): update i18n-curriculum submodule (#60302)",2025-05-12T15:54:20Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+f90854824640c20126996d9988f5dbdab29f6e70,feat(api): add endpoint for submitting daily coding challenges (#59465),2025-05-12T15:26:32Z,9,546,moT01,freeCodeCamp,freeCodeCamp
+40f89512a2804053a56a79642a229480e40f89e7,"chore(i18n,client): processed translations (#60296)",2025-05-12T14:14:29Z,10,120,camperbot,freeCodeCamp,freeCodeCamp
+7a424171d2b1733ce69f6400b1057b219d482dda,chore: update required pnpm version to >=10 (#60285),2025-05-12T13:27:18Z,19,293,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+7c4ebb4671321f88a234ba31efd37450229d5aed,chore(client): remove unused class names (#60295),2025-05-12T13:26:29Z,3,17,huyenltnguyen,freeCodeCamp,freeCodeCamp
+8bc84191a4f5b4ce2b7e5dd192cd2160ab7ae43c,fix(curriculum): use cdnjs instead of unpkg (#60286),2025-05-12T13:26:02Z,2,8,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+26b8ddf58311402c92cb69ca5866626b3e055551,refactor(curriculum): remove use of after-user-code (#60292),2025-05-12T12:45:38Z,1,35,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+4424194c7aeea2653213cc487968b1dc928f48a3,fix(curriculum): correct 'it's' to 'its' in RPS workshop step 12 (#60…,2025-05-12T09:59:33Z,1,2,Abdallah-scout,freeCodeCamp,freeCodeCamp
+d8685001102c6dc28752cf10fd8db8470f777b00,fix(curriculum): correct GitHub capitalization (#60271),2025-05-12T09:44:57Z,4,8,ChaseKnowlden,freeCodeCamp,freeCodeCamp
+cbd906453f6b5ef7385bab804e22f8a9f6cbc5cb,fix(curriculum): feedback in Describe Your Current Project task 31 (#…,2025-05-12T08:33:54Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+9528b31bae066a3100c111c49dcbac55796c03f1,fix(curriculum): use assert methods in Cat Painting step 44-45 (#60261),2025-05-12T08:14:01Z,2,14,YUVRAJSINGH3112,freeCodeCamp,freeCodeCamp
+faa6dd7db86d466e850439e71f0af5bb7598ec91,fix(curriculum): correct typo in Todo App Step 20 (#60277),2025-05-12T08:10:22Z,1,2,sakshiinayak,freeCodeCamp,freeCodeCamp
+7e966906dbae4a813839ca86697defa7b2171731,fix(curriculum): Update the description in python password generator …,2025-05-10T22:08:55Z,1,2,Ajay-2005,freeCodeCamp,freeCodeCamp
+222f0852dbf774058af95f172bf3f42c87e8ec8d,fix(curriculum): updated cat-painting-workshop steps 42-43 to specifi…,2025-05-10T09:40:49Z,2,10,loralridz,freeCodeCamp,freeCodeCamp
+7144b0433348dc566e4782c2f0906516d4813610,fix(curriculum): correct 'asnwer' to 'answer' in English challenges (…,2025-05-10T07:28:38Z,2,4,VisibleNasir,freeCodeCamp,freeCodeCamp
+0a0eefb6f903383284a5ee0bbea7a5e0502eb8d9,fix(curriculum): update default browser styles lecture (#60260),2025-05-09T23:41:58Z,1,2,estefaniacn,freeCodeCamp,freeCodeCamp
+070f9c70f5bbd424cf2e6118f2e892995ba719d8,fix(curriculum): correct grammar in feature description ('request it'…,2025-05-09T18:41:58Z,1,2,Meenakshi-Marree,freeCodeCamp,freeCodeCamp
+01722e62a75197509824d829e4b2c61ece12b6b3,chore(curriculum): Update user stories and description for the multim…,2025-05-09T16:29:44Z,1,25,ArakhshQ,freeCodeCamp,freeCodeCamp
+053a6072d4781061261ef57f728d7cad28645238,"fix(curriculum): correct grammar in transcript (""you"" → ""you're"") (#6…",2025-05-09T16:22:38Z,1,2,vishnudt2004,freeCodeCamp,freeCodeCamp
+7ffadd053070a853863cdcb63a4a6c56cfaa1114,feat(curriculum): add polygon area calculator lab (#59460),2025-05-09T12:37:44Z,5,908,zairahira,freeCodeCamp,freeCodeCamp
+6fc87117118f6f6651c7c70e9a256ee7100be711,fix(curriculum): use assert.equal in cat painting workshop (#60242),2025-05-09T06:28:36Z,2,14,tanush29,freeCodeCamp,freeCodeCamp
+0dfda08a35f1b3554e2ed2f998767a229111123a,fix(curriculum): add test for href attribute in cat photo app (#60176),2025-05-09T05:54:58Z,1,15,Supravisor,freeCodeCamp,freeCodeCamp
+33cd29513e0c0fa5e3101f903e5fff4833733a37,chore(curriculum):remove stray forumTopicId from lab (#60240),2025-05-09T03:52:30Z,1,1,waleCloud,freeCodeCamp,freeCodeCamp
+64f566e6931d406417f6e1819b607f2423eda0d3,fix(curriculum): blank indicators in English challenges (#60236),2025-05-08T19:48:17Z,3,6,huyenltnguyen,freeCodeCamp,freeCodeCamp
+43754128c2e10c9bb3a72c0d68dcc12b94d86612,feat(curriculum): adding python loops and sequences quiz questions (#…,2025-05-08T16:41:31Z,1,283,jdwilkin4,freeCodeCamp,freeCodeCamp
+d08fe7c653475a751402f1f4a28ac78a7a08383b,fix(curriculum): remove pseudo class from business card lab (#60171),2025-05-08T15:55:36Z,1,16,Supravisor,freeCodeCamp,freeCodeCamp
+074e310b8269720219753d59042a6d46ef6bd022,fix(curriculum): add trim to remove whitespaces in url (#60226),2025-05-08T10:26:41Z,1,2,Ajay-2005,freeCodeCamp,freeCodeCamp
+a169c2a7b1639b79603b174d9b287f0075e789eb,chore(api): remove oldschema.prisma (#60227),2025-05-08T09:57:47Z,1,1101,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+a73ecf2aead8b1e882f759e743675d07b6cb3f62,feat(ui): test indicator icon (#60049),2025-05-08T09:49:08Z,3,71,a2937,freeCodeCamp,freeCodeCamp
+27018424868788166a245b7b4e228c41b70a9c0c,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-05-08T07:50:56Z,9,49,clarencepenz,freeCodeCamp,freeCodeCamp
+aa5b9418e53ed2eb14b275edb50aa6875f470832,fix(learn): remove sentence in transcript (#60224),2025-05-07T23:17:58Z,1,2,anuplohar001,freeCodeCamp,freeCodeCamp
+79565fca2538990cf9f61324bf732e345e5d792e,fix(curriculum): improve Crowdin wording for workshop-recipe-ingredie…,2025-05-07T21:01:13Z,1,2,vkalakota18,freeCodeCamp,freeCodeCamp
+0cb1b30ca5895fe50e457ab514ab283b1c41c88c,"chore(i18n,learn): update i18n-curriculum submodule (#60214)",2025-05-07T20:53:23Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+b0e616a35a045d5d7ceabc32fc63553b231b425d,feat(curriculum): adding superhero application form (React forms) wor…,2025-05-07T20:49:18Z,25,4416,Ksound22,freeCodeCamp,freeCodeCamp
+be2fac9b611e857c3a7457ba40624dd61aae6275,fix(curriculum): update step 33 of cat painting workshop to use asser…,2025-05-07T20:33:12Z,1,8,Sir-En00n3,freeCodeCamp,freeCodeCamp
+31b956d16fac976ddab009294a1e06bb312a55c3,chore: update to mongodb 8 in CI (#60215),2025-05-07T19:45:53Z,3,10,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+f25b5017fbde388c796ac30677e61b5f7e6ff81b,fix(curriculum): typo in english challenge (#60220),2025-05-07T19:22:35Z,1,2,anuplohar001,freeCodeCamp,freeCodeCamp
+7cd09d9f7507cb6a1d41c70653e0b1c8b2a88a69,feat(curriculum): add set 2 for css typography quiz (#59800),2025-05-07T19:11:43Z,1,460,Supravisor,freeCodeCamp,freeCodeCamp
+f2b09783f644385a9d3c7515a9d94dc496929ed0,feat(curriculum): add set 2 for css layout and effects quiz (#59796),2025-05-07T18:59:36Z,1,442,Supravisor,freeCodeCamp,freeCodeCamp
+003489c1d7dcffb4645ffe4decc01959526b1126,feat: add bash commands review content (#59192),2025-05-07T15:33:32Z,1,66,ilenia-magoni,freeCodeCamp,freeCodeCamp
+baf650a3c795bc063cb53dad85f92e811287836e,fix(curriculum): prevent hardcoding in addition functions (#60196),2025-05-07T14:54:22Z,2,12,Averand1,freeCodeCamp,freeCodeCamp
+8a6fcd70dbaafc89916020bf0f2d96369fdfb108,fix(api): update logging (#60210),2025-05-07T10:00:32Z,2,16,raisedadead,freeCodeCamp,freeCodeCamp
+8e86fac37845d80dc21b81dce759d25b083df6d0,fix(curriculum): update cat painting workshop to use specific assert …,2025-05-06T23:39:36Z,1,36,clarencepenz,freeCodeCamp,freeCodeCamp
+32c19f1b92afb63de97d1783ae9aee8846b3add6,fix(curriculum): Make calculator tests less restrictive (#60188),2025-05-06T21:51:38Z,6,18,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
+ff43f3aecaf0f98b199f5b0dac6629c51859fde3,fix(api): whitespace in default values (#60199),2025-05-06T20:22:42Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
+dc5c7893b50b92795da3fcedf74e0f38cdc745ed,fix(api): update logs in user.ts (#60193),2025-05-06T18:19:24Z,1,7,raisedadead,freeCodeCamp,freeCodeCamp
+504a6eaa1d1460926b609ab3f65f21a17bb9f061,chore(curriculum): refactor tests in the workshop-cat-painting steps …,2025-05-06T17:24:40Z,2,20,Sky-walkerX,freeCodeCamp,freeCodeCamp
+d0e63c60cad50f3d3905967451f9d6c9ba1c9608,fix(api): add req id to logs (#60191),2025-05-06T16:50:31Z,1,4,raisedadead,freeCodeCamp,freeCodeCamp
+008e35d851ca10f6b1714de3a1135835e2a7ba3e,fix(api): update logging (#60187),2025-05-06T15:16:36Z,21,296,raisedadead,freeCodeCamp,freeCodeCamp
+c55e98d3eea223e50ee74bcd0b5a7efde2e4bcd0,chore(curriculum): Cat painting workshop updated to use specific asse…,2025-05-06T08:47:30Z,2,14,ArakhshQ,freeCodeCamp,freeCodeCamp
+e5051d472e8cb39a0b6c5bf85607e4d2e14f2d03,fix(GHA): update environment validation (#60011),2025-05-06T07:00:06Z,1,56,raisedadead,freeCodeCamp,freeCodeCamp
+3e9c13bb4349b94a46e411bfffecfdbd77971701,fix(curriculum): typos and spacing in lectures and reviews (#60077),2025-05-06T05:16:29Z,9,44,Supravisor,freeCodeCamp,freeCodeCamp
+abd9e3ff3e7e8dc1c01b542eaa7ab9803853130a,chore(curriculum): update TypeScript quiz questions (#60002),2025-05-05T18:50:06Z,1,78,sidemt,freeCodeCamp,freeCodeCamp
+256b76c3f76b02614dc74e4a4789a8ed691d1a8d,"chore(i18n,learn): update i18n-curriculum submodule (#60159)",2025-05-05T15:44:37Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+b842d09e9635f8a5a3cde9112ca7ef42c5f78df2,"chore(i18n,client): processed translations (#60158)",2025-05-05T15:05:17Z,10,70,camperbot,freeCodeCamp,freeCodeCamp
+a8be31b6ea25e6f1412ccef5499073da5cf82942,fix(a11y): hide Fail icon from screen readers (#60157),2025-05-05T12:30:20Z,2,3,huyenltnguyen,freeCodeCamp,freeCodeCamp
+181321d90dffd8ed2e27fd76eebd5dbc013b9730,fix(curriculum): correct aria-label hint in music player step 43 (#60…,2025-05-05T07:25:43Z,1,2,bobofishbo,freeCodeCamp,freeCodeCamp
+ec43a5c4db594a213f13615366e5c9a1222e8caa,fix(curriculum): assert methods in cat painting step 29 (#60136),2025-05-05T06:24:17Z,1,4,LuluZhuu,freeCodeCamp,freeCodeCamp
+7b3a19f433637efcec706e92ca7c325b21d24422,fix(curriculum): typos in core JS fundamentals lecture (#60151),2025-05-05T04:08:58Z,2,6,Supravisor,freeCodeCamp,freeCodeCamp
+e2407ac6767d50da77cdbe971224e48011bd7db9,fix(curriculum): improve wording for clarity in step 4 instructions /…,2025-05-04T08:33:16Z,1,4,MelvinManni,freeCodeCamp,freeCodeCamp
+c796ea3dca48222bcc252d2f39a8c22b3f730806,fix(curriculum): update assertion syntax for CSS properties in cat pa…,2025-05-04T08:30:14Z,5,10,GuptaShubham-11,freeCodeCamp,freeCodeCamp
+7e72a817bc2bec73d59d00ab0d4b57afde02020b,fix(curriculum): typo in music player workshop step 3 (#60130),2025-05-02T23:07:33Z,1,2,vishnudt2004,freeCodeCamp,freeCodeCamp
+30a3c320c27926103fbd1bc23a942972cf245b9f,fix(curriculum): typo in step 27 of music player workshop (#60134),2025-05-02T22:40:45Z,1,2,joonhoswe,freeCodeCamp,freeCodeCamp
+776c83bdb3f3d4aca86fe9ac6e973a772ae7349e,fix(curriculum): instructions typo in learn about speculation and req…,2025-05-02T16:44:15Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
+7822f2f5337595a4910faa4c89fca30bf4e2aa6c,fix(curriculum): logical typo in clarify information (#60118),2025-05-02T15:50:22Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+f9a2b91c8b0cffcc631c84cde847806f4e08a0fc,fix(curriculum): improve Crowdin compatibility for workshop-nutrition…,2025-05-02T15:40:59Z,1,6,vkalakota18,freeCodeCamp,freeCodeCamp
+3e9982107de9a8daa0b801c57576832930cff469,fix(curriculum): Make Crowdin like the flappy penguin (#60044),2025-05-02T14:57:14Z,13,26,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
+83a6854243f1b4447ff7fb46865f22e335cf074d,fix(curriculum): Reword adjacent code elements for improved Crowdin c…,2025-05-02T14:53:00Z,3,6,omarraf,freeCodeCamp,freeCodeCamp
+31369067da3004494cfa654a2463834c190f7fab,fix(curriculum): update fcc author wording (#60050),2025-05-02T14:03:54Z,6,14,a2937,freeCodeCamp,freeCodeCamp
+2815ede749053d5449509fd0d37b21f111998568,fix(curriculum): change generic assert to use assert.equal in worksho…,2025-05-02T08:31:38Z,1,6,joonhoswe,freeCodeCamp,freeCodeCamp
+e4126be18ba5ffa0b91d44deec5d4514dfd8b6cb,fix(client): add support of MathJax in FSD cert (#60110),2025-05-02T08:15:27Z,1,3,jdwilkin4,freeCodeCamp,freeCodeCamp
+f409d5b3872f7c03e069a2e80056c4a1123d59a1,fix(curriculum): update cat painting workshop step 24 to use assert m…,2025-05-02T06:41:17Z,1,4,cansuakgl,freeCodeCamp,freeCodeCamp
+d375cb3b324a0f333c41aa145ed9c98e183aecd5,feat(curriculum): add multimedia player lab (#59706),2025-05-02T00:26:16Z,5,370,larymak,freeCodeCamp,freeCodeCamp
+62091ed26586b03e8bb80886f0feb28228131ed7,fix(curriculum): updated assert methods (#60089),2025-05-01T22:30:45Z,1,12,shaikhFaris,freeCodeCamp,freeCodeCamp
+ca45f715c23136cfc68eff9acc395931ab2879fe,fix(curriculum): better wording in workshop-todo-app (#60075),2025-05-01T15:39:56Z,1,2,RojaPinnamraju,freeCodeCamp,freeCodeCamp
+6f51bd86dcbd8bf593f47a2775619fd0d0ca8499,fix(curriculum): improve wording for Crowdin compatibility (#60087),2025-05-01T12:07:56Z,5,12,chiuinggum,freeCodeCamp,freeCodeCamp
+f36a45363345fa924d7fe3b2b56ca7bbe2f8c513,fix(curriculum): replace Unicode ƒ with standard f in Map object lect…,2025-05-01T11:46:01Z,1,2,JainSourav30,freeCodeCamp,freeCodeCamp
+1d9b2b2330547121a52e077a2e325183c12accd4,fix(curriculum): Update to wording that crowdin likes in different wo…,2025-05-01T05:27:45Z,3,6,MelvinManni,freeCodeCamp,freeCodeCamp
+9eba39281399ef92164cb7821c974caa7ef42454,chore(client): remove bubbles next to the superblock (#59821),2025-05-01T05:21:38Z,4,245,khalil423,freeCodeCamp,freeCodeCamp
+d0040492f2546fbfdf855ab43c3643deba089e8f,"chore(i18n,client): processed translations (#60084)",2025-05-01T05:20:23Z,10,100,camperbot,freeCodeCamp,freeCodeCamp
+4f787a7a560d3f4a56b6a8990af4fff3402b376d,fix(curriculum): FSD-replace assert with assert.equal in cat painting…,2025-05-01T05:11:04Z,1,6,MrKleenex12,freeCodeCamp,freeCodeCamp
+5c7ec828b7064df7d1046669fec60e8966c5a74b,English Curriculum: Block 17 (#59564),2025-05-01T01:43:53Z,161,16093,anastasiiauk,freeCodeCamp,freeCodeCamp
+8e464d272a4ef27b0be65d88c0fd3ba3e3e6f119,feat(curriculum): add set 2 for computer basics quiz (#59759),2025-05-01T01:43:36Z,1,442,Supravisor,freeCodeCamp,freeCodeCamp
+7be458561a6f4787941f2c586068273c7cbde95e,feat(curriculum): add set 2 for basic css quiz (#59761),2025-05-01T01:43:09Z,1,458,Supravisor,freeCodeCamp,freeCodeCamp
+46c20ab6f6182d9e57dbf68ce6e4e5e8232fac31,refactor(client): use shared Module interface (#60082),2025-04-30T19:52:10Z,1,10,huyenltnguyen,freeCodeCamp,freeCodeCamp
+6a61bbf4de137731688a270e2bdf807351e75f26,chore(curriculum): add string examples to js review (#60085),2025-04-30T19:16:32Z,1,88,a2937,freeCodeCamp,freeCodeCamp
+931c4b2a61403bd3fc4e4cf5322244eb55b13c9d,fix(curriculum): update video IDs (#60033),2025-04-30T12:56:56Z,3,6,kubowania,freeCodeCamp,freeCodeCamp
+46b9bea9ae596b1c6a6e6b77f06c7e848d0af5ad,chore(curriculum): update cat painting workshop specific assert metho…,2025-04-30T09:33:43Z,1,4,Sudhir810,freeCodeCamp,freeCodeCamp
+645c055f350d3bf6545f68c49d8d71cd7ebd83b3,fix(curriculum): added missing html boilerplate (#60072),2025-04-30T08:49:50Z,1,12,Jackkv,freeCodeCamp,freeCodeCamp
+71fb1c9ab419dc6fcee2352a2c19ed9bdc4837fd,fix(curriculum): crowdin wording for page of playing cards lab (#60046),2025-04-30T08:18:45Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+8a1e28bf4b9be529340c78246c27beff80505206,fix(curriculum): updated challenge tests (#60076),2025-04-30T07:38:40Z,1,8,linaslabs,freeCodeCamp,freeCodeCamp
+268aa82111944ae063c3c57cbf38de92f68bffde,fix(curriculum): typos in performance lectures (#60018),2025-04-30T06:00:19Z,3,8,ldtr89,freeCodeCamp,freeCodeCamp
+4bd55ba8d126cdee52aadcd810ddfd09ac8a2201,fix(curriculum): Allow more freedom of implementation in Todo App (#5…,2025-04-30T00:33:20Z,72,1226,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
+5dcb1f611cee502470879d634cc8e530d70d0f13,feat(curriculum): adding quiz questions for Python basics module (#59…,2025-04-30T00:02:31Z,1,286,jdwilkin4,freeCodeCamp,freeCodeCamp
+cd09f71590d3feb0d840492870c983d6e0180e37,feat(curriculum): add toggle visibility useState workshop (#59193),2025-04-29T23:50:32Z,17,1894,jdwilkin4,freeCodeCamp,freeCodeCamp
+05b11175195b00f7bd46666f3b7e13c737053d40,fix(curriculum): updating regex in email masker lab to accept all for…,2025-04-29T22:22:23Z,1,3,roniyaniv,freeCodeCamp,freeCodeCamp
+30b920f4572bdc66a0a4f396f71625b878650201,fix(curriculum): update wording for workshop registration form (#60054),2025-04-29T20:41:18Z,2,4,MelvinManni,freeCodeCamp,freeCodeCamp
+78d3fe740e1c84ca434b2b06ce8cdf5705d47b42,fix(ui): update section names in downloaded solutions (#59934),2025-04-29T20:24:57Z,2,66,a2937,freeCodeCamp,freeCodeCamp
+3d343ac93210d0c034d7b05d655da8e2d341ede4,fix(curriculum): update assertion methods in cat painting workshop (#…,2025-04-29T18:28:50Z,2,4,njnr14,freeCodeCamp,freeCodeCamp
+e810d8746a92520987393f38ee2a198809716876,fix(curriculum): resolves visible answer in question 28 (#60056),2025-04-29T17:25:51Z,1,20,clarencepenz,freeCodeCamp,freeCodeCamp
+a373e81a59414865c6e21a3609eb19547466c190,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-04-29T16:44:43Z,11,54,clarencepenz,freeCodeCamp,freeCodeCamp
+b4c1aa107bebdaab62999b49427632463e687c26,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-04-29T16:34:16Z,9,28,clarencepenz,freeCodeCamp,freeCodeCamp
+86ec68ecf3f8aa5762ed266d28426598611f8265,fix(curriculum): use specific assert methods in cafe menu workshop st…,2025-04-29T16:27:24Z,7,38,clarencepenz,freeCodeCamp,freeCodeCamp
+17812fc54950c288ff3c7f6852656af763615d97,feat(external curricula): build external curricula data v2 (#59533),2025-04-29T11:19:19Z,8,737,huyenltnguyen,freeCodeCamp,freeCodeCamp
+46425aa588f72d9dd0a3d0898a309e5cd6471d08,fix(curriculum): typo in lecture about styling special input elements…,2025-04-29T11:07:43Z,1,2,abhijeet-singhh,freeCodeCamp,freeCodeCamp
+c555f69883a9b82f0103f62467b868a11bc749c6,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-04-29T11:04:15Z,11,80,clarencepenz,freeCodeCamp,freeCodeCamp
+6de79433cafca2c5d04944518a23f99e028b3c67,fix(curriculum): crowdin wording for real time counter lab (#60045),2025-04-29T10:32:50Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+baf3e222337362c58bfcb47b955234408a8db0a9,chore: move budget app to full stack (#59440),2025-04-28T23:08:23Z,5,1275,ilenia-magoni,freeCodeCamp,freeCodeCamp
+4d3ab60216269e1d2553c128b79c2486e2db43bc,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-04-28T23:03:39Z,13,82,clarencepenz,freeCodeCamp,freeCodeCamp
+0f69170fafd7716903fc760b88370b56952b893e,fix(curriculum): better wording (#60040),2025-04-28T20:37:10Z,3,22,ilenia-magoni,freeCodeCamp,freeCodeCamp
+678dc4334eb4789a160f6b32e693fe6995c26229,fix(curriculum): add missing margin & padding shorthand explanations …,2025-04-28T20:36:48Z,2,6,vishal27shetty,freeCodeCamp,freeCodeCamp
+ae6783deccfd9d3aca404858a774b9fa8b1dfd5a,fix(curriculum): replace 'tag' with 'element' in cafe-menu challenges…,2025-04-28T19:34:54Z,2,6,vishal27shetty,freeCodeCamp,freeCodeCamp
+c9799c370ec160c14b5ba6f91e9a2f62c335a4fd,"chore(i18n,client): processed translations (#60031)",2025-04-28T14:10:46Z,1,302,camperbot,freeCodeCamp,freeCodeCamp
+e0274556fa346b089488eb33aa22ab35ebff909b,fix(curriculum): correct assert usage in workshop-cat-painting (#60028),2025-04-28T12:15:17Z,1,8,ShauryaDusht,freeCodeCamp,freeCodeCamp
+da5392ed0f5daf49b6d44bfe6f9f8d22ecf86004,fix(actions): get output correctly in web commit check (#60027),2025-04-28T11:28:15Z,1,4,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+fa66608b41a5bceda8213fa2d05b788ed60f0642,fix(curriculum): update assertions to use assert.equal (#60013),2025-04-26T20:46:04Z,1,6,MelvinManni,freeCodeCamp,freeCodeCamp
+e638a59db753a13f9e421358f8a7e247cbfad8ee,fix(curriculum): replace assert with assert.exists and assert.equal i…,2025-04-26T19:38:15Z,1,8,Lohith-11,freeCodeCamp,freeCodeCamp
+c28c99aa2859fcf6ac5289c7e6c9cade13abc2c0,fix(curriculum): replace generic asserts with specific methods in cat…,2025-04-26T19:36:15Z,1,8,tarek-gritli,freeCodeCamp,freeCodeCamp
+82d88e3e3adfe2f4ef1202d009428867cbdb54cb,fix(curriculum): improve the assert methods  (#60003),2025-04-26T19:30:18Z,1,6,Lynsoo,freeCodeCamp,freeCodeCamp
+058749686dbcae3feabb2842b5cb3b0f826c6c50,fix(curriculum): replace assert === with assert.equal for consistency…,2025-04-26T18:15:59Z,1,8,amoghmadireddi,freeCodeCamp,freeCodeCamp
+a905083bf88887b14de64e0843e3d3e03912b7a8,chore(api): improve log statements (#59992),2025-04-25T10:34:03Z,4,26,raisedadead,freeCodeCamp,freeCodeCamp
+464181b3b88ea1a7e62de4b4f623e5438fb98035,fix(curriculum): added missing preposition and removed a duplicate ex…,2025-04-25T07:33:09Z,2,20,clarencepenz,freeCodeCamp,freeCodeCamp
+b7bdea5b2306f7194e78a206709172d1713b346c,fix(curriculum): typo in lecture working with css transforms overflow…,2025-04-25T07:03:01Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
+126b60bc676c7216fcc0c74c0e8d75e96429359e,fix(curriculum): typo in lecture working with code editors and ides (…,2025-04-25T06:53:22Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
+f253fd6639ea44376e2811cfb38bc8c9e3cabbcf,fix(curriculum): Add a note to let users know to use JavaScript only …,2025-04-25T06:48:25Z,1,2,omarraf,freeCodeCamp,freeCodeCamp
+9cd9566593a8c31cade036859e64c2678b241a7e,fix(curriculum): typo in lecture understanding core javascript fundam…,2025-04-24T22:37:43Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
+e6ab475d41682e5f3f4bc73950c41c0134c975aa,fix(curriculum): typo in english challenge (#59976),2025-04-24T22:17:37Z,1,2,OKmimech,freeCodeCamp,freeCodeCamp
+331153749ae994cd54502f46c1163bfc906693b3,fix(curriculum): removed console.log from challenge test (#59967),2025-04-24T19:48:22Z,2,4,akremdh1,freeCodeCamp,freeCodeCamp
+fada6f08f842fee2e4f4eaf64fa578be53d01d27,fix(api): add req to the child logger (#59961),2025-04-24T19:35:57Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
+ff38233f96facc63fe7569da567256da38af1eac,fix(api): adjust levels for cookie related logs (#59946),2025-04-24T19:20:07Z,3,8,raisedadead,freeCodeCamp,freeCodeCamp
+061df27f1d71490fc07d833b76dc06ef5bd94783,feat(curriculum): Quiz set 2 for the CSS pseudo-classes (#59782),2025-04-24T19:07:41Z,1,509,zxc-w,freeCodeCamp,freeCodeCamp
+1faac313e1bf1240935bdb2f6920ba9b70087ab2,fix(curriculum): typo in lecture the var keyword and hoisting (#59965),2025-04-24T18:34:34Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
+c6543b2ddf6e6907134a28158d46f7bbf070d022,fix(curriculum): typo in computer basics review page (#59962),2025-04-24T18:24:02Z,1,2,omarraf,freeCodeCamp,freeCodeCamp
+46b910ee408d8c32ff289ba72ee4acc2ad956e77,dev(api): add build options to test env (#59957),2025-04-24T17:03:49Z,4,152,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+f9edfe3bbd406ae314ecd8b66b5e6d1d0b3c135b,fix(curriculum): typo in lecture importance of accessibility and good…,2025-04-24T15:57:33Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
+2fd73445550981dc47469ba2ffc8c786ef5331de,fix(api): adjust logs in email-subscription (#59944),2025-04-24T14:37:45Z,1,13,raisedadead,freeCodeCamp,freeCodeCamp
+6a79b76441f33319e6acdbaed8332522f8641fa3,fix(curriculum): lab-post-card no document.styleSheets (#59943),2025-04-24T14:37:09Z,1,34,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+27689faf41a508e4c100f9b31474eb8593a742a8,"fix(api): adjust logging in bouncer, downgrade to trace (#59945)",2025-04-24T14:36:28Z,1,10,raisedadead,freeCodeCamp,freeCodeCamp
+07c45a1ac41076002ff6cd1dc9683b0bfcc08b6d,fix(curriculum): typo in lab weather app (#59950),2025-04-24T14:32:56Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
+d2bd2a63c044efe59cab84076a2b33468f46d414,fix(curriculum): improve feedback text in english challenges (#59935),2025-04-24T14:28:06Z,4,14,AilaLu,freeCodeCamp,freeCodeCamp
+446eef91e53e2392d572a09fe071965d4c161d1e,chore(curriculum): add punctuation for trends in tech (#59911),2025-04-24T14:26:32Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+596561161bfe08a480690723ff45b0992490dbe0,feat(curriculum): Add set 2 of questions for CSS colors quiz (#59812),2025-04-24T14:25:38Z,1,442,Eyb100,freeCodeCamp,freeCodeCamp
+13904c5dade6996c58a27f440c09093bb9747e26,fix(curriculum): Allowed seperate declarations and assignments  (#59909),2025-04-24T14:17:22Z,1,10,Priyesh1311421,freeCodeCamp,freeCodeCamp
+cfc41c74096ff8607101157d39f8742546acb2a8,chore(external curricula): rename script file (#59942),2025-04-24T12:26:45Z,3,13,huyenltnguyen,freeCodeCamp,freeCodeCamp
+dcb765efc0394527c9274631c71c1dbd5d96638a,fix(curriculum): remove stub feedback from correct answer (#59924),2025-04-24T09:22:56Z,1,4,Abdallah-scout,freeCodeCamp,freeCodeCamp
+e8ce4cd2fe077ac80993c528d9e7fad8b9502dda,fix(curriculum): add indentation to CSS examples in transform propert…,2025-04-24T09:00:18Z,1,48,omarraf,freeCodeCamp,freeCodeCamp
+ae387fbd5ccfc2846e7233de5fe21ca49fecbb08,refactor(api): organise tooling (#59931),2025-04-24T04:57:23Z,7,23,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+3c822da24372ea9b0c0e40bf2252c70c76396427,fix(api): catch GB init errors on prod only (#59912),2025-04-24T04:56:33Z,2,11,raisedadead,freeCodeCamp,freeCodeCamp
+34ee68faa86e9bab00aee7e8935a17146b1b4b69,chore: upgrade tests for accessibility quiz workshop (#59852),2025-04-24T01:48:07Z,2,18,ilenia-magoni,freeCodeCamp,freeCodeCamp
+03e166b15f1c53430c370fca955f6dec1373fa93,fix(curriculum): improve the feedback text in Learn How to Clarify In…,2025-04-24T01:45:43Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
+f8e92b2aace0137baa5bc8f41e887bdfa0fdbfa9,fix(curriculum): update tests to specific methods cafe menu steps 1-1…,2025-04-24T01:37:11Z,11,80,JoJoJo-JoJoJo,freeCodeCamp,freeCodeCamp
+450fd76f2a96e98c83799aff88c1d1bbdff41d98,chore(curriculum): cleanup lightbox lab (#59586),2025-04-24T01:20:25Z,1,281,jdwilkin4,freeCodeCamp,freeCodeCamp
+96557d0704b5c7ff961ca0cb150896b5c7920218,fix(curriculum): Use specific assert methods in hotel feedback form (…,2025-04-24T01:04:40Z,23,92,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
+133f76d7c274a1beeaf40522b97d9eed330578c0,chore: update piano workshop tests to current standards (#59837),2025-04-24T01:00:03Z,29,160,ilenia-magoni,freeCodeCamp,freeCodeCamp
+ef6d965d5506616708ba65b0816ebb8ff9301215,fix(curriculum): make test more precise in business card lab (#59930),2025-04-24T00:10:23Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
+db07c718b92e03d579577fe111b538c2a9a963dd,fix: only log if the request has an Origin header (#59920),2025-04-23T20:50:12Z,2,14,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+6ea8c33170b7705a8e6f641b7e85059cacac6396,fix(curriculum): use specific assert methods in flappy penguin worksh…,2025-04-23T17:28:52Z,21,80,clarencepenz,freeCodeCamp,freeCodeCamp
+9a86afc193e72fcbd99d13620a748fbec30a5805,"chore(i18n,learn): update i18n-curriculum submodule (#59927)",2025-04-23T16:13:32Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+796368094c0ba43d909f7e830ea76579172b151e,fix(client): retain editableContents through reload (#59573),2025-04-23T15:27:30Z,6,110,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+310d0c691c8b2402b6b22a2c3c1f4e6907b49254,chore: remove DEBUG from .env (#59922),2025-04-23T15:23:43Z,1,1,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+9dfbd80e8ccc54052aeaf5717bd94129344e9672,fix(curriculum): update tests to use specific assert methods in city …,2025-04-23T15:16:50Z,26,86,clarencepenz,freeCodeCamp,freeCodeCamp
+3efc708ee8c1376b0839564d1e509eb62e53a219,"chore(i18n,client): processed translations (#59918)",2025-04-23T15:01:43Z,20,50,camperbot,freeCodeCamp,freeCodeCamp
+575445fb55a86787a6d8e32b4501e73d8ec2a290,chore: remove preinstall script (#59910),2025-04-23T07:14:38Z,1,1,raisedadead,freeCodeCamp,freeCodeCamp
+cfe2025d18d76765c6840e69277d43a4c9bf9e24,fix(curriculum): update specific assert methods in reusable mega navb…,2025-04-23T06:38:42Z,7,18,clarencepenz,freeCodeCamp,freeCodeCamp
+8c03f6bf39253cfa621254af275654f8e9fa1175,fix(curriculum): removed the extra space (#59896),2025-04-23T01:10:37Z,1,2,Priyesh1311421,freeCodeCamp,freeCodeCamp
+33dcdc7a25d7e4434e6ed95ecdeb7a6853c455d3,chore(curriculum): add backticks for anchor element in cat photo app …,2025-04-22T23:14:59Z,2,4,Supravisor,freeCodeCamp,freeCodeCamp
+01fb012da31a016bdd3216248b1c64e42bf6f8dd,fix(curriculum): update tests to use specific assert methods in works…,2025-04-22T19:24:22Z,15,64,clarencepenz,freeCodeCamp,freeCodeCamp
+6ba481156a1ffb8f30b7fd89285665d55582eb0e,fix(curriculum): use correct solution in stand up meeting task 48 (#5…,2025-04-22T18:32:24Z,1,2,a2937,freeCodeCamp,freeCodeCamp
+10d8fc6a82615ab5417a6bdfd003913f68e0ab30,fix(curriculum): specific assert methods now used in registration for…,2025-04-22T17:42:17Z,10,66,clarencepenz,freeCodeCamp,freeCodeCamp
+5a1cb8ee2a1aed9986bd7bcfa5177228fa6a07ce,chore: upgrade tests to current standards in palindrome checker lab (…,2025-04-22T17:06:48Z,1,2,ilenia-magoni,freeCodeCamp,freeCodeCamp
+37028f2bb80b532bf22092ca837c1f754eda93d1,chore(api): log growthbook initialization failures (#59889),2025-04-22T16:36:27Z,3,49,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+6d06eaa5c0c228f51f1217642fd3adf4fc0e88de,fix(curriculum): resolve hoisting transcript errors (#59885),2025-04-22T16:01:42Z,1,4,clarencepenz,freeCodeCamp,freeCodeCamp
+fe6f5db7a99178c8d7ed16de8d7f361409bb474a,feat: add tests to make existing code is not changed in piano worksho…,2025-04-22T15:21:42Z,1,16,ilenia-magoni,freeCodeCamp,freeCodeCamp
+c6ad20bb72e2260f55fe787889914ca8dac19af0,feat(tools): add nvmrc (#59862),2025-04-22T14:44:40Z,1,1,raisedadead,freeCodeCamp,freeCodeCamp
+6478bea038ca4875c25679d5135026488b82265a,feat(api): add user id to user report (#59816),2025-04-22T14:28:16Z,5,76,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+fdbca0bd1f62c6579a111db6d6d58865b4949dd7,fix(api): skip cors logging for /status/* routes (#59881),2025-04-22T14:05:49Z,2,40,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+1cab0991b590c1e436f1870171fea4c25d7ce89e,fix(api): adjust logs (#59887),2025-04-22T13:58:26Z,4,20,raisedadead,freeCodeCamp,freeCodeCamp
+cc1b31f59d448378cde6837a7bc8d06b92ba0fe2,chore(api): throw if growthbook env vars are missing (#59873),2025-04-22T07:41:09Z,1,8,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+6d2bd791458a23a53ad7701662cf49fc462d1467,fix(curriculum): update challenge description for piano workshop (#59…,2025-04-22T06:29:21Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+a3941bcd0902bae9fb70b4a9a62ebe6923c3b951,refactor(external curricula): simplify get intro logic (#59707),2025-04-22T05:39:20Z,2,131,huyenltnguyen,freeCodeCamp,freeCodeCamp
+2a4b45efbd3eabb8c14bbae44ddf9dafbe5a3b36,feat: add rpg character lab (python basics) to main (#59303),2025-04-22T00:47:11Z,4,252,ilenia-magoni,freeCodeCamp,freeCodeCamp
+819de54d0daf5a68f2ddb32cd2c3032b8679061b,fix(curriculum): use assert equal and exists methods in blog page wor…,2025-04-22T00:33:04Z,1,6,clarencepenz,freeCodeCamp,freeCodeCamp
+330221ccc14b52c92df071b7d3875b2085ab83ee,fix(curriculum): update specific methods not in used for music instru…,2025-04-22T00:30:50Z,2,20,clarencepenz,freeCodeCamp,freeCodeCamp
+afd483f08238b75bf2cd0383b94a816e55969528,feat(curriculum): add web performance transcripts (#59719),2025-04-22T00:23:08Z,14,706,moT01,freeCodeCamp,freeCodeCamp
+9c8631ad157484336d75a7be5e50d052071d4d64,fix(curriculum): update assert for real time counter lab (#59854),2025-04-21T20:27:41Z,1,5,clarencepenz,freeCodeCamp,freeCodeCamp
+260ef108dc1283120f45f977783a98c1f69b985b,fix(curriculum): use specific asserts in recipe page lab (#59856),2025-04-21T20:24:38Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
+d1ce6128656d4176713fd627789f578c08578c5a,fix(curriculum): use assert.lengthOf method in storytelling app works…,2025-04-21T20:20:33Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
+a026d95e3a61ef55e172fbe7b015f71ef1c1a568,fix(curriculum): update tests to use specific methods in calorie coun…,2025-04-21T20:05:45Z,1,4,clarencepenz,freeCodeCamp,freeCodeCamp
+ae720e82820b300eec02b44db3cba88869db8c2d,feat(api): add deployment version endpoint (#59841),2025-04-21T19:30:20Z,3,19,raisedadead,freeCodeCamp,freeCodeCamp
+aef4729ce3edf57184d4653ba6a8ebb0dd918b8e,fix(curriculum): update specific methods not used in todo app worksho…,2025-04-21T18:51:52Z,1,4,clarencepenz,freeCodeCamp,freeCodeCamp
+41a1ad3a20fc3ab6b04fd2a1ee99fe85d6063f07,fix(curriculum): use assert.fail method in survey form lab (#59857),2025-04-21T18:34:57Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
+9d0a1bc7d63b1974b89770b41820df918885e5df,chore: update curriculum-helpers to v4 (#59835),2025-04-21T15:34:05Z,2,18,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+bf5580700c685f3ad0d1ee438bad70d978be358b,"chore(i18n,learn): update i18n-curriculum submodule (#59851)",2025-04-21T15:33:19Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+667aa63d03ab7ccc18eb2d898c5555d5795635f6,fix(learn): Audrey Hepburn quote inside of quote (#59833),2025-04-21T15:30:53Z,1,2,Anthonymiranda,freeCodeCamp,freeCodeCamp
+ae956762a64c4e9386040a19cd76b2df5036a59b,"chore(i18n,client): processed translations (#59842)",2025-04-21T15:23:06Z,20,458,camperbot,freeCodeCamp,freeCodeCamp
+573d08dc7048ffcc3951fddb31016e34463497e9,fix: Replace quotes with backticks in Cat Photo App step 9. (#59836),2025-04-21T14:43:21Z,1,2,neelesh-124,freeCodeCamp,freeCodeCamp
+ed6c77e972ee15e454f70c5d1e2c6f249eddbea9,fix(gha): remove workflow_run (#59840),2025-04-21T11:38:58Z,2,37,raisedadead,freeCodeCamp,freeCodeCamp
+08c12b6620262f77f3aa92d4385023014726596c,feat(curriculum): add react data fetching and memoization transcripts…,2025-04-21T07:33:35Z,4,904,moT01,freeCodeCamp,freeCodeCamp
+d1e78aa98796913440b27b94944cc60df5bd0e5a,"fix(curriculum): grammar errors in English for Developers, Block 16, …",2025-04-21T07:21:48Z,2,4,miyaliu666,freeCodeCamp,freeCodeCamp
+22f251ebd868f6014069fdd25433dcf52e6bfaa8,chore(curriculum): add backticks for alt attribute value (#59828),2025-04-21T04:20:16Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+9b539eefc7216d630e3f72420ad98676dcaa0e7a,fix: validation now allows challengeType 27 (#59825),2025-04-20T19:42:03Z,1,2,ilenia-magoni,freeCodeCamp,freeCodeCamp
+aa8adedc86cebc27e1f0b54c5bc21b41fc00f246,fix(curriculum): css layout and effects quiz reset options (#59798),2025-04-20T17:26:11Z,1,8,clarencepenz,freeCodeCamp,freeCodeCamp
+65144a25828c0dc86a03f0317b50e8a90c34828c,docs(readme): update outdated urls on README.md (#59817),2025-04-20T10:56:20Z,1,6,xavizera,freeCodeCamp,freeCodeCamp
+e2996eb3e6951e9284a2b58ff1abc10ec1a012f7,fix(gha): cleanup logs and validation,2025-04-20T08:19:47Z,1,18,raisedadead,freeCodeCamp,freeCodeCamp
+de706811261aec4f381b7f1dd7dcb9abdb1b44f3,fix(curriculum): Improved specificity of ARIA answer (#59799),2025-04-19T11:43:16Z,2,4,kaipepler,freeCodeCamp,freeCodeCamp
+3d99e284250125821f171ddb55204ce4be327e7b,feat(curriculum): color picker lab (#59018),2025-04-19T07:58:16Z,5,375,naomi-lgbt,freeCodeCamp,freeCodeCamp
+62ef8f603338eaa82ef3c2db2ee86c9302d2ecc1,feat(curriculum): add lab-tic-tac-toe (#59439),2025-04-18T19:08:07Z,5,584,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+4b3f04f12fd2bb63cec27ceffa487bde9915fd51,feat(curriculum): add labs-react-forms (#59320),2025-04-18T17:26:30Z,5,2225,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+a3fff8e66f5efc8d8ef7be85607000df4ece0a06,fix(curriculum): typo in past experiences English challenge (#59807),2025-04-18T17:03:15Z,1,2,Anthonymiranda,freeCodeCamp,freeCodeCamp
+3b1b7da7b0c973f1d5ab6853a2a22a1094ad4533,fix(client): Modification of component name (#59804),2025-04-18T09:16:09Z,1,6,agilan11,freeCodeCamp,freeCodeCamp
+07fd00dd4837292ff95889b72493762fd7a892f0,fix(curriculum): remove single quotes from permutation generator lab …,2025-04-18T09:11:43Z,1,142,clarencepenz,freeCodeCamp,freeCodeCamp
+ca866b2c80143b0aa32a4d4710e89e411092f22f,fix(curriculum): added additional tip for building a gradebook app (#…,2025-04-18T08:56:01Z,1,3,clarencepenz,freeCodeCamp,freeCodeCamp
+efb8d482fcfc8ffd47dd8509b36fffcba5bd3af4,fix(curriculum): fix test for step 71 of the music player lesson (#59…,2025-04-17T17:14:13Z,1,2,dennmar,freeCodeCamp,freeCodeCamp
+2c436949f650ca3f97a46af7ee1fef20b3243364,fix(client): use translation strings for alt text (#59727),2025-04-17T14:46:22Z,2,12,huyenltnguyen,freeCodeCamp,freeCodeCamp
+e115cd875985d68498bd0cbb0f3c681e6abd10dd,fix(curriculum): update block element in basic css review (#59784),2025-04-17T14:33:39Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+aa451dbac90563272a03a1edcb5aa298d57b7417,fix(client): update finish quiz modal (#59788),2025-04-17T14:31:48Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
+cccbd797417e217c19c1c0b1365e3fd74e1865c6,fix(curriculum): remove redundant line in review pages (#59772),2025-04-17T14:28:28Z,65,192,clarencepenz,freeCodeCamp,freeCodeCamp
+9c4ed1e2a4c16d1bfca412170bdfb1b05fbb8aea,fix(a11y): hide decorative images from screen readers (#59786),2025-04-17T14:15:05Z,4,4,huyenltnguyen,freeCodeCamp,freeCodeCamp
+897277a037e5d615c88c36f7843c2d18811bc7c2,refactor(GHA): update workflow to be consistent with legacy,2025-04-17T08:29:10Z,1,186,raisedadead,freeCodeCamp,freeCodeCamp
+560a3f661d8975fc012fead1fe0fe2036286977a,fix(GHA): adjust order of checks in legacy,2025-04-17T08:29:09Z,1,12,raisedadead,freeCodeCamp,freeCodeCamp
+a12d9b3d59eba43d67acf3f5f01dabcd9f9e4303,chore(client): remove redundant link underline styles (#59783),2025-04-17T07:27:44Z,1,8,merxgrc,freeCodeCamp,freeCodeCamp
+6a318b5508a3e32cb5d504c9def402a5fba74968,fix(curriculum): improve code examples in greeting bot workshop (#59763),2025-04-17T06:29:13Z,2,6,Supravisor,freeCodeCamp,freeCodeCamp
+ed63d93e94631667c2df8e097fed19a41fb50106,fix(curriculum): change pseudo class to first-of-type (#59736),2025-04-17T04:57:29Z,1,13,clarencepenz,freeCodeCamp,freeCodeCamp
+a227fb73f636ad2c904b51c7f94bc2d6fb8101ca,feat(curriculum): Add English tasks B1 Block 16 (#59645),2025-04-17T02:17:18Z,153,15770,miyaliu666,freeCodeCamp,freeCodeCamp
+c6e6b1e66253b6028d2835f45473669fce90cba4,fix(curriculum):  Navbar component workshop steps (#59676),2025-04-16T16:42:32Z,2,25,clarencepenz,freeCodeCamp,freeCodeCamp
+f4a2d8d03bbaf76f05c023c012ce5ef433bafe05,fix(curriculum) : Improve Question 19 Clarity by Standardizing Answer…,2025-04-16T16:27:57Z,1,6,agilan11,freeCodeCamp,freeCodeCamp
+ccdd205a153a0d8e352040bb0224d62f6f2912d6,refactor(curriculum): mock fetch in Build a Weather App (#59549),2025-04-16T16:17:08Z,1,115,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+26ab080ada7890e75b63d9195d9e54cef7fb2b52,fix(curriculum): allows tests to accept event delegation solution (#5…,2025-04-16T16:09:53Z,1,6,MrSkinny,freeCodeCamp,freeCodeCamp
+0aefe7a551612427deb7b8df86f05b09ee596c6c,"fix(curriculum): Stylized To-Do List - update tests, minor fixes (#59…",2025-04-16T15:59:37Z,1,82,lasjorg,freeCodeCamp,freeCodeCamp
+8f478458a4a3338b666d0b53c3fb891b6e84fac8,fix(curriculum): update testing quiz questions (#59769),2025-04-16T15:46:46Z,1,78,sidemt,freeCodeCamp,freeCodeCamp
+33f0842fc17946f35b75dbe0de0a5ec3f26d34f6,feat(challenge types): add python lab challenge type (#59732),2025-04-16T15:42:59Z,8,43,moT01,freeCodeCamp,freeCodeCamp
+72f8b3db9aafe5ee89e77428fd1208be8b2c66cd,feat(curriculum): add testing review page (#59714),2025-04-16T15:28:33Z,2,204,sidemt,freeCodeCamp,freeCodeCamp
+ce7845365c3dec4926f19104bfea997409446295,chore(client): adjust backend placeholder with localhost (#59765),2025-04-16T15:27:12Z,1,4,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+2541f93fb9673581a9c041c6de9084aa3e16a71e,feat(curriculum): add lab-currency-converter (#59518),2025-04-16T14:53:14Z,5,529,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+1dfb290cab59de0e796079677b02d2d231367973,fix(curriculum): typo in shortest path algorithm step 12 (#59766),2025-04-16T14:43:05Z,1,2,akremdh1,freeCodeCamp,freeCodeCamp
+155deb608ac0457a836482236c6c40c1b90ac213,feat(curriculum): add new question to lecture with css fonts (#59738),2025-04-16T08:55:33Z,1,17,clarencepenz,freeCodeCamp,freeCodeCamp
+d6e4086e63b192f73f9463c33174c30a69654b5f,refactor: use canSaveToDB function more (#59730),2025-04-16T08:35:55Z,2,16,moT01,freeCodeCamp,freeCodeCamp
+7f5a4c9ea027aa5156a9ee0b4bdbe2ba9d7cafeb,fix(curriculum): place comment below example in greeting bot workshop…,2025-04-16T05:44:37Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+6ab6b384d25025a6d9c2bbbe92e1dec27a678f25,feat(curriculum): add react forms transcripts (#59621),2025-04-15T19:09:42Z,2,357,moT01,freeCodeCamp,freeCodeCamp
+287fc6f0302c9291d043c313a68491b69b2c97be,fix(curriculum): grammatical issue in several challenges (#59723),2025-04-15T17:22:50Z,8,16,Drowsystudent,freeCodeCamp,freeCodeCamp
+0c05bc8002dbed22a70eccfb583dbb578e5eb323,fix(curriculum): update HTML Review chapter with missing sections (#5…,2025-04-15T16:57:22Z,1,34,JarydSt,freeCodeCamp,freeCodeCamp
+f8c5a86285da7a4e7f7ef9e3fdc03ad7986b6bda,feat: add react debugging video ids and transcripts (#59632),2025-04-15T16:04:12Z,4,548,scissorsneedfoodtoo,freeCodeCamp,freeCodeCamp
+f0ba8441d5c703d58309d3c9e876b25961c38a9b,fix(Curriculum): Fix missing words of tasks in block 13 B1 English cu…,2025-04-15T16:01:44Z,4,20,nieldakarla,freeCodeCamp,freeCodeCamp
+c1fd83fdebcb4c6e76908e300b6a99376f1c96f9,fix(curriculum): use base64 image in mock fetch data (#59729),2025-04-15T15:47:34Z,51,112,moT01,freeCodeCamp,freeCodeCamp
+d5d917f0bb522c0cf03dd6707e1066cf8f7469a0,fix(curriculum): ensure acronym Aria  is in all caps (#59728),2025-04-15T13:22:10Z,2,36,clarencepenz,freeCodeCamp,freeCodeCamp
+6d213cfb7a05f30c8bc97a87e9a45a520674752d,fix(curriculum): add mid dot to formula (#59720),2025-04-15T09:34:53Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+88ab14e18b67733d971167d2fc5de7c32552f1bb,fix(curriculum): add confidential and top secret user stories and tes…,2025-04-15T07:41:49Z,1,14,Supravisor,freeCodeCamp,freeCodeCamp
+6a2b95df8d1065c2de8da16d9eec5a4de654a55e,fix(curriculum): allow image placement in any order (#59585),2025-04-15T05:51:34Z,1,7,Supravisor,freeCodeCamp,freeCodeCamp
+0c0817c08914bd645163e14883692a4339729130,fix(curriculum): TOP block name (#59708),2025-04-14T21:36:59Z,1,2,huyenltnguyen,freeCodeCamp,freeCodeCamp
+37593122ddfeabd9cf9f1ac37190f02ca3a1d664,fix(cirriculum): missing word in fill in the blank answer (#59711),2025-04-14T18:53:51Z,1,4,ZE206,freeCodeCamp,freeCodeCamp
+107df1e4a4b7a2b7c07e8e6e0e1a20a0a9352047,fix(GHA): fix formatting and expansion,2025-04-14T17:29:13Z,1,53,raisedadead,freeCodeCamp,freeCodeCamp
+54cc4b0042a6aa4a4174152fd099a115bb679b44,"chore(i18n,learn): update i18n-curriculum submodule (#59713)",2025-04-14T15:20:13Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+5cda7c7ae0bb81f844c5f2e00bde002bf74257a9,"chore(i18n,client): processed translations (#59709)",2025-04-14T15:20:01Z,10,1002,camperbot,freeCodeCamp,freeCodeCamp
+a875294adf7af4d518717923d289cf54b1ca5bc8,"fix(gha): use machine IP, and better logs",2025-04-14T13:48:13Z,1,34,raisedadead,freeCodeCamp,freeCodeCamp
+6c8f785dd2ab5d031d58669124459209e842fdda,fix(gha): use specifc hostname for Tailscale,2025-04-14T13:47:12Z,1,1,raisedadead,freeCodeCamp,freeCodeCamp
+4a69928b91ea9d036a9db491c252dd1e8bef6bd2,refactor: split ShowCertification into subcomponents (#59663),2025-04-14T10:41:43Z,1,296,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+392fa65e07f547d21dd15469d46256ab02381ab2,fix(curriculum): update favorite icon toggler requirements (#59679),2025-04-14T08:22:39Z,1,6,clarencepenz,freeCodeCamp,freeCodeCamp
+4d11cd8ddb003d1aa0b2bac884ac573a892edc21,fix(curriculum): typos in css review (#59700),2025-04-14T04:28:10Z,1,4,Supravisor,freeCodeCamp,freeCodeCamp
+3fdb52a7158a051454dee426738a8463e620f80d,fix(curriculum): add function invocation to ensure correct answer mat…,2025-04-13T18:05:00Z,1,2,MrSkinny,freeCodeCamp,freeCodeCamp
+d31445fc15b1e58761ba8eb04c4cc1bc514060ab,fix(curriculum): Add missing backsticks in sort method lecture (#59688),2025-04-13T17:38:09Z,1,2,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
