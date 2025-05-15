@@ -1,4 +1,18 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+fa1577e8327106c8f90683701e19601e7a3146ce,feat(curriculum): adding frontend libraries chapter review page (#59951),2025-05-14T21:17:26Z,2,1729,jdwilkin4,freeCodeCamp,freeCodeCamp
+6c9f5a9bbe74ebe0bbfb6b0ad32442c0b1342d37,fix(curriculum): improve Crowdin compatibility for workshop-city-skyl…,2025-05-14T20:43:00Z,2,4,vkalakota18,freeCodeCamp,freeCodeCamp
+826930b48548e4e2fafea0eb0bf25896ea53c4fe,fix(curriculum): improve Crowdin compatibility for lecture-what-is-cs…,2025-05-14T20:42:19Z,1,8,vkalakota18,freeCodeCamp,freeCodeCamp
+f606e19a1ad394e7c35f688b0aef07d7df169a70,feat(client): truncate long logs in the client rather than test evalu…,2025-05-14T20:16:31Z,6,46,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+b629884fea5a96d66ec5f3a7a4f309b668654e6c,fix(curriculum): updated description for taskData retrieval from loca…,2025-05-14T19:46:14Z,1,2,Averand1,freeCodeCamp,freeCodeCamp
+81502125dda1bc9c41c8dc55cb2d55766d498a33,fix: update location.hash when following links in preview (#60343),2025-05-14T18:59:56Z,1,6,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+b772485fe637500b69a38111115e8b54f20581d4,chore(curriculum): update assertions in cat painting workshop steps 3…,2025-05-14T17:18:18Z,2,16,HaheeBahee,freeCodeCamp,freeCodeCamp
+e8b8bb7a8ed5b66cbfafd356434b34fd7f394fde,chore(curriculum): Remove Legacy JS Caesars Cipher ID (#60342),2025-05-14T15:54:27Z,1,5,zairahira,freeCodeCamp,freeCodeCamp
+c150748ac841318374483c15e706a89f91db4935,fix: dispatch input event for textarea (#60107),2025-05-14T13:46:59Z,1,4,ShauryaDusht,freeCodeCamp,freeCodeCamp
+f50fc7ca1d5380504d1f84ad0a7ca2ef17141a8d,"chore(i18n,client): processed translations (#60344)",2025-05-14T13:33:41Z,10,130,camperbot,freeCodeCamp,freeCodeCamp
+c8d20d01063ab909be68b5df18749cc8f6f407b9,fix(curriculum): typos in workshop superhero application form (#60339),2025-05-14T13:08:20Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
+18cb51dffb3e3434ae0718909715ff7c0a293895,fix(curriculum): fix paragraph test for event hub lab (#60156),2025-05-14T09:07:18Z,1,7,Supravisor,freeCodeCamp,freeCodeCamp
+2d7011f5a3a06bcb3f5d7cf2b95c787685c71be0,fix(curriculum): feedback in Clarify Information step 73 (#60316),2025-05-14T08:02:38Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+cd94560ee554d25d063eba375dd18c4088c77130,fix(curriculum): allow both single and double quotes in fcc Forum Lea…,2025-05-14T01:48:41Z,1,12,ilenia-magoni,freeCodeCamp,freeCodeCamp
 9e61f27b94e0f9ad200495758d917cdfef710b95,feat(curriculum): add Block 18 of the B1 stage of the English Curricu…,2025-05-13T20:55:46Z,130,13337,DanielRosa74,freeCodeCamp,freeCodeCamp
 eeeeb034ec4191b037ece419de8feae86416bacb,fix(api): deduplicating objects in logs (#60319),2025-05-13T15:10:49Z,1,101,raisedadead,freeCodeCamp,freeCodeCamp
 75712748ddb105e2af8c4957fba1111bd4878fc4,feat: FOSS funding (#60313),2025-05-13T13:47:41Z,2,137,Nirajn2311,freeCodeCamp,freeCodeCamp
@@ -254,13 +268,3 @@ d5d917f0bb522c0cf03dd6707e1066cf8f7469a0,fix(curriculum): ensure acronym Aria  i
 6d213cfb7a05f30c8bc97a87e9a45a520674752d,fix(curriculum): add mid dot to formula (#59720),2025-04-15T09:34:53Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 88ab14e18b67733d971167d2fc5de7c32552f1bb,fix(curriculum): add confidential and top secret user stories and tes…,2025-04-15T07:41:49Z,1,14,Supravisor,freeCodeCamp,freeCodeCamp
 6a2b95df8d1065c2de8da16d9eec5a4de654a55e,fix(curriculum): allow image placement in any order (#59585),2025-04-15T05:51:34Z,1,7,Supravisor,freeCodeCamp,freeCodeCamp
-0c0817c08914bd645163e14883692a4339729130,fix(curriculum): TOP block name (#59708),2025-04-14T21:36:59Z,1,2,huyenltnguyen,freeCodeCamp,freeCodeCamp
-37593122ddfeabd9cf9f1ac37190f02ca3a1d664,fix(cirriculum): missing word in fill in the blank answer (#59711),2025-04-14T18:53:51Z,1,4,ZE206,freeCodeCamp,freeCodeCamp
-107df1e4a4b7a2b7c07e8e6e0e1a20a0a9352047,fix(GHA): fix formatting and expansion,2025-04-14T17:29:13Z,1,53,raisedadead,freeCodeCamp,freeCodeCamp
-54cc4b0042a6aa4a4174152fd099a115bb679b44,"chore(i18n,learn): update i18n-curriculum submodule (#59713)",2025-04-14T15:20:13Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-5cda7c7ae0bb81f844c5f2e00bde002bf74257a9,"chore(i18n,client): processed translations (#59709)",2025-04-14T15:20:01Z,10,1002,camperbot,freeCodeCamp,freeCodeCamp
-a875294adf7af4d518717923d289cf54b1ca5bc8,"fix(gha): use machine IP, and better logs",2025-04-14T13:48:13Z,1,34,raisedadead,freeCodeCamp,freeCodeCamp
-6c8f785dd2ab5d031d58669124459209e842fdda,fix(gha): use specifc hostname for Tailscale,2025-04-14T13:47:12Z,1,1,raisedadead,freeCodeCamp,freeCodeCamp
-4a69928b91ea9d036a9db491c252dd1e8bef6bd2,refactor: split ShowCertification into subcomponents (#59663),2025-04-14T10:41:43Z,1,296,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-392fa65e07f547d21dd15469d46256ab02381ab2,fix(curriculum): update favorite icon toggler requirements (#59679),2025-04-14T08:22:39Z,1,6,clarencepenz,freeCodeCamp,freeCodeCamp
-4d11cd8ddb003d1aa0b2bac884ac573a892edc21,fix(curriculum): typos in css review (#59700),2025-04-14T04:28:10Z,1,4,Supravisor,freeCodeCamp,freeCodeCamp
