@@ -1,4 +1,21 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+e149f7514fe6abe1323b17c81e724a2ca4526da7,feat(curriculum): Add A2 Spanish Outline (#60303),2025-05-15T19:47:26Z,24,272,nieldakarla,freeCodeCamp,freeCodeCamp
+186ccf260264eeb2c94690da5f383e829573ed74,fix(gha): do not cancel for main/prod branches (#60383),2025-05-15T18:46:46Z,3,17,raisedadead,freeCodeCamp,freeCodeCamp
+c37af5001bd19b45de09591efcb7b6e541084920,refactor(curriculum): remove after-user-code javascript 22 (#60338),2025-05-15T15:29:19Z,5,168,a2937,freeCodeCamp,freeCodeCamp
+4c6faf9e6d126fcbfaee52eabae9b3480bff0877,fix(curriculum): update challengeType in multimedia player lab (#60377),2025-05-15T15:18:51Z,1,2,jan-code26,freeCodeCamp,freeCodeCamp
+490cb9617b3cb803ab7fdde669ac6e360392ed6e,fix(curriculum): typo in B1 express agreement (#60206),2025-05-15T15:02:27Z,6,20,Supravisor,freeCodeCamp,freeCodeCamp
+deac38a1dbc5a867ce418f0beb0f6613a1ff362f,feat(Curriculum): add movie review page lab (#59597),2025-05-15T14:41:51Z,5,254,larymak,freeCodeCamp,freeCodeCamp
+c4af9f42e903e3f98ff402132f90c9b5dbe155b4,fix(curriculum): typo in css typography quiz (#60374),2025-05-15T14:31:41Z,1,2,salkamosesdb,freeCodeCamp,freeCodeCamp
+7d420d9214f28229a05da26e44415dfae0805446,fix(api): change csrf logLevel (#60371),2025-05-15T14:12:29Z,2,4,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+7e76946a07a4628920e97b9c615ee022d04dbb99,fix(api): sending incorrect object in log (#60372),2025-05-15T14:02:25Z,1,8,raisedadead,freeCodeCamp,freeCodeCamp
+e06c563a51eb8e0fca395279ecf5e61dc5e86ce3,fix(curriculum): typo in learn about adverbial phrases task 39 (#60364),2025-05-15T13:54:19Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
+ece81bdca2e9839c0a1ec20c3b2bed6999eaa5e3,fix(curriculum): element references in Storytelling App (#60369),2025-05-15T13:51:06Z,5,12,huyenltnguyen,freeCodeCamp,freeCodeCamp
+a22577eaa6024d667cd9f0fe9833e49a6cd5322d,"fix(curriculum): incorrect spelling of ""preferrable"" to preferable (#…",2025-05-15T11:07:59Z,1,2,Giftea,freeCodeCamp,freeCodeCamp
+cd8afa660811f4b2935541a5aad869d03bd64d83,fix(curriculum): remove misleading example in recipe-ingredint-conver…,2025-05-15T10:28:43Z,1,8,Ajay-2005,freeCodeCamp,freeCodeCamp
+46326d54c711c8d220ec25d1147a57e50a835bbf,fix(curriculum): reword description to element in Storytelling App (#…,2025-05-15T10:10:45Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+dc911fd430445cf986c42410602c821868ffa43f,refactor(curriculum): remove after-user-code basic algorithms (#60332),2025-05-15T07:54:59Z,1,13,a2937,freeCodeCamp,freeCodeCamp
+1b499fb4ab5bb4bc9a062ecc8c4ad0373f77ed1d,refactor(curriculum): remove after-user-code basic data structures (#…,2025-05-15T07:19:38Z,1,37,a2937,freeCodeCamp,freeCodeCamp
+3531f0296360f335c5e3da0dd9dbcb93e3e24bbc,fix(curriculum): split up test in lab job application form (#60350),2025-05-15T02:09:32Z,1,14,clarencepenz,freeCodeCamp,freeCodeCamp
 fa1577e8327106c8f90683701e19601e7a3146ce,feat(curriculum): adding frontend libraries chapter review page (#59951),2025-05-14T21:17:26Z,2,1729,jdwilkin4,freeCodeCamp,freeCodeCamp
 6c9f5a9bbe74ebe0bbfb6b0ad32442c0b1342d37,fix(curriculum): improve Crowdin compatibility for workshop-city-skyl…,2025-05-14T20:43:00Z,2,4,vkalakota18,freeCodeCamp,freeCodeCamp
 826930b48548e4e2fafea0eb0bf25896ea53c4fe,fix(curriculum): improve Crowdin compatibility for lecture-what-is-cs…,2025-05-14T20:42:19Z,1,8,vkalakota18,freeCodeCamp,freeCodeCamp
@@ -258,13 +275,3 @@ ce7845365c3dec4926f19104bfea997409446295,chore(client): adjust backend placehold
 155deb608ac0457a836482236c6c40c1b90ac213,feat(curriculum): add new question to lecture with css fonts (#59738),2025-04-16T08:55:33Z,1,17,clarencepenz,freeCodeCamp,freeCodeCamp
 d6e4086e63b192f73f9463c33174c30a69654b5f,refactor: use canSaveToDB function more (#59730),2025-04-16T08:35:55Z,2,16,moT01,freeCodeCamp,freeCodeCamp
 7f5a4c9ea027aa5156a9ee0b4bdbe2ba9d7cafeb,fix(curriculum): place comment below example in greeting bot workshop…,2025-04-16T05:44:37Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-6ab6b384d25025a6d9c2bbbe92e1dec27a678f25,feat(curriculum): add react forms transcripts (#59621),2025-04-15T19:09:42Z,2,357,moT01,freeCodeCamp,freeCodeCamp
-287fc6f0302c9291d043c313a68491b69b2c97be,fix(curriculum): grammatical issue in several challenges (#59723),2025-04-15T17:22:50Z,8,16,Drowsystudent,freeCodeCamp,freeCodeCamp
-0c05bc8002dbed22a70eccfb583dbb578e5eb323,fix(curriculum): update HTML Review chapter with missing sections (#5…,2025-04-15T16:57:22Z,1,34,JarydSt,freeCodeCamp,freeCodeCamp
-f8c5a86285da7a4e7f7ef9e3fdc03ad7986b6bda,feat: add react debugging video ids and transcripts (#59632),2025-04-15T16:04:12Z,4,548,scissorsneedfoodtoo,freeCodeCamp,freeCodeCamp
-f0ba8441d5c703d58309d3c9e876b25961c38a9b,fix(Curriculum): Fix missing words of tasks in block 13 B1 English cu…,2025-04-15T16:01:44Z,4,20,nieldakarla,freeCodeCamp,freeCodeCamp
-c1fd83fdebcb4c6e76908e300b6a99376f1c96f9,fix(curriculum): use base64 image in mock fetch data (#59729),2025-04-15T15:47:34Z,51,112,moT01,freeCodeCamp,freeCodeCamp
-d5d917f0bb522c0cf03dd6707e1066cf8f7469a0,fix(curriculum): ensure acronym Aria  is in all caps (#59728),2025-04-15T13:22:10Z,2,36,clarencepenz,freeCodeCamp,freeCodeCamp
-6d213cfb7a05f30c8bc97a87e9a45a520674752d,fix(curriculum): add mid dot to formula (#59720),2025-04-15T09:34:53Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-88ab14e18b67733d971167d2fc5de7c32552f1bb,fix(curriculum): add confidential and top secret user stories and tes…,2025-04-15T07:41:49Z,1,14,Supravisor,freeCodeCamp,freeCodeCamp
-6a2b95df8d1065c2de8da16d9eec5a4de654a55e,fix(curriculum): allow image placement in any order (#59585),2025-04-15T05:51:34Z,1,7,Supravisor,freeCodeCamp,freeCodeCamp
