@@ -1,6 +1,7 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X861vbc0,60231,Code evaluated twice after saving,OPEN,2025-05-08T14:02:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862uUGG,60368,issues with tests for Design a Business Card lab,OPEN,2025-05-15T09:34:40Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X862tl3F,60366,Session Recordings Common UX issues.,OPEN,2025-05-15T08:27:13Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X861vbc0,60231,Code evaluated twice after saving,OPEN,2025-05-08T14:02:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8629jkN,60407,Duplicated `--before-all--` section in challenges,OPEN,2025-05-16T17:54:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862mGhG,60346,Build a Bookmark Manager App User Story 11,CLOSED,2025-05-14T15:02:40Z,2025-05-16T17:20:46Z,SaravananR01,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862ozmi,60355,lab password generator last user story,CLOSED,2025-05-14T20:02:37Z,2025-05-16T17:01:34Z,Giftea,freeCodeCamp,freeCodeCamp
@@ -22,7 +23,6 @@ I_kwDOAbI7X862Guty,60282,Chromium's audio restrictions mess up Build a Drum Mach
 MDU6SXNzdWU3OTI4Njc1OTg=,40773,Update unsubscribe functionality for edge case,CLOSED,2021-01-24T18:58:24Z,2025-05-15T23:05:06Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862zSx1,60384,Issue in What Is the Specificity for ID Selectors?,OPEN,2025-05-15T17:07:54Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862nxqb,60352,translate.freecodecamp.org is inaccessible,OPEN,2025-05-14T17:57:21Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862tl3F,60366,Session Recordings Common UX issues.,OPEN,2025-05-15T08:27:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862zaOz,60385,Remove example for div#unique in CSS specificity video/transcript,CLOSED,2025-05-15T17:22:19Z,2025-05-15T17:26:58Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862yZmg,60381,Change Odin project challenge type,OPEN,2025-05-15T15:32:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86yiMm8,59725,Full stack HTML Accessibility Lab: Build a checkout page - exercise not in line with good ARIA practice,OPEN,2025-04-15T06:34:38Z,,,freeCodeCamp,freeCodeCamp
@@ -65,7 +65,7 @@ I_kwDOAbI7X862EZ1-,60276,Typo Build a Todo App using Local Storage Step 20,CLOSE
 I_kwDOAbI7X86uLYKV,59290,Questionable behaviour when using the Tab key to navigate the lecture video sites,OPEN,2025-03-15T15:27:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86cxsbm,57029,Issue with Exercise Accessibility on Mobile,OPEN,2024-11-02T06:57:22Z,,LucasTStephens,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X860LvK9,60017,Step 59 Learn Regular Expressions by Building a Password Generator Scientific Computing with Python,CLOSED,2025-04-27T10:02:09Z,2025-05-10T22:08:56Z,Ajay-2005,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8614HTD,60245,update cat painting workshop to use specific assert methods step 42-43,CLOSED,2025-05-09T08:17:19Z,2025-05-10T09:40:50Z,loralridz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X8614HTD,60245,update cat painting workshop to use specific assert methods step 42-43,CLOSED,2025-05-09T08:17:19Z,2025-05-10T09:40:50Z,rirocodes,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8613CAB,60243,Typo in English challenges,CLOSED,2025-05-09T06:33:41Z,2025-05-10T07:28:39Z,VisibleNasir,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X860EgBm,60006,Update graphic in default browser styles lecture video,CLOSED,2025-04-25T21:42:40Z,2025-05-09T23:41:59Z,estefaniacn,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86139y_,60244,Typo in How to Improve the Perceived Performance of Features,CLOSED,2025-05-09T07:59:55Z,2025-05-09T18:42:00Z,meenakshi,freeCodeCamp,freeCodeCamp
@@ -239,10 +239,3 @@ I_kwDOAbI7X86nKulw,58299,[i18n] Navigating away from quiz page results in wrong 
 I_kwDOAbI7X86zD8nL,59802,Correct component name in `cap.tsx`,CLOSED,2025-04-18T06:42:03Z,2025-04-18T09:16:11Z,agilan11,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86zERqE,59803,Use double quotation marks in Permutation Generator,CLOSED,2025-04-18T07:19:57Z,2025-04-18T09:11:44Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86y2qaM,59779,Mention `and` operator in Review Fundamentals?,CLOSED,2025-04-16T20:30:17Z,2025-04-18T08:56:02Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86w3WPE,59558,Music Player Step 71: passes incorrectly nested code,CLOSED,2025-04-02T19:06:19Z,2025-04-17T17:14:14Z,dennmar,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86yoQjB,59733,Incorrect wording in useOptimistic Hook lecture video,CLOSED,2025-04-15T15:52:12Z,2025-04-17T14:43:43Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86y2YyD,59777,Basic CSS review missing info about block level elements,CLOSED,2025-04-16T19:52:54Z,2025-04-17T14:33:40Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86y792D,59787,"Remove ""You will not be able to change any answers."" from Finish Quiz modal",CLOSED,2025-04-17T10:17:36Z,2025-04-17T14:31:50Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86y0QHl,59770,Remove redundant line in review pages,CLOSED,2025-04-16T15:41:15Z,2025-04-17T14:28:29Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ywhum,59764,Remove link underline style from global.css,CLOSED,2025-04-16T09:38:38Z,2025-04-17T07:27:46Z,merxgrc,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86yTA74,59699,Job application lab Parser fails step 16 despite the requirement being fulfilled,CLOSED,2025-04-13T15:46:22Z,2025-04-17T04:57:30Z,clarencepenz,freeCodeCamp,freeCodeCamp
