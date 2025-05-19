@@ -1,4 +1,7 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X863G2g_,60422,Palindrome Checker tests passing when they shouldn't,OPEN,2025-05-18T20:02:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863GAJ-,60421,Gitpod Part 2 SQL course: Reset disabled on final step,OPEN,2025-05-18T13:50:58Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X862bzqX,60326,update workshop cat painting steps 52-53 to use specific asserts,CLOSED,2025-05-13T17:19:48Z,2025-05-18T08:31:07Z,primovere,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862uUGG,60368,issues with tests for Design a Business Card lab,OPEN,2025-05-15T09:34:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862tl3F,60366,Session Recordings Common UX issues.,OPEN,2025-05-15T08:27:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861vbc0,60231,Code evaluated twice after saving,OPEN,2025-05-08T14:02:29Z,,,freeCodeCamp,freeCodeCamp
@@ -54,7 +57,6 @@ I_kwDOAbI7X861sa5w,60228,Persisting Last User Activity,OPEN,2025-05-08T09:05:56Z
 I_kwDOAbI7X861G4VS,60153,Test is to strict in event hub lab,CLOSED,2025-05-05T03:00:01Z,2025-05-14T09:07:20Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862M3vl,60297,fCC Forum Leaderboard - tests too restrictive for avatars img element,CLOSED,2025-05-12T12:38:06Z,2025-05-14T01:48:43Z,ilenia-magoni,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862Fyis,60278,Progress Bookmarking for Challenges or Tutorials,OPEN,2025-05-11T12:47:09Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862bzqX,60326,update workshop cat painting steps 52-53 to use specific asserts,OPEN,2025-05-13T17:19:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862a267,60321,freeze,CLOSED,2025-05-13T15:37:51Z,2025-05-13T16:37:41Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X860-p3l,60129,Add checks to ensure that proper headings are present in english curriculum challenges,OPEN,2025-05-02T15:45:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862LZdk,60290,update cat painting workshop steps 48-49 to use specific asserts,CLOSED,2025-05-12T10:14:39Z,2025-05-12T19:12:54Z,Yogesh-Bhagwani,freeCodeCamp,freeCodeCamp
@@ -234,8 +236,3 @@ I_kwDOAbI7X86y_4Ud,59793,CSS Layout and Effects Quiz - reset file options are am
 I_kwDOAbI7X86xZhc3,59613,Update create new challenge script,OPEN,2025-04-07T09:39:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86yeLd7,59722,Blank screen,CLOSED,2025-04-14T21:20:10Z,2025-04-19T17:31:45Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86zGhbK,59808,Adjust answer in HTML Accessibility Quiz and review page,CLOSED,2025-04-18T12:21:38Z,2025-04-19T11:43:17Z,kaipepler,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zGCCX,59806,Typo in English challenge,CLOSED,2025-04-18T10:52:55Z,2025-04-18T17:03:16Z,Anthonymiranda,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86nKulw,58299,[i18n] Navigating away from quiz page results in wrong URL and blank page,OPEN,2025-01-22T14:55:07Z,,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zD8nL,59802,Correct component name in `cap.tsx`,CLOSED,2025-04-18T06:42:03Z,2025-04-18T09:16:11Z,agilan11,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zERqE,59803,Use double quotation marks in Permutation Generator,CLOSED,2025-04-18T07:19:57Z,2025-04-18T09:11:44Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86y2qaM,59779,Mention `and` operator in Review Fundamentals?,CLOSED,2025-04-16T20:30:17Z,2025-04-18T08:56:02Z,clarencepenz,freeCodeCamp,freeCodeCamp
