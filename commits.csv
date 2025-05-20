@@ -1,4 +1,17 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+efc3b3faedb6337dcd9610308500f3e9a417dcb7,fix(curriculum): update questions in Debugging techniques lecture (#6…,2025-05-19T21:36:47Z,1,40,Supravisor,freeCodeCamp,freeCodeCamp
+8c1610a1ed4e3522359622c182e42649b17acb70,fix(mobile): remove a2 spanish superblock (#60440),2025-05-19T21:22:12Z,4,58,moT01,freeCodeCamp,freeCodeCamp
+1f71111fea8c692a748ff1aef120f39350793fca,"chore(i18n,learn): update i18n-curriculum submodule (#60436)",2025-05-19T21:20:02Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+a13892447b6e92b2ef6c9759c25e127662efc20e,"fix(curriculum): change ""aria"" to all caps (#60434)",2025-05-19T16:23:57Z,2,4,harshit960,freeCodeCamp,freeCodeCamp
+cb26aec33a327f78e9a0901001f9fa3adaca6217,fix(curriculum): typo in workshop plant nursery catalog step 30 (#60427),2025-05-19T16:06:23Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
+f7f5e74a7e7097b758a567c7fcf4b66a38b624a8,"chore(i18n,client): processed translations (#60432)",2025-05-19T15:44:32Z,20,280,camperbot,freeCodeCamp,freeCodeCamp
+7003362fef32535c2deb38a93bd2464343c05ebb,fix(api): handle concurrent deletion requests (#60430),2025-05-19T14:25:22Z,2,71,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+a5ec9e1ee723349e56b05972716ea019f8d2c933,fix(api): handle when emailVerified is null (#60429),2025-05-19T11:18:10Z,2,6,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+00264908e8eef1230634c39558755df457cf857f,fix(api): remove authn requirement for coderoad challenges (#60425),2025-05-19T10:53:43Z,4,341,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+8558d0b1f1e8425b14b7c9247cecf9ae85ef60e6,fix(api): catch invalid ms-username url (#60402),2025-05-19T10:53:24Z,3,145,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+ac2efd48778afb98b5a6079b6cdf48390219121e,fix(curriculum): remove validation status from feedback texts (#60254),2025-05-19T10:30:32Z,92,250,neelesh-124,freeCodeCamp,freeCodeCamp
+e1ba767039f415d1a5652da72cb7dce605824c55,refactor(curriculum): remove after-user-code workshop rps (#60412),2025-05-19T10:00:02Z,1,16,a2937,freeCodeCamp,freeCodeCamp
+1a30174449c6e4dc79a4548d688814d54d19243f,fix(curriculum): add missing word in Programming Vocabulary (#60423),2025-05-19T08:02:35Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 6e2eaf0a3d3b6faf07c6678d43c8640757e85295,fix(curriculum): update workshop cat painting (#60414),2025-05-18T08:31:06Z,2,14,primovere,freeCodeCamp,freeCodeCamp
 990b862d41ff9ee95fd45cdbb80302286b12982b,chore(api): log duplicate account ids (#60405),2025-05-17T03:41:41Z,2,16,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 49c28fcb42e9cee3488a5bcd96363feb050f4e59,fix(curriculum): clarify instruction for better understanding (#60403),2025-05-16T17:20:31Z,1,2,SaravananR01,freeCodeCamp,freeCodeCamp
@@ -257,5 +270,3 @@ d1e78aa98796913440b27b94944cc60df5bd0e5a,"fix(curriculum): grammar errors in Eng
 aa8adedc86cebc27e1f0b54c5bc21b41fc00f246,fix(curriculum): css layout and effects quiz reset options (#59798),2025-04-20T17:26:11Z,1,8,clarencepenz,freeCodeCamp,freeCodeCamp
 65144a25828c0dc86a03f0317b50e8a90c34828c,docs(readme): update outdated urls on README.md (#59817),2025-04-20T10:56:20Z,1,6,xavizera,freeCodeCamp,freeCodeCamp
 e2996eb3e6951e9284a2b58ff1abc10ec1a012f7,fix(gha): cleanup logs and validation,2025-04-20T08:19:47Z,1,18,raisedadead,freeCodeCamp,freeCodeCamp
-de706811261aec4f381b7f1dd7dcb9abdb1b44f3,fix(curriculum): Improved specificity of ARIA answer (#59799),2025-04-19T11:43:16Z,2,4,kaipepler,freeCodeCamp,freeCodeCamp
-3d99e284250125821f171ddb55204ce4be327e7b,feat(curriculum): color picker lab (#59018),2025-04-19T07:58:16Z,5,375,naomi-lgbt,freeCodeCamp,freeCodeCamp
