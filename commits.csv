@@ -1,4 +1,7 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+6dfc0e65bc71bf1b6d68262ab1142d185729d9b2,fix(curriculum): correct inaccurate answer in express agreement chall…,2025-05-20T19:48:07Z,1,2,IbrahimAl-Tawil,freeCodeCamp,freeCodeCamp
+2f7395e475c5fd8efe2cd6b1b11ecf268c294194,feat: add set 2 of questions for CSS animations quiz  (#59790),2025-05-20T12:49:25Z,1,488,aaqib605,freeCodeCamp,freeCodeCamp
+a50b43a3154437ef1ef827d29fd798b2c462238f,feat(curriculum): add Python loops and sequences review page (#60128),2025-05-20T06:17:13Z,2,701,zairahira,freeCodeCamp,freeCodeCamp
 efc3b3faedb6337dcd9610308500f3e9a417dcb7,fix(curriculum): update questions in Debugging techniques lecture (#6…,2025-05-19T21:36:47Z,1,40,Supravisor,freeCodeCamp,freeCodeCamp
 8c1610a1ed4e3522359622c182e42649b17acb70,fix(mobile): remove a2 spanish superblock (#60440),2025-05-19T21:22:12Z,4,58,moT01,freeCodeCamp,freeCodeCamp
 1f71111fea8c692a748ff1aef120f39350793fca,"chore(i18n,learn): update i18n-curriculum submodule (#60436)",2025-05-19T21:20:02Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
@@ -266,7 +269,3 @@ ed6c77e972ee15e454f70c5d1e2c6f249eddbea9,fix(gha): remove workflow_run (#59840),
 08c12b6620262f77f3aa92d4385023014726596c,feat(curriculum): add react data fetching and memoization transcripts…,2025-04-21T07:33:35Z,4,904,moT01,freeCodeCamp,freeCodeCamp
 d1e78aa98796913440b27b94944cc60df5bd0e5a,"fix(curriculum): grammar errors in English for Developers, Block 16, …",2025-04-21T07:21:48Z,2,4,miyaliu666,freeCodeCamp,freeCodeCamp
 22f251ebd868f6014069fdd25433dcf52e6bfaa8,chore(curriculum): add backticks for alt attribute value (#59828),2025-04-21T04:20:16Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-9b539eefc7216d630e3f72420ad98676dcaa0e7a,fix: validation now allows challengeType 27 (#59825),2025-04-20T19:42:03Z,1,2,ilenia-magoni,freeCodeCamp,freeCodeCamp
-aa8adedc86cebc27e1f0b54c5bc21b41fc00f246,fix(curriculum): css layout and effects quiz reset options (#59798),2025-04-20T17:26:11Z,1,8,clarencepenz,freeCodeCamp,freeCodeCamp
-65144a25828c0dc86a03f0317b50e8a90c34828c,docs(readme): update outdated urls on README.md (#59817),2025-04-20T10:56:20Z,1,6,xavizera,freeCodeCamp,freeCodeCamp
-e2996eb3e6951e9284a2b58ff1abc10ec1a012f7,fix(gha): cleanup logs and validation,2025-04-20T08:19:47Z,1,18,raisedadead,freeCodeCamp,freeCodeCamp
