@@ -1,18 +1,26 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X86yiMm8,59725,Full stack HTML Accessibility Lab: Build a checkout page - exercise not in line with good ARIA practice,OPEN,2025-04-15T06:34:38Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863dPAc,60457,Movie Review Page - imprecise requirements,OPEN,2025-05-20T18:29:47Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X862nxqb,60352,translate.freecodecamp.org is inaccessible,CLOSED,2025-05-14T17:57:21Z,2025-05-20T20:54:59Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863JgQu,60424,Learn How to Express Agreement - Task 71,CLOSED,2025-05-19T06:52:30Z,2025-05-20T19:48:09Z,IbrahimAl-Tawil,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863diul,60458,House Painting - odd requirement for the window placement test,OPEN,2025-05-20T19:05:14Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86kZtez,57750,Lecture blocks left to add for the Frontend Libraries Chapter,OPEN,2024-12-24T18:49:12Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X8620AhD,60387,User experience is not seamless,CLOSED,2025-05-15T18:31:24Z,2025-05-20T16:07:03Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863S51a,60446,[Curriculum] - Checking if zero Length is not the same as empty,OPEN,2025-05-19T22:55:26Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863Z0qU,60452,Feature Request: GitHub Integration for Auto-Saving Exercise Progress,OPEN,2025-05-20T13:16:48Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86ytCMr,59757,Add set 2 of questions for CSS Animations quiz,CLOSED,2025-04-16T02:24:38Z,2025-05-20T12:49:26Z,aaqib605,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863UMz6,60449,Python Terminal not Accessible via Screen Reader,OPEN,2025-05-20T03:41:02Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X862CBzT,60266,"""Saved! Your code was saved to your browser's local storage."" - banner has no timeout, carries over when changing page",CLOSED,2025-05-10T10:02:54Z,2025-05-20T11:38:22Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86yiMm8,59725,Full stack HTML Accessibility Lab: Build a checkout page - exercise not in line with good ARIA practice,OPEN,2025-04-15T06:34:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861cTFs,60200,Width for code examples in lectures are not the same,OPEN,2025-05-06T21:46:42Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863RRW9,60441,Trivia Bot - Allow separate space concatenation or update requirements,OPEN,2025-05-19T19:02:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862mtML,60349,Update questions for debugging techniques lecture,CLOSED,2025-05-14T15:56:24Z,2025-05-19T21:36:48Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863RXdH,60442,Add test for mobile superblocks?,CLOSED,2025-05-19T19:15:22Z,2025-05-19T21:22:13Z,huyenltnguyen;moT01,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863G2g_,60422,Palindrome Checker tests passing when they shouldn't,CLOSED,2025-05-18T20:02:49Z,2025-05-19T07:58:09Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862nxqb,60352,translate.freecodecamp.org is inaccessible,OPEN,2025-05-14T17:57:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863QIEY,60438,Handle 403 error with msg and do not send to sentry.,OPEN,2025-05-19T16:49:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863L-jC,60428,Change `aria` to all caps,CLOSED,2025-05-19T10:36:50Z,2025-05-19T16:23:58Z,harshit960,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863KFEj,60426,"Typo in Workshop ""Build a Plant Nursery Catalog"" - Step 30",CLOSED,2025-05-19T07:46:00Z,2025-05-19T16:06:24Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863GAJ-,60421,Gitpod Part 2 SQL course: Reset disabled on final step,CLOSED,2025-05-18T13:50:58Z,2025-05-19T10:53:44Z,ShaunSHamilton;ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861TPNc,60179,Remove validation status from feedback text,CLOSED,2025-05-06T06:54:48Z,2025-05-19T10:30:33Z,huyenltnguyen;neelesh-124,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863JgQu,60424,Learn How to Express Agreement - Task 71,OPEN,2025-05-19T06:52:30Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862bzqX,60326,update workshop cat painting steps 52-53 to use specific asserts,CLOSED,2025-05-13T17:19:48Z,2025-05-18T08:31:07Z,primovere,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862uUGG,60368,issues with tests for Design a Business Card lab,OPEN,2025-05-15T09:34:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862tl3F,60366,Session Recordings Common UX issues.,OPEN,2025-05-15T08:27:13Z,,,freeCodeCamp,freeCodeCamp
@@ -23,8 +31,6 @@ I_kwDOAbI7X862ozmi,60355,lab password generator last user story,CLOSED,2025-05-1
 I_kwDOAbI7X862bxUo,60325,update cat painting workshops steps 50-51 to use specific asserts,CLOSED,2025-05-13T17:16:53Z,2025-05-16T16:50:27Z,daniel-idowu-01,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862kiOG,60345,"Build a Calorie Counter: Step 79 - test accepts ""a - b + c"" but not ""a + c - b""",CLOSED,2025-05-14T12:56:31Z,2025-05-16T16:05:00Z,Sky-walkerX,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8605Ohs,60115,Possibility of two valid answers in the specificity for ID selectors lecture,CLOSED,2025-05-01T23:28:11Z,2025-05-16T15:54:51Z,Giftea,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862CBzT,60266,"""Saved! Your code was saved to your browser's local storage."" - banner has no timeout, carries over when changing page",OPEN,2025-05-10T10:02:54Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8620AhD,60387,User experience is not seamless,OPEN,2025-05-15T18:31:24Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86zPnYI,59827,CSS Typography Review missing info and fixup,CLOSED,2025-04-20T20:33:30Z,2025-05-16T13:37:36Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861ts0c,60230,Forum login message,OPEN,2025-05-08T11:09:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8601m_Y,60104,Build a Customer Complaint Form test 16 and 24 same text,CLOSED,2025-05-01T14:15:25Z,2025-05-16T11:51:08Z,roberiacono,freeCodeCamp,freeCodeCamp
@@ -125,7 +131,6 @@ I_kwDOAbI7X8606bFr,60119,"""Build a lunch"" lab: failure message for getRandomLu
 I_kwDOAbI7X86ys5rt,59751,Add set 2 of questions for CSS Flexbox quiz,OPEN,2025-04-16T02:01:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86ytAfG,59755,Add set 2 of questions for CSS Variables quiz,OPEN,2025-04-16T02:19:27Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86ys_JN,59754,Add set 2 of questions for Responsive Web design quiz,OPEN,2025-04-16T02:15:19Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ytCMr,59757,Add set 2 of questions for CSS Animations quiz,OPEN,2025-04-16T02:24:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86dwajV,57113,Shortest-Path-Algorithm Challenge: Report with suggestions to improve the learning experience,OPEN,2024-11-10T01:58:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86z5tF4,59969,Build an availability table issue,OPEN,2025-04-24T19:23:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8600gzy,60103,update cat painting workshop to use specific assert methods step 27,CLOSED,2025-05-01T11:24:14Z,2025-05-02T08:31:39Z,joonhoswe,freeCodeCamp,freeCodeCamp
@@ -208,7 +213,6 @@ I_kwDOAbI7X86zbf2K,59874,specific methods not used in city skyline workshop,CLOS
 I_kwDOAbI7X86rkkwr,58980,Step 24 of the Python Equation Solver allows wrong code to pass,CLOSED,2025-02-25T13:59:49Z,2025-04-23T15:08:44Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86y28-t,59780,"<div className=""benefits-container""> remains in English despite language change",CLOSED,2025-04-16T21:09:05Z,2025-04-17T05:02:36Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86zqweK,59928,the test,CLOSED,2025-04-23T15:00:12Z,2025-04-23T15:03:30Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86kZtez,57750,Lecture blocks left to add for the Frontend Libraries Chapter,OPEN,2024-12-24T18:49:12Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86q0cmK,58911,Confusing error on Login page,CLOSED,2025-02-20T11:23:21Z,2025-04-23T11:21:47Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86zbid6,59878,specific assert methods not used in reusable mega navbar workshop,CLOSED,2025-04-22T08:28:07Z,2025-04-23T06:38:44Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86zgmLA,59892,typo in javascript trivia bot lab,CLOSED,2025-04-22T17:16:33Z,2025-04-23T01:10:38Z,Priyesh1311421,freeCodeCamp,freeCodeCamp
@@ -235,9 +239,3 @@ I_kwDOAbI7X86zTJaT,59838,A new design request,CLOSED,2025-04-21T10:45:29Z,2025-0
 I_kwDOAbI7X86zRzZ2,59831,Replace quotes with backticks in Cat Photo App step 9,CLOSED,2025-04-21T07:26:37Z,2025-04-21T14:43:22Z,neelesh-124,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86zULt5,59850,"""Start where you left off"" button on /learn",CLOSED,2025-04-21T13:24:46Z,2025-04-21T14:19:47Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86zKurj,59814,Used the word captions by mistake when talking about transcript,OPEN,2025-04-18T23:31:38Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zPuLc,59830,Golaaodaablog,CLOSED,2025-04-20T21:44:27Z,2025-04-20T22:07:44Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zPt9L,59829,Build a Checkout Page Lab has redundant aria-required step,CLOSED,2025-04-20T21:42:00Z,2025-04-20T21:43:52Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zPQcR,59824,can't use new challenteType 27,CLOSED,2025-04-20T16:58:22Z,2025-04-20T19:42:05Z,ilenia-magoni,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zPYJG,59826,Fix typo in README.md,CLOSED,2025-04-20T18:10:35Z,2025-04-20T19:41:28Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86y_4Ud,59793,CSS Layout and Effects Quiz - reset file options are ambiguous,CLOSED,2025-04-17T17:37:19Z,2025-04-20T17:26:12Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86xZhc3,59613,Update create new challenge script,OPEN,2025-04-07T09:39:33Z,,,freeCodeCamp,freeCodeCamp
