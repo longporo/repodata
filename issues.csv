@@ -1,12 +1,27 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X863rIzx,60476,Add extra tests to ensure campers remove the extra h1s in camperbot lab,OPEN,2025-05-21T22:22:02Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863opT2,60471,Todo App using Local Settings — final step,OPEN,2025-05-21T17:00:40Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863Z0qU,60452,Feature Request: GitHub Integration for Auto-Saving Exercise Progress,OPEN,2025-05-20T13:16:48Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863jX9t,60461,Inconvenient discovery of challenges in Full Stack Developer Curriculum,OPEN,2025-05-21T09:08:10Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863pubd,60474,[Customer Complaint Form] Add `aria-live` to the message box,OPEN,2025-05-21T19:06:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863pk0P,60473,Add images for the RPG creatures project,OPEN,2025-05-21T18:47:38Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X862uUGG,60368,issues with tests for Design a Business Card lab,OPEN,2025-05-15T09:34:40Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863diul,60458,House Painting - odd requirement for the window placement test,OPEN,2025-05-20T19:05:14Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863hsoo,60459,Issue on Timestamp Microservice @ Back End Development and APIs in Test Case 7 and 8,OPEN,2025-05-21T06:19:28Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86ysvbG,59745,Add set 2 of questions for Backgrounds and borders quiz,OPEN,2025-04-16T01:34:57Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863pUiQ,60472,Shopping Cart workshop — better with a Dessert class?,OPEN,2025-05-21T18:17:00Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X8629jkN,60407,Duplicated `--before-all--` section in challenges,CLOSED,2025-05-16T17:54:36Z,2025-05-21T17:45:13Z,falldownstairs;huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863ols7,60470,Todo App using Local Storage — seriously reconsider using localStorage.clear(),OPEN,2025-05-21T16:53:54Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863ocO_,60469,Todo App using Local Storage — formInputValuesUpdated,OPEN,2025-05-21T16:36:14Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863S51a,60446,[Curriculum] - Checking if zero Length is not the same as empty,OPEN,2025-05-19T22:55:26Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863nkQR,60466,apple sso does not give auth0 email,OPEN,2025-05-21T15:18:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863ncHY,60465,Contact users with no email address,OPEN,2025-05-21T15:09:01Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863jSmo,60460,"Incomplete sentence in Workshop ""Build a Todo App using Local Storage"" - Step 53",OPEN,2025-05-21T09:00:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863dPAc,60457,Movie Review Page - imprecise requirements,OPEN,2025-05-20T18:29:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862nxqb,60352,translate.freecodecamp.org is inaccessible,CLOSED,2025-05-14T17:57:21Z,2025-05-20T20:54:59Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863JgQu,60424,Learn How to Express Agreement - Task 71,CLOSED,2025-05-19T06:52:30Z,2025-05-20T19:48:09Z,IbrahimAl-Tawil,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863diul,60458,House Painting - odd requirement for the window placement test,OPEN,2025-05-20T19:05:14Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86kZtez,57750,Lecture blocks left to add for the Frontend Libraries Chapter,OPEN,2024-12-24T18:49:12Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8620AhD,60387,User experience is not seamless,CLOSED,2025-05-15T18:31:24Z,2025-05-20T16:07:03Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863S51a,60446,[Curriculum] - Checking if zero Length is not the same as empty,OPEN,2025-05-19T22:55:26Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863Z0qU,60452,Feature Request: GitHub Integration for Auto-Saving Exercise Progress,OPEN,2025-05-20T13:16:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86ytCMr,59757,Add set 2 of questions for CSS Animations quiz,CLOSED,2025-04-16T02:24:38Z,2025-05-20T12:49:26Z,aaqib605,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863UMz6,60449,Python Terminal not Accessible via Screen Reader,OPEN,2025-05-20T03:41:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862CBzT,60266,"""Saved! Your code was saved to your browser's local storage."" - banner has no timeout, carries over when changing page",CLOSED,2025-05-10T10:02:54Z,2025-05-20T11:38:22Z,,freeCodeCamp,freeCodeCamp
@@ -22,10 +37,8 @@ I_kwDOAbI7X863KFEj,60426,"Typo in Workshop ""Build a Plant Nursery Catalog"" - S
 I_kwDOAbI7X863GAJ-,60421,Gitpod Part 2 SQL course: Reset disabled on final step,CLOSED,2025-05-18T13:50:58Z,2025-05-19T10:53:44Z,ShaunSHamilton;ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861TPNc,60179,Remove validation status from feedback text,CLOSED,2025-05-06T06:54:48Z,2025-05-19T10:30:33Z,huyenltnguyen;neelesh-124,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862bzqX,60326,update workshop cat painting steps 52-53 to use specific asserts,CLOSED,2025-05-13T17:19:48Z,2025-05-18T08:31:07Z,primovere,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862uUGG,60368,issues with tests for Design a Business Card lab,OPEN,2025-05-15T09:34:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862tl3F,60366,Session Recordings Common UX issues.,OPEN,2025-05-15T08:27:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861vbc0,60231,Code evaluated twice after saving,OPEN,2025-05-08T14:02:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8629jkN,60407,Duplicated `--before-all--` section in challenges,OPEN,2025-05-16T17:54:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862mGhG,60346,Build a Bookmark Manager App User Story 11,CLOSED,2025-05-14T15:02:40Z,2025-05-16T17:20:46Z,SaravananR01,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862ozmi,60355,lab password generator last user story,CLOSED,2025-05-14T20:02:37Z,2025-05-16T17:01:34Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862bxUo,60325,update cat painting workshops steps 50-51 to use specific asserts,CLOSED,2025-05-13T17:16:53Z,2025-05-16T16:50:27Z,daniel-idowu-01,freeCodeCamp,freeCodeCamp
@@ -226,16 +239,3 @@ I_kwDOAbI7X86UO0yN,55941,Ambient camping sounds in freecodecamp website,OPEN,202
 I_kwDOAbI7X86zYbWh,59870,Usage of position: absolute in hiding sr-only classed elements (Screen readers),CLOSED,2025-04-22T00:01:46Z,2025-04-22T07:32:02Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86zTMDI,59839,Design a Piano Step 8 Instructions Unclear,CLOSED,2025-04-21T10:52:10Z,2025-04-22T06:29:23Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86zY3yU,59872,Cool Project,CLOSED,2025-04-22T01:58:43Z,2025-04-22T04:40:38Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zUEjA,59847,specific asserts not used in blog page workshop,CLOSED,2025-04-21T13:08:17Z,2025-04-22T00:33:05Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zVBDD,59855,specific methods not used for music instrument workshop,CLOSED,2025-04-21T15:07:18Z,2025-04-22T00:30:52Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zUAiP,59844,update assert for real time counter lab,CLOSED,2025-04-21T12:59:26Z,2025-04-21T20:27:42Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zUBtk,59845,test not using specific asserts in recipe page lab,CLOSED,2025-04-21T13:02:25Z,2025-04-21T20:24:39Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zUGU1,59848,specific asserts not used in storytelling app workshop,CLOSED,2025-04-21T13:12:21Z,2025-04-21T20:20:34Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zU-Ep,59853,specific asserts not used in calorie counter workshop,CLOSED,2025-04-21T15:01:54Z,2025-04-21T20:05:46Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zUHkU,59849,specific asserts not used in todo app workshop,CLOSED,2025-04-21T13:15:10Z,2025-04-21T18:51:53Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zUCew,59846,specific assert not used in survey form lab,CLOSED,2025-04-21T13:04:18Z,2025-04-21T18:34:58Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86yrsbk,59742,Quotation within a quotation,CLOSED,2025-04-15T22:38:09Z,2025-04-21T15:30:54Z,Anthonymiranda,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zTJaT,59838,A new design request,CLOSED,2025-04-21T10:45:29Z,2025-04-21T15:01:10Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zRzZ2,59831,Replace quotes with backticks in Cat Photo App step 9,CLOSED,2025-04-21T07:26:37Z,2025-04-21T14:43:22Z,neelesh-124,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zULt5,59850,"""Start where you left off"" button on /learn",CLOSED,2025-04-21T13:24:46Z,2025-04-21T14:19:47Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zKurj,59814,Used the word captions by mistake when talking about transcript,OPEN,2025-04-18T23:31:38Z,,,freeCodeCamp,freeCodeCamp
