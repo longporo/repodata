@@ -1,4 +1,9 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+6fc8c87422453637a54bc64521605fa78d6e8a5b,"fix(curriculum): ""Accoding"" typo (#60504)",2025-05-23T18:31:30Z,1,2,carlogy,freeCodeCamp,freeCodeCamp
+8138f086aa8b2e00d272d87b0772621a8391243e,fix(api): handle string challengeType (#60491),2025-05-23T12:56:18Z,4,86,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+74aa61a7b4d5dbbbddbb0a70a9a56798932df47e,fix(curriculum): fix backtick placement in quiz question (#60494),2025-05-23T08:57:39Z,1,2,ritsth,freeCodeCamp,freeCodeCamp
+22fb9bc43b0328a7523f4b5429b71f783002f20e,feat(gha): add workflow to clean-up old images (#60485),2025-05-23T07:39:58Z,1,53,raisedadead,freeCodeCamp,freeCodeCamp
+10f23bcf0cf56be46080f2709902b140fe7c6c7a,fix(curriculum): typo changed from trnasforming to transforming (#60495),2025-05-23T04:50:47Z,1,2,qdow,freeCodeCamp,freeCodeCamp
 57adb773d2d03428be39c18171632226bc87e6ba,fix(curriculum): minor things in first workshop (#60489),2025-05-22T17:51:30Z,1,4,moT01,freeCodeCamp,freeCodeCamp
 dddfe99200ebc48f0f7ecf6e99a6652d1c0c02c4,chore(curriculum): add extra h1 tests to camperbot lab (#60478),2025-05-22T16:18:17Z,1,65,a2937,freeCodeCamp,freeCodeCamp
 331005f4c7205d3cc5668092f59b4d2ad720d63f,feat(tools): add chapter and module names to external curricula data …,2025-05-22T15:52:30Z,3,54,huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -239,15 +244,3 @@ ae387fbd5ccfc2846e7233de5fe21ca49fecbb08,refactor(api): organise tooling (#59931
 03e166b15f1c53430c370fca955f6dec1373fa93,fix(curriculum): improve the feedback text in Learn How to Clarify In…,2025-04-24T01:45:43Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
 f8e92b2aace0137baa5bc8f41e887bdfa0fdbfa9,fix(curriculum): update tests to specific methods cafe menu steps 1-1…,2025-04-24T01:37:11Z,11,80,JoJoJo-JoJoJo,freeCodeCamp,freeCodeCamp
 450fd76f2a96e98c83799aff88c1d1bbdff41d98,chore(curriculum): cleanup lightbox lab (#59586),2025-04-24T01:20:25Z,1,281,jdwilkin4,freeCodeCamp,freeCodeCamp
-96557d0704b5c7ff961ca0cb150896b5c7920218,fix(curriculum): Use specific assert methods in hotel feedback form (…,2025-04-24T01:04:40Z,23,92,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
-133f76d7c274a1beeaf40522b97d9eed330578c0,chore: update piano workshop tests to current standards (#59837),2025-04-24T01:00:03Z,29,160,ilenia-magoni,freeCodeCamp,freeCodeCamp
-ef6d965d5506616708ba65b0816ebb8ff9301215,fix(curriculum): make test more precise in business card lab (#59930),2025-04-24T00:10:23Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-db07c718b92e03d579577fe111b538c2a9a963dd,fix: only log if the request has an Origin header (#59920),2025-04-23T20:50:12Z,2,14,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-6ea8c33170b7705a8e6f641b7e85059cacac6396,fix(curriculum): use specific assert methods in flappy penguin worksh…,2025-04-23T17:28:52Z,21,80,clarencepenz,freeCodeCamp,freeCodeCamp
-9a86afc193e72fcbd99d13620a748fbec30a5805,"chore(i18n,learn): update i18n-curriculum submodule (#59927)",2025-04-23T16:13:32Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-796368094c0ba43d909f7e830ea76579172b151e,fix(client): retain editableContents through reload (#59573),2025-04-23T15:27:30Z,6,110,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-310d0c691c8b2402b6b22a2c3c1f4e6907b49254,chore: remove DEBUG from .env (#59922),2025-04-23T15:23:43Z,1,1,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-9dfbd80e8ccc54052aeaf5717bd94129344e9672,fix(curriculum): update tests to use specific assert methods in city …,2025-04-23T15:16:50Z,26,86,clarencepenz,freeCodeCamp,freeCodeCamp
-3efc708ee8c1376b0839564d1e509eb62e53a219,"chore(i18n,client): processed translations (#59918)",2025-04-23T15:01:43Z,20,50,camperbot,freeCodeCamp,freeCodeCamp
-575445fb55a86787a6d8e32b4501e73d8ec2a290,chore: remove preinstall script (#59910),2025-04-23T07:14:38Z,1,1,raisedadead,freeCodeCamp,freeCodeCamp
-cfe2025d18d76765c6840e69277d43a4c9bf9e24,fix(curriculum): update specific assert methods in reusable mega navb…,2025-04-23T06:38:42Z,7,18,clarencepenz,freeCodeCamp,freeCodeCamp
