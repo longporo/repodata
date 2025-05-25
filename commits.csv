@@ -217,30 +217,3 @@ a905083bf88887b14de64e0843e3d3e03912b7a8,chore(api): improve log statements (#59
 b7bdea5b2306f7194e78a206709172d1713b346c,fix(curriculum): typo in lecture working with css transforms overflow…,2025-04-25T07:03:01Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
 126b60bc676c7216fcc0c74c0e8d75e96429359e,fix(curriculum): typo in lecture working with code editors and ides (…,2025-04-25T06:53:22Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
 f253fd6639ea44376e2811cfb38bc8c9e3cabbcf,fix(curriculum): Add a note to let users know to use JavaScript only …,2025-04-25T06:48:25Z,1,2,omarraf,freeCodeCamp,freeCodeCamp
-9cd9566593a8c31cade036859e64c2678b241a7e,fix(curriculum): typo in lecture understanding core javascript fundam…,2025-04-24T22:37:43Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
-e6ab475d41682e5f3f4bc73950c41c0134c975aa,fix(curriculum): typo in english challenge (#59976),2025-04-24T22:17:37Z,1,2,OKmimech,freeCodeCamp,freeCodeCamp
-331153749ae994cd54502f46c1163bfc906693b3,fix(curriculum): removed console.log from challenge test (#59967),2025-04-24T19:48:22Z,2,4,akremdh1,freeCodeCamp,freeCodeCamp
-fada6f08f842fee2e4f4eaf64fa578be53d01d27,fix(api): add req to the child logger (#59961),2025-04-24T19:35:57Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
-ff38233f96facc63fe7569da567256da38af1eac,fix(api): adjust levels for cookie related logs (#59946),2025-04-24T19:20:07Z,3,8,raisedadead,freeCodeCamp,freeCodeCamp
-061df27f1d71490fc07d833b76dc06ef5bd94783,feat(curriculum): Quiz set 2 for the CSS pseudo-classes (#59782),2025-04-24T19:07:41Z,1,509,zxc-w,freeCodeCamp,freeCodeCamp
-1faac313e1bf1240935bdb2f6920ba9b70087ab2,fix(curriculum): typo in lecture the var keyword and hoisting (#59965),2025-04-24T18:34:34Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-c6543b2ddf6e6907134a28158d46f7bbf070d022,fix(curriculum): typo in computer basics review page (#59962),2025-04-24T18:24:02Z,1,2,omarraf,freeCodeCamp,freeCodeCamp
-46b910ee408d8c32ff289ba72ee4acc2ad956e77,dev(api): add build options to test env (#59957),2025-04-24T17:03:49Z,4,152,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-f9edfe3bbd406ae314ecd8b66b5e6d1d0b3c135b,fix(curriculum): typo in lecture importance of accessibility and good…,2025-04-24T15:57:33Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-2fd73445550981dc47469ba2ffc8c786ef5331de,fix(api): adjust logs in email-subscription (#59944),2025-04-24T14:37:45Z,1,13,raisedadead,freeCodeCamp,freeCodeCamp
-6a79b76441f33319e6acdbaed8332522f8641fa3,fix(curriculum): lab-post-card no document.styleSheets (#59943),2025-04-24T14:37:09Z,1,34,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-27689faf41a508e4c100f9b31474eb8593a742a8,"fix(api): adjust logging in bouncer, downgrade to trace (#59945)",2025-04-24T14:36:28Z,1,10,raisedadead,freeCodeCamp,freeCodeCamp
-07c45a1ac41076002ff6cd1dc9683b0bfcc08b6d,fix(curriculum): typo in lab weather app (#59950),2025-04-24T14:32:56Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-d2bd2a63c044efe59cab84076a2b33468f46d414,fix(curriculum): improve feedback text in english challenges (#59935),2025-04-24T14:28:06Z,4,14,AilaLu,freeCodeCamp,freeCodeCamp
-446eef91e53e2392d572a09fe071965d4c161d1e,chore(curriculum): add punctuation for trends in tech (#59911),2025-04-24T14:26:32Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-596561161bfe08a480690723ff45b0992490dbe0,feat(curriculum): Add set 2 of questions for CSS colors quiz (#59812),2025-04-24T14:25:38Z,1,442,Eyb100,freeCodeCamp,freeCodeCamp
-13904c5dade6996c58a27f440c09093bb9747e26,fix(curriculum): Allowed seperate declarations and assignments  (#59909),2025-04-24T14:17:22Z,1,10,Priyesh1311421,freeCodeCamp,freeCodeCamp
-cfc41c74096ff8607101157d39f8742546acb2a8,chore(external curricula): rename script file (#59942),2025-04-24T12:26:45Z,3,13,huyenltnguyen,freeCodeCamp,freeCodeCamp
-dcb765efc0394527c9274631c71c1dbd5d96638a,fix(curriculum): remove stub feedback from correct answer (#59924),2025-04-24T09:22:56Z,1,4,Abdallah-scout,freeCodeCamp,freeCodeCamp
-e8ce4cd2fe077ac80993c528d9e7fad8b9502dda,fix(curriculum): add indentation to CSS examples in transform propert…,2025-04-24T09:00:18Z,1,48,omarraf,freeCodeCamp,freeCodeCamp
-ae387fbd5ccfc2846e7233de5fe21ca49fecbb08,refactor(api): organise tooling (#59931),2025-04-24T04:57:23Z,7,23,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-3c822da24372ea9b0c0e40bf2252c70c76396427,fix(api): catch GB init errors on prod only (#59912),2025-04-24T04:56:33Z,2,11,raisedadead,freeCodeCamp,freeCodeCamp
-34ee68faa86e9bab00aee7e8935a17146b1b4b69,chore: upgrade tests for accessibility quiz workshop (#59852),2025-04-24T01:48:07Z,2,18,ilenia-magoni,freeCodeCamp,freeCodeCamp
-03e166b15f1c53430c370fca955f6dec1373fa93,fix(curriculum): improve the feedback text in Learn How to Clarify In…,2025-04-24T01:45:43Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-f8e92b2aace0137baa5bc8f41e887bdfa0fdbfa9,fix(curriculum): update tests to specific methods cafe menu steps 1-1…,2025-04-24T01:37:11Z,11,80,JoJoJo-JoJoJo,freeCodeCamp,freeCodeCamp
-450fd76f2a96e98c83799aff88c1d1bbdff41d98,chore(curriculum): cleanup lightbox lab (#59586),2025-04-24T01:20:25Z,1,281,jdwilkin4,freeCodeCamp,freeCodeCamp
