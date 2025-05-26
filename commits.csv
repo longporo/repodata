@@ -1,4 +1,5 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+999b3e892813ed926d659641d778e217ae5fac2a,fix(curriculum): only sanitize task id with removeSpecialChars (#60482),2025-05-25T17:58:18Z,1,20,roberiacono,freeCodeCamp,freeCodeCamp
 6fc8c87422453637a54bc64521605fa78d6e8a5b,"fix(curriculum): ""Accoding"" typo (#60504)",2025-05-23T18:31:30Z,1,2,carlogy,freeCodeCamp,freeCodeCamp
 8138f086aa8b2e00d272d87b0772621a8391243e,fix(api): handle string challengeType (#60491),2025-05-23T12:56:18Z,4,86,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 74aa61a7b4d5dbbbddbb0a70a9a56798932df47e,fix(curriculum): fix backtick placement in quiz question (#60494),2025-05-23T08:57:39Z,1,2,ritsth,freeCodeCamp,freeCodeCamp
@@ -212,8 +213,3 @@ e638a59db753a13f9e421358f8a7e247cbfad8ee,fix(curriculum): replace assert with as
 c28c99aa2859fcf6ac5289c7e6c9cade13abc2c0,fix(curriculum): replace generic asserts with specific methods in cat…,2025-04-26T19:36:15Z,1,8,tarek-gritli,freeCodeCamp,freeCodeCamp
 82d88e3e3adfe2f4ef1202d009428867cbdb54cb,fix(curriculum): improve the assert methods  (#60003),2025-04-26T19:30:18Z,1,6,Lynsoo,freeCodeCamp,freeCodeCamp
 058749686dbcae3feabb2842b5cb3b0f826c6c50,fix(curriculum): replace assert === with assert.equal for consistency…,2025-04-26T18:15:59Z,1,8,amoghmadireddi,freeCodeCamp,freeCodeCamp
-a905083bf88887b14de64e0843e3d3e03912b7a8,chore(api): improve log statements (#59992),2025-04-25T10:34:03Z,4,26,raisedadead,freeCodeCamp,freeCodeCamp
-464181b3b88ea1a7e62de4b4f623e5438fb98035,fix(curriculum): added missing preposition and removed a duplicate ex…,2025-04-25T07:33:09Z,2,20,clarencepenz,freeCodeCamp,freeCodeCamp
-b7bdea5b2306f7194e78a206709172d1713b346c,fix(curriculum): typo in lecture working with css transforms overflow…,2025-04-25T07:03:01Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
-126b60bc676c7216fcc0c74c0e8d75e96429359e,fix(curriculum): typo in lecture working with code editors and ides (…,2025-04-25T06:53:22Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-f253fd6639ea44376e2811cfb38bc8c9e3cabbcf,fix(curriculum): Add a note to let users know to use JavaScript only …,2025-04-25T06:48:25Z,1,2,omarraf,freeCodeCamp,freeCodeCamp
