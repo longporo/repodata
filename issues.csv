@@ -1,8 +1,14 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X86ysxsV,59746,Add set 2 of questions for Design Fundamentals Quiz,OPEN,2025-04-16T01:39:43Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863-KTz,60503,Build a Permutation Generator Test 7,OPEN,2025-05-23T14:12:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864GctH,60516,[Curriculum]- New Tool feature; chai-ify in challenge editor,OPEN,2025-05-24T20:01:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864GgFq,60517,Added comments for newcomers,OPEN,2025-05-24T20:27:54Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864Cv4R,60511,Typo on The Odin Project -- Spanish version,OPEN,2025-05-23T23:41:36Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864Cv4R,60511,Typo on The Odin Project -- Spanish version,CLOSED,2025-05-23T23:41:36Z,2025-05-25T23:41:57Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864KFMS,60523,Test too strict in movie review page ,OPEN,2025-05-25T23:32:06Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864GgFq,60517,Added comments for newcomers,CLOSED,2025-05-24T20:27:54Z,2025-05-25T23:35:02Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863opT2,60471,Todo App using Local Settings — final step,CLOSED,2025-05-21T17:00:40Z,2025-05-25T17:58:20Z,huyenltnguyen;roberiacono,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863ols7,60470,Todo App using Local Storage — seriously reconsider using localStorage.clear(),OPEN,2025-05-21T16:53:54Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X861E7Zc,60147,Import Fonts Error in Build an Event Flyer Page,OPEN,2025-05-04T12:06:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X861ts0c,60230,Forum login message,OPEN,2025-05-08T11:09:22Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86ysxsV,59746,Add set 2 of questions for Design Fundamentals Quiz,OPEN,2025-04-16T01:39:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863dPAc,60457,Movie Review Page - imprecise requirements,OPEN,2025-05-20T18:29:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864AmkT,60507,Weather App - helper function does not allow for encodeURIComponent encoded URLs,OPEN,2025-05-23T18:10:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864BRBH,60508,Todo App using Local Storage: Step 53 - Only Chrome specific instructions are given,OPEN,2025-05-23T19:29:33Z,,,freeCodeCamp,freeCodeCamp
@@ -10,8 +16,6 @@ I_kwDOAbI7X86361KS,60497,[Coding Interview Prep Algorithms] Update intros to men
 I_kwDOAbI7X863jX9t,60461,Inconvenient discovery of challenges in Full Stack Developer Curriculum,OPEN,2025-05-21T09:08:10Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8638kBq,60500,Typo in Introductions in an Online Team Meeting - Task 34,CLOSED,2025-05-23T11:43:25Z,2025-05-23T18:31:32Z,carlogy,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863diul,60458,House Painting - Change the way the relative element positions are calculated,OPEN,2025-05-20T19:05:14Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863ols7,60470,Todo App using Local Storage — seriously reconsider using localStorage.clear(),OPEN,2025-05-21T16:53:54Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863-KTz,60503,Build a Permutation Generator Test 7,OPEN,2025-05-23T14:12:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863nkQR,60466,IDPs and Social providers like Apple may not provide email address,OPEN,2025-05-21T15:18:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8632z_P,60493,screen reader jaws issue with code examples in quiz,OPEN,2025-05-22T21:36:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861agW5,60197,Football Team Cards lab tests,OPEN,2025-05-06T18:09:12Z,,,freeCodeCamp,freeCodeCamp
@@ -19,7 +23,6 @@ I_kwDOAbI7X863yVCd,60486,Visual formatting issue in quiz question comparing new 
 I_kwDOAbI7X8620AhD,60387,User experience is not seamless,CLOSED,2025-05-15T18:31:24Z,2025-05-20T16:07:03Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863uqW5,60481,Typo in Help a Coworker Troubleshoot on GitHub - Task 22,CLOSED,2025-05-22T08:09:07Z,2025-05-23T04:50:49Z,qdow,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861cTFs,60200,Width for code examples in lectures are not the same,OPEN,2025-05-06T21:46:42Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861ts0c,60230,Forum login message,OPEN,2025-05-08T11:09:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863rIzx,60476,Add extra tests to ensure campers remove the extra h1s in camperbot lab,CLOSED,2025-05-21T22:22:02Z,2025-05-22T16:18:19Z,a2937;moT01,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86V3xl6,56051,Teaching Global Variable (Ab)use,OPEN,2024-09-09T16:42:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86htFzB,57391,Clean up challenge types,OPEN,2024-12-02T18:42:06Z,,,freeCodeCamp,freeCodeCamp
@@ -31,7 +34,6 @@ I_kwDOAbI7X86XinKu,56247,Learn Basic String and Array Methods by Building a Musi
 I_kwDOAbI7X863v4TM,60484,Certified Full Stack Developer Curriculum -Camperbot Profile Page – Fix Camperbot's HTML ,CLOSED,2025-05-22T09:56:45Z,2025-05-22T13:44:02Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863RRW9,60441,Trivia Bot - Allow separate space concatenation or update requirements,OPEN,2025-05-19T19:02:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863ocO_,60469,Todo App using Local Storage — formInputValuesUpdated,OPEN,2025-05-21T16:36:14Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863opT2,60471,Todo App using Local Settings — final step,OPEN,2025-05-21T17:00:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863pubd,60474,[Customer Complaint Form] Add `aria-live` to the message box,CLOSED,2025-05-21T19:06:23Z,2025-05-22T06:29:14Z,Rice-Cameron,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863Z0qU,60452,Feature Request: GitHub Integration for Auto-Saving Exercise Progress,OPEN,2025-05-20T13:16:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863pUiQ,60472,Shopping Cart workshop — better with a Dessert class?,OPEN,2025-05-21T18:17:00Z,,,freeCodeCamp,freeCodeCamp
@@ -146,7 +148,6 @@ I_kwDOAbI7X861Mk-K,60161,update cat painting workshop to use specific assert met
 I_kwDOAbI7X861UGwZ,60180,Handle log statements in redirection.ts,OPEN,2025-05-06T08:17:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861OmLg,60169,No Content - Styling Forms Review,CLOSED,2025-05-05T18:43:20Z,2025-05-06T05:01:38Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861QnBi,60173,Code not being recognized.,CLOSED,2025-05-05T23:01:48Z,2025-05-05T23:22:06Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861E7Zc,60147,Import Fonts Error in Build an Event Flyer Page,OPEN,2025-05-04T12:06:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X860_uq_,60131,Workshop Music Player - Step 43: Incorrect hint for null value test,CLOSED,2025-05-02T18:34:20Z,2025-05-05T07:25:44Z,bobofishbo,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8607cps,60124,update cat painting workshop to use specific assert methods step 29,CLOSED,2025-05-02T08:33:38Z,2025-05-05T06:24:18Z,LuluZhuu,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86prkTf,58725,Python output is cut off,OPEN,2025-02-11T23:19:42Z,,,freeCodeCamp,freeCodeCamp
@@ -214,6 +215,3 @@ I_kwDOAbI7X86K1kyB,55060,Building a Spreadsheet: Logic for avoiding self-referen
 I_kwDOAbI7X86AOJ1V,53836,JavaScript Algorithms and Data Structures (Beta) - Certification Projects - Directing campers away from incorrect solution,OPEN,2024-02-23T14:21:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8559Y1b,52583,[python]: learn-recursion-by-solving-the-tower-of-hanoi-puzzle,OPEN,2023-12-18T09:20:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86LfCa6,55111,Definitions should be improved for SciComPy,OPEN,2024-06-07T10:49:35Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z_a8g,59995,Use specific assert methods in Cafe Menu workshop steps,CLOSED,2025-04-25T11:12:11Z,2025-04-25T11:29:51Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z4yxE,59964,HTML Review - Minor grammar error and duplicate explanation,CLOSED,2025-04-24T17:44:21Z,2025-04-25T07:33:10Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86yQxBJ,59694,Test 6 for Build Real Time Counter Lab does not account for HTML maxlength attr,CLOSED,2025-04-12T21:55:40Z,2025-04-25T06:48:26Z,omarraf,freeCodeCamp,freeCodeCamp
