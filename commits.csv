@@ -1,4 +1,7 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+4af4f7bff4c935196a7437dbca56ea2c6c426e42,fix(curriculum): typo in learn introductions in an online team meetin…,2025-05-26T18:36:24Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
+469f0c0f0ba2ad65da415cfa10fd28754bb7ce62,fix(curriculum): make spaces optional in movie rating test (#60524),2025-05-26T16:55:58Z,1,2,lejenhan,freeCodeCamp,freeCodeCamp
+1b14282da085a9aacf1c081eb6909a02310f18d6,fix(curriculum): make spacing requirement less strict in Movie Review…,2025-05-26T09:13:26Z,1,4,PabloGarza328,freeCodeCamp,freeCodeCamp
 999b3e892813ed926d659641d778e217ae5fac2a,fix(curriculum): only sanitize task id with removeSpecialChars (#60482),2025-05-25T17:58:18Z,1,20,roberiacono,freeCodeCamp,freeCodeCamp
 6fc8c87422453637a54bc64521605fa78d6e8a5b,"fix(curriculum): ""Accoding"" typo (#60504)",2025-05-23T18:31:30Z,1,2,carlogy,freeCodeCamp,freeCodeCamp
 8138f086aa8b2e00d272d87b0772621a8391243e,fix(api): handle string challengeType (#60491),2025-05-23T12:56:18Z,4,86,ojeytonwilliams,freeCodeCamp,freeCodeCamp
@@ -208,8 +211,3 @@ ae6783deccfd9d3aca404858a774b9fa8b1dfd5a,fix(curriculum): replace 'tag' with 'el
 c9799c370ec160c14b5ba6f91e9a2f62c335a4fd,"chore(i18n,client): processed translations (#60031)",2025-04-28T14:10:46Z,1,302,camperbot,freeCodeCamp,freeCodeCamp
 e0274556fa346b089488eb33aa22ab35ebff909b,fix(curriculum): correct assert usage in workshop-cat-painting (#60028),2025-04-28T12:15:17Z,1,8,ShauryaDusht,freeCodeCamp,freeCodeCamp
 da5392ed0f5daf49b6d44bfe6f9f8d22ecf86004,fix(actions): get output correctly in web commit check (#60027),2025-04-28T11:28:15Z,1,4,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-fa66608b41a5bceda8213fa2d05b788ed60f0642,fix(curriculum): update assertions to use assert.equal (#60013),2025-04-26T20:46:04Z,1,6,MelvinManni,freeCodeCamp,freeCodeCamp
-e638a59db753a13f9e421358f8a7e247cbfad8ee,fix(curriculum): replace assert with assert.exists and assert.equal i…,2025-04-26T19:38:15Z,1,8,Lohith-11,freeCodeCamp,freeCodeCamp
-c28c99aa2859fcf6ac5289c7e6c9cade13abc2c0,fix(curriculum): replace generic asserts with specific methods in cat…,2025-04-26T19:36:15Z,1,8,tarek-gritli,freeCodeCamp,freeCodeCamp
-82d88e3e3adfe2f4ef1202d009428867cbdb54cb,fix(curriculum): improve the assert methods  (#60003),2025-04-26T19:30:18Z,1,6,Lynsoo,freeCodeCamp,freeCodeCamp
-058749686dbcae3feabb2842b5cb3b0f826c6c50,fix(curriculum): replace assert === with assert.equal for consistency…,2025-04-26T18:15:59Z,1,8,amoghmadireddi,freeCodeCamp,freeCodeCamp
