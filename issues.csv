@@ -1,16 +1,19 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X863-KTz,60503,Build a Permutation Generator Test 7,OPEN,2025-05-23T14:12:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864GctH,60516,[Curriculum]- New Tool feature; chai-ify in challenge editor,OPEN,2025-05-24T20:01:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86wD3Tw,59469,Break up accessibility lecture block into smaller blocks,OPEN,2025-03-27T17:05:58Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86ysxsV,59746,Add set 2 of questions for Design Fundamentals Quiz,OPEN,2025-04-16T01:39:43Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864KFMS,60523,Test too strict in movie review page ,CLOSED,2025-05-25T23:32:06Z,2025-05-26T16:55:59Z,huyenltnguyen;lejenhan,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86qG_r-,58807,Navbar style breaks in high contrast mode due to transparency/white background,OPEN,2025-02-14T15:09:34Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864AmkT,60507,Weather App - helper function does not allow for encodeURIComponent encoded URLs,OPEN,2025-05-23T18:10:58Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863dPAc,60457,Movie Review Page - imprecise requirements,CLOSED,2025-05-20T18:29:47Z,2025-05-26T09:13:27Z,PabloGarza328,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864Ljyp,60525,"Console Error: ""expected { status: 'unavailable' } to be an array"" appears despite all tests passing",CLOSED,2025-05-26T05:21:01Z,2025-05-26T05:39:31Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863-KTz,60503,Build a Permutation Generator Test 7,OPEN,2025-05-23T14:12:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864Cv4R,60511,Typo on The Odin Project -- Spanish version,CLOSED,2025-05-23T23:41:36Z,2025-05-25T23:41:57Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864KFMS,60523,Test too strict in movie review page ,OPEN,2025-05-25T23:32:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864GgFq,60517,Added comments for newcomers,CLOSED,2025-05-24T20:27:54Z,2025-05-25T23:35:02Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863opT2,60471,Todo App using Local Settings — final step,CLOSED,2025-05-21T17:00:40Z,2025-05-25T17:58:20Z,huyenltnguyen;roberiacono,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863ols7,60470,Todo App using Local Storage — seriously reconsider using localStorage.clear(),OPEN,2025-05-21T16:53:54Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861E7Zc,60147,Import Fonts Error in Build an Event Flyer Page,OPEN,2025-05-04T12:06:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861ts0c,60230,Forum login message,OPEN,2025-05-08T11:09:22Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ysxsV,59746,Add set 2 of questions for Design Fundamentals Quiz,OPEN,2025-04-16T01:39:43Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863dPAc,60457,Movie Review Page - imprecise requirements,OPEN,2025-05-20T18:29:47Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864AmkT,60507,Weather App - helper function does not allow for encodeURIComponent encoded URLs,OPEN,2025-05-23T18:10:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864BRBH,60508,Todo App using Local Storage: Step 53 - Only Chrome specific instructions are given,OPEN,2025-05-23T19:29:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86361KS,60497,[Coding Interview Prep Algorithms] Update intros to mention JS only solutions,OPEN,2025-05-23T08:38:30Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863jX9t,60461,Inconvenient discovery of challenges in Full Stack Developer Curriculum,OPEN,2025-05-21T09:08:10Z,,,freeCodeCamp,freeCodeCamp
@@ -204,14 +207,3 @@ I_kwDOAbI7X860Q7BS,60023,update cat painting workshop to use specific methods st
 I_kwDOAbI7X860QgTE,60021,Unable to Enter Text into the Preview Field (Black Box),CLOSED,2025-04-28T08:58:31Z,2025-04-28T09:12:14Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X860Axlm,59998,use specific assert methods in cat painting workshop step 5,CLOSED,2025-04-25T13:40:03Z,2025-04-28T09:29:26Z,amoghmadireddi,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86ys-Lk,59753,Add set 2 of questions for CSS Positioning quiz,OPEN,2025-04-16T02:12:11Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86skN31,59129,Markdown to HTML Converter - JavaScript,OPEN,2025-03-04T19:05:22Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860BC0r,60000,use specific assert methods in cat painting workshop step 7,CLOSED,2025-04-25T14:06:58Z,2025-04-26T20:46:06Z,MelvinManni,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z9mDx,59991,use specific assert methods in cat painting workshop step 68,CLOSED,2025-04-25T07:46:05Z,2025-04-26T19:38:16Z,Lohith-11,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z_pMR,59996,use specific assert methods in cat painting workshop step 57,CLOSED,2025-04-25T11:36:23Z,2025-04-26T19:36:16Z,tarek-gritli,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860BE00,60001,use specific assert methods in cat painting workshop step 17,CLOSED,2025-04-25T14:09:58Z,2025-04-26T19:30:19Z,Lynsoo,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X855klxW,52536,Python test runner umbrella issue,OPEN,2023-12-13T12:42:46Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86QC8Cd,55559,Allow all valid versions of browser alert,OPEN,2024-07-18T15:10:51Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86K1kyB,55060,Building a Spreadsheet: Logic for avoiding self-reference in function calls is broken,OPEN,2024-06-01T19:21:56Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86AOJ1V,53836,JavaScript Algorithms and Data Structures (Beta) - Certification Projects - Directing campers away from incorrect solution,OPEN,2024-02-23T14:21:25Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8559Y1b,52583,[python]: learn-recursion-by-solving-the-tower-of-hanoi-puzzle,OPEN,2023-12-18T09:20:11Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86LfCa6,55111,Definitions should be improved for SciComPy,OPEN,2024-06-07T10:49:35Z,,,freeCodeCamp,freeCodeCamp
