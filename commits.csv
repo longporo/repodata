@@ -1,4 +1,20 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+d0eacea68ded24dbadfe2b4b6333f41353db4403,fix(curriculum): typos in JS review (#60548),2025-05-27T16:54:33Z,1,4,dev-kamil,freeCodeCamp,freeCodeCamp
+3cde3e17d60593de16366eb1674c4176f3afa386,refactor: remove unused format rules from response schema (#60538),2025-05-27T16:16:32Z,1,8,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+c754f29879ed0a36a309084a54c995dfd7926605,"chore(i18n,client): processed translations (#60528)",2025-05-27T16:09:37Z,10,332,camperbot,freeCodeCamp,freeCodeCamp
+2f5a7ce1f851e2d96fe02d5b296d55ea7a4e4f2e,"chore(i18n,learn): update i18n-curriculum submodule (#60530)",2025-05-27T16:08:23Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+50c0194ee4de2bc4c1290418bbd02133c6d71cd2,test(api): stop reporting request logs during testing (#60546),2025-05-27T16:05:25Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+4edd1af7e4f5e8db30a2a34a20664b93bffde00e,chore: corepack use pnpm (#60536),2025-05-27T14:48:54Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+5748ca5750f78ea07e5aa5dbbb380647ad14a429,fix(curriculum): allow encoded URLs in Weather App (#60514),2025-05-27T14:33:52Z,1,223,Anideep-Kalia,freeCodeCamp,freeCodeCamp
+90230f491db931eb28972d463073972a20e00690,fix(client): add note on JS support to interview prep blocks (#60509),2025-05-27T14:14:32Z,1,26,nobu1,freeCodeCamp,freeCodeCamp
+63f6a5d61e6162c1464721257731abba1bb8f9ae,fix: replace clean:server with clean:api (#60544),2025-05-27T11:52:28Z,1,2,huyenltnguyen,freeCodeCamp,freeCodeCamp
+89e9a31ceba5bd6e8ce1f20851ca5078fc604438,chore(deps): update i18next (#60542),2025-05-27T11:39:18Z,7,122,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+33e8c416a760fae029371deffb06caf4ad5290aa,fix(curriculum): update lab-permutation-generator test 7 (#60526),2025-05-27T10:53:23Z,1,5,AilaLu,freeCodeCamp,freeCodeCamp
+464bae459514f68760cdb144160cb0c266c6cc05,chore: update pnpm version,2025-05-27T07:47:57Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
+16e461385e385f7740a0874aa122bac7275b2f66,chore(api-server): bye-bye you served us well (#60520),2025-05-27T04:26:46Z,139,14662,raisedadead,freeCodeCamp,freeCodeCamp
+a90e2757ac26d5753e22557de31df05aab443013,chore(api): add exam-env test script (#60445),2025-05-27T04:23:51Z,3,48,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+0b1db2b9c682e1ba1ff7085a210e2eab5f684748,fix(api): handle expected Auth0 errors (#60499),2025-05-27T04:21:03Z,4,156,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+6299f545edf3db52e49ef9e65d9a705f7e9b5dd5,fix(curriculum): typos in DOM review (#60534),2025-05-27T03:57:38Z,1,4,Supravisor,freeCodeCamp,freeCodeCamp
 4af4f7bff4c935196a7437dbca56ea2c6c426e42,fix(curriculum): typo in learn introductions in an online team meetin…,2025-05-26T18:36:24Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
 469f0c0f0ba2ad65da415cfa10fd28754bb7ce62,fix(curriculum): make spaces optional in movie rating test (#60524),2025-05-26T16:55:58Z,1,2,lejenhan,freeCodeCamp,freeCodeCamp
 1b14282da085a9aacf1c081eb6909a02310f18d6,fix(curriculum): make spacing requirement less strict in Movie Review…,2025-05-26T09:13:26Z,1,4,PabloGarza328,freeCodeCamp,freeCodeCamp
