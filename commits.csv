@@ -1,4 +1,16 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+1519353a730464eea22e0e3eb15909c9624c86e1,fix(curriculum): fsd chapter order (#60568),2025-05-28T22:31:34Z,2,568,moT01,freeCodeCamp,freeCodeCamp
+3a762257b5360b5e992b1e70a6936170d99674f9,refactor(curriculum): remove after-user-code bookmark lab (#60406),2025-05-28T21:11:17Z,1,118,a2937,freeCodeCamp,freeCodeCamp
+2be04b85107fcc6267150ae3906697a4f69468b3,fix(curriculum): allow all valid versions of browser alert (#59721),2025-05-28T17:36:34Z,8,36,monbehre,freeCodeCamp,freeCodeCamp
+df7c9bcdf1d649513c4afc5b599b405c5f892366,feat(curriculum): add testing lecture videos and questions (#59999),2025-05-28T16:05:00Z,17,2158,moT01,freeCodeCamp,freeCodeCamp
+313b1188198015fd18f552a54c8b7db76b7baf89,fix(curriculum): remove references to non-existent code examples (#60…,2025-05-28T15:54:14Z,3,8,huyenltnguyen,freeCodeCamp,freeCodeCamp
+22724d5dda6b28b00780e3b24e790981d96ecbc9,test: inform devs when db connection not established (#60539),2025-05-28T15:52:11Z,3,20,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+5cb96cf3e0c135e7fab78e933e1ce6a67711073e,"chore(i18n,learn): update i18n-curriculum submodule (#60566)",2025-05-28T15:21:58Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+0b6de7f99ac0e70d5188ff7a7d7b68c76f25f126,"chore(i18n,client): processed translations (#60564)",2025-05-28T15:16:20Z,10,266,camperbot,freeCodeCamp,freeCodeCamp
+82a4c44f6397042fcf35e8742888f0c85cd15ec2,chore(curriculum): break up A11y lectures into smaller blocks (#60532),2025-05-28T15:13:18Z,24,201,jdwilkin4,freeCodeCamp,freeCodeCamp
+86b76f2eecf32cf2cfa4986da4aded1db1129295,chore(curriculum): add two labs to full stack/javascript/loops (#60185),2025-05-28T14:58:09Z,9,286,ilenia-magoni,freeCodeCamp,freeCodeCamp
+466e7208123e6428f8b1e265ae29e0ab3167522b,"fix(curriculum): correct ""Psuedocode"" typo in TOP lesson C (#60558)",2025-05-28T10:49:14Z,1,2,anjanavishvanath,freeCodeCamp,freeCodeCamp
+15cd2b48ce085b9085ee3a997f5120f8dcd31b73,fix(curriculum): correct typo 'strech' to 'stretch' in Task 9 (#60554),2025-05-28T08:17:32Z,1,2,phoenixvasu,freeCodeCamp,freeCodeCamp
 d0eacea68ded24dbadfe2b4b6333f41353db4403,fix(curriculum): typos in JS review (#60548),2025-05-27T16:54:33Z,1,4,dev-kamil,freeCodeCamp,freeCodeCamp
 3cde3e17d60593de16366eb1674c4176f3afa386,refactor: remove unused format rules from response schema (#60538),2025-05-27T16:16:32Z,1,8,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 c754f29879ed0a36a309084a54c995dfd7926605,"chore(i18n,client): processed translations (#60528)",2025-05-27T16:09:37Z,10,332,camperbot,freeCodeCamp,freeCodeCamp
@@ -219,11 +231,3 @@ b4c1aa107bebdaab62999b49427632463e687c26,fix(curriculum): use specific assert me
 46425aa588f72d9dd0a3d0898a309e5cd6471d08,fix(curriculum): typo in lecture about styling special input elements…,2025-04-29T11:07:43Z,1,2,abhijeet-singhh,freeCodeCamp,freeCodeCamp
 c555f69883a9b82f0103f62467b868a11bc749c6,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-04-29T11:04:15Z,11,80,clarencepenz,freeCodeCamp,freeCodeCamp
 6de79433cafca2c5d04944518a23f99e028b3c67,fix(curriculum): crowdin wording for real time counter lab (#60045),2025-04-29T10:32:50Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-baf3e222337362c58bfcb47b955234408a8db0a9,chore: move budget app to full stack (#59440),2025-04-28T23:08:23Z,5,1275,ilenia-magoni,freeCodeCamp,freeCodeCamp
-4d3ab60216269e1d2553c128b79c2486e2db43bc,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-04-28T23:03:39Z,13,82,clarencepenz,freeCodeCamp,freeCodeCamp
-0f69170fafd7716903fc760b88370b56952b893e,fix(curriculum): better wording (#60040),2025-04-28T20:37:10Z,3,22,ilenia-magoni,freeCodeCamp,freeCodeCamp
-678dc4334eb4789a160f6b32e693fe6995c26229,fix(curriculum): add missing margin & padding shorthand explanations …,2025-04-28T20:36:48Z,2,6,vishal27shetty,freeCodeCamp,freeCodeCamp
-ae6783deccfd9d3aca404858a774b9fa8b1dfd5a,fix(curriculum): replace 'tag' with 'element' in cafe-menu challenges…,2025-04-28T19:34:54Z,2,6,vishal27shetty,freeCodeCamp,freeCodeCamp
-c9799c370ec160c14b5ba6f91e9a2f62c335a4fd,"chore(i18n,client): processed translations (#60031)",2025-04-28T14:10:46Z,1,302,camperbot,freeCodeCamp,freeCodeCamp
-e0274556fa346b089488eb33aa22ab35ebff909b,fix(curriculum): correct assert usage in workshop-cat-painting (#60028),2025-04-28T12:15:17Z,1,8,ShauryaDusht,freeCodeCamp,freeCodeCamp
-da5392ed0f5daf49b6d44bfe6f9f8d22ecf86004,fix(actions): get output correctly in web commit check (#60027),2025-04-28T11:28:15Z,1,4,ojeytonwilliams,freeCodeCamp,freeCodeCamp
