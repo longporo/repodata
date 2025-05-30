@@ -1,20 +1,34 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X86uxnmH,59343,Update FSD order to reflect changes discussed in curriculum meeting,CLOSED,2025-03-19T15:33:29Z,2025-05-28T22:31:35Z,moT01,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864wj8x,60588,Typo in Learn to Solve Problems and Understand Errors Lesson H,OPEN,2025-05-29T09:28:45Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X8641Cvm,60603,Update last comprehension check question in Currying lecture,OPEN,2025-05-29T16:51:26Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X8640bhS,60599,Inventory Management Program - Allow var declaration,OPEN,2025-05-29T15:49:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864rury,60573,chore: update steps 62-63-64 to use specific asserts in workshop cat painting,CLOSED,2025-05-28T20:24:21Z,2025-05-29T19:36:33Z,neo,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864wQvj,60586,chore: update project euler problems 201-300 to use specific asserts,CLOSED,2025-05-29T08:55:57Z,2025-05-29T19:29:17Z,cstidm2,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864wRuY,60587,chore: update project euler problems 101-200 to use specific asserts,CLOSED,2025-05-29T08:57:53Z,2025-05-29T19:21:53Z,AishwaryaRajput09,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864b1Ju,60547,Fix mobile responsive issues for Weather app,CLOSED,2025-05-27T15:12:31Z,2025-05-29T17:44:50Z,dev-kamil,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864sJtn,60577,greeting bot teaches declaration then assignment,OPEN,2025-05-28T21:16:32Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864xdHt,60594,typo in lab - weather app - test 15,CLOSED,2025-05-29T11:02:19Z,2025-05-29T14:03:09Z,RobTou,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864yTJO,60597,Update How to Translate guide,OPEN,2025-05-29T12:28:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864dObI,60550,Issue with What Are Some Common Accessibility Auditing Tools to Use?,CLOSED,2025-05-27T17:31:18Z,2025-05-29T11:45:35Z,RITIKMANGAL,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864wrks,60589,Make editor easier to use,OPEN,2025-05-29T09:41:32Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X862tl3F,60366,Session Recordings Common UX issues.,OPEN,2025-05-15T08:27:13Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864xIVC,60592,Optimize the multiple choice questions for usability,OPEN,2025-05-29T10:27:55Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864wPlK,60585,chore: update project euler problems 301-400 to use specific asserts,OPEN,2025-05-29T08:53:57Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864wOz5,60584,chore: update project euler problesm 401-480 to use specific asserts,OPEN,2025-05-29T08:52:33Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864mNYO,60562,Update the certification map to increase conversion to the first step.,OPEN,2025-05-28T11:31:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864ucAi,60583,Can a one-time donation remove ads?,CLOSED,2025-05-29T04:58:48Z,2025-05-29T06:04:38Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86uxnmH,59343,Update FSD order to reflect changes discussed in curriculum meeting,CLOSED,2025-03-19T15:33:29Z,2025-05-28T22:31:35Z,moT01,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864q31X,60571,Semantic HTML Review doesn't mention section element,OPEN,2025-05-28T18:42:54Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864sFrV,60576,first challenge of backend and api microservices does not give enough infos,OPEN,2025-05-28T21:09:54Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864rwa-,60574,chore: update magazine workshop step 17 to use specific asserts,OPEN,2025-05-28T20:27:40Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864rury,60573,chore: update steps 62-63-64 to use specific asserts in workshop cat painting,OPEN,2025-05-28T20:24:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864rUk3,60572,Add JS and A11y module object to `full-stack.json` file,OPEN,2025-05-28T19:32:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864qAVH,60569,Update mocking lecture video and transcript,OPEN,2025-05-28T17:09:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86QC8Cd,55559,Allow all valid versions of browser alert,CLOSED,2024-07-18T15:10:51Z,2025-05-28T17:36:35Z,Monica Behrend;monbehre;raisedadead;riyueguang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864o7i_,60567,Add redirects for moved challenges,OPEN,2025-05-28T15:15:16Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864mNYO,60562,Update the certification map to increase conversion to the first step.,OPEN,2025-05-28T11:31:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864dI5R,60549,"Issue with What Is the CSS Box Model, and How Does It Work? lecture",OPEN,2025-05-27T17:21:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86iV28g,57436,URGENT - labs need a reset code button,CLOSED,2024-12-06T18:03:16Z,2025-05-28T15:18:40Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86wD3Tw,59469,Break up accessibility lecture block into smaller blocks,CLOSED,2025-03-27T17:05:58Z,2025-05-28T15:13:19Z,jdwilkin4,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861cTFs,60200,Width for code examples in lectures are not the same,OPEN,2025-05-06T21:46:42Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862tl3F,60366,Session Recordings Common UX issues.,OPEN,2025-05-15T08:27:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864mNf8,60563,Unclear description in Workshop fCC Authors Page - Step 13,OPEN,2025-05-28T11:31:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864euHO,60555,[TOP] Typo in Learn to Solve Problems and Understand Errors Lesson C,CLOSED,2025-05-27T20:03:50Z,2025-05-28T10:49:16Z,“anjanavishvanath”,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864lAet,60560,Keyboard does not work in the console,CLOSED,2025-05-28T09:36:46Z,2025-05-28T10:36:04Z,,freeCodeCamp,freeCodeCamp
@@ -26,9 +40,7 @@ I_kwDOAbI7X86qG_r-,58807,Navbar style breaks in high contrast mode due to transp
 I_kwDOAbI7X863jSmo,60460,"Incomplete sentence in Workshop ""Build a Todo App using Local Storage"" - Step 53",CLOSED,2025-05-21T09:00:32Z,2025-05-27T19:01:50Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X859o6mT,53449,Add missing backticks for numbers for step 166 and 167 RPG game,CLOSED,2024-01-30T13:32:40Z,2024-01-31T06:10:01Z,ahujaesh,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864dV1c,60551,chore: update cat painting workshops steps 54-55-56 to use specific asserts,OPEN,2025-05-27T17:44:00Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864dObI,60550,Issue with What Are Some Common Accessibility Auditing Tools to Use?,OPEN,2025-05-27T17:31:18Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864YegG,60540,Typo in JS review,CLOSED,2025-05-27T10:23:17Z,2025-05-27T16:54:35Z,dev-kamil,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864b1Ju,60547,Fix mobile responsive issues for Weather app,OPEN,2025-05-27T15:12:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864AmkT,60507,Weather App - helper function does not allow for encodeURIComponent encoded URLs,CLOSED,2025-05-23T18:10:58Z,2025-05-27T14:33:53Z,Anideep-Kalia,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86361KS,60497,[Coding Interview Prep Algorithms] Update intros to mention JS only solutions,CLOSED,2025-05-23T08:38:30Z,2025-05-27T14:14:33Z,nobu1,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863-KTz,60503,Build a Permutation Generator Test 7,CLOSED,2025-05-23T14:12:47Z,2025-05-27T10:53:24Z,AilaLu,freeCodeCamp,freeCodeCamp
@@ -212,14 +224,3 @@ I_kwDOAbI7X860c2J3,60057,update cat painting workshop to use specific assert met
 I_kwDOAbI7X860ivHc,60074,Missing HTML boilerplate in Build a Newspaper Article lab,CLOSED,2025-04-29T17:05:46Z,2025-04-30T08:49:52Z,Jackkv,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X860c3T9,60058,update cat painting workshop to use specific assert methods step 18,CLOSED,2025-04-29T08:15:18Z,2025-04-30T07:38:41Z,linaslabs,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86z17mX,59949,Fix typos in Performance lecture block,CLOSED,2025-04-24T13:14:52Z,2025-04-30T06:00:20Z,ldtr89,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86xDqtE,59582,Todo App - Step 34: Replace null check with empty string check,CLOSED,2025-04-03T19:49:41Z,2025-04-30T00:33:21Z,c0d1ng-ma5ter;jdwilkin4,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zpQl1,59921,Downloaded code says 'undefined' at the top,CLOSED,2025-04-23T13:02:07Z,2025-04-29T20:24:59Z,a2937,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860Q425,60022,update cat painting workshop to use specific assert methods steps 1 and 5,CLOSED,2025-04-28T09:33:09Z,2025-04-29T18:28:52Z,njnr14,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860YxCy,60047,B1 English for Developers - 28th Question: Answer is visible before clicking the explanation,CLOSED,2025-04-28T22:24:06Z,2025-04-29T17:25:52Z,DanielRosa74;clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860doKC,60064,Misplaced explanation text in English challenges,CLOSED,2025-04-29T09:30:52Z,2025-04-29T17:17:59Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z5xc6,59970,update cafe menu tests to use specific asserts steps 14-26,CLOSED,2025-04-24T19:33:04Z,2025-04-29T16:44:45Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z5yYu,59972,update cafe menu tests to use specific asserts steps 40-52,CLOSED,2025-04-24T19:35:01Z,2025-04-29T16:34:17Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z5xvU,59971,update cafe menu tests to use specific asserts steps 27-39,CLOSED,2025-04-24T19:33:40Z,2025-04-29T16:27:25Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860b_es,60055,Fix typo in CSS styling forms lecture,CLOSED,2025-04-29T06:42:06Z,2025-04-29T11:07:45Z,abhijeet-singhh,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z5yqb,59973,update cafe menu tests to use specific asserts steps 53-65,CLOSED,2025-04-24T19:35:33Z,2025-04-29T11:04:16Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860aX_o,60051,Typo found in README file,CLOSED,2025-04-29T02:28:50Z,2025-04-29T06:00:52Z,,freeCodeCamp,freeCodeCamp
