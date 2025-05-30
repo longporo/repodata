@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+9328507f18496dd3ddc18c4c516e9c61d2ccc42b,fix(curriculum): update cat painting step 62-64 asserts (#60578),2025-05-29T19:36:32Z,3,14,1nc0gn30,freeCodeCamp,freeCodeCamp
+50c80215509597cb700a8639a64f03fc939a58fb,chore: update assertions to use assert.isString for Project Euler (#6…,2025-05-29T19:29:16Z,3,6,cstidm2,freeCodeCamp,freeCodeCamp
+8114156602166a76156c73f937d0549fc8065983,chore: use specific assert methods in project euler problems  (#60598),2025-05-29T19:21:51Z,5,10,AishwaryaRajput09,freeCodeCamp,freeCodeCamp
+25cff1ecd839009071d5988c7460c2b5ea42f136,chore(curriculum): hide prep exams (#60602),2025-05-29T18:29:07Z,1,30,moT01,freeCodeCamp,freeCodeCamp
+cf9742a0a5a8ec747b721d01217743ba6ea7cc2c,fix(curriculum): responsive issues for Weather app (#60552),2025-05-29T17:44:49Z,1,23,dev-kamil,freeCodeCamp,freeCodeCamp
+1b033ce15314931997230f7b92bbf67178c36f5c,fix(curriculum): typo in lab - weather app - test 15 (#60595),2025-05-29T14:03:07Z,1,2,RobTou,freeCodeCamp,freeCodeCamp
+8ce3f0028238d26b00831228c173bc0e74d32158,fix(curriculum): grammar issue in accessibility tools lecture (#60565),2025-05-29T11:45:34Z,1,2,RITIKMANGAL,freeCodeCamp,freeCodeCamp
 1519353a730464eea22e0e3eb15909c9624c86e1,fix(curriculum): fsd chapter order (#60568),2025-05-28T22:31:34Z,2,568,moT01,freeCodeCamp,freeCodeCamp
 3a762257b5360b5e992b1e70a6936170d99674f9,refactor(curriculum): remove after-user-code bookmark lab (#60406),2025-05-28T21:11:17Z,1,118,a2937,freeCodeCamp,freeCodeCamp
 2be04b85107fcc6267150ae3906697a4f69468b3,fix(curriculum): allow all valid versions of browser alert (#59721),2025-05-28T17:36:34Z,8,36,monbehre,freeCodeCamp,freeCodeCamp
@@ -216,18 +223,3 @@ d0040492f2546fbfdf855ab43c3643deba089e8f,"chore(i18n,client): processed translat
 71fb1c9ab419dc6fcee2352a2c19ed9bdc4837fd,fix(curriculum): crowdin wording for page of playing cards lab (#60046),2025-04-30T08:18:45Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 8a1e28bf4b9be529340c78246c27beff80505206,fix(curriculum): updated challenge tests (#60076),2025-04-30T07:38:40Z,1,8,linaslabs,freeCodeCamp,freeCodeCamp
 268aa82111944ae063c3c57cbf38de92f68bffde,fix(curriculum): typos in performance lectures (#60018),2025-04-30T06:00:19Z,3,8,ldtr89,freeCodeCamp,freeCodeCamp
-4bd55ba8d126cdee52aadcd810ddfd09ac8a2201,fix(curriculum): Allow more freedom of implementation in Todo App (#5…,2025-04-30T00:33:20Z,72,1226,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
-5dcb1f611cee502470879d634cc8e530d70d0f13,feat(curriculum): adding quiz questions for Python basics module (#59…,2025-04-30T00:02:31Z,1,286,jdwilkin4,freeCodeCamp,freeCodeCamp
-cd09f71590d3feb0d840492870c983d6e0180e37,feat(curriculum): add toggle visibility useState workshop (#59193),2025-04-29T23:50:32Z,17,1894,jdwilkin4,freeCodeCamp,freeCodeCamp
-05b11175195b00f7bd46666f3b7e13c737053d40,fix(curriculum): updating regex in email masker lab to accept all for…,2025-04-29T22:22:23Z,1,3,roniyaniv,freeCodeCamp,freeCodeCamp
-30b920f4572bdc66a0a4f396f71625b878650201,fix(curriculum): update wording for workshop registration form (#60054),2025-04-29T20:41:18Z,2,4,MelvinManni,freeCodeCamp,freeCodeCamp
-78d3fe740e1c84ca434b2b06ce8cdf5705d47b42,fix(ui): update section names in downloaded solutions (#59934),2025-04-29T20:24:57Z,2,66,a2937,freeCodeCamp,freeCodeCamp
-3d343ac93210d0c034d7b05d655da8e2d341ede4,fix(curriculum): update assertion methods in cat painting workshop (#…,2025-04-29T18:28:50Z,2,4,njnr14,freeCodeCamp,freeCodeCamp
-e810d8746a92520987393f38ee2a198809716876,fix(curriculum): resolves visible answer in question 28 (#60056),2025-04-29T17:25:51Z,1,20,clarencepenz,freeCodeCamp,freeCodeCamp
-a373e81a59414865c6e21a3609eb19547466c190,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-04-29T16:44:43Z,11,54,clarencepenz,freeCodeCamp,freeCodeCamp
-b4c1aa107bebdaab62999b49427632463e687c26,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-04-29T16:34:16Z,9,28,clarencepenz,freeCodeCamp,freeCodeCamp
-86ec68ecf3f8aa5762ed266d28426598611f8265,fix(curriculum): use specific assert methods in cafe menu workshop st…,2025-04-29T16:27:24Z,7,38,clarencepenz,freeCodeCamp,freeCodeCamp
-17812fc54950c288ff3c7f6852656af763615d97,feat(external curricula): build external curricula data v2 (#59533),2025-04-29T11:19:19Z,8,737,huyenltnguyen,freeCodeCamp,freeCodeCamp
-46425aa588f72d9dd0a3d0898a309e5cd6471d08,fix(curriculum): typo in lecture about styling special input elements…,2025-04-29T11:07:43Z,1,2,abhijeet-singhh,freeCodeCamp,freeCodeCamp
-c555f69883a9b82f0103f62467b868a11bc749c6,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-04-29T11:04:15Z,11,80,clarencepenz,freeCodeCamp,freeCodeCamp
-6de79433cafca2c5d04944518a23f99e028b3c67,fix(curriculum): crowdin wording for real time counter lab (#60045),2025-04-29T10:32:50Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
