@@ -1,4 +1,19 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+f5e3a09dc6d80e69f3ddd29760ac1f35e6a9195e,chore(curriculum): update assert methods in nutritional label worksho…,2025-06-03T21:40:46Z,2,10,kkoeplin,freeCodeCamp,freeCodeCamp
+d7d150e9d3bc81b409a943af6c160e50530c558a,feat: add python lecture placeholders for first two sections (#59737),2025-06-03T21:36:32Z,26,2771,ilenia-magoni,freeCodeCamp,freeCodeCamp
+598534e264a54f783ed91b4278db1bcb033d2d6d,fix(curriculum): allow newlines in move review page tests (#60689),2025-06-03T21:33:32Z,1,2,StephenMuya,freeCodeCamp,freeCodeCamp
+d7d027afb7e4fb4e180d4dd1a43dbd77eb514939,fix(curriculum): make tests independent of previous tests (Customer C…,2025-06-03T20:28:35Z,1,12,sidemt,freeCodeCamp,freeCodeCamp
+3d4894d431192bafbb6a03ca9510952823ebe884,fix: Error in build an event flyer when stylesheet has an @import rul…,2025-06-03T20:28:15Z,1,4,MelvinManni,freeCodeCamp,freeCodeCamp
+b3b9b487b13ee45e1965f3b7e74b9303748b4fa2,fix(curriculum): Use specific asserts in cat painting (#60666),2025-06-03T17:47:13Z,3,22,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
+2549bb55cbde1351629b3786b9a22234acd7e3f1,chore(curriculum): test for at least three votes in Voting System Lab…,2025-06-03T17:42:05Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+d198875cd49179fe1d5d3ae258a8a13673a3d5f0,chore(curriculum): update asserts in magazine workshop steps 14-15-16…,2025-06-03T17:31:03Z,3,14,anurpeljto,freeCodeCamp,freeCodeCamp
+ac198cac9cc371995eccce5d007dd09f4709160a,perf(ci): skip cache to see if perf improves (#60681),2025-06-03T16:48:38Z,7,177,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+2d8904f7d927271caeeb48c0545341f2c8a9eb25,fix(curriculum): Replace last question. (#60677),2025-06-03T15:43:50Z,1,16,StephenMuya,freeCodeCamp,freeCodeCamp
+3b3fe5d6e11a2ab3f5bf7e90207aa8252a92d3fd,fix(curriculum): wrong challenge type for js challenges (#60688),2025-06-03T15:32:41Z,2,4,Nirajn2311,freeCodeCamp,freeCodeCamp
+a659791dc29eafa61a86e0e714fbd8f853a75918,chore(curriculum): add slice-and-splice to full-stack-curriculum (#60…,2025-06-03T14:53:42Z,6,124,ilenia-magoni,freeCodeCamp,freeCodeCamp
+f7db89620d8eb3f16a27a398198d1e0ff33d42e5,fix(curriculum): typo in workshop fruit search app (#60678),2025-06-03T12:14:08Z,2,6,clarencepenz,freeCodeCamp,freeCodeCamp
+8e68328e10fc3a914a0dbb3db8d16142d08ab46b,fix(curriculum): add section element to Semantic HTML Review (#60580),2025-06-03T10:54:51Z,1,1,Supravisor,freeCodeCamp,freeCodeCamp
+1557711a689cdf806667fa4b98f55a9393656c46,"fix(tools): Update node to v22, improve caching? (#60651)",2025-06-03T09:35:40Z,13,2784,raisedadead,freeCodeCamp,freeCodeCamp
 d40abd19027b2d3312ff7ecb9fe187523279b0bc,fix(curriculum): remove stray backtick (#60670),2025-06-02T17:23:11Z,1,2,dev-kamil,freeCodeCamp,freeCodeCamp
 7ff1bd91fb6d7b7ab33d3ba7dcba5c9ad1bab894,fix(curriculum): typo in Data Types and Conditionals Lesson (#60669),2025-06-02T16:56:24Z,1,12,ItsAbhinavM,freeCodeCamp,freeCodeCamp
 725130ed552c8024f73640aab026333fc2264ca8,chore(curriculum) Project Euler problems 301–400 to use assert.isStri…,2025-06-02T16:21:09Z,4,8,DanBokete,freeCodeCamp,freeCodeCamp
