@@ -1,4 +1,9 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+6bcce9f0303ca933a2a317ce6fc2a8651258ce56,feat(curriculum): add merge sort workshop (#59633),2025-06-05T19:18:08Z,29,1657,zairahira,freeCodeCamp,freeCodeCamp
+2be423e92830b0bf5dacfbf44bd72617d7f35396,chore(curriculum) : update Project Euler tests with better assertions…,2025-06-05T19:03:07Z,10,22,VishalTelukula,freeCodeCamp,freeCodeCamp
+ee681ff4ad4482952ea08fe1fbbc1cdb81e40136,chore(curriculum): remove before user code in RPS game (#60723),2025-06-05T18:01:11Z,1,20,Nirajn2311,freeCodeCamp,freeCodeCamp
+2bb4c5565cbaf10ebb17d7c061ee78b3a235d8ce,chore(curriculum): update asserts in workshop cat painting steps 75–7…,2025-06-05T12:41:01Z,3,18,LalitNarayanYadav,freeCodeCamp,freeCodeCamp
+e7a712351e173c5faf511c873e840852cc29f7b7,fix(config): add dev playground to not audited (#60717),2025-06-05T07:14:07Z,1,30,moT01,freeCodeCamp,freeCodeCamp
 0c6b35630fd6b07f2b0714a6382d0ce981080d31,feat(curriculum): Add A2 Chinese Outline (#60451),2025-06-04T19:53:52Z,22,264,miyaliu666,freeCodeCamp,freeCodeCamp
 a2f2ad45c6ecbfaefd95f9071088462516f8df26,feat(curriculum): add dev-playground superblock and daily challenge t…,2025-06-04T17:32:25Z,70,4684,moT01,freeCodeCamp,freeCodeCamp
 d4c905e711517e7c2267863be63def269f2826f2,"fix(curriculum): change ""what is HTML"" lecture title (#60709)",2025-06-04T15:52:29Z,1,4,cuteshaun,freeCodeCamp,freeCodeCamp
@@ -243,10 +248,3 @@ d0e63c60cad50f3d3905967451f9d6c9ba1c9608,fix(api): add req id to logs (#60191),2
 c55e98d3eea223e50ee74bcd0b5a7efde2e4bcd0,chore(curriculum): Cat painting workshop updated to use specific asse…,2025-05-06T08:47:30Z,2,14,ArakhshQ,freeCodeCamp,freeCodeCamp
 e5051d472e8cb39a0b6c5bf85607e4d2e14f2d03,fix(GHA): update environment validation (#60011),2025-05-06T07:00:06Z,1,56,raisedadead,freeCodeCamp,freeCodeCamp
 3e9c13bb4349b94a46e411bfffecfdbd77971701,fix(curriculum): typos and spacing in lectures and reviews (#60077),2025-05-06T05:16:29Z,9,44,Supravisor,freeCodeCamp,freeCodeCamp
-abd9e3ff3e7e8dc1c01b542eaa7ab9803853130a,chore(curriculum): update TypeScript quiz questions (#60002),2025-05-05T18:50:06Z,1,78,sidemt,freeCodeCamp,freeCodeCamp
-256b76c3f76b02614dc74e4a4789a8ed691d1a8d,"chore(i18n,learn): update i18n-curriculum submodule (#60159)",2025-05-05T15:44:37Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-b842d09e9635f8a5a3cde9112ca7ef42c5f78df2,"chore(i18n,client): processed translations (#60158)",2025-05-05T15:05:17Z,10,70,camperbot,freeCodeCamp,freeCodeCamp
-a8be31b6ea25e6f1412ccef5499073da5cf82942,fix(a11y): hide Fail icon from screen readers (#60157),2025-05-05T12:30:20Z,2,3,huyenltnguyen,freeCodeCamp,freeCodeCamp
-181321d90dffd8ed2e27fd76eebd5dbc013b9730,fix(curriculum): correct aria-label hint in music player step 43 (#60…,2025-05-05T07:25:43Z,1,2,bobofishbo,freeCodeCamp,freeCodeCamp
-ec43a5c4db594a213f13615366e5c9a1222e8caa,fix(curriculum): assert methods in cat painting step 29 (#60136),2025-05-05T06:24:17Z,1,4,LuluZhuu,freeCodeCamp,freeCodeCamp
-7b3a19f433637efcec706e92ca7c325b21d24422,fix(curriculum): typos in core JS fundamentals lecture (#60151),2025-05-05T04:08:58Z,2,6,Supravisor,freeCodeCamp,freeCodeCamp
