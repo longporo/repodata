@@ -1,15 +1,28 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X866I4yo,60737,Misplaced feedback in Learn Greetings in Your First Day at the Office - Task 3,OPEN,2025-06-05T22:34:13Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866Hi-f,60733,Minor discrepancy in instructions for Step 6 of Certified Full Stack Developer - Basic HTML - Build a Curriculum Outline,OPEN,2025-06-05T20:20:06Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866I4yo,60737,Misplaced feedback in Learn Greetings in Your First Day at the Office - Task 3,CLOSED,2025-06-05T22:34:13Z,2025-06-06T20:37:57Z,sharon1999,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X865nvNK,60687,Learn How to share progress in weekly stand up meetings,OPEN,2025-06-03T14:21:58Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866TUVi,60752,Superhero application form - requiring implicit return in `onChange` function,OPEN,2025-06-06T19:01:22Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866TT4h,60751,Grammar error in fCC Authors Page - step 12,OPEN,2025-06-06T19:00:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866TNNZ,60750,Superhero application form - elusive `value` attribute on first option,OPEN,2025-06-06T18:49:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866Ss0N,60746,Use `md` for plain text code blocks,OPEN,2025-06-06T17:48:17Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86ytAfG,59755,Add set 2 of questions for CSS Variables quiz,CLOSED,2025-04-16T02:19:27Z,2025-06-06T17:23:34Z,Omar8345;huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866SZ4K,60745,Use `jsx` as the language identifer for React code blocks,OPEN,2025-06-06T17:15:57Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866Rq5h,60744,Certified Full Stack Developer Curriculum: Build a Curriculum Outline,CLOSED,2025-06-06T15:58:38Z,2025-06-06T16:02:42Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866HfdB,60732,Tic-tac-toe lab - testing draw is too lenient,OPEN,2025-06-05T20:14:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866HVFV,60731,Tic-tac-toe lab - not checked diagonal win conditions,OPEN,2025-06-05T20:00:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866HKH6,60730,Fruit search app workshop - index as key,OPEN,2025-06-05T19:44:30Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863UMz6,60449,Python Terminal not Accessible via Screen Reader,CLOSED,2025-05-20T03:41:02Z,2025-06-06T12:28:30Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X865pl-V,60690,new lines cause failures in tests checking element content,OPEN,2025-06-03T16:37:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866N2kU,60743,typo at camper.tsx component code( TopContibutorBadgeEmblem -> TopContributorBadgeEmblem),OPEN,2025-06-06T09:22:58Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866N2Wl,60742,chore: update tests to use specific asserts in project euler problems 21-25,OPEN,2025-06-06T09:22:43Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866N0Zm,60741,chore: update tests to use specific asserts in project euler problems 11-20,OPEN,2025-06-06T09:19:51Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864mNYO,60562,Update the certification map to increase conversion to the first step.,OPEN,2025-05-28T11:31:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866Hi-f,60733,Minor discrepancy in instructions for Step 6 of Certified Full Stack Developer - Basic HTML - Build a Curriculum Outline,OPEN,2025-06-05T20:20:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8654kma,60712,chore: update to specific asserts project euler problems 1-10,CLOSED,2025-06-04T17:48:21Z,2025-06-05T19:03:08Z,Vishal-Telukula,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8654mhh,60713,chore: update asserts in workshop cat painting steps 75-77,CLOSED,2025-06-04T17:51:42Z,2025-06-05T16:57:07Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865qfJu,60691,Adding popular auth options directly in the lading page,OPEN,2025-06-03T18:00:37Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865W_bs,60661,"Excessive RAM usage in Safari (MacOS 15.5, M2)",CLOSED,2025-06-02T11:40:54Z,2025-06-05T12:48:25Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861ts0c,60230,Forum login message,OPEN,2025-05-08T11:09:22Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865nvNK,60687,Learn How to share progress in weekly stand up meetings,OPEN,2025-06-03T14:21:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865rAUQ,60692,Update questions for set 2 of semantic HTML quiz,OPEN,2025-06-03T18:44:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865ytFM,60704,multifile editor accessiblity issues,CLOSED,2025-06-04T09:05:51Z,2025-06-05T11:35:08Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8657zpZ,60722,Our Description of the Web design Certification,CLOSED,2025-06-05T00:20:17Z,2025-06-05T09:13:53Z,,freeCodeCamp,freeCodeCamp
@@ -36,7 +49,6 @@ I_kwDOAbI7X86r08iJ,59022,Feature: add a playground page,OPEN,2025-02-26T20:50:01
 I_kwDOAbI7X864dV1c,60551,chore: update cat painting workshops steps 54-55-56 to use specific asserts,CLOSED,2025-05-27T17:44:00Z,2025-06-03T17:47:15Z,c0d1ng-ma5ter;gikf,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865ZV8N,60664,test issue in voting system lab,CLOSED,2025-06-02T14:26:02Z,2025-06-03T17:42:06Z,Supravisor;gikf,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865U0Sm,60653,chore: update asserts in magazine workshop steps 15-16-17,CLOSED,2025-06-02T08:55:21Z,2025-06-03T17:31:04Z,anurpeljto,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865pl-V,60690,new lines cause failures in tests checking element content,OPEN,2025-06-03T16:37:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86kZtez,57750,Lecture blocks left to add for the Frontend Libraries Chapter,CLOSED,2024-12-24T18:49:12Z,2025-06-03T15:59:30Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865IGtW,60634,Full Stack Curriculum: CSS Lecture Quiz assumes knowledge of concepts not yet introduced,CLOSED,2025-05-31T18:24:25Z,2025-06-03T15:43:52Z,StephenMuya;ilenia-magoni,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864q31X,60571,Semantic HTML Review doesn't mention section element,CLOSED,2025-05-28T18:42:54Z,2025-06-03T10:54:52Z,Supravisor;ilenia-magoni,freeCodeCamp,freeCodeCamp
@@ -45,7 +57,6 @@ I_kwDOAbI7X865aJCk,60668,Typo in Learn Data Types and Conditionals Lesson D,CLOS
 I_kwDOAbI7X864wPlK,60585,chore: update project euler problems 301-400 to use specific asserts,CLOSED,2025-05-29T08:53:57Z,2025-06-02T16:21:10Z,DanBokete,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865VHjq,60655,introduction sentence to lectures,CLOSED,2025-06-02T09:18:43Z,2025-06-02T15:56:05Z,TrevorBrowning,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865Gem0,60630,Update review pages for grouping radio buttons,OPEN,2025-05-31T13:27:19Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864mNYO,60562,Update the certification map to increase conversion to the first step.,OPEN,2025-05-28T11:31:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865M4y1,60641,Enhancement: Add browser compatibility note for Flexbox challenges,CLOSED,2025-06-01T12:17:06Z,2025-06-02T13:44:28Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865M4Gz,60639,"Suggestion: Add more examples to the ""Use the .filter() Method"" challenge",CLOSED,2025-06-01T12:14:46Z,2025-06-01T13:33:43Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85-9VJt,53660,Improvements for the mobile editor,CLOSED,2024-02-12T12:10:06Z,2025-06-02T13:39:32Z,,freeCodeCamp,freeCodeCamp
@@ -144,7 +155,6 @@ I_kwDOAbI7X863ncHY,60465,Contact users with no email address,OPEN,2025-05-21T15:
 I_kwDOAbI7X862nxqb,60352,translate.freecodecamp.org is inaccessible,CLOSED,2025-05-14T17:57:21Z,2025-05-20T20:54:59Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863JgQu,60424,Learn How to Express Agreement - Task 71,CLOSED,2025-05-19T06:52:30Z,2025-05-20T19:48:09Z,IbrahimAl-Tawil,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86ytCMr,59757,Add set 2 of questions for CSS Animations quiz,CLOSED,2025-04-16T02:24:38Z,2025-05-20T12:49:26Z,aaqib605,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863UMz6,60449,Python Terminal not Accessible via Screen Reader,OPEN,2025-05-20T03:41:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862CBzT,60266,"""Saved! Your code was saved to your browser's local storage."" - banner has no timeout, carries over when changing page",CLOSED,2025-05-10T10:02:54Z,2025-05-20T11:38:22Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86yiMm8,59725,Full stack HTML Accessibility Lab: Build a checkout page - exercise not in line with good ARIA practice,OPEN,2025-04-15T06:34:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862mtML,60349,Update questions for debugging techniques lecture,CLOSED,2025-05-14T15:56:24Z,2025-05-19T21:36:48Z,Supravisor,freeCodeCamp,freeCodeCamp
@@ -231,9 +241,3 @@ I_kwDOAbI7X861YClG,60189,build a calculator can be hardcoded,CLOSED,2025-05-06T1
 I_kwDOAbI7X861hR-i,60211,test,CLOSED,2025-05-07T09:49:03Z,2025-05-07T09:53:20Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861e9Dq,60203,Clarify order of operations in add-items-to-an-array-with-push-and-unshift.md description,CLOSED,2025-05-07T06:03:26Z,2025-05-07T08:45:33Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861e56d,60202,Fix typo in add-items-to-an-array-with-push-and-unshift.md description,CLOSED,2025-05-07T05:56:44Z,2025-05-07T06:02:30Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861WIbz,60184,build a calculator test too restrictive,CLOSED,2025-05-06T11:14:38Z,2025-05-06T21:51:39Z,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861cUE_,60201,Update react fundamentals and chapter review pages for import/export udpates,OPEN,2025-05-06T21:48:42Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861UOIc,60182,update cat painting workshop to use specific assert methods step 40-41,CLOSED,2025-05-06T08:29:02Z,2025-05-06T17:24:41Z,Sky-walkerX,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861Mk-K,60161,update cat painting workshop to use specific assert methods step 36-37,CLOSED,2025-05-05T15:03:21Z,2025-05-06T08:47:32Z,ArakhshQ,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861UGwZ,60180,Handle log statements in redirection.ts,OPEN,2025-05-06T08:17:32Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861OmLg,60169,No Content - Styling Forms Review,CLOSED,2025-05-05T18:43:20Z,2025-05-06T05:01:38Z,,freeCodeCamp,freeCodeCamp
