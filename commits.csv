@@ -1,4 +1,14 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+c2196fefac8e8264fa678f6c896ae1dad26cde79,fix(curriculum): fix ups and remove quote marks in Programming Vocabu…,2025-06-07T00:54:36Z,12,42,Supravisor,freeCodeCamp,freeCodeCamp
+0d4b8e89b3533761c2ab790195c042977ed2024b,fix(curriculum): accept let and var declaration in Color picker lab (…,2025-06-06T22:53:16Z,1,4,gikf,freeCodeCamp,freeCodeCamp
+206511ec8a84109f775d1d2609333869e8e7544a,fix(curriculum): feedback text in “Learn Greetings in Your First Day …,2025-06-06T20:37:56Z,1,4,sharon1999,freeCodeCamp,freeCodeCamp
+12e45fc4a02ce2ac50c908f7c7b6cc128c541a34,feat(curriculum): add second quiz set for CSS variables (#59819),2025-06-06T17:23:31Z,1,485,Omar8345,freeCodeCamp,freeCodeCamp
+e8bde95a2dbdef08535371d2a27e22d3ffe20802,fix(curriculum): use lower case int in Code-related Concepts and Term…,2025-06-06T16:00:00Z,1,6,Supravisor,freeCodeCamp,freeCodeCamp
+777c68235a5b0e6e730a8e072a1882ba11d91265,fix(curriculum): remove errors in CSS and JS transcripts (#60711),2025-06-06T12:32:39Z,4,88,jdwilkin4,freeCodeCamp,freeCodeCamp
+46c008c112a84e55ccdf8f6b877ec33dddc7c6a4,fix(a11y): enable screen reader support for python terminal (#60154),2025-06-06T12:28:28Z,2,29,huyenltnguyen,freeCodeCamp,freeCodeCamp
+ed2bdfcf961978b55b1240b72b6baa90d65d9a0b,fix(curriculum): standardize Next.js proper names (#60734),2025-06-06T10:03:14Z,1,2,dev-kamil,freeCodeCamp,freeCodeCamp
+d04d26f515b8c55107beef7a7346a8977ee45d38,fix(curriculum): typo in lecture working with loops and sequences (#6…,2025-06-06T08:47:33Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
+9df9b675c189b893f91e653aae0cd937d0856350,fix(curriculum): missing preposition (#60735),2025-06-06T03:54:22Z,1,2,dev-kamil,freeCodeCamp,freeCodeCamp
 6bcce9f0303ca933a2a317ce6fc2a8651258ce56,feat(curriculum): add merge sort workshop (#59633),2025-06-05T19:18:08Z,29,1657,zairahira,freeCodeCamp,freeCodeCamp
 2be423e92830b0bf5dacfbf44bd72617d7f35396,chore(curriculum) : update Project Euler tests with better assertions…,2025-06-05T19:03:07Z,10,22,VishalTelukula,freeCodeCamp,freeCodeCamp
 ee681ff4ad4482952ea08fe1fbbc1cdb81e40136,chore(curriculum): remove before user code in RPS game (#60723),2025-06-05T18:01:11Z,1,20,Nirajn2311,freeCodeCamp,freeCodeCamp
@@ -238,13 +248,3 @@ f2b09783f644385a9d3c7515a9d94dc496929ed0,feat(curriculum): add set 2 for css lay
 003489c1d7dcffb4645ffe4decc01959526b1126,feat: add bash commands review content (#59192),2025-05-07T15:33:32Z,1,66,ilenia-magoni,freeCodeCamp,freeCodeCamp
 baf650a3c795bc063cb53dad85f92e811287836e,fix(curriculum): prevent hardcoding in addition functions (#60196),2025-05-07T14:54:22Z,2,12,Averand1,freeCodeCamp,freeCodeCamp
 8a6fcd70dbaafc89916020bf0f2d96369fdfb108,fix(api): update logging (#60210),2025-05-07T10:00:32Z,2,16,raisedadead,freeCodeCamp,freeCodeCamp
-8e86fac37845d80dc21b81dce759d25b083df6d0,fix(curriculum): update cat painting workshop to use specific assert …,2025-05-06T23:39:36Z,1,36,clarencepenz,freeCodeCamp,freeCodeCamp
-32c19f1b92afb63de97d1783ae9aee8846b3add6,fix(curriculum): Make calculator tests less restrictive (#60188),2025-05-06T21:51:38Z,6,18,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
-ff43f3aecaf0f98b199f5b0dac6629c51859fde3,fix(api): whitespace in default values (#60199),2025-05-06T20:22:42Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
-dc5c7893b50b92795da3fcedf74e0f38cdc745ed,fix(api): update logs in user.ts (#60193),2025-05-06T18:19:24Z,1,7,raisedadead,freeCodeCamp,freeCodeCamp
-504a6eaa1d1460926b609ab3f65f21a17bb9f061,chore(curriculum): refactor tests in the workshop-cat-painting steps …,2025-05-06T17:24:40Z,2,20,Sky-walkerX,freeCodeCamp,freeCodeCamp
-d0e63c60cad50f3d3905967451f9d6c9ba1c9608,fix(api): add req id to logs (#60191),2025-05-06T16:50:31Z,1,4,raisedadead,freeCodeCamp,freeCodeCamp
-008e35d851ca10f6b1714de3a1135835e2a7ba3e,fix(api): update logging (#60187),2025-05-06T15:16:36Z,21,296,raisedadead,freeCodeCamp,freeCodeCamp
-c55e98d3eea223e50ee74bcd0b5a7efde2e4bcd0,chore(curriculum): Cat painting workshop updated to use specific asse…,2025-05-06T08:47:30Z,2,14,ArakhshQ,freeCodeCamp,freeCodeCamp
-e5051d472e8cb39a0b6c5bf85607e4d2e14f2d03,fix(GHA): update environment validation (#60011),2025-05-06T07:00:06Z,1,56,raisedadead,freeCodeCamp,freeCodeCamp
-3e9c13bb4349b94a46e411bfffecfdbd77971701,fix(curriculum): typos and spacing in lectures and reviews (#60077),2025-05-06T05:16:29Z,9,44,Supravisor,freeCodeCamp,freeCodeCamp
