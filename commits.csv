@@ -1,4 +1,9 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+4912a0aac5f7826bff9a78c01a88498e6954e55e,fix(curriculum): discrepancy in Build a Curriculum Outline (#60762),2025-06-07T20:03:03Z,2,4,dev-kamil,freeCodeCamp,freeCodeCamp
+90bac7239d2b5b41b45359bad0686ca85f610968,chore: update tests to use specific asserts in project euler problems…,2025-06-07T20:00:49Z,10,20,zenocross,freeCodeCamp,freeCodeCamp
+bbda50ed0d1b6f7aba29f4a3028b7eeead8463fb,fix(client): typo in top contributer badge component (#60765),2025-06-07T19:36:43Z,2,10,forge34,freeCodeCamp,freeCodeCamp
+a6f72e9ab00d0b13ac16aad44b4fd10f2f8d92bf,"fix(curriculum): grammar, typos in Introduction to JavaScript Librari…",2025-06-07T15:46:00Z,2,10,dev-kamil,freeCodeCamp,freeCodeCamp
+eefd43106d2401bdd12e835f2b744a464354f2c6,fix(curriculum): change plaintext blocks from bash to markdown (#60754),2025-06-07T07:33:08Z,8,26,StephenMuya,freeCodeCamp,freeCodeCamp
 c2196fefac8e8264fa678f6c896ae1dad26cde79,fix(curriculum): fix ups and remove quote marks in Programming Vocabu…,2025-06-07T00:54:36Z,12,42,Supravisor,freeCodeCamp,freeCodeCamp
 0d4b8e89b3533761c2ab790195c042977ed2024b,fix(curriculum): accept let and var declaration in Color picker lab (…,2025-06-06T22:53:16Z,1,4,gikf,freeCodeCamp,freeCodeCamp
 206511ec8a84109f775d1d2609333869e8e7544a,fix(curriculum): feedback text in “Learn Greetings in Your First Day …,2025-06-06T20:37:56Z,1,4,sharon1999,freeCodeCamp,freeCodeCamp
@@ -236,15 +241,3 @@ d08fe7c653475a751402f1f4a28ac78a7a08383b,fix(curriculum): remove pseudo class fr
 a169c2a7b1639b79603b174d9b287f0075e789eb,chore(api): remove oldschema.prisma (#60227),2025-05-08T09:57:47Z,1,1101,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 a73ecf2aead8b1e882f759e743675d07b6cb3f62,feat(ui): test indicator icon (#60049),2025-05-08T09:49:08Z,3,71,a2937,freeCodeCamp,freeCodeCamp
 27018424868788166a245b7b4e228c41b70a9c0c,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-05-08T07:50:56Z,9,49,clarencepenz,freeCodeCamp,freeCodeCamp
-aa5b9418e53ed2eb14b275edb50aa6875f470832,fix(learn): remove sentence in transcript (#60224),2025-05-07T23:17:58Z,1,2,anuplohar001,freeCodeCamp,freeCodeCamp
-79565fca2538990cf9f61324bf732e345e5d792e,fix(curriculum): improve Crowdin wording for workshop-recipe-ingredie…,2025-05-07T21:01:13Z,1,2,vkalakota18,freeCodeCamp,freeCodeCamp
-0cb1b30ca5895fe50e457ab514ab283b1c41c88c,"chore(i18n,learn): update i18n-curriculum submodule (#60214)",2025-05-07T20:53:23Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-b0e616a35a045d5d7ceabc32fc63553b231b425d,feat(curriculum): adding superhero application form (React forms) wor…,2025-05-07T20:49:18Z,25,4416,Ksound22,freeCodeCamp,freeCodeCamp
-be2fac9b611e857c3a7457ba40624dd61aae6275,fix(curriculum): update step 33 of cat painting workshop to use asser…,2025-05-07T20:33:12Z,1,8,Sir-En00n3,freeCodeCamp,freeCodeCamp
-31b956d16fac976ddab009294a1e06bb312a55c3,chore: update to mongodb 8 in CI (#60215),2025-05-07T19:45:53Z,3,10,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-f25b5017fbde388c796ac30677e61b5f7e6ff81b,fix(curriculum): typo in english challenge (#60220),2025-05-07T19:22:35Z,1,2,anuplohar001,freeCodeCamp,freeCodeCamp
-7cd09d9f7507cb6a1d41c70653e0b1c8b2a88a69,feat(curriculum): add set 2 for css typography quiz (#59800),2025-05-07T19:11:43Z,1,460,Supravisor,freeCodeCamp,freeCodeCamp
-f2b09783f644385a9d3c7515a9d94dc496929ed0,feat(curriculum): add set 2 for css layout and effects quiz (#59796),2025-05-07T18:59:36Z,1,442,Supravisor,freeCodeCamp,freeCodeCamp
-003489c1d7dcffb4645ffe4decc01959526b1126,feat: add bash commands review content (#59192),2025-05-07T15:33:32Z,1,66,ilenia-magoni,freeCodeCamp,freeCodeCamp
-baf650a3c795bc063cb53dad85f92e811287836e,fix(curriculum): prevent hardcoding in addition functions (#60196),2025-05-07T14:54:22Z,2,12,Averand1,freeCodeCamp,freeCodeCamp
-8a6fcd70dbaafc89916020bf0f2d96369fdfb108,fix(api): update logging (#60210),2025-05-07T10:00:32Z,2,16,raisedadead,freeCodeCamp,freeCodeCamp
