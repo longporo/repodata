@@ -1,23 +1,31 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X866I4yo,60737,Misplaced feedback in Learn Greetings in Your First Day at the Office - Task 3,CLOSED,2025-06-05T22:34:13Z,2025-06-06T20:37:57Z,sharon1999,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866aSMv,60776,Sprite / loading screen for dark mode?,OPEN,2025-06-07T20:10:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866aQH6,60775,Automated Security Findings for README,CLOSED,2025-06-07T20:00:25Z,2025-06-07T20:05:28Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866Hi-f,60733,Minor discrepancy in instructions for Step 6 of Certified Full Stack Developer - Basic HTML - Build a Curriculum Outline,CLOSED,2025-06-05T20:20:06Z,2025-06-07T20:03:04Z,dev-kamil,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866N0Zm,60741,chore: update tests to use specific asserts in project euler problems 11-20,CLOSED,2025-06-06T09:19:51Z,2025-06-07T20:00:51Z,zenocross,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866Z-BX,60774,Automated Security Findings for README,CLOSED,2025-06-07T18:47:04Z,2025-06-07T19:40:25Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866N2kU,60743,typo at camper.tsx component code( TopContibutorBadgeEmblem -> TopContributorBadgeEmblem),CLOSED,2025-06-06T09:22:58Z,2025-06-07T19:36:45Z,forge34,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866ZyhB,60772,Automated Security Findings for README,CLOSED,2025-06-07T17:57:01Z,2025-06-07T18:44:59Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866Zrm6,60771,Automated Security Findings for README,CLOSED,2025-06-07T17:27:19Z,2025-06-07T17:30:33Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866Zk1o,60770,Automated Security Findings for README,CLOSED,2025-06-07T17:02:48Z,2025-06-07T17:12:46Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865nvNK,60687,Learn How to share progress in weekly stand up meetings,OPEN,2025-06-03T14:21:58Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866SZ4K,60745,Use `jsx` as the language identifer for React code blocks,OPEN,2025-06-06T17:15:57Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866XR28,60761,Build a Quiz Webpage - Step 24 with misguided instruction.,OPEN,2025-06-07T07:46:03Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866Ss0N,60746,Use `md` for plain text code blocks,CLOSED,2025-06-06T17:48:17Z,2025-06-07T07:33:10Z,StephenMuya,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866Wewb,60758,blank issue1,CLOSED,2025-06-07T04:53:13Z,2025-06-07T06:57:02Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866I4yo,60737,Misplaced feedback in Learn Greetings in Your First Day at the Office - Task 3,CLOSED,2025-06-05T22:34:13Z,2025-06-06T20:37:57Z,sharon1999,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866TUVi,60752,Superhero application form - requiring implicit return in `onChange` function,OPEN,2025-06-06T19:01:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866TT4h,60751,Grammar error in fCC Authors Page - step 12,OPEN,2025-06-06T19:00:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866TNNZ,60750,Superhero application form - elusive `value` attribute on first option,OPEN,2025-06-06T18:49:50Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866Ss0N,60746,Use `md` for plain text code blocks,OPEN,2025-06-06T17:48:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86ytAfG,59755,Add set 2 of questions for CSS Variables quiz,CLOSED,2025-04-16T02:19:27Z,2025-06-06T17:23:34Z,Omar8345;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866SZ4K,60745,Use `jsx` as the language identifer for React code blocks,OPEN,2025-06-06T17:15:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866Rq5h,60744,Certified Full Stack Developer Curriculum: Build a Curriculum Outline,CLOSED,2025-06-06T15:58:38Z,2025-06-06T16:02:42Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866HfdB,60732,Tic-tac-toe lab - testing draw is too lenient,OPEN,2025-06-05T20:14:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866HVFV,60731,Tic-tac-toe lab - not checked diagonal win conditions,OPEN,2025-06-05T20:00:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866HKH6,60730,Fruit search app workshop - index as key,OPEN,2025-06-05T19:44:30Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863UMz6,60449,Python Terminal not Accessible via Screen Reader,CLOSED,2025-05-20T03:41:02Z,2025-06-06T12:28:30Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865pl-V,60690,new lines cause failures in tests checking element content,OPEN,2025-06-03T16:37:46Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866N2kU,60743,typo at camper.tsx component code( TopContibutorBadgeEmblem -> TopContributorBadgeEmblem),OPEN,2025-06-06T09:22:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866N2Wl,60742,chore: update tests to use specific asserts in project euler problems 21-25,OPEN,2025-06-06T09:22:43Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866N0Zm,60741,chore: update tests to use specific asserts in project euler problems 11-20,OPEN,2025-06-06T09:19:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864mNYO,60562,Update the certification map to increase conversion to the first step.,OPEN,2025-05-28T11:31:08Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866Hi-f,60733,Minor discrepancy in instructions for Step 6 of Certified Full Stack Developer - Basic HTML - Build a Curriculum Outline,OPEN,2025-06-05T20:20:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8654kma,60712,chore: update to specific asserts project euler problems 1-10,CLOSED,2025-06-04T17:48:21Z,2025-06-05T19:03:08Z,Vishal-Telukula,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8654mhh,60713,chore: update asserts in workshop cat painting steps 75-77,CLOSED,2025-06-04T17:51:42Z,2025-06-05T16:57:07Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865qfJu,60691,Adding popular auth options directly in the lading page,OPEN,2025-06-03T18:00:37Z,,,freeCodeCamp,freeCodeCamp
@@ -232,12 +240,3 @@ I_kwDOAbI7X861gEei,60207,Update test of Cat Photo App Step 17 to trim whitespace
 I_kwDOAbI7X86zpW8_,59923,No indication of the tests running,CLOSED,2025-04-23T13:10:20Z,2025-05-08T09:49:09Z,a2937,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861mfDo,60216,A missing sign in the cource,CLOSED,2025-05-07T17:58:25Z,2025-05-08T08:47:31Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86z5zAK,59974,update cafe menu tests to use specific asserts steps 66-78,CLOSED,2025-04-24T19:36:16Z,2025-05-08T07:50:57Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861mhWY,60217,Remove sentence in transcript for HTML boilerplate lecture,CLOSED,2025-05-07T18:02:25Z,2025-05-07T23:17:59Z,anuplohar001,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861g79u,60209,update cat painting workshop to use specific assert methods step 33,CLOSED,2025-05-07T09:18:37Z,2025-05-07T20:33:13Z,Sir-En00n3,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861h4MW,60213,Typo in English challenge,CLOSED,2025-05-07T10:50:59Z,2025-05-07T19:22:37Z,anuplohar001,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ys67W,59752,Add set 2 of questions for CSS Typography Quiz,CLOSED,2025-04-16T02:03:57Z,2025-05-07T19:11:45Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ys4Sz,59750,Add set 2 of questions for CSS layout and effects quiz,CLOSED,2025-04-16T01:58:57Z,2025-05-07T18:59:38Z,Supravisor;jdwilkin4,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861YClG,60189,build a calculator can be hardcoded,CLOSED,2025-05-06T14:07:47Z,2025-05-07T14:54:24Z,Averand1,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861hR-i,60211,test,CLOSED,2025-05-07T09:49:03Z,2025-05-07T09:53:20Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861e9Dq,60203,Clarify order of operations in add-items-to-an-array-with-push-and-unshift.md description,CLOSED,2025-05-07T06:03:26Z,2025-05-07T08:45:33Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861e56d,60202,Fix typo in add-items-to-an-array-with-push-and-unshift.md description,CLOSED,2025-05-07T05:56:44Z,2025-05-07T06:02:30Z,,freeCodeCamp,freeCodeCamp
