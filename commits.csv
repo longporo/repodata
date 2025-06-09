@@ -1,4 +1,5 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+f4121968e4d2d4e94baf7a8416748a989eaddf4c,refactor: move superblock folder maps to config (#60714),2025-06-08T14:01:16Z,6,176,moT01,freeCodeCamp,freeCodeCamp
 4912a0aac5f7826bff9a78c01a88498e6954e55e,fix(curriculum): discrepancy in Build a Curriculum Outline (#60762),2025-06-07T20:03:03Z,2,4,dev-kamil,freeCodeCamp,freeCodeCamp
 90bac7239d2b5b41b45359bad0686ca85f610968,chore: update tests to use specific asserts in project euler problems…,2025-06-07T20:00:49Z,10,20,zenocross,freeCodeCamp,freeCodeCamp
 bbda50ed0d1b6f7aba29f4a3028b7eeead8463fb,fix(client): typo in top contributer badge component (#60765),2025-06-07T19:36:43Z,2,10,forge34,freeCodeCamp,freeCodeCamp
@@ -234,10 +235,3 @@ faa6dd7db86d466e850439e71f0af5bb7598ec91,fix(curriculum): correct typo in Todo A
 6fc87117118f6f6651c7c70e9a256ee7100be711,fix(curriculum): use assert.equal in cat painting workshop (#60242),2025-05-09T06:28:36Z,2,14,tanush29,freeCodeCamp,freeCodeCamp
 0dfda08a35f1b3554e2ed2f998767a229111123a,fix(curriculum): add test for href attribute in cat photo app (#60176),2025-05-09T05:54:58Z,1,15,Supravisor,freeCodeCamp,freeCodeCamp
 33cd29513e0c0fa5e3101f903e5fff4833733a37,chore(curriculum):remove stray forumTopicId from lab (#60240),2025-05-09T03:52:30Z,1,1,waleCloud,freeCodeCamp,freeCodeCamp
-64f566e6931d406417f6e1819b607f2423eda0d3,fix(curriculum): blank indicators in English challenges (#60236),2025-05-08T19:48:17Z,3,6,huyenltnguyen,freeCodeCamp,freeCodeCamp
-43754128c2e10c9bb3a72c0d68dcc12b94d86612,feat(curriculum): adding python loops and sequences quiz questions (#…,2025-05-08T16:41:31Z,1,283,jdwilkin4,freeCodeCamp,freeCodeCamp
-d08fe7c653475a751402f1f4a28ac78a7a08383b,fix(curriculum): remove pseudo class from business card lab (#60171),2025-05-08T15:55:36Z,1,16,Supravisor,freeCodeCamp,freeCodeCamp
-074e310b8269720219753d59042a6d46ef6bd022,fix(curriculum): add trim to remove whitespaces in url (#60226),2025-05-08T10:26:41Z,1,2,Ajay-2005,freeCodeCamp,freeCodeCamp
-a169c2a7b1639b79603b174d9b287f0075e789eb,chore(api): remove oldschema.prisma (#60227),2025-05-08T09:57:47Z,1,1101,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-a73ecf2aead8b1e882f759e743675d07b6cb3f62,feat(ui): test indicator icon (#60049),2025-05-08T09:49:08Z,3,71,a2937,freeCodeCamp,freeCodeCamp
-27018424868788166a245b7b4e228c41b70a9c0c,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-05-08T07:50:56Z,9,49,clarencepenz,freeCodeCamp,freeCodeCamp
