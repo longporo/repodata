@@ -1,4 +1,11 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X866etyU,60783,should all events dispatched bubble up?,OPEN,2025-06-08T18:50:01Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866dxcO,60778,Quiz Webpage: Step 40,OPEN,2025-06-08T13:45:30Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866eoAx,60782,elmouselhyaboshamia@gmail.com,CLOSED,2025-06-08T18:13:23Z,2025-06-08T18:23:09Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866en9B,60781,elmouselhyaboshamia@gmail.com,CLOSED,2025-06-08T18:13:03Z,2025-06-08T18:22:57Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866d2MW,60780,"""Build a Markdown to HTML converter"" -- unclear instruction",OPEN,2025-06-08T14:11:18Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X865W_bs,60661,"Excessive RAM usage in Safari (MacOS 15.5, M2)",CLOSED,2025-06-02T11:40:54Z,2025-06-05T12:48:25Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866TT4h,60751,Grammar error in fCC Authors Page - step 12,OPEN,2025-06-06T19:00:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866aSMv,60776,Sprite / loading screen for dark mode?,OPEN,2025-06-07T20:10:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866aQH6,60775,Automated Security Findings for README,CLOSED,2025-06-07T20:00:25Z,2025-06-07T20:05:28Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866Hi-f,60733,Minor discrepancy in instructions for Step 6 of Certified Full Stack Developer - Basic HTML - Build a Curriculum Outline,CLOSED,2025-06-05T20:20:06Z,2025-06-07T20:03:04Z,dev-kamil,freeCodeCamp,freeCodeCamp
@@ -15,7 +22,6 @@ I_kwDOAbI7X866Ss0N,60746,Use `md` for plain text code blocks,CLOSED,2025-06-06T1
 I_kwDOAbI7X866Wewb,60758,blank issue1,CLOSED,2025-06-07T04:53:13Z,2025-06-07T06:57:02Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866I4yo,60737,Misplaced feedback in Learn Greetings in Your First Day at the Office - Task 3,CLOSED,2025-06-05T22:34:13Z,2025-06-06T20:37:57Z,sharon1999,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866TUVi,60752,Superhero application form - requiring implicit return in `onChange` function,OPEN,2025-06-06T19:01:22Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866TT4h,60751,Grammar error in fCC Authors Page - step 12,OPEN,2025-06-06T19:00:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866TNNZ,60750,Superhero application form - elusive `value` attribute on first option,OPEN,2025-06-06T18:49:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86ytAfG,59755,Add set 2 of questions for CSS Variables quiz,CLOSED,2025-04-16T02:19:27Z,2025-06-06T17:23:34Z,Omar8345;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866Rq5h,60744,Certified Full Stack Developer Curriculum: Build a Curriculum Outline,CLOSED,2025-06-06T15:58:38Z,2025-06-06T16:02:42Z,,freeCodeCamp,freeCodeCamp
@@ -29,7 +35,6 @@ I_kwDOAbI7X864mNYO,60562,Update the certification map to increase conversion to 
 I_kwDOAbI7X8654kma,60712,chore: update to specific asserts project euler problems 1-10,CLOSED,2025-06-04T17:48:21Z,2025-06-05T19:03:08Z,Vishal-Telukula,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8654mhh,60713,chore: update asserts in workshop cat painting steps 75-77,CLOSED,2025-06-04T17:51:42Z,2025-06-05T16:57:07Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865qfJu,60691,Adding popular auth options directly in the lading page,OPEN,2025-06-03T18:00:37Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865W_bs,60661,"Excessive RAM usage in Safari (MacOS 15.5, M2)",CLOSED,2025-06-02T11:40:54Z,2025-06-05T12:48:25Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861ts0c,60230,Forum login message,OPEN,2025-05-08T11:09:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865rAUQ,60692,Update questions for set 2 of semantic HTML quiz,OPEN,2025-06-03T18:44:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865ytFM,60704,multifile editor accessiblity issues,CLOSED,2025-06-04T09:05:51Z,2025-06-05T11:35:08Z,,freeCodeCamp,freeCodeCamp
@@ -234,9 +239,3 @@ I_kwDOAbI7X8615Lub,60248,"Typo in the ""How Do You Add Attributes with setAttrib
 I_kwDOAbI7X861MY3S,60160,update cat painting workshop to use specific assert methods step 34-35,CLOSED,2025-05-05T14:45:28Z,2025-05-09T06:28:38Z,tanush29,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861PTNH,60172,Cat Photo 17 passes without href,CLOSED,2025-05-05T19:58:47Z,2025-05-09T05:54:59Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861g5oD,60208,stray forumTopicId in lab,CLOSED,2025-05-07T09:15:30Z,2025-05-09T03:52:32Z,Wale Ayandiran (walecloud),freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8603Drm,60106,Update import/export react lecture video to include multiple ways for imports and exports,OPEN,2025-05-01T17:30:10Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861N6ft,60166,Remove user stories and tests for pseudo classes in business card lab,CLOSED,2025-05-05T17:28:58Z,2025-05-08T15:55:37Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861gEei,60207,Update test of Cat Photo App Step 17 to trim whitespaces,CLOSED,2025-05-07T08:06:55Z,2025-05-08T10:26:43Z,Ajay-2005,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zpW8_,59923,No indication of the tests running,CLOSED,2025-04-23T13:10:20Z,2025-05-08T09:49:09Z,a2937,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861mfDo,60216,A missing sign in the cource,CLOSED,2025-05-07T17:58:25Z,2025-05-08T08:47:31Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z5zAK,59974,update cafe menu tests to use specific asserts steps 66-78,CLOSED,2025-04-24T19:36:16Z,2025-05-08T07:50:57Z,clarencepenz,freeCodeCamp,freeCodeCamp
