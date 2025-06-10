@@ -1,4 +1,13 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+a9dc3bdeef781da2a7c3dbbb367eb46eba27306b,chore(api): add user's id to errors sent to Sentry (#60725),2025-06-09T20:21:02Z,1,11,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+892843f6d12b6eb0b2c851b5c90ebc73bab6632a,fix(curriculum): grammar and wording in multiple challenges (#60784),2025-06-09T18:30:12Z,3,8,dev-kamil,freeCodeCamp,freeCodeCamp
+78fbc36f7d9f3c073b75c5458a4c1b087f72bdf2,feat/replace-shop-url (#58281),2025-06-09T18:06:16Z,11,22,ahmaxed,freeCodeCamp,freeCodeCamp
+2aba3ebc2663ee69cdc40d787cb8db2f2b4f27db,fix(curriculum): fCC authors page - minor improvements (#60638),2025-06-09T16:47:20Z,7,38,dev-kamil,freeCodeCamp,freeCodeCamp
+3048a5a91d1f93db72e2f464759444189b5f68f1,chore(curriculum): backticks for OOP in Programming Vocabulary (#60786),2025-06-09T16:34:13Z,8,48,Supravisor,freeCodeCamp,freeCodeCamp
+371dcd512e6f927c2988dc7b66312e36f5fc2c4f,chore(curriculum): fixed misspelled variable names (#60789),2025-06-09T16:31:49Z,1,6,clarencepenz,freeCodeCamp,freeCodeCamp
+a3508054e24c29298756725239cd214b4cd541e5,"chore(i18n,client): processed translations (#60791)",2025-06-09T15:59:49Z,20,1016,camperbot,freeCodeCamp,freeCodeCamp
+8cb9550897a53146d05c6bc1ec6b01fe3883702f,"chore(i18n,learn): update i18n-curriculum submodule (#60792)",2025-06-09T15:59:24Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+55c94cc77dd782e8d03a293770f4cfa9744eb981,fix(curriculum): correct grammar in FCC authors page challenge (#60773),2025-06-09T11:18:41Z,2,4,atithi4dev,freeCodeCamp,freeCodeCamp
 f4121968e4d2d4e94baf7a8416748a989eaddf4c,refactor: move superblock folder maps to config (#60714),2025-06-08T14:01:16Z,6,176,moT01,freeCodeCamp,freeCodeCamp
 4912a0aac5f7826bff9a78c01a88498e6954e55e,fix(curriculum): discrepancy in Build a Curriculum Outline (#60762),2025-06-07T20:03:03Z,2,4,dev-kamil,freeCodeCamp,freeCodeCamp
 90bac7239d2b5b41b45359bad0686ca85f610968,chore: update tests to use specific asserts in project euler problems…,2025-06-07T20:00:49Z,10,20,zenocross,freeCodeCamp,freeCodeCamp
@@ -227,11 +236,3 @@ faa6dd7db86d466e850439e71f0af5bb7598ec91,fix(curriculum): correct typo in Todo A
 7e966906dbae4a813839ca86697defa7b2171731,fix(curriculum): Update the description in python password generator …,2025-05-10T22:08:55Z,1,2,Ajay-2005,freeCodeCamp,freeCodeCamp
 222f0852dbf774058af95f172bf3f42c87e8ec8d,fix(curriculum): updated cat-painting-workshop steps 42-43 to specifi…,2025-05-10T09:40:49Z,2,10,rirocodes,freeCodeCamp,freeCodeCamp
 7144b0433348dc566e4782c2f0906516d4813610,fix(curriculum): correct 'asnwer' to 'answer' in English challenges (…,2025-05-10T07:28:38Z,2,4,VisibleNasir,freeCodeCamp,freeCodeCamp
-0a0eefb6f903383284a5ee0bbea7a5e0502eb8d9,fix(curriculum): update default browser styles lecture (#60260),2025-05-09T23:41:58Z,1,2,estefaniacn,freeCodeCamp,freeCodeCamp
-070f9c70f5bbd424cf2e6118f2e892995ba719d8,fix(curriculum): correct grammar in feature description ('request it'…,2025-05-09T18:41:58Z,1,2,Meenakshi-Marree,freeCodeCamp,freeCodeCamp
-01722e62a75197509824d829e4b2c61ece12b6b3,chore(curriculum): Update user stories and description for the multim…,2025-05-09T16:29:44Z,1,25,ArakhshQ,freeCodeCamp,freeCodeCamp
-053a6072d4781061261ef57f728d7cad28645238,"fix(curriculum): correct grammar in transcript (""you"" → ""you're"") (#6…",2025-05-09T16:22:38Z,1,2,vishnudt2004,freeCodeCamp,freeCodeCamp
-7ffadd053070a853863cdcb63a4a6c56cfaa1114,feat(curriculum): add polygon area calculator lab (#59460),2025-05-09T12:37:44Z,5,908,zairahira,freeCodeCamp,freeCodeCamp
-6fc87117118f6f6651c7c70e9a256ee7100be711,fix(curriculum): use assert.equal in cat painting workshop (#60242),2025-05-09T06:28:36Z,2,14,tanush29,freeCodeCamp,freeCodeCamp
-0dfda08a35f1b3554e2ed2f998767a229111123a,fix(curriculum): add test for href attribute in cat photo app (#60176),2025-05-09T05:54:58Z,1,15,Supravisor,freeCodeCamp,freeCodeCamp
-33cd29513e0c0fa5e3101f903e5fff4833733a37,chore(curriculum):remove stray forumTopicId from lab (#60240),2025-05-09T03:52:30Z,1,1,waleCloud,freeCodeCamp,freeCodeCamp
