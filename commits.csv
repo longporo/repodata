@@ -1,4 +1,17 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+18e2f919c2dd2ef16ade00ec2cc3a28f0ebd1eca,fix(curriculum): correct class name typo in nutrition label step 8 (#…,2025-06-11T21:27:56Z,2,4,raman976,freeCodeCamp,freeCodeCamp
+b858d29e4c4e96c371647169f0a9cccd21df1d84,feat: add test for specific behaviour (#60828),2025-06-11T21:03:19Z,1,20,ilenia-magoni,freeCodeCamp,freeCodeCamp
+369cc96d99bbced0b96cd145c8ff35ebe9ec9e05,fix(curriculum): replace comma with period in task 49 description (#6…,2025-06-11T17:40:27Z,1,2,hema312006,freeCodeCamp,freeCodeCamp
+33f482b4016dd0fd516d8747a2e22cff4012b705,"chore(i18n,learn): update i18n-curriculum submodule (#60832)",2025-06-11T17:22:12Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+af63409ce6d73ed3a6338f251744a5fde5a98a39,"chore(i18n,client): processed translations (#60830)",2025-06-11T15:18:03Z,20,220,camperbot,freeCodeCamp,freeCodeCamp
+2fa1597bbeacbc56e09c3f762dce538db42fd98c,feat(curriculum): release react + perfomance + testing FSD modules (#…,2025-06-11T14:38:00Z,25,78,moT01,freeCodeCamp,freeCodeCamp
+82a732e9a39ce49fa7f341b52e85a0ea41c22c90,feat(curriculum): add second set of quiz questions for Responsive Web…,2025-06-11T14:23:34Z,1,441,saif814,freeCodeCamp,freeCodeCamp
+342a4ccf22b670cd459181b42c7222f2277a5094,chore: rename workflow files (#60826),2025-06-11T09:48:00Z,2,0,raisedadead,freeCodeCamp,freeCodeCamp
+e2c26a51222607426b1f9e2109b8d89b20d38b89,chore(curriculum): replace assert calls in cat painting steps 78-80 (…,2025-06-11T09:26:26Z,3,12,ChaplainRafael,freeCodeCamp,freeCodeCamp
+17edc313210a3831cd67854bc9198ac3251d88cd,"chore(curriculum): update steps 2,8,9,10 of cat painting workshop to …",2025-06-11T08:58:30Z,4,20,ric-projects,freeCodeCamp,freeCodeCamp
+66bc604bd759d45830690ce898a4c1ca42ff022d,fix(external curricula): use strings for superblock stages (#60813),2025-06-11T07:51:23Z,2,73,huyenltnguyen,freeCodeCamp,freeCodeCamp
+b9ee08ac58fb38270cf7ac7c693ba124c3932b54,chore(curriculum): update cat painting steps 11-14 to use specific as…,2025-06-11T07:10:34Z,4,38,mosse692,freeCodeCamp,freeCodeCamp
+998185448a47930ee3e4f4bd2648eb0fd44fe723,fix(curriculum): missing space between backtick and parenthesis (#60822),2025-06-11T04:15:37Z,3,6,dev-kamil,freeCodeCamp,freeCodeCamp
 94f3728e766110881e7390e3aba91cb6e90866b8,Fix(curriculum): remove index key. (#60779),2025-06-10T18:50:28Z,9,40,StephenMuya,freeCodeCamp,freeCodeCamp
 e8e01133fc7765428b7639a40d26ecae87478835,fix(a11y): update PrismFormatted usage for quiz question text (#60799),2025-06-10T17:57:08Z,1,4,ashish-2106,freeCodeCamp,freeCodeCamp
 f3c45444e933005fe86b05b1b4c2267812f32772,fix(curriculum): allow for more new lines in code (#60694),2025-06-10T17:53:24Z,11,94,Rice-Cameron,freeCodeCamp,freeCodeCamp
