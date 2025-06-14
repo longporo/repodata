@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+caca12108e962827ab1e450fee5b74c89f3bd729,feat(client): add coming soon module intros (#60863),2025-06-14T00:51:43Z,10,980,moT01,freeCodeCamp,freeCodeCamp
+6663275117953e4cf3d6b10d968ea77b5906ccb4,fix(client): add dom fallback runner (#60861),2025-06-13T22:06:40Z,1,32,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+e495e385cae2b68f68e84f02d8fac8b937915aff,feat(curriculum): Add second quiz set for design fundamentals (#60631),2025-06-13T20:19:03Z,1,442,abhilashini,freeCodeCamp,freeCodeCamp
+29e2622d04a4044ff30514f96b934cb6d0c7f5de,chore(curriculum): add introduction to python transcripts (#60729),2025-06-13T15:53:56Z,15,2091,zairahira,freeCodeCamp,freeCodeCamp
+19963dd6ab94ee62aab1e111cff205a63f2748dc,fix: improve step 2 instruction and fix indentation in profile card w…,2025-06-13T14:46:37Z,1,4,shreyakaushal180,freeCodeCamp,freeCodeCamp
+c052649ece2503c7456646ce87e2e17d9c8d6cd7,fix: improve hint text for Moon Orbit lab (#60850),2025-06-13T10:11:39Z,1,2,shruti-cpp,freeCodeCamp,freeCodeCamp
+4cca004fb8ed4c428325054deaeb7789b0cb66df,fix(curriculum): add explanation of name attribute to review pages (#…,2025-06-13T08:21:17Z,2,10,TrevorBrowning,freeCodeCamp,freeCodeCamp
 86b9cd12a0678eea972aca1009683ed2dcc25eba,chore(curriculum): change to US spelling (#60839),2025-06-12T22:50:43Z,11,66,clarencepenz,freeCodeCamp,freeCodeCamp
 a1364295efcb509813daf1322ece08503e7b716a,fix(curriculum): inconsistent value attribute between steps 9 to 12 i…,2025-06-12T16:32:04Z,2,25,vishnudt2004,freeCodeCamp,freeCodeCamp
 db71360fda20843626d04d1c4f6bdf7462b92564,"fix(curriculum):update cat painting steps 66,67,69,70 to use specific…",2025-06-12T16:15:59Z,4,28,asabahebwa,freeCodeCamp,freeCodeCamp
@@ -248,8 +255,3 @@ c8d20d01063ab909be68b5df18749cc8f6f407b9,fix(curriculum): typos in workshop supe
 18cb51dffb3e3434ae0718909715ff7c0a293895,fix(curriculum): fix paragraph test for event hub lab (#60156),2025-05-14T09:07:18Z,1,7,Supravisor,freeCodeCamp,freeCodeCamp
 2d7011f5a3a06bcb3f5d7cf2b95c787685c71be0,fix(curriculum): feedback in Clarify Information step 73 (#60316),2025-05-14T08:02:38Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 cd94560ee554d25d063eba375dd18c4088c77130,fix(curriculum): allow both single and double quotes in fcc Forum Lea…,2025-05-14T01:48:41Z,1,12,ilenia-magoni,freeCodeCamp,freeCodeCamp
-9e61f27b94e0f9ad200495758d917cdfef710b95,feat(curriculum): add Block 18 of the B1 stage of the English Curricu…,2025-05-13T20:55:46Z,130,13337,DanielRosa74,freeCodeCamp,freeCodeCamp
-eeeeb034ec4191b037ece419de8feae86416bacb,fix(api): deduplicating objects in logs (#60319),2025-05-13T15:10:49Z,1,101,raisedadead,freeCodeCamp,freeCodeCamp
-75712748ddb105e2af8c4957fba1111bd4878fc4,feat: FOSS funding (#60313),2025-05-13T13:47:41Z,2,137,Nirajn2311,freeCodeCamp,freeCodeCamp
-fe3465bdd584f3b5f9bb2e7a42f87c1fe176e5ca,feat(curriculum): add hash table lab (#59545),2025-05-13T09:15:33Z,5,430,zairahira,freeCodeCamp,freeCodeCamp
-683c0c3fd667cf84dc61199ee81313903e48adf3,fix(curriculum): typo in workshop superhero application form step 19 …,2025-05-13T08:11:45Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
