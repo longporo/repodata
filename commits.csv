@@ -1,4 +1,6 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+579e9cf69cfedd22f8f6e3f005518823b1c4be67,chore(curriculum): add redirects to lecture blocks (#60581),2025-06-14T15:53:44Z,1,60,a2937,freeCodeCamp,freeCodeCamp
+9330916a553a117b807af01a5e0e545906831ac8,chore(client): remove alert notes from legacy block pages (#60872),2025-06-14T10:15:28Z,2,12,VanshDagar27,freeCodeCamp,freeCodeCamp
 caca12108e962827ab1e450fee5b74c89f3bd729,feat(client): add coming soon module intros (#60863),2025-06-14T00:51:43Z,10,980,moT01,freeCodeCamp,freeCodeCamp
 6663275117953e4cf3d6b10d968ea77b5906ccb4,fix(client): add dom fallback runner (#60861),2025-06-13T22:06:40Z,1,32,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 e495e385cae2b68f68e84f02d8fac8b937915aff,feat(curriculum): Add second quiz set for design fundamentals (#60631),2025-06-13T20:19:03Z,1,442,abhilashini,freeCodeCamp,freeCodeCamp
@@ -241,17 +243,3 @@ cd8afa660811f4b2935541a5aad869d03bd64d83,fix(curriculum): remove misleading exam
 dc911fd430445cf986c42410602c821868ffa43f,refactor(curriculum): remove after-user-code basic algorithms (#60332),2025-05-15T07:54:59Z,1,13,a2937,freeCodeCamp,freeCodeCamp
 1b499fb4ab5bb4bc9a062ecc8c4ad0373f77ed1d,refactor(curriculum): remove after-user-code basic data structures (#…,2025-05-15T07:19:38Z,1,37,a2937,freeCodeCamp,freeCodeCamp
 3531f0296360f335c5e3da0dd9dbcb93e3e24bbc,fix(curriculum): split up test in lab job application form (#60350),2025-05-15T02:09:32Z,1,14,clarencepenz,freeCodeCamp,freeCodeCamp
-fa1577e8327106c8f90683701e19601e7a3146ce,feat(curriculum): adding frontend libraries chapter review page (#59951),2025-05-14T21:17:26Z,2,1729,jdwilkin4,freeCodeCamp,freeCodeCamp
-6c9f5a9bbe74ebe0bbfb6b0ad32442c0b1342d37,fix(curriculum): improve Crowdin compatibility for workshop-city-skyl…,2025-05-14T20:43:00Z,2,4,vkalakota18,freeCodeCamp,freeCodeCamp
-826930b48548e4e2fafea0eb0bf25896ea53c4fe,fix(curriculum): improve Crowdin compatibility for lecture-what-is-cs…,2025-05-14T20:42:19Z,1,8,vkalakota18,freeCodeCamp,freeCodeCamp
-f606e19a1ad394e7c35f688b0aef07d7df169a70,feat(client): truncate long logs in the client rather than test evalu…,2025-05-14T20:16:31Z,6,46,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-b629884fea5a96d66ec5f3a7a4f309b668654e6c,fix(curriculum): updated description for taskData retrieval from loca…,2025-05-14T19:46:14Z,1,2,Averand1,freeCodeCamp,freeCodeCamp
-81502125dda1bc9c41c8dc55cb2d55766d498a33,fix: update location.hash when following links in preview (#60343),2025-05-14T18:59:56Z,1,6,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-b772485fe637500b69a38111115e8b54f20581d4,chore(curriculum): update assertions in cat painting workshop steps 3…,2025-05-14T17:18:18Z,2,16,HaheeBahee,freeCodeCamp,freeCodeCamp
-e8b8bb7a8ed5b66cbfafd356434b34fd7f394fde,chore(curriculum): Remove Legacy JS Caesars Cipher ID (#60342),2025-05-14T15:54:27Z,1,5,zairahira,freeCodeCamp,freeCodeCamp
-c150748ac841318374483c15e706a89f91db4935,fix: dispatch input event for textarea (#60107),2025-05-14T13:46:59Z,1,4,ShauryaDusht,freeCodeCamp,freeCodeCamp
-f50fc7ca1d5380504d1f84ad0a7ca2ef17141a8d,"chore(i18n,client): processed translations (#60344)",2025-05-14T13:33:41Z,10,130,camperbot,freeCodeCamp,freeCodeCamp
-c8d20d01063ab909be68b5df18749cc8f6f407b9,fix(curriculum): typos in workshop superhero application form (#60339),2025-05-14T13:08:20Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
-18cb51dffb3e3434ae0718909715ff7c0a293895,fix(curriculum): fix paragraph test for event hub lab (#60156),2025-05-14T09:07:18Z,1,7,Supravisor,freeCodeCamp,freeCodeCamp
-2d7011f5a3a06bcb3f5d7cf2b95c787685c71be0,fix(curriculum): feedback in Clarify Information step 73 (#60316),2025-05-14T08:02:38Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-cd94560ee554d25d063eba375dd18c4088c77130,fix(curriculum): allow both single and double quotes in fcc Forum Lea…,2025-05-14T01:48:41Z,1,12,ilenia-magoni,freeCodeCamp,freeCodeCamp
