@@ -1,4 +1,8 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+00bbcd2ea9ae597a6619507fc3bcad078c6a992a,fix(a11y): hide dumbbell icon from screen readers (#60884),2025-06-15T20:50:30Z,1,1,igor570,freeCodeCamp,freeCodeCamp
+f0bb5dd74014e8ceef9cedeccb440e0ac1677b59,refactor(client): update OfflineWarning to use Alert and Spacer compo…,2025-06-15T19:27:56Z,1,7,Sky-walkerX,freeCodeCamp,freeCodeCamp
+c10c38e63327fed0c687fa1434cda3e9c3529249,fix(curriculum): renamed forecast->weather in Build a Weather App (#6…,2025-06-15T15:03:44Z,1,58,dev-kamil,freeCodeCamp,freeCodeCamp
+44e734398f697f583ec81e12b894d6467173715e,fix(env): remove unused keys (#60878),2025-06-15T13:46:30Z,2,7,raisedadead,freeCodeCamp,freeCodeCamp
 579e9cf69cfedd22f8f6e3f005518823b1c4be67,chore(curriculum): add redirects to lecture blocks (#60581),2025-06-14T15:53:44Z,1,60,a2937,freeCodeCamp,freeCodeCamp
 9330916a553a117b807af01a5e0e545906831ac8,chore(client): remove alert notes from legacy block pages (#60872),2025-06-14T10:15:28Z,2,12,VanshDagar27,freeCodeCamp,freeCodeCamp
 caca12108e962827ab1e450fee5b74c89f3bd729,feat(client): add coming soon module intros (#60863),2025-06-14T00:51:43Z,10,980,moT01,freeCodeCamp,freeCodeCamp
@@ -226,20 +230,3 @@ ed83b544e97bd9eb0d7940cf910846473a460dfb,chore(curriculum): update cat painting 
 3a146ec946d14ea0adab665de90e597a0cd75fb8,chore(api): add more auth0 plugin logs (#60398),2025-05-16T10:47:47Z,1,6,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 a7b0e90f283a3811d581cf397c80540edc874655,fix(gha): remove unused files from checks (#60380),2025-05-16T08:25:58Z,1,3,raisedadead,freeCodeCamp,freeCodeCamp
 54a1024815e45acc92f6ef117f6a9f33344cff34,fix(curriculum): cleanup quiz questions for relational database quiz …,2025-05-16T06:18:37Z,1,33,jdwilkin4,freeCodeCamp,freeCodeCamp
-e149f7514fe6abe1323b17c81e724a2ca4526da7,feat(curriculum): Add A2 Spanish Outline (#60303),2025-05-15T19:47:26Z,24,272,nieldakarla,freeCodeCamp,freeCodeCamp
-186ccf260264eeb2c94690da5f383e829573ed74,fix(gha): do not cancel for main/prod branches (#60383),2025-05-15T18:46:46Z,3,17,raisedadead,freeCodeCamp,freeCodeCamp
-c37af5001bd19b45de09591efcb7b6e541084920,refactor(curriculum): remove after-user-code javascript 22 (#60338),2025-05-15T15:29:19Z,5,168,a2937,freeCodeCamp,freeCodeCamp
-4c6faf9e6d126fcbfaee52eabae9b3480bff0877,fix(curriculum): update challengeType in multimedia player lab (#60377),2025-05-15T15:18:51Z,1,2,jan-code26,freeCodeCamp,freeCodeCamp
-490cb9617b3cb803ab7fdde669ac6e360392ed6e,fix(curriculum): typo in B1 express agreement (#60206),2025-05-15T15:02:27Z,6,20,Supravisor,freeCodeCamp,freeCodeCamp
-deac38a1dbc5a867ce418f0beb0f6613a1ff362f,feat(Curriculum): add movie review page lab (#59597),2025-05-15T14:41:51Z,5,254,larymak,freeCodeCamp,freeCodeCamp
-c4af9f42e903e3f98ff402132f90c9b5dbe155b4,fix(curriculum): typo in css typography quiz (#60374),2025-05-15T14:31:41Z,1,2,salkamosesdb,freeCodeCamp,freeCodeCamp
-7d420d9214f28229a05da26e44415dfae0805446,fix(api): change csrf logLevel (#60371),2025-05-15T14:12:29Z,2,4,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-7e76946a07a4628920e97b9c615ee022d04dbb99,fix(api): sending incorrect object in log (#60372),2025-05-15T14:02:25Z,1,8,raisedadead,freeCodeCamp,freeCodeCamp
-e06c563a51eb8e0fca395279ecf5e61dc5e86ce3,fix(curriculum): typo in learn about adverbial phrases task 39 (#60364),2025-05-15T13:54:19Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-ece81bdca2e9839c0a1ec20c3b2bed6999eaa5e3,fix(curriculum): element references in Storytelling App (#60369),2025-05-15T13:51:06Z,5,12,huyenltnguyen,freeCodeCamp,freeCodeCamp
-a22577eaa6024d667cd9f0fe9833e49a6cd5322d,"fix(curriculum): incorrect spelling of ""preferrable"" to preferable (#…",2025-05-15T11:07:59Z,1,2,Giftea,freeCodeCamp,freeCodeCamp
-cd8afa660811f4b2935541a5aad869d03bd64d83,fix(curriculum): remove misleading example in recipe-ingredint-conver…,2025-05-15T10:28:43Z,1,8,Ajay-2005,freeCodeCamp,freeCodeCamp
-46326d54c711c8d220ec25d1147a57e50a835bbf,fix(curriculum): reword description to element in Storytelling App (#…,2025-05-15T10:10:45Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-dc911fd430445cf986c42410602c821868ffa43f,refactor(curriculum): remove after-user-code basic algorithms (#60332),2025-05-15T07:54:59Z,1,13,a2937,freeCodeCamp,freeCodeCamp
-1b499fb4ab5bb4bc9a062ecc8c4ad0373f77ed1d,refactor(curriculum): remove after-user-code basic data structures (#…,2025-05-15T07:19:38Z,1,37,a2937,freeCodeCamp,freeCodeCamp
-3531f0296360f335c5e3da0dd9dbcb93e3e24bbc,fix(curriculum): split up test in lab job application form (#60350),2025-05-15T02:09:32Z,1,14,clarencepenz,freeCodeCamp,freeCodeCamp
