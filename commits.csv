@@ -1,4 +1,10 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+4f59955ea016f714aa8107fcdd324177b2dbeb6d,chore(client): removed alert-info class from global.css (#60897),2025-06-17T17:27:53Z,1,6,tanmaygautam11,freeCodeCamp,freeCodeCamp
+bb552574f6ff7d7c7209e4bc0fd0b7e62c8e7dde,fix(curriculum): modify description in Recipe Tracker workshop (#60886),2025-06-17T17:21:58Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+ec764ef7cbf03ef1e2f4e49d7ebc1b6a65234b9c,chore(curriculum): change to US spelling (#60852),2025-06-17T16:32:03Z,45,154,clarencepenz,freeCodeCamp,freeCodeCamp
+128c43b5ccc403859c8451083a142e8ff53484e0,fix(client): show ab test for fsd only (#60880),2025-06-17T12:16:07Z,1,5,ahmaxed,freeCodeCamp,freeCodeCamp
+852348e97459b76602c7917b8e675c8354bc3f86,chore(curriculum): add JS a11y module  (#60579),2025-06-17T10:14:51Z,8,541,jdwilkin4,freeCodeCamp,freeCodeCamp
+2e6c81bc6371cfe63bf4fd54e5e8e62dcf27ede5,feat(curriculum): add Block 21 of the B1 stage of the English Curricu…,2025-06-17T03:49:43Z,137,13999,DanielRosa74,freeCodeCamp,freeCodeCamp
 4888343d212f4a1f42d88c22d1a0f30ecae0de4a,"chore(i18n,learn): update i18n-curriculum submodule (#60896)",2025-06-16T16:11:29Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 f94571efd92c5156c1be5db641314e1b9ef5500d,fix(curriculum): combined sentences and added examples (#60858),2025-06-16T14:43:39Z,1,20,Cas-Romero,freeCodeCamp,freeCodeCamp
 4a2fad2c7d870de3b4bb230d6a05d750fe6c78e1,feat(curriculum): adding python basics review content (#59958),2025-06-16T10:17:04Z,2,867,jdwilkin4,freeCodeCamp,freeCodeCamp
@@ -220,4 +226,3 @@ ac2efd48778afb98b5a6079b6cdf48390219121e,fix(curriculum): remove validation stat
 e1ba767039f415d1a5652da72cb7dce605824c55,refactor(curriculum): remove after-user-code workshop rps (#60412),2025-05-19T10:00:02Z,1,16,a2937,freeCodeCamp,freeCodeCamp
 1a30174449c6e4dc79a4548d688814d54d19243f,fix(curriculum): add missing word in Programming Vocabulary (#60423),2025-05-19T08:02:35Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 6e2eaf0a3d3b6faf07c6678d43c8640757e85295,fix(curriculum): update workshop cat painting (#60414),2025-05-18T08:31:06Z,2,14,primovere,freeCodeCamp,freeCodeCamp
-990b862d41ff9ee95fd45cdbb80302286b12982b,chore(api): log duplicate account ids (#60405),2025-05-17T03:41:41Z,2,16,ShaunSHamilton,freeCodeCamp,freeCodeCamp
