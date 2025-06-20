@@ -1,8 +1,25 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X868bhTe,60938,Add note for JavaScript and A11y module,OPEN,2025-06-19T21:04:48Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86y2DdZ,59776,"Feature Request: ""Start Where You Left Off"" for Lessons",OPEN,2025-04-16T19:09:33Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868aams,60937,Build a Fruit Search App Step 15,CLOSED,2025-06-19T18:07:56Z,2025-06-19T18:37:07Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86lM1S6,57972,Inconsistency in the `completedDate` value returned,OPEN,2025-01-06T23:18:09Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868SO2n,60931,[Profile Card workshop] Step 4 not checking the return statement,OPEN,2025-06-19T04:37:16Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X867wFxE,60895,Create new language icons for Spanish and Chinese,OPEN,2025-06-16T13:05:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868XhkG,60934,"What Are Effects in React, and How Does the useEffect Hook Work? Video example",OPEN,2025-06-19T13:07:06Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86mUYIE,58161,Sentence Analyzer Small Confusions,OPEN,2025-01-15T16:56:41Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86lCvuZ,57921,Curriculum: Support teaching campers how to edit JSON files,CLOSED,2025-01-04T18:44:13Z,2025-06-19T15:32:34Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86k_3Fv,57918,Disable preview for labs that don't need them,CLOSED,2025-01-03T21:35:28Z,2025-06-19T15:20:11Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86k9SwL,57897,The `h1` element of review pages are smaller than the `h2` elements there,OPEN,2025-01-03T12:53:44Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86kobjV,57818,Consider saving the code for labs,OPEN,2024-12-29T01:19:34Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86kHZ22,57648,Creating a new Information Security Project - Web Vulnerability Scanner,CLOSED,2024-12-20T19:56:26Z,2025-06-19T15:04:28Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86kF6fU,57640,[bug] donation modal mostly empty,CLOSED,2024-12-20T15:59:04Z,2025-06-19T15:02:08Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86jPhOB,57518,Form validation and completion modal,CLOSED,2024-12-13T16:25:41Z,2025-06-19T14:58:53Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86htFzB,57391,Clean up challenge types,OPEN,2024-12-02T18:42:06Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X867OmZO,60847,The quiz for async/defer attributes includes a question with content not discussed in video/transcript,CLOSED,2025-06-12T18:00:26Z,2025-06-19T11:05:12Z,vishnudt2004,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X860p-l5,60083,Build a City Skyline Checks are Funky,OPEN,2025-04-30T10:49:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868QzEC,60929,Build a Color Picker App,CLOSED,2025-06-19T00:32:21Z,2025-06-19T00:57:01Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866XR28,60761,Build a Quiz Webpage - Step 24 with misguided instruction.,CLOSED,2025-06-07T07:46:03Z,2025-06-18T23:42:12Z,AishwaryaRajput09,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866vaPN,60811,chore: update tests to use specific asserts in cat paiting steps 71-74,CLOSED,2025-06-10T10:16:56Z,2025-06-18T21:36:08Z,ritsth,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X867OmZO,60847,The quiz for async/defer attributes includes a question with content not discussed in video/transcript,OPEN,2025-06-12T18:00:26Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8675UpO,60902,TOP: CSS Foundations Exercise C needs some updates,CLOSED,2025-06-17T07:21:32Z,2025-06-18T20:39:19Z,abhilashini,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8679I9d,60907,"""The Cascade of CSS"" lesson: CSS selector question gives incorrect answer based on code",OPEN,2025-06-17T12:42:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86ys5rt,59751,Add set 2 of questions for CSS Flexbox quiz,OPEN,2025-04-16T02:01:28Z,,,freeCodeCamp,freeCodeCamp
@@ -18,7 +35,6 @@ I_kwDOAbI7X867zr7N,60900,Job Application form should test that input and label a
 I_kwDOAbI7X866HVFV,60731,Tic-tac-toe lab - not checked diagonal win conditions,OPEN,2025-06-05T20:00:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867qClb,60889,Bug/Incorrect Code in Step 15-16 of Full-stack Curriculum -> Fruit Search App,CLOSED,2025-06-16T02:42:46Z,2025-06-18T04:34:46Z,ilenia-magoni;vishnudt2004,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868CyRn,60915,Learn localStorage by Building a Todo App - Step 51,CLOSED,2025-06-17T21:46:51Z,2025-06-18T00:40:43Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X867wFxE,60895,Create new language icons for Spanish and Chinese,OPEN,2025-06-16T13:05:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867c50R,60866,Remove `alert-info` class,CLOSED,2025-06-13T22:07:48Z,2025-06-17T17:27:54Z,tanmaygautam11,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867Ohv3,60846,Build a recipe tracker - step 7,CLOSED,2025-06-12T17:53:13Z,2025-06-17T17:21:59Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865rAUQ,60692,Update questions for set 2 of semantic HTML quiz,OPEN,2025-06-03T18:44:07Z,,,freeCodeCamp,freeCodeCamp
@@ -38,7 +54,7 @@ I_kwDOAbI7X867XRJZ,60853,Build a Weather App it's not a forecast,CLOSED,2025-06-
 I_kwDOAbI7X86dwajV,57113,Shortest-Path-Algorithm Challenge: Report with suggestions to improve the learning experience,OPEN,2024-11-10T01:58:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864o7i_,60567,Add redirects for moved challenges,CLOSED,2025-05-28T15:15:16Z,2025-06-14T15:53:45Z,a2937,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867heXg,60874,backend test runner does not set origin on fetch,OPEN,2025-06-14T12:41:21Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X867dCxh,60868,Remove browser extensions note from legacy block pages,CLOSED,2025-06-13T22:25:55Z,2025-06-14T10:15:29Z,VanshDagar27,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X867dCxh,60868,Remove browser extensions note from legacy block pages,CLOSED,2025-06-13T22:25:55Z,2025-06-14T10:15:29Z,GoldFoylee,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866nJm7,60795,Add warning when user attempts to close browser tab with unsaved privacy settings,OPEN,2025-06-09T16:39:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865M5cX,60646,Suggestion: Add example for responsive images in HTML challenges,CLOSED,2025-06-01T12:18:55Z,2025-06-02T08:23:34Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865M5PL,60644,Accessibility enhancement: Add missing alt text to documentation images,CLOSED,2025-06-01T12:18:15Z,2025-06-02T08:24:04Z,,freeCodeCamp,freeCodeCamp
@@ -204,7 +220,6 @@ I_kwDOAbI7X8620AhD,60387,User experience is not seamless,CLOSED,2025-05-15T18:31
 I_kwDOAbI7X863uqW5,60481,Typo in Help a Coworker Troubleshoot on GitHub - Task 22,CLOSED,2025-05-22T08:09:07Z,2025-05-23T04:50:49Z,qdow,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863rIzx,60476,Add extra tests to ensure campers remove the extra h1s in camperbot lab,CLOSED,2025-05-21T22:22:02Z,2025-05-22T16:18:19Z,a2937;moT01,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86V3xl6,56051,Teaching Global Variable (Ab)use,OPEN,2024-09-09T16:42:21Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86htFzB,57391,Clean up challenge types,OPEN,2024-12-02T18:42:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86hhhdL,57378,Remove `partiallyCompletedChallenges` and `savedChallenges` from /get-public-profile,OPEN,2024-12-01T21:39:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86fXvru,57237,UI Contrast During Lessons,CLOSED,2024-11-19T22:53:26Z,2025-05-22T15:15:10Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86cxsbm,57029,Issue with Exercise Accessibility on Mobile,CLOSED,2024-11-02T06:57:22Z,2025-05-22T15:03:07Z,LucasTStephens,freeCodeCamp,freeCodeCamp
@@ -222,11 +237,3 @@ I_kwDOAbI7X862nxqb,60352,translate.freecodecamp.org is inaccessible,CLOSED,2025-
 I_kwDOAbI7X863JgQu,60424,Learn How to Express Agreement - Task 71,CLOSED,2025-05-19T06:52:30Z,2025-05-20T19:48:09Z,IbrahimAl-Tawil,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86ytCMr,59757,Add set 2 of questions for CSS Animations quiz,CLOSED,2025-04-16T02:24:38Z,2025-05-20T12:49:26Z,aaqib605,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862CBzT,60266,"""Saved! Your code was saved to your browser's local storage."" - banner has no timeout, carries over when changing page",CLOSED,2025-05-10T10:02:54Z,2025-05-20T11:38:22Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86yiMm8,59725,Full stack HTML Accessibility Lab: Build a checkout page - exercise not in line with good ARIA practice,OPEN,2025-04-15T06:34:38Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862mtML,60349,Update questions for debugging techniques lecture,CLOSED,2025-05-14T15:56:24Z,2025-05-19T21:36:48Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863RXdH,60442,Add test for mobile superblocks?,CLOSED,2025-05-19T19:15:22Z,2025-05-19T21:22:13Z,huyenltnguyen;moT01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863G2g_,60422,Palindrome Checker tests passing when they shouldn't,CLOSED,2025-05-18T20:02:49Z,2025-05-19T07:58:09Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863L-jC,60428,Change `aria` to all caps,CLOSED,2025-05-19T10:36:50Z,2025-05-19T16:23:58Z,harshit960,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863KFEj,60426,"Typo in Workshop ""Build a Plant Nursery Catalog"" - Step 30",CLOSED,2025-05-19T07:46:00Z,2025-05-19T16:06:24Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863GAJ-,60421,Gitpod Part 2 SQL course: Reset disabled on final step,CLOSED,2025-05-18T13:50:58Z,2025-05-19T10:53:44Z,ShaunSHamilton;ojeytonwilliams,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861TPNc,60179,Remove validation status from feedback text,CLOSED,2025-05-06T06:54:48Z,2025-05-19T10:30:33Z,huyenltnguyen;neelesh-124,freeCodeCamp,freeCodeCamp
