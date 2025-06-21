@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+c983a1e576bcdb8055a759df2fd03e2b0a048862,fix: corrected swapped content lines in CSS layout quiz (#60958),2025-06-21T01:11:21Z,1,4,cipherzyvishu,freeCodeCamp,freeCodeCamp
+d46dd8a13f10e6a8ed06ca0fecc847d8468ced10,chore(curriculum): use specific assert methods in workshop tests step…,2025-06-20T17:34:42Z,3,30,manthansubhash01,freeCodeCamp,freeCodeCamp
+88e685ddca3a273650e92c3b24a5a76e11c1512a,fix(curriculum): allow for new lines in element text in Design a Movi…,2025-06-20T17:20:21Z,1,6,asabahebwa,freeCodeCamp,freeCodeCamp
+7091c5b0edeac4dfcd081cf495c5ffc4fc7c57ac,fix(UI): update to strictly equals (#60950),2025-06-20T16:10:34Z,1,2,DevDolphin7,freeCodeCamp,freeCodeCamp
+aa78ee52ae1d2d4ebfce7ec2c0570b76889c43cd,feat(curriculum): update lunch picker test to prevent mutation (#60145),2025-06-20T11:10:28Z,1,42,Ajay-2005,freeCodeCamp,freeCodeCamp
+3099a8844cedf9a5c953f10ac9c8e6fe24cca3ef,chore(curriculum): break up and reorganize HTML media lectures (#60930),2025-06-20T10:34:31Z,12,102,jdwilkin4,freeCodeCamp,freeCodeCamp
+3e64e45bc561837604218bb08a40ec6914247af3,fix(curriculum): missing note in JS A11y (#60940),2025-06-20T08:35:38Z,1,6,jdwilkin4,freeCodeCamp,freeCodeCamp
 11d22be2dd889e297a114b05922272933f060a88,fix(curriculum): replace unrelated HTML defer/async question with a n…,2025-06-19T11:05:11Z,1,16,vishnudt2004,freeCodeCamp,freeCodeCamp
 4a5bd91a52c2785edea16ea25c8db45b7b1dd3f9,fix(curriculum): update the tests and instructions of the step 24 wor…,2025-06-18T23:42:11Z,1,14,AishwaryaRajput09,freeCodeCamp,freeCodeCamp
 2783b7365184d2c37c84a51944690427969e57a7,chore(curriculum): update tests to use specific asserts in cat painti…,2025-06-18T21:36:07Z,4,20,ritsth,freeCodeCamp,freeCodeCamp
@@ -223,6 +230,3 @@ a008ad5152cdeac72a03bf694cf17097434b41d8,"chore(i18n,client): processed translat
 5e836cbdb429ac29359c16f2ced314c14302d9fe,dev(api): track sentry releases (#60444),2025-05-21T11:58:03Z,1,7,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 0f9c2705ef27a7d893099f7b143f0c1e1e6f9f45,chore(curriculum): update HTML chapter to address last issue found in…,2025-05-21T08:11:38Z,26,1002,jdwilkin4,freeCodeCamp,freeCodeCamp
 8c4a474c4966b077521c8e87c2a7c5b9bccabc5e,feat(client): add spanish characters for animations (#60353),2025-05-21T06:09:42Z,3,492,moT01,freeCodeCamp,freeCodeCamp
-6dfc0e65bc71bf1b6d68262ab1142d185729d9b2,fix(curriculum): correct inaccurate answer in express agreement chall…,2025-05-20T19:48:07Z,1,2,IbrahimAl-Tawil,freeCodeCamp,freeCodeCamp
-2f7395e475c5fd8efe2cd6b1b11ecf268c294194,feat: add set 2 of questions for CSS animations quiz  (#59790),2025-05-20T12:49:25Z,1,488,aaqib605,freeCodeCamp,freeCodeCamp
-a50b43a3154437ef1ef827d29fd798b2c462238f,feat(curriculum): add Python loops and sequences review page (#60128),2025-05-20T06:17:13Z,2,701,zairahira,freeCodeCamp,freeCodeCamp
