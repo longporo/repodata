@@ -1,11 +1,26 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X868bhTe,60938,Add note for JavaScript and A11y module,OPEN,2025-06-19T21:04:48Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868k63c,60954,CSS layout and effects quiz error,CLOSED,2025-06-20T16:08:13Z,2025-06-21T01:11:22Z,garv,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868K2F2,60922,test 'should expand the block of the most recently viewed challenge' is failing,CLOSED,2025-06-18T13:46:00Z,2025-06-20T20:57:04Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868mlFQ,60957,Add backticks to double dot notation,OPEN,2025-06-20T19:42:40Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868meBM,60956,Remove unused CSS,OPEN,2025-06-20T19:26:11Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868kEZU,60949,Suggestion for new or replaced test for Gradebook App,OPEN,2025-06-20T14:42:53Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868gpOB,60944,chore: update steps 2-3-4 in magazine workshop to use specific asserts,CLOSED,2025-06-20T09:59:46Z,2025-06-20T17:34:43Z,manthansubhash01,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868kw2e,60953,Build a Superhero Application Form step 21 too strict,OPEN,2025-06-20T15:48:55Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868gXvt,60943,Replace `==` with `===` in `execute-challenge-saga.js`,CLOSED,2025-06-20T09:40:33Z,2025-06-20T16:10:36Z,DevDolphin7,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866nJm7,60795,Add warning when user attempts to close browser tab with unsaved privacy settings,OPEN,2025-06-09T16:39:25Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X8606bFr,60119,"""Build a lunch"" lab: failure message for getRandomLunch()",CLOSED,2025-05-02T05:29:10Z,2025-06-20T11:10:29Z,Ajay-2005;ilenia-magoni,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868hG4c,60946,moved lectures may need redirect,OPEN,2025-06-20T10:33:57Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868gvtC,60945,chore: update steps 5-6-7 in magazine workshop to use specific asserts,OPEN,2025-06-20T10:07:14Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866vLLj,60806,chore: update tests to specific asserts tracking issue,OPEN,2025-06-10T09:59:05Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868XhkG,60934,"What Are Effects in React, and How Does the useEffect Hook Work? Video example",OPEN,2025-06-19T13:07:06Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X867wFxE,60895,Create new language icons for Spanish and Chinese,OPEN,2025-06-16T13:05:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X860-p3l,60129,Add checks to ensure that proper headings are present in english curriculum challenges,OPEN,2025-05-02T15:45:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868bhTe,60938,Add note for JavaScript and A11y module,CLOSED,2025-06-19T21:04:48Z,2025-06-20T08:35:39Z,jdwilkin4,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X8679I9d,60907,"""The Cascade of CSS"" lesson: CSS selector question gives incorrect answer based on code",OPEN,2025-06-17T12:42:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86y2DdZ,59776,"Feature Request: ""Start Where You Left Off"" for Lessons",OPEN,2025-04-16T19:09:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868aams,60937,Build a Fruit Search App Step 15,CLOSED,2025-06-19T18:07:56Z,2025-06-19T18:37:07Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86lM1S6,57972,Inconsistency in the `completedDate` value returned,OPEN,2025-01-06T23:18:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868SO2n,60931,[Profile Card workshop] Step 4 not checking the return statement,OPEN,2025-06-19T04:37:16Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X867wFxE,60895,Create new language icons for Spanish and Chinese,OPEN,2025-06-16T13:05:35Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868XhkG,60934,"What Are Effects in React, and How Does the useEffect Hook Work? Video example",OPEN,2025-06-19T13:07:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86mUYIE,58161,Sentence Analyzer Small Confusions,OPEN,2025-01-15T16:56:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86lCvuZ,57921,Curriculum: Support teaching campers how to edit JSON files,CLOSED,2025-01-04T18:44:13Z,2025-06-19T15:32:34Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86k_3Fv,57918,Disable preview for labs that don't need them,CLOSED,2025-01-03T21:35:28Z,2025-06-19T15:20:11Z,,freeCodeCamp,freeCodeCamp
@@ -21,14 +36,12 @@ I_kwDOAbI7X868QzEC,60929,Build a Color Picker App,CLOSED,2025-06-19T00:32:21Z,20
 I_kwDOAbI7X866XR28,60761,Build a Quiz Webpage - Step 24 with misguided instruction.,CLOSED,2025-06-07T07:46:03Z,2025-06-18T23:42:12Z,AishwaryaRajput09,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866vaPN,60811,chore: update tests to use specific asserts in cat paiting steps 71-74,CLOSED,2025-06-10T10:16:56Z,2025-06-18T21:36:08Z,ritsth,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8675UpO,60902,TOP: CSS Foundations Exercise C needs some updates,CLOSED,2025-06-17T07:21:32Z,2025-06-18T20:39:19Z,abhilashini,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8679I9d,60907,"""The Cascade of CSS"" lesson: CSS selector question gives incorrect answer based on code",OPEN,2025-06-17T12:42:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86ys5rt,59751,Add set 2 of questions for CSS Flexbox quiz,OPEN,2025-04-16T02:01:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86ys-Lk,59753,Add set 2 of questions for CSS Positioning quiz,OPEN,2025-04-16T02:12:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86QMbpW,55570,Distinguish challenge tests expected to pass with seed code,OPEN,2024-07-19T15:11:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866oNDm,60796,[Profile Card workshop] Step 1 not checking the return statement,CLOSED,2025-06-09T18:30:02Z,2025-06-18T19:51:18Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867yOvz,60898,Full Stack YouTube transcripts,OPEN,2025-06-16T15:54:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868MAuW,60923,workshop toggle text app step 4 naming,OPEN,2025-06-18T15:11:32Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868K2F2,60922,test 'should expand the block of the most recently viewed challenge' is failing,OPEN,2025-06-18T13:46:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864mNf8,60563,Unclear description in Workshop fCC Authors Page - Step 12 and 13,CLOSED,2025-05-28T11:31:21Z,2025-06-18T09:07:41Z,vishnudt2004,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868CjmC,60914,How Do Events Work in React? SRT file,OPEN,2025-06-17T21:15:10Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867zr7N,60900,Job Application form should test that input and label are linked correctly,CLOSED,2025-06-16T18:23:10Z,2025-06-18T07:58:44Z,a2937,freeCodeCamp,freeCodeCamp
@@ -55,7 +68,6 @@ I_kwDOAbI7X86dwajV,57113,Shortest-Path-Algorithm Challenge: Report with suggesti
 I_kwDOAbI7X864o7i_,60567,Add redirects for moved challenges,CLOSED,2025-05-28T15:15:16Z,2025-06-14T15:53:45Z,a2937,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867heXg,60874,backend test runner does not set origin on fetch,OPEN,2025-06-14T12:41:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867dCxh,60868,Remove browser extensions note from legacy block pages,CLOSED,2025-06-13T22:25:55Z,2025-06-14T10:15:29Z,GoldFoylee,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866nJm7,60795,Add warning when user attempts to close browser tab with unsaved privacy settings,OPEN,2025-06-09T16:39:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865M5cX,60646,Suggestion: Add example for responsive images in HTML challenges,CLOSED,2025-06-01T12:18:55Z,2025-06-02T08:23:34Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865M5PL,60644,Accessibility enhancement: Add missing alt text to documentation images,CLOSED,2025-06-01T12:18:15Z,2025-06-02T08:24:04Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866yHzb,60816,Notification banner text hard to read/notice,OPEN,2025-06-10T13:54:05Z,,,freeCodeCamp,freeCodeCamp
@@ -89,7 +101,6 @@ I_kwDOAbI7X866x_er,60815,module.exports – How to Export in Node.js and JavaScr
 I_kwDOAbI7X866HKH6,60730,Fruit search app workshop - index as key,CLOSED,2025-06-05T19:44:30Z,2025-06-10T18:50:29Z,StephenMuya,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8656Mpn,60719,Improve how screen readers announce quiz question text,CLOSED,2025-06-04T20:32:20Z,2025-06-10T17:57:10Z,ashish-2106;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865nvNK,60687,Learn How to share progress in weekly stand up meetings,OPEN,2025-06-03T14:21:58Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866vLLj,60806,chore: update cat painting to specific asserts tracking issue,OPEN,2025-06-10T09:59:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864wrks,60589,Make editor easier to use,OPEN,2025-05-29T09:41:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86ytBMY,59756,Add set 2 of questions for CSS Grid quiz,CLOSED,2025-04-16T02:21:28Z,2025-06-10T10:35:43Z,fatma-ajroud;jdwilkin4,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866N2Wl,60742,chore: update tests to use specific asserts in project euler problems 21-25,CLOSED,2025-06-06T09:22:43Z,2025-06-10T09:46:37Z,DanyelleH,freeCodeCamp,freeCodeCamp
@@ -233,7 +244,3 @@ I_kwDOAbI7X863pUiQ,60472,Shopping Cart workshop — better with a Dessert class?
 I_kwDOAbI7X863hsoo,60459,Issue on Timestamp Microservice @ Back End Development and APIs in Test Case 7 and 8,CLOSED,2025-05-21T06:19:28Z,2025-05-22T01:58:05Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8629jkN,60407,Duplicated `--before-all--` section in challenges,CLOSED,2025-05-16T17:54:36Z,2025-05-21T17:45:13Z,falldownstairs;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863S51a,60446,[Curriculum] - Checking if zero Length is not the same as empty,OPEN,2025-05-19T22:55:26Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862nxqb,60352,translate.freecodecamp.org is inaccessible,CLOSED,2025-05-14T17:57:21Z,2025-05-20T20:54:59Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863JgQu,60424,Learn How to Express Agreement - Task 71,CLOSED,2025-05-19T06:52:30Z,2025-05-20T19:48:09Z,IbrahimAl-Tawil,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ytCMr,59757,Add set 2 of questions for CSS Animations quiz,CLOSED,2025-04-16T02:24:38Z,2025-05-20T12:49:26Z,aaqib605,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862CBzT,60266,"""Saved! Your code was saved to your browser's local storage."" - banner has no timeout, carries over when changing page",CLOSED,2025-05-10T10:02:54Z,2025-05-20T11:38:22Z,,freeCodeCamp,freeCodeCamp
