@@ -1,4 +1,5 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+9f5a98578b2d2bd3260dd51a7072f26b540cf90b,fix(curriculum): correct 'such us' to 'such as' (#60987),2025-06-22T19:16:47Z,1,2,TanishValesha,freeCodeCamp,freeCodeCamp
 4c93c696dd70cc4f33935a0751523e0b661aa74a,fix(curriculum): correct font-size answer in cascade of CSS lesson (#…,2025-06-21T22:33:04Z,1,4,Shobhit150,freeCodeCamp,freeCodeCamp
 d99a2bbf98c7cd637d95f3b168870585f817b7f3,feat(curriculum): adding Debug a Pet Adoption Page lab (#60917),2025-06-21T07:31:59Z,16,217,jdwilkin4,freeCodeCamp,freeCodeCamp
 c983a1e576bcdb8055a759df2fd03e2b0a048862,fix: corrected swapped content lines in CSS layout quiz (#60958),2025-06-21T01:11:21Z,1,4,cipherzyvishu,freeCodeCamp,freeCodeCamp
@@ -214,8 +215,3 @@ a90e2757ac26d5753e22557de31df05aab443013,chore(api): add exam-env test script (#
 74aa61a7b4d5dbbbddbb0a70a9a56798932df47e,fix(curriculum): fix backtick placement in quiz question (#60494),2025-05-23T08:57:39Z,1,2,ritsth,freeCodeCamp,freeCodeCamp
 22fb9bc43b0328a7523f4b5429b71f783002f20e,feat(gha): add workflow to clean-up old images (#60485),2025-05-23T07:39:58Z,1,53,raisedadead,freeCodeCamp,freeCodeCamp
 10f23bcf0cf56be46080f2709902b140fe7c6c7a,fix(curriculum): typo changed from trnasforming to transforming (#60495),2025-05-23T04:50:47Z,1,2,qdow,freeCodeCamp,freeCodeCamp
-57adb773d2d03428be39c18171632226bc87e6ba,fix(curriculum): minor things in first workshop (#60489),2025-05-22T17:51:30Z,1,4,moT01,freeCodeCamp,freeCodeCamp
-dddfe99200ebc48f0f7ecf6e99a6652d1c0c02c4,chore(curriculum): add extra h1 tests to camperbot lab (#60478),2025-05-22T16:18:17Z,1,65,a2937,freeCodeCamp,freeCodeCamp
-331005f4c7205d3cc5668092f59b4d2ad720d63f,feat(tools): add chapter and module names to external curricula data …,2025-05-22T15:52:30Z,3,54,huyenltnguyen,freeCodeCamp,freeCodeCamp
-848ae3aacf11cc2f1e612fbc873501b39110f780,fix(api): handle users without email addresses (#60467),2025-05-22T09:28:56Z,11,101,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-1311b4e10f8b2eb3891c262b32405b03e49fc337,fix(curriculum): added missing aria-live attributes to message box (#…,2025-05-22T06:29:13Z,1,4,Rice-Cameron,freeCodeCamp,freeCodeCamp
