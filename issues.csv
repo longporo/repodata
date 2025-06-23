@@ -1,4 +1,15 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X868ueHO,60993,Curriculum Redirects not working?,OPEN,2025-06-22T21:45:31Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868meBM,60956,Remove unused CSS,OPEN,2025-06-20T19:26:11Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868uFrJ,60992,"What Is Memoization, and How Does the useMemo Hook Work?",OPEN,2025-06-22T19:17:41Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868tq5m,60980,"Typo: ""such us"" should be ""such as""",CLOSED,2025-06-22T16:30:16Z,2025-06-22T19:16:48Z,TanishValesha,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868gvtC,60945,chore: update steps 5-6-7 in magazine workshop to use specific asserts,OPEN,2025-06-20T10:07:14Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868t9Vi,60991,"Grammar fix: ""a underline"" → ""an underline"" and remove ""then""",OPEN,2025-06-22T18:27:44Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868t7v5,60989,"Tense mismatch: ""If you were to..., then you will..."" → should match tense",OPEN,2025-06-22T18:17:14Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868t4Cx,60985,"Typo: ""uses cases"" should be ""use cases"", and ""foot notes"" should be ""footnotes""",OPEN,2025-06-22T17:53:28Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868sbHR,60975,Form submission in preview don't give any feedback,OPEN,2025-06-22T08:15:17Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868XhkG,60934,"What Are Effects in React, and How Does the useEffect Hook Work? Video example",OPEN,2025-06-19T13:07:06Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866HfdB,60732,Tic-tac-toe lab - testing draw is too lenient,OPEN,2025-06-05T20:14:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8679I9d,60907,"""The Cascade of CSS"" lesson: CSS selector question gives incorrect answer based on code",CLOSED,2025-06-17T12:42:43Z,2025-06-21T22:33:05Z,Shobhit150,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868q0-s,60971,.,CLOSED,2025-06-21T19:15:02Z,2025-06-21T19:16:22Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866vLLj,60806,chore: update tests to specific asserts tracking issue,OPEN,2025-06-10T09:59:05Z,,,freeCodeCamp,freeCodeCamp
@@ -11,14 +22,11 @@ I_kwDOAbI7X868hG4c,60946,moved lectures need redirects,OPEN,2025-06-20T10:33:57Z
 I_kwDOAbI7X868k63c,60954,CSS layout and effects quiz error,CLOSED,2025-06-20T16:08:13Z,2025-06-21T01:11:22Z,garv,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868K2F2,60922,test 'should expand the block of the most recently viewed challenge' is failing,CLOSED,2025-06-18T13:46:00Z,2025-06-20T20:57:04Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868mlFQ,60957,Add backticks to double dot notation,OPEN,2025-06-20T19:42:40Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868meBM,60956,Remove unused CSS,OPEN,2025-06-20T19:26:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868gpOB,60944,chore: update steps 2-3-4 in magazine workshop to use specific asserts,CLOSED,2025-06-20T09:59:46Z,2025-06-20T17:34:43Z,manthansubhash01,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868kw2e,60953,Build a Superhero Application Form step 21 too strict,OPEN,2025-06-20T15:48:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868gXvt,60943,Replace `==` with `===` in `execute-challenge-saga.js`,CLOSED,2025-06-20T09:40:33Z,2025-06-20T16:10:36Z,DevDolphin7,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866nJm7,60795,Add warning when user attempts to close browser tab with unsaved privacy settings,OPEN,2025-06-09T16:39:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8606bFr,60119,"""Build a lunch"" lab: failure message for getRandomLunch()",CLOSED,2025-05-02T05:29:10Z,2025-06-20T11:10:29Z,Ajay-2005;ilenia-magoni,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868gvtC,60945,chore: update steps 5-6-7 in magazine workshop to use specific asserts,OPEN,2025-06-20T10:07:14Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868XhkG,60934,"What Are Effects in React, and How Does the useEffect Hook Work? Video example",OPEN,2025-06-19T13:07:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867wFxE,60895,Create new language icons for Spanish and Chinese,OPEN,2025-06-16T13:05:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X860-p3l,60129,Add checks to ensure that proper headings are present in english curriculum challenges,OPEN,2025-05-02T15:45:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868bhTe,60938,Add note for JavaScript and A11y module,CLOSED,2025-06-19T21:04:48Z,2025-06-20T08:35:39Z,jdwilkin4,freeCodeCamp,freeCodeCamp
@@ -135,7 +143,6 @@ I_kwDOAbI7X866Wewb,60758,blank issue1,CLOSED,2025-06-07T04:53:13Z,2025-06-07T06:
 I_kwDOAbI7X866I4yo,60737,Misplaced feedback in Learn Greetings in Your First Day at the Office - Task 3,CLOSED,2025-06-05T22:34:13Z,2025-06-06T20:37:57Z,sharon1999,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86ytAfG,59755,Add set 2 of questions for CSS Variables quiz,CLOSED,2025-04-16T02:19:27Z,2025-06-06T17:23:34Z,Omar8345;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866Rq5h,60744,Certified Full Stack Developer Curriculum: Build a Curriculum Outline,CLOSED,2025-06-06T15:58:38Z,2025-06-06T16:02:42Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866HfdB,60732,Tic-tac-toe lab - testing draw is too lenient,OPEN,2025-06-05T20:14:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863UMz6,60449,Python Terminal not Accessible via Screen Reader,CLOSED,2025-05-20T03:41:02Z,2025-06-06T12:28:30Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8654kma,60712,chore: update to specific asserts project euler problems 1-10,CLOSED,2025-06-04T17:48:21Z,2025-06-05T19:03:08Z,Vishal-Telukula,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8654mhh,60713,chore: update asserts in workshop cat painting steps 75-77,CLOSED,2025-06-04T17:51:42Z,2025-06-05T16:57:07Z,,freeCodeCamp,freeCodeCamp
@@ -234,16 +241,3 @@ I_kwDOAbI7X861agW5,60197,Football Team Cards lab tests,OPEN,2025-05-06T18:09:12Z
 I_kwDOAbI7X863yVCd,60486,Visual formatting issue in quiz question comparing new Object() and {},CLOSED,2025-05-22T13:39:25Z,2025-05-23T08:57:40Z,ritsth,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8620AhD,60387,User experience is not seamless,CLOSED,2025-05-15T18:31:24Z,2025-05-20T16:07:03Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863uqW5,60481,Typo in Help a Coworker Troubleshoot on GitHub - Task 22,CLOSED,2025-05-22T08:09:07Z,2025-05-23T04:50:49Z,qdow,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863rIzx,60476,Add extra tests to ensure campers remove the extra h1s in camperbot lab,CLOSED,2025-05-21T22:22:02Z,2025-05-22T16:18:19Z,a2937;moT01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86V3xl6,56051,Teaching Global Variable (Ab)use,OPEN,2024-09-09T16:42:21Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86hhhdL,57378,Remove `partiallyCompletedChallenges` and `savedChallenges` from /get-public-profile,OPEN,2024-12-01T21:39:19Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86fXvru,57237,UI Contrast During Lessons,CLOSED,2024-11-19T22:53:26Z,2025-05-22T15:15:10Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86cxsbm,57029,Issue with Exercise Accessibility on Mobile,CLOSED,2024-11-02T06:57:22Z,2025-05-22T15:03:07Z,LucasTStephens,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86XinKu,56247,Learn Basic String and Array Methods by Building a Music Player My thanks & some suggestions,CLOSED,2024-09-23T12:06:46Z,2025-05-22T14:40:59Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863v4TM,60484,Certified Full Stack Developer Curriculum -Camperbot Profile Page – Fix Camperbot's HTML ,CLOSED,2025-05-22T09:56:45Z,2025-05-22T13:44:02Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863RRW9,60441,Trivia Bot - Allow separate space concatenation or update requirements,OPEN,2025-05-19T19:02:57Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863ocO_,60469,Todo App using Local Storage — formInputValuesUpdated,OPEN,2025-05-21T16:36:14Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863pubd,60474,[Customer Complaint Form] Add `aria-live` to the message box,CLOSED,2025-05-21T19:06:23Z,2025-05-22T06:29:14Z,Rice-Cameron,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863Z0qU,60452,Feature Request: GitHub Integration for Auto-Saving Exercise Progress,OPEN,2025-05-20T13:16:48Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863pUiQ,60472,Shopping Cart workshop — better with a Dessert class?,OPEN,2025-05-21T18:17:00Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863hsoo,60459,Issue on Timestamp Microservice @ Back End Development and APIs in Test Case 7 and 8,CLOSED,2025-05-21T06:19:28Z,2025-05-22T01:58:05Z,,freeCodeCamp,freeCodeCamp
