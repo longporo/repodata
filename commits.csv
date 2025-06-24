@@ -1,4 +1,24 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+9d05f06df3d84843199367b67bd5ef867d332e18,fix(curriculum): fix typo in scene-assets.js (#61021),2025-06-23T21:13:23Z,1,2,DanielRosa74,freeCodeCamp,freeCodeCamp
+7c1de6975ef99df6c7321298d60a7f6feded4622,chore(curriculum): update two tests to use specific assert (#61006),2025-06-23T18:04:01Z,1,15,hassanwaqa,freeCodeCamp,freeCodeCamp
+b25c5eb780140b52b1881832dbe2d66809df49e4,fix(curriculum): correct typos in semantic HTML content (#61004),2025-06-23T17:28:43Z,3,8,hassanwaqa,freeCodeCamp,freeCodeCamp
+1b2d25d697b181daeaefae78d660701f53bb9437,chore(curriculum): change to US spelling Fulfill (#60927),2025-06-23T16:40:20Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
+174555f1d40ae9684b6b0d43581995117c3fe59a,fix(curriculum): remove 'both' from hotel feedback form step 24 instr…,2025-06-23T16:38:40Z,1,4,RiyaSharma028,freeCodeCamp,freeCodeCamp
+65d88e56b161bae28669a84a1c1f369ce1cef632,chore(curriculum): change to US spelling maximize (#60911),2025-06-23T16:17:07Z,3,16,Giftea,freeCodeCamp,freeCodeCamp
+170df37c8b0ad9b9989125d00951a553bca237ac,chore(curriculum): update two tests to use specific asserts (#60981),2025-06-23T16:14:15Z,1,19,AnujNayak108,freeCodeCamp,freeCodeCamp
+0691983b3410f0a911c408dac1966c90fc3ef0fd,"chore(i18n,learn): update i18n-curriculum submodule (#61010)",2025-06-23T15:51:56Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+357cc504bde949d5be4645af69e551b5aecff648,Test adding transcript tabs to lectures (#60948),2025-06-23T15:40:13Z,4,106,ahmaxed,freeCodeCamp,freeCodeCamp
+4e38cb36eb885ae6e1e81ac33612bc24a5072c95,"chore(i18n,client): processed translations (#61001)",2025-06-23T14:02:51Z,11,590,camperbot,freeCodeCamp,freeCodeCamp
+723be55e627f2b3bdde46be2e74c8dfedae49e33,fix(a11y): add editor name to editor aria-label (#60529),2025-06-23T13:53:33Z,3,47,huyenltnguyen,freeCodeCamp,freeCodeCamp
+cb231abaaa1aad3e28669a9ffbea816b30cd281d,fix: make landing e2e test specific (#60893),2025-06-23T13:40:38Z,1,22,ahmaxed,freeCodeCamp,freeCodeCamp
+8a4603b0b7395c6f70c44b62c9cb58e466212704,chore(deps): update normalize-url (#60912),2025-06-23T13:26:34Z,2,6,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+7738459bd6a7d49cb2000cdcd9ce0ab7312368de,feat: add luhn algorithm lab to FS (#60903),2025-06-23T13:25:36Z,5,199,ilenia-magoni,freeCodeCamp,freeCodeCamp
+722131407b9fea75122e8b5f1784f3d76dba674c,fix(api): duplicate reply on error in /daily-coding-challenge-complet…,2025-06-23T13:15:26Z,1,1,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+d5a930803c2f312eaa9c6b5f9f66a82078d8a2cc,chore(curriculum): update steps 5–7 in magazine workshop to use speci…,2025-06-23T12:38:44Z,3,26,yashurade27,freeCodeCamp,freeCodeCamp
+2aef0099afb5a1b7c20e7507d2b116f742155ad3,revert: clean up dockerfiles (#60996),2025-06-23T08:58:22Z,2,21,raisedadead,freeCodeCamp,freeCodeCamp
+013c13c6766a2020887d56d1dab3190ccc958b11,fix(docker): clean up dockerfiles (#60947),2025-06-23T07:46:17Z,2,21,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+700aa1182d50105841963f5834f69a2e7d9ff810,fix(curriculum): add backticks to double not notation in quiz-basic-h…,2025-06-23T06:27:51Z,1,2,adarshdotdev,freeCodeCamp,freeCodeCamp
+db92673f0cc3d5d6b6efbbdcf3184acd86420058,chore(curriculum): remove unused .green class from global.css (#60982),2025-06-23T04:28:33Z,1,4,nishisurti2608,freeCodeCamp,freeCodeCamp
 9f5a98578b2d2bd3260dd51a7072f26b540cf90b,fix(curriculum): correct 'such us' to 'such as' (#60987),2025-06-22T19:16:47Z,1,2,TanishValesha,freeCodeCamp,freeCodeCamp
 4c93c696dd70cc4f33935a0751523e0b661aa74a,fix(curriculum): correct font-size answer in cascade of CSS lesson (#…,2025-06-21T22:33:04Z,1,4,Shobhit150,freeCodeCamp,freeCodeCamp
 d99a2bbf98c7cd637d95f3b168870585f817b7f3,feat(curriculum): adding Debug a Pet Adoption Page lab (#60917),2025-06-21T07:31:59Z,16,217,jdwilkin4,freeCodeCamp,freeCodeCamp
@@ -210,8 +230,3 @@ a90e2757ac26d5753e22557de31df05aab443013,chore(api): add exam-env test script (#
 469f0c0f0ba2ad65da415cfa10fd28754bb7ce62,fix(curriculum): make spaces optional in movie rating test (#60524),2025-05-26T16:55:58Z,1,2,lejenhan,freeCodeCamp,freeCodeCamp
 1b14282da085a9aacf1c081eb6909a02310f18d6,fix(curriculum): make spacing requirement less strict in Movie Review…,2025-05-26T09:13:26Z,1,4,PabloGarza328,freeCodeCamp,freeCodeCamp
 999b3e892813ed926d659641d778e217ae5fac2a,fix(curriculum): only sanitize task id with removeSpecialChars (#60482),2025-05-25T17:58:18Z,1,20,roberiacono,freeCodeCamp,freeCodeCamp
-6fc8c87422453637a54bc64521605fa78d6e8a5b,"fix(curriculum): ""Accoding"" typo (#60504)",2025-05-23T18:31:30Z,1,2,carlogy,freeCodeCamp,freeCodeCamp
-8138f086aa8b2e00d272d87b0772621a8391243e,fix(api): handle string challengeType (#60491),2025-05-23T12:56:18Z,4,86,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-74aa61a7b4d5dbbbddbb0a70a9a56798932df47e,fix(curriculum): fix backtick placement in quiz question (#60494),2025-05-23T08:57:39Z,1,2,ritsth,freeCodeCamp,freeCodeCamp
-22fb9bc43b0328a7523f4b5429b71f783002f20e,feat(gha): add workflow to clean-up old images (#60485),2025-05-23T07:39:58Z,1,53,raisedadead,freeCodeCamp,freeCodeCamp
-10f23bcf0cf56be46080f2709902b140fe7c6c7a,fix(curriculum): typo changed from trnasforming to transforming (#60495),2025-05-23T04:50:47Z,1,2,qdow,freeCodeCamp,freeCodeCamp
