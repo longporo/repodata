@@ -1,4 +1,9 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+e7d83013e090b685434500e067309f0dabfa509d,fix(curriculum):updated test cases in gradebook-app (#61039),2025-06-24T19:45:38Z,1,24,aboo212031,freeCodeCamp,freeCodeCamp
+7058bf5320815d02b0d05fbcf96bf9499829423a,fix(curriculum): add missing backticks and fix wording in reusable na…,2025-06-24T18:36:40Z,1,8,hassanwaqa,freeCodeCamp,freeCodeCamp
+d2ff15ef140467b573ece4d466e471854fd73081,fix(curriculum): correct grammar in semantic HTML lesson (#61037),2025-06-24T14:49:05Z,1,2,sskiragu,freeCodeCamp,freeCodeCamp
+efbdec0fe2df725c2debd94b6872f7dfa23417eb,fix(curriculum): updated transcript in memoization (#61019),2025-06-24T07:34:17Z,1,2,aboo212031,freeCodeCamp,freeCodeCamp
+52361d13063e4a44b5f48f48aa5ee59ce5fa7532,fix(curriculum): typo in Troubleshoot Github (#61023),2025-06-24T05:24:53Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 9d05f06df3d84843199367b67bd5ef867d332e18,fix(curriculum): fix typo in scene-assets.js (#61021),2025-06-23T21:13:23Z,1,2,DanielRosa74,freeCodeCamp,freeCodeCamp
 7c1de6975ef99df6c7321298d60a7f6feded4622,chore(curriculum): update two tests to use specific assert (#61006),2025-06-23T18:04:01Z,1,15,hassanwaqa,freeCodeCamp,freeCodeCamp
 b25c5eb780140b52b1881832dbe2d66809df49e4,fix(curriculum): correct typos in semantic HTML content (#61004),2025-06-23T17:28:43Z,3,8,hassanwaqa,freeCodeCamp,freeCodeCamp
