@@ -1,22 +1,37 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X869K7q1,61052,React Fundamentals quiz misses keys and over-emphasizes Vite,OPEN,2025-06-25T01:31:03Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X869Iel-,61047,"React lecture group ""Working With Data In React"" missing some core concepts",OPEN,2025-06-24T19:54:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X869KzgP,61051,React Fundamentals missing lab work or workshop on keys and list rendering,OPEN,2025-06-25T01:06:47Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X869KJkB,61050,[Profile Card workshop] step 1 test fails to pass due to semicolon,OPEN,2025-06-24T23:08:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X869JiiD,61049,video about how-do-inline-styles-work-in-react has one tiny word wrong,OPEN,2025-06-24T21:45:18Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868kEZU,60949,Suggestion for new or replaced test for Gradebook App,CLOSED,2025-06-20T14:42:53Z,2025-06-24T19:45:39Z,aboo212031,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X869H_DQ,61045,lecture on passing React props contains an ambiguously phrased question,OPEN,2025-06-24T18:59:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X869DqFO,61038,missing backticks in workshop-reusable-mega-navbar step 7,CLOSED,2025-06-24T12:40:18Z,2025-06-24T18:36:41Z,Hassan Waqar,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X8684DjN,61015,Small Naming Convention Issue in Build A Weather App Lab - Javascript Section - Full Stack Web Dev Course,OPEN,2025-06-23T16:44:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864wrks,60589,Make editor easier to use,OPEN,2025-05-29T09:41:32Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X869EwnT,61041,Tests passed code for the RPG Creature Search project with an incorrect endpoint,OPEN,2025-06-24T14:02:41Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X869C_gX,61035,"Transcript incomplete for React Fundamentals video: ""What are components in React ...""",OPEN,2025-06-24T11:47:12Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868t9Vi,60991,"Grammar fix: ""a underline"" → ""an underline"" and remove ""then""",CLOSED,2025-06-22T18:27:44Z,2025-06-24T14:49:06Z,sskiragu,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X8603Drm,60106,Update import/export react lecture video to include multiple ways for imports and exports,OPEN,2025-05-01T17:30:10Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X869DMhM,61036,[HTML Accessibility Quiz] Change wording of set 2 - question 17,OPEN,2025-06-24T12:02:55Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X869B9iq,61034,React Fundamentals question's answer about SPAs is not explained in prior content,OPEN,2025-06-24T10:31:01Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868ueHO,60993,Curriculum Redirects not working?,OPEN,2025-06-22T21:45:31Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X869AgSt,61028,Email Masker lab needs more varied examples,OPEN,2025-06-24T08:49:40Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868uFrJ,60992,"What Is Memoization, and How Does the useMemo Hook Work?",CLOSED,2025-06-22T19:17:41Z,2025-06-24T07:34:18Z,aboo212031,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X860p-l5,60083,Build a City Skyline Checks are Funky,OPEN,2025-04-30T10:49:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8684hDn,61017,English A2 - Learn Introductions in an Online Team Meeting - Task 99 - Requiring dot in answer,OPEN,2025-06-23T17:35:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866HfdB,60732,Tic-tac-toe lab - testing draw is too lenient,OPEN,2025-06-05T20:14:23Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8684DjN,61015,Small Naming Convention Issue in Build A Weather App Lab - Javascript Section - Full Stack Web Dev Course,OPEN,2025-06-23T16:44:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8681XEJ,61002,Chore: update two tests to use specific assert,CLOSED,2025-06-23T12:56:11Z,2025-06-23T18:04:02Z,Hassan Waqar,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868t4Cx,60985,"Typo: ""uses cases"" should be ""use cases"", and ""foot notes"" should be ""footnotes""",CLOSED,2025-06-22T17:53:28Z,2025-06-23T17:28:44Z,Hassan Waqar,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868uFrJ,60992,"What Is Memoization, and How Does the useMemo Hook Work?",OPEN,2025-06-22T19:17:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868qK84,60965,Incorrect wording for Hotel Feedback Form - Step 24 - in the new Certified Full Stack Developer Curriculum,CLOSED,2025-06-21T15:29:01Z,2025-06-23T16:38:41Z,RiyaSharma028,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868qc1K,60966,chore: update two tests to use specific asserts,CLOSED,2025-06-21T17:21:12Z,2025-06-23T16:14:16Z,AnujNayak108,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868XhkG,60934,"What Are Effects in React, and How Does the useEffect Hook Work? Video example",OPEN,2025-06-19T13:07:06Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868t9Vi,60991,"Grammar fix: ""a underline"" → ""an underline"" and remove ""then""",OPEN,2025-06-22T18:27:44Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8682uot,61009,"Small issue with lecture What Are the U, S, and Ruby Elements Used For, and How Do They Work?",OPEN,2025-06-23T14:42:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8682wK7,61011,"Small issue in What Is Memoization, and How Does the useMemo Hook Work?",OPEN,2025-06-23T14:44:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868t7v5,60989,"Tense mismatch: ""If you were to..., then you will..."" → should match tense",CLOSED,2025-06-22T18:17:14Z,2025-06-23T14:06:34Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868kEZU,60949,Suggestion for new or replaced test for Gradebook App,OPEN,2025-06-20T14:42:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868gvtC,60945,chore: update steps 5-6-7 in magazine workshop to use specific asserts,CLOSED,2025-06-20T10:07:14Z,2025-06-23T12:38:45Z,yashurade27,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867b4ZW,60860,Declaring multiple variables in a single line fails - Build an fCC Authors Page (step 7),OPEN,2025-06-13T20:08:12Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868hG4c,60946,moved lectures need redirects,OPEN,2025-06-20T10:33:57Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868ueHO,60993,Curriculum Redirects not working?,OPEN,2025-06-22T21:45:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868mlFQ,60957,Add backticks to double dot notation,CLOSED,2025-06-20T19:42:40Z,2025-06-23T06:27:52Z,adarshdotdev,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868meBM,60956,Remove unused CSS,CLOSED,2025-06-20T19:26:11Z,2025-06-23T04:28:34Z,nishisurti2608,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868tq5m,60980,"Typo: ""such us"" should be ""such as""",CLOSED,2025-06-22T16:30:16Z,2025-06-22T19:16:48Z,TanishValesha,freeCodeCamp,freeCodeCamp
@@ -50,7 +65,6 @@ I_kwDOAbI7X86kF6fU,57640,[bug] donation modal mostly empty,CLOSED,2024-12-20T15:
 I_kwDOAbI7X86jPhOB,57518,Form validation and completion modal,CLOSED,2024-12-13T16:25:41Z,2025-06-19T14:58:53Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86htFzB,57391,Clean up challenge types,OPEN,2024-12-02T18:42:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867OmZO,60847,The quiz for async/defer attributes includes a question with content not discussed in video/transcript,CLOSED,2025-06-12T18:00:26Z,2025-06-19T11:05:12Z,vishnudt2004,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860p-l5,60083,Build a City Skyline Checks are Funky,OPEN,2025-04-30T10:49:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868QzEC,60929,Build a Color Picker App,CLOSED,2025-06-19T00:32:21Z,2025-06-19T00:57:01Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866XR28,60761,Build a Quiz Webpage - Step 24 with misguided instruction.,CLOSED,2025-06-07T07:46:03Z,2025-06-18T23:42:12Z,AishwaryaRajput09,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866vaPN,60811,chore: update tests to use specific asserts in cat paiting steps 71-74,CLOSED,2025-06-10T10:16:56Z,2025-06-18T21:36:08Z,ritsth,freeCodeCamp,freeCodeCamp
@@ -119,7 +133,6 @@ I_kwDOAbI7X866x_er,60815,module.exports – How to Export in Node.js and JavaScr
 I_kwDOAbI7X866HKH6,60730,Fruit search app workshop - index as key,CLOSED,2025-06-05T19:44:30Z,2025-06-10T18:50:29Z,StephenMuya,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8656Mpn,60719,Improve how screen readers announce quiz question text,CLOSED,2025-06-04T20:32:20Z,2025-06-10T17:57:10Z,ashish-2106;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865nvNK,60687,Learn How to share progress in weekly stand up meetings,OPEN,2025-06-03T14:21:58Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864wrks,60589,Make editor easier to use,OPEN,2025-05-29T09:41:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86ytBMY,59756,Add set 2 of questions for CSS Grid quiz,CLOSED,2025-04-16T02:21:28Z,2025-06-10T10:35:43Z,fatma-ajroud;jdwilkin4,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866N2Wl,60742,chore: update tests to use specific asserts in project euler problems 21-25,CLOSED,2025-06-06T09:22:43Z,2025-06-10T09:46:37Z,DanyelleH,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86xEzig,59587,Audit Todo App workshop in Full Stack cert,OPEN,2025-04-03T22:25:27Z,,,freeCodeCamp,freeCodeCamp
