@@ -1,4 +1,18 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+9b666dc60fd81cb10fe874ac7158534e28745470,"chore(i18n,learn): update i18n-curriculum submodule (#61062)",2025-06-25T17:31:02Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+5ae2e3eca701192b1e528f02f894d77ddbd079eb,"chore(deps,api): update date-fns and add date-fns-tz (#61048)",2025-06-25T16:49:04Z,4,60,moT01,freeCodeCamp,freeCodeCamp
+98326d266f495fb1d4fc5f836bebcb35d9571da7,feat(curriculum): add review tasks to block 12 of the A2 curriculum (…,2025-06-25T15:51:47Z,75,878,anastasiiauk,freeCodeCamp,freeCodeCamp
+6848da8320fe4b57cd08e99a9233e6c81a0141d8,Merge commit from fork,2025-06-25T14:13:44Z,2,92,raisedadead,freeCodeCamp,freeCodeCamp
+acd5508831ea9a9ac15d0b2e181cc4d12b5a5702,"chore(i18n,client): processed translations (#61057)",2025-06-25T13:53:19Z,20,130,camperbot,freeCodeCamp,freeCodeCamp
+6c71f96b3fbec27c5cc0ff23faea48aa8a47d900,Feat(curriculum): Replace summary tasks by review tasks to Blocks 17 …,2025-06-25T12:09:54Z,3,565,nieldakarla,freeCodeCamp,freeCodeCamp
+551aa5ac01f4a88ca400b0e0f814b7a0e5e64bde,feat(curriculum): add review tasks to block 11 of the A2 curriculum (…,2025-06-25T12:09:37Z,91,950,anastasiiauk,freeCodeCamp,freeCodeCamp
+0e3c840d13fe260fda42aa4da68904b7ceae8494,feat(curriculum): add review tasks to block 10 of the A2 curriculum (…,2025-06-25T12:09:21Z,108,1078,anastasiiauk,freeCodeCamp,freeCodeCamp
+021a6b4ff52c46328c4dead4ae964c1e1cfec948,fix(client): update pokemon url redirect (#61018),2025-06-25T10:52:01Z,1,2,a2937,freeCodeCamp,freeCodeCamp
+d62e1f92117bc7fa29221d7d1e67c32141d789d3,fix(curriculum): update wording in HTML Accessibility quiz (#61046),2025-06-25T10:04:26Z,1,10,raviKant0917,freeCodeCamp,freeCodeCamp
+0acad8c464a40cb5f46fefb36d91e76c1c5f7b82,fix(curriculum): add missing transcript for React components video (#…,2025-06-25T09:26:15Z,1,1,hassanwaqa,freeCodeCamp,freeCodeCamp
+87c274a9ef170218b88e9b6a1ddd030f9c64de2d,feat(api): allow HOME_LOCATION origin in development (#61003),2025-06-25T06:30:24Z,5,31,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+a81293c52088b942a38541ca030984be748eaec2,fix(client): add html media lecture redirections (#61022),2025-06-25T06:27:57Z,1,36,a2937,freeCodeCamp,freeCodeCamp
+dd6117d4e657e7963e734cb84d2ba58a607622f3,chore(deps): upgrade @freecodecamp/ui to v4.2.0 (#60919),2025-06-25T03:57:02Z,5,197,huyenltnguyen,freeCodeCamp,freeCodeCamp
 e7d83013e090b685434500e067309f0dabfa509d,fix(curriculum):updated test cases in gradebook-app (#61039),2025-06-24T19:45:38Z,1,24,aboo212031,freeCodeCamp,freeCodeCamp
 7058bf5320815d02b0d05fbcf96bf9499829423a,fix(curriculum): add missing backticks and fix wording in reusable na…,2025-06-24T18:36:40Z,1,8,hassanwaqa,freeCodeCamp,freeCodeCamp
 d2ff15ef140467b573ece4d466e471854fd73081,fix(curriculum): correct grammar in semantic HTML lesson (#61037),2025-06-24T14:49:05Z,1,2,sskiragu,freeCodeCamp,freeCodeCamp
@@ -234,4 +248,3 @@ a90e2757ac26d5753e22557de31df05aab443013,chore(api): add exam-env test script (#
 4af4f7bff4c935196a7437dbca56ea2c6c426e42,fix(curriculum): typo in learn introductions in an online team meetin…,2025-05-26T18:36:24Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
 469f0c0f0ba2ad65da415cfa10fd28754bb7ce62,fix(curriculum): make spaces optional in movie rating test (#60524),2025-05-26T16:55:58Z,1,2,lejenhan,freeCodeCamp,freeCodeCamp
 1b14282da085a9aacf1c081eb6909a02310f18d6,fix(curriculum): make spacing requirement less strict in Movie Review…,2025-05-26T09:13:26Z,1,4,PabloGarza328,freeCodeCamp,freeCodeCamp
-999b3e892813ed926d659641d778e217ae5fac2a,fix(curriculum): only sanitize task id with removeSpecialChars (#60482),2025-05-25T17:58:18Z,1,20,roberiacono,freeCodeCamp,freeCodeCamp
