@@ -1,4 +1,22 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+3af161450fe35692dd7d3e1d67ca426756c2a7cd,"feat(curriculum, client): add catalog (#60951)",2025-06-26T20:08:36Z,39,1516,moT01,freeCodeCamp,freeCodeCamp
+10e3004403971dc50298fc5933d64ba81d9ed4f1,fix(curriculum): update grid-column and grid-row lecture (#61092),2025-06-26T17:18:42Z,1,2,estefaniacn,freeCodeCamp,freeCodeCamp
+0b1658557a7e0e3ef08831429e09bf4a15dd07b5,feat(curriculum): add review tasks to block 16 of the A2 curriculum (…,2025-06-26T16:49:35Z,7,803,anastasiiauk,freeCodeCamp,freeCodeCamp
+e7cd4c230c49cd0f6b2b498e3de390e113b21c96,feat(curriculum): add review tasks to block 15 of the A2 curriculum (…,2025-06-26T16:46:34Z,34,446,anastasiiauk,freeCodeCamp,freeCodeCamp
+eab910134f50fb145a7c08fd491f74aa899733fc,feat(curriculum): add review tasks to block 14 of the A2 curriculum (…,2025-06-26T16:38:51Z,35,448,anastasiiauk,freeCodeCamp,freeCodeCamp
+3415f0886f6c12d4a97aaca69230944c493efda3,feat(curriculum): add review tasks to block 13 of the A2 curriculum (…,2025-06-26T16:36:25Z,51,542,anastasiiauk,freeCodeCamp,freeCodeCamp
+2cbd0bb6e43f65a9996991d4982188c3b9e78e25,feat(curriculum): add review tasks to block 27 of the A2 curriculum (…,2025-06-26T14:29:35Z,27,408,anastasiiauk,freeCodeCamp,freeCodeCamp
+2285f56aa96cdfbe8ea39c53341056d6e499d4d7,feat(curriculum): add review tasks to block 26 of the A2 curriculum (…,2025-06-26T14:29:12Z,37,564,anastasiiauk,freeCodeCamp,freeCodeCamp
+56e21ddeae4f9322672e1eaecb32b9f57edc95c9,feat(curriculum): add review tasks to block 25 of the A2 curriculum (…,2025-06-26T14:27:54Z,39,562,anastasiiauk,freeCodeCamp,freeCodeCamp
+0f59b2223cdda7fddb8d6aa567026d4d64873dd5,feat(curriculum): add review tasks to block 24 of the A2 curriculum (…,2025-06-26T14:27:14Z,29,410,anastasiiauk,freeCodeCamp,freeCodeCamp
+0f132a3dec179cc2ba013e31ed3adf23ae5ef418,feat(curriculum): add review tasks to block 23 of the A2 curriculum (…,2025-06-26T14:26:37Z,22,396,anastasiiauk,freeCodeCamp,freeCodeCamp
+f3b66c9e1093bdf19687500447d0b952b2e8d3fb,feat(curriculum): add review tasks to block 22 of the A2 curriculum (…,2025-06-26T14:25:57Z,30,606,anastasiiauk,freeCodeCamp,freeCodeCamp
+aa71253ce958a1d8860c5a5805363d5dcd69bfc0,feat(curriculum): add review tasks to block 21 of the A2 curriculum (…,2025-06-26T14:25:28Z,3,579,anastasiiauk,freeCodeCamp,freeCodeCamp
+efec05898ea445a90579efefb0e7eb3d73aeb604,feat(curriculum): add review tasks to block 20 of the A2 curriculum (…,2025-06-26T14:24:46Z,3,563,anastasiiauk,freeCodeCamp,freeCodeCamp
+4275413680abe4a804f2ee4ced5fee55521d5311,feat(curriculum): add review tasks to block 19 of the A2 curriculum (…,2025-06-26T14:23:49Z,3,551,anastasiiauk,freeCodeCamp,freeCodeCamp
+6de6414059a463484eb6f048e3e1339a343d3de9,feat(curriculum): add review tasks to block 18 of the A2 curriculum (…,2025-06-26T14:22:51Z,3,495,anastasiiauk,freeCodeCamp,freeCodeCamp
+bd98eaf365ee1838e112e69b5bda20f0da52a3a6,"fix(curriculum): change question, answer and distractor in quiz semat…",2025-06-26T13:10:32Z,1,14,StephenMuya,freeCodeCamp,freeCodeCamp
+9e6a097da95e238c15e34a6f2f62d67b9ec7d2de,fix(curriculum): Add note and example for script element in step 5 of…,2025-06-26T12:43:01Z,1,6,Giftea,freeCodeCamp,freeCodeCamp
 9b666dc60fd81cb10fe874ac7158534e28745470,"chore(i18n,learn): update i18n-curriculum submodule (#61062)",2025-06-25T17:31:02Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 5ae2e3eca701192b1e528f02f894d77ddbd079eb,"chore(deps,api): update date-fns and add date-fns-tz (#61048)",2025-06-25T16:49:04Z,4,60,moT01,freeCodeCamp,freeCodeCamp
 98326d266f495fb1d4fc5f836bebcb35d9571da7,feat(curriculum): add review tasks to block 12 of the A2 curriculum (…,2025-06-25T15:51:47Z,75,878,anastasiiauk,freeCodeCamp,freeCodeCamp
@@ -245,6 +263,3 @@ c754f29879ed0a36a309084a54c995dfd7926605,"chore(i18n,client): processed translat
 a90e2757ac26d5753e22557de31df05aab443013,chore(api): add exam-env test script (#60445),2025-05-27T04:23:51Z,3,48,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 0b1db2b9c682e1ba1ff7085a210e2eab5f684748,fix(api): handle expected Auth0 errors (#60499),2025-05-27T04:21:03Z,4,156,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 6299f545edf3db52e49ef9e65d9a705f7e9b5dd5,fix(curriculum): typos in DOM review (#60534),2025-05-27T03:57:38Z,1,4,Supravisor,freeCodeCamp,freeCodeCamp
-4af4f7bff4c935196a7437dbca56ea2c6c426e42,fix(curriculum): typo in learn introductions in an online team meetin…,2025-05-26T18:36:24Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-469f0c0f0ba2ad65da415cfa10fd28754bb7ce62,fix(curriculum): make spaces optional in movie rating test (#60524),2025-05-26T16:55:58Z,1,2,lejenhan,freeCodeCamp,freeCodeCamp
-1b14282da085a9aacf1c081eb6909a02310f18d6,fix(curriculum): make spacing requirement less strict in Movie Review…,2025-05-26T09:13:26Z,1,4,PabloGarza328,freeCodeCamp,freeCodeCamp
