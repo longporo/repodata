@@ -1,4 +1,17 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+b7b02ee1590b2ec1402eb5e33d985eb4a06c3481,feat(client): independent lower jaw ab test (#61085),2025-06-27T19:52:36Z,9,395,ahmaxed,freeCodeCamp,freeCodeCamp
+ecd5582ed9f0991e74ccd71bcf713f0f10c6332b,fix(curriculum): update quiz questions to focus on React keys and lis…,2025-06-27T19:39:15Z,1,30,Giftea,freeCodeCamp,freeCodeCamp
+9d0b78496c47fafdcdaee0b6edfaa4bb908a7736,fix(curriculum): rename get-weather button id to get-weather-btn (#61…,2025-06-27T17:27:50Z,1,40,anubhav-m,freeCodeCamp,freeCodeCamp
+97c4f45dd550757e106f256e88a9e5f9c05ae8e2,chore(curriculum): add domain variety to email masking visible tests …,2025-06-27T17:08:02Z,1,14,Giftea,freeCodeCamp,freeCodeCamp
+fefbfd7c588253d8fcbfe649b4f988cda38a1c30,chore(curriculum): update setPowers instructions in Build Superhero A…,2025-06-27T17:05:02Z,1,4,Giftea,freeCodeCamp,freeCodeCamp
+63a0676412a83f8df0a2d45478fa9424a8a40501,fix(curriculum): allow optional semicolon in Card component return st…,2025-06-27T16:32:42Z,1,2,hassanwaqa,freeCodeCamp,freeCodeCamp
+a456a1cbfa155fb90dfb531154115892782287b2,feat(client): don't show tailwind warning to learners (#61103),2025-06-27T16:06:00Z,1,21,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+d98d5f120a35179009b9cdaaad1c2e60fff8df4d,fix(curriculum): reword question in passing props React lecture (#61075),2025-06-27T13:00:15Z,1,4,Supravisor,freeCodeCamp,freeCodeCamp
+68e829f097447c113d5d9251d51e9014f2198724,fix(curriculum): clarify user story in fCC Forum Leaderboard (#61074),2025-06-27T12:49:16Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+12dea37cbb0e57685016617ad344fecdf873c29f,feat(curriculum): add review tasks to block 8 of the A2 curriculum (#…,2025-06-27T11:27:05Z,72,1043,anastasiiauk,freeCodeCamp,freeCodeCamp
+f1db7ba8e2ab4cebe91ae73c3062e67bb5210c0c,feat(curriculum): add review tasks to block 7 of the A2 curriculum (#…,2025-06-27T11:26:23Z,79,906,anastasiiauk,freeCodeCamp,freeCodeCamp
+74db899ef40ce732372d3ae5a307a3429742fd13,feat(curriculum): add review tasks to block 9 of the A2 curriculum (#…,2025-06-27T11:22:33Z,80,882,anastasiiauk,freeCodeCamp,freeCodeCamp
+7920376a5f5b748946e8ff1ca63400c5ca5ec0e3,fix(curriculum): Corrected Grammar in CSS Layouts and Effects Review …,2025-06-27T03:46:20Z,2,4,tanmaygautam11,freeCodeCamp,freeCodeCamp
 3af161450fe35692dd7d3e1d67ca426756c2a7cd,"feat(curriculum, client): add catalog (#60951)",2025-06-26T20:08:36Z,39,1516,moT01,freeCodeCamp,freeCodeCamp
 10e3004403971dc50298fc5933d64ba81d9ed4f1,fix(curriculum): update grid-column and grid-row lecture (#61092),2025-06-26T17:18:42Z,1,2,estefaniacn,freeCodeCamp,freeCodeCamp
 0b1658557a7e0e3ef08831429e09bf4a15dd07b5,feat(curriculum): add review tasks to block 16 of the A2 curriculum (…,2025-06-26T16:49:35Z,7,803,anastasiiauk,freeCodeCamp,freeCodeCamp
@@ -247,19 +260,3 @@ df7c9bcdf1d649513c4afc5b599b405c5f892366,feat(curriculum): add testing lecture v
 86b76f2eecf32cf2cfa4986da4aded1db1129295,chore(curriculum): add two labs to full stack/javascript/loops (#60185),2025-05-28T14:58:09Z,9,286,ilenia-magoni,freeCodeCamp,freeCodeCamp
 466e7208123e6428f8b1e265ae29e0ab3167522b,"fix(curriculum): correct ""Psuedocode"" typo in TOP lesson C (#60558)",2025-05-28T10:49:14Z,1,2,anjanavishvanath,freeCodeCamp,freeCodeCamp
 15cd2b48ce085b9085ee3a997f5120f8dcd31b73,fix(curriculum): correct typo 'strech' to 'stretch' in Task 9 (#60554),2025-05-28T08:17:32Z,1,2,phoenixvasu,freeCodeCamp,freeCodeCamp
-d0eacea68ded24dbadfe2b4b6333f41353db4403,fix(curriculum): typos in JS review (#60548),2025-05-27T16:54:33Z,1,4,dev-kamil,freeCodeCamp,freeCodeCamp
-3cde3e17d60593de16366eb1674c4176f3afa386,refactor: remove unused format rules from response schema (#60538),2025-05-27T16:16:32Z,1,8,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-c754f29879ed0a36a309084a54c995dfd7926605,"chore(i18n,client): processed translations (#60528)",2025-05-27T16:09:37Z,10,332,camperbot,freeCodeCamp,freeCodeCamp
-2f5a7ce1f851e2d96fe02d5b296d55ea7a4e4f2e,"chore(i18n,learn): update i18n-curriculum submodule (#60530)",2025-05-27T16:08:23Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-50c0194ee4de2bc4c1290418bbd02133c6d71cd2,test(api): stop reporting request logs during testing (#60546),2025-05-27T16:05:25Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-4edd1af7e4f5e8db30a2a34a20664b93bffde00e,chore: corepack use pnpm (#60536),2025-05-27T14:48:54Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-5748ca5750f78ea07e5aa5dbbb380647ad14a429,fix(curriculum): allow encoded URLs in Weather App (#60514),2025-05-27T14:33:52Z,1,223,Anideep-Kalia,freeCodeCamp,freeCodeCamp
-90230f491db931eb28972d463073972a20e00690,fix(client): add note on JS support to interview prep blocks (#60509),2025-05-27T14:14:32Z,1,26,nobu1,freeCodeCamp,freeCodeCamp
-63f6a5d61e6162c1464721257731abba1bb8f9ae,fix: replace clean:server with clean:api (#60544),2025-05-27T11:52:28Z,1,2,huyenltnguyen,freeCodeCamp,freeCodeCamp
-89e9a31ceba5bd6e8ce1f20851ca5078fc604438,chore(deps): update i18next (#60542),2025-05-27T11:39:18Z,7,122,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-33e8c416a760fae029371deffb06caf4ad5290aa,fix(curriculum): update lab-permutation-generator test 7 (#60526),2025-05-27T10:53:23Z,1,5,AilaLu,freeCodeCamp,freeCodeCamp
-464bae459514f68760cdb144160cb0c266c6cc05,chore: update pnpm version,2025-05-27T07:47:57Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
-16e461385e385f7740a0874aa122bac7275b2f66,chore(api-server): bye-bye you served us well (#60520),2025-05-27T04:26:46Z,139,14662,raisedadead,freeCodeCamp,freeCodeCamp
-a90e2757ac26d5753e22557de31df05aab443013,chore(api): add exam-env test script (#60445),2025-05-27T04:23:51Z,3,48,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-0b1db2b9c682e1ba1ff7085a210e2eab5f684748,fix(api): handle expected Auth0 errors (#60499),2025-05-27T04:21:03Z,4,156,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-6299f545edf3db52e49ef9e65d9a705f7e9b5dd5,fix(curriculum): typos in DOM review (#60534),2025-05-27T03:57:38Z,1,4,Supravisor,freeCodeCamp,freeCodeCamp
