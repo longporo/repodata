@@ -1,17 +1,20 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X8691BpF,61115,chore: update tests in step 19 workshop-magazine,CLOSED,2025-06-28T09:48:33Z,2025-06-28T17:14:04Z,tekluabayneh,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X869qnhE,61104,Additional Assertion Requirements in Playing Cards Lab,OPEN,2025-06-27T09:18:19Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86rzrZh,59017,Improve navigation clarity: Rename 'News' to 'Tutorials' in drop-down navigation menu,OPEN,2025-02-26T18:17:10Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X8691AH_,61114,"chore: update workshop-magazine steps 13,18 to use specific asserts",OPEN,2025-06-28T09:41:12Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866vLLj,60806,chore: update tests to specific asserts tracking issue,OPEN,2025-06-10T09:59:05Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X862uUGG,60368,issues with tests for Design a Business Card lab,OPEN,2025-05-15T09:34:40Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X869pknn,61100,chore: update steps 8-9 of workshop-magazine to use specific asserts,OPEN,2025-06-27T07:53:27Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869yeQY,61111,JavaScript Asynchronous Programming lecture question not discussed in video/transcript,OPEN,2025-06-27T21:23:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869K7q1,61052,React Fundamentals quiz misses keys and over-emphasizes Vite,CLOSED,2025-06-25T01:31:03Z,2025-06-27T19:39:16Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8684DjN,61015,Small Naming Convention Issue in Build A Weather App Lab - Javascript Section - Full Stack Web Dev Course,CLOSED,2025-06-23T16:44:23Z,2025-06-27T17:27:51Z,anubhav-m,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869AgSt,61028,Email Masker lab needs more varied examples,CLOSED,2025-06-24T08:49:40Z,2025-06-27T17:08:03Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869j0UR,61095,Build a Superhero Application Form - Step 18 wording,CLOSED,2025-06-26T20:13:44Z,2025-06-27T17:05:04Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869KJkB,61050,[Profile Card workshop] step 1 test fails to pass due to semicolon,CLOSED,2025-06-24T23:08:50Z,2025-06-27T16:32:44Z,Hassan Waqar,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X869qnhE,61104,Additional Assertion Requirements in Playing Cards Lab,OPEN,2025-06-27T09:18:19Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862uUGG,60368,issues with tests for Design a Business Card lab,OPEN,2025-05-15T09:34:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869H_DQ,61045,lecture on passing React props contains an ambiguously phrased question,CLOSED,2025-06-24T18:59:50Z,2025-06-27T13:00:16Z,Supravisor;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869PMLJ,61053,"""Build an fCC forum leaderboard"" -- unclear instructions",CLOSED,2025-06-25T09:14:04Z,2025-06-27T12:49:17Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869pqkT,61101,chore: update tests in workshop-magazine 10-11-12 to use specific asserts,OPEN,2025-06-27T08:00:32Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866vLLj,60806,chore: update tests to specific asserts tracking issue,OPEN,2025-06-10T09:59:05Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X869pknn,61100,chore: update steps 8-9 of workshop-magazine to use specific asserts,OPEN,2025-06-27T07:53:27Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869orQo,61099,Sign in to confrim you're not a bot on lecture videos,CLOSED,2025-06-27T06:35:51Z,2025-06-27T07:20:23Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868kw2e,60953,Build a Superhero Application Form step 21 too strict,OPEN,2025-06-20T15:48:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869EwnT,61041,Tests passed code for the RPG Creature Search project with an incorrect endpoint,OPEN,2025-06-24T14:02:41Z,,,freeCodeCamp,freeCodeCamp
@@ -246,14 +249,3 @@ I_kwDOAbI7X864b1Ju,60547,Fix mobile responsive issues for Weather app,CLOSED,202
 I_kwDOAbI7X864xdHt,60594,typo in lab - weather app - test 15,CLOSED,2025-05-29T11:02:19Z,2025-05-29T14:03:09Z,RobTou,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864dObI,60550,Issue with What Are Some Common Accessibility Auditing Tools to Use?,CLOSED,2025-05-27T17:31:18Z,2025-05-29T11:45:35Z,RITIKMANGAL,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864ucAi,60583,Can a one-time donation remove ads?,CLOSED,2025-05-29T04:58:48Z,2025-05-29T06:04:38Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86uxnmH,59343,Update FSD order to reflect changes discussed in curriculum meeting,CLOSED,2025-03-19T15:33:29Z,2025-05-28T22:31:35Z,moT01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86QC8Cd,55559,Allow all valid versions of browser alert,CLOSED,2024-07-18T15:10:51Z,2025-05-28T17:36:35Z,Monica Behrend;monbehre;raisedadead;riyueguang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864dI5R,60549,"Issue with What Is the CSS Box Model, and How Does It Work? lecture",OPEN,2025-05-27T17:21:21Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86iV28g,57436,URGENT - labs need a reset code button,CLOSED,2024-12-06T18:03:16Z,2025-05-28T15:18:40Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86wD3Tw,59469,Break up accessibility lecture block into smaller blocks,CLOSED,2025-03-27T17:05:58Z,2025-05-28T15:13:19Z,jdwilkin4,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861cTFs,60200,Width for code examples in lectures are not the same,OPEN,2025-05-06T21:46:42Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864euHO,60555,[TOP] Typo in Learn to Solve Problems and Understand Errors Lesson C,CLOSED,2025-05-27T20:03:50Z,2025-05-28T10:49:16Z,“anjanavishvanath”,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864lAet,60560,Keyboard does not work in the console,CLOSED,2025-05-28T09:36:46Z,2025-05-28T10:36:04Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864WKON,60535,Improve post-sign-up feedback for new and returning users.,CLOSED,2025-05-27T06:54:10Z,2025-05-28T09:27:13Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864jjkq,60556,Design a movie review page,CLOSED,2025-05-28T07:22:03Z,2025-05-28T08:25:53Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864Yfww,60541,Typo in Discuss Your Morning or Evening Routine - Task 9,CLOSED,2025-05-27T10:25:20Z,2025-05-28T08:17:34Z,phoenixvasu,freeCodeCamp,freeCodeCamp
