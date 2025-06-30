@@ -1,4 +1,5 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+5c61f3e3e053048030753cc34a022d6202d7f208,"fix(curriculum): update workshop-magazine steps 13,18 to use specific…",2025-06-29T05:08:35Z,2,28,satya-2810,freeCodeCamp,freeCodeCamp
 4865efb3fa3a70044cb4967a91713e59ddde1382,chore(curriculum): replace find_case_body helper (#61107),2025-06-28T18:41:15Z,7,26,Dario-DC,freeCodeCamp,freeCodeCamp
 b2ea6bdea357cd02be19f77bd129f7f0e116e81c,chore:  update asserts in step 19 tests (#61118),2025-06-28T17:14:03Z,1,26,tekluabayneh,freeCodeCamp,freeCodeCamp
 b7b02ee1590b2ec1402eb5e33d985eb4a06c3481,feat(client): independent lower jaw ab test (#61085),2025-06-27T19:52:36Z,9,395,ahmaxed,freeCodeCamp,freeCodeCamp
@@ -243,10 +244,3 @@ ad00f733f769abdac6e5363fbce06cc86e2916bd,feat: add set 2 of questions for Backgr
 7ee3281428b17df7ac9c30ee36f68dfe592438cb,fix(curriculum): allow any inventory array declaration in Inventory M…,2025-05-30T10:41:21Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 17603b1fb1cf7beb5a98bba12b7e2d86f026806a,fix(curriculum): country spelling issue  in lab voting system challen…,2025-05-30T09:47:55Z,1,8,clarencepenz,freeCodeCamp,freeCodeCamp
 798015d62c87259f11dfb73b886252112624c2cc,fix(curriculum): typo in errors lesson in Odin project (#60593),2025-05-30T06:50:42Z,1,2,drrakonov,freeCodeCamp,freeCodeCamp
-9328507f18496dd3ddc18c4c516e9c61d2ccc42b,fix(curriculum): update cat painting step 62-64 asserts (#60578),2025-05-29T19:36:32Z,3,14,1nc0gn30,freeCodeCamp,freeCodeCamp
-50c80215509597cb700a8639a64f03fc939a58fb,chore: update assertions to use assert.isString for Project Euler (#6…,2025-05-29T19:29:16Z,3,6,cstidm2,freeCodeCamp,freeCodeCamp
-8114156602166a76156c73f937d0549fc8065983,chore: use specific assert methods in project euler problems  (#60598),2025-05-29T19:21:51Z,5,10,AishwaryaRajput09,freeCodeCamp,freeCodeCamp
-25cff1ecd839009071d5988c7460c2b5ea42f136,chore(curriculum): hide prep exams (#60602),2025-05-29T18:29:07Z,1,30,moT01,freeCodeCamp,freeCodeCamp
-cf9742a0a5a8ec747b721d01217743ba6ea7cc2c,fix(curriculum): responsive issues for Weather app (#60552),2025-05-29T17:44:49Z,1,23,dev-kamil,freeCodeCamp,freeCodeCamp
-1b033ce15314931997230f7b92bbf67178c36f5c,fix(curriculum): typo in lab - weather app - test 15 (#60595),2025-05-29T14:03:07Z,1,2,RobTou,freeCodeCamp,freeCodeCamp
-8ce3f0028238d26b00831228c173bc0e74d32158,fix(curriculum): grammar issue in accessibility tools lecture (#60565),2025-05-29T11:45:34Z,1,2,RITIKMANGAL,freeCodeCamp,freeCodeCamp
