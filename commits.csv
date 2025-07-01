@@ -1,4 +1,12 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+b5f2115a7910feed24325471b6097387c5c7ded2,feat(curriculum): add binary search workshop (#60727),2025-06-30T16:39:28Z,19,947,Ksound22,freeCodeCamp,freeCodeCamp
+883286c242cb4c88fd86f816f8bb85c93ffe26c5,"chore(i18n,learn): update i18n-curriculum submodule (#61157)",2025-06-30T16:19:06Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+1b8945f993a33818c6c5e3d5bde7596b839e8d80,fix(curriculum): update lab page of playing cards test. (#61144),2025-06-30T15:46:59Z,1,8,StephenMuya,freeCodeCamp,freeCodeCamp
+1b4af50a75df6640fbbef8f1696a3863225cccb7,fix(curriculum): add .trim() to innerText assertions (#61109),2025-06-30T15:45:55Z,7,18,alexgoldsmith,freeCodeCamp,freeCodeCamp
+f81857068b2b42e16ec83e814984ce69d844d162,"chore(i18n,client): processed translations (#61151)",2025-06-30T14:11:30Z,20,796,camperbot,freeCodeCamp,freeCodeCamp
+502ca94e5a723b019e8ba52ec9fa04697f0e2730,fix(curriculum): updated assert method for steps 8-9 of workshop-maga…,2025-06-30T06:54:24Z,2,22,anish-eng,freeCodeCamp,freeCodeCamp
+ee6b4ab943f5016efb12f9647daca9622886ee77,fix(learn): show answer for quiz questions in Full stack curriculum (…,2025-06-30T04:43:44Z,1,1,Arjit31,freeCodeCamp,freeCodeCamp
+c19a22a695321523d72d8821fc7e60baa93bd893,chore(curriculum): update specific asserts in magazine workshop steps…,2025-06-30T04:07:38Z,3,20,bizcodz,freeCodeCamp,freeCodeCamp
 5c61f3e3e053048030753cc34a022d6202d7f208,"fix(curriculum): update workshop-magazine steps 13,18 to use specific…",2025-06-29T05:08:35Z,2,28,satya-2810,freeCodeCamp,freeCodeCamp
 4865efb3fa3a70044cb4967a91713e59ddde1382,chore(curriculum): replace find_case_body helper (#61107),2025-06-28T18:41:15Z,7,26,Dario-DC,freeCodeCamp,freeCodeCamp
 b2ea6bdea357cd02be19f77bd129f7f0e116e81c,chore:  update asserts in step 19 tests (#61118),2025-06-28T17:14:03Z,1,26,tekluabayneh,freeCodeCamp,freeCodeCamp
@@ -224,23 +232,3 @@ d525081a8541c238f9f434b443187793a28d3e75,fix(curriculum): replace unrelated curr
 ae07221ef4bdc7ddf49d58a94a16f4b862729bb2,fix(curriculum): misaligned titles (#60647),2025-06-02T02:39:39Z,2,4,moT01,freeCodeCamp,freeCodeCamp
 89402caa9d50ae3d85ffd973f8bf84c69b577164,chore(api): migrate to fastify v5 (#57576),2025-06-02T02:37:57Z,14,595,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 690d05c7b9fce177c054c3b4319ca4e63c928bdc,fix(curriculum): typo in js fundamentals (#60649),2025-06-01T21:00:25Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-6dbad93530e60df28a4c17b40e66b7d41759f16d,fix(curriculum): HTTP method string in Fetch API example (#60625),2025-05-31T06:22:51Z,1,6,dev-kamil,freeCodeCamp,freeCodeCamp
-8ad25f7e0fcda3ebe44231f7d80c0d7488cf34d7,fix(curriculum): clarify wording in css flexbox quiz questions (#60623),2025-05-30T21:07:06Z,1,20,vishnudt2004,freeCodeCamp,freeCodeCamp
-e588ca5e1f60b1175a4c516830588f52d2efcc40,fix(curriculum): remove `localStorage.clear()` from To-Do App (#60488),2025-05-30T21:06:51Z,23,960,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
-c99800d58485b084e10242139cecb8f8d1ba2188,chore(curriculum): rework first workshop (#60607),2025-05-30T19:19:22Z,11,203,moT01,freeCodeCamp,freeCodeCamp
-6772f61c0eb5dd1863c0a173dc8e4575159cf14b,chore: add lab-truncate-string to full-stack (#60570),2025-05-30T19:07:17Z,6,127,ilenia-magoni,freeCodeCamp,freeCodeCamp
-4546af911daa597fee4ed404c6a36fdffdb87dca,feat: add selection sort lab (#60591),2025-05-30T18:46:09Z,4,168,ilenia-magoni,freeCodeCamp,freeCodeCamp
-57642ef790795af39fff1ac0d2fbb67fa82d47b7,fix(curriculum): Update testing differences video id (#60620),2025-05-30T18:18:50Z,1,4,beaucarnes,freeCodeCamp,freeCodeCamp
-b99a9b2a8b7a9d966fc6e7515908bab92a2fa887,fix(curriculum): Update functional testing video id (#60622),2025-05-30T18:17:15Z,1,2,beaucarnes,freeCodeCamp,freeCodeCamp
-ac09fc0839036cd1b7472e59e42ac4261ca40a6a,fix(tools): ensure module name is available in external curricula dat…,2025-05-30T17:07:37Z,2,73,huyenltnguyen,freeCodeCamp,freeCodeCamp
-85bda9c63dfc9ebec7cb82054e1a30975f123c79,fix: handle when userinfo has no email address (#60557),2025-05-30T17:02:55Z,3,30,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-9c8759010645f9a62b8d095c2fc6a213a80b63b6,fix(client): add redirects for renamed projects (#60088),2025-05-30T17:01:32Z,1,8,moT01,freeCodeCamp,freeCodeCamp
-689cdf2480823c8adc03b82ff984040586cf09e0,feat: add usememo usecallback shopping list app workshop (#60101),2025-05-30T16:30:19Z,34,7086,scissorsneedfoodtoo,freeCodeCamp,freeCodeCamp
-55ad073e727d745c79f15726b8e159d5d5648e1e,feat(curriculum): add fruit search useEffect workshop (#59544),2025-05-30T16:03:22Z,25,3119,ihechikara,freeCodeCamp,freeCodeCamp
-3154e234153c9a6a3782c272f7f5c893042f6ff5,fix(curriculum): correct typo in js-loan-qual-workshop (#60619),2025-05-30T15:40:15Z,1,2,TrevorBrowning,freeCodeCamp,freeCodeCamp
-ad00f733f769abdac6e5363fbce06cc86e2916bd,feat: add set 2 of questions for Backgrounds and borders quiz (#60259),2025-05-30T15:40:03Z,1,442,roberiacono,freeCodeCamp,freeCodeCamp
-4bf9754ee191fe34aa08474880c870f0ff721591,feat(curriculum): add Caesar cipher workshop (#60198),2025-05-30T11:36:11Z,28,1371,Dario-DC,freeCodeCamp,freeCodeCamp
-8fe6064013a2defeab43d67dd88510be8c1d6031,feat(curriculum): adding questions for dictionaries and sets quiz (#6…,2025-05-30T11:08:07Z,1,259,jdwilkin4,freeCodeCamp,freeCodeCamp
-7ee3281428b17df7ac9c30ee36f68dfe592438cb,fix(curriculum): allow any inventory array declaration in Inventory M…,2025-05-30T10:41:21Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-17603b1fb1cf7beb5a98bba12b7e2d86f026806a,fix(curriculum): country spelling issue  in lab voting system challen…,2025-05-30T09:47:55Z,1,8,clarencepenz,freeCodeCamp,freeCodeCamp
-798015d62c87259f11dfb73b886252112624c2cc,fix(curriculum): typo in errors lesson in Odin project (#60593),2025-05-30T06:50:42Z,1,2,drrakonov,freeCodeCamp,freeCodeCamp
