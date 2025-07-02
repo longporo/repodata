@@ -1,15 +1,22 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X86-HTQd,61166,Browsing Topics API warning while using Firefox,OPEN,2025-06-30T19:13:55Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-BytU,61149,chore: update steps 20-21 in workshop-magazine to use specific assert methods,CLOSED,2025-06-30T11:30:19Z,2025-07-02T00:33:12Z,Aaron-Lopez-Dev,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86HQbQu,54572,Change share on Twitter to share on X,OPEN,2024-04-29T14:40:41Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X869exZE,61089,Project Idea Board: Misleading hint when unpinning non-existent item in board,OPEN,2025-06-26T12:26:36Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X869EwnT,61041,Tests passed code for the RPG Creature Search project with an incorrect endpoint,OPEN,2025-06-24T14:02:41Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-XO2I,61177,Add solution code to the metadata of the first workshop step,OPEN,2025-07-01T20:46:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-WH0H,61176,Add support for Bluesky profile links in freeCodeCamp user profiles,OPEN,2025-07-01T18:40:56Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-T-t6,61175,Updating options in challenge helper script for creating new projects,OPEN,2025-07-01T15:20:12Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86NI88D,55293,"A2 English for Developers (Beta): Option to pause and seek, transcript after first playback, add hints",OPEN,2024-06-22T17:50:45Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-EcAJ,61161,real time counter test wording about 50 character limitation is fuzzy,OPEN,2025-06-30T15:04:06Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-B2v5,61150,chore: update steps 22-23 of magazine workshop to use specific assert methods,CLOSED,2025-06-30T11:36:09Z,2025-07-01T12:07:51Z,aliyasyeddd,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-EJoj,61159,Bug in Step 6 of Merge Sort Algorithm Challenge,OPEN,2025-06-30T14:44:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-GFak,61164,Full Stack curriculum data types lesson,OPEN,2025-06-30T17:13:38Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-HTQd,61166,Browsing Topics API warning while using Firefox,OPEN,2025-06-30T19:13:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86ys5rt,59751,Add set 2 of questions for CSS Flexbox quiz,OPEN,2025-04-16T02:01:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869qnhE,61104,Additional Assertion Requirements in Playing Cards Lab,CLOSED,2025-06-27T09:18:19Z,2025-06-30T15:47:01Z,StephenMuya,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-ESxM,61160,controlled inputs mentioned too early in React workshop-fruit-search-app,OPEN,2025-06-30T14:54:08Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86-EcAJ,61161,real time counter test wording about 50 character limitation is fuzzy,OPEN,2025-06-30T15:04:06Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86-EJoj,61159,Bug in Step 6 of Merge Sort Algorithm Challenge,OPEN,2025-06-30T14:44:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867b4ZW,60860,Declaring multiple variables in a single line fails - Build an fCC Authors Page (step 7),OPEN,2025-06-13T20:08:12Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86-B2v5,61150,chore: update steps 22-23 of magazine workshop to use specific assert methods,OPEN,2025-06-30T11:36:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866vLLj,60806,chore: update tests to specific asserts tracking issue,OPEN,2025-06-10T09:59:05Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86-BytU,61149,chore: update steps 20-21 in workshop-magazine to use specific assert methods,OPEN,2025-06-30T11:30:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X860-p3l,60129,Add checks to ensure that proper headings are present in english curriculum challenges,OPEN,2025-05-02T15:45:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867heXg,60874,backend test runner does not set origin on fetch,OPEN,2025-06-14T12:41:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869pknn,61100,chore: update steps 8-9 of workshop-magazine to use specific asserts,CLOSED,2025-06-27T07:53:27Z,2025-06-30T06:54:26Z,anish-eng,freeCodeCamp,freeCodeCamp
@@ -30,7 +37,6 @@ I_kwDOAbI7X869H_DQ,61045,lecture on passing React props contains an ambiguously 
 I_kwDOAbI7X869PMLJ,61053,"""Build an fCC forum leaderboard"" -- unclear instructions",CLOSED,2025-06-25T09:14:04Z,2025-06-27T12:49:17Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869orQo,61099,Sign in to confrim you're not a bot on lecture videos,CLOSED,2025-06-27T06:35:51Z,2025-06-27T07:20:23Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868kw2e,60953,Build a Superhero Application Form step 21 too strict,OPEN,2025-06-20T15:48:55Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X869EwnT,61041,Tests passed code for the RPG Creature Search project with an incorrect endpoint,OPEN,2025-06-24T14:02:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869TCm_,61060,Grammar Correction in CSS Layouts and Effects Review Page,CLOSED,2025-06-25T14:28:12Z,2025-06-27T03:46:21Z,tanmaygautam11,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862iwe6,60341,Typo in lesson video,CLOSED,2025-05-14T10:06:14Z,2025-06-26T17:18:43Z,estefaniacn,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869TIrB,61061,Misleading hint on step 1 of the [Profile Card Component] workshop,OPEN,2025-06-25T14:35:57Z,,,freeCodeCamp,freeCodeCamp
@@ -42,7 +48,6 @@ I_kwDOAbI7X863Z0qU,60452,Feature Request: GitHub Integration for Auto-Saving Exe
 I_kwDOAbI7X868sbHR,60975,Form submission in preview don't give any feedback,OPEN,2025-06-22T08:15:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869fZY2,61090,mounting and unmounting not introduced in React lecture,OPEN,2025-06-26T13:22:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865rAUQ,60692,Update questions for set 2 of semantic HTML quiz,CLOSED,2025-06-03T18:44:07Z,2025-06-26T13:10:33Z,StephenMuya;gikf;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X869exZE,61089,Project Idea Board: Tests balk at guarding conditional and reference wrong hint,OPEN,2025-06-26T12:26:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869RyBT,61059,Add note and example for script element in step 5 of storytelling workshop,CLOSED,2025-06-25T12:57:27Z,2025-06-26T12:43:04Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864wrks,60589,Make editor easier to use,OPEN,2025-05-29T09:41:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863S51a,60446,[Curriculum] - Checking if zero Length is not the same as empty,CLOSED,2025-05-19T22:55:26Z,2025-06-25T20:47:27Z,,freeCodeCamp,freeCodeCamp
