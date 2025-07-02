@@ -1,4 +1,9 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+331f70da45cc56f6f3c8ee878de0c9f3f8c33b69,chore: update steps 20-21 in workshop-magazine to use specific assert…,2025-07-02T00:33:11Z,2,24,Aaron-Lopez-Dev,freeCodeCamp,freeCodeCamp
+d82e1b98a55072f6807a53d7ff21939e5627ea2b,feat(curriculum): add otp generator (#59121),2025-07-01T16:36:52Z,5,450,zairahira,freeCodeCamp,freeCodeCamp
+3877fd6d8f81189ec1db8644023a69ebd1f7e7f3,chore(curriculum): reorganize semantic html lectures (#61112),2025-07-01T16:29:39Z,19,167,jdwilkin4,freeCodeCamp,freeCodeCamp
+50482f5ccd97fe69d1d56e5359de7b6796daff46,fix(curriculum): typo in daily challenge (#61174),2025-07-01T15:34:32Z,1,2,moT01,freeCodeCamp,freeCodeCamp
+9418eadfe962250f29a2cfadaf3b4d1dffee356a,chore(curriculum): update magazine workshop steps 22–23 to use specif…,2025-07-01T12:07:49Z,2,58,aliyasyeddd,freeCodeCamp,freeCodeCamp
 b5f2115a7910feed24325471b6097387c5c7ded2,feat(curriculum): add binary search workshop (#60727),2025-06-30T16:39:28Z,19,947,Ksound22,freeCodeCamp,freeCodeCamp
 883286c242cb4c88fd86f816f8bb85c93ffe26c5,"chore(i18n,learn): update i18n-curriculum submodule (#61157)",2025-06-30T16:19:06Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 1b8945f993a33818c6c5e3d5bde7596b839e8d80,fix(curriculum): update lab page of playing cards test. (#61144),2025-06-30T15:46:59Z,1,8,StephenMuya,freeCodeCamp,freeCodeCamp
@@ -231,4 +236,3 @@ d525081a8541c238f9f434b443187793a28d3e75,fix(curriculum): replace unrelated curr
 7f5e4470803977ef4cdb399a90b59f2f8b3025fb,fix(curriculum): Allow `var` declarations in challenges (#60626),2025-06-02T08:04:26Z,19,48,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
 ae07221ef4bdc7ddf49d58a94a16f4b862729bb2,fix(curriculum): misaligned titles (#60647),2025-06-02T02:39:39Z,2,4,moT01,freeCodeCamp,freeCodeCamp
 89402caa9d50ae3d85ffd973f8bf84c69b577164,chore(api): migrate to fastify v5 (#57576),2025-06-02T02:37:57Z,14,595,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-690d05c7b9fce177c054c3b4319ca4e63c928bdc,fix(curriculum): typo in js fundamentals (#60649),2025-06-01T21:00:25Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
