@@ -1,4 +1,15 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+7de65597582f4265d29097867e2384c2d33297e0,"chore(i18n,learn): update i18n-curriculum submodule (#61188)",2025-07-02T16:53:06Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+0d3b23d2ad993cdd8e79016626d03d5795a85e09,chore(curriculum): update section markers to correct format (#61185),2025-07-02T16:10:08Z,20,40,Giftea,freeCodeCamp,freeCodeCamp
+3e1566d4bdad3cbba72bdb0f974ba544c42f743b,chore(learn): fix typo Introduction (#61182),2025-07-02T16:07:49Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
+20d9bf03504a6109ae451f56ce8077d69931de0d,fix(curriculum): add .trim() to innerText for workshop-cat-photo-app …,2025-07-02T16:07:06Z,17,52,alexgoldsmith,freeCodeCamp,freeCodeCamp
+415bf115436121b51bd22ddee77f705a1f0bb943,feat(curriculum): add pin-extractor workshop to FS (#60925),2025-07-02T15:42:15Z,23,1383,ilenia-magoni,freeCodeCamp,freeCodeCamp
+3fa13828e2fa0c183c2430766d830bd434ba9818,feat(curriculum): add curriculum warning msg component (#60876),2025-07-02T15:38:12Z,24,1303,jdwilkin4,freeCodeCamp,freeCodeCamp
+1f76ac71a42a69a827e51233d33e2f5fab660adc,feat(client): exam environment download page (#57325),2025-07-02T15:18:23Z,7,260,Sembauke,freeCodeCamp,freeCodeCamp
+f6107116e8ae610d68c975fc2f6eded410857b77,chore(curriculum): audit bash scripting quiz (#60462),2025-07-02T15:18:01Z,1,46,zairahira,freeCodeCamp,freeCodeCamp
+4f0cd7aee33fbb8cf3463ac6e605730b267cb47a,refactor(curriculum): update higher order function workshop to break …,2025-07-02T15:08:57Z,17,1827,jdwilkin4,freeCodeCamp,freeCodeCamp
+e2ec2c14b4f702fd0a97908eb54831742a762209,"chore(i18n,client): processed translations (#61187)",2025-07-02T13:07:40Z,10,430,camperbot,freeCodeCamp,freeCodeCamp
+e3e8fadd3bccd68cddc0385936ad90885bb8b420,refactor(tools): remove screenshot-service (#61172),2025-07-02T09:00:09Z,10,1537,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 331f70da45cc56f6f3c8ee878de0c9f3f8c33b69,chore: update steps 20-21 in workshop-magazine to use specific assert…,2025-07-02T00:33:11Z,2,24,Aaron-Lopez-Dev,freeCodeCamp,freeCodeCamp
 d82e1b98a55072f6807a53d7ff21939e5627ea2b,feat(curriculum): add otp generator (#59121),2025-07-01T16:36:52Z,5,450,zairahira,freeCodeCamp,freeCodeCamp
 3877fd6d8f81189ec1db8644023a69ebd1f7e7f3,chore(curriculum): reorganize semantic html lectures (#61112),2025-07-01T16:29:39Z,19,167,jdwilkin4,freeCodeCamp,freeCodeCamp
@@ -220,19 +231,3 @@ a659791dc29eafa61a86e0e714fbd8f853a75918,chore(curriculum): add slice-and-splice
 f7db89620d8eb3f16a27a398198d1e0ff33d42e5,fix(curriculum): typo in workshop fruit search app (#60678),2025-06-03T12:14:08Z,2,6,clarencepenz,freeCodeCamp,freeCodeCamp
 8e68328e10fc3a914a0dbb3db8d16142d08ab46b,fix(curriculum): add section element to Semantic HTML Review (#60580),2025-06-03T10:54:51Z,1,1,Supravisor,freeCodeCamp,freeCodeCamp
 1557711a689cdf806667fa4b98f55a9393656c46,"fix(tools): Update node to v22, improve caching? (#60651)",2025-06-03T09:35:40Z,13,2784,raisedadead,freeCodeCamp,freeCodeCamp
-d40abd19027b2d3312ff7ecb9fe187523279b0bc,fix(curriculum): remove stray backtick (#60670),2025-06-02T17:23:11Z,1,2,dev-kamil,freeCodeCamp,freeCodeCamp
-7ff1bd91fb6d7b7ab33d3ba7dcba5c9ad1bab894,fix(curriculum): typo in Data Types and Conditionals Lesson (#60669),2025-06-02T16:56:24Z,1,12,ItsAbhinavM,freeCodeCamp,freeCodeCamp
-725130ed552c8024f73640aab026333fc2264ca8,chore(curriculum) Project Euler problems 301–400 to use assert.isStri…,2025-06-02T16:21:09Z,4,8,DanBokete,freeCodeCamp,freeCodeCamp
-5bf1e82257ca86a75846a40a6f8f4d4ed94844db,fix(a11y): make code examples in quiz accessible (#60498),2025-06-02T16:18:14Z,2,34,huyenltnguyen,freeCodeCamp,freeCodeCamp
-6180702aefdb82506258ae6cd483311f7393639a,"chore(i18n,learn): update i18n-curriculum submodule (#60665)",2025-06-02T16:15:12Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-d42c3dccb1ffa7197456517d707015cbb7edec3d,Fix(curriculum): replace introduction sentence (#60659),2025-06-02T15:56:04Z,5,10,TrevorBrowning,freeCodeCamp,freeCodeCamp
-259f12bb542b69af1140f0b405170bb5f9348b62,"chore(i18n,client): processed translations (#60662)",2025-06-02T13:44:43Z,20,4318,camperbot,freeCodeCamp,freeCodeCamp
-d525081a8541c238f9f434b443187793a28d3e75,fix(curriculum): replace unrelated currying question (#60616),2025-06-02T12:23:29Z,1,38,vishnudt2004,freeCodeCamp,freeCodeCamp
-55b7d457834a644029b6a5a57d8dff8be6acfecb,"fix(client, curriculum): mismatched block titles (#60658)",2025-06-02T12:02:28Z,2,4,huyenltnguyen,freeCodeCamp,freeCodeCamp
-93e987e34bae79be5168fb0cda12f8337eb48694,fix(curriculum): typo in quiz testing (#60652),2025-06-02T09:59:36Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-9f270dcc798dfe292897dd47849fd7abb5648ea7,fix(curriculum): indentation in fCC Authors Page - step 4 (#60629),2025-06-02T09:58:56Z,1,2,dev-kamil,freeCodeCamp,freeCodeCamp
-99fce814ec5737451f13cdbebdc32bbf93bb6cb7,chore(curriculum): update asserts in magazine workshop step 17 (#60635),2025-06-02T08:32:12Z,1,12,TaemnLee,freeCodeCamp,freeCodeCamp
-2c3374e43dca48a20848e9e6041af447112acdbb,fix(curriculum): use specific chai asserts for euler problems 401-480…,2025-06-02T08:31:03Z,5,10,FairgrieveCS,freeCodeCamp,freeCodeCamp
-7f5e4470803977ef4cdb399a90b59f2f8b3025fb,fix(curriculum): Allow `var` declarations in challenges (#60626),2025-06-02T08:04:26Z,19,48,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
-ae07221ef4bdc7ddf49d58a94a16f4b862729bb2,fix(curriculum): misaligned titles (#60647),2025-06-02T02:39:39Z,2,4,moT01,freeCodeCamp,freeCodeCamp
-89402caa9d50ae3d85ffd973f8bf84c69b577164,chore(api): migrate to fastify v5 (#57576),2025-06-02T02:37:57Z,14,595,ojeytonwilliams,freeCodeCamp,freeCodeCamp
