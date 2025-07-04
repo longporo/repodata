@@ -113,6 +113,7 @@ def process_pr(pr):
     was_merged = 1 if pr['state'] == 'MERGED' else 0
     return {
         'pr_number': pr['number'],
+        'created_date': pr['createdAt'],
         'time_to_first_review_sec': t1 if t1 is not None else '',
         'time_to_approval_sec': t2 if t2 is not None else '',
         'time_to_merge_sec': t3 if t3 is not None else '',
@@ -126,7 +127,7 @@ def main():
         row = process_pr(pr['node'])
         rows.append(row)
     with open(OUTPUT_CSV, 'w', newline='') as f:
-        writer = csv.DictWriter(f, fieldnames=['pr_number', 'time_to_first_review_sec', 'time_to_approval_sec',
+        writer = csv.DictWriter(f, fieldnames=['pr_number', 'created_date', 'time_to_first_review_sec', 'time_to_approval_sec',
                                                'time_to_merge_sec', 'was_merged'])
         writer.writeheader()
         writer.writerows(rows)
