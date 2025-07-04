@@ -1,12 +1,19 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X86-yPYO,61203,Full Stack HTML Accessibility curriculum: tabindex clarification,OPEN,2025-07-03T22:54:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86k9SwL,57897,The `h1` element of review pages are smaller than the `h2` elements there,OPEN,2025-01-03T12:53:44Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-okqZ,61195,Need explanation for forward slash in void elements,OPEN,2025-07-03T07:11:25Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-g9Cj,61193,Microsoft Learn account URL changed format. Can't link my account,CLOSED,2025-07-02T15:26:43Z,2025-07-03T18:24:33Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-WH0H,61176,Add support for Bluesky profile links in freeCodeCamp user profiles,OPEN,2025-07-01T18:40:56Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-tTrQ,61198,Client Side Form Transcript incomplete,OPEN,2025-07-03T14:11:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-trTH,61200,avatars don't load in Forum Leaderboard lab,OPEN,2025-07-03T14:42:55Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X869g6Qx,61091,console.log always prints last state of mutable object instead of the one at point of execution,CLOSED,2025-06-26T15:32:41Z,2025-07-03T14:11:55Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-gpp_,61191,Donation prompt animation should probably be modified,CLOSED,2025-07-02T15:00:52Z,2025-07-03T11:29:44Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-ggqf,61190,assert errors from dom-test-evaluator are confusing,CLOSED,2025-07-02T14:50:23Z,2025-07-03T07:19:39Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-dA1L,61181,hint not precise enough in greeting bot workshop,OPEN,2025-07-02T09:41:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869KzgP,61051,React Fundamentals missing lab work or workshop on keys and list rendering,OPEN,2025-06-25T01:06:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866HfdB,60732,Tic-tac-toe lab - testing draw is too lenient,OPEN,2025-06-05T20:14:23Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86-g9Cj,61193,Microsoft Learn account URL changed format. Can't link my account,OPEN,2025-07-02T15:26:43Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86-ggqf,61190,assert errors from dom-test-evaluator are confusing,OPEN,2025-07-02T14:50:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-dqFs,61184,Correct section markers,CLOSED,2025-07-02T10:40:48Z,2025-07-02T16:10:09Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-g4SK,61192,Microsoft Learn account URL changed format. Can't link my account,CLOSED,2025-07-02T15:20:13Z,2025-07-02T15:29:02Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86-gpp_,61191,Donation prompt animation should probably be modified,OPEN,2025-07-02T15:00:52Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86xFZSB,59590,No Higher Order Callback function walkthroughs,CLOSED,2025-04-04T00:26:42Z,2025-07-02T15:08:59Z,jdwilkin4,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869exZE,61089,Project Idea Board: Misleading hint when unpinning non-existent item in board,OPEN,2025-06-26T12:26:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-cGd2,61180,chore: update steps 25 to 30 in magazine workshop to use specific asserts,OPEN,2025-07-02T08:20:48Z,,,freeCodeCamp,freeCodeCamp
@@ -14,7 +21,6 @@ I_kwDOAbI7X866vLLj,60806,chore: update tests to specific asserts tracking issue,
 I_kwDOAbI7X86-b-u3,61179,chore: update assers steps 24-25 in the magazine workshop,OPEN,2025-07-02T08:09:44Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869EwnT,61041,Tests passed code for the RPG Creature Search project with an incorrect endpoint,OPEN,2025-06-24T14:02:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869yeQY,61111,JavaScript Asynchronous Programming lecture question not discussed in video/transcript,OPEN,2025-06-27T21:23:23Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86-WH0H,61176,Add support for Bluesky profile links in freeCodeCamp user profiles,OPEN,2025-07-01T18:40:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-BytU,61149,chore: update steps 20-21 in workshop-magazine to use specific assert methods,CLOSED,2025-06-30T11:30:19Z,2025-07-02T00:33:12Z,Aaron-Lopez-Dev,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86HQbQu,54572,Change share on Twitter to share on X,OPEN,2024-04-29T14:40:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-XO2I,61177,Add solution code to the metadata of the first workshop step,OPEN,2025-07-01T20:46:29Z,,,freeCodeCamp,freeCodeCamp
@@ -51,7 +57,6 @@ I_kwDOAbI7X868kw2e,60953,Build a Superhero Application Form step 21 too strict,O
 I_kwDOAbI7X869TCm_,61060,Grammar Correction in CSS Layouts and Effects Review Page,CLOSED,2025-06-25T14:28:12Z,2025-06-27T03:46:21Z,tanmaygautam11,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862iwe6,60341,Typo in lesson video,CLOSED,2025-05-14T10:06:14Z,2025-06-26T17:18:43Z,estefaniacn,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869TIrB,61061,Misleading hint on step 1 of the [Profile Card Component] workshop,OPEN,2025-06-25T14:35:57Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X869g6Qx,61091,console.log always prints last state of mutable object instead of the one at point of execution,OPEN,2025-06-26T15:32:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8591_b8,53486,Provide code example for first mention of `toLowerCase` method in step 79 calorie counter,CLOSED,2024-02-01T01:37:54Z,2024-02-01T12:39:11Z,netanelben,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869eM0J,61088,React lecture video on how-do-you-update-objects-in-state has incomplete transcript,CLOSED,2025-06-26T11:33:29Z,2025-06-26T15:05:01Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863pk0P,60473,Add images for the RPG creatures project,CLOSED,2025-05-21T18:47:38Z,2025-06-26T15:08:57Z,,freeCodeCamp,freeCodeCamp
@@ -113,7 +118,6 @@ I_kwDOAbI7X868SO2n,60931,[Profile Card workshop] Step 4 not checking the return 
 I_kwDOAbI7X86mUYIE,58161,Sentence Analyzer Small Confusions,OPEN,2025-01-15T16:56:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86lCvuZ,57921,Curriculum: Support teaching campers how to edit JSON files,CLOSED,2025-01-04T18:44:13Z,2025-06-19T15:32:34Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86k_3Fv,57918,Disable preview for labs that don't need them,CLOSED,2025-01-03T21:35:28Z,2025-06-19T15:20:11Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86k9SwL,57897,The `h1` element of review pages are smaller than the `h2` elements there,OPEN,2025-01-03T12:53:44Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86kHZ22,57648,Creating a new Information Security Project - Web Vulnerability Scanner,CLOSED,2024-12-20T19:56:26Z,2025-06-19T15:04:28Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86kF6fU,57640,[bug] donation modal mostly empty,CLOSED,2024-12-20T15:59:04Z,2025-06-19T15:02:08Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86jPhOB,57518,Form validation and completion modal,CLOSED,2024-12-13T16:25:41Z,2025-06-19T14:58:53Z,,freeCodeCamp,freeCodeCamp
@@ -221,16 +225,3 @@ I_kwDOAbI7X8652pk4,60708,change title to lecture,CLOSED,2025-06-04T14:42:47Z,202
 I_kwDOAbI7X862tl3F,60366,Session Recordings Common UX issues.,OPEN,2025-05-15T08:27:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865k7wX,60680,Typo in Lightbox Viewer lab intro,CLOSED,2025-06-03T10:53:37Z,2025-06-04T07:32:03Z,kellbosu,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861mrXN,60219,Number constructor lecture video has incorrect code example and explanation,OPEN,2025-05-07T18:19:02Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865U2gk,60654,chore: update nutritional label workshop steps 1-2 to use specific asserts,CLOSED,2025-06-02T08:58:00Z,2025-06-03T21:40:48Z,huyenltnguyen;kkoeplin,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86xIIqJ,59592,Create lecture files for python chapter,CLOSED,2025-04-04T08:51:06Z,2025-06-03T21:36:33Z,ilenia-magoni,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865nEm4,60686,Newlines break Movie Review Page test,CLOSED,2025-06-03T13:39:14Z,2025-06-03T21:33:34Z,StephenMuya,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864sFrV,60576,first challenge of backend and api microservices does not give enough infos,OPEN,2025-05-28T21:09:54Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864sJtn,60577,greeting bot teaches declaration then assignment,OPEN,2025-05-28T21:16:32Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861E7Zc,60147,Import Fonts Error in Build an Event Flyer Page,CLOSED,2025-05-04T12:06:39Z,2025-06-03T20:28:16Z,MelvinManni;ilenia-magoni,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86r08iJ,59022,Feature: add a playground page,OPEN,2025-02-26T20:50:01Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864dV1c,60551,chore: update cat painting workshops steps 54-55-56 to use specific asserts,CLOSED,2025-05-27T17:44:00Z,2025-06-03T17:47:15Z,c0d1ng-ma5ter;gikf,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865ZV8N,60664,test issue in voting system lab,CLOSED,2025-06-02T14:26:02Z,2025-06-03T17:42:06Z,Supravisor;gikf,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865U0Sm,60653,chore: update asserts in magazine workshop steps 15-16-17,CLOSED,2025-06-02T08:55:21Z,2025-06-03T17:31:04Z,anurpeljto,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86kZtez,57750,Lecture blocks left to add for the Frontend Libraries Chapter,CLOSED,2024-12-24T18:49:12Z,2025-06-03T15:59:30Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865IGtW,60634,Full Stack Curriculum: CSS Lecture Quiz assumes knowledge of concepts not yet introduced,CLOSED,2025-05-31T18:24:25Z,2025-06-03T15:43:52Z,StephenMuya;ilenia-magoni,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864q31X,60571,Semantic HTML Review doesn't mention section element,CLOSED,2025-05-28T18:42:54Z,2025-06-03T10:54:52Z,Supravisor;ilenia-magoni,freeCodeCamp,freeCodeCamp
