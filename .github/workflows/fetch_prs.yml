@@ -5,6 +5,14 @@ on:
     - cron: '0 2 * * *' # every day at 2am UTC
   workflow_dispatch:
 
+env:
+  PUBLIC_REPO_OWNER: freeCodeCamp
+  PUBLIC_REPO_NAME: freeCodeCamp
+  PRIVATE_REPO: ${{ secrets.REPO_SCOPED_TOKEN_USER }}/${{ secrets.REPO_SCOPED_TOKEN_REPO }}
+  PRIVATE_REPO_BRANCH: freeCodeCamp # Or your desired branch
+  COMMIT_EMAIL: github-actions[bot]@users.noreply.github.com
+  COMMIT_USERNAME: github-actions[bot]
+
 jobs:
   fetch-pr-lifecycle:
     runs-on: ubuntu-latest
