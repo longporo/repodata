@@ -111,29 +111,11 @@ $(document).ready(function() {
              if (processedCommits.length > 0) renderBarChart(processedCommits);
         });
 
-        // --- Funnel Chart Aggregation and Rendering ---
-        if (prData && prData.length > 0) {
-            // Aggregation logic
-            const funnelStages = [
-                { stage: 'Created', count: 0, avgTimeSec: null },
-                { stage: 'Reviewed', count: 0, avgTimeSec: null },
-                { stage: 'Approved', count: 0, avgTimeSec: null },
-                { stage: 'Merged', count: 0, avgTimeSec: null }
-            ];
-            funnelStages[0].count = prData.length;
-            const reviewed = prData.filter(d => d.time_to_first_review_sec && d.time_to_first_review_sec !== '' && d.time_to_first_review_sec !== 0);
-            funnelStages[1].count = reviewed.length;
-            funnelStages[1].avgTimeSec = reviewed.length > 0 ? d3.mean(reviewed, d => +d.time_to_first_review_sec) : null;
-            const approved = prData.filter(d => d.time_to_approval_sec && d.time_to_approval_sec !== '' && d.time_to_approval_sec !== 0);
-            funnelStages[2].count = approved.length;
-            funnelStages[2].avgTimeSec = approved.length > 0 ? d3.mean(approved, d => +d.time_to_approval_sec) : null;
-            const merged = prData.filter(d => d.was_merged === '1' || d.was_merged === 'true' || d.was_merged === 1);
-            funnelStages[3].count = merged.length;
-            funnelStages[3].avgTimeSec = merged.length > 0 ? d3.mean(merged, d => +d.time_to_merge_sec) : null;
-
-            renderFunnelChart(funnelStages);
-        }
-
+        // Funnel Chart Filter
+        $('#funnel-month-filter').on('change', function() {
+            updateFunnelChart(prData);
+        });
+        updateFunnelChart(prData);
     }).catch(error => {
         console.error('Error loading or processing CSV data:', error);
         // Display error message to the user
@@ -141,6 +123,32 @@ $(document).ready(function() {
          d3.select("#scatter-chart").html("<p class='text-danger text-center'>Error loading data. Check console.</p>");
          d3.select("#bar-chart").html("<p class='text-danger text-center'>Error loading data. Check console.</p>");
     });
+
+    function updateFunnelChart(prData) {
+        let filtered = prData;
+        const monthFilter = $('#funnel-month-filter').val();
+        if (monthFilter && monthFilter !== 'all') {
+            const [year, month] = monthFilter.split('-').map(Number);
+            filtered = prData.filter(d => d._funnelYear === year && d._funnelMonth === month - 1);
+        }
+        const funnelStages = [
+            { stage: 'Created', count: 0, avgTimeSec: null },
+            { stage: 'Reviewed', count: 0, avgTimeSec: null },
+            { stage: 'Approved', count: 0, avgTimeSec: null },
+            { stage: 'Merged', count: 0, avgTimeSec: null }
+        ];
+        funnelStages[0].count = filtered.length;
+        const reviewed = filtered.filter(d => d.time_to_first_review_sec && d.time_to_first_review_sec !== '' && d.time_to_first_review_sec !== 0);
+        funnelStages[1].count = reviewed.length;
+        funnelStages[1].avgTimeSec = reviewed.length > 0 ? d3.mean(reviewed, d => +d.time_to_first_review_sec) : null;
+        const approved = filtered.filter(d => d.time_to_approval_sec && d.time_to_approval_sec !== '' && d.time_to_approval_sec !== 0);
+        funnelStages[2].count = approved.length;
+        funnelStages[2].avgTimeSec = approved.length > 0 ? d3.mean(approved, d => +d.time_to_approval_sec) : null;
+        const merged = filtered.filter(d => d.was_merged === '1' || d.was_merged === 'true' || d.was_merged === 1);
+        funnelStages[3].count = merged.length;
+        funnelStages[3].avgTimeSec = merged.length > 0 ? d3.mean(merged, d => +d.time_to_merge_sec) : null;
+        renderFunnelChart(funnelStages);
+    }
 
     // --- Populate Month Filters --- (Helper function)
     function populateMonthFilters(commitData) {
