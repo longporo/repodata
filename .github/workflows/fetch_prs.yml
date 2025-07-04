@@ -50,6 +50,9 @@ jobs:
           DATE_RANGE: ${{ env.DATE_RANGE }}
         run: python scripts/fetch_prs.py
       
+      - name: Show Generated CSV Head
+        run: head prs.csv
+
       - name: Commit and Push CSV
         run: |
           git add prs.csv
