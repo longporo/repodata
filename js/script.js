@@ -1,6 +1,7 @@
 $(document).ready(function() {
     const issueDataPath = 'issues.csv';
     const commitDataPath = 'commits.csv';
+    const prDataPath = 'prs.csv';
 
     // Tooltip setup
     const ganttTooltip = d3.select("#gantt-tooltip");
@@ -10,8 +11,9 @@ $(document).ready(function() {
     // --- Data Loading and Processing ---
     Promise.all([
         d3.csv(issueDataPath),
-        d3.csv(commitDataPath)
-    ]).then(function([issueData, commitData]) {
+        d3.csv(commitDataPath),
+        d3.csv(prDataPath)
+    ]).then(function([issueData, commitData, prData]) {
         // Basic check if data loaded
         if (!issueData || issueData.length === 0) {
             console.warn("Issue data is empty or failed to load.");
@@ -24,6 +26,11 @@ $(document).ready(function() {
             d3.select("#scatter-chart").html("<p class='text-danger text-center'>Could not load commits.csv</p>");
             d3.select("#bar-chart").html("<p class='text-danger text-center'>Could not load commits.csv</p>");
             // return; // Stop if commits are critical
+        }
+        if (!prData || prData.length === 0) {
+            console.warn("PR data is empty or failed to load.");
+            d3.select("#funnel-chart").html("<p class='text-danger text-center'>Could not load prs.csv</p>");
+            return;
         }
 
         // --- Process Issue Data --- (Handle potential errors)
@@ -102,6 +109,29 @@ $(document).ready(function() {
         $('#bar-metric-select, #bar-month-filter').on('change', () => {
              if (processedCommits.length > 0) renderBarChart(processedCommits);
         });
+
+        // --- Funnel Chart Aggregation and Rendering ---
+        if (prData && prData.length > 0) {
+            // Aggregation logic
+            const funnelStages = [
+                { stage: 'Created', count: 0, avgTimeSec: null },
+                { stage: 'Reviewed', count: 0, avgTimeSec: null },
+                { stage: 'Approved', count: 0, avgTimeSec: null },
+                { stage: 'Merged', count: 0, avgTimeSec: null }
+            ];
+            funnelStages[0].count = prData.length;
+            const reviewed = prData.filter(d => d.time_to_first_review_sec && d.time_to_first_review_sec !== '');
+            funnelStages[1].count = reviewed.length;
+            funnelStages[1].avgTimeSec = reviewed.length > 0 ? d3.mean(reviewed, d => +d.time_to_first_review_sec) : null;
+            const approved = prData.filter(d => d.time_to_approval_sec && d.time_to_approval_sec !== '');
+            funnelStages[2].count = approved.length;
+            funnelStages[2].avgTimeSec = approved.length > 0 ? d3.mean(approved, d => +d.time_to_approval_sec) : null;
+            const merged = prData.filter(d => d.was_merged === '1' || d.was_merged === 'true' || d.was_merged === 1);
+            funnelStages[3].count = merged.length;
+            funnelStages[3].avgTimeSec = merged.length > 0 ? d3.mean(merged, d => +d.time_to_merge_sec) : null;
+
+            renderFunnelChart(funnelStages);
+        }
 
     }).catch(error => {
         console.error('Error loading or processing CSV data:', error);
@@ -443,4 +473,55 @@ $(document).ready(function() {
             });
     }
 
+    function renderFunnelChart(funnelStages) {
+        const container = d3.select('#funnel-chart');
+        container.html('');
+        const width = 600, height = 400, stageHeight = 80, margin = 40;
+        const svg = container.append('svg')
+            .attr('width', width)
+            .attr('height', height);
+        const maxCount = funnelStages[0].count;
+        const widthScale = d3.scaleLinear().domain([0, maxCount]).range([0, width - 2*margin]);
+        function formatTime(sec) {
+            if (sec == null) return 'N/A';
+            sec = +sec;
+            if (sec < 60) return `${sec}s`;
+            if (sec < 3600) return `${(sec/60).toFixed(1)} min`;
+            if (sec < 86400) return `${(sec/3600).toFixed(1)} hr`;
+            return `${(sec/86400).toFixed(1)} d`;
+        }
+        for (let i = 0; i < funnelStages.length; i++) {
+            const topWidth = widthScale(funnelStages[i].count);
+            const botWidth = i < funnelStages.length-1 ? widthScale(funnelStages[i+1].count) : topWidth;
+            const x0 = (width - topWidth) / 2;
+            const x1 = (width - botWidth) / 2;
+            const y0 = i * stageHeight + margin;
+            const y1 = (i+1) * stageHeight + margin;
+            const points = [
+                [x0, y0],
+                [x0+topWidth, y0],
+                [x1+botWidth, y1],
+                [x1, y1]
+            ];
+            svg.append('path')
+                .attr('d', d3.line()(points.concat([points[0]])))
+                .attr('fill', d3.schemeCategory10[i])
+                .attr('stroke', '#333')
+                .attr('opacity', 0.85)
+                .on('mouseover', function() {
+                    d3.select(this).attr('opacity', 1);
+                })
+                .on('mouseout', function() {
+                    d3.select(this).attr('opacity', 0.85);
+                });
+            svg.append('text')
+                .attr('x', width/2)
+                .attr('y', y0 + stageHeight/2)
+                .attr('text-anchor', 'middle')
+                .attr('dominant-baseline', 'middle')
+                .attr('font-size', 18)
+                .attr('fill', '#fff')
+                .text(`${funnelStages[i].stage}: ${funnelStages[i].count} PRs` + (funnelStages[i].avgTimeSec != null ? ` | Avg: ${formatTime(funnelStages[i].avgTimeSec)}` : ''));
+        }
+    }
 });
