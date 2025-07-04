@@ -89,6 +89,23 @@
             </div>
         </div>
 
+        <!-- PR Lifecycle Funnel Chart -->
+        <div class="row mb-5">
+            <div class="col-12">
+                <h2>Pull Request Lifecycle Funnel</h2>
+                <div class="row mb-3 controls">
+                    <div class="col-md-3">
+                        <label for="funnel-month-filter" class="form-label">Filter by Month:</label>
+                        <select id="funnel-month-filter" class="form-select form-select-sm">
+                            <option value="all">All Months</option>
+                            <!-- Options will be populated by JS -->
+                        </select>
+                    </div>
+                </div>
+                <div id="funnel-chart" class="chart-container"></div>
+            </div>
+        </div>
+
     </div>
 
     <!-- jQuery -->
