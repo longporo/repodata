@@ -35,6 +35,11 @@ jobs:
         run: |
           export DATE_RANGE="$(date -u -d '3 months ago' +'%Y-%m-%d')..$(date -u +'%Y-%m-%d')"
           echo "DATE_RANGE=$DATE_RANGE" >> $GITHUB_ENV
+      
+      - name: Set up Git config
+        run: |
+          git config --global user.email "${{ env.COMMIT_EMAIL }}"
+          git config --global user.name "${{ env.COMMIT_USERNAME }}"
 
       - name: Fetch PRs Data and Generate CSV
         env:
