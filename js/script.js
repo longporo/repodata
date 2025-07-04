@@ -86,6 +86,7 @@ $(document).ready(function() {
 
         // Populate month filters
         populateMonthFilters(processedCommits);
+        populateFunnelMonthFilter(prData);
 
         // --- Initial Chart Renders ---
         if (processedIssues.length > 0) renderGanttChart(processedIssues);
@@ -120,10 +121,10 @@ $(document).ready(function() {
                 { stage: 'Merged', count: 0, avgTimeSec: null }
             ];
             funnelStages[0].count = prData.length;
-            const reviewed = prData.filter(d => d.time_to_first_review_sec && d.time_to_first_review_sec !== '');
+            const reviewed = prData.filter(d => d.time_to_first_review_sec && d.time_to_first_review_sec !== '' && d.time_to_first_review_sec !== 0);
             funnelStages[1].count = reviewed.length;
             funnelStages[1].avgTimeSec = reviewed.length > 0 ? d3.mean(reviewed, d => +d.time_to_first_review_sec) : null;
-            const approved = prData.filter(d => d.time_to_approval_sec && d.time_to_approval_sec !== '');
+            const approved = prData.filter(d => d.time_to_approval_sec && d.time_to_approval_sec !== '' && d.time_to_approval_sec !== 0);
             funnelStages[2].count = approved.length;
             funnelStages[2].avgTimeSec = approved.length > 0 ? d3.mean(approved, d => +d.time_to_approval_sec) : null;
             const merged = prData.filter(d => d.was_merged === '1' || d.was_merged === 'true' || d.was_merged === 1);
@@ -523,5 +524,27 @@ $(document).ready(function() {
                 .attr('fill', '#fff')
                 .text(`${funnelStages[i].stage}: ${funnelStages[i].count} PRs` + (funnelStages[i].avgTimeSec != null ? ` | Avg: ${formatTime(funnelStages[i].avgTimeSec)}` : ''));
         }
+    }
+
+    function populateFunnelMonthFilter(prData) {
+        const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+        // Parse created_date to get year and month
+        prData.forEach(d => {
+            const date = d3.timeParse("%Y-%m-%dT%H:%M:%SZ")(d.created_date);
+            d._funnelYear = date ? date.getFullYear() : -1;
+            d._funnelMonth = date ? date.getMonth() : -1;
+        });
+        const availableMonths = [...new Set(prData.filter(d => d._funnelYear !== -1 && d._funnelMonth !== -1).map(d => `${d._funnelYear}-${String(d._funnelMonth + 1).padStart(2, '0')}`))]
+            .sort()
+            .map(ym => {
+                const [year, month] = ym.split('-');
+                return { value: ym, text: `${months[parseInt(month) - 1]} ${year}` };
+            });
+        const funnelSelect = $('#funnel-month-filter');
+        funnelSelect.empty();
+        funnelSelect.append($('<option></option>').attr('value', 'all').text('All Months'));
+        availableMonths.forEach(m => {
+            funnelSelect.append($('<option></option>').attr('value', m.value).text(m.text));
+        });
     }
 });
