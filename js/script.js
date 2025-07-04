@@ -512,9 +512,10 @@ $(document).ready(function() {
                 [x1+botWidth, y1],
                 [x1, y1]
             ];
+            const color = d3.schemeCategory10[i];
             svg.append('path')
                 .attr('d', d3.line()(points.concat([points[0]])))
-                .attr('fill', d3.schemeCategory10[i])
+                .attr('fill', color)
                 .attr('stroke', '#333')
                 .attr('opacity', 0.85)
                 .on('mouseover', function() {
@@ -523,14 +524,29 @@ $(document).ready(function() {
                 .on('mouseout', function() {
                     d3.select(this).attr('opacity', 0.85);
                 });
+            // Phase name centered
             svg.append('text')
                 .attr('x', width/2)
                 .attr('y', y0 + stageHeight/2)
                 .attr('text-anchor', 'middle')
                 .attr('dominant-baseline', 'middle')
-                .attr('font-size', 18)
-                .attr('fill', '#fff')
-                .text(`${funnelStages[i].stage}: ${funnelStages[i].count} PRs` + (funnelStages[i].avgTimeSec != null ? ` | Avg: ${formatTime(funnelStages[i].avgTimeSec)}` : ''));
+                .attr('font-size', 20)
+                .attr('font-weight', 'bold')
+                .attr('fill', color)
+                .text(funnelStages[i].stage);
+            // PR count and avg time to the right
+            let rightText = `${funnelStages[i].count} PRs`;
+            if (funnelStages[i].avgTimeSec != null) {
+                rightText += ` | Avg: ${formatTime(funnelStages[i].avgTimeSec)}`;
+            }
+            svg.append('text')
+                .attr('x', width/2 + topWidth/2 + 20)
+                .attr('y', y0 + stageHeight/2)
+                .attr('text-anchor', 'start')
+                .attr('dominant-baseline', 'middle')
+                .attr('font-size', 16)
+                .attr('fill', color)
+                .text(rightText);
         }
     }
 
