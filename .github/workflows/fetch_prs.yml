@@ -36,18 +36,23 @@ jobs:
           export DATE_RANGE="$(date -u -d '3 months ago' +'%Y-%m-%d')..$(date -u +'%Y-%m-%d')"
           echo "DATE_RANGE=$DATE_RANGE" >> $GITHUB_ENV
 
-      - name: Run PR lifecycle fetch script
+      - name: Fetch PRs Data and Generate CSV
         env:
-          PUBLIC_REPO_OWNER: ${{ secrets.PUBLIC_REPO_OWNER }}
-          PUBLIC_REPO_NAME: ${{ secrets.PUBLIC_REPO_NAME }}
-          GITHUB_TOKEN: ${{ secrets.PUBLIC_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          # Pass other env vars the script might need (already defined globally)
+          PUBLIC_REPO_OWNER: ${{ env.PUBLIC_REPO_OWNER }}
+          PUBLIC_REPO_NAME: ${{ env.PUBLIC_REPO_NAME }}
           DATE_RANGE: ${{ env.DATE_RANGE }}
+        run: python scripts/fetch_prs.py
+      
+      - name: Commit and Push CSV
         run: |
-          python scripts/fetch_prs.py
-
-      - name: Commit and push if changed
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add fetch_prs.csv || true
-          git diff --cached --quiet || (git commit -m 'Update PR lifecycle data' && git push) 
+          git add prs.csv
+          # Commit only if there are changes
+          if ! git diff --staged --quiet; then
+            git commit -m "Update commits data ($(date -u +'%Y-%m-%d'))"
+            # Add retry logic for push in case of transient network issues or conflicts
+            git push origin ${{ env.PRIVATE_REPO_BRANCH }} || (sleep 5 && git pull --rebase origin ${{ env.PRIVATE_REPO_BRANCH }} && git push origin ${{ env.PRIVATE_REPO_BRANCH }})
+          else
+            echo "No changes to commit."
+          fi 
