@@ -138,10 +138,10 @@ $(document).ready(function() {
             { stage: 'Merged', count: 0, avgTimeSec: null }
         ];
         funnelStages[0].count = filtered.length;
-        const reviewed = filtered.filter(d => d.time_to_first_review_sec && d.time_to_first_review_sec !== '' && d.time_to_first_review_sec !== 0);
+        const reviewed = filtered.filter(d => d.time_to_first_review_sec && d.time_to_first_review_sec !== '');
         funnelStages[1].count = reviewed.length;
         funnelStages[1].avgTimeSec = reviewed.length > 0 ? d3.mean(reviewed, d => +d.time_to_first_review_sec) : null;
-        const approved = filtered.filter(d => d.time_to_approval_sec && d.time_to_approval_sec !== '' && d.time_to_approval_sec !== 0);
+        const approved = filtered.filter(d => d.time_to_approval_sec && d.time_to_approval_sec !== '');
         funnelStages[2].count = approved.length;
         funnelStages[2].avgTimeSec = approved.length > 0 ? d3.mean(approved, d => +d.time_to_approval_sec) : null;
         const merged = filtered.filter(d => d.was_merged === '1' || d.was_merged === 'true' || d.was_merged === 1);
@@ -486,11 +486,13 @@ $(document).ready(function() {
         const container = d3.select('#funnel-chart');
         container.html('');
         const width = 600, height = 400, stageHeight = 80, margin = 40;
+        const funnelWidth = (width - 2 * margin) / 2; // Only use left half for funnel
+        const rightTextX = width / 2 + funnelWidth / 2 + 20; // Start of right half for text
         const svg = container.append('svg')
             .attr('width', width)
             .attr('height', height);
         const maxCount = funnelStages[0].count;
-        const widthScale = d3.scaleLinear().domain([0, maxCount]).range([0, width - 2*margin]);
+        const widthScale = d3.scaleLinear().domain([0, maxCount]).range([0, funnelWidth]);
         function formatTime(sec) {
             if (sec == null) return 'N/A';
             sec = +sec;
@@ -502,15 +504,16 @@ $(document).ready(function() {
         for (let i = 0; i < funnelStages.length; i++) {
             const topWidth = widthScale(funnelStages[i].count);
             const botWidth = i < funnelStages.length-1 ? widthScale(funnelStages[i+1].count) : topWidth;
-            const x0 = (width - topWidth) / 2;
-            const x1 = (width - botWidth) / 2;
+            // Funnel is left-aligned in left half
+            const left = margin + (funnelWidth - topWidth) / 2;
+            const leftBot = margin + (funnelWidth - botWidth) / 2;
             const y0 = i * stageHeight + margin;
             const y1 = (i+1) * stageHeight + margin;
             const points = [
-                [x0, y0],
-                [x0+topWidth, y0],
-                [x1+botWidth, y1],
-                [x1, y1]
+                [left, y0],                    // top left
+                [left + topWidth, y0],         // top right
+                [leftBot + botWidth, y1],      // bottom right
+                [leftBot, y1]                  // bottom left
             ];
             const color = d3.schemeCategory10[i];
             svg.append('path')
@@ -524,25 +527,25 @@ $(document).ready(function() {
                 .on('mouseout', function() {
                     d3.select(this).attr('opacity', 0.85);
                 });
-            // Phase name centered
+            // Phase name centered in left half
             svg.append('text')
-                .attr('x', width/2)
+                .attr('x', margin + funnelWidth / 2)
                 .attr('y', y0 + stageHeight/2)
                 .attr('text-anchor', 'middle')
                 .attr('dominant-baseline', 'middle')
                 .attr('font-size', 20)
                 .attr('font-weight', 'bold')
-                .attr('fill', color)
+                .attr('fill', '#fff')
                 .text(funnelStages[i].stage);
-            // PR count and avg time to the right
+            // PR count and avg time to the right half
             let rightText = `${funnelStages[i].count} PRs`;
             if (funnelStages[i].avgTimeSec != null) {
                 rightText += ` | Avg: ${formatTime(funnelStages[i].avgTimeSec)}`;
             }
             svg.append('text')
-                .attr('x', width/2 + topWidth/2 + 20)
+                .attr('x', rightTextX)
                 .attr('y', y0 + stageHeight/2)
-                .attr('text-anchor', 'start')
+                .attr('text-anchor', 'end')
                 .attr('dominant-baseline', 'middle')
                 .attr('font-size', 16)
                 .attr('fill', color)
