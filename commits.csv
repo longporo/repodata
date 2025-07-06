@@ -210,8 +210,3 @@ e8bde95a2dbdef08535371d2a27e22d3ffe20802,fix(curriculum): use lower case int in 
 ed2bdfcf961978b55b1240b72b6baa90d65d9a0b,fix(curriculum): standardize Next.js proper names (#60734),2025-06-06T10:03:14Z,1,2,dev-kamil,freeCodeCamp,freeCodeCamp
 d04d26f515b8c55107beef7a7346a8977ee45d38,fix(curriculum): typo in lecture working with loops and sequences (#6…,2025-06-06T08:47:33Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
 9df9b675c189b893f91e653aae0cd937d0856350,fix(curriculum): missing preposition (#60735),2025-06-06T03:54:22Z,1,2,dev-kamil,freeCodeCamp,freeCodeCamp
-6bcce9f0303ca933a2a317ce6fc2a8651258ce56,feat(curriculum): add merge sort workshop (#59633),2025-06-05T19:18:08Z,29,1657,zairahira,freeCodeCamp,freeCodeCamp
-2be423e92830b0bf5dacfbf44bd72617d7f35396,chore(curriculum) : update Project Euler tests with better assertions…,2025-06-05T19:03:07Z,10,22,VishalTelukula,freeCodeCamp,freeCodeCamp
-ee681ff4ad4482952ea08fe1fbbc1cdb81e40136,chore(curriculum): remove before user code in RPS game (#60723),2025-06-05T18:01:11Z,1,20,Nirajn2311,freeCodeCamp,freeCodeCamp
-2bb4c5565cbaf10ebb17d7c061ee78b3a235d8ce,chore(curriculum): update asserts in workshop cat painting steps 75–7…,2025-06-05T12:41:01Z,3,18,LalitNarayanYadav,freeCodeCamp,freeCodeCamp
-e7a712351e173c5faf511c873e840852cc29f7b7,fix(config): add dev playground to not audited (#60717),2025-06-05T07:14:07Z,1,30,moT01,freeCodeCamp,freeCodeCamp
