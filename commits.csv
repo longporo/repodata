@@ -1,4 +1,13 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+0cb90825020467e7940b142752751fbf50334f7b,fix(curriculum): add missing sentence about email validation in Clien…,2025-07-07T23:51:25Z,1,4,dev-kamil,freeCodeCamp,freeCodeCamp
+747b0be765365d11577b324a8c1e3c0811aab4ff,fix(curriculum): typo in Troubleshoot on Github (#61234),2025-07-07T17:14:21Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+985c1c8b91fae44e18ba6528aa3331138baf2f2b,fix(curriculum): typo in learn how to use adjectives in conversations…,2025-07-07T17:05:23Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
+050d3c0550f6d09b4424f206a344445a98883f0e,chore(curriculum): update asserts in magazine workshop steps 26-30 (#…,2025-07-07T14:52:53Z,5,26,Mohammed-Omair,freeCodeCamp,freeCodeCamp
+0f56d42481ea0707501df6d5f47504a485cade1e,feat(curriculum): set isUpcomingChange flag to false to block 24 of t…,2025-07-07T13:51:12Z,1,2,DanielRosa74,freeCodeCamp,freeCodeCamp
+0555dc7737e4e5fc5afaee3d7c9c42c7e810f187,"chore(i18n,client): processed translations (#61241)",2025-07-07T13:48:13Z,20,288,camperbot,freeCodeCamp,freeCodeCamp
+1d70c0de364a4fec9575ec76c604b4db280418aa,feat(curriculum): add Block 24 of the B1 stage of the English Curricu…,2025-07-07T13:07:01Z,155,15903,DanielRosa74,freeCodeCamp,freeCodeCamp
+2a7b220a4f4ddaa485ce2078fd92fb50516e8f2b,feat: support beforeEach and afterEach (#60921),2025-07-07T10:46:09Z,21,714,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+38cd1727e4fcc07522f3314e62ccea542132c380,fix: capitalize CSS in flexbox quiz question for consistency (#61219),2025-07-07T07:45:05Z,1,2,ctheface,freeCodeCamp,freeCodeCamp
 e49341c147c6c430bb3fc3aed169e0a9bbfbd026,feat(curriculum): set isUpcomingChange flags to false to block 21-23 …,2025-07-06T20:36:15Z,3,6,DanielRosa74,freeCodeCamp,freeCodeCamp
 caf6f27ed2e01150da833c3e4149650611268970,feat(curriculum): add English Curriculum Block 20 (#60061),2025-07-06T19:36:39Z,166,16334,anastasiiauk,freeCodeCamp,freeCodeCamp
 89273f065a6fdff19948dcc1c7018d28961d7a8c,feat(curriculum): add English Curriculum Block 23 (#60790),2025-07-06T16:59:17Z,155,14928,anastasiiauk,freeCodeCamp,freeCodeCamp
@@ -198,8 +207,3 @@ a3508054e24c29298756725239cd214b4cd541e5,"chore(i18n,client): processed translat
 8cb9550897a53146d05c6bc1ec6b01fe3883702f,"chore(i18n,learn): update i18n-curriculum submodule (#60792)",2025-06-09T15:59:24Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 55c94cc77dd782e8d03a293770f4cfa9744eb981,fix(curriculum): correct grammar in FCC authors page challenge (#60773),2025-06-09T11:18:41Z,2,4,atithi4dev,freeCodeCamp,freeCodeCamp
 f4121968e4d2d4e94baf7a8416748a989eaddf4c,refactor: move superblock folder maps to config (#60714),2025-06-08T14:01:16Z,6,176,moT01,freeCodeCamp,freeCodeCamp
-4912a0aac5f7826bff9a78c01a88498e6954e55e,fix(curriculum): discrepancy in Build a Curriculum Outline (#60762),2025-06-07T20:03:03Z,2,4,dev-kamil,freeCodeCamp,freeCodeCamp
-90bac7239d2b5b41b45359bad0686ca85f610968,chore: update tests to use specific asserts in project euler problems…,2025-06-07T20:00:49Z,10,20,zenocross,freeCodeCamp,freeCodeCamp
-bbda50ed0d1b6f7aba29f4a3028b7eeead8463fb,fix(client): typo in top contributer badge component (#60765),2025-06-07T19:36:43Z,2,10,forge34,freeCodeCamp,freeCodeCamp
-a6f72e9ab00d0b13ac16aad44b4fd10f2f8d92bf,"fix(curriculum): grammar, typos in Introduction to JavaScript Librari…",2025-06-07T15:46:00Z,2,10,dev-kamil,freeCodeCamp,freeCodeCamp
-eefd43106d2401bdd12e835f2b744a464354f2c6,fix(curriculum): change plaintext blocks from bash to markdown (#60754),2025-06-07T07:33:08Z,8,26,StephenMuya,freeCodeCamp,freeCodeCamp
