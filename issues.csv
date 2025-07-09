@@ -1,8 +1,17 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X860x9MF,60095,Popular trends in technology verb-ing,OPEN,2025-05-01T02:03:44Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86_kCHo,61261,CSS Accessibility Review page content not covered in the lecture videos,OPEN,2025-07-08T22:15:21Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-T-t6,61175,Updating options in challenge helper script for creating new projects,OPEN,2025-07-01T15:20:12Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X8684hDn,61017,English A2 - Learn Introductions in an Online Team Meeting - Task 99 - Requiring dot in answer,OPEN,2025-06-23T17:35:09Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86y9vC4,59791,Suggest to add shortcuts (play/pause video) support on the English course,CLOSED,2025-04-17T13:36:06Z,2025-07-08T20:07:33Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86nc5bo,58352,English curriculum - Lack of synchronization between audio and animation,CLOSED,2025-01-24T12:42:29Z,2025-07-08T20:02:57Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86NI88D,55293,"A2 English for Developers (Beta): Option to pause and seek, transcript after first playback, add hints",OPEN,2024-06-22T17:50:45Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-okqZ,61195,Need explanation for forward slash in void elements,OPEN,2025-07-03T07:11:25Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86_g-wI,61254,Colored Boxes Lab tests fail without a semicolon,OPEN,2025-07-08T16:16:21Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86_PMlj,61240,chore: update tests to use specific asserts in magazine workshop stesp 31-37,CLOSED,2025-07-07T10:30:40Z,2025-07-08T08:16:18Z,baibhavmandal,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-tTrQ,61198,Client Side Form Transcript incomplete,CLOSED,2025-07-03T14:11:46Z,2025-07-07T23:51:27Z,dev-kamil,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_Lf3g,61235,Expanding FSD selections,OPEN,2025-07-07T03:57:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868XhkG,60934,"What Are Effects in React, and How Does the useEffect Hook Work? Video example",OPEN,2025-06-19T13:07:06Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86_PMlj,61240,chore: update tests to use specific asserts in magazine workshop stesp 31-37,OPEN,2025-07-07T10:30:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_F_Gz,61224,"Confusing instruction in accessibility quiz step — says ""nest"" sections but expects siblings",OPEN,2025-07-06T03:42:24Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_IYPB,61230,Library Manager - Step 14,OPEN,2025-07-06T14:57:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-g9Cj,61193,Microsoft Learn account URL changed format. Can't link my account,CLOSED,2025-07-02T15:26:43Z,2025-07-03T18:24:33Z,,freeCodeCamp,freeCodeCamp
@@ -21,7 +30,6 @@ I_kwDOAbI7X86-7ul4,61207,Typo in caption text,CLOSED,2025-07-04T17:12:55Z,2025-0
 I_kwDOAbI7X862uUGG,60368,issues with tests for Design a Business Card lab,OPEN,2025-05-15T09:34:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866HfdB,60732,Tic-tac-toe lab - testing draw is too lenient,CLOSED,2025-06-05T20:14:23Z,2025-07-04T13:16:02Z,Ajay-2005;ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86k9SwL,57897,The `h1` element of review pages are smaller than the `h2` elements there,CLOSED,2025-01-03T12:53:44Z,2025-07-04T03:37:23Z,sskiragu,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86-okqZ,61195,Need explanation for forward slash in void elements,OPEN,2025-07-03T07:11:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-WH0H,61176,Add support for Bluesky profile links in freeCodeCamp user profiles,OPEN,2025-07-01T18:40:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869g6Qx,61091,console.log always prints last state of mutable object instead of the one at point of execution,CLOSED,2025-06-26T15:32:41Z,2025-07-03T14:11:55Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-gpp_,61191,Donation prompt animation should probably be modified,CLOSED,2025-07-02T15:00:52Z,2025-07-03T11:29:44Z,,freeCodeCamp,freeCodeCamp
@@ -37,8 +45,6 @@ I_kwDOAbI7X869yeQY,61111,JavaScript Asynchronous Programming lecture question no
 I_kwDOAbI7X86-BytU,61149,chore: update steps 20-21 in workshop-magazine to use specific assert methods,CLOSED,2025-06-30T11:30:19Z,2025-07-02T00:33:12Z,Aaron-Lopez-Dev,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86HQbQu,54572,Change share on Twitter to share on X,OPEN,2024-04-29T14:40:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-XO2I,61177,Add solution code to the metadata of the first workshop step,OPEN,2025-07-01T20:46:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86-T-t6,61175,Updating options in challenge helper script for creating new projects,OPEN,2025-07-01T15:20:12Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86NI88D,55293,"A2 English for Developers (Beta): Option to pause and seek, transcript after first playback, add hints",OPEN,2024-06-22T17:50:45Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-EcAJ,61161,real time counter test wording about 50 character limitation is fuzzy,OPEN,2025-06-30T15:04:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-B2v5,61150,chore: update steps 22-23 of magazine workshop to use specific assert methods,CLOSED,2025-06-30T11:36:09Z,2025-07-01T12:07:51Z,aliyasyeddd,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-EJoj,61159,Bug in Step 6 of Merge Sort Algorithm Challenge,OPEN,2025-06-30T14:44:13Z,,,freeCodeCamp,freeCodeCamp
@@ -96,7 +102,6 @@ I_kwDOAbI7X8603Drm,60106,Update import/export react lecture video to include mul
 I_kwDOAbI7X869B9iq,61034,React Fundamentals question's answer about SPAs is not explained in prior content,OPEN,2025-06-24T10:31:01Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868uFrJ,60992,"What Is Memoization, and How Does the useMemo Hook Work?",CLOSED,2025-06-22T19:17:41Z,2025-06-24T07:34:18Z,aboo212031,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X860p-l5,60083,Build a City Skyline Checks are Funky,OPEN,2025-04-30T10:49:05Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8684hDn,61017,English A2 - Learn Introductions in an Online Team Meeting - Task 99 - Requiring dot in answer,OPEN,2025-06-23T17:35:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8681XEJ,61002,Chore: update two tests to use specific assert,CLOSED,2025-06-23T12:56:11Z,2025-06-23T18:04:02Z,Hassan Waqar,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868t4Cx,60985,"Typo: ""uses cases"" should be ""use cases"", and ""foot notes"" should be ""footnotes""",CLOSED,2025-06-22T17:53:28Z,2025-06-23T17:28:44Z,Hassan Waqar,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868qK84,60965,Incorrect wording for Hotel Feedback Form - Step 24 - in the new Certified Full Stack Developer Curriculum,CLOSED,2025-06-21T15:29:01Z,2025-06-23T16:38:41Z,RiyaSharma028,freeCodeCamp,freeCodeCamp
@@ -204,5 +209,3 @@ I_kwDOAbI7X865M5HM,60643,Keyboard shortcuts in code editor,OPEN,2025-06-01T12:17
 I_kwDOAbI7X863ncHY,60465,Contact users with no email address,OPEN,2025-05-21T15:09:01Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864YrCj,60543,Setup i18next types,OPEN,2025-05-27T10:42:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861DFku,60142,"Add Search Suggestions for Articles, Tutorials, and Books",OPEN,2025-05-03T16:06:15Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866eoAx,60782,elmouselhyaboshamia@gmail.com,CLOSED,2025-06-08T18:13:23Z,2025-06-08T18:23:09Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866en9B,60781,elmouselhyaboshamia@gmail.com,CLOSED,2025-06-08T18:13:03Z,2025-06-08T18:22:57Z,,freeCodeCamp,freeCodeCamp
