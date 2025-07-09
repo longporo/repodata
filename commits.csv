@@ -1,4 +1,6 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+0c6222cd702f5296a023d31fcf4979d03e35cd7d,fix(challenge-helpers): add template for generic challenge (#61249),2025-07-08T21:27:11Z,2,20,moT01,freeCodeCamp,freeCodeCamp
+76f7d08454c6e1538dc39cc86967270cdb8f0ed6,chore: updated tests to use specific asserts in magazine workshop ste…,2025-07-08T08:16:16Z,7,20,baibhavmandal,freeCodeCamp,freeCodeCamp
 0cb90825020467e7940b142752751fbf50334f7b,fix(curriculum): add missing sentence about email validation in Clien…,2025-07-07T23:51:25Z,1,4,dev-kamil,freeCodeCamp,freeCodeCamp
 747b0be765365d11577b324a8c1e3c0811aab4ff,fix(curriculum): typo in Troubleshoot on Github (#61234),2025-07-07T17:14:21Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 985c1c8b91fae44e18ba6528aa3331138baf2f2b,fix(curriculum): typo in learn how to use adjectives in conversations…,2025-07-07T17:05:23Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
@@ -206,4 +208,3 @@ a9dc3bdeef781da2a7c3dbbb367eb46eba27306b,chore(api): add user's id to errors sen
 a3508054e24c29298756725239cd214b4cd541e5,"chore(i18n,client): processed translations (#60791)",2025-06-09T15:59:49Z,20,1016,camperbot,freeCodeCamp,freeCodeCamp
 8cb9550897a53146d05c6bc1ec6b01fe3883702f,"chore(i18n,learn): update i18n-curriculum submodule (#60792)",2025-06-09T15:59:24Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 55c94cc77dd782e8d03a293770f4cfa9744eb981,fix(curriculum): correct grammar in FCC authors page challenge (#60773),2025-06-09T11:18:41Z,2,4,atithi4dev,freeCodeCamp,freeCodeCamp
-f4121968e4d2d4e94baf7a8416748a989eaddf4c,refactor: move superblock folder maps to config (#60714),2025-06-08T14:01:16Z,6,176,moT01,freeCodeCamp,freeCodeCamp
