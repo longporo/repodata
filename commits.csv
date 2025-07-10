@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+e1d00c6fc571b6143c5ad58be591d9ffe2c1e5b7,fix(curriculum): reword of -ing explanations in the A2 certification …,2025-07-09T21:46:53Z,3,6,DanielRosa74,freeCodeCamp,freeCodeCamp
+d51e4ba7bb14170f5bb5c46a21b6cbac594d6423,chore(curriculum): update asserts steps 24-25 in the magazine worksho…,2025-07-09T19:11:15Z,2,22,fullstacksam23,freeCodeCamp,freeCodeCamp
+072903b58629c32e0fb6cd657f37de810ce8e70b,feat(curriculum): add dictionaries and sets review page (#60527),2025-07-09T17:43:46Z,2,378,sidemt,freeCodeCamp,freeCodeCamp
+6bdb4e8170a99729b477fff6396329019a905244,feat(curriculum): add tailwind css shopping cart lab (#61096),2025-07-09T13:03:25Z,5,668,jdwilkin4,freeCodeCamp,freeCodeCamp
+2382a2e5c62bfc7cc2020b90f10c533f1a7e9e0d,chore: adding semantic html redirects (#61162),2025-07-09T09:07:23Z,1,40,jdwilkin4,freeCodeCamp,freeCodeCamp
+1a7e169d600c5c61163692d7cae1b39a681f0b2c,fix(curriculum): Make colored boxes lab pass without semicolons (#61257),2025-07-09T08:43:09Z,1,8,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
+20aa972fd601401a33bfad077b64e305ed3d1d22,chore(deps): update curriculum-helpers to 5.3.0 (#61237),2025-07-09T05:48:17Z,2,12,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 0c6222cd702f5296a023d31fcf4979d03e35cd7d,fix(challenge-helpers): add template for generic challenge (#61249),2025-07-08T21:27:11Z,2,20,moT01,freeCodeCamp,freeCodeCamp
 76f7d08454c6e1538dc39cc86967270cdb8f0ed6,chore: updated tests to use specific asserts in magazine workshop ste…,2025-07-08T08:16:16Z,7,20,baibhavmandal,freeCodeCamp,freeCodeCamp
 0cb90825020467e7940b142752751fbf50334f7b,fix(curriculum): add missing sentence about email validation in Clien…,2025-07-07T23:51:25Z,1,4,dev-kamil,freeCodeCamp,freeCodeCamp
@@ -199,12 +206,3 @@ fc7d2ac761865a8f2a95a1ab1d7c6011b38a0ee8,chore: create placeholder files for pyt
 74ede1345d769071f94bdd51011815f02f385c29,chore(curriculum): updated tests to use specific asserts  (#60800),2025-06-10T09:46:36Z,5,26,DanyelleH,freeCodeCamp,freeCodeCamp
 339e09961f9f8d395037eaa8987fa9c1295e006d,AB testing skill based landing page top (#60753),2025-06-10T04:40:57Z,8,463,ahmaxed,freeCodeCamp,freeCodeCamp
 276cea53a9f94563837f8d2917638b774055c843,fix(curriculum): typo in Code Related Concepts and Terms (#60798),2025-06-10T04:11:28Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-a9dc3bdeef781da2a7c3dbbb367eb46eba27306b,chore(api): add user's id to errors sent to Sentry (#60725),2025-06-09T20:21:02Z,1,11,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-892843f6d12b6eb0b2c851b5c90ebc73bab6632a,fix(curriculum): grammar and wording in multiple challenges (#60784),2025-06-09T18:30:12Z,3,8,dev-kamil,freeCodeCamp,freeCodeCamp
-78fbc36f7d9f3c073b75c5458a4c1b087f72bdf2,feat/replace-shop-url (#58281),2025-06-09T18:06:16Z,11,22,ahmaxed,freeCodeCamp,freeCodeCamp
-2aba3ebc2663ee69cdc40d787cb8db2f2b4f27db,fix(curriculum): fCC authors page - minor improvements (#60638),2025-06-09T16:47:20Z,7,38,dev-kamil,freeCodeCamp,freeCodeCamp
-3048a5a91d1f93db72e2f464759444189b5f68f1,chore(curriculum): backticks for OOP in Programming Vocabulary (#60786),2025-06-09T16:34:13Z,8,48,Supravisor,freeCodeCamp,freeCodeCamp
-371dcd512e6f927c2988dc7b66312e36f5fc2c4f,chore(curriculum): fixed misspelled variable names (#60789),2025-06-09T16:31:49Z,1,6,clarencepenz,freeCodeCamp,freeCodeCamp
-a3508054e24c29298756725239cd214b4cd541e5,"chore(i18n,client): processed translations (#60791)",2025-06-09T15:59:49Z,20,1016,camperbot,freeCodeCamp,freeCodeCamp
-8cb9550897a53146d05c6bc1ec6b01fe3883702f,"chore(i18n,learn): update i18n-curriculum submodule (#60792)",2025-06-09T15:59:24Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-55c94cc77dd782e8d03a293770f4cfa9744eb981,fix(curriculum): correct grammar in FCC authors page challenge (#60773),2025-06-09T11:18:41Z,2,4,atithi4dev,freeCodeCamp,freeCodeCamp
