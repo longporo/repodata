@@ -33,11 +33,17 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install python-dateutil requests
-
+          
       - name: Set DATE_RANGE env
         id: daterange
         run: |
-          export DATE_RANGE="$(date -u -d '3 months ago' +'%Y-%m-%d')..$(date -u +'%Y-%m-%d')"
+          # Get the first day of the current month
+          first_of_this_month=$(date -u +'%Y-%m-01')
+          # Get the first day of 3 months ago
+          first_of_3_months_ago=$(date -u -d "$first_of_this_month -3 months" +'%Y-%m-01')
+          # Get the last day of the previous month
+          last_of_prev_month=$(date -u -d "$first_of_this_month -1 day" +'%Y-%m-%d')
+          export DATE_RANGE="$first_of_3_months_ago..$last_of_prev_month"
           echo "DATE_RANGE=$DATE_RANGE" >> $GITHUB_ENV
       
       - name: Set up Git config
