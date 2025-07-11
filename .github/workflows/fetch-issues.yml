@@ -39,9 +39,9 @@ jobs:
           git config --global user.email "${{ env.COMMIT_EMAIL }}"
           git config --global user.name "${{ env.COMMIT_USERNAME }}"
 
-      - name: Get date for one month ago
+      - name: Get date for 3 months ago
         id: date
-        run: echo "DATE_ISO=$(date -d '1 month ago' -u +'%Y-%m-%dT%H:%M:%SZ')" >> $GITHUB_OUTPUT
+        run: echo "DATE_ISO=$(date -d '3 months ago' -u +'%Y-%m-%dT%H:%M:%SZ')" >> $GITHUB_OUTPUT
 
       # Note: This step now uses a Python script for better handling of
       # GraphQL queries, pagination, and contributor aggregation.
