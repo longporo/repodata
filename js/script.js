@@ -40,13 +40,6 @@ $(document).ready(function() {
             processedIssues = issueData.map(d => {
                 const created = parseTime(d.created_date);
                 let closed = d.closed_date ? parseTime(d.closed_date) : new Date(); // Use current date if not closed
-                // Ensure closed date is not before created date
-                if (closed && created && closed < created) {
-                    closed = created; // Or handle as still open, maybe based on state?
-                    // If state is closed but closed date is invalid, maybe default to created + 1 day?
-                     if (d.state === 'CLOSED') { closed = d3.timeDay.offset(created, 1); }
-                     else { closed = new Date(); }
-                }
                 return {
                     id: d.issue_id,
                     number: +d.issue_number,
@@ -256,12 +249,16 @@ $(document).ready(function() {
             })
             .on("mouseover", function(event, d) {
                 ganttTooltip.transition().duration(200).style("opacity", .9);
+                let endDateHtml = `<strong>End:</strong> ${d3.timeFormat("%Y-%m-%d")(d.endDate)}<br/>`;
+                if (d.state == 'OPEN') {
+                    endDateHtml = ``;
+                }
                 ganttTooltip.html(
                     `<strong>Task:</strong> ${d.title}<br/>` +
                     `<strong>Issue #:</strong> ${d.number}<br/>` +
                     `<strong>State:</strong> ${d.state}<br/>` +
                     `<strong>Start:</strong> ${d3.timeFormat("%Y-%m-%d")(d.startDate)}<br/>` +
-                    `<strong>End:</strong> ${d3.timeFormat("%Y-%m-%d")(d.endDate)}<br/>` +
+                    endDateHtml +
                     `<strong>Contributors:</strong> ${d.contributors.join(', ') || 'N/A'}`
                 )
                 .style("left", (event.pageX + 5) + "px")
