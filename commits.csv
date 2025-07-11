@@ -1,4 +1,5 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+d3b8238c293c00110f280a5697d77dfc72ccc294,test: remove unnecessary testString check (#61206),2025-07-11T08:29:28Z,1,9,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 524af83ad8b2f1506c3a39662a718f108d639ba3,chore(curriculum): fix typo in learn determiners and advanced use of …,2025-07-11T03:43:23Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
 e9befb49311f05dba6627d9dafca77c862a94c10,"chore: update asserts in step 38-41, 43-44 of magazine-workshop (#61290)",2025-07-10T21:01:14Z,6,24,stinkypingu,freeCodeCamp,freeCodeCamp
 b903270b7546162fcddb1368307b994afa0cde76,fix(curriculum): clarify state variable naming in Toggle Text (#61277),2025-07-10T20:47:02Z,1,4,Supravisor,freeCodeCamp,freeCodeCamp
@@ -702,5 +703,3 @@ d31445fc15b1e58761ba8eb04c4cc1bc514060ab,fix(curriculum): Add missing backsticks
 cd50a5564bd2a342c9cf72e0cda65fd965d42fb7,chore: remove duplicate word in comment (#59683),2025-04-12T09:07:19Z,1,2,riyueguang,freeCodeCamp,freeCodeCamp
 c87ae5a8ba052beea1d6bbce55556d0fb1278272,fix(GHA): improve specificity of concurrency (#59677),2025-04-12T08:24:12Z,6,22,raisedadead,freeCodeCamp,freeCodeCamp
 a78f40f7e640d93a0c2abf8f5848f829acdaa232,fix(api): remove authorization checks (#59680),2025-04-11T16:51:00Z,2,8,raisedadead,freeCodeCamp,freeCodeCamp
-f07aa3016a7a49ecda7caa9a09f7262b84e6835b,chore(curriculum): adding transcript and video ids to React state and…,2025-04-11T07:42:06Z,6,637,jdwilkin4,freeCodeCamp,freeCodeCamp
-7329ddbe2fb901c1d63904a69096b507df504db1,fix(client): space-out the user bio from nav (#59662),2025-04-11T06:58:06Z,2,5,ahmaxed,freeCodeCamp,freeCodeCamp
