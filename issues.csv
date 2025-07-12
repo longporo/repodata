@@ -1,9 +1,14 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X86_kCHo,61261,CSS Accessibility Review page content not covered in the lecture videos,CLOSED,2025-07-08T22:15:21Z,2025-07-10T20:31:10Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86__otP,61297,pyramid generator lab doesn't accept a solution with irrelevant spaces,OPEN,2025-07-11T01:02:15Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86_H9Zf,61229,Incorrect use of 'spreadsheet' instead of 'stylesheet' in a lecture,CLOSED,2025-07-06T13:23:18Z,2025-07-11T19:41:01Z,PulkitPB,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87AJy5l,61308,Build a Balance Sheet - Step 17 - tests are too strict,OPEN,2025-07-11T18:11:59Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87AJG44,61306,Cos assignment ,CLOSED,2025-07-11T16:59:28Z,2025-07-11T17:43:21Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X869exZE,61089,Project Idea Board: Misleading hint when unpinning non-existent item in board,CLOSED,2025-06-26T12:26:36Z,2025-07-11T12:18:02Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X869EwnT,61041,Tests passed code for the RPG Creature Search project with an incorrect endpoint,CLOSED,2025-06-24T14:02:41Z,2025-07-11T12:16:14Z,dev-kamil,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_uQh-,61271,"chore: update asserts in steps 38-41,43-44 in magazine workshop",CLOSED,2025-07-09T16:58:43Z,2025-07-10T21:01:16Z,stinkypingu,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868qANl,60964,Build a Music Player - Step 21 - Fails to pass in Safari,OPEN,2025-06-21T14:22:14Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868MAuW,60923,workshop toggle text app step 4 naming,CLOSED,2025-06-18T15:11:32Z,2025-07-10T20:47:04Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86_kCHo,61261,CSS Accessibility Review page content not covered in the lecture videos,CLOSED,2025-07-08T22:15:21Z,2025-07-10T20:31:10Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_vSpq,61275,Update learning habits transcript,CLOSED,2025-07-09T18:54:14Z,2025-07-10T18:24:47Z,kannan-ravi,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_uTN1,61272,chore: update steps 45-48 of magazine workshop to use specific asserts,CLOSED,2025-07-09T17:03:16Z,2025-07-10T17:45:13Z,anmolsah,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866vLLj,60806,chore: update tests to specific asserts tracking issue,OPEN,2025-06-10T09:59:05Z,,,freeCodeCamp,freeCodeCamp
@@ -15,7 +20,6 @@ I_kwDOAbI7X86-EcAJ,61161,real time counter test wording about 50 character limit
 I_kwDOAbI7X860x9MF,60095,Popular trends in technology verb-ing,CLOSED,2025-05-01T02:03:44Z,2025-07-09T21:46:55Z,DanielRosa74,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_F_Gz,61224,"Confusing instruction in accessibility quiz step — says ""nest"" sections but expects siblings",OPEN,2025-07-06T03:42:24Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_mcuV,61263,Missing value attributes in radio buttons for registration form workshop,OPEN,2025-07-09T05:18:56Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86_H9Zf,61229,Incorrect use of 'spreadsheet' instead of 'stylesheet' in a lecture,OPEN,2025-07-06T13:23:18Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8682wK7,61011,"Small issue in What Is Memoization, and How Does the useMemo Hook Work?",CLOSED,2025-06-23T14:44:56Z,2025-07-09T19:18:40Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8682uot,61009,"Small issue with lecture What Are the U, S, and Ruby Elements Used For, and How Do They Work?",CLOSED,2025-06-23T14:42:58Z,2025-07-09T19:18:11Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868XhkG,60934,"What Are Effects in React, and How Does the useEffect Hook Work? Video example",CLOSED,2025-06-19T13:07:06Z,2025-07-09T19:16:23Z,,freeCodeCamp,freeCodeCamp
@@ -59,7 +63,6 @@ I_kwDOAbI7X86-9-k5,61214,The CSS abbreviation is written in lowercase – Flexbo
 I_kwDOAbI7X86_MDwM,61236,Jjhjj,CLOSED,2025-07-07T05:36:13Z,2025-07-07T05:56:49Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_I1rm,61231,UI design fundamentals Quiz not Working,CLOSED,2025-07-06T16:43:25Z,2025-07-06T22:40:14Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86rzrZh,59017,Improve navigation clarity: Rename 'News' to 'Tutorials' in drop-down navigation menu,CLOSED,2025-02-26T18:17:10Z,2025-07-06T13:05:37Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X869EwnT,61041,Tests passed code for the RPG Creature Search project with an incorrect endpoint,OPEN,2025-06-24T14:02:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867heXg,60874,backend test runner does not set origin on fetch,OPEN,2025-06-14T12:41:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-7ul4,61207,Typo in caption text,CLOSED,2025-07-04T17:12:55Z,2025-07-04T19:46:38Z,sujanthapa01,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862uUGG,60368,issues with tests for Design a Business Card lab,OPEN,2025-05-15T09:34:40Z,,,freeCodeCamp,freeCodeCamp
@@ -74,7 +77,6 @@ I_kwDOAbI7X869KzgP,61051,React Fundamentals missing lab work or workshop on keys
 I_kwDOAbI7X86-dqFs,61184,Correct section markers,CLOSED,2025-07-02T10:40:48Z,2025-07-02T16:10:09Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-g4SK,61192,Microsoft Learn account URL changed format. Can't link my account,CLOSED,2025-07-02T15:20:13Z,2025-07-02T15:29:02Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86xFZSB,59590,No Higher Order Callback function walkthroughs,CLOSED,2025-04-04T00:26:42Z,2025-07-02T15:08:59Z,jdwilkin4,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X869exZE,61089,Project Idea Board: Misleading hint when unpinning non-existent item in board,OPEN,2025-06-26T12:26:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-BytU,61149,chore: update steps 20-21 in workshop-magazine to use specific assert methods,CLOSED,2025-06-30T11:30:19Z,2025-07-02T00:33:12Z,Aaron-Lopez-Dev,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86HQbQu,54572,Change share on Twitter to share on X,OPEN,2024-04-29T14:40:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-XO2I,61177,Add solution code to the metadata of the first workshop step,OPEN,2025-07-01T20:46:29Z,,,freeCodeCamp,freeCodeCamp
