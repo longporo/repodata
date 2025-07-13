@@ -1,134 +1,215 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X862Fyis,60278,Progress Bookmarking for Challenges or Tutorials,OPEN,2025-05-11T12:47:09Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86uLYKV,59290,Questionable behaviour when using the Tab key to navigate the lecture video sites,OPEN,2025-03-15T15:27:47Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862CBzT,60266,"""Saved! Your code was saved to your browser's local storage."" - banner has no timeout, carries over when changing page",OPEN,2025-05-10T10:02:54Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86cxsbm,57029,Issue with Exercise Accessibility on Mobile,OPEN,2024-11-02T06:57:22Z,,LucasTStephens,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862EZ1-,60276,Typo Build a Todo App using Local Storage Step 20,OPEN,2025-05-11T00:33:19Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860LvK9,60017,Step 59 Learn Regular Expressions by Building a Password Generator Scientific Computing with Python,CLOSED,2025-04-27T10:02:09Z,2025-05-10T22:08:56Z,Ajay-2005,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862CtVp,60268,"Typo in the Computer Basics Quiz (""Github"" instead of ""GitHub"")",OPEN,2025-05-10T13:53:42Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862Crw7,60267,"Typo in the ""Build a Rock, Paper, Scissors Game."" workshop - step 12",OPEN,2025-05-10T13:43:11Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8619VF2,60257,Debugging Techniques: How Does the Debugger Statement Work?,OPEN,2025-05-09T17:19:34Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8614HTD,60245,update cat painting workshop to use specific assert methods step 42-43,CLOSED,2025-05-09T08:17:19Z,2025-05-10T09:40:50Z,loralridz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8619f0e,60258,"Storybuilding App: Step 6 - Change wording to reference main element, not div element",OPEN,2025-05-09T17:36:24Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8613CAB,60243,Typo in English challenges,CLOSED,2025-05-09T06:33:41Z,2025-05-10T07:28:39Z,VisibleNasir,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860EgBm,60006,Update graphic in default browser styles lecture video,CLOSED,2025-04-25T21:42:40Z,2025-05-09T23:41:59Z,estefaniacn,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86139y_,60244,Typo in How to Improve the Perceived Performance of Features,CLOSED,2025-05-09T07:59:55Z,2025-05-09T18:42:00Z,meenakshi,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861qg61,60225,Missing explanation for `<source>` tag,CLOSED,2025-05-08T05:09:09Z,2025-05-09T16:29:45Z,ArakhshQ,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8615Lub,60248,"Typo in the ""How Do You Add Attributes with setAttribute()?"" lecture",CLOSED,2025-05-09T10:00:25Z,2025-05-09T16:22:39Z,vishnudt2004,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861sa5w,60228,Persisting Last User Activity,OPEN,2025-05-08T09:05:56Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8614JRh,60246,update cat painting workshop to use specific assert methods step 44-45,OPEN,2025-05-09T08:19:52Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861MY3S,60160,update cat painting workshop to use specific assert methods step 34-35,CLOSED,2025-05-05T14:45:28Z,2025-05-09T06:28:38Z,tanush29,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861PTNH,60172,Cat Photo 17 passes without href,CLOSED,2025-05-05T19:58:47Z,2025-05-09T05:54:59Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861g5oD,60208,stray forumTopicId in lab,CLOSED,2025-05-07T09:15:30Z,2025-05-09T03:52:32Z,Wale Ayandiran (walecloud),freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861ts0c,60230,Forum login message,OPEN,2025-05-08T11:09:22Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861vbc0,60231,Code evaluated twice after saving,OPEN,2025-05-08T14:02:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8603Drm,60106,Update import/export react lecture video to include multiple ways for imports and exports,OPEN,2025-05-01T17:30:10Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861N6ft,60166,Remove user stories and tests for pseudo classes in business card lab,CLOSED,2025-05-05T17:28:58Z,2025-05-08T15:55:37Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861gEei,60207,Update test of Cat Photo App Step 17 to trim whitespaces,CLOSED,2025-05-07T08:06:55Z,2025-05-08T10:26:43Z,Ajay-2005,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zpW8_,59923,No indication of the tests running,CLOSED,2025-04-23T13:10:20Z,2025-05-08T09:49:09Z,a2937,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861mfDo,60216,A missing sign in the cource,CLOSED,2025-05-07T17:58:25Z,2025-05-08T08:47:31Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z5zAK,59974,update cafe menu tests to use specific asserts steps 66-78,CLOSED,2025-04-24T19:36:16Z,2025-05-08T07:50:57Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861mhWY,60217,Remove sentence in transcript for HTML boilerplate lecture,CLOSED,2025-05-07T18:02:25Z,2025-05-07T23:17:59Z,anuplohar001,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860WC0s,60039,Update to wording that crowdin likes.,OPEN,2025-04-28T17:42:38Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861g79u,60209,update cat painting workshop to use specific assert methods step 33,CLOSED,2025-05-07T09:18:37Z,2025-05-07T20:33:13Z,Sir-En00n3,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861h4MW,60213,Typo in English challenge,CLOSED,2025-05-07T10:50:59Z,2025-05-07T19:22:37Z,anuplohar001,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ys67W,59752,Add set 2 of questions for CSS Typography Quiz,CLOSED,2025-04-16T02:03:57Z,2025-05-07T19:11:45Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ys4Sz,59750,Add set 2 of questions for CSS layout and effects quiz,CLOSED,2025-04-16T01:58:57Z,2025-05-07T18:59:38Z,Supravisor;jdwilkin4,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861mrXN,60219,Number constructor lecture video has incorrect code example and explanation,OPEN,2025-05-07T18:19:02Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861DFku,60142,"Add Search Suggestions for Articles, Tutorials, and Books",OPEN,2025-05-03T16:06:15Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861YClG,60189,build a calculator can be hardcoded,CLOSED,2025-05-06T14:07:47Z,2025-05-07T14:54:24Z,Averand1,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861cTFs,60200,Width for code examples in lectures are not the same,OPEN,2025-05-06T21:46:42Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861hR-i,60211,test,CLOSED,2025-05-07T09:49:03Z,2025-05-07T09:53:20Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861e9Dq,60203,Clarify order of operations in add-items-to-an-array-with-push-and-unshift.md description,CLOSED,2025-05-07T06:03:26Z,2025-05-07T08:45:33Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861e56d,60202,Fix typo in add-items-to-an-array-with-push-and-unshift.md description,CLOSED,2025-05-07T05:56:44Z,2025-05-07T06:02:30Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861WIbz,60184,build a calculator test too restrictive,CLOSED,2025-05-06T11:14:38Z,2025-05-06T21:51:39Z,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861cUE_,60201,Update react fundamentals and chapter review pages for import/export udpates,OPEN,2025-05-06T21:48:42Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861aItk,60195,[Full Stack] - Lab Password Generator App doesn't pass curriculum tests,OPEN,2025-05-06T17:26:15Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861agW5,60197,Football Team Cards lab tests,OPEN,2025-05-06T18:09:12Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861UOIc,60182,update cat painting workshop to use specific assert methods step 40-41,CLOSED,2025-05-06T08:29:02Z,2025-05-06T17:24:41Z,Sky-walkerX,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861Mk-K,60161,update cat painting workshop to use specific assert methods step 36-37,CLOSED,2025-05-05T15:03:21Z,2025-05-06T08:47:32Z,ArakhshQ,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861TPNc,60179,Remove validation status from feedback text,OPEN,2025-05-06T06:54:48Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861ULFv,60181,update cat painting workshop to use specific assert methods step 38-39,OPEN,2025-05-06T08:24:03Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861UGwZ,60180,Handle log statements in redirection.ts,OPEN,2025-05-06T08:17:32Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861OmLg,60169,No Content - Styling Forms Review,CLOSED,2025-05-05T18:43:20Z,2025-05-06T05:01:38Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861QnBi,60173,Code not being recognized.,CLOSED,2025-05-05T23:01:48Z,2025-05-05T23:22:06Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861ONli,60168,Lightbox Viewer lab tests,OPEN,2025-05-05T18:00:19Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861E7Zc,60147,Import Fonts Error in Build an Event Flyer Page,OPEN,2025-05-04T12:06:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860_uq_,60131,Workshop Music Player - Step 43: Incorrect hint for null value test,CLOSED,2025-05-02T18:34:20Z,2025-05-05T07:25:44Z,bobofishbo,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8607cps,60124,update cat painting workshop to use specific assert methods step 29,CLOSED,2025-05-02T08:33:38Z,2025-05-05T06:24:18Z,LuluZhuu,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861G4VS,60153,Test is to strict in event hub lab,OPEN,2025-05-05T03:00:01Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86prkTf,58725,Python output is cut off,OPEN,2025-02-11T23:19:42Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860-p3l,60129,Add checks to ensure that proper headings are present in english curriculum challenges,OPEN,2025-05-02T15:45:35Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861FQTS,60148,Misleading example in instruction in 'Build a Recipe Ingredient Converter',OPEN,2025-05-04T14:50:22Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86y2DdZ,59776,"Feature Request: ""Start Where You Left Off"" for Lessons",OPEN,2025-04-16T19:09:33Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861C4j-,60140,Navbar Tab Should Return to Home Page Instead of Learn Page,CLOSED,2025-05-03T14:13:14Z,2025-05-04T11:26:25Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861DNKj,60143,"""Visit the Curriculum"" link on the freeCodeCamp Forum redirects to homepage instead of curriculum page",CLOSED,2025-05-03T17:15:04Z,2025-05-04T11:24:48Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8607ZwM,60123,"update cat painting workshop to use specific assert methods step 25,28,30,31,32",CLOSED,2025-05-02T08:26:36Z,2025-05-04T08:30:16Z,GuptaShubham-11,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861BAFZ,60135,[Article] - Pyscript demo source points to missing source location,CLOSED,2025-05-02T22:39:28Z,2025-05-03T22:18:57Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zbrtu,59879,do we need a new issue template for the English curriculum? and maybe for other challenge types?,OPEN,2025-04-22T08:42:54Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86rE54P,58939,freeCodeCamp logo lacks navigation to /learn homepage on login / sign up page,OPEN,2025-02-21T23:02:30Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8609_Ph,60127,Build a Music Player typo,CLOSED,2025-05-02T14:19:36Z,2025-05-02T23:07:34Z,vishnudt2004,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860_2iE,60132,Build a Music Player step 27 typo,CLOSED,2025-05-02T18:55:35Z,2025-05-02T22:40:46Z,joonhoswe,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8606bFr,60119,"""Build a lunch"" lab: failure message for getRandomLunch()",OPEN,2025-05-02T05:29:10Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ys5rt,59751,Add set 2 of questions for CSS Flexbox quiz,OPEN,2025-04-16T02:01:28Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ytAfG,59755,Add set 2 of questions for CSS Variables quiz,OPEN,2025-04-16T02:19:27Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ys_JN,59754,Add set 2 of questions for Responsive Web design quiz,OPEN,2025-04-16T02:15:19Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ytCMr,59757,Add set 2 of questions for CSS Animations quiz,OPEN,2025-04-16T02:24:38Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86dwajV,57113,Shortest-Path-Algorithm Challenge: Report with suggestions to improve the learning experience,OPEN,2024-11-10T01:58:08Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z5tF4,59969,Build an availability table issue,OPEN,2025-04-24T19:23:50Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86yqVPT,59740,Customer Complaint Form - Should accept input event on textarea elements,OPEN,2025-04-15T19:45:35Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8600gzy,60103,update cat painting workshop to use specific assert methods step 27,CLOSED,2025-05-01T11:24:14Z,2025-05-02T08:31:39Z,joonhoswe,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8600gfB,60102,update cat painting workshop to use specific assert methods step 24,CLOSED,2025-05-01T11:23:01Z,2025-05-02T06:41:19Z,cansuakgl,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8605Hz2,60113,"Quiz After ""What Are Binary Logical Operators, and How Do They Work?"" Lecture Missing ""(&&)""",OPEN,2025-05-01T23:02:48Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8605Ohs,60115,Possibility of two valid answers in the specificity for ID selectors lecture,OPEN,2025-05-01T23:28:11Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860oi2L,60079,update cat painting workshop to use specific assert methods step 19,CLOSED,2025-04-30T08:22:52Z,2025-05-01T22:30:46Z,shaikhFaris,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860x9MF,60095,Popular trends in technology verb-ing,OPEN,2025-05-01T02:03:44Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8601m_Y,60104,Build a Customer Complaint Form test 16 and 24 same text,OPEN,2025-05-01T14:15:25Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860y_Hm,60096,Typo in Map object lecture,CLOSED,2025-05-01T06:30:26Z,2025-05-01T11:46:02Z,JainSourav30,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860x7my,60094,"Add ""🟢 In Progress"" Indicator for Partially Completed Certifications on the Learn Page",CLOSED,2025-05-01T02:00:13Z,2025-05-01T05:35:54Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ytMju,59758,Remove the bubbles next to the superblock buttons on the map,CLOSED,2025-04-16T02:53:14Z,2025-05-01T05:21:40Z,huyenltnguyen;khalil423;moT01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860o2mb,60081,update cat painting workshop to use specific assert methods step 23,CLOSED,2025-04-30T08:55:44Z,2025-05-01T05:11:06Z,MrKleenex12,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86yss9R,59743,Add set 2 of questions for Computer Basics Quiz,CLOSED,2025-04-16T01:26:35Z,2025-05-01T01:43:37Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ysuGQ,59744,Add set 2 of questions for Basic CSS quiz,CLOSED,2025-04-16T01:30:40Z,2025-05-01T01:43:11Z,Supravisor;jdwilkin4,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860opk7,60080,Add code examples to JS Strings review,CLOSED,2025-04-30T08:34:39Z,2025-04-30T19:16:33Z,a2937,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86r0fRy,59021,Rename Pokemon Project,OPEN,2025-02-26T19:55:15Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86r0d14,59020,Rename Mario Project,OPEN,2025-02-26T19:52:58Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860p-l5,60083,Build a City Skyline Checks are Funky,OPEN,2025-04-30T10:49:05Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86y-igJ,59792,Web performance lectures,CLOSED,2025-04-17T14:53:51Z,2025-04-30T12:56:57Z,kubowania,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860c2J3,60057,update cat painting workshop to use specific assert methods step 3,CLOSED,2025-04-29T08:13:12Z,2025-04-30T09:33:44Z,Sudhir810,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860ivHc,60074,Missing HTML boilerplate in Build a Newspaper Article lab,CLOSED,2025-04-29T17:05:46Z,2025-04-30T08:49:52Z,Jackkv,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860c3T9,60058,update cat painting workshop to use specific assert methods step 18,CLOSED,2025-04-29T08:15:18Z,2025-04-30T07:38:41Z,linaslabs,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z17mX,59949,Fix typos in Performance lecture block,CLOSED,2025-04-24T13:14:52Z,2025-04-30T06:00:20Z,ldtr89,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86xDqtE,59582,Todo App - Step 34: Replace null check with empty string check,CLOSED,2025-04-03T19:49:41Z,2025-04-30T00:33:21Z,c0d1ng-ma5ter;jdwilkin4,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zpQl1,59921,Downloaded code says 'undefined' at the top,CLOSED,2025-04-23T13:02:07Z,2025-04-29T20:24:59Z,a2937,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860Q425,60022,update cat painting workshop to use specific assert methods steps 1 and 5,CLOSED,2025-04-28T09:33:09Z,2025-04-29T18:28:52Z,njnr14,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860YxCy,60047,B1 English for Developers - 28th Question: Answer is visible before clicking the explanation,CLOSED,2025-04-28T22:24:06Z,2025-04-29T17:25:52Z,DanielRosa74;clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860doKC,60064,Misplaced explanation text in English challenges,CLOSED,2025-04-29T09:30:52Z,2025-04-29T17:17:59Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z5xc6,59970,update cafe menu tests to use specific asserts steps 14-26,CLOSED,2025-04-24T19:33:04Z,2025-04-29T16:44:45Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z5yYu,59972,update cafe menu tests to use specific asserts steps 40-52,CLOSED,2025-04-24T19:35:01Z,2025-04-29T16:34:17Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z5xvU,59971,update cafe menu tests to use specific asserts steps 27-39,CLOSED,2025-04-24T19:33:40Z,2025-04-29T16:27:25Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860b_es,60055,Fix typo in CSS styling forms lecture,CLOSED,2025-04-29T06:42:06Z,2025-04-29T11:07:45Z,abhijeet-singhh,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z5yqb,59973,update cafe menu tests to use specific asserts steps 53-65,CLOSED,2025-04-24T19:35:33Z,2025-04-29T11:04:16Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860aX_o,60051,Typo found in README file,CLOSED,2025-04-29T02:28:50Z,2025-04-29T06:00:52Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z5zSB,59975,update cafe menu tests to use specific asserts steps 79-end,CLOSED,2025-04-24T19:36:47Z,2025-04-28T23:03:41Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860V7Fd,60038,External CSS question may have two correct answers,CLOSED,2025-04-28T17:29:16Z,2025-04-28T17:51:29Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860UugY,60035,BASIC CSS REVIEW is missing shorthand explanation,CLOSED,2025-04-28T15:25:30Z,2025-04-28T20:36:49Z,vishal27shetty,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860RmUk,60025,replace tag with element,CLOSED,2025-04-28T10:40:20Z,2025-04-28T19:34:55Z,vishal27shetty,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860UlYp,60034,Full Stack - Build a Markdown to HTML Converter tests 38 and 47,OPEN,2025-04-28T15:15:51Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860Q7BS,60023,update cat painting workshop to use specific methods step 4,CLOSED,2025-04-28T09:36:15Z,2025-04-28T12:15:19Z,ShauryaDusht,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860QgTE,60021,Unable to Enter Text into the Preview Field (Black Box),CLOSED,2025-04-28T08:58:31Z,2025-04-28T09:12:14Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860Axlm,59998,use specific assert methods in cat painting workshop step 5,CLOSED,2025-04-25T13:40:03Z,2025-04-28T09:29:26Z,amoghmadireddi,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ys-Lk,59753,Add set 2 of questions for CSS Positioning quiz,OPEN,2025-04-16T02:12:11Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86skN31,59129,Markdown to HTML Converter - JavaScript,OPEN,2025-03-04T19:05:22Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860BC0r,60000,use specific assert methods in cat painting workshop step 7,CLOSED,2025-04-25T14:06:58Z,2025-04-26T20:46:06Z,MelvinManni,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z9mDx,59991,use specific assert methods in cat painting workshop step 68,CLOSED,2025-04-25T07:46:05Z,2025-04-26T19:38:16Z,Lohith-11,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z_pMR,59996,use specific assert methods in cat painting workshop step 57,CLOSED,2025-04-25T11:36:23Z,2025-04-26T19:36:16Z,tarek-gritli,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860BE00,60001,use specific assert methods in cat painting workshop step 17,CLOSED,2025-04-25T14:09:58Z,2025-04-26T19:30:19Z,Lynsoo,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X855klxW,52536,Python test runner umbrella issue,OPEN,2023-12-13T12:42:46Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86QC8Cd,55559,Allow all valid versions of browser alert,OPEN,2024-07-18T15:10:51Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86K1kyB,55060,Building a Spreadsheet: Logic for avoiding self-reference in function calls is broken,OPEN,2024-06-01T19:21:56Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86AOJ1V,53836,JavaScript Algorithms and Data Structures (Beta) - Certification Projects - Directing campers away from incorrect solution,OPEN,2024-02-23T14:21:25Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8559Y1b,52583,[python]: learn-recursion-by-solving-the-tower-of-hanoi-puzzle,OPEN,2023-12-18T09:20:11Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86LfCa6,55111,Definitions should be improved for SciComPy,OPEN,2024-06-07T10:49:35Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zYlE_,59871,Step 42 Build a Balance Sheet Unclear instructions,OPEN,2025-04-22T00:44:08Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86yiMm8,59725,Full stack HTML Accessibility Lab: Build a checkout page - exercise not in line with good ARIA practice,OPEN,2025-04-15T06:34:38Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOCCum187ASRKE,13623,[Vapor] Using image from public directory causes error,OPEN,2025-07-13T01:58:17Z,,,vuejs,core
+I_kwDOCCum187AP1BF,13622,Vue SFC Playground has nowhere to enable `createVaporApp`,OPEN,2025-07-12T13:40:17Z,,,vuejs,core
+I_kwDOCCum186_tEyC,13602,insertBefore DOM Error When Navigating to Specific Dynamic Nested Route,CLOSED,2025-07-09T15:05:49Z,2025-07-13T00:12:56Z,,vuejs,core
+I_kwDOCCum187APEli,13620,perf regression real world use case,OPEN,2025-07-12T10:39:55Z,,,vuejs,core
+I_kwDOCCum187APyuw,13621,"vue v3.6.0-alpha.1 can't work with `<img src=""/logo.svg"" />` in vapor mode",CLOSED,2025-07-12T13:31:46Z,2025-07-12T22:21:34Z,,vuejs,core
+I_kwDOCCum185wRwEq,9145,Dependency Dashboard,OPEN,2023-09-06T10:19:11Z,,,vuejs,core
+I_kwDOCCum187AAcmL,13615,Vue3 custom element prop type number is string in production builds,OPEN,2025-07-11T03:18:34Z,,,vuejs,core
+I_kwDOCCum187AKa5W,13618,Inconsistent update timing behavior when using defineModel,CLOSED,2025-07-11T19:15:01Z,2025-07-12T01:12:07Z,,vuejs,core
+I_kwDOCCum1847-De8,4668,Error TS6133: '$props' | '$setup' | '$options' is declared but its value is never read,OPEN,2021-09-24T06:21:01Z,,,vuejs,core
+I_kwDOCCum186_Wbf-,13586,@vue/compiler-sfc unable to resolve external types in other vue components if using import map in package.json,OPEN,2025-07-07T21:46:50Z,,,vuejs,core
+I_kwDOCCum186_6B4a,13613,"If you pass a reactive variable to toRaw() within computed, computed will not be re-evaluated even if the reactive variable changes.",CLOSED,2025-07-10T14:46:27Z,2025-07-11T14:22:43Z,,vuejs,core
+I_kwDOCCum186_73WV,13614,Style values with spaces are not preserved,CLOSED,2025-07-10T17:33:46Z,2025-07-10T18:37:13Z,,vuejs,core
+I_kwDOCCum186_5iK6,13611,Slot <template> not working when its name starts with an underscore (_) since v3.5.14,OPEN,2025-07-10T14:12:17Z,,,vuejs,core
+I_kwDOCCum186_2nnl,13608,"New allowed HTML Tags as children for `<SELECT>` and `<OPTION>`, and `data-allow-mismatch` does not remove warning",OPEN,2025-07-10T10:24:56Z,,,vuejs,core
+I_kwDOCCum1855GCff,9774,`defineProps` is unable to parse the types generated from `ExtractPropTypes`,OPEN,2023-12-07T22:26:08Z,,,vuejs,core
+I_kwDOCCum186_lbSF,13595,build error [vite:build-import-analysis] Maximum call stack size exceeded,CLOSED,2025-07-09T02:13:44Z,2025-07-09T02:40:56Z,,vuejs,core
+I_kwDOCCum1868-3QD,13521,Using generics is making required props optional when using fallthrough,CLOSED,2025-06-24T06:50:26Z,2025-06-24T08:24:35Z,,vuejs,core
+I_kwDOCCum1868ofjc,13509,Transition,CLOSED,2025-06-21T04:03:20Z,2025-06-25T00:11:18Z,,vuejs,core
+I_kwDOCCum186_kT9w,13593,Prop that is possibly `undefined` cannot be defaulted to `undefined` when `exactOptionalPropertyTypes` and `strictNullChecks` are true,OPEN,2025-07-08T23:03:25Z,,,vuejs,core
+I_kwDOCCum186_b5ak,13591,Native semantic Tags doesn't work,CLOSED,2025-07-08T09:28:52Z,2025-07-08T09:35:50Z,,vuejs,core
+I_kwDOCCum185od9O1,8553,Allow components passed as slot prop to be used in the slot,OPEN,2023-06-12T12:41:27Z,,,vuejs,core
+I_kwDOCCum186_NjGU,13582,Difficult to understand rendering logic,OPEN,2025-07-07T08:15:07Z,,,vuejs,core
+I_kwDOCCum186-GSnM,13544,"It's possible to provide props to a slot, but no way to provide slots to slots",OPEN,2025-06-30T17:34:46Z,,,vuejs,core
+I_kwDOCCum186eRp-8,12384,TSX can't add custom props because of IntrinsicAttributes don't extends any interface.,OPEN,2024-11-13T13:04:50Z,,,vuejs,core
+I_kwDOCCum1868flxy,13504,reactive iterators do not support iterator helpers,CLOSED,2025-06-20T08:37:43Z,2025-06-20T08:41:56Z,,vuejs,core
+I_kwDOCCum186-mCut,13557,defineProps lost responsive after deconstruction,CLOSED,2025-07-03T01:29:35Z,2025-07-04T06:41:00Z,,vuejs,core
+I_kwDOCCum186-pAjJ,13559,`<Suspense>` changes the order of elements when using `v-for` with a given `key`,OPEN,2025-07-03T07:49:42Z,,,vuejs,core
+I_kwDOCCum1868U_We,13499,Dialog组件中如有组件内部还使用了Dialog，会导致关闭时报错,CLOSED,2025-06-19T09:24:45Z,2025-06-19T09:38:10Z,,vuejs,core
+I_kwDOCCum185aqr3H,7474,"In CSS, `v-bind()` should not add custom properties to the component's style attribute when their value is `undefined`.",CLOSED,2023-01-05T17:51:37Z,2025-07-03T08:20:31Z,Justineo;edison1105,vuejs,core
+I_kwDOCCum186fSrpF,12439,SSR hydration errors when combining inline styles with v-bind() in CSS,CLOSED,2024-11-19T14:54:36Z,2025-07-03T08:20:30Z,,vuejs,core
+I_kwDOCCum186fIuIg,12434,"Nested components utilizing v-bind() in CSS improperly reference the CSS variable name of the parent node, causing undesired property inheritance in the child",CLOSED,2024-11-18T20:41:12Z,2025-07-03T08:20:30Z,Justineo;edison1105,vuejs,core
+I_kwDOCCum1868JVQs,13493,defineProps has invalid validation,CLOSED,2025-06-18T11:47:02Z,2025-06-18T12:28:43Z,,vuejs,core
+I_kwDOCCum186lKNIF,12652,compat: v-model modifiers do not work on components,CLOSED,2025-01-06T15:38:05Z,2025-06-18T12:53:27Z,edison1105;markrian,vuejs,core
+I_kwDOCCum1867RgHe,13468,"Slots behave differently from Vue 3.5.14, breaks code that worked in 3.5.13",CLOSED,2025-06-13T00:58:59Z,2025-06-18T12:53:49Z,autofix-ci[bot];edison1105,vuejs,core
+I_kwDOCCum1866WSj9,13444,Cannot use nominal/brand types in props,CLOSED,2025-06-07T04:00:56Z,2025-06-18T12:54:10Z,jh-leong,vuejs,core
+I_kwDOCCum18676oqo,13486,`<option>` inside `<optgroup>` won't have `selected` attr in the SSR output,CLOSED,2025-06-17T09:08:58Z,2025-06-18T12:54:33Z,edison1105,vuejs,core
+I_kwDOCCum186-Ystz,13554,defineEmits and references in the template - either misleading TS or bug.,OPEN,2025-07-02T00:24:43Z,,,vuejs,core
+I_kwDOCCum186-WVHP,13553,Accessibility bug with VoiceOver involving slots and form fields,OPEN,2025-07-01T19:02:11Z,,,vuejs,core
+I_kwDOCCum186-UST9,13552,`defineProps` & `ref` types mismatch,OPEN,2025-07-01T15:46:42Z,,,vuejs,core
+I_kwDOCCum1867tdXz,13481,{{ render() }} has an error in the console,CLOSED,2025-06-16T09:33:02Z,2025-06-17T03:35:52Z,,vuejs,core
+I_kwDOCCum1866P8Ry,13443,"Inconsistent excess property checking: ref<T>() errors, computed<T>() doesn't",CLOSED,2025-06-06T13:09:10Z,2025-06-10T01:06:31Z,,vuejs,core
+I_kwDOCCum1867v6sE,13483,console cannot find path function on the playground,CLOSED,2025-06-16T12:50:37Z,2025-06-18T00:29:49Z,,vuejs,core
+I_kwDOCCum186-Rjk5,13549,Teleport fails on ssr if to is undefined on mount.,CLOSED,2025-07-01T12:22:37Z,2025-07-01T12:46:29Z,,vuejs,core
+I_kwDOCCum18674Nu5,13484,Vue compiler does not correctly resolve ${configDir} from extended tsconfigs,OPEN,2025-06-17T05:04:59Z,,,vuejs,core
+I_kwDOCCum1866k5S9,13453,`<slot>` in `<Suspense>` will cause an error,OPEN,2025-06-09T12:55:08Z,,,vuejs,core
+I_kwDOCCum186-AKeF,13543,"Suspense use dynamic async component,fallback just work once",CLOSED,2025-06-30T09:03:57Z,2025-06-30T10:00:03Z,,vuejs,core
+I_kwDOCCum186x2TTT,13182,Functional component not receiving context when using the rest parameters,OPEN,2025-04-09T20:05:44Z,,,vuejs,core
+I_kwDOCCum1867ZRwn,13476,Computed does not track dependencies if they are used later,CLOSED,2025-06-13T15:35:51Z,2025-06-14T02:28:56Z,,vuejs,core
+I_kwDOCCum1867WYwz,13475,Destructured prop ref out of sync with prop value,CLOSED,2025-06-13T11:06:06Z,2025-06-14T12:09:18Z,,vuejs,core
+I_kwDOCCum1868zuE1,13518,Improve DefineComponent typings to support precise event mapping for consuming Custom Elements,OPEN,2025-06-23T10:36:14Z,,,vuejs,core
+I_kwDOCCum1867GMVv,13464,rendered dom lose `scroll` prop,CLOSED,2025-06-12T06:07:26Z,2025-06-12T07:15:50Z,,vuejs,core
+I_kwDOCCum1867I3zC,13465,Not possible to assign value to useTemplateRef returned Ref,CLOSED,2025-06-12T10:11:28Z,2025-06-12T10:47:13Z,,vuejs,core
+I_kwDOCCum185mMtxJ,8351,"Async component not rendering in SSR bundle, due to `default` export being missed",OPEN,2023-05-17T20:26:04Z,,,vuejs,core
+I_kwDOCCum1863h-mP,13361,Bug: @vue/compiler-sfc template loc wrong,CLOSED,2025-05-21T06:52:54Z,2025-06-05T01:39:07Z,KazariEX,vuejs,core
+I_kwDOCCum1866xM8U,13461,Detached nodes after v-if component(Memory leaks),CLOSED,2025-06-10T12:45:04Z,2025-06-10T14:29:41Z,,vuejs,core
+I_kwDOCCum1869Stp8,13528,`selected` attribute on `select option` won't get added when the `select` is using `:value` instead of `v-model`,OPEN,2025-06-25T14:07:10Z,,,vuejs,core
+I_kwDOCCum186NgYjF,11227,slots from useSlots() is not reactive when used in inline functional component,OPEN,2024-06-26T02:57:18Z,,,vuejs,core
+I_kwDOCCum1869HuEV,13524,defineModel on Firefox does not work as expected,OPEN,2025-06-24T18:29:17Z,,,vuejs,core
+I_kwDOCCum1866rlt4,13455,"关于使用常量object，里面参数为ref, shallowRef的问题",CLOSED,2025-06-10T02:57:15Z,2025-06-10T03:10:36Z,,vuejs,core
+I_kwDOCCum186Yc3w_,12088,Incorrect vite warning regarding nesting tr directly in table element,OPEN,2024-09-30T21:50:26Z,,,vuejs,core
+I_kwDOCCum185mStws,8368,Using custom script languages (such as coffeescript) no longer works since vue 3.3 (works in 3.2),OPEN,2023-05-18T19:54:23Z,,,vuejs,core
+I_kwDOCCum185TrnNi,6851,Static slot content vnode's el property remains null after the component is mounted,OPEN,2022-10-11T03:20:52Z,,,vuejs,core
+I_kwDOCCum1868p55u,13510,Async components with lazy hydration break when interacted with very quickly after hydration,OPEN,2025-06-21T13:44:01Z,,,vuejs,core
+I_kwDOCCum186lEw6Q,12647,Typescript Partial<> - [@vue/compiler-sfc] Unsupported type when resolving index type,CLOSED,2025-01-05T22:56:45Z,2025-06-05T02:01:23Z,edison1105,vuejs,core
+I_kwDOCCum186kuJiO,12630,Error in _injectChildStyle when shadowRoot is disabled in CustomElementApi,CLOSED,2024-12-30T18:32:34Z,2025-06-05T02:02:28Z,edison1105,vuejs,core
+I_kwDOCCum186fid7P,12448,`configureApp` for `defineCustomElement` Not Executed for Async Components,CLOSED,2024-11-20T17:22:47Z,2025-06-05T02:10:54Z,autofix-ci[bot];edison1105,vuejs,core
+I_kwDOCCum186ocATg,12803,Readonly Ref cannot be triggered by `triggerRef`,CLOSED,2025-02-02T17:24:10Z,2025-06-05T02:19:17Z,edison1105;serkodev,vuejs,core
+I_kwDOCCum186qU264,12898,The template ref was not set to null correctly after the conditional rendering was updated,CLOSED,2025-02-17T11:38:33Z,2025-06-05T02:19:50Z,edison1105;inottn,vuejs,core
+I_kwDOCCum1863A7nW,13344,Fallthrough attributes not applied if comment in root of child template and child component has certain structure,CLOSED,2025-05-17T07:02:04Z,2025-06-05T02:23:01Z,alex-snezhko;edison1105,vuejs,core
+I_kwDOCCum185wiiiE,9173,"vue-template-compiler: whitespace ""preserve"" option causes compiler error when using v-slot with v-if/v-else-if/v-else",CLOSED,2023-09-08T17:56:38Z,2025-06-05T01:44:26Z,edison1105,vuejs,core
+I_kwDOCCum186WX6Iy,11914,destructing directly props diffs from destructing props indirectly,OPEN,2024-09-12T16:27:21Z,,,vuejs,core
+I_kwDOCCum1868Lgwu,13495,Styles in normal component aren't applied in web component,OPEN,2025-06-18T14:35:10Z,,,vuejs,core
+I_kwDOCCum1865hQRn,13431,"A component which is a memory leak will cause all components of the routing page to fail to be destroyed normally. If it is in a large component, it will cause serious performance problems‼️",CLOSED,2025-06-03T05:46:56Z,2025-06-03T08:55:20Z,,vuejs,core
+I_kwDOCCum186ele0T,12403,There is a problem with the type hint in the playground,CLOSED,2024-11-15T03:37:11Z,2025-06-03T02:34:38Z,,vuejs,core
+I_kwDOCCum1865lwyq,13432,$props overrides extended boolean props,CLOSED,2025-06-03T12:03:07Z,2025-06-03T13:54:06Z,,vuejs,core
+I_kwDOCCum1865XKzk,13428,Assigned model value is not available in line below,CLOSED,2025-06-02T11:52:23Z,2025-06-02T13:22:13Z,,vuejs,core
+I_kwDOCCum185FmN7V,5579,a component that passes slots to children forces children to rerender,OPEN,2022-03-13T17:42:37Z,,,vuejs,core
+I_kwDOCCum186ltGEz,12680,$el of templateRef points to comment VNode instead of first real child of component,OPEN,2025-01-10T12:20:55Z,,,vuejs,core
+I_kwDOCCum185nkHW7,8482,Can't use generic prop type when definition includes intersection with generic params?,OPEN,2023-06-02T06:00:04Z,,edison1105;yyx990803,vuejs,core
+I_kwDOCCum1864kK5M,13401,"With Vue 3.5.15, bootstrap5 and sass, grid system does not work properly",CLOSED,2025-05-28T08:21:22Z,2025-05-29T00:22:24Z,,vuejs,core
+MDU6SXNzdWU5MzExMjg2MjQ=,4010,Should keyed v-for array refs be ordered?,OPEN,2021-06-28T03:23:43Z,,,vuejs,core
+I_kwDOCCum185FmJXa,5577,Add ability to teleport the content into the target after and before specified element,OPEN,2022-03-13T16:28:17Z,,,vuejs,core
+I_kwDOCCum1864ldb4,13402,Vue 3.5.15 changed CSS semantics when using CSS nesting and the `>` operator,CLOSED,2025-05-28T10:15:55Z,2025-05-28T12:42:08Z,,vuejs,core
+I_kwDOCCum1864Vsja,13387,CSS direct descendant wildcard rule no longer applied to child components,CLOSED,2025-05-27T06:05:22Z,2025-05-29T00:22:04Z,,vuejs,core
+I_kwDOCCum185ztytu,9396,Transition: custom appear(-active/to) classes stay on the element after transition ends.,OPEN,2023-10-13T07:17:26Z,,,vuejs,core
+I_kwDOCCum1866wb95,13460,"Allow `~/path` as `<img src=""~/..."">` with `~` alias",OPEN,2025-06-10T11:41:12Z,,,vuejs,core
+I_kwDOCCum1864V8xp,13388,"When the parent component passes the computed value, the child component receives it using defineModel and no rendering is triggered",CLOSED,2025-05-27T06:36:25Z,2025-05-27T07:01:08Z,,vuejs,core
+I_kwDOCCum1864cUCP,13393,Code injection static code analysis bugfix.,CLOSED,2025-05-27T15:54:55Z,2025-05-28T00:00:31Z,,vuejs,core
+I_kwDOCCum1866dN7u,13447,Attaches scope CSS to wrong root in Iframe and Pop-up,CLOSED,2025-06-08T10:55:19Z,2025-06-10T06:54:51Z,,vuejs,core
+I_kwDOCCum1864TOa0,13386,Reactive Props Destructure bug,CLOSED,2025-05-26T20:58:37Z,2025-05-26T23:56:32Z,,vuejs,core
+I_kwDOCCum186pkkd3,12852,useTemplateRef warning appears after rollup packaging,OPEN,2025-02-11T10:17:09Z,,,vuejs,core
+I_kwDOCCum186xFjKl,13159,CSS nesting and `:deep()` in scoped styles not working,OPEN,2025-04-04T01:04:38Z,,,vuejs,core
+I_kwDOCCum1865Y8yn,13429,Scoped universal selector removed before combinator,OPEN,2025-06-02T13:59:39Z,,,vuejs,core
+I_kwDOCCum186pkwJY,12854,Wrong value type in initial render bacause of attribute reflection from vue custom element,CLOSED,2025-02-11T10:37:07Z,2025-05-22T00:38:29Z,edison1105,vuejs,core
+I_kwDOCCum186sc7y3,12992,Error tip during vue2 upgrade to vue3,CLOSED,2025-03-04T07:38:30Z,2025-05-22T00:44:35Z,edison1105;yangchangtao,vuejs,core
+I_kwDOCCum1863suNP,13368,"computed 监听不到数组使用push,但是computed对应值会发生变化",CLOSED,2025-05-22T03:50:53Z,2025-05-22T04:04:43Z,,vuejs,core
+MDU6SXNzdWU4NjExMjA4ODM=,3632,Invalid vnode type when creating vnode,OPEN,2021-04-19T09:47:01Z,,,vuejs,core
+I_kwDOCCum18654g0C,13436,`<option>` without `value` attr won't have `selected` attr in the SSR output,OPEN,2025-06-04T17:41:35Z,,,vuejs,core
+I_kwDOCCum18490AWc,4861,The function in the lifecycle hooks is called only 1 time,CLOSED,2021-10-27T06:53:48Z,2025-05-21T11:49:37Z,,vuejs,core
+I_kwDOCCum186tIdrY,13006,"defineComponent props sets the default property value, `props.xx` may still be undefined",CLOSED,2025-03-08T09:40:38Z,2025-05-22T00:03:34Z,edison1105;jh-leong,vuejs,core
+I_kwDOCCum186yXXTz,13199,[custom elements api] Cannot set properties of null (setting 'parent') with { shadowRoot: false },CLOSED,2025-04-14T09:30:41Z,2025-05-22T00:05:41Z,edison1105,vuejs,core
+I_kwDOCCum186fr9r8,12453,`defineCustomElement` looses provide context configured by `configureApp` on HMR,CLOSED,2024-11-21T11:25:47Z,2025-05-20T00:34:37Z,edison1105,vuejs,core
+I_kwDOCCum186ymL_x,13205,compat: ATTR_FALSE_VALUE incorrectly removes value attribute on inputs,CLOSED,2025-04-15T13:01:15Z,2025-05-20T00:43:52Z,edison1105,vuejs,core
+I_kwDOCCum186cRcaR,12294,Synchronous watchers can fail to fire,CLOSED,2024-10-29T16:47:47Z,2025-05-20T00:44:15Z,edison1105;jh-leong,vuejs,core
+I_kwDOCCum186m2Nq0,12751,`ComponentInstance<typeof Comp>['$props']` has invalid properties when used with `strictFunctionTypes` and `defineModel`,CLOSED,2025-01-20T13:08:15Z,2025-05-20T00:44:36Z,edison1105;jh-leong,vuejs,core
+I_kwDOCCum186ltyL5,12682,Template is not mapped in sourcemap on Vite applications,CLOSED,2025-01-10T13:52:56Z,2025-05-20T00:46:03Z,edison1105,vuejs,core
+I_kwDOCCum185QSPS9,6532,Problem typing optional props with exactOptionalPropertyTypes enabled in tsconfig,OPEN,2022-08-22T20:40:37Z,,,vuejs,core
+I_kwDOCCum18622Med,13333,Reactive object is marked as raw by defineExpose,CLOSED,2025-05-16T00:43:28Z,2025-05-20T00:11:17Z,,vuejs,core
+I_kwDOCCum1863CExZ,13349,Teleport defer causes infinite recursion,CLOSED,2025-05-17T13:24:32Z,2025-05-20T00:27:55Z,edison1105,vuejs,core
+I_kwDOCCum18624-ok,13335,`<Transition appear>` leads to hydration mismatch with SSR,CLOSED,2025-05-16T08:54:24Z,2025-05-20T00:28:45Z,edison1105,vuejs,core
+I_kwDOCCum18642wv1,13410,Adding `generic=` to `<script setup>` makes it impossible to export types from SFC,OPEN,2025-05-29T20:04:36Z,,,vuejs,core
+I_kwDOCCum186qkbbX,12906,Star selectors leak scoped styles into children,OPEN,2025-02-18T21:35:06Z,,edison1105;thecodewarrior,vuejs,core
+I_kwDOCCum186pgCCa,12845,warnRecursiveComputed no longer works,CLOSED,2025-02-10T21:46:39Z,2025-05-18T08:00:06Z,,vuejs,core
+MDU6SXNzdWU3MDEwODgwMTE=,2116,Use Array.splice() to watch array,CLOSED,2020-09-14T13:12:34Z,2025-05-18T17:01:28Z,,vuejs,core
+I_kwDOCCum186z9Jo_,13240,Type inference failure in defineProps when using generic type aliases for function props,CLOSED,2025-04-25T06:47:52Z,2025-05-16T00:32:14Z,edison1105;linzhe141,vuejs,core
+I_kwDOCCum1862D838,13305,Rendering a list of <Suspense>-wrapped components fails,CLOSED,2025-05-10T19:44:31Z,2025-05-16T00:32:56Z,edison1105,vuejs,core
+I_kwDOCCum1861xVWk,13295,Compatible with tsconfig `allowArbitraryExtensions` option,CLOSED,2025-05-08T17:06:47Z,2025-05-16T00:38:49Z,Teages;edison1105,vuejs,core
+I_kwDOCCum1862Q9rP,13318,"Incorrect warning: <tr> cannot be child of <template>, according to HTML specifications",CLOSED,2025-05-12T19:16:27Z,2025-05-16T01:05:33Z,edison1105,vuejs,core
+I_kwDOCCum18477elc,4663,"Imported refs used in `v-if` trigger ""Object is possibly 'undefined'"" error",CLOSED,2021-09-23T13:37:51Z,2025-05-16T06:26:20Z,,vuejs,core
+I_kwDOCCum186isaAp,12520,v-html on `<component>` does not work in SSR,OPEN,2024-12-10T09:33:06Z,,,vuejs,core
+I_kwDOCCum1862rRvr,13328,"v-bind=""data"" reports an error during the patch phase.",CLOSED,2025-05-15T03:42:10Z,2025-05-15T04:51:03Z,,vuejs,core
+I_kwDOCCum1862tCBP,13330,Installation of version 3.5.14 failed,CLOSED,2025-05-15T07:33:38Z,2025-05-15T07:45:58Z,,vuejs,core
+I_kwDOCCum186ywkD0,13212,Injection breaks when nesting Vue custom elements,CLOSED,2025-04-16T09:42:23Z,2025-05-16T00:07:33Z,,vuejs,core
+I_kwDOCCum1860cMbR,13255,Update of component prop before hydration causes hydration to fail,CLOSED,2025-04-29T07:02:22Z,2025-05-16T00:22:02Z,,vuejs,core
+I_kwDOCCum1860i1mU,13261,Generated `v-if` output is not compatible with coverage tooling,CLOSED,2025-04-29T17:18:32Z,2025-05-16T00:22:38Z,edison1105,vuejs,core
+I_kwDOCCum185Yo-Xf,7312,"v-bind style not working in some edge cases (teleport + transition, slots)",OPEN,2022-12-09T17:30:33Z,,,vuejs,core
+I_kwDOCCum1862PiI_,13316,BaseTransition Unmounting Optimization leads to animation disappear,CLOSED,2025-05-12T16:33:43Z,2025-05-13T00:32:11Z,,vuejs,core
+I_kwDOCCum1862VCHR,13321,defineModel and v-model value mismatch with native input binding,CLOSED,2025-05-13T06:56:40Z,2025-05-13T07:26:53Z,,vuejs,core
+I_kwDOCCum185eVtBH,7706,HMR not working after failed hydration,CLOSED,2023-02-13T17:14:25Z,2025-05-13T14:15:51Z,edison1105,vuejs,core
+I_kwDOCCum186gRAQ8,12465,Transition got different behavior in dev & prod mode,CLOSED,2024-11-25T02:20:45Z,2025-05-13T14:16:46Z,edison1105;yangchangtao;yangxiuxiu1115,vuejs,core
+I_kwDOCCum186oG6tI,12790,@vue/compiler-sfc can't compile  this code correct,CLOSED,2025-01-30T10:00:56Z,2025-05-13T14:17:25Z,edison1105,vuejs,core
+I_kwDOCCum186GXeOj,10747,Throw TypeError when writing html comment in teleport,CLOSED,2024-04-20T00:59:33Z,2025-05-13T14:18:29Z,autofix-ci[bot];edison1105;tonicli,vuejs,core
+I_kwDOCCum186lHah1,12650,Failed to execute 'insertBefore' on 'Node': parameter 1 is not of type 'Node'.,CLOSED,2025-01-06T09:02:43Z,2025-05-13T14:18:30Z,autofix-ci[bot];edison1105;tonicli,vuejs,core
+I_kwDOCCum1864foRr,13394,SSR hydration fails with `<Transition appear>` and empty content,OPEN,2025-05-27T21:36:53Z,,,vuejs,core
+I_kwDOCCum186fJNGB,12435,"<Transition appear>, wrapped in another node, doesn't work with Suspense",OPEN,2024-11-18T21:30:54Z,,,vuejs,core
+I_kwDOCCum1861JjKl,13280,misleading error message when nesting/passing on v-model,OPEN,2025-05-05T09:59:51Z,,edison1105;runyasak,vuejs,core
+I_kwDOCCum186V5bmH,11872,Vue 2 migration build WATCH_ARRAY triggers on deep value modification,OPEN,2024-09-09T20:31:08Z,,,vuejs,core
+I_kwDOCCum18611TP2,13297,Pure components cannot deduce component names from file names,CLOSED,2025-05-09T03:34:15Z,2025-05-09T08:45:15Z,,vuejs,core
+I_kwDOCCum186oj6fc,12810,SFC components without or with empty script tag don't have a name,CLOSED,2025-02-03T16:28:51Z,2025-05-09T09:13:36Z,,vuejs,core
+I_kwDOCCum1860f47Q,13260,Source maps off when `<script>` doesn't contain at least one line break,CLOSED,2025-04-29T13:01:17Z,2025-05-09T13:53:38Z,,vuejs,core
+I_kwDOCCum1861w535,13294,Type-only defineProps and defineEmits cause a compiler-sfc error when using path aliases,CLOSED,2025-05-08T16:16:02Z,2025-05-08T17:56:33Z,,vuejs,core
+I_kwDOCCum186KKhiY,11022,style vars doesn't work with wrapped teleport,OPEN,2024-05-27T00:40:38Z,,,vuejs,core
+I_kwDOCCum186q0hk4,12920,Suspense unmounts with an error if it renders a component with a root node implementing a client-only behavior,OPEN,2025-02-20T11:32:33Z,,,vuejs,core
+MDU6SXNzdWU4MTEzMTc0Mjc=,3257,Vue warns incorrectly if component is surrounded by functional component,OPEN,2021-02-18T17:38:11Z,,,vuejs,core
+I_kwDOCCum186tugDY,13029,Custom Element Mode - Styles applied in wrong order,OPEN,2025-03-12T17:16:36Z,,,vuejs,core
+I_kwDOCCum1860rv3S,13263,"WCAG issue, Vue strips value from img alt attribute when empty string",CLOSED,2025-04-30T13:53:37Z,2025-05-03T00:38:49Z,,vuejs,core
+I_kwDOCCum18625Byi,13336,"Type '""enter""' and '""tab""' is not assignable to type 'VOnModifiers'",OPEN,2025-05-16T08:59:50Z,,,vuejs,core
+I_kwDOCCum18605VjL,13267,Can't bind a style object with a clip-path string inside,CLOSED,2025-05-01T23:58:25Z,2025-05-02T08:19:16Z,,vuejs,core
+I_kwDOCCum186pB8hG,12816,[Teleport] - Updating component inside Teleport causes HMR to crash,CLOSED,2025-02-06T15:33:03Z,2025-05-02T09:18:02Z,edison1105,vuejs,core
+I_kwDOCCum186fQl3M,12438,slot with always-true condition is not rendered on ssr,CLOSED,2024-11-19T11:50:44Z,2025-05-02T09:48:04Z,edison1105,vuejs,core
+I_kwDOCCum186amugR,12194,"Slot ""default"" invoked outside of the render function: this will not track dependencies used in the slot. Invoke the slot function inside the render function instead.",CLOSED,2024-10-17T07:14:19Z,2025-05-02T09:53:16Z,edison1105;yangchangtao;yangxiuxiu1115,vuejs,core
+I_kwDOCCum186vQTSo,13087,Readonly reference to an array is not honored when inside v-for,CLOSED,2025-03-22T10:15:00Z,2025-05-02T09:55:25Z,jh-leong,vuejs,core
+MDU6SXNzdWU3MzY3OTE0OTU=,2562,custom directives on components: Can't access child component in directive hooks.,OPEN,2020-11-05T10:05:07Z,,,vuejs,core
+I_kwDOCCum18626dnM,13338,watchEffect performs bad with emits,OPEN,2025-05-16T11:45:31Z,,,vuejs,core
+I_kwDOCCum185TwjE_,6854,Manually annotating prop with JSDoc doesn't produce right type,OPEN,2022-10-11T21:13:50Z,,,vuejs,core
+I_kwDOCCum1862wR_c,13332,Bug in the invocation order of lifecycle hooks during component remounting/unmounting controlled via key,OPEN,2025-05-15T12:38:38Z,,,vuejs,core
+I_kwDOCCum1862SCWS,13319,"Compiler should error on the start of a new element with the current element unclosed, instead of onClose",OPEN,2025-05-12T21:22:19Z,,,vuejs,core
+I_kwDOCCum186zN2oj,13222,Detached elements hold by stale __vnode (dev only),CLOSED,2025-04-20T02:05:09Z,2025-05-01T09:54:41Z,autofix-ci[bot];makedopamine,vuejs,core
+I_kwDOCCum186ywO5f,13211,Detached elements due to cached static vnodes,CLOSED,2025-04-16T09:09:16Z,2025-05-01T09:55:37Z,edison1105,vuejs,core
+I_kwDOCCum186ywGVt,13209,Detached elements casued by getting computed value in ref function,CLOSED,2025-04-16T08:55:42Z,2025-05-01T09:56:44Z,makedopamine,vuejs,core
+I_kwDOCCum186xxVYi,13181,Memory leaks when using transition-group,CLOSED,2025-04-09T11:20:54Z,2025-05-01T09:58:08Z,edison1105,vuejs,core
+I_kwDOCCum186dOGcn,12337,The `computed` will continuously recompute if it doesn’t track any reactive data.,CLOSED,2024-11-06T10:45:10Z,2025-05-01T14:02:18Z,edison1105;yyx990803,vuejs,core
+I_kwDOCCum18604qOf,13266,"useTemplateRef() can not get the element, the value will be null",CLOSED,2025-05-01T21:29:24Z,2025-05-01T21:35:49Z,,vuejs,core
+MDU6SXNzdWU4MDI1ODE0ODk=,3173,":class=""undefined"" causes class being rendered",OPEN,2021-02-06T01:57:40Z,,,vuejs,core
+I_kwDOCCum1860cYuS,13256,runWithContext cannot self-boot,CLOSED,2025-04-29T07:19:54Z,2025-04-30T11:18:52Z,,vuejs,core
+I_kwDOCCum1862V_SI,13322,Migration from Vue2 to Vue3 with OptionAPI passing vm from outside not working anymore (data being a function),CLOSED,2025-05-13T08:32:47Z,2025-05-14T07:19:02Z,,vuejs,core
+I_kwDOCCum186I2jwH,10948,Custom elements not able to associate with form ,OPEN,2024-05-14T17:27:06Z,,,vuejs,core
+I_kwDOCCum1862JNmm,13315,MutationObserver.disconnect() in _setProp of core/packages/runtime-dom/src/apiCustomElement.ts may cause some confused problem,OPEN,2025-05-12T07:04:23Z,,,vuejs,core
+I_kwDOCCum1860C8N5,13242,defineEmits macro only works when assigned to variable,CLOSED,2025-04-25T17:49:07Z,2025-04-26T07:45:56Z,,vuejs,core
+I_kwDOCCum186xwjaB,13180,"transition包括的文件根节点中如果出现注释代码,则页面切换时白屏",CLOSED,2025-04-09T10:02:06Z,2025-04-13T00:34:55Z,,vuejs,core
+I_kwDOCCum1860LY5S,13247,"vue3.2.3x 版本 与 3.5.x版本,watch的监听发生变化",CLOSED,2025-04-27T07:41:30Z,2025-04-27T07:55:26Z,,vuejs,core
+I_kwDOCCum185ov4Hu,8576,TypeScript's `defineProps` macro does not properly map to the object version in the case of booleans,OPEN,2023-06-14T17:47:31Z,,,vuejs,core
+I_kwDOCCum1860ELhe,13243,JSDoc generation does not work with <script setup>,CLOSED,2025-04-25T20:41:14Z,2025-04-26T12:56:40Z,,vuejs,core
+I_kwDOCCum186z8HzY,13239,页面加载 v-if 只有第一次加载生效,CLOSED,2025-04-25T03:16:19Z,2025-04-25T03:19:32Z,,vuejs,core
+I_kwDOCCum186zu1jp,13236,Optional prop with default may incorrectly be undefined in template when `exactOptionalPropertyTypes` and `strictNullChecks` are true,CLOSED,2025-04-23T22:41:39Z,2025-04-25T20:55:22Z,,vuejs,core
+I_kwDOCCum186eyyJ-,12412,Remove vue custom element and append it back later can cause a lot of issues,OPEN,2024-11-16T09:44:21Z,,,vuejs,core
+I_kwDOCCum18614Sbr,13298,"How to perfectly expose the methods under ""expose"" in component secondary development",CLOSED,2025-05-09T08:33:33Z,2025-05-09T08:42:39Z,,vuejs,core
+I_kwDOCCum186z3RR1,13238,Iterator helpers removed after conversion to Ref,CLOSED,2025-04-24T15:09:11Z,2025-04-24T23:59:00Z,,vuejs,core
+I_kwDOCCum186zbMDA,13231,comp name startwith`_` will render error,CLOSED,2025-04-22T07:51:38Z,2025-04-22T13:51:46Z,,vuejs,core
+I_kwDOCCum186zcVKT,13232,No override props value in component,CLOSED,2025-04-22T09:46:08Z,2025-04-22T13:57:26Z,,vuejs,core
+I_kwDOCCum1860_q3s,13271,"Default template parser setting ""condense"" breaks valid HTML",OPEN,2025-05-02T18:24:30Z,,,vuejs,core
+I_kwDOCCum186y85TF,13217,性能问题,CLOSED,2025-04-17T12:10:05Z,2025-04-17T13:28:29Z,,vuejs,core
+I_kwDOCCum186yhAI9,13202,用vue构建web-components组件库，输出dist时，如果没有将vue外部化，那么其他vue项目引入时，会破坏热更新。,CLOSED,2025-04-15T03:49:28Z,2025-04-16T02:08:32Z,,vuejs,core
+I_kwDOCCum186yo3lh,13207,TypeScript Union Type Narrowing: Mapped types on Generic Prop Narrows to Only the First Union Member,CLOSED,2025-04-15T16:56:21Z,2025-04-17T00:23:45Z,,vuejs,core
+I_kwDOCCum185ePwN5,7691,Inferring module types on `useCssModule`,CLOSED,2023-02-12T09:31:27Z,2025-04-15T08:29:12Z,,vuejs,core
+I_kwDOCCum186ykSey,13204,defineExpose not actually exposing from component,CLOSED,2025-04-15T09:53:34Z,2025-04-15T10:02:26Z,,vuejs,core
+I_kwDOCCum1860ZzXI,13254,The emits option in Mixins cant be inferred,OPEN,2025-04-29T00:58:37Z,,,vuejs,core
+I_kwDOCCum1860Zq2T,13253,The components option in Mixins cant be inferred,OPEN,2025-04-29T00:31:26Z,,,vuejs,core
+MDU6SXNzdWU5NDA1NzAwNjI=,4090,Extend the list of script setup compiler known refs,CLOSED,2021-07-09T09:03:35Z,2025-04-14T08:11:33Z,,vuejs,core
+I_kwDOCCum186yErJV,13189,Watch runs unnecessarily when deep is true,CLOSED,2025-04-11T05:15:14Z,2025-04-14T08:48:53Z,,vuejs,core
+I_kwDOCCum186rtxch,12952,Native `fill` and `reverse` function cost performance problem when called on heavy array.,CLOSED,2025-02-26T09:37:18Z,2025-04-13T14:28:29Z,,vuejs,core
+I_kwDOCCum186yHS_8,13191,Memory leaks when using a named transition component inside router-view,CLOSED,2025-04-11T10:29:12Z,2025-04-12T00:38:02Z,,vuejs,core
+I_kwDOCCum185FCWsW,5510, vscode debug: caused by node run shell error,CLOSED,2022-03-03T10:39:03Z,2025-04-09T00:36:16Z,,vuejs,core
+I_kwDOCCum186xsO6_,13178,Diff/Reconciliation for JSX elements is wrong,CLOSED,2025-04-08T23:44:36Z,2025-04-09T00:34:07Z,,vuejs,core
+I_kwDOCCum186xImLo,13160,Component with Teleport root node inside <Transition> cannot be animated,CLOSED,2025-04-04T09:39:13Z,2025-04-04T13:08:41Z,,vuejs,core
+I_kwDOCCum186xss4n,13179,JsDoc Unable to document v-model,CLOSED,2025-04-09T01:15:41Z,2025-04-09T13:51:31Z,,vuejs,core
+I_kwDOCCum186xkIDQ,13174,"When referencing an asynchronous component, it is not possible to correctly obtain the exposed properties and methods from the reference.",CLOSED,2025-04-08T08:35:09Z,2025-04-08T09:12:39Z,,vuejs,core
+I_kwDOCCum186zf6VC,13234,[custom elements api] TypeError: Cannot read properties of null (reading 'insertBefore') using v-if on named slot,OPEN,2025-04-22T15:52:21Z,,,vuejs,core
+I_kwDOCCum185vOihj,9039,The attr fall-through overrides the value of prop,OPEN,2023-08-25T01:02:38Z,,,vuejs,core
+I_kwDOCCum186xb9t5,13168,Options API: exposed (computed) property on child component accessed through ref isn't reactive,CLOSED,2025-04-07T13:33:28Z,2025-04-07T17:46:23Z,,vuejs,core
+I_kwDOCCum186zVGaP,13228,Attributes with `undefined` value are not removed,OPEN,2025-04-21T15:15:44Z,,,vuejs,core
+I_kwDOCCum186xCA7c,13157,Props stability doesn't work as per docs,CLOSED,2025-04-03T16:13:45Z,2025-04-04T11:54:23Z,,vuejs,core
+I_kwDOCCum186kee0P,12615,A reactive variable create from the `Map` data while lost some new functions after use iterator methods like `values`,OPEN,2024-12-26T08:20:01Z,,,vuejs,core
+I_kwDOCCum185HjBhL,5700,Compiler should warn about duplicate/conditional slots,OPEN,2022-04-11T18:20:21Z,,,vuejs,core
+I_kwDOCCum186wr743,13133,[BUG - @vue/compat] Incorrect deprecation warning message for `COMPILER_V_BIND_SYNC`,CLOSED,2025-04-01T18:51:49Z,2025-04-02T03:12:31Z,linzhe141,vuejs,core
+I_kwDOCCum186ww0WK,13143,Unhandled error during execution of scheduler flush in vue internal code.,CLOSED,2025-04-02T08:24:59Z,2025-04-02T08:49:50Z,,vuejs,core
+I_kwDOCCum186wzuVt,13150,"Loosing reactivity when using ""style"" props name in component",CLOSED,2025-04-02T13:10:07Z,2025-04-02T13:10:34Z,,vuejs,core
+I_kwDOCCum186wzvZz,13151,"Loosing reactivity when using ""style"" props name in component",CLOSED,2025-04-02T13:11:48Z,2025-04-02T14:11:51Z,,vuejs,core
+I_kwDOCCum185_rkbN,10362,"After modifying the value of defineModel, I expected emit to pass the latest value of the model to the function of the parent component for use, but found that it was still the old value.",OPEN,2024-02-19T11:15:36Z,,,vuejs,core
+I_kwDOCCum186ynD-G,13206,[custom elements api] using v-if in custom element slot doesn't work,OPEN,2025-04-15T14:13:18Z,,,vuejs,core
+MDU6SXNzdWU3ODIwMDIxNzI=,2969,Expose internal async component loaded/delayed/error internal refs on component to allow actions to be performed when it's loaded,CLOSED,2021-01-08T10:07:14Z,2025-04-01T00:58:51Z,,vuejs,core
+I_kwDOCCum185HqZtj,5705,"Vue 3 is ignoring autocorrect=""off"" on input fields for iOS Chrome",CLOSED,2022-04-12T19:28:53Z,2025-03-31T06:31:13Z,Ecco;autofix-ci[bot],vuejs,core
+MDU6SXNzdWU3MTg2NDE5OTY=,2349,Activated hook for directives,OPEN,2020-10-10T15:22:28Z,,,vuejs,core
+I_kwDOCCum186yBD6A,13188,Reordered items (v-for) lose all their ongoing transitions when move up (but don't when they move down).,OPEN,2025-04-10T19:05:34Z,,,vuejs,core
