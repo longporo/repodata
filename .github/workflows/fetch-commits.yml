@@ -1,4 +1,4 @@
-name: Fetch freeCodeCamp Commits Data
+name: Fetch vuejs Commits Data
 
 on:
   schedule:
@@ -6,10 +6,10 @@ on:
   workflow_dispatch: # Allow manual trigger
 
 env:
-  PUBLIC_REPO_OWNER: freeCodeCamp
-  PUBLIC_REPO_NAME: freeCodeCamp
+  PUBLIC_REPO_OWNER: vuejs
+  PUBLIC_REPO_NAME: core
   PRIVATE_REPO: ${{ secrets.REPO_SCOPED_TOKEN_USER }}/${{ secrets.REPO_SCOPED_TOKEN_REPO }} # Use secrets for private repo owner/name
-  PRIVATE_REPO_BRANCH: freeCodeCamp # Or your desired branch
+  PRIVATE_REPO_BRANCH: vuejs # Or your desired branch
   COMMIT_EMAIL: github-actions[bot]@users.noreply.github.com
   COMMIT_USERNAME: github-actions[bot]
 

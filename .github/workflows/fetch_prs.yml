@@ -1,4 +1,4 @@
-name: Fetch freeCodeCamp PR Lifecycle Data
+name: Fetch vuejs PR Lifecycle Data
 
 on:
   schedule:
@@ -6,10 +6,10 @@ on:
   workflow_dispatch:
 
 env:
-  PUBLIC_REPO_OWNER: freeCodeCamp
-  PUBLIC_REPO_NAME: freeCodeCamp
+  PUBLIC_REPO_OWNER: vuejs
+  PUBLIC_REPO_NAME: core
   PRIVATE_REPO: ${{ secrets.REPO_SCOPED_TOKEN_USER }}/${{ secrets.REPO_SCOPED_TOKEN_REPO }}
-  PRIVATE_REPO_BRANCH: freeCodeCamp # Or your desired branch
+  PRIVATE_REPO_BRANCH: vuejs # Or your desired branch
   COMMIT_EMAIL: github-actions[bot]@users.noreply.github.com
   COMMIT_USERNAME: github-actions[bot]
 
