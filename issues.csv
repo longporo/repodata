@@ -1,8 +1,14 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87ASFT-,61320,"Minor spelling mistake on ""Learn Git by Building an SQL Reference Object""",OPEN,2025-07-13T00:27:36Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X869KzgP,61051,React Fundamentals missing lab work or workshop on keys and list rendering,OPEN,2025-06-25T01:06:47Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866vLLj,60806,chore: update tests to specific asserts tracking issue,OPEN,2025-06-10T09:59:05Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87AQhn2,61319,"chore: update asserts in workshop magazine steps 58-59,61-63",OPEN,2025-07-12T16:31:10Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87AQg1B,61318,"chore: replace asserts in steps 49,52-57 of magazine workshop",OPEN,2025-07-12T16:27:11Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87AJy5l,61308,Build a Balance Sheet - Step 17 - tests are too strict,CLOSED,2025-07-11T18:11:59Z,2025-07-12T16:13:18Z,dev-kamil,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868pd8S,60961,"The quiz for ""/quiz-javascript-higher-order-functions"" ramps up in difficulty extremely steeply",CLOSED,2025-06-21T10:37:13Z,2025-07-12T10:36:51Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_kCHo,61261,CSS Accessibility Review page content not covered in the lecture videos,CLOSED,2025-07-08T22:15:21Z,2025-07-10T20:31:10Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86__otP,61297,pyramid generator lab doesn't accept a solution with irrelevant spaces,OPEN,2025-07-11T01:02:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_H9Zf,61229,Incorrect use of 'spreadsheet' instead of 'stylesheet' in a lecture,CLOSED,2025-07-06T13:23:18Z,2025-07-11T19:41:01Z,PulkitPB,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87AJy5l,61308,Build a Balance Sheet - Step 17 - tests are too strict,OPEN,2025-07-11T18:11:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87AJG44,61306,Cos assignment ,CLOSED,2025-07-11T16:59:28Z,2025-07-11T17:43:21Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869exZE,61089,Project Idea Board: Misleading hint when unpinning non-existent item in board,CLOSED,2025-06-26T12:26:36Z,2025-07-11T12:18:02Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869EwnT,61041,Tests passed code for the RPG Creature Search project with an incorrect endpoint,CLOSED,2025-06-24T14:02:41Z,2025-07-11T12:16:14Z,dev-kamil,freeCodeCamp,freeCodeCamp
@@ -11,11 +17,9 @@ I_kwDOAbI7X868qANl,60964,Build a Music Player - Step 21 - Fails to pass in Safar
 I_kwDOAbI7X868MAuW,60923,workshop toggle text app step 4 naming,CLOSED,2025-06-18T15:11:32Z,2025-07-10T20:47:04Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_vSpq,61275,Update learning habits transcript,CLOSED,2025-07-09T18:54:14Z,2025-07-10T18:24:47Z,kannan-ravi,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_uTN1,61272,chore: update steps 45-48 of magazine workshop to use specific asserts,CLOSED,2025-07-09T17:03:16Z,2025-07-10T17:45:13Z,anmolsah,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866vLLj,60806,chore: update tests to specific asserts tracking issue,OPEN,2025-06-10T09:59:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-okqZ,61195,Need explanation for forward slash in void elements,OPEN,2025-07-03T07:11:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869B9iq,61034,React Fundamentals question's answer about SPAs is not explained in prior content,CLOSED,2025-06-24T10:31:01Z,2025-07-10T14:04:21Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8684hDn,61017,English A2 - Learn Introductions in an Online Team Meeting - Task 99 - Requiring dot in answer,CLOSED,2025-06-23T17:35:09Z,2025-07-10T13:28:58Z,nieldakarla,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868pd8S,60961,"The quiz for ""/quiz-javascript-higher-order-functions"" ramps up in difficulty extremely steeply",OPEN,2025-06-21T10:37:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-EcAJ,61161,real time counter test wording about 50 character limitation is fuzzy,OPEN,2025-06-30T15:04:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X860x9MF,60095,Popular trends in technology verb-ing,CLOSED,2025-05-01T02:03:44Z,2025-07-09T21:46:55Z,DanielRosa74,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_F_Gz,61224,"Confusing instruction in accessibility quiz step — says ""nest"" sections but expects siblings",OPEN,2025-07-06T03:42:24Z,,,freeCodeCamp,freeCodeCamp
@@ -73,7 +77,6 @@ I_kwDOAbI7X869g6Qx,61091,console.log always prints last state of mutable object 
 I_kwDOAbI7X86-gpp_,61191,Donation prompt animation should probably be modified,CLOSED,2025-07-02T15:00:52Z,2025-07-03T11:29:44Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-ggqf,61190,assert errors from dom-test-evaluator are confusing,CLOSED,2025-07-02T14:50:23Z,2025-07-03T07:19:39Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-dA1L,61181,hint not precise enough in greeting bot workshop,OPEN,2025-07-02T09:41:33Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X869KzgP,61051,React Fundamentals missing lab work or workshop on keys and list rendering,OPEN,2025-06-25T01:06:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-dqFs,61184,Correct section markers,CLOSED,2025-07-02T10:40:48Z,2025-07-02T16:10:09Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-g4SK,61192,Microsoft Learn account URL changed format. Can't link my account,CLOSED,2025-07-02T15:20:13Z,2025-07-02T15:29:02Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86xFZSB,59590,No Higher Order Callback function walkthroughs,CLOSED,2025-04-04T00:26:42Z,2025-07-02T15:08:59Z,jdwilkin4,freeCodeCamp,freeCodeCamp
@@ -596,5 +599,3 @@ I_kwDOAbI7X86yHKuf,59678,Unclear requirement in favorite icon toggler lab,CLOSED
 I_kwDOAbI7X86yLeTz,59681,Add missing function call back in for question 13 of JavaScript Functions Quiz,CLOSED,2025-04-11T17:54:37Z,2025-04-13T18:05:02Z,MrSkinny,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86yQjIH,59687,"Add a ""Tutorials"" platform in main menu",CLOSED,2025-04-12T19:31:35Z,2025-04-13T17:43:38Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86yQAcv,59686,Add backticks around `a` and `b` in third question in `sort` method lecture,CLOSED,2025-04-12T15:50:05Z,2025-04-13T17:38:11Z,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86v2f5V,59453,Advanced Dice Game - Step 4: Incorrect code is passing tests,CLOSED,2025-03-26T17:12:07Z,2025-04-12T20:43:21Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86yPbfq,59685,[audit needed] order of tests in workshops and labs matter for mobile app,OPEN,2025-04-12T10:14:58Z,,,freeCodeCamp,freeCodeCamp
