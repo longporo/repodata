@@ -1,4 +1,7 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+5e1990ee1cc0cd1251af0492db663f11b1fdb628,fix(curriculum): faster euler 32 ref solution (#61274),2025-07-12T19:35:21Z,1,66,jeremylt,freeCodeCamp,freeCodeCamp
+af26a7c18a4f409d3b6922d468871cd90ed7e1c9,fix(curriculum): allow whitespaces in tests by trimming textContent f…,2025-07-12T16:13:16Z,3,6,dev-kamil,freeCodeCamp,freeCodeCamp
+4b1f1ac25fdb7faeed09a3eba1c11969947d2f62,chore(curriculum): replace question in JS Higher Order Functions Quiz…,2025-07-12T10:36:50Z,1,17,Giftea,freeCodeCamp,freeCodeCamp
 fda816360ea8fff4e42435ff2384bf403f382eea,fix(curriculum): replace 'spreadsheet' with 'stylesheet' in a CSS lec…,2025-07-11T19:40:59Z,1,7,PulkitPB,freeCodeCamp,freeCodeCamp
 0725188094355f6f683b6794dd262a3102678523,fix(curriculum): Add test and user story to enforce correct RPG Creat…,2025-07-11T12:16:12Z,1,32,dev-kamil,freeCodeCamp,freeCodeCamp
 d3b8238c293c00110f280a5697d77dfc72ccc294,test: remove unnecessary testString check (#61206),2025-07-11T08:29:28Z,1,9,ojeytonwilliams,freeCodeCamp,freeCodeCamp
@@ -702,5 +705,3 @@ a875294adf7af4d518717923d289cf54b1ca5bc8,"fix(gha): use machine IP, and better l
 4d11cd8ddb003d1aa0b2bac884ac573a892edc21,fix(curriculum): typos in css review (#59700),2025-04-14T04:28:10Z,1,4,Supravisor,freeCodeCamp,freeCodeCamp
 3fdb52a7158a051454dee426738a8463e620f80d,fix(curriculum): add function invocation to ensure correct answer mat…,2025-04-13T18:05:00Z,1,2,MrSkinny,freeCodeCamp,freeCodeCamp
 d31445fc15b1e58761ba8eb04c4cc1bc514060ab,fix(curriculum): Add missing backsticks in sort method lecture (#59688),2025-04-13T17:38:09Z,1,2,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
-cd50a5564bd2a342c9cf72e0cda65fd965d42fb7,chore: remove duplicate word in comment (#59683),2025-04-12T09:07:19Z,1,2,riyueguang,freeCodeCamp,freeCodeCamp
-c87ae5a8ba052beea1d6bbce55556d0fb1278272,fix(GHA): improve specificity of concurrency (#59677),2025-04-12T08:24:12Z,6,22,raisedadead,freeCodeCamp,freeCodeCamp
