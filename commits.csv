@@ -1,4 +1,10 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+8c484e9619b087e3e0e03a8e477981445344753d,fix(curriculum): instructions wording in Accessibility Quiz step 14 (…,2025-07-14T20:51:42Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+68663bef54d6e39e7691e9a97085286291d7523d,chore(curriculum): update asserts in workshop magazine steps 64-69 (#…,2025-07-14T19:01:55Z,6,20,jaypatelr97,freeCodeCamp,freeCodeCamp
+4bed405425a267ce3c60435a99d9239818be4c0b,"chore(i18n,client): processed translations (#61334)",2025-07-14T14:53:21Z,10,132,camperbot,freeCodeCamp,freeCodeCamp
+939ef028c00076979c4f9a3e52d01b1c8b5071af,feat(curriculum): add string inverter lab (#61337),2025-07-14T14:51:07Z,6,110,zairahira,freeCodeCamp,freeCodeCamp
+9a1f4ca4aeb5fe5d9fb44941deb04fefcc806d4e,chore(curriculum): replace asserts of magazine workshop steps 49-57 (…,2025-07-14T09:25:59Z,7,24,garyeung,freeCodeCamp,freeCodeCamp
+f0035603b4b6d176a3fb09f4ae0529395473611c,fix(curriculum): Update hint text in Step 1 of Profile Card Component…,2025-07-14T02:01:03Z,1,2,dev-kamil,freeCodeCamp,freeCodeCamp
 e1bcb668b400c4151c5239fd7c36990e1b86545d,feat(curriculum): add set 2 of questions for CSS Positioning quiz (#6…,2025-07-13T20:21:09Z,1,593,Giftea,freeCodeCamp,freeCodeCamp
 5e1990ee1cc0cd1251af0492db663f11b1fdb628,fix(curriculum): faster euler 32 ref solution (#61274),2025-07-12T19:35:21Z,1,66,jeremylt,freeCodeCamp,freeCodeCamp
 af26a7c18a4f409d3b6922d468871cd90ed7e1c9,fix(curriculum): allow whitespaces in tests by trimming textContent f…,2025-07-12T16:13:16Z,3,6,dev-kamil,freeCodeCamp,freeCodeCamp
@@ -694,13 +700,3 @@ d5d917f0bb522c0cf03dd6707e1066cf8f7469a0,fix(curriculum): ensure acronym Aria  i
 6d213cfb7a05f30c8bc97a87e9a45a520674752d,fix(curriculum): add mid dot to formula (#59720),2025-04-15T09:34:53Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 88ab14e18b67733d971167d2fc5de7c32552f1bb,fix(curriculum): add confidential and top secret user stories and tes…,2025-04-15T07:41:49Z,1,14,Supravisor,freeCodeCamp,freeCodeCamp
 6a2b95df8d1065c2de8da16d9eec5a4de654a55e,fix(curriculum): allow image placement in any order (#59585),2025-04-15T05:51:34Z,1,7,Supravisor,freeCodeCamp,freeCodeCamp
-0c0817c08914bd645163e14883692a4339729130,fix(curriculum): TOP block name (#59708),2025-04-14T21:36:59Z,1,2,huyenltnguyen,freeCodeCamp,freeCodeCamp
-37593122ddfeabd9cf9f1ac37190f02ca3a1d664,fix(cirriculum): missing word in fill in the blank answer (#59711),2025-04-14T18:53:51Z,1,4,ZE206,freeCodeCamp,freeCodeCamp
-107df1e4a4b7a2b7c07e8e6e0e1a20a0a9352047,fix(GHA): fix formatting and expansion,2025-04-14T17:29:13Z,1,53,raisedadead,freeCodeCamp,freeCodeCamp
-54cc4b0042a6aa4a4174152fd099a115bb679b44,"chore(i18n,learn): update i18n-curriculum submodule (#59713)",2025-04-14T15:20:13Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-5cda7c7ae0bb81f844c5f2e00bde002bf74257a9,"chore(i18n,client): processed translations (#59709)",2025-04-14T15:20:01Z,10,1002,camperbot,freeCodeCamp,freeCodeCamp
-a875294adf7af4d518717923d289cf54b1ca5bc8,"fix(gha): use machine IP, and better logs",2025-04-14T13:48:13Z,1,34,raisedadead,freeCodeCamp,freeCodeCamp
-6c8f785dd2ab5d031d58669124459209e842fdda,fix(gha): use specifc hostname for Tailscale,2025-04-14T13:47:12Z,1,1,raisedadead,freeCodeCamp,freeCodeCamp
-4a69928b91ea9d036a9db491c252dd1e8bef6bd2,refactor: split ShowCertification into subcomponents (#59663),2025-04-14T10:41:43Z,1,296,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-392fa65e07f547d21dd15469d46256ab02381ab2,fix(curriculum): update favorite icon toggler requirements (#59679),2025-04-14T08:22:39Z,1,6,clarencepenz,freeCodeCamp,freeCodeCamp
-4d11cd8ddb003d1aa0b2bac884ac573a892edc21,fix(curriculum): typos in css review (#59700),2025-04-14T04:28:10Z,1,4,Supravisor,freeCodeCamp,freeCodeCamp
