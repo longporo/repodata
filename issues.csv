@@ -1,17 +1,23 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87AWIj9,61326,Tic-Tac-Toe Challenge Tests 7–11 Failing Even with Official Solution,OPEN,2025-07-14T00:46:36Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ys-Lk,59753,Add set 2 of questions for CSS Positioning quiz,CLOSED,2025-04-16T02:12:11Z,2025-07-13T20:21:11Z,Giftea,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86_F_Gz,61224,"Confusing instruction in accessibility quiz step — says ""nest"" sections but expects siblings",OPEN,2025-07-06T03:42:24Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ATjH8,61321,Inconsistent capitalization in `CheckPoint` object/variable declaration in platforming javascript challenge,CLOSED,2025-07-13T10:09:14Z,2025-07-13T19:33:02Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ASFT-,61320,"Minor spelling mistake on ""Learn Git by Building an SQL Reference Object""",OPEN,2025-07-13T00:27:36Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X869KzgP,61051,React Fundamentals missing lab work or workshop on keys and list rendering,OPEN,2025-06-25T01:06:47Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86_F_Gz,61224,"Confusing instruction in accessibility quiz step — says ""nest"" sections but expects siblings",CLOSED,2025-07-06T03:42:24Z,2025-07-14T20:51:43Z,Supravisor,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87AefiP,61339,step 9 of workshop-recipe-ingredient-converter missing an instruction to create a variable,OPEN,2025-07-14T15:49:47Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87AbBRp,61330,chore: update asserts in workshop magazine steps 64-69,CLOSED,2025-07-14T10:49:20Z,2025-07-14T19:01:56Z,jaypatelr97,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86__otP,61297,pyramid generator lab doesn't accept a solution with irrelevant spaces,OPEN,2025-07-11T01:02:15Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86tpEUd,59246,"Add Keyboard Shortcut (Ctrl + Enter) for ""Check Your Answer"" Button",OPEN,2025-03-12T08:57:48Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87AWIj9,61326,Tic-Tac-Toe Challenge Tests 7–11 Failing Even with Official Solution,CLOSED,2025-07-14T00:46:36Z,2025-07-14T11:32:24Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866vLLj,60806,chore: update tests to specific asserts tracking issue,OPEN,2025-06-10T09:59:05Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87AbEX0,61331,chore: update asserts in workshop magazin steps 70-75,OPEN,2025-07-14T10:53:30Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-yPYO,61203,Full Stack HTML Accessibility curriculum: tabindex clarification,OPEN,2025-07-03T22:54:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87AQg1B,61318,"chore: replace asserts in steps 49,52-57 of magazine workshop",CLOSED,2025-07-12T16:27:11Z,2025-07-14T09:26:00Z,garyeung,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ASFT-,61320,"Minor spelling mistake on ""Learn Git by Building an SQL Reference Object""",CLOSED,2025-07-13T00:27:36Z,2025-07-14T03:34:55Z,tanmaygautam11,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X869TIrB,61061,Misleading hint on step 1 of the [Profile Card Component] workshop,CLOSED,2025-06-25T14:35:57Z,2025-07-14T02:01:04Z,dev-kamil,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86ys-Lk,59753,Add set 2 of questions for CSS Positioning quiz,CLOSED,2025-04-16T02:12:11Z,2025-07-13T20:21:11Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ATjH8,61321,Inconsistent capitalization in `CheckPoint` object/variable declaration in platforming javascript challenge,CLOSED,2025-07-13T10:09:14Z,2025-07-13T19:33:02Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X869KzgP,61051,React Fundamentals missing lab work or workshop on keys and list rendering,OPEN,2025-06-25T01:06:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87AQhn2,61319,"chore: update asserts in workshop magazine steps 58-59,61-63",OPEN,2025-07-12T16:31:10Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87AQg1B,61318,"chore: replace asserts in steps 49,52-57 of magazine workshop",OPEN,2025-07-12T16:27:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87AJy5l,61308,Build a Balance Sheet - Step 17 - tests are too strict,CLOSED,2025-07-11T18:11:59Z,2025-07-12T16:13:18Z,dev-kamil,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868pd8S,60961,"The quiz for ""/quiz-javascript-higher-order-functions"" ramps up in difficulty extremely steeply",CLOSED,2025-06-21T10:37:13Z,2025-07-12T10:36:51Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_kCHo,61261,CSS Accessibility Review page content not covered in the lecture videos,CLOSED,2025-07-08T22:15:21Z,2025-07-10T20:31:10Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86__otP,61297,pyramid generator lab doesn't accept a solution with irrelevant spaces,OPEN,2025-07-11T01:02:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_H9Zf,61229,Incorrect use of 'spreadsheet' instead of 'stylesheet' in a lecture,CLOSED,2025-07-06T13:23:18Z,2025-07-11T19:41:01Z,PulkitPB,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87AJG44,61306,Cos assignment ,CLOSED,2025-07-11T16:59:28Z,2025-07-11T17:43:21Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869exZE,61089,Project Idea Board: Misleading hint when unpinning non-existent item in board,CLOSED,2025-06-26T12:26:36Z,2025-07-11T12:18:02Z,,freeCodeCamp,freeCodeCamp
@@ -65,7 +71,6 @@ I_kwDOAbI7X86_Lf3g,61235,Expanding FSD selections,OPEN,2025-07-07T03:57:41Z,,,fr
 I_kwDOAbI7X86_IYPB,61230,Library Manager - Step 14,OPEN,2025-07-06T14:57:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-g9Cj,61193,Microsoft Learn account URL changed format. Can't link my account,CLOSED,2025-07-02T15:26:43Z,2025-07-03T18:24:33Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-cGd2,61180,chore: update steps 26 to 30 in magazine workshop to use specific asserts,CLOSED,2025-07-02T08:20:48Z,2025-07-07T14:52:54Z,Mohammed-Omair,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86-yPYO,61203,Full Stack HTML Accessibility curriculum: tabindex clarification,OPEN,2025-07-03T22:54:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-9-k5,61214,The CSS abbreviation is written in lowercase – Flexbox Quiz,CLOSED,2025-07-05T00:05:46Z,2025-07-07T07:45:07Z,ctheface,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_MDwM,61236,Jjhjj,CLOSED,2025-07-07T05:36:13Z,2025-07-07T05:56:49Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_I1rm,61231,UI design fundamentals Quiz not Working,CLOSED,2025-07-06T16:43:25Z,2025-07-06T22:40:14Z,,freeCodeCamp,freeCodeCamp
@@ -109,7 +114,6 @@ I_kwDOAbI7X869orQo,61099,Sign in to confrim you're not a bot on lecture videos,C
 I_kwDOAbI7X868kw2e,60953,Build a Superhero Application Form step 21 too strict,OPEN,2025-06-20T15:48:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869TCm_,61060,Grammar Correction in CSS Layouts and Effects Review Page,CLOSED,2025-06-25T14:28:12Z,2025-06-27T03:46:21Z,tanmaygautam11,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862iwe6,60341,Typo in lesson video,CLOSED,2025-05-14T10:06:14Z,2025-06-26T17:18:43Z,estefaniacn,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X869TIrB,61061,Misleading hint on step 1 of the [Profile Card Component] workshop,OPEN,2025-06-25T14:35:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8591_b8,53486,Provide code example for first mention of `toLowerCase` method in step 79 calorie counter,CLOSED,2024-02-01T01:37:54Z,2024-02-01T12:39:11Z,netanelben,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869eM0J,61088,React lecture video on how-do-you-update-objects-in-state has incomplete transcript,CLOSED,2025-06-26T11:33:29Z,2025-06-26T15:05:01Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863pk0P,60473,Add images for the RPG creatures project,CLOSED,2025-05-21T18:47:38Z,2025-06-26T15:08:57Z,,freeCodeCamp,freeCodeCamp
@@ -593,8 +597,3 @@ I_kwDOAbI7X86yZLEP,59710,Projectile Trajectory Calculator - Step 4: Flawed algor
 I_kwDOAbI7X86xDSm9,59581,Confidential email lab passes with no email,CLOSED,2025-04-03T18:57:57Z,2025-04-15T07:41:51Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86yPZs6,59684,Learn Basic CSS by Building a Cafe Menu - Step 14  can't be completed on the app,CLOSED,2025-04-12T09:59:16Z,2025-04-15T06:12:30Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86xDORy,59580,Event Hub - allow any image placement,CLOSED,2025-04-03T18:48:43Z,2025-04-15T05:51:36Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86JxO72,54927,"Option to have HTML and CSS tabs open for each step in ""learn-basic-css-by-building-a-cafe-menu""",CLOSED,2024-05-22T20:06:14Z,2025-04-08T13:05:20Z,Arif-Khalid;Sembauke,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86yWfwl,59705,Learn How to Express Decisions Based on Comparisons - Task 124 - missing word,CLOSED,2025-04-14T08:07:26Z,2025-04-14T18:53:52Z,ZE206,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ySGwO,59695,"""Night Mode"" displayed inside the menu, should be displayed in header beside language for a good user experience",CLOSED,2025-04-13T06:55:56Z,2025-04-14T17:42:03Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86nhY3i,58380,[Working with Forms Lecture] Incorrect information in Client-Side Form Validation video,CLOSED,2025-01-24T23:14:04Z,2025-04-14T17:21:16Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86yHKuf,59678,Unclear requirement in favorite icon toggler lab,CLOSED,2025-04-11T10:14:42Z,2025-04-14T08:22:41Z,clarencepenz,freeCodeCamp,freeCodeCamp
