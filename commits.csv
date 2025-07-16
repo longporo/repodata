@@ -1,4 +1,12 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+f4ed5692e3e95deeeed746954260290e21c78c1d,fix: landing tests (#61360),2025-07-15T22:09:45Z,1,90,moT01,freeCodeCamp,freeCodeCamp
+e6ed034a77ba9564665070bfe71f991fd3eefee5,fix: GB request hanging (#61359),2025-07-15T21:20:55Z,1,30,moT01,freeCodeCamp,freeCodeCamp
+6e723cff1da2cd8b06e0f59aa3cba9b3d4a422be,chore(curriculum): update test assertions in workshop-magazine to use…,2025-07-15T20:29:57Z,5,26,AtharvaBhogle,freeCodeCamp,freeCodeCamp
+e1cf35dd910f1fe9c710ace562fe936deaf2b77d,chore(deps): update curriculum helpers to 5.4.0 (#61350),2025-07-15T17:38:59Z,2,122,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+d4b5c01e99742c4bb0d48756e6257e2201e0c8e5,fix(client): remove link from staging-warning (#61348),2025-07-15T15:06:55Z,3,18,raisedadead,freeCodeCamp,freeCodeCamp
+979e3ac4e636e85a02db7425b5cf45d7e5df7021,test: relax challenge id uniqueness constraints (#61351),2025-07-15T14:30:40Z,2,1600,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+0d2268981ceee8accb81bf220dff4124598ccab1,fix(scripts): ignore upcoming blocks when building external curricula…,2025-07-15T05:48:49Z,1,18,huyenltnguyen,freeCodeCamp,freeCodeCamp
+42a2ca714cd1a14ab9bd9f5083fd11ae6a2ffc07,chore: clean up unused browser-script deps + config (#61329),2025-07-15T05:42:06Z,3,176,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 8c484e9619b087e3e0e03a8e477981445344753d,fix(curriculum): instructions wording in Accessibility Quiz step 14 (…,2025-07-14T20:51:42Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 68663bef54d6e39e7691e9a97085286291d7523d,chore(curriculum): update asserts in workshop magazine steps 64-69 (#…,2025-07-14T19:01:55Z,6,20,jaypatelr97,freeCodeCamp,freeCodeCamp
 4bed405425a267ce3c60435a99d9239818be4c0b,"chore(i18n,client): processed translations (#61334)",2025-07-14T14:53:21Z,10,132,camperbot,freeCodeCamp,freeCodeCamp
@@ -690,13 +698,3 @@ ce7845365c3dec4926f19104bfea997409446295,chore(client): adjust backend placehold
 155deb608ac0457a836482236c6c40c1b90ac213,feat(curriculum): add new question to lecture with css fonts (#59738),2025-04-16T08:55:33Z,1,17,clarencepenz,freeCodeCamp,freeCodeCamp
 d6e4086e63b192f73f9463c33174c30a69654b5f,refactor: use canSaveToDB function more (#59730),2025-04-16T08:35:55Z,2,16,moT01,freeCodeCamp,freeCodeCamp
 7f5a4c9ea027aa5156a9ee0b4bdbe2ba9d7cafeb,fix(curriculum): place comment below example in greeting bot workshop…,2025-04-16T05:44:37Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-6ab6b384d25025a6d9c2bbbe92e1dec27a678f25,feat(curriculum): add react forms transcripts (#59621),2025-04-15T19:09:42Z,2,357,moT01,freeCodeCamp,freeCodeCamp
-287fc6f0302c9291d043c313a68491b69b2c97be,fix(curriculum): grammatical issue in several challenges (#59723),2025-04-15T17:22:50Z,8,16,Drowsystudent,freeCodeCamp,freeCodeCamp
-0c05bc8002dbed22a70eccfb583dbb578e5eb323,fix(curriculum): update HTML Review chapter with missing sections (#5…,2025-04-15T16:57:22Z,1,34,JarydSt,freeCodeCamp,freeCodeCamp
-f8c5a86285da7a4e7f7ef9e3fdc03ad7986b6bda,feat: add react debugging video ids and transcripts (#59632),2025-04-15T16:04:12Z,4,548,scissorsneedfoodtoo,freeCodeCamp,freeCodeCamp
-f0ba8441d5c703d58309d3c9e876b25961c38a9b,fix(Curriculum): Fix missing words of tasks in block 13 B1 English cu…,2025-04-15T16:01:44Z,4,20,nieldakarla,freeCodeCamp,freeCodeCamp
-c1fd83fdebcb4c6e76908e300b6a99376f1c96f9,fix(curriculum): use base64 image in mock fetch data (#59729),2025-04-15T15:47:34Z,51,112,moT01,freeCodeCamp,freeCodeCamp
-d5d917f0bb522c0cf03dd6707e1066cf8f7469a0,fix(curriculum): ensure acronym Aria  is in all caps (#59728),2025-04-15T13:22:10Z,2,36,clarencepenz,freeCodeCamp,freeCodeCamp
-6d213cfb7a05f30c8bc97a87e9a45a520674752d,fix(curriculum): add mid dot to formula (#59720),2025-04-15T09:34:53Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-88ab14e18b67733d971167d2fc5de7c32552f1bb,fix(curriculum): add confidential and top secret user stories and tes…,2025-04-15T07:41:49Z,1,14,Supravisor,freeCodeCamp,freeCodeCamp
-6a2b95df8d1065c2de8da16d9eec5a4de654a55e,fix(curriculum): allow image placement in any order (#59585),2025-04-15T05:51:34Z,1,7,Supravisor,freeCodeCamp,freeCodeCamp
