@@ -1,4 +1,13 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+59ed5910ea1fb024fdb15ce654d0f3cef922a48f,feat(curriculum): add tailwind CTA component workshop to main (#61013),2025-07-16T22:20:14Z,22,1269,Ksound22,freeCodeCamp,freeCodeCamp
+de1134e3e22a6b0f96902615daa8b3bfedc9c605,feat(curriculum): add Tower of Hanoi lab (#61364),2025-07-16T22:07:56Z,5,1203,Dario-DC,freeCodeCamp,freeCodeCamp
+792757d98d79e4f3c0d061478b0afc30e70550cc,feat(curriculum): adding tablist workshop (#61063),2025-07-16T19:04:57Z,25,2426,jdwilkin4,freeCodeCamp,freeCodeCamp
+28bd4ac22f651964fbda9c87ccfee202211431f7,fix(client): duplicate challengeFile declaration in editor (#61371),2025-07-16T18:05:46Z,1,3,moT01,freeCodeCamp,freeCodeCamp
+92b6ca53430493af338d61adf067d1e9f5131236,feat(api): add exam env attempts endpoints and fields (#59634),2025-07-16T16:35:12Z,18,1649,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+8eee5ca8bfd79f47f1283c5756ff677c537fe3da,feat(client): Editor file visual indication (#59186),2025-07-16T16:24:46Z,3,26,Arif-Khalid,freeCodeCamp,freeCodeCamp
+e832ce63f2920b3a592bf5a3a060449f3b9f48d2,"chore(i18n,client): processed translations (#61367)",2025-07-16T15:28:15Z,20,80,camperbot,freeCodeCamp,freeCodeCamp
+4011709f380f68c4dc621a440363e7ed82d4ff7a,feat: add loops and sequences lectures (#61294),2025-07-16T15:27:50Z,9,1225,ilenia-magoni,freeCodeCamp,freeCodeCamp
+7e4150ff92d582f637ed0a4e6b2597ece97c79c3,chore(curriculum): remove transcript header from first python lecture…,2025-07-16T15:24:04Z,13,52,Dario-DC,freeCodeCamp,freeCodeCamp
 f4ed5692e3e95deeeed746954260290e21c78c1d,fix: landing tests (#61360),2025-07-15T22:09:45Z,1,90,moT01,freeCodeCamp,freeCodeCamp
 e6ed034a77ba9564665070bfe71f991fd3eefee5,fix: GB request hanging (#61359),2025-07-15T21:20:55Z,1,30,moT01,freeCodeCamp,freeCodeCamp
 6e723cff1da2cd8b06e0f59aa3cba9b3d4a422be,chore(curriculum): update test assertions in workshop-magazine to use…,2025-07-15T20:29:57Z,5,26,AtharvaBhogle,freeCodeCamp,freeCodeCamp
@@ -684,17 +693,3 @@ a12d9b3d59eba43d67acf3f5f01dabcd9f9e4303,chore(client): remove redundant link un
 6a318b5508a3e32cb5d504c9def402a5fba74968,fix(curriculum): improve code examples in greeting bot workshop (#59763),2025-04-17T06:29:13Z,2,6,Supravisor,freeCodeCamp,freeCodeCamp
 ed63d93e94631667c2df8e097fed19a41fb50106,fix(curriculum): change pseudo class to first-of-type (#59736),2025-04-17T04:57:29Z,1,13,clarencepenz,freeCodeCamp,freeCodeCamp
 a227fb73f636ad2c904b51c7f94bc2d6fb8101ca,feat(curriculum): Add English tasks B1 Block 16 (#59645),2025-04-17T02:17:18Z,153,15770,miyaliu666,freeCodeCamp,freeCodeCamp
-c6e6b1e66253b6028d2835f45473669fce90cba4,fix(curriculum):  Navbar component workshop steps (#59676),2025-04-16T16:42:32Z,2,25,clarencepenz,freeCodeCamp,freeCodeCamp
-f4a2d8d03bbaf76f05c023c012ce5ef433bafe05,fix(curriculum) : Improve Question 19 Clarity by Standardizing Answer…,2025-04-16T16:27:57Z,1,6,agilan11,freeCodeCamp,freeCodeCamp
-ccdd205a153a0d8e352040bb0224d62f6f2912d6,refactor(curriculum): mock fetch in Build a Weather App (#59549),2025-04-16T16:17:08Z,1,115,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-26ab080ada7890e75b63d9195d9e54cef7fb2b52,fix(curriculum): allows tests to accept event delegation solution (#5…,2025-04-16T16:09:53Z,1,6,MrSkinny,freeCodeCamp,freeCodeCamp
-0aefe7a551612427deb7b8df86f05b09ee596c6c,"fix(curriculum): Stylized To-Do List - update tests, minor fixes (#59…",2025-04-16T15:59:37Z,1,82,lasjorg,freeCodeCamp,freeCodeCamp
-8f478458a4a3338b666d0b53c3fb891b6e84fac8,fix(curriculum): update testing quiz questions (#59769),2025-04-16T15:46:46Z,1,78,sidemt,freeCodeCamp,freeCodeCamp
-33f0842fc17946f35b75dbe0de0a5ec3f26d34f6,feat(challenge types): add python lab challenge type (#59732),2025-04-16T15:42:59Z,8,43,moT01,freeCodeCamp,freeCodeCamp
-72f8b3db9aafe5ee89e77428fd1208be8b2c66cd,feat(curriculum): add testing review page (#59714),2025-04-16T15:28:33Z,2,204,sidemt,freeCodeCamp,freeCodeCamp
-ce7845365c3dec4926f19104bfea997409446295,chore(client): adjust backend placeholder with localhost (#59765),2025-04-16T15:27:12Z,1,4,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-2541f93fb9673581a9c041c6de9084aa3e16a71e,feat(curriculum): add lab-currency-converter (#59518),2025-04-16T14:53:14Z,5,529,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-1dfb290cab59de0e796079677b02d2d231367973,fix(curriculum): typo in shortest path algorithm step 12 (#59766),2025-04-16T14:43:05Z,1,2,akremdh1,freeCodeCamp,freeCodeCamp
-155deb608ac0457a836482236c6c40c1b90ac213,feat(curriculum): add new question to lecture with css fonts (#59738),2025-04-16T08:55:33Z,1,17,clarencepenz,freeCodeCamp,freeCodeCamp
-d6e4086e63b192f73f9463c33174c30a69654b5f,refactor: use canSaveToDB function more (#59730),2025-04-16T08:35:55Z,2,16,moT01,freeCodeCamp,freeCodeCamp
-7f5a4c9ea027aa5156a9ee0b4bdbe2ba9d7cafeb,fix(curriculum): place comment below example in greeting bot workshop…,2025-04-16T05:44:37Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
