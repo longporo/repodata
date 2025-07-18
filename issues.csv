@@ -1,13 +1,24 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87A-nNN,61372,Two valid answers in the CSS Grid Quiz with one minor lab edit,OPEN,2025-07-16T23:37:36Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87BNfs4,61395,Missing video lecture on HTML lesson page,OPEN,2025-07-18T01:40:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87BL7wc,61394,Make the tests more flexible in the moon orbit lab,OPEN,2025-07-17T22:37:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87BDM6V,61380,chore: update step 78 workshop magazine to use specific asserts,CLOSED,2025-07-17T09:29:23Z,2025-07-18T00:09:50Z,linkwithjoydeep,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-yPYO,61203,Full Stack HTML Accessibility curriculum: tabindex clarification,CLOSED,2025-07-03T22:54:46Z,2025-07-17T21:34:04Z,tanmaygautam11,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87BCcYE,61375,Make labs descriptions uniform,OPEN,2025-07-17T08:27:15Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-okqZ,61195,Need explanation for forward slash in void elements,CLOSED,2025-07-03T07:11:25Z,2025-07-17T21:08:44Z,alexgoldsmith,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87BK6ad,61393,Recipe Ingredient Converter workshop step 17 is not easy to debug,OPEN,2025-07-17T20:46:48Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87A-nNN,61372,Two valid answers in the CSS Grid Quiz with one minor lab edit,CLOSED,2025-07-16T23:37:36Z,2025-07-17T20:29:00Z,garyeung,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87BJ7Gy,61392,Remove redundant backticks around MCQ option,OPEN,2025-07-17T19:03:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87BDK6V,61379,"chore: update asserts in workshop magazine steps 76-77,79",CLOSED,2025-07-17T09:27:14Z,2025-07-17T18:56:50Z,dragon-slayer27,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869yeQY,61111,JavaScript Asynchronous Programming lecture question not discussed in video/transcript,OPEN,2025-06-27T21:23:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87BJKzR,61390,HTML multi-case tag name support?,OPEN,2025-07-17T17:44:59Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87BGKrK,61385,Suggestion: Improve instructions in Basic HTML challenge,CLOSED,2025-07-17T13:33:41Z,2025-07-17T16:26:37Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866vLLj,60806,chore: update tests to specific asserts tracking issue,OPEN,2025-06-10T09:59:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867heXg,60874,backend test runner does not set origin on fetch,OPEN,2025-06-14T12:41:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868kw2e,60953,Build a Superhero Application Form step 21 too strict,OPEN,2025-06-20T15:48:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86IR6nC,54713,Multifile editor - visual indication which editor is for which file,CLOSED,2024-05-08T20:32:52Z,2025-07-16T16:24:48Z,Arif-Khalid,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_mcuV,61263,Missing value attributes in radio buttons for registration form workshop,OPEN,2025-07-09T05:18:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-dA1L,61181,hint not precise enough in greeting bot workshop,OPEN,2025-07-02T09:41:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87A2E4R,61365,List of missing Lecture Transcript and Questions,CLOSED,2025-07-16T10:37:57Z,2025-07-16T10:51:47Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86-okqZ,61195,Need explanation for forward slash in void elements,OPEN,2025-07-03T07:11:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86__otP,61297,pyramid generator lab doesn't accept a solution with irrelevant spaces,OPEN,2025-07-11T01:02:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864sFrV,60576,first challenge of backend and api microservices does not give enough infos,OPEN,2025-05-28T21:09:54Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_IYPB,61230,Library Manager - Step 14,OPEN,2025-07-06T14:57:00Z,,,freeCodeCamp,freeCodeCamp
@@ -16,7 +27,6 @@ I_kwDOAbI7X87AQhn2,61319,"chore: update asserts in workshop magazine steps 58-59
 I_kwDOAbI7X8647maK,60609,Add intros to Chapters,CLOSED,2025-05-30T09:25:17Z,2025-07-15T17:52:19Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86qWb9a,58835,JS - Telephone Number Validator [ReferenceError: resultsDiv is not defined],CLOSED,2025-02-17T14:23:55Z,2025-02-17T14:36:03Z,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Aqw47,61355,(JS) Building a Spreadsheet challenge step 7 test is too strict,CLOSED,2025-07-15T14:10:05Z,2025-07-15T15:41:40Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86-yPYO,61203,Full Stack HTML Accessibility curriculum: tabindex clarification,OPEN,2025-07-03T22:54:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_n_wr,61264,Progress Not Updating – Lessons Completed Not Reflected on Account or Timeline Log,CLOSED,2025-07-09T08:00:13Z,2025-07-15T14:47:07Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87AbEX0,61331,chore: update asserts in workshop magazin steps 70-75,OPEN,2025-07-14T10:53:30Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ATjH8,61321,Inconsistent capitalization in `CheckPoint` object/variable declaration in platforming javascript challenge,CLOSED,2025-07-13T10:09:14Z,2025-07-13T19:33:02Z,,freeCodeCamp,freeCodeCamp
@@ -28,7 +38,6 @@ I_kwDOAbI7X86_F_Gz,61224,"Confusing instruction in accessibility quiz step — s
 I_kwDOAbI7X87AbBRp,61330,chore: update asserts in workshop magazine steps 64-69,CLOSED,2025-07-14T10:49:20Z,2025-07-14T19:01:56Z,jaypatelr97,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86tpEUd,59246,"Add Keyboard Shortcut (Ctrl + Enter) for ""Check Your Answer"" Button",OPEN,2025-03-12T08:57:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87AWIj9,61326,Tic-Tac-Toe Challenge Tests 7–11 Failing Even with Official Solution,CLOSED,2025-07-14T00:46:36Z,2025-07-14T11:32:24Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866vLLj,60806,chore: update tests to specific asserts tracking issue,OPEN,2025-06-10T09:59:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87AQg1B,61318,"chore: replace asserts in steps 49,52-57 of magazine workshop",CLOSED,2025-07-12T16:27:11Z,2025-07-14T09:26:00Z,garyeung,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ASFT-,61320,"Minor spelling mistake on ""Learn Git by Building an SQL Reference Object""",CLOSED,2025-07-13T00:27:36Z,2025-07-14T03:34:55Z,tanmaygautam11,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869TIrB,61061,Misleading hint on step 1 of the [Profile Card Component] workshop,CLOSED,2025-06-25T14:35:57Z,2025-07-14T02:01:04Z,dev-kamil,freeCodeCamp,freeCodeCamp
@@ -579,10 +588,3 @@ I_kwDOAbI7X86nKulw,58299,[i18n] Navigating away from quiz page results in wrong 
 I_kwDOAbI7X86zD8nL,59802,Correct component name in `cap.tsx`,CLOSED,2025-04-18T06:42:03Z,2025-04-18T09:16:11Z,agilan11,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86zERqE,59803,Use double quotation marks in Permutation Generator,CLOSED,2025-04-18T07:19:57Z,2025-04-18T09:11:44Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86y2qaM,59779,Mention `and` operator in Review Fundamentals?,CLOSED,2025-04-16T20:30:17Z,2025-04-18T08:56:02Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86w3WPE,59558,Music Player Step 71: passes incorrectly nested code,CLOSED,2025-04-02T19:06:19Z,2025-04-17T17:14:14Z,dennmar,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86yoQjB,59733,Incorrect wording in useOptimistic Hook lecture video,CLOSED,2025-04-15T15:52:12Z,2025-04-17T14:43:43Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86y2YyD,59777,Basic CSS review missing info about block level elements,CLOSED,2025-04-16T19:52:54Z,2025-04-17T14:33:40Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86y792D,59787,"Remove ""You will not be able to change any answers."" from Finish Quiz modal",CLOSED,2025-04-17T10:17:36Z,2025-04-17T14:31:50Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86y0QHl,59770,Remove redundant line in review pages,CLOSED,2025-04-16T15:41:15Z,2025-04-17T14:28:29Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ywhum,59764,Remove link underline style from global.css,CLOSED,2025-04-16T09:38:38Z,2025-04-17T07:27:46Z,merxgrc,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86yTA74,59699,Job application lab Parser fails step 16 despite the requirement being fulfilled,CLOSED,2025-04-13T15:46:22Z,2025-04-17T04:57:30Z,clarencepenz,freeCodeCamp,freeCodeCamp
