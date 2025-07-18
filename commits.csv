@@ -1,4 +1,15 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+f4e31b2eb03929e80c0d8b040ceed35a9dc9ec78,chore(curriculum): update step 78 workshop magazine to use specific a…,2025-07-18T00:09:49Z,1,18,linkwithjoydeep,freeCodeCamp,freeCodeCamp
+1cc0be72a4ade3bc6da26ce5f644b05a7eb3e0df,fix(curriculum): Update description for tabindex clarification (#61384),2025-07-17T21:34:03Z,1,47,tanmaygautam11,freeCodeCamp,freeCodeCamp
+c8db3fef4519abf8562678896c6f985ff4a63f64,fix(curriculum): clarify void tag content (#61357),2025-07-17T21:08:43Z,1,27,alexgoldsmith,freeCodeCamp,freeCodeCamp
+f386ad9207c51838b797ad25973bef9988b6fa9f,chore(curriculum): remove jquery from managing packages with npm (#60…,2025-07-17T21:07:25Z,10,218,a2937,freeCodeCamp,freeCodeCamp
+bc0571139f56f04f8b02aa0b30c52f80d5667a42,feat(curriculum): add a profile lookup lab (#61341),2025-07-17T20:36:47Z,5,216,a2937,freeCodeCamp,freeCodeCamp
+858b2bcd55267e9e1bef4be6bf8964ab4ad14648,fix(curriculum): fix a typo and replace a distractor for CSS grid qui…,2025-07-17T20:28:58Z,2,4,garyeung,freeCodeCamp,freeCodeCamp
+ec3ff935564f8d2150ea8530830bfff92118437b,"chore(curriculum): update assets in workshop magazine step 76, 77, an…",2025-07-17T18:56:49Z,3,16,dragon-slayer27,freeCodeCamp,freeCodeCamp
+a3c1cc15d33d74aa01f95f72d82bd3d83d6da78b,fix: change the review instructions for english curriculum (#61366),2025-07-17T18:10:35Z,129,258,anastasiiauk,freeCodeCamp,freeCodeCamp
+cb9dac43f89ec3ee5e88f5a2ab4d52b16f71dc2c,fix(curriculum): handle whitespace for step 12 of workshop-cat-photo-…,2025-07-17T17:30:40Z,1,2,alexgoldsmith,freeCodeCamp,freeCodeCamp
+29cd2d227d182b2df51d01d60ddefcc2fbd2e55e,feat(api): daily challenge api (#61346),2025-07-17T09:34:46Z,13,700,moT01,freeCodeCamp,freeCodeCamp
+3bcd6bbaf1aac76e044860bfd2b092abcf6ac633,"chore(i18n,learn): update i18n-curriculum submodule (#61373)",2025-07-17T07:45:24Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 59ed5910ea1fb024fdb15ce654d0f3cef922a48f,feat(curriculum): add tailwind CTA component workshop to main (#61013),2025-07-16T22:20:14Z,22,1269,Ksound22,freeCodeCamp,freeCodeCamp
 de1134e3e22a6b0f96902615daa8b3bfedc9c605,feat(curriculum): add Tower of Hanoi lab (#61364),2025-07-16T22:07:56Z,5,1203,Dario-DC,freeCodeCamp,freeCodeCamp
 792757d98d79e4f3c0d061478b0afc30e70550cc,feat(curriculum): adding tablist workshop (#61063),2025-07-16T19:04:57Z,25,2426,jdwilkin4,freeCodeCamp,freeCodeCamp
@@ -681,15 +692,3 @@ a3fff8e66f5efc8d8ef7be85607000df4ece0a06,fix(curriculum): typo in past experienc
 3b1b7da7b0c973f1d5ab6853a2a22a1094ad4533,fix(client): Modification of component name (#59804),2025-04-18T09:16:09Z,1,6,agilan11,freeCodeCamp,freeCodeCamp
 07fd00dd4837292ff95889b72493762fd7a892f0,fix(curriculum): remove single quotes from permutation generator lab …,2025-04-18T09:11:43Z,1,142,clarencepenz,freeCodeCamp,freeCodeCamp
 ca866b2c80143b0aa32a4d4710e89e411092f22f,fix(curriculum): added additional tip for building a gradebook app (#…,2025-04-18T08:56:01Z,1,3,clarencepenz,freeCodeCamp,freeCodeCamp
-efb8d482fcfc8ffd47dd8509b36fffcba5bd3af4,fix(curriculum): fix test for step 71 of the music player lesson (#59…,2025-04-17T17:14:13Z,1,2,dennmar,freeCodeCamp,freeCodeCamp
-2c436949f650ca3f97a46af7ee1fef20b3243364,fix(client): use translation strings for alt text (#59727),2025-04-17T14:46:22Z,2,12,huyenltnguyen,freeCodeCamp,freeCodeCamp
-e115cd875985d68498bd0cbb0f3c681e6abd10dd,fix(curriculum): update block element in basic css review (#59784),2025-04-17T14:33:39Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-aa451dbac90563272a03a1edcb5aa298d57b7417,fix(client): update finish quiz modal (#59788),2025-04-17T14:31:48Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-cccbd797417e217c19c1c0b1365e3fd74e1865c6,fix(curriculum): remove redundant line in review pages (#59772),2025-04-17T14:28:28Z,65,192,clarencepenz,freeCodeCamp,freeCodeCamp
-9c4ed1e2a4c16d1bfca412170bdfb1b05fbb8aea,fix(a11y): hide decorative images from screen readers (#59786),2025-04-17T14:15:05Z,4,4,huyenltnguyen,freeCodeCamp,freeCodeCamp
-897277a037e5d615c88c36f7843c2d18811bc7c2,refactor(GHA): update workflow to be consistent with legacy,2025-04-17T08:29:10Z,1,186,raisedadead,freeCodeCamp,freeCodeCamp
-560a3f661d8975fc012fead1fe0fe2036286977a,fix(GHA): adjust order of checks in legacy,2025-04-17T08:29:09Z,1,12,raisedadead,freeCodeCamp,freeCodeCamp
-a12d9b3d59eba43d67acf3f5f01dabcd9f9e4303,chore(client): remove redundant link underline styles (#59783),2025-04-17T07:27:44Z,1,8,merxgrc,freeCodeCamp,freeCodeCamp
-6a318b5508a3e32cb5d504c9def402a5fba74968,fix(curriculum): improve code examples in greeting bot workshop (#59763),2025-04-17T06:29:13Z,2,6,Supravisor,freeCodeCamp,freeCodeCamp
-ed63d93e94631667c2df8e097fed19a41fb50106,fix(curriculum): change pseudo class to first-of-type (#59736),2025-04-17T04:57:29Z,1,13,clarencepenz,freeCodeCamp,freeCodeCamp
-a227fb73f636ad2c904b51c7f94bc2d6fb8101ca,feat(curriculum): Add English tasks B1 Block 16 (#59645),2025-04-17T02:17:18Z,153,15770,miyaliu666,freeCodeCamp,freeCodeCamp
