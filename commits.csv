@@ -1,4 +1,8 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+a8cfb66b15811c75a950f254e66a1c613c30392a,feat: add record collection challenge to full stack (#61377),2025-07-18T21:43:13Z,5,216,ilenia-magoni,freeCodeCamp,freeCodeCamp
+db95a321f6653cadc02ef080eb2afbd36798e4d4,feat( curriculum): add string repeating lab (#61383),2025-07-18T21:40:30Z,5,132,zairahira,freeCodeCamp,freeCodeCamp
+9b58b7f425fc9039911ef4cb01173ea2ab1bb971,feat(curriculum): add largest numbers lab (#61376),2025-07-18T21:33:26Z,5,140,zairahira,freeCodeCamp,freeCodeCamp
+e94fffb05a58bf7a5ed35ca47ab7e7ce50f87119,chore(curriculum): remove backticks around MCQ option (#61396),2025-07-18T18:29:24Z,1,2,Honey-pg,freeCodeCamp,freeCodeCamp
 f4e31b2eb03929e80c0d8b040ceed35a9dc9ec78,chore(curriculum): update step 78 workshop magazine to use specific a…,2025-07-18T00:09:49Z,1,18,linkwithjoydeep,freeCodeCamp,freeCodeCamp
 1cc0be72a4ade3bc6da26ce5f644b05a7eb3e0df,fix(curriculum): Update description for tabindex clarification (#61384),2025-07-17T21:34:03Z,1,47,tanmaygautam11,freeCodeCamp,freeCodeCamp
 c8db3fef4519abf8562678896c6f985ff4a63f64,fix(curriculum): clarify void tag content (#61357),2025-07-17T21:08:43Z,1,27,alexgoldsmith,freeCodeCamp,freeCodeCamp
@@ -686,9 +690,3 @@ aa8adedc86cebc27e1f0b54c5bc21b41fc00f246,fix(curriculum): css layout and effects
 e2996eb3e6951e9284a2b58ff1abc10ec1a012f7,fix(gha): cleanup logs and validation,2025-04-20T08:19:47Z,1,18,raisedadead,freeCodeCamp,freeCodeCamp
 de706811261aec4f381b7f1dd7dcb9abdb1b44f3,fix(curriculum): Improved specificity of ARIA answer (#59799),2025-04-19T11:43:16Z,2,4,kaipepler,freeCodeCamp,freeCodeCamp
 3d99e284250125821f171ddb55204ce4be327e7b,feat(curriculum): color picker lab (#59018),2025-04-19T07:58:16Z,5,375,naomi-lgbt,freeCodeCamp,freeCodeCamp
-62ef8f603338eaa82ef3c2db2ee86c9302d2ecc1,feat(curriculum): add lab-tic-tac-toe (#59439),2025-04-18T19:08:07Z,5,584,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-4b3f04f12fd2bb63cec27ceffa487bde9915fd51,feat(curriculum): add labs-react-forms (#59320),2025-04-18T17:26:30Z,5,2225,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-a3fff8e66f5efc8d8ef7be85607000df4ece0a06,fix(curriculum): typo in past experiences English challenge (#59807),2025-04-18T17:03:15Z,1,2,Anthonymiranda,freeCodeCamp,freeCodeCamp
-3b1b7da7b0c973f1d5ab6853a2a22a1094ad4533,fix(client): Modification of component name (#59804),2025-04-18T09:16:09Z,1,6,agilan11,freeCodeCamp,freeCodeCamp
-07fd00dd4837292ff95889b72493762fd7a892f0,fix(curriculum): remove single quotes from permutation generator lab …,2025-04-18T09:11:43Z,1,142,clarencepenz,freeCodeCamp,freeCodeCamp
-ca866b2c80143b0aa32a4d4710e89e411092f22f,fix(curriculum): added additional tip for building a gradebook app (#…,2025-04-18T08:56:01Z,1,3,clarencepenz,freeCodeCamp,freeCodeCamp
