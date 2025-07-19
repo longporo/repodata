@@ -1,17 +1,17 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87BNfs4,61395,Missing video lecture on HTML lesson page,OPEN,2025-07-18T01:40:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BL7wc,61394,Make the tests more flexible in the moon orbit lab,OPEN,2025-07-17T22:37:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87BJ7Gy,61392,Remove redundant backticks around MCQ option,CLOSED,2025-07-17T19:03:49Z,2025-07-18T18:29:26Z,Prerak yadav,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87BGKrK,61385,Suggestion: Improve instructions in Basic HTML challenge,CLOSED,2025-07-17T13:33:41Z,2025-07-17T16:26:37Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87BK6ad,61393,Recipe Ingredient Converter workshop step 17 is not easy to debug,OPEN,2025-07-17T20:46:48Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87BNfs4,61395,Missing video lecture on HTML lesson page,CLOSED,2025-07-18T01:40:23Z,2025-07-18T05:55:09Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BDM6V,61380,chore: update step 78 workshop magazine to use specific asserts,CLOSED,2025-07-17T09:29:23Z,2025-07-18T00:09:50Z,linkwithjoydeep,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-yPYO,61203,Full Stack HTML Accessibility curriculum: tabindex clarification,CLOSED,2025-07-03T22:54:46Z,2025-07-17T21:34:04Z,tanmaygautam11,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BCcYE,61375,Make labs descriptions uniform,OPEN,2025-07-17T08:27:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-okqZ,61195,Need explanation for forward slash in void elements,CLOSED,2025-07-03T07:11:25Z,2025-07-17T21:08:44Z,alexgoldsmith,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87BK6ad,61393,Recipe Ingredient Converter workshop step 17 is not easy to debug,OPEN,2025-07-17T20:46:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87A-nNN,61372,Two valid answers in the CSS Grid Quiz with one minor lab edit,CLOSED,2025-07-16T23:37:36Z,2025-07-17T20:29:00Z,garyeung,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87BJ7Gy,61392,Remove redundant backticks around MCQ option,OPEN,2025-07-17T19:03:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BDK6V,61379,"chore: update asserts in workshop magazine steps 76-77,79",CLOSED,2025-07-17T09:27:14Z,2025-07-17T18:56:50Z,dragon-slayer27,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869yeQY,61111,JavaScript Asynchronous Programming lecture question not discussed in video/transcript,OPEN,2025-06-27T21:23:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BJKzR,61390,HTML multi-case tag name support?,OPEN,2025-07-17T17:44:59Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87BGKrK,61385,Suggestion: Improve instructions in Basic HTML challenge,CLOSED,2025-07-17T13:33:41Z,2025-07-17T16:26:37Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866vLLj,60806,chore: update tests to specific asserts tracking issue,OPEN,2025-06-10T09:59:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867heXg,60874,backend test runner does not set origin on fetch,OPEN,2025-06-14T12:41:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868kw2e,60953,Build a Superhero Application Form step 21 too strict,OPEN,2025-06-20T15:48:55Z,,,freeCodeCamp,freeCodeCamp
@@ -583,8 +583,3 @@ I_kwDOAbI7X86y_4Ud,59793,CSS Layout and Effects Quiz - reset file options are am
 I_kwDOAbI7X86xZhc3,59613,Update create new challenge script,OPEN,2025-04-07T09:39:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86yeLd7,59722,Blank screen,CLOSED,2025-04-14T21:20:10Z,2025-04-19T17:31:45Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86zGhbK,59808,Adjust answer in HTML Accessibility Quiz and review page,CLOSED,2025-04-18T12:21:38Z,2025-04-19T11:43:17Z,kaipepler,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zGCCX,59806,Typo in English challenge,CLOSED,2025-04-18T10:52:55Z,2025-04-18T17:03:16Z,Anthonymiranda,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86nKulw,58299,[i18n] Navigating away from quiz page results in wrong URL and blank page,OPEN,2025-01-22T14:55:07Z,,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zD8nL,59802,Correct component name in `cap.tsx`,CLOSED,2025-04-18T06:42:03Z,2025-04-18T09:16:11Z,agilan11,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zERqE,59803,Use double quotation marks in Permutation Generator,CLOSED,2025-04-18T07:19:57Z,2025-04-18T09:11:44Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86y2qaM,59779,Mention `and` operator in Review Fundamentals?,CLOSED,2025-04-16T20:30:17Z,2025-04-18T08:56:02Z,clarencepenz,freeCodeCamp,freeCodeCamp
