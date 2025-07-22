@@ -1,8 +1,12 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87BhXER,61418,"Ok
-",OPEN,2025-07-20T22:34:40Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Bc2VW,61411,lab-permutation-generator could use more clarification,OPEN,2025-07-19T19:02:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Bd9ur,61414,lab-football-team-cards should warn of css use to hide/show cards,OPEN,2025-07-20T02:14:36Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87BtN5S,61428,Typo:  useState variable defined on line 42 of progress-inner.tsx is misspelled,OPEN,2025-07-21T19:54:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Bmbtw,61420,Platform-specific shortcut missing in multiple-choice question,OPEN,2025-07-21T10:33:02Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X869yeQY,61111,JavaScript Asynchronous Programming lecture question not discussed in video/transcript,CLOSED,2025-06-27T21:23:23Z,2025-07-21T17:32:28Z,Cyanidebob0;huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87BhXER,61418,"Ok
+",CLOSED,2025-07-20T22:34:40Z,2025-07-21T03:42:00Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868qANl,60964,Build a Music Player - Step 21 - Fails to pass in Safari,CLOSED,2025-06-21T14:22:14Z,2025-07-21T11:21:34Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Bc2VW,61411,lab-permutation-generator could use more clarification,OPEN,2025-07-19T19:02:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Bc0Wj,61410,workshop-calculator step 4 too restrictive: requires explicit return in answer,OPEN,2025-07-19T18:52:24Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Bcbap,61409,Keyword ‘assert’ is deprecated and keyword ‘with’ is the current standard.,OPEN,2025-07-19T17:01:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BL7wc,61394,Make the tests more flexible in the moon orbit lab,OPEN,2025-07-17T22:37:08Z,,,freeCodeCamp,freeCodeCamp
@@ -17,7 +21,6 @@ I_kwDOAbI7X87BCcYE,61375,Make labs descriptions uniform,OPEN,2025-07-17T08:27:15
 I_kwDOAbI7X86-okqZ,61195,Need explanation for forward slash in void elements,CLOSED,2025-07-03T07:11:25Z,2025-07-17T21:08:44Z,alexgoldsmith,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87A-nNN,61372,Two valid answers in the CSS Grid Quiz with one minor lab edit,CLOSED,2025-07-16T23:37:36Z,2025-07-17T20:29:00Z,garyeung,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BDK6V,61379,"chore: update asserts in workshop magazine steps 76-77,79",CLOSED,2025-07-17T09:27:14Z,2025-07-17T18:56:50Z,dragon-slayer27,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X869yeQY,61111,JavaScript Asynchronous Programming lecture question not discussed in video/transcript,OPEN,2025-06-27T21:23:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BJKzR,61390,HTML multi-case tag name support?,OPEN,2025-07-17T17:44:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866vLLj,60806,chore: update tests to specific asserts tracking issue,OPEN,2025-06-10T09:59:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867heXg,60874,backend test runner does not set origin on fetch,OPEN,2025-06-14T12:41:21Z,,,freeCodeCamp,freeCodeCamp
@@ -56,7 +59,6 @@ I_kwDOAbI7X87AJG44,61306,Cos assignment ,CLOSED,2025-07-11T16:59:28Z,2025-07-11T
 I_kwDOAbI7X869exZE,61089,Project Idea Board: Misleading hint when unpinning non-existent item in board,CLOSED,2025-06-26T12:26:36Z,2025-07-11T12:18:02Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869EwnT,61041,Tests passed code for the RPG Creature Search project with an incorrect endpoint,CLOSED,2025-06-24T14:02:41Z,2025-07-11T12:16:14Z,dev-kamil,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_uQh-,61271,"chore: update asserts in steps 38-41,43-44 in magazine workshop",CLOSED,2025-07-09T16:58:43Z,2025-07-10T21:01:16Z,stinkypingu,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868qANl,60964,Build a Music Player - Step 21 - Fails to pass in Safari,OPEN,2025-06-21T14:22:14Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868MAuW,60923,workshop toggle text app step 4 naming,CLOSED,2025-06-18T15:11:32Z,2025-07-10T20:47:04Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_vSpq,61275,Update learning habits transcript,CLOSED,2025-07-09T18:54:14Z,2025-07-10T18:24:47Z,kannan-ravi,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_uTN1,61272,chore: update steps 45-48 of magazine workshop to use specific asserts,CLOSED,2025-07-09T17:03:16Z,2025-07-10T17:45:13Z,anmolsah,freeCodeCamp,freeCodeCamp
@@ -569,15 +571,3 @@ I_kwDOAbI7X86UO0yN,55941,Ambient camping sounds in freecodecamp website,OPEN,202
 I_kwDOAbI7X86zYbWh,59870,Usage of position: absolute in hiding sr-only classed elements (Screen readers),CLOSED,2025-04-22T00:01:46Z,2025-04-22T07:32:02Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86zTMDI,59839,Design a Piano Step 8 Instructions Unclear,CLOSED,2025-04-21T10:52:10Z,2025-04-22T06:29:23Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86zY3yU,59872,Cool Project,CLOSED,2025-04-22T01:58:43Z,2025-04-22T04:40:38Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zUEjA,59847,specific asserts not used in blog page workshop,CLOSED,2025-04-21T13:08:17Z,2025-04-22T00:33:05Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zVBDD,59855,specific methods not used for music instrument workshop,CLOSED,2025-04-21T15:07:18Z,2025-04-22T00:30:52Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zUAiP,59844,update assert for real time counter lab,CLOSED,2025-04-21T12:59:26Z,2025-04-21T20:27:42Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zUBtk,59845,test not using specific asserts in recipe page lab,CLOSED,2025-04-21T13:02:25Z,2025-04-21T20:24:39Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zUGU1,59848,specific asserts not used in storytelling app workshop,CLOSED,2025-04-21T13:12:21Z,2025-04-21T20:20:34Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zU-Ep,59853,specific asserts not used in calorie counter workshop,CLOSED,2025-04-21T15:01:54Z,2025-04-21T20:05:46Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zUHkU,59849,specific asserts not used in todo app workshop,CLOSED,2025-04-21T13:15:10Z,2025-04-21T18:51:53Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zUCew,59846,specific assert not used in survey form lab,CLOSED,2025-04-21T13:04:18Z,2025-04-21T18:34:58Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86yrsbk,59742,Quotation within a quotation,CLOSED,2025-04-15T22:38:09Z,2025-04-21T15:30:54Z,Anthonymiranda,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zTJaT,59838,A new design request,CLOSED,2025-04-21T10:45:29Z,2025-04-21T15:01:10Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zRzZ2,59831,Replace quotes with backticks in Cat Photo App step 9,CLOSED,2025-04-21T07:26:37Z,2025-04-21T14:43:22Z,neelesh-124,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zULt5,59850,"""Start where you left off"" button on /learn",CLOSED,2025-04-21T13:24:46Z,2025-04-21T14:19:47Z,,freeCodeCamp,freeCodeCamp
