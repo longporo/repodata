@@ -1,17 +1,26 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87Bd9ur,61414,lab-football-team-cards should warn of css use to hide/show cards,OPEN,2025-07-20T02:14:36Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87BtN5S,61428,Typo:  useState variable defined on line 42 of progress-inner.tsx is misspelled,OPEN,2025-07-21T19:54:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87B6g5a,61438,build-a-sorting-visualizer lab asks for bubble sort but does too many steps in sample app,OPEN,2025-07-22T16:31:37Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Bcbap,61409,Keyword ‘assert’ is deprecated and keyword ‘with’ is the current standard.,OPEN,2025-07-19T17:01:53Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87B-ejS,61441,Claiming to show examples but not actually including them - CSS Review Page,OPEN,2025-07-22T23:52:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Bmbtw,61420,Platform-specific shortcut missing in multiple-choice question,OPEN,2025-07-21T10:33:02Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Bc0Wj,61410,workshop-calculator step 4 too restrictive: requires explicit return in answer,CLOSED,2025-07-19T18:52:24Z,2025-07-23T01:30:58Z,alexgoldsmith,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87B-3AN,61444,Problem in the Project,CLOSED,2025-07-23T01:02:40Z,2025-07-23T01:12:40Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-trTH,61200,avatars don't load in Forum Leaderboard lab,OPEN,2025-07-03T14:42:55Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86_IYPB,61230,Library Manager - Step 14,OPEN,2025-07-06T14:57:00Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87BK6ad,61393,Recipe Ingredient Converter workshop step 17 is not easy to debug,OPEN,2025-07-17T20:46:48Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Bd9ur,61414,lab-football-team-cards should warn of css use to hide/show cards,OPEN,2025-07-20T02:14:36Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86tpEUd,59246,"Add Keyboard Shortcut (Ctrl + Enter) for ""Check Your Answer"" Button",OPEN,2025-03-12T08:57:48Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-WH0H,61176,Add support for Bluesky profile links in freeCodeCamp user profiles,OPEN,2025-07-01T18:40:56Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87BtN5S,61428,Typo:  useState variable defined on line 42 of progress-inner.tsx is misspelled,CLOSED,2025-07-21T19:54:46Z,2025-07-22T11:59:45Z,Nardix,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87B2Cki,61435,"Add support for GitLab, Gitea, and Codeberg profile links in freeCodeCamp user profiles",OPEN,2025-07-22T10:47:40Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86Sm5Ov,55821,platformer game (js beta) step 84 and step 88 (and step 89) check is too strict,OPEN,2024-08-11T16:40:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869yeQY,61111,JavaScript Asynchronous Programming lecture question not discussed in video/transcript,CLOSED,2025-06-27T21:23:23Z,2025-07-21T17:32:28Z,Cyanidebob0;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BhXER,61418,"Ok
 ",CLOSED,2025-07-20T22:34:40Z,2025-07-21T03:42:00Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868qANl,60964,Build a Music Player - Step 21 - Fails to pass in Safari,CLOSED,2025-06-21T14:22:14Z,2025-07-21T11:21:34Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Bc2VW,61411,lab-permutation-generator could use more clarification,OPEN,2025-07-19T19:02:25Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Bc0Wj,61410,workshop-calculator step 4 too restrictive: requires explicit return in answer,OPEN,2025-07-19T18:52:24Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Bcbap,61409,Keyword ‘assert’ is deprecated and keyword ‘with’ is the current standard.,OPEN,2025-07-19T17:01:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BL7wc,61394,Make the tests more flexible in the moon orbit lab,OPEN,2025-07-17T22:37:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868kw2e,60953,Build a Superhero Application Form step 21 too strict,OPEN,2025-06-20T15:48:55Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87BK6ad,61393,Recipe Ingredient Converter workshop step 17 is not easy to debug,OPEN,2025-07-17T20:46:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BJ7Gy,61392,Remove redundant backticks around MCQ option,CLOSED,2025-07-17T19:03:49Z,2025-07-18T18:29:26Z,Prerak yadav,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BGKrK,61385,Suggestion: Improve instructions in Basic HTML challenge,CLOSED,2025-07-17T13:33:41Z,2025-07-17T16:26:37Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BNfs4,61395,Missing video lecture on HTML lesson page,CLOSED,2025-07-18T01:40:23Z,2025-07-18T05:55:09Z,,freeCodeCamp,freeCodeCamp
@@ -30,7 +39,6 @@ I_kwDOAbI7X86-dA1L,61181,hint not precise enough in greeting bot workshop,OPEN,2
 I_kwDOAbI7X87A2E4R,61365,List of missing Lecture Transcript and Questions,CLOSED,2025-07-16T10:37:57Z,2025-07-16T10:51:47Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86__otP,61297,pyramid generator lab doesn't accept a solution with irrelevant spaces,OPEN,2025-07-11T01:02:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864sFrV,60576,first challenge of backend and api microservices does not give enough infos,OPEN,2025-05-28T21:09:54Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86_IYPB,61230,Library Manager - Step 14,OPEN,2025-07-06T14:57:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869KzgP,61051,React Fundamentals missing lab work or workshop on keys and list rendering,OPEN,2025-06-25T01:06:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87AQhn2,61319,"chore: update asserts in workshop magazine steps 58-59,61-63",CLOSED,2025-07-12T16:31:10Z,2025-07-15T20:29:58Z,AtharvaBhogle,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8647maK,60609,Add intros to Chapters,CLOSED,2025-05-30T09:25:17Z,2025-07-15T17:52:19Z,,freeCodeCamp,freeCodeCamp
@@ -45,7 +53,6 @@ MDU6SXNzdWU3MjIyMjU2OTE=,39980,Donation tests,CLOSED,2020-10-15T10:56:06Z,2025-0
 MDU6SXNzdWU4MDcyMjc2MzM=,41074,Music stops after listening for an extended period of time,CLOSED,2020-06-25T11:19:36Z,2025-07-15T06:00:17Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_F_Gz,61224,"Confusing instruction in accessibility quiz step — says ""nest"" sections but expects siblings",CLOSED,2025-07-06T03:42:24Z,2025-07-14T20:51:43Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87AbBRp,61330,chore: update asserts in workshop magazine steps 64-69,CLOSED,2025-07-14T10:49:20Z,2025-07-14T19:01:56Z,jaypatelr97,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86tpEUd,59246,"Add Keyboard Shortcut (Ctrl + Enter) for ""Check Your Answer"" Button",OPEN,2025-03-12T08:57:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87AWIj9,61326,Tic-Tac-Toe Challenge Tests 7–11 Failing Even with Official Solution,CLOSED,2025-07-14T00:46:36Z,2025-07-14T11:32:24Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87AQg1B,61318,"chore: replace asserts in steps 49,52-57 of magazine workshop",CLOSED,2025-07-12T16:27:11Z,2025-07-14T09:26:00Z,garyeung,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ASFT-,61320,"Minor spelling mistake on ""Learn Git by Building an SQL Reference Object""",CLOSED,2025-07-13T00:27:36Z,2025-07-14T03:34:55Z,tanmaygautam11,freeCodeCamp,freeCodeCamp
@@ -86,7 +93,6 @@ I_kwDOAbI7X869Iel-,61047,"React lecture group ""Working With Data In React"" mis
 I_kwDOAbI7X869JiiD,61049,video about how-do-inline-styles-work-in-react has one tiny word wrong,CLOSED,2025-06-24T21:45:18Z,2025-07-09T17:15:08Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869fZY2,61090,mounting and unmounting not introduced in React lecture,OPEN,2025-06-26T13:22:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-GFak,61164,Full Stack curriculum data types lecture,OPEN,2025-06-30T17:13:38Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86-trTH,61200,avatars don't load in Forum Leaderboard lab,OPEN,2025-07-03T14:42:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_tG_v,61268,Request for Guidance: Looking for First-Time Contributor Tasks !!,CLOSED,2025-07-09T15:09:00Z,2025-07-09T15:22:53Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_tFyy,61267,Request for Guidance: Looking for First-Time Contributor Tasks,CLOSED,2025-07-09T15:07:16Z,2025-07-09T15:08:01Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-T-t6,61175,Updating options in challenge helper script for creating new projects,OPEN,2025-07-01T15:20:12Z,,,freeCodeCamp,freeCodeCamp
@@ -108,7 +114,6 @@ I_kwDOAbI7X86-7ul4,61207,Typo in caption text,CLOSED,2025-07-04T17:12:55Z,2025-0
 I_kwDOAbI7X862uUGG,60368,issues with tests for Design a Business Card lab,OPEN,2025-05-15T09:34:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866HfdB,60732,Tic-tac-toe lab - testing draw is too lenient,CLOSED,2025-06-05T20:14:23Z,2025-07-04T13:16:02Z,Ajay-2005;ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86k9SwL,57897,The `h1` element of review pages are smaller than the `h2` elements there,CLOSED,2025-01-03T12:53:44Z,2025-07-04T03:37:23Z,sskiragu,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86-WH0H,61176,Add support for Bluesky profile links in freeCodeCamp user profiles,OPEN,2025-07-01T18:40:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869g6Qx,61091,console.log always prints last state of mutable object instead of the one at point of execution,CLOSED,2025-06-26T15:32:41Z,2025-07-03T14:11:55Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-gpp_,61191,Donation prompt animation should probably be modified,CLOSED,2025-07-02T15:00:52Z,2025-07-03T11:29:44Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-ggqf,61190,assert errors from dom-test-evaluator are confusing,CLOSED,2025-07-02T14:50:23Z,2025-07-03T07:19:39Z,,freeCodeCamp,freeCodeCamp
@@ -561,13 +566,3 @@ I_kwDOAbI7X86y28-t,59780,"<div className=""benefits-container""> remains in Engl
 I_kwDOAbI7X86zqweK,59928,the test,CLOSED,2025-04-23T15:00:12Z,2025-04-23T15:03:30Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86q0cmK,58911,Confusing error on Login page,CLOSED,2025-02-20T11:23:21Z,2025-04-23T11:21:47Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86zbid6,59878,specific assert methods not used in reusable mega navbar workshop,CLOSED,2025-04-22T08:28:07Z,2025-04-23T06:38:44Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zgmLA,59892,typo in javascript trivia bot lab,CLOSED,2025-04-22T17:16:33Z,2025-04-23T01:10:38Z,Priyesh1311421,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zbhF-,59876,specific assert methods not used in flexbox photo gallery workshop,CLOSED,2025-04-22T08:25:52Z,2025-04-22T19:24:23Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zgm2x,59893,"Wrong answer A2 English for Developers ""Learn How to Share Your Progress in Weekly Stand-up Meetings - Task 48"" ",CLOSED,2025-04-22T17:17:50Z,2025-04-22T18:32:26Z,a2937,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zbhmw,59877,specific assert methods not used in registration form workshop,CLOSED,2025-04-22T08:26:44Z,2025-04-22T17:42:18Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X858SWDY,53223,Fix typo in hint text for step 75 of spreadsheet project  ,CLOSED,2024-01-17T00:33:10Z,2024-01-17T17:12:33Z,KavitaR45,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zcvex,59883,Hoisting Transcript Errors,CLOSED,2025-04-22T10:29:28Z,2025-04-22T16:01:44Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86UO0yN,55941,Ambient camping sounds in freecodecamp website,OPEN,2024-08-26T13:43:51Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zYbWh,59870,Usage of position: absolute in hiding sr-only classed elements (Screen readers),CLOSED,2025-04-22T00:01:46Z,2025-04-22T07:32:02Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zTMDI,59839,Design a Piano Step 8 Instructions Unclear,CLOSED,2025-04-21T10:52:10Z,2025-04-22T06:29:23Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zY3yU,59872,Cool Project,CLOSED,2025-04-22T01:58:43Z,2025-04-22T04:40:38Z,,freeCodeCamp,freeCodeCamp
