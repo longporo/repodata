@@ -1,18 +1,18 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87B6g5a,61438,build-a-sorting-visualizer lab asks for bubble sort but does too many steps in sample app,OPEN,2025-07-22T16:31:37Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Bcbap,61409,Keyword ‘assert’ is deprecated and keyword ‘with’ is the current standard.,OPEN,2025-07-19T17:01:53Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87B2Cki,61435,"Add support for GitLab, Gitea, and Codeberg profile links in freeCodeCamp user profiles",CLOSED,2025-07-22T10:47:40Z,2025-07-23T18:25:02Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-trTH,61200,avatars don't load in Forum Leaderboard lab,OPEN,2025-07-03T14:42:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87B-ejS,61441,Claiming to show examples but not actually including them - CSS Review Page,OPEN,2025-07-22T23:52:09Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87B-3AN,61444,Problem in the Project,CLOSED,2025-07-23T01:02:40Z,2025-07-23T01:12:40Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Bcbap,61409,Keyword ‘assert’ is deprecated and keyword ‘with’ is the current standard.,CLOSED,2025-07-19T17:01:53Z,2025-07-23T13:36:45Z,dragon-slayer27,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87B6g5a,61438,build-a-sorting-visualizer lab asks for bubble sort but does too many steps in sample app,OPEN,2025-07-22T16:31:37Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Bd9ur,61414,lab-football-team-cards should warn of css use to hide/show cards,CLOSED,2025-07-20T02:14:36Z,2025-07-23T03:47:13Z,dragon-slayer27,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Bmbtw,61420,Platform-specific shortcut missing in multiple-choice question,OPEN,2025-07-21T10:33:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Bc0Wj,61410,workshop-calculator step 4 too restrictive: requires explicit return in answer,CLOSED,2025-07-19T18:52:24Z,2025-07-23T01:30:58Z,alexgoldsmith,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87B-3AN,61444,Problem in the Project,CLOSED,2025-07-23T01:02:40Z,2025-07-23T01:12:40Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86-trTH,61200,avatars don't load in Forum Leaderboard lab,OPEN,2025-07-03T14:42:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_IYPB,61230,Library Manager - Step 14,OPEN,2025-07-06T14:57:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BK6ad,61393,Recipe Ingredient Converter workshop step 17 is not easy to debug,OPEN,2025-07-17T20:46:48Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Bd9ur,61414,lab-football-team-cards should warn of css use to hide/show cards,OPEN,2025-07-20T02:14:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86tpEUd,59246,"Add Keyboard Shortcut (Ctrl + Enter) for ""Check Your Answer"" Button",OPEN,2025-03-12T08:57:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-WH0H,61176,Add support for Bluesky profile links in freeCodeCamp user profiles,OPEN,2025-07-01T18:40:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BtN5S,61428,Typo:  useState variable defined on line 42 of progress-inner.tsx is misspelled,CLOSED,2025-07-21T19:54:46Z,2025-07-22T11:59:45Z,Nardix,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87B2Cki,61435,"Add support for GitLab, Gitea, and Codeberg profile links in freeCodeCamp user profiles",OPEN,2025-07-22T10:47:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86Sm5Ov,55821,platformer game (js beta) step 84 and step 88 (and step 89) check is too strict,OPEN,2024-08-11T16:40:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869yeQY,61111,JavaScript Asynchronous Programming lecture question not discussed in video/transcript,CLOSED,2025-06-27T21:23:23Z,2025-07-21T17:32:28Z,Cyanidebob0;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BhXER,61418,"Ok
@@ -551,18 +551,3 @@ I_kwDOAbI7X86z1goV,59947,Updated lecture videos for the Full Stack Certification
 I_kwDOAbI7X86znwoP,59913,Remove stub feedback from the correct answer,CLOSED,2025-04-23T10:31:49Z,2025-04-24T09:22:58Z,Abdallah-scout,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86zvfV9,59939,Missing indentation for css examples for transcript in CSS transform property lecture,CLOSED,2025-04-24T00:49:16Z,2025-04-24T09:00:20Z,omarraf,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86yT5Us,59701,Email Update Form Accepts Invalid or Non-Existent Email Domains,CLOSED,2025-04-13T23:46:17Z,2025-04-24T04:58:19Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86znzx0,59914,Incomplete feedback text in Learn How to Clarify Information in Different Interactions Task 64,CLOSED,2025-04-23T10:36:34Z,2025-04-24T01:45:44Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zhsKa,59899,update cafe menu tests to use specific asserts steps 1-13,CLOSED,2025-04-22T19:37:34Z,2025-04-24T01:37:12Z,JoJoJo-JoJoJo,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zVNdX,59859,specific methods not used in hotel feedback form workshop,CLOSED,2025-04-21T15:27:21Z,2025-04-24T01:04:41Z,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zh4WW,59902,business card lab limiting test,CLOSED,2025-04-22T20:04:07Z,2025-04-24T00:10:25Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zbgln,59875,specific methods not used in flappy penguin workshop,CLOSED,2025-04-22T08:25:03Z,2025-04-23T17:28:54Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86wLBqz,59476,requried  styling of radio buttons when they can't be styled,CLOSED,2025-03-28T10:21:25Z,2025-04-23T15:42:35Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86w3REl,59557,Cafe Menu - Step 14: Passing code when saved and submitted after page reload fails,CLOSED,2025-04-02T18:56:56Z,2025-04-23T15:27:32Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86xc5NL,59620,Build a Loan Qualification Checker multi-line editing intro?,CLOSED,2025-04-07T14:53:19Z,2025-04-23T15:25:22Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86WKJDo,56065,Typo in Stylized To-Do List intro,CLOSED,2024-09-11T09:55:19Z,2024-09-11T15:11:30Z,Navn-CS,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zbf2K,59874,specific methods not used in city skyline workshop,CLOSED,2025-04-22T08:23:48Z,2025-04-23T15:16:51Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86rkkwr,58980,Step 24 of the Python Equation Solver allows wrong code to pass,CLOSED,2025-02-25T13:59:49Z,2025-04-23T15:08:44Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86y28-t,59780,"<div className=""benefits-container""> remains in English despite language change",CLOSED,2025-04-16T21:09:05Z,2025-04-17T05:02:36Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zqweK,59928,the test,CLOSED,2025-04-23T15:00:12Z,2025-04-23T15:03:30Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86q0cmK,58911,Confusing error on Login page,CLOSED,2025-02-20T11:23:21Z,2025-04-23T11:21:47Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zbid6,59878,specific assert methods not used in reusable mega navbar workshop,CLOSED,2025-04-22T08:28:07Z,2025-04-23T06:38:44Z,clarencepenz,freeCodeCamp,freeCodeCamp
