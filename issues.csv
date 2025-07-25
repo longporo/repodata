@@ -1,4 +1,10 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X86Sm5Ov,55821,platformer game (js beta) step 84 and step 88 (and step 89) check is too strict,CLOSED,2024-08-11T16:40:16Z,2025-07-25T00:37:29Z,Supravisor,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87CWNup,61460,CSS Foundations Exercise E tests are too strict,OPEN,2025-07-24T17:07:58Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86ys5rt,59751,Add set 2 of questions for CSS Flexbox quiz,CLOSED,2025-04-16T02:01:28Z,2025-07-24T22:06:22Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87CVTMW,61457,generate password is failing for missing semicolon,CLOSED,2025-07-24T15:43:37Z,2025-07-24T20:37:03Z,alexgoldsmith,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87CP9uc,61453,Bug in Project Euler Problem 89 Solution: Non-Minimal Roman Numeral Output,OPEN,2025-07-24T08:15:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-EcAJ,61161,real time counter test wording about 50 character limitation is fuzzy,CLOSED,2025-06-30T15:04:06Z,2025-07-24T01:53:44Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87B2Cki,61435,"Add support for GitLab, Gitea, and Codeberg profile links in freeCodeCamp user profiles",CLOSED,2025-07-22T10:47:40Z,2025-07-23T18:25:02Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-trTH,61200,avatars don't load in Forum Leaderboard lab,OPEN,2025-07-03T14:42:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87B-ejS,61441,Claiming to show examples but not actually including them - CSS Review Page,OPEN,2025-07-22T23:52:09Z,,,freeCodeCamp,freeCodeCamp
@@ -13,7 +19,6 @@ I_kwDOAbI7X87BK6ad,61393,Recipe Ingredient Converter workshop step 17 is not eas
 I_kwDOAbI7X86tpEUd,59246,"Add Keyboard Shortcut (Ctrl + Enter) for ""Check Your Answer"" Button",OPEN,2025-03-12T08:57:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-WH0H,61176,Add support for Bluesky profile links in freeCodeCamp user profiles,OPEN,2025-07-01T18:40:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BtN5S,61428,Typo:  useState variable defined on line 42 of progress-inner.tsx is misspelled,CLOSED,2025-07-21T19:54:46Z,2025-07-22T11:59:45Z,Nardix,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86Sm5Ov,55821,platformer game (js beta) step 84 and step 88 (and step 89) check is too strict,OPEN,2024-08-11T16:40:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869yeQY,61111,JavaScript Asynchronous Programming lecture question not discussed in video/transcript,CLOSED,2025-06-27T21:23:23Z,2025-07-21T17:32:28Z,Cyanidebob0;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BhXER,61418,"Ok
 ",CLOSED,2025-07-20T22:34:40Z,2025-07-21T03:42:00Z,,freeCodeCamp,freeCodeCamp
@@ -71,7 +76,6 @@ I_kwDOAbI7X86_vSpq,61275,Update learning habits transcript,CLOSED,2025-07-09T18:
 I_kwDOAbI7X86_uTN1,61272,chore: update steps 45-48 of magazine workshop to use specific asserts,CLOSED,2025-07-09T17:03:16Z,2025-07-10T17:45:13Z,anmolsah,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869B9iq,61034,React Fundamentals question's answer about SPAs is not explained in prior content,CLOSED,2025-06-24T10:31:01Z,2025-07-10T14:04:21Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8684hDn,61017,English A2 - Learn Introductions in an Online Team Meeting - Task 99 - Requiring dot in answer,CLOSED,2025-06-23T17:35:09Z,2025-07-10T13:28:58Z,nieldakarla,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86-EcAJ,61161,real time counter test wording about 50 character limitation is fuzzy,OPEN,2025-06-30T15:04:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X860x9MF,60095,Popular trends in technology verb-ing,CLOSED,2025-05-01T02:03:44Z,2025-07-09T21:46:55Z,DanielRosa74,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8682wK7,61011,"Small issue in What Is Memoization, and How Does the useMemo Hook Work?",CLOSED,2025-06-23T14:44:56Z,2025-07-09T19:18:40Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8682uot,61009,"Small issue with lecture What Are the U, S, and Ruby Elements Used For, and How Do They Work?",CLOSED,2025-06-23T14:42:58Z,2025-07-09T19:18:11Z,,freeCodeCamp,freeCodeCamp
@@ -126,7 +130,6 @@ I_kwDOAbI7X86-XO2I,61177,Add solution code to the metadata of the first workshop
 I_kwDOAbI7X86-B2v5,61150,chore: update steps 22-23 of magazine workshop to use specific assert methods,CLOSED,2025-06-30T11:36:09Z,2025-07-01T12:07:51Z,aliyasyeddd,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-EJoj,61159,Bug in Step 6 of Merge Sort Algorithm Challenge,OPEN,2025-06-30T14:44:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-HTQd,61166,Browsing Topics API warning while using Firefox,OPEN,2025-06-30T19:13:55Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ys5rt,59751,Add set 2 of questions for CSS Flexbox quiz,OPEN,2025-04-16T02:01:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869qnhE,61104,Additional Assertion Requirements in Playing Cards Lab,CLOSED,2025-06-27T09:18:19Z,2025-06-30T15:47:01Z,StephenMuya,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X860-p3l,60129,Add checks to ensure that proper headings are present in english curriculum challenges,OPEN,2025-05-02T15:45:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869pknn,61100,chore: update steps 8-9 of workshop-magazine to use specific asserts,CLOSED,2025-06-27T07:53:27Z,2025-06-30T06:54:26Z,anish-eng,freeCodeCamp,freeCodeCamp
@@ -538,16 +541,3 @@ I_kwDOAbI7X86LfCa6,55111,Definitions should be improved for SciComPy,OPEN,2024-0
 I_kwDOAbI7X86z_a8g,59995,Use specific assert methods in Cafe Menu workshop steps,CLOSED,2025-04-25T11:12:11Z,2025-04-25T11:29:51Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86z4yxE,59964,HTML Review - Minor grammar error and duplicate explanation,CLOSED,2025-04-24T17:44:21Z,2025-04-25T07:33:10Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86yQxBJ,59694,Test 6 for Build Real Time Counter Lab does not account for HTML maxlength attr,CLOSED,2025-04-12T21:55:40Z,2025-04-25T06:48:26Z,omarraf,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z4DLv,59959,Typo in English challenge,CLOSED,2025-04-24T16:29:05Z,2025-04-24T22:17:39Z,OKmimech,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z5MgZ,59966,Remove `console.log` from challenge test,CLOSED,2025-04-24T18:25:20Z,2025-04-24T19:48:23Z,akremdh1,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ys10A,59748,Add set 2 of questions for CSS pseudo classes quiz,CLOSED,2025-04-16T01:52:59Z,2025-04-24T19:07:43Z,jdwilkin4;zxc-w,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z4ITx,59960,Minor typo in computer basics review,CLOSED,2025-04-24T16:36:55Z,2025-04-24T18:24:03Z,omarraf,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zXkX0,59868,cross-origin error - Design a Blog Post Card,CLOSED,2025-04-21T21:01:35Z,2025-04-24T14:37:10Z,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zoXNW,59916,"Remove ""Try again"" from feedback text",CLOSED,2025-04-23T11:35:20Z,2025-04-24T14:28:07Z,AilaLu,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ys2Xd,59749,Add set 2 of questions for CSS colors quiz,CLOSED,2025-04-16T01:55:13Z,2025-04-24T14:25:40Z,ErinYB;Eyb100,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zhfvM,59897,JavaScript Trivia Bot - allow separate declarations and assignments,CLOSED,2025-04-22T19:10:18Z,2025-04-24T14:17:23Z,Priyesh1311421,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z1hVV,59948,Updated lecture videos for the Full Stack Certification - What are some common performance measurement tools,CLOSED,2025-04-24T12:43:49Z,2025-04-24T12:55:43Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z1goV,59947,Updated lecture videos for the Full Stack Certification - What is the difference between real performance and perceived performance?,CLOSED,2025-04-24T12:42:46Z,2025-04-24T12:54:57Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86znwoP,59913,Remove stub feedback from the correct answer,CLOSED,2025-04-23T10:31:49Z,2025-04-24T09:22:58Z,Abdallah-scout,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zvfV9,59939,Missing indentation for css examples for transcript in CSS transform property lecture,CLOSED,2025-04-24T00:49:16Z,2025-04-24T09:00:20Z,omarraf,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86yT5Us,59701,Email Update Form Accepts Invalid or Non-Existent Email Domains,CLOSED,2025-04-13T23:46:17Z,2025-04-24T04:58:19Z,,freeCodeCamp,freeCodeCamp
