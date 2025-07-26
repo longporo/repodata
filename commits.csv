@@ -1,4 +1,12 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+5a52d9ace429173fea63db5b7799d2cacdb24cb1,fix(curriculum): Update instruction of build a pyramid generator (#61…,2025-07-25T22:35:53Z,1,2,tanmaygautam11,freeCodeCamp,freeCodeCamp
+e26fa7d3aa1e94939285c9559b39e75efe533ca6,"feat: break down ""Working with Numbers, Booleans, and the Math Object…",2025-07-25T22:26:28Z,27,268,ilenia-magoni,freeCodeCamp,freeCodeCamp
+79f7b6c0a14d7b506c3f224edc1f30df05eb7a7e,feat(curriculum): add confirm string ending challenge (#61382),2025-07-25T22:17:42Z,5,156,zairahira,freeCodeCamp,freeCodeCamp
+e301bceb8c71a0511d292fa5c66277f91ab52b72,chore(curriculum): update assert methods in workshop magazine steps 7…,2025-07-25T18:18:14Z,6,20,Shanpreet,freeCodeCamp,freeCodeCamp
+18ba06ad3f2950aab271249d98a5ef030bb232ed,fix: updates to EC (#61464),2025-07-25T15:49:32Z,11,40,anastasiiauk,freeCodeCamp,freeCodeCamp
+78449230882ccd544ecb3271b395b9c5ca87dda1,feat(curriculum): add bash scripting lectures (#61452),2025-07-25T15:44:54Z,5,189,moT01,freeCodeCamp,freeCodeCamp
+25c544d62085719d82d9704c3a93ddd1bbcec86e,feat: add boolean checker lab to full stack (#61433),2025-07-25T14:06:21Z,5,139,ilenia-magoni,freeCodeCamp,freeCodeCamp
+3ee3a928a9d68fedbe5776a9cd44d26ae859af12,feat(curriculum): adding JS A11y note taking app (#61449),2025-07-25T09:49:49Z,17,1728,jdwilkin4,freeCodeCamp,freeCodeCamp
 35bfcdebf76305ab471607e6f33a5ddf061cfcf4,fix(curriculum): clarify player width division in Platformer Game (#6…,2025-07-25T00:37:28Z,4,14,Supravisor,freeCodeCamp,freeCodeCamp
 5b41229da304a456889ff619c79ec9163cd2a1ce,chore: audit bash commands quiz (#60533),2025-07-25T00:12:57Z,1,33,naomi-lgbt,freeCodeCamp,freeCodeCamp
 ec0c58b3f385dab12704e246c01d57949bb5cd76,feat(curriculum): Add set 2 of questions for CSS Flexbox quiz (#61067),2025-07-24T22:06:21Z,1,555,Giftea,freeCodeCamp,freeCodeCamp
@@ -631,8 +639,3 @@ e638a59db753a13f9e421358f8a7e247cbfad8ee,fix(curriculum): replace assert with as
 c28c99aa2859fcf6ac5289c7e6c9cade13abc2c0,fix(curriculum): replace generic asserts with specific methods in cat…,2025-04-26T19:36:15Z,1,8,tarek-gritli,freeCodeCamp,freeCodeCamp
 82d88e3e3adfe2f4ef1202d009428867cbdb54cb,fix(curriculum): improve the assert methods  (#60003),2025-04-26T19:30:18Z,1,6,Lynsoo,freeCodeCamp,freeCodeCamp
 058749686dbcae3feabb2842b5cb3b0f826c6c50,fix(curriculum): replace assert === with assert.equal for consistency…,2025-04-26T18:15:59Z,1,8,amoghmadireddi,freeCodeCamp,freeCodeCamp
-a905083bf88887b14de64e0843e3d3e03912b7a8,chore(api): improve log statements (#59992),2025-04-25T10:34:03Z,4,26,raisedadead,freeCodeCamp,freeCodeCamp
-464181b3b88ea1a7e62de4b4f623e5438fb98035,fix(curriculum): added missing preposition and removed a duplicate ex…,2025-04-25T07:33:09Z,2,20,clarencepenz,freeCodeCamp,freeCodeCamp
-b7bdea5b2306f7194e78a206709172d1713b346c,fix(curriculum): typo in lecture working with css transforms overflow…,2025-04-25T07:03:01Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
-126b60bc676c7216fcc0c74c0e8d75e96429359e,fix(curriculum): typo in lecture working with code editors and ides (…,2025-04-25T06:53:22Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-f253fd6639ea44376e2811cfb38bc8c9e3cabbcf,fix(curriculum): Add a note to let users know to use JavaScript only …,2025-04-25T06:48:25Z,1,2,omarraf,freeCodeCamp,freeCodeCamp
