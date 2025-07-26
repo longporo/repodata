@@ -1,13 +1,22 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X86Sm5Ov,55821,platformer game (js beta) step 84 and step 88 (and step 89) check is too strict,CLOSED,2024-08-11T16:40:16Z,2025-07-25T00:37:29Z,Supravisor,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86__otP,61297,pyramid generator lab doesn't accept a solution with irrelevant spaces,CLOSED,2025-07-11T01:02:15Z,2025-07-25T22:35:54Z,tanmaygautam11,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87CkxHg,61472,[lab-blog-post-card]: Instruction to link CSS file in HTML head,OPEN,2025-07-25T21:21:28Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86_mcuV,61263,Missing value attributes in radio buttons for registration form workshop,OPEN,2025-07-09T05:18:56Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X862uUGG,60368,issues with tests for Design a Business Card lab,OPEN,2025-05-15T09:34:40Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866vLLj,60806,chore: update tests to specific asserts tracking issue,CLOSED,2025-06-10T09:59:05Z,2025-07-25T18:20:08Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87AbEX0,61331,chore: update asserts in workshop magazin steps 70-75,CLOSED,2025-07-14T10:53:30Z,2025-07-25T18:18:15Z,Shanpreet;huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87CgHXN,61468,Adding file structure overview to the README,CLOSED,2025-07-25T13:13:54Z,2025-07-25T16:44:27Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87CWNup,61460,CSS Foundations Exercise E tests are too strict,OPEN,2025-07-24T17:07:58Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-ESxM,61160,controlled inputs mentioned too early in React workshop-fruit-search-app,OPEN,2025-06-30T14:54:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87B-ejS,61441,Claiming to show examples but not actually including them - CSS Review Page,OPEN,2025-07-22T23:52:09Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86hhhdL,57378,Remove `partiallyCompletedChallenges` and `savedChallenges` from /get-public-profile,OPEN,2024-12-01T21:39:19Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86Sm5Ov,55821,platformer game (js beta) step 84 and step 88 (and step 89) check is too strict,CLOSED,2024-08-11T16:40:16Z,2025-07-25T00:37:29Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86ys5rt,59751,Add set 2 of questions for CSS Flexbox quiz,CLOSED,2025-04-16T02:01:28Z,2025-07-24T22:06:22Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87CVTMW,61457,generate password is failing for missing semicolon,CLOSED,2025-07-24T15:43:37Z,2025-07-24T20:37:03Z,alexgoldsmith,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87CP9uc,61453,Bug in Project Euler Problem 89 Solution: Non-Minimal Roman Numeral Output,OPEN,2025-07-24T08:15:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-EcAJ,61161,real time counter test wording about 50 character limitation is fuzzy,CLOSED,2025-06-30T15:04:06Z,2025-07-24T01:53:44Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87B2Cki,61435,"Add support for GitLab, Gitea, and Codeberg profile links in freeCodeCamp user profiles",CLOSED,2025-07-22T10:47:40Z,2025-07-23T18:25:02Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-trTH,61200,avatars don't load in Forum Leaderboard lab,OPEN,2025-07-03T14:42:55Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87B-ejS,61441,Claiming to show examples but not actually including them - CSS Review Page,OPEN,2025-07-22T23:52:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87B-3AN,61444,Problem in the Project,CLOSED,2025-07-23T01:02:40Z,2025-07-23T01:12:40Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Bcbap,61409,Keyword ‘assert’ is deprecated and keyword ‘with’ is the current standard.,CLOSED,2025-07-19T17:01:53Z,2025-07-23T13:36:45Z,dragon-slayer27,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87B6g5a,61438,build-a-sorting-visualizer lab asks for bubble sort but does too many steps in sample app,OPEN,2025-07-22T16:31:37Z,,,freeCodeCamp,freeCodeCamp
@@ -36,13 +45,10 @@ I_kwDOAbI7X86-okqZ,61195,Need explanation for forward slash in void elements,CLO
 I_kwDOAbI7X87A-nNN,61372,Two valid answers in the CSS Grid Quiz with one minor lab edit,CLOSED,2025-07-16T23:37:36Z,2025-07-17T20:29:00Z,garyeung,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BDK6V,61379,"chore: update asserts in workshop magazine steps 76-77,79",CLOSED,2025-07-17T09:27:14Z,2025-07-17T18:56:50Z,dragon-slayer27,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BJKzR,61390,HTML multi-case tag name support?,OPEN,2025-07-17T17:44:59Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866vLLj,60806,chore: update tests to specific asserts tracking issue,OPEN,2025-06-10T09:59:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867heXg,60874,backend test runner does not set origin on fetch,OPEN,2025-06-14T12:41:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86IR6nC,54713,Multifile editor - visual indication which editor is for which file,CLOSED,2024-05-08T20:32:52Z,2025-07-16T16:24:48Z,Arif-Khalid,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86_mcuV,61263,Missing value attributes in radio buttons for registration form workshop,OPEN,2025-07-09T05:18:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-dA1L,61181,hint not precise enough in greeting bot workshop,OPEN,2025-07-02T09:41:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87A2E4R,61365,List of missing Lecture Transcript and Questions,CLOSED,2025-07-16T10:37:57Z,2025-07-16T10:51:47Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86__otP,61297,pyramid generator lab doesn't accept a solution with irrelevant spaces,OPEN,2025-07-11T01:02:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864sFrV,60576,first challenge of backend and api microservices does not give enough infos,OPEN,2025-05-28T21:09:54Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869KzgP,61051,React Fundamentals missing lab work or workshop on keys and list rendering,OPEN,2025-06-25T01:06:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87AQhn2,61319,"chore: update asserts in workshop magazine steps 58-59,61-63",CLOSED,2025-07-12T16:31:10Z,2025-07-15T20:29:58Z,AtharvaBhogle,freeCodeCamp,freeCodeCamp
@@ -50,7 +56,6 @@ I_kwDOAbI7X8647maK,60609,Add intros to Chapters,CLOSED,2025-05-30T09:25:17Z,2025
 I_kwDOAbI7X86qWb9a,58835,JS - Telephone Number Validator [ReferenceError: resultsDiv is not defined],CLOSED,2025-02-17T14:23:55Z,2025-02-17T14:36:03Z,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Aqw47,61355,(JS) Building a Spreadsheet challenge step 7 test is too strict,CLOSED,2025-07-15T14:10:05Z,2025-07-15T15:41:40Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_n_wr,61264,Progress Not Updating – Lessons Completed Not Reflected on Account or Timeline Log,CLOSED,2025-07-09T08:00:13Z,2025-07-15T14:47:07Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87AbEX0,61331,chore: update asserts in workshop magazin steps 70-75,OPEN,2025-07-14T10:53:30Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ATjH8,61321,Inconsistent capitalization in `CheckPoint` object/variable declaration in platforming javascript challenge,CLOSED,2025-07-13T10:09:14Z,2025-07-13T19:33:02Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87AefiP,61339,step 9 of workshop-recipe-ingredient-converter missing an instruction to create a variable,CLOSED,2025-07-14T15:49:47Z,2025-07-15T11:34:28Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85gSkXv,49627,Release API with a blue-green strategy and deferred from the client releases,CLOSED,2023-03-08T15:36:50Z,2025-07-15T06:02:28Z,,freeCodeCamp,freeCodeCamp
@@ -101,7 +106,6 @@ I_kwDOAbI7X86_tG_v,61268,Request for Guidance: Looking for First-Time Contributo
 I_kwDOAbI7X86_tFyy,61267,Request for Guidance: Looking for First-Time Contributor Tasks,CLOSED,2025-07-09T15:07:16Z,2025-07-09T15:08:01Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-T-t6,61175,Updating options in challenge helper script for creating new projects,OPEN,2025-07-01T15:20:12Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_g-wI,61254,Colored Boxes Lab tests fail without a semicolon,CLOSED,2025-07-08T16:16:21Z,2025-07-09T08:43:11Z,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86-ESxM,61160,controlled inputs mentioned too early in React workshop-fruit-search-app,OPEN,2025-06-30T14:54:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86y9vC4,59791,Suggest to add shortcuts (play/pause video) support on the English course,CLOSED,2025-04-17T13:36:06Z,2025-07-08T20:07:33Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86nc5bo,58352,English curriculum - Lack of synchronization between audio and animation,CLOSED,2025-01-24T12:42:29Z,2025-07-08T20:02:57Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86NI88D,55293,"A2 English for Developers (Beta): Option to pause and seek, transcript after first playback, add hints",OPEN,2024-06-22T17:50:45Z,,,freeCodeCamp,freeCodeCamp
@@ -115,7 +119,6 @@ I_kwDOAbI7X86_MDwM,61236,Jjhjj,CLOSED,2025-07-07T05:36:13Z,2025-07-07T05:56:49Z,
 I_kwDOAbI7X86_I1rm,61231,UI design fundamentals Quiz not Working,CLOSED,2025-07-06T16:43:25Z,2025-07-06T22:40:14Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86rzrZh,59017,Improve navigation clarity: Rename 'News' to 'Tutorials' in drop-down navigation menu,CLOSED,2025-02-26T18:17:10Z,2025-07-06T13:05:37Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-7ul4,61207,Typo in caption text,CLOSED,2025-07-04T17:12:55Z,2025-07-04T19:46:38Z,sujanthapa01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862uUGG,60368,issues with tests for Design a Business Card lab,OPEN,2025-05-15T09:34:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866HfdB,60732,Tic-tac-toe lab - testing draw is too lenient,CLOSED,2025-06-05T20:14:23Z,2025-07-04T13:16:02Z,Ajay-2005;ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86k9SwL,57897,The `h1` element of review pages are smaller than the `h2` elements there,CLOSED,2025-01-03T12:53:44Z,2025-07-04T03:37:23Z,sskiragu,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869g6Qx,61091,console.log always prints last state of mutable object instead of the one at point of execution,CLOSED,2025-06-26T15:32:41Z,2025-07-03T14:11:55Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
@@ -381,7 +384,6 @@ I_kwDOAbI7X8620AhD,60387,User experience is not seamless,CLOSED,2025-05-15T18:31
 I_kwDOAbI7X863uqW5,60481,Typo in Help a Coworker Troubleshoot on GitHub - Task 22,CLOSED,2025-05-22T08:09:07Z,2025-05-23T04:50:49Z,qdow,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863rIzx,60476,Add extra tests to ensure campers remove the extra h1s in camperbot lab,CLOSED,2025-05-21T22:22:02Z,2025-05-22T16:18:19Z,a2937;moT01,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86V3xl6,56051,Teaching Global Variable (Ab)use,OPEN,2024-09-09T16:42:21Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86hhhdL,57378,Remove `partiallyCompletedChallenges` and `savedChallenges` from /get-public-profile,OPEN,2024-12-01T21:39:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86fXvru,57237,UI Contrast During Lessons,CLOSED,2024-11-19T22:53:26Z,2025-05-22T15:15:10Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86cxsbm,57029,Issue with Exercise Accessibility on Mobile,CLOSED,2024-11-02T06:57:22Z,2025-05-22T15:03:07Z,LucasTStephens,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86XinKu,56247,Learn Basic String and Array Methods by Building a Music Player My thanks & some suggestions,CLOSED,2024-09-23T12:06:46Z,2025-05-22T14:40:59Z,,freeCodeCamp,freeCodeCamp
@@ -538,6 +540,3 @@ I_kwDOAbI7X86K1kyB,55060,Building a Spreadsheet: Logic for avoiding self-referen
 I_kwDOAbI7X86AOJ1V,53836,JavaScript Algorithms and Data Structures (Beta) - Certification Projects - Directing campers away from incorrect solution,OPEN,2024-02-23T14:21:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8559Y1b,52583,[python]: learn-recursion-by-solving-the-tower-of-hanoi-puzzle,OPEN,2023-12-18T09:20:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86LfCa6,55111,Definitions should be improved for SciComPy,OPEN,2024-06-07T10:49:35Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z_a8g,59995,Use specific assert methods in Cafe Menu workshop steps,CLOSED,2025-04-25T11:12:11Z,2025-04-25T11:29:51Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z4yxE,59964,HTML Review - Minor grammar error and duplicate explanation,CLOSED,2025-04-24T17:44:21Z,2025-04-25T07:33:10Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86yQxBJ,59694,Test 6 for Build Real Time Counter Lab does not account for HTML maxlength attr,CLOSED,2025-04-12T21:55:40Z,2025-04-25T06:48:26Z,omarraf,freeCodeCamp,freeCodeCamp
