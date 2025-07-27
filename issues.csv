@@ -1,6 +1,12 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87Cr2BB,61486,Add always-visible progress bar on the workshop page.,OPEN,2025-07-26T23:21:48Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Cr0vJ,61485,Add always-visible progress bar on the workshop page.,CLOSED,2025-07-26T23:17:38Z,2025-07-26T23:18:28Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87CrusO,61484,Clarify that the replace() method returns a new string,OPEN,2025-07-26T23:00:15Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Cp1jp,61477,remove duplicate title from What Role Does HTML Play on the Web? lecture,OPEN,2025-07-26T14:30:48Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X867b4ZW,60860,Declaring multiple variables in a single line fails - Build an fCC Authors Page (step 7),CLOSED,2025-06-13T20:08:12Z,2025-07-26T10:13:00Z,Supravisor,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87CkxHg,61472,[lab-blog-post-card]: Instruction to link CSS file in HTML head,CLOSED,2025-07-25T21:21:28Z,2025-07-26T10:05:31Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86skN31,59129,Markdown to HTML Converter - JavaScript,OPEN,2025-03-04T19:05:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86__otP,61297,pyramid generator lab doesn't accept a solution with irrelevant spaces,CLOSED,2025-07-11T01:02:15Z,2025-07-25T22:35:54Z,tanmaygautam11,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87CkxHg,61472,[lab-blog-post-card]: Instruction to link CSS file in HTML head,OPEN,2025-07-25T21:21:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_mcuV,61263,Missing value attributes in radio buttons for registration form workshop,OPEN,2025-07-09T05:18:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862uUGG,60368,issues with tests for Design a Business Card lab,OPEN,2025-05-15T09:34:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866vLLj,60806,chore: update tests to specific asserts tracking issue,CLOSED,2025-06-10T09:59:05Z,2025-07-25T18:20:08Z,,freeCodeCamp,freeCodeCamp
@@ -95,7 +101,6 @@ I_kwDOAbI7X86zKurj,59814,Used the word captions by mistake when talking about tr
 I_kwDOAbI7X86pL6B1,58633,Fix title screen glitch for JS data type lecture video,CLOSED,2025-02-07T15:39:38Z,2025-07-09T18:58:42Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86kZeCe,57745,Update effective learning habits video,CLOSED,2024-12-24T17:09:03Z,2025-07-09T18:31:05Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867ZPjT,60857,Build a Voting System test 17 too strict,OPEN,2025-06-13T15:33:08Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X867b4ZW,60860,Declaring multiple variables in a single line fails - Build an fCC Authors Page (step 7),OPEN,2025-06-13T20:08:12Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867yOvz,60898,Full Stack YouTube transcripts,CLOSED,2025-06-16T15:54:32Z,2025-07-09T17:25:18Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868CjmC,60914,How Do Events Work in React? SRT file,CLOSED,2025-06-17T21:15:10Z,2025-07-09T17:24:34Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869Iel-,61047,"React lecture group ""Working With Data In React"" missing some core concepts",OPEN,2025-06-24T19:54:23Z,,,freeCodeCamp,freeCodeCamp
@@ -530,13 +535,3 @@ I_kwDOAbI7X860UlYp,60034,Full Stack - Build a Markdown to HTML Converter tests 3
 I_kwDOAbI7X860Q7BS,60023,update cat painting workshop to use specific methods step 4,CLOSED,2025-04-28T09:36:15Z,2025-04-28T12:15:19Z,ShauryaDusht,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X860QgTE,60021,Unable to Enter Text into the Preview Field (Black Box),CLOSED,2025-04-28T08:58:31Z,2025-04-28T09:12:14Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X860Axlm,59998,use specific assert methods in cat painting workshop step 5,CLOSED,2025-04-25T13:40:03Z,2025-04-28T09:29:26Z,amoghmadireddi,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86skN31,59129,Markdown to HTML Converter - JavaScript,OPEN,2025-03-04T19:05:22Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860BC0r,60000,use specific assert methods in cat painting workshop step 7,CLOSED,2025-04-25T14:06:58Z,2025-04-26T20:46:06Z,MelvinManni,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z9mDx,59991,use specific assert methods in cat painting workshop step 68,CLOSED,2025-04-25T07:46:05Z,2025-04-26T19:38:16Z,Lohith-11,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z_pMR,59996,use specific assert methods in cat painting workshop step 57,CLOSED,2025-04-25T11:36:23Z,2025-04-26T19:36:16Z,tarek-gritli,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860BE00,60001,use specific assert methods in cat painting workshop step 17,CLOSED,2025-04-25T14:09:58Z,2025-04-26T19:30:19Z,Lynsoo,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X855klxW,52536,Python test runner umbrella issue,OPEN,2023-12-13T12:42:46Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86K1kyB,55060,Building a Spreadsheet: Logic for avoiding self-reference in function calls is broken,OPEN,2024-06-01T19:21:56Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86AOJ1V,53836,JavaScript Algorithms and Data Structures (Beta) - Certification Projects - Directing campers away from incorrect solution,OPEN,2024-02-23T14:21:25Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8559Y1b,52583,[python]: learn-recursion-by-solving-the-tower-of-hanoi-puzzle,OPEN,2023-12-18T09:20:11Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86LfCa6,55111,Definitions should be improved for SciComPy,OPEN,2024-06-07T10:49:35Z,,,freeCodeCamp,freeCodeCamp
