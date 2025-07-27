@@ -1,4 +1,5 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+f45b667553aa915be84d07f8d9a72f4d92593b3d,fix(curriculum): declare variables on a new line in fCC Authors Page …,2025-07-26T10:12:58Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 5a52d9ace429173fea63db5b7799d2cacdb24cb1,fix(curriculum): Update instruction of build a pyramid generator (#61…,2025-07-25T22:35:53Z,1,2,tanmaygautam11,freeCodeCamp,freeCodeCamp
 e26fa7d3aa1e94939285c9559b39e75efe533ca6,"feat: break down ""Working with Numbers, Booleans, and the Math Object…",2025-07-25T22:26:28Z,27,268,ilenia-magoni,freeCodeCamp,freeCodeCamp
 79f7b6c0a14d7b506c3f224edc1f30df05eb7a7e,feat(curriculum): add confirm string ending challenge (#61382),2025-07-25T22:17:42Z,5,156,zairahira,freeCodeCamp,freeCodeCamp
@@ -634,8 +635,3 @@ ae6783deccfd9d3aca404858a774b9fa8b1dfd5a,fix(curriculum): replace 'tag' with 'el
 c9799c370ec160c14b5ba6f91e9a2f62c335a4fd,"chore(i18n,client): processed translations (#60031)",2025-04-28T14:10:46Z,1,302,camperbot,freeCodeCamp,freeCodeCamp
 e0274556fa346b089488eb33aa22ab35ebff909b,fix(curriculum): correct assert usage in workshop-cat-painting (#60028),2025-04-28T12:15:17Z,1,8,ShauryaDusht,freeCodeCamp,freeCodeCamp
 da5392ed0f5daf49b6d44bfe6f9f8d22ecf86004,fix(actions): get output correctly in web commit check (#60027),2025-04-28T11:28:15Z,1,4,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-fa66608b41a5bceda8213fa2d05b788ed60f0642,fix(curriculum): update assertions to use assert.equal (#60013),2025-04-26T20:46:04Z,1,6,MelvinManni,freeCodeCamp,freeCodeCamp
-e638a59db753a13f9e421358f8a7e247cbfad8ee,fix(curriculum): replace assert with assert.exists and assert.equal i…,2025-04-26T19:38:15Z,1,8,Lohith-11,freeCodeCamp,freeCodeCamp
-c28c99aa2859fcf6ac5289c7e6c9cade13abc2c0,fix(curriculum): replace generic asserts with specific methods in cat…,2025-04-26T19:36:15Z,1,8,tarek-gritli,freeCodeCamp,freeCodeCamp
-82d88e3e3adfe2f4ef1202d009428867cbdb54cb,fix(curriculum): improve the assert methods  (#60003),2025-04-26T19:30:18Z,1,6,Lynsoo,freeCodeCamp,freeCodeCamp
-058749686dbcae3feabb2842b5cb3b0f826c6c50,fix(curriculum): replace assert === with assert.equal for consistency…,2025-04-26T18:15:59Z,1,8,amoghmadireddi,freeCodeCamp,freeCodeCamp
