@@ -1,4 +1,13 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+aec594b7c38a130ea9b1de05ce7f52d2e8b33e0b,chore(curriculum): remove video from Code Editors lectures (#61547),2025-07-28T21:59:45Z,5,47,Supravisor,freeCodeCamp,freeCodeCamp
+8115fcb43ea971d756b372f9122ced2b87a2dc2a,fix(curriculum): remove videos and references to videos from Understa…,2025-07-28T19:02:10Z,2,31,alexgoldsmith,freeCodeCamp,freeCodeCamp
+bde1e6f81b5482b4a111c6becba5ece41bf6d4e5,feat(client): add daily challenges (#60867),2025-07-28T18:08:10Z,43,1721,moT01,freeCodeCamp,freeCodeCamp
+2cdd62b00b0fcf4783031eab12a4644bdde4239b,"chore(i18n,learn): update i18n-curriculum submodule (#61493)",2025-07-28T16:04:32Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+4a44093562f646395771d969171d4bc7c7d82626,"chore(i18n,client): processed translations (#61492)",2025-07-28T13:44:12Z,10,750,camperbot,freeCodeCamp,freeCodeCamp
+3e1da8f3fbc3492175babf5d4f3c8f6c970d5eaf,refactor(client): store session user in dedicated key (#59954),2025-07-28T12:55:14Z,30,938,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+df324144060c5066859711dcd2079c9784710299,fix(curriculum): add period to options in Troubleshoot on GitHub (#61…,2025-07-28T10:54:57Z,1,6,Supravisor,freeCodeCamp,freeCodeCamp
+10c873364165cb5b6610e2b99d1bea7424a803ca,fix(api): check attempts and moderations records for available exams …,2025-07-28T10:05:28Z,3,325,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+f25f38133a0ea2e2e5f1fa812ac0c91338221c86,feat(curriculum): add python classes and objects quiz (#61436),2025-07-28T02:54:28Z,1,344,Dario-DC,freeCodeCamp,freeCodeCamp
 a9d44cda57342838d94e7707be4edf0231e9700b,fix: remove duplicate title in HTML lecture (#61483),2025-07-27T09:27:19Z,1,2,Yuktha-Bodepudi,freeCodeCamp,freeCodeCamp
 f45b667553aa915be84d07f8d9a72f4d92593b3d,fix(curriculum): declare variables on a new line in fCC Authors Page …,2025-07-26T10:12:58Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 5a52d9ace429173fea63db5b7799d2cacdb24cb1,fix(curriculum): Update instruction of build a pyramid generator (#61…,2025-07-25T22:35:53Z,1,2,tanmaygautam11,freeCodeCamp,freeCodeCamp
@@ -628,11 +637,3 @@ b4c1aa107bebdaab62999b49427632463e687c26,fix(curriculum): use specific assert me
 46425aa588f72d9dd0a3d0898a309e5cd6471d08,fix(curriculum): typo in lecture about styling special input elements…,2025-04-29T11:07:43Z,1,2,abhijeet-singhh,freeCodeCamp,freeCodeCamp
 c555f69883a9b82f0103f62467b868a11bc749c6,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-04-29T11:04:15Z,11,80,clarencepenz,freeCodeCamp,freeCodeCamp
 6de79433cafca2c5d04944518a23f99e028b3c67,fix(curriculum): crowdin wording for real time counter lab (#60045),2025-04-29T10:32:50Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-baf3e222337362c58bfcb47b955234408a8db0a9,chore: move budget app to full stack (#59440),2025-04-28T23:08:23Z,5,1275,ilenia-magoni,freeCodeCamp,freeCodeCamp
-4d3ab60216269e1d2553c128b79c2486e2db43bc,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-04-28T23:03:39Z,13,82,clarencepenz,freeCodeCamp,freeCodeCamp
-0f69170fafd7716903fc760b88370b56952b893e,fix(curriculum): better wording (#60040),2025-04-28T20:37:10Z,3,22,ilenia-magoni,freeCodeCamp,freeCodeCamp
-678dc4334eb4789a160f6b32e693fe6995c26229,fix(curriculum): add missing margin & padding shorthand explanations …,2025-04-28T20:36:48Z,2,6,vishal27shetty,freeCodeCamp,freeCodeCamp
-ae6783deccfd9d3aca404858a774b9fa8b1dfd5a,fix(curriculum): replace 'tag' with 'element' in cafe-menu challenges…,2025-04-28T19:34:54Z,2,6,vishal27shetty,freeCodeCamp,freeCodeCamp
-c9799c370ec160c14b5ba6f91e9a2f62c335a4fd,"chore(i18n,client): processed translations (#60031)",2025-04-28T14:10:46Z,1,302,camperbot,freeCodeCamp,freeCodeCamp
-e0274556fa346b089488eb33aa22ab35ebff909b,fix(curriculum): correct assert usage in workshop-cat-painting (#60028),2025-04-28T12:15:17Z,1,8,ShauryaDusht,freeCodeCamp,freeCodeCamp
-da5392ed0f5daf49b6d44bfe6f9f8d22ecf86004,fix(actions): get output correctly in web commit check (#60027),2025-04-28T11:28:15Z,1,4,ojeytonwilliams,freeCodeCamp,freeCodeCamp
