@@ -74,17 +74,15 @@ h1, h2 {
 }
 
 
-/****** Scatter Chart Specific ******/
-.scatter-dot {
-    fill: steelblue;
-    opacity: 0.7;
+/****** Heatmap Specific ******/
+.heatmap-cell {
     cursor: pointer;
-    transition: r 0.2s, fill 0.2s;
+    transition: stroke-width 0.2s, stroke 0.2s;
 }
 
-.scatter-dot:hover {
-    r: 7;
-    fill: orangered;
+.heatmap-cell:hover {
+    stroke-width: 2;
+    stroke: #333;
 }
 
 .scatter-axis-label {

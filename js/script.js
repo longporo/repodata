@@ -40,6 +40,13 @@ $(document).ready(function() {
             processedIssues = issueData.map(d => {
                 const created = parseTime(d.created_date);
                 let closed = d.closed_date ? parseTime(d.closed_date) : new Date(); // Use current date if not closed
+                // Ensure closed date is not before created date
+                if (closed && created && closed < created) {
+                    closed = created; // Or handle as still open, maybe based on state?
+                    // If state is closed but closed date is invalid, maybe default to created + 1 day?
+                     if (d.state === 'CLOSED') { closed = d3.timeDay.offset(created, 1); }
+                     else { closed = new Date(); }
+                }
                 return {
                     id: d.issue_id,
                     number: +d.issue_number,
@@ -249,16 +256,12 @@ $(document).ready(function() {
             })
             .on("mouseover", function(event, d) {
                 ganttTooltip.transition().duration(200).style("opacity", .9);
-                let endDateHtml = `<strong>End:</strong> ${d3.timeFormat("%Y-%m-%d")(d.endDate)}<br/>`;
-                if (d.state == 'OPEN') {
-                    endDateHtml = ``;
-                }
                 ganttTooltip.html(
                     `<strong>Task:</strong> ${d.title}<br/>` +
                     `<strong>Issue #:</strong> ${d.number}<br/>` +
                     `<strong>State:</strong> ${d.state}<br/>` +
                     `<strong>Start:</strong> ${d3.timeFormat("%Y-%m-%d")(d.startDate)}<br/>` +
-                    endDateHtml +
+                    `<strong>End:</strong> ${d3.timeFormat("%Y-%m-%d")(d.endDate)}<br/>` +
                     `<strong>Contributors:</strong> ${d.contributors.join(', ') || 'N/A'}`
                 )
                 .style("left", (event.pageX + 5) + "px")
@@ -269,7 +272,7 @@ $(document).ready(function() {
             });
     }
 
-    // --- Scatter Chart Rendering ---
+    // --- Heatmap Rendering ---
     function renderScatterChart(data) {
         const container = $("#scatter-chart");
         container.empty();
@@ -287,7 +290,7 @@ $(document).ready(function() {
              return;
         }
 
-        const margin = { top: 30, right: 30, bottom: 50, left: 60 };
+        const margin = { top: 80, right: 30, bottom: 50, left: 60 };
         const width = container.width() - margin.left - margin.right;
         const height = 400; // Fixed height for 24 hours
 
@@ -298,19 +301,61 @@ $(document).ready(function() {
             .append("g")
             .attr("transform", `translate(${margin.left},${margin.top})`);
 
+        // Define weekdays and hours
+        const weekdays = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+        const hours = Array.from({length: 24}, (_, i) => i); // 0-23
+
+        // Create heatmap data by aggregating commits
+        const heatmapData = [];
+        const commitCounts = {};
+
+        // Initialize counts
+        weekdays.forEach((day, dayIndex) => {
+            hours.forEach(hour => {
+                const key = `${dayIndex}-${hour}`;
+                commitCounts[key] = 0;
+            });
+        });
+
+        // Count commits for each day-hour combination
+        filteredData.forEach(d => {
+            const key = `${d.weekday}-${d.hour}`;
+            commitCounts[key]++;
+        });
+
+        // Convert to array format for D3
+        weekdays.forEach((day, dayIndex) => {
+            hours.forEach(hour => {
+                const key = `${dayIndex}-${hour}`;
+                heatmapData.push({
+                    day: day,
+                    dayIndex: dayIndex,
+                    hour: hour,
+                    count: commitCounts[key]
+                });
+            });
+        });
+
         // Scales
         const xScale = d3.scaleBand()
-            .domain(['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']) // Weekdays
+            .domain(weekdays)
             .range([0, width])
             .padding(0.1);
 
-        const yScale = d3.scaleLinear()
-            .domain([0, 24]) // 24 hours
-            .range([height, 0]); // Inverted for SVG coordinate system
+        const yScale = d3.scaleBand()
+            .domain(hours)
+            .range([height, 0])
+            .padding(0.1);
+
+        // Color scale (cool to warm)
+        const maxCount = d3.max(heatmapData, d => d.count);
+        const colorScale = d3.scaleSequential()
+            .domain([0, maxCount])
+            .interpolator(d3.interpolateBlues);
 
         // Axes
         const xAxis = d3.axisBottom(xScale);
-        const yAxis = d3.axisLeft(yScale).ticks(12).tickFormat(d => `${d}:00`);
+        const yAxis = d3.axisLeft(yScale).tickFormat(d => `${d}:00`);
 
         svg.append("g")
             .attr("class", "x axis")
@@ -337,38 +382,94 @@ $(document).ready(function() {
             .style("text-anchor", "middle")
             .text("Time of Day (Hour)");
 
-        // Scatter Dots
-        const weekdays = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
-        svg.selectAll(".scatter-dot")
-            .data(filteredData)
+        // Heatmap cells
+        svg.selectAll(".heatmap-cell")
+            .data(heatmapData)
             .enter()
-            .append("circle")
-            .attr("class", "scatter-dot")
-            .attr("cx", d => xScale(weekdays[d.weekday]) + xScale.bandwidth() / 2) // Center dot in band
-            .attr("cy", d => yScale(d.hour + Math.random())) // Add slight jitter to hour
-            .attr("r", 5)
-             .on("mouseover", function(event, d) {
+            .append("rect")
+            .attr("class", "heatmap-cell")
+            .attr("x", d => xScale(d.day))
+            .attr("y", d => yScale(d.hour))
+            .attr("width", xScale.bandwidth())
+            .attr("height", yScale.bandwidth())
+            .attr("fill", d => colorScale(d.count))
+            .attr("stroke", "#fff")
+            .attr("stroke-width", 0.5)
+            .on("mouseover", function(event, d) {
+                // Highlight the cell
+                d3.select(this).attr("stroke-width", 2).attr("stroke", "#333");
+                
+                // Show tooltip
                 scatterTooltip.transition().duration(200).style("opacity", .9);
                 scatterTooltip.html(
-                    `<strong>Author:</strong> ${d.author}<br/>` +
-                    `<strong>Date:</strong> ${d3.timeFormat("%Y-%m-%d %H:%M")(d.date)}<br/>` +
-                    `<strong>Message:</strong> ${d.message}`
+                    `<strong>Day:</strong> ${d.day}<br/>` +
+                    `<strong>Time:</strong> ${d.hour}:00<br/>` +
+                    `<strong>Commits:</strong> ${d.count}`
                 )
                 .style("left", (event.pageX + 5) + "px")
                 .style("top", (event.pageY - 28) + "px");
             })
             .on("mouseout", function(d) {
+                // Remove highlight
+                d3.select(this).attr("stroke-width", 0.5).attr("stroke", "#fff");
                 scatterTooltip.transition().duration(500).style("opacity", 0);
-            })
-            .on("click", function(event, d) {
-                if (d.sha) {
-                    const commitUrl = `https://github.com/${d.repoOwner}/${d.repoName}/commit/${d.sha}`;
-                    window.open(commitUrl, '_blank'); // Open in a new tab
-                } else {
-                    console.error("Commit SHA not found for this point. Data:", d);
-                    alert("Commit details are not available for this point.");
-                }
             });
+
+        // Add color legend (top-middle, with margin)
+        const legendWidth = 200;
+        const legendHeight = 20;
+        const legendX = (width - legendWidth) / 2;
+        const legendY = -margin.top + 40; // 40px down from the top of the SVG
+
+        // Create gradient for legend
+        const defs = svg.append("defs");
+        const gradient = defs.append("linearGradient")
+            .attr("id", "heatmap-gradient")
+            .attr("x1", "0%")
+            .attr("y1", "0%")
+            .attr("x2", "100%")
+            .attr("y2", "0%");
+
+        gradient.append("stop")
+            .attr("offset", "0%")
+            .attr("stop-color", colorScale(0));
+
+        gradient.append("stop")
+            .attr("offset", "100%")
+            .attr("stop-color", colorScale(maxCount));
+
+        // Legend label (above the bar)
+        svg.append("text")
+            .attr("x", legendX + legendWidth / 2)
+            .attr("y", legendY - 10)
+            .attr("text-anchor", "middle")
+            .attr("font-size", "12px")
+            .attr("font-weight", "bold")
+            .text("Number of Commits");
+
+        // Legend rectangle
+        svg.append("rect")
+            .attr("x", legendX)
+            .attr("y", legendY)
+            .attr("width", legendWidth)
+            .attr("height", legendHeight)
+            .attr("fill", "url(#heatmap-gradient)")
+            .attr("stroke", "#333");
+
+        // Legend labels (min/max)
+        svg.append("text")
+            .attr("x", legendX)
+            .attr("y", legendY + legendHeight + 15)
+            .attr("text-anchor", "start")
+            .attr("font-size", "12px")
+            .text("0");
+
+        svg.append("text")
+            .attr("x", legendX + legendWidth)
+            .attr("y", legendY + legendHeight + 15)
+            .attr("text-anchor", "end")
+            .attr("font-size", "12px")
+            .text(maxCount);
     }
 
     // --- Bar Chart Rendering ---
