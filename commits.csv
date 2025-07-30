@@ -1,4 +1,30 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+9cde018cc9114c9a8e6911cbef694dca96e277b3,chore(curriculum): rm vids from styling forms & box model lectures (#…,2025-07-30T01:25:34Z,10,87,hbar1st,freeCodeCamp,freeCodeCamp
+59d2454d4d8e884b061c39ab23ef605377a6777f,"fix(curriculum): remove video from Lists, Links, Background and Borde…",2025-07-30T01:24:29Z,8,74,Supravisor,freeCodeCamp,freeCodeCamp
+325259197d7e0ebb3392c2914515725b073e547d,fix(curriculum): remove video from Attribute Selectors and Responsive…,2025-07-30T01:17:27Z,7,73,Supravisor,freeCodeCamp,freeCodeCamp
+35082c72a60041abf6abfd028ca01f418360fc1b,fix(curriculum): remove video from Pseudo Classes and Elements lectur…,2025-07-30T01:13:33Z,7,71,Supravisor,freeCodeCamp,freeCodeCamp
+fd8cc7d34d0e4fec264763aac0f8201eaa7d5696,fix(curriculum): remove videos from CSS specificity lecture block (#6…,2025-07-29T18:04:00Z,8,81,StuartMosquera,freeCodeCamp,freeCodeCamp
+d32f06dd1f4bc0ad28fd504b931d114cd333b2c9,chore(curriculum): rm vids from what is css lectures (#61577),2025-07-29T17:31:25Z,10,94,hbar1st,freeCodeCamp,freeCodeCamp
+49d30f54b57484adfb0c1273683824f46fa68818,chore(curriculum): rm vids from diff. types of testing lectures (#61572),2025-07-29T16:44:30Z,15,307,hbar1st,freeCodeCamp,freeCodeCamp
+6f4ce424564d411008d0d4b2740716f54a9fc104,chore(curriculum): rm vids from css colors lectures (#61576),2025-07-29T16:41:58Z,6,58,hbar1st,freeCodeCamp,freeCodeCamp
+e24565b6d10156bf6e1ea18ffe75b60ff6acf32e,chore(curriculum): rm vids from classes & recursion lectures (#61573),2025-07-29T16:40:21Z,5,45,hbar1st,freeCodeCamp,freeCodeCamp
+8c30401a2d7279cbe200334d97eb5e87e367613f,chore(curriculum): rm vids for css positioning lectures (#61575),2025-07-29T16:38:44Z,5,45,hbar1st,freeCodeCamp,freeCodeCamp
+97e4b650e405dded8f0c75d5faa077dde36c9c6c,fix(curriculum): fix typo in string ending checker lab (#61574),2025-07-29T16:31:43Z,1,4,ftoucch,freeCodeCamp,freeCodeCamp
+ca3f88b022a230db53c066c9b3521045b58c1cdb,chore(curriculum): remove videos from var and modules lectures (#61561),2025-07-29T16:17:45Z,3,29,hbar1st,freeCodeCamp,freeCodeCamp
+fc39b154c9157bc5d7f2ad5bb4dc0cbf761c39a9,fix(curriculum): remove videos from working with loops lecture block …,2025-07-29T15:57:37Z,5,55,StuartMosquera,freeCodeCamp,freeCodeCamp
+ad7b0748d9a5bc32bab01604c0e2a688cbac441c,fix(api): return usernameDisplay (#61567),2025-07-29T15:04:31Z,6,19,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+8ab474d4c01d092ab33e5208e38747650ec198b9,feat(curriculum): working with rdbs lectures (#61450),2025-07-29T13:39:35Z,12,1777,moT01,freeCodeCamp,freeCodeCamp
+5b66377ae7dcb18fe30d888be0538ceca1d485d8,feat(curriculm): add medical data validator workshop (#60926),2025-07-29T13:33:29Z,48,5139,Dario-DC,freeCodeCamp,freeCodeCamp
+5c4a83615f59e8ad492c7e3d13b4fba7076841b5,fix(curriculum): clean up misleading lines and formatting in CSS revi…,2025-07-29T13:23:01Z,4,31,VishalTelukula,freeCodeCamp,freeCodeCamp
+7d64725813a281b0917716b86e8ea61b97606a22,fix(curriculum): make book inventory demo responsive for mobile (#61202),2025-07-29T10:32:34Z,1,168,huyenltnguyen,freeCodeCamp,freeCodeCamp
+f662b64a37530280f3b58a8342d2a559fed450da,fix(api): use lowercase email address (#61490),2025-07-29T07:46:50Z,3,52,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+8da2da879c215c8f621aea0f6cb9ba0ed090f8a2,chore(curriculum): remove blank line in regex lecture (#61559),2025-07-29T06:41:16Z,1,1,a2937,freeCodeCamp,freeCodeCamp
+f2d5aad54e6843678c8b580389ef811f924ecf20,fix(curriculum): remove video from Semantic HTML videos (#61557),2025-07-29T03:56:53Z,13,153,Supravisor,freeCodeCamp,freeCodeCamp
+3b76b9c3b9c9716c0af93b8fdc8ec7de06937cd1,fix(curriculum): remove video from Computer Basics lectures (#61546),2025-07-29T02:59:18Z,14,160,Supravisor,freeCodeCamp,freeCodeCamp
+ccaf532b6e3e8758dc413318ae4b3be9c38b1c5d,fix(curriculum): remove video from Absolute and Relative Units lectur…,2025-07-29T02:55:21Z,5,73,Supravisor,freeCodeCamp,freeCodeCamp
+3eb80d4574bcadb21502cab69d673d891e791a28,fix(curriculum): remove videos from two array lecture blocks (#61554),2025-07-29T02:50:44Z,10,94,StuartMosquera,freeCodeCamp,freeCodeCamp
+c54e0cc8963b47d01fa04979078da3c2179db3ef,chore(curriculum): remove video from Regular Expressions lectures (#6…,2025-07-29T02:41:41Z,7,62,Supravisor,freeCodeCamp,freeCodeCamp
+3d76f10574987e412fa4f8da2d73b6f684d7c8b7,fix(curriculum): remove videos from React fundamentals lecture blocks…,2025-07-29T02:38:29Z,10,120,liammaguire1,freeCodeCamp,freeCodeCamp
 aec594b7c38a130ea9b1de05ce7f52d2e8b33e0b,chore(curriculum): remove video from Code Editors lectures (#61547),2025-07-28T21:59:45Z,5,47,Supravisor,freeCodeCamp,freeCodeCamp
 8115fcb43ea971d756b372f9122ced2b87a2dc2a,fix(curriculum): remove videos and references to videos from Understa…,2025-07-28T19:02:10Z,2,31,alexgoldsmith,freeCodeCamp,freeCodeCamp
 bde1e6f81b5482b4a111c6becba5ece41bf6d4e5,feat(client): add daily challenges (#60867),2025-07-28T18:08:10Z,43,1721,moT01,freeCodeCamp,freeCodeCamp
@@ -622,18 +648,3 @@ d0040492f2546fbfdf855ab43c3643deba089e8f,"chore(i18n,client): processed translat
 71fb1c9ab419dc6fcee2352a2c19ed9bdc4837fd,fix(curriculum): crowdin wording for page of playing cards lab (#60046),2025-04-30T08:18:45Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 8a1e28bf4b9be529340c78246c27beff80505206,fix(curriculum): updated challenge tests (#60076),2025-04-30T07:38:40Z,1,8,linaslabs,freeCodeCamp,freeCodeCamp
 268aa82111944ae063c3c57cbf38de92f68bffde,fix(curriculum): typos in performance lectures (#60018),2025-04-30T06:00:19Z,3,8,ldtr89,freeCodeCamp,freeCodeCamp
-4bd55ba8d126cdee52aadcd810ddfd09ac8a2201,fix(curriculum): Allow more freedom of implementation in Todo App (#5…,2025-04-30T00:33:20Z,72,1226,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
-5dcb1f611cee502470879d634cc8e530d70d0f13,feat(curriculum): adding quiz questions for Python basics module (#59…,2025-04-30T00:02:31Z,1,286,jdwilkin4,freeCodeCamp,freeCodeCamp
-cd09f71590d3feb0d840492870c983d6e0180e37,feat(curriculum): add toggle visibility useState workshop (#59193),2025-04-29T23:50:32Z,17,1894,jdwilkin4,freeCodeCamp,freeCodeCamp
-05b11175195b00f7bd46666f3b7e13c737053d40,fix(curriculum): updating regex in email masker lab to accept all for…,2025-04-29T22:22:23Z,1,3,roniyaniv,freeCodeCamp,freeCodeCamp
-30b920f4572bdc66a0a4f396f71625b878650201,fix(curriculum): update wording for workshop registration form (#60054),2025-04-29T20:41:18Z,2,4,MelvinManni,freeCodeCamp,freeCodeCamp
-78d3fe740e1c84ca434b2b06ce8cdf5705d47b42,fix(ui): update section names in downloaded solutions (#59934),2025-04-29T20:24:57Z,2,66,a2937,freeCodeCamp,freeCodeCamp
-3d343ac93210d0c034d7b05d655da8e2d341ede4,fix(curriculum): update assertion methods in cat painting workshop (#…,2025-04-29T18:28:50Z,2,4,njnr14,freeCodeCamp,freeCodeCamp
-e810d8746a92520987393f38ee2a198809716876,fix(curriculum): resolves visible answer in question 28 (#60056),2025-04-29T17:25:51Z,1,20,clarencepenz,freeCodeCamp,freeCodeCamp
-a373e81a59414865c6e21a3609eb19547466c190,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-04-29T16:44:43Z,11,54,clarencepenz,freeCodeCamp,freeCodeCamp
-b4c1aa107bebdaab62999b49427632463e687c26,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-04-29T16:34:16Z,9,28,clarencepenz,freeCodeCamp,freeCodeCamp
-86ec68ecf3f8aa5762ed266d28426598611f8265,fix(curriculum): use specific assert methods in cafe menu workshop st…,2025-04-29T16:27:24Z,7,38,clarencepenz,freeCodeCamp,freeCodeCamp
-17812fc54950c288ff3c7f6852656af763615d97,feat(external curricula): build external curricula data v2 (#59533),2025-04-29T11:19:19Z,8,737,huyenltnguyen,freeCodeCamp,freeCodeCamp
-46425aa588f72d9dd0a3d0898a309e5cd6471d08,fix(curriculum): typo in lecture about styling special input elements…,2025-04-29T11:07:43Z,1,2,abhijeet-singhh,freeCodeCamp,freeCodeCamp
-c555f69883a9b82f0103f62467b868a11bc749c6,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-04-29T11:04:15Z,11,80,clarencepenz,freeCodeCamp,freeCodeCamp
-6de79433cafca2c5d04944518a23f99e028b3c67,fix(curriculum): crowdin wording for real time counter lab (#60045),2025-04-29T10:32:50Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
