@@ -14,37 +14,6 @@
         <h1>Repository Activity Dashboard</h1>
         <hr>
 
-        <!-- Issue Timeline -->
-        <div class="row mb-5">
-            <div class="col-12">
-                <h2>Issue Timeline (Gantt Chart)</h2>
-                <div class="row mb-3 controls">
-                    <div class="col-md-3">
-                        <label for="gantt-developer-filter" class="form-label">Filter by Developer:</label>
-                        <input type="text" id="gantt-developer-filter" class="form-control form-control-sm" placeholder="Enter developer name...">
-                    </div>
-                    <div class="col-md-3">
-                        <label for="gantt-task-filter" class="form-label">Filter by Task Name:</label>
-                        <input type="text" id="gantt-task-filter" class="form-control form-control-sm" placeholder="Enter task title fragment...">
-                    </div>
-                     <div class="col-md-4">
-                        <label class="form-label">Filter by Time Interval:</label>
-                        <div class="input-group input-group-sm">
-                            <input type="date" id="gantt-start-date" class="form-control form-control-sm">
-                            <span class="input-group-text">to</span>
-                            <input type="date" id="gantt-end-date" class="form-control form-control-sm">
-                        </div>
-                    </div>
-                    <div class="col-md-2 align-self-end">
-                         <button id="gantt-filter-apply" class="btn btn-primary btn-sm w-100">Apply Filters</button>
-                    </div>
-                </div>
-                <div id="gantt-chart" class="chart-container"></div>
-                <div id="gantt-tooltip" class="tooltip" style="opacity:0;"></div>
-            </div>
-        </div>
-        <hr>
-
         <!-- Commit Activity Heatmap -->
         <div class="row mb-5">
             <div class="col-12">
@@ -89,6 +58,7 @@
             </div>
         </div>
 
+        <hr>
         <!-- PR Lifecycle Funnel Chart -->
         <div class="row mb-5">
             <div class="col-12">
@@ -103,6 +73,37 @@
                     </div>
                 </div>
                 <div id="funnel-chart" class="chart-container"></div>
+            </div>
+        </div>
+
+        <hr>
+        <!-- Issue Timeline -->
+        <div class="row mb-5">
+            <div class="col-12">
+                <h2>Issue Timeline (Gantt Chart)</h2>
+                <div class="row mb-3 controls">
+                    <div class="col-md-3">
+                        <label for="gantt-developer-filter" class="form-label">Filter by Developer:</label>
+                        <input type="text" id="gantt-developer-filter" class="form-control form-control-sm" placeholder="Enter developer name...">
+                    </div>
+                    <div class="col-md-3">
+                        <label for="gantt-task-filter" class="form-label">Filter by Task Name:</label>
+                        <input type="text" id="gantt-task-filter" class="form-control form-control-sm" placeholder="Enter task title fragment...">
+                    </div>
+                     <div class="col-md-4">
+                        <label class="form-label">Filter by Time Interval:</label>
+                        <div class="input-group input-group-sm">
+                            <input type="date" id="gantt-start-date" class="form-control form-control-sm">
+                            <span class="input-group-text">to</span>
+                            <input type="date" id="gantt-end-date" class="form-control form-control-sm">
+                        </div>
+                    </div>
+                    <div class="col-md-2 align-self-end">
+                         <button id="gantt-filter-apply" class="btn btn-primary btn-sm w-100">Apply Filters</button>
+                    </div>
+                </div>
+                <div id="gantt-chart" class="chart-container"></div>
+                <div id="gantt-tooltip" class="tooltip" style="opacity:0;"></div>
             </div>
         </div>
 
