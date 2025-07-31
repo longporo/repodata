@@ -1,4 +1,35 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+f29ba10dc69ab438b12700a18d1ea144dc1dec07,chore(curriculum): rm vids from JS form validation lectures (#61620),2025-07-31T00:38:27Z,3,35,hbar1st,freeCodeCamp,freeCodeCamp
+97f2788dad218381525112aa0e444b3f08a1844a,fix(curriculum): clarify selector-specific styling in Moon Orbit lab …,2025-07-30T22:33:11Z,1,14,haiderr510,freeCodeCamp,freeCodeCamp
+a963042e089793e5273bdb52f0fdbf71b3e28ba8,fix(curriculum): removed videos from DOM lectures (#61618),2025-07-30T22:07:36Z,22,216,Aaliyah1225,freeCodeCamp,freeCodeCamp
+411901aaec74d8113cdda3469318686aed9fb01f,fix(curriculum): remove video from JavaScript Fundamentals Review lec…,2025-07-30T19:21:36Z,8,81,Supravisor,freeCodeCamp,freeCodeCamp
+ce24830f3d16dae3cf7dc8a5ec6e3a246d966097,chore: Remove videos from Welcome Message from Quincy Larson lecture …,2025-07-30T18:21:34Z,4,145,ilenia-magoni,freeCodeCamp,freeCodeCamp
+858bdb636609ceb6a148f121d5c895967719bd78,chore(curriculum): rm vids from async and functional progr. lectures …,2025-07-30T18:07:48Z,10,92,hbar1st,freeCodeCamp,freeCodeCamp
+6b3ee33517d4f999083cff070cdad5800498419c,feat: create new lecture blocks from Understanding Core JavaScript Fu…,2025-07-30T16:38:02Z,18,170,ilenia-magoni,freeCodeCamp,freeCodeCamp
+7d426380d5a5948dc2a06f26a6e6fccf670b27ad,chore(curriculum): rm vids from JS debugging lectures (#61611),2025-07-30T16:19:35Z,5,51,hbar1st,freeCodeCamp,freeCodeCamp
+a9d803a3ed95fa6422875982db4106313c3314cd,"chore(i18n,learn): update i18n-curriculum submodule (#61612)",2025-07-30T16:14:20Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+25fcb4ebbf4e6ca513761eedaad5077e1f0cde3e,"chore(i18n,client): processed translations (#61609)",2025-07-30T15:44:22Z,20,1100,camperbot,freeCodeCamp,freeCodeCamp
+4448bcbd9213e5d8da078e24e4265f220d7c77ec,"Revert ""fix(api): use lowercase email address (#61490)"" (#61608)",2025-07-30T15:09:36Z,3,52,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+a087e33efc6a9ba81d2f3758c696958e8f9eea8a,feat(curriculum): add working with sql lecture scripts (#61471),2025-07-30T14:40:30Z,7,623,moT01,freeCodeCamp,freeCodeCamp
+0974f401c2b4d4378eb22d2f9a246baeed06aaa4,chore: remove videos from html fundamental block (#61564),2025-07-30T14:26:08Z,6,118,larymak,freeCodeCamp,freeCodeCamp
+c6e831852d9a6e27b7547f72931ac3751199aaa5,chore(curriculum): rm vids from Intro to JS & data types lectures (#6…,2025-07-30T14:24:36Z,11,139,hbar1st,freeCodeCamp,freeCodeCamp
+9215009a59ffa656560280a7f74210eb1bf2880a,chore(curriculum): rm videos from number methods and conditional lect…,2025-07-30T12:16:58Z,5,45,kb42,freeCodeCamp,freeCodeCamp
+f34a99520ccd6196809a209f5efb67432ba5ab2e,fix(curriculum): include macOS and Windows formatting shortcuts (#61432),2025-07-30T10:52:33Z,1,6,apierr,freeCodeCamp,freeCodeCamp
+4cd1a753fc62cb3aa34f06b5e152ba57a2f86481,chore(curriculum): rm vids for css variables and grid lectures (#61599),2025-07-30T10:43:17Z,10,126,hbar1st,freeCodeCamp,freeCodeCamp
+f61bb54cc83c360e3f9cdb717959f340620d3d18,chore(curriculum): rm vids from CSS debugging & animations lectures (…,2025-07-30T10:37:26Z,3,27,hbar1st,freeCodeCamp,freeCodeCamp
+393c4493c4cd6a95ea7054268eb76e1f5afb4b75,fix(curriculum): hint text in step 1 of Build a MathBot workshop (#61…,2025-07-30T09:18:48Z,1,2,kannan-ravi,freeCodeCamp,freeCodeCamp
+259962fe5e407653efc31a07cf5831d8d57d5bbe,"fix(curriculum): remove videos from audio-video, image-svg, and ifram…",2025-07-30T09:08:12Z,6,102,alexgoldsmith,freeCodeCamp,freeCodeCamp
+b64360dc6c392dcaaa84765ae2eb3f6ef42c53e5,"chore(curriculum): rm videos from math object, numbers booleans lectu…",2025-07-30T08:59:17Z,13,129,kb42,freeCodeCamp,freeCodeCamp
+86b027d375032e7a17441a64314706c6da445eff,chore(curriculum): rm vids for higher-order functions lectures (#61598),2025-07-30T08:43:54Z,8,80,hbar1st,freeCodeCamp,freeCodeCamp
+3dc06290f6aa248244c591047e7ad72ea54b672c,chore(curriculum): rm vids from flexbox & typography lectures (#61593),2025-07-30T08:43:38Z,9,84,hbar1st,freeCodeCamp,freeCodeCamp
+c370ea44ef3ed73a1ee55e556f00a1fc2ddd1ebb,chore(curriculum): rm vids from 3 css design lectures (#61583),2025-07-30T08:40:09Z,21,213,hbar1st,freeCodeCamp,freeCodeCamp
+59e7f4e8c70d5c6ac1fb09f56863a22b342ba4ac,feat(curriculum): adding photography lab (#61270),2025-07-30T06:25:13Z,5,434,jdwilkin4,freeCodeCamp,freeCodeCamp
+c2bfdef948ca6b031c37a68debd2d5c0ef2d2aec,feat(curriculum): add nano lecture (#61461),2025-07-30T06:14:41Z,5,192,moT01,freeCodeCamp,freeCodeCamp
+a9b91d41c2c398161eb35c1a6a1f76044f0723be,"fix(curriculum): remove video from Maps and Sets, and LocalStorage le…",2025-07-30T03:55:52Z,11,113,Supravisor,freeCodeCamp,freeCodeCamp
+9bec76c72c12d3e0d9ea05e6a36be2e3dd14cdd9,chore(curriculum): rm vids from working with objects lectures (#61586),2025-07-30T03:53:28Z,10,92,hbar1st,freeCodeCamp,freeCodeCamp
+478f84a7a61ce4bd75ab1169f253114ce7eec859,"fix(curriculum): remove video from Date, Audio and Video lectures (#6…",2025-07-30T03:53:16Z,8,84,Supravisor,freeCodeCamp,freeCodeCamp
+e54fd8b1ef9c6f4c83a3b362b3bb08d83dd0b7a1,chore(curriculum): remove video from ARIA and Accessible Media Elemen…,2025-07-30T03:53:09Z,13,111,Supravisor,freeCodeCamp,freeCodeCamp
+e87517fdffff71fe032cdf9666c7408049a28fc4,"fix(curriculum): remove video from React State, Hooks, and Routing le…",2025-07-30T03:52:09Z,10,114,Supravisor,freeCodeCamp,freeCodeCamp
 9cde018cc9114c9a8e6911cbef694dca96e277b3,chore(curriculum): rm vids from styling forms & box model lectures (#…,2025-07-30T01:25:34Z,10,87,hbar1st,freeCodeCamp,freeCodeCamp
 59d2454d4d8e884b061c39ab23ef605377a6777f,"fix(curriculum): remove video from Lists, Links, Background and Borde…",2025-07-30T01:24:29Z,8,74,Supravisor,freeCodeCamp,freeCodeCamp
 325259197d7e0ebb3392c2914515725b073e547d,fix(curriculum): remove video from Attribute Selectors and Responsive…,2025-07-30T01:17:27Z,7,73,Supravisor,freeCodeCamp,freeCodeCamp
@@ -637,14 +668,3 @@ f36a45363345fa924d7fe3b2b56ca7bbe2f8c513,fix(curriculum): replace Unicode ƒ wit
 9eba39281399ef92164cb7821c974caa7ef42454,chore(client): remove bubbles next to the superblock (#59821),2025-05-01T05:21:38Z,4,245,khalil423,freeCodeCamp,freeCodeCamp
 d0040492f2546fbfdf855ab43c3643deba089e8f,"chore(i18n,client): processed translations (#60084)",2025-05-01T05:20:23Z,10,100,camperbot,freeCodeCamp,freeCodeCamp
 4f787a7a560d3f4a56b6a8990af4fff3402b376d,fix(curriculum): FSD-replace assert with assert.equal in cat painting…,2025-05-01T05:11:04Z,1,6,MrKleenex12,freeCodeCamp,freeCodeCamp
-5c7ec828b7064df7d1046669fec60e8966c5a74b,English Curriculum: Block 17 (#59564),2025-05-01T01:43:53Z,161,16093,anastasiiauk,freeCodeCamp,freeCodeCamp
-8e464d272a4ef27b0be65d88c0fd3ba3e3e6f119,feat(curriculum): add set 2 for computer basics quiz (#59759),2025-05-01T01:43:36Z,1,442,Supravisor,freeCodeCamp,freeCodeCamp
-7be458561a6f4787941f2c586068273c7cbde95e,feat(curriculum): add set 2 for basic css quiz (#59761),2025-05-01T01:43:09Z,1,458,Supravisor,freeCodeCamp,freeCodeCamp
-46c20ab6f6182d9e57dbf68ce6e4e5e8232fac31,refactor(client): use shared Module interface (#60082),2025-04-30T19:52:10Z,1,10,huyenltnguyen,freeCodeCamp,freeCodeCamp
-6a61bbf4de137731688a270e2bdf807351e75f26,chore(curriculum): add string examples to js review (#60085),2025-04-30T19:16:32Z,1,88,a2937,freeCodeCamp,freeCodeCamp
-931c4b2a61403bd3fc4e4cf5322244eb55b13c9d,fix(curriculum): update video IDs (#60033),2025-04-30T12:56:56Z,3,6,kubowania,freeCodeCamp,freeCodeCamp
-46b9bea9ae596b1c6a6e6b77f06c7e848d0af5ad,chore(curriculum): update cat painting workshop specific assert metho…,2025-04-30T09:33:43Z,1,4,Sudhir810,freeCodeCamp,freeCodeCamp
-645c055f350d3bf6545f68c49d8d71cd7ebd83b3,fix(curriculum): added missing html boilerplate (#60072),2025-04-30T08:49:50Z,1,12,Jackkv,freeCodeCamp,freeCodeCamp
-71fb1c9ab419dc6fcee2352a2c19ed9bdc4837fd,fix(curriculum): crowdin wording for page of playing cards lab (#60046),2025-04-30T08:18:45Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-8a1e28bf4b9be529340c78246c27beff80505206,fix(curriculum): updated challenge tests (#60076),2025-04-30T07:38:40Z,1,8,linaslabs,freeCodeCamp,freeCodeCamp
-268aa82111944ae063c3c57cbf38de92f68bffde,fix(curriculum): typos in performance lectures (#60018),2025-04-30T06:00:19Z,3,8,ldtr89,freeCodeCamp,freeCodeCamp
