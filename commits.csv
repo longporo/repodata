@@ -1,4 +1,16 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+05e3f5416c0e549b5d6b21f875860f2bf5e9c39f,chore(curriculum): rm vids from JS strings lectures (#61627),2025-08-01T00:40:48Z,12,116,hbar1st,freeCodeCamp,freeCodeCamp
+d69ee7af2a26deff0e561d1ef7a3a65983d8358b,chore(curriculum): rm vids from performance lectures (#61628),2025-07-31T19:02:02Z,14,130,hbar1st,freeCodeCamp,freeCodeCamp
+d6b5369a3b0f15e9d76beb127e8216fff14887a4,fix(curriculum): incorrect order for svg workshop (#61626),2025-07-31T17:25:34Z,1,6,jdwilkin4,freeCodeCamp,freeCodeCamp
+4a245316a2514dd4998cdb53da4ea6e997833222,feat(curriculum): create a heart icon workshop (#61262),2025-07-31T15:49:56Z,10,399,a2937,freeCodeCamp,freeCodeCamp
+76c9fa9d48c68f0b64f860972db53743d1cfa01c,feat(api): add attempts routes to user (#61362),2025-07-31T14:54:29Z,2,24,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+55fbe40152a368b6a7d507a3459ee18f585c09ea,fix(api): more informative auth errors (#61607),2025-07-31T14:13:39Z,1,10,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+500342b24fda7e1a54864fcef4b21aca1cec1d94,fix(api): shuffle generated exam answers each time (#61352),2025-07-31T13:50:59Z,4,98,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+bc0b47047f06f2093c5eb9cb1d7e9cf64557c9bf,fix(curriculum): remove videos from working with links lecture block …,2025-07-31T11:53:22Z,4,42,stimmer860,freeCodeCamp,freeCodeCamp
+af3b7104fe04c1289b017896113c1e7b71dabcf9,"fix(curriculum): remove videos for React data fetching, routing and d…",2025-07-31T10:59:25Z,11,153,doylese,freeCodeCamp,freeCodeCamp
+a55b0c2983e47bfe469c8b9872fca96640f6d8d0,fix(curriculum): remove videos and transcripts from a11y and accessib…,2025-07-31T09:30:25Z,10,104,VishalTelukula,freeCodeCamp,freeCodeCamp
+ee18d22c7032c0a930980ec662bf061b4ffbd564,chore(curriculum): rm vids from js functions lectures (#61615),2025-07-31T07:12:21Z,3,37,hbar1st,freeCodeCamp,freeCodeCamp
+3bd06fe458a93c773591f64e09cd0221c5dfbf45,fix(curriculum): remove all instances of lecture videos from English …,2025-07-31T03:14:20Z,1,160,StuartMosquera,freeCodeCamp,freeCodeCamp
 f29ba10dc69ab438b12700a18d1ea144dc1dec07,chore(curriculum): rm vids from JS form validation lectures (#61620),2025-07-31T00:38:27Z,3,35,hbar1st,freeCodeCamp,freeCodeCamp
 97f2788dad218381525112aa0e444b3f08a1844a,fix(curriculum): clarify selector-specific styling in Moon Orbit lab …,2025-07-30T22:33:11Z,1,14,haiderr510,freeCodeCamp,freeCodeCamp
 a963042e089793e5273bdb52f0fdbf71b3e28ba8,fix(curriculum): removed videos from DOM lectures (#61618),2025-07-30T22:07:36Z,22,216,Aaliyah1225,freeCodeCamp,freeCodeCamp
