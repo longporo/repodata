@@ -1,14 +1,28 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87C9E5N,61519,Remove videos from working with strings and common string methods lecture blocks,CLOSED,2025-07-28T17:36:01Z,2025-08-01T00:40:50Z,hbar1st,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87DlUOe,61631,Add Type Annotations and Modern Python Typing,CLOSED,2025-07-31T18:07:14Z,2025-07-31T19:10:11Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87DlwAX,61633,Clarify default parameter rules in function syntax,CLOSED,2025-07-31T18:54:37Z,2025-07-31T19:06:18Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87C9v5s,61541,Remove videos from web performance lecture block,CLOSED,2025-07-28T18:39:17Z,2025-07-31T19:02:04Z,hbar1st,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87DlDiG,61629,Remove extraneous backtick at the end of hint text,OPEN,2025-07-31T17:37:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X85oEcpU,50630,Create a Rate Limiting middleware / plugin on top of all endpoints,OPEN,2023-06-07T14:07:41Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X85oEeDf,50631,Rate Limiting Stored in Volatile Memory (remove from MongoDB),OPEN,2023-06-07T14:10:18Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87C8eGq,61497,Remove videos from working with links lecture block,CLOSED,2025-07-28T16:43:28Z,2025-07-31T11:53:23Z,huyenltnguyen;stimmer860,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864BRBH,60508,Todo App using Local Storage: Step 53 - Only Chrome specific instructions are given,OPEN,2025-05-23T19:29:33Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87C9vki,61540,"Remove videos from React data fetching, routing and debugging lecture blocks",CLOSED,2025-07-28T18:38:38Z,2025-07-31T10:59:27Z,doylese;huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87C8jgY,61500,Remove videos from importance of a11y and accesible tables lecture blocks,CLOSED,2025-07-28T16:51:14Z,2025-07-31T09:30:26Z,VishalTelukula,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X865pl-V,60690,new lines cause failures in tests checking element content,OPEN,2025-06-03T16:37:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87C9QSr,61522,Remove videos from working with functions lecture block,CLOSED,2025-07-28T17:50:42Z,2025-07-31T07:12:22Z,hbar1st,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86kobjV,57818,Consider saving the code for labs,OPEN,2024-12-29T01:19:34Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868kw2e,60953,Build a Superhero Application Form step 21 too strict,OPEN,2025-06-20T15:48:55Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87C940q,61543,Remove all instances of `lecture videos` from English `intro.json` file,CLOSED,2025-07-28T18:52:40Z,2025-07-31T03:14:22Z,StuartMosquera,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C9lDY,61533,Remove videos from form validation lecture block,CLOSED,2025-07-28T18:19:53Z,2025-07-31T00:38:28Z,hbar1st,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87DaSDI,61621,Found a bug in confidentital email file,CLOSED,2025-07-30T21:09:16Z,2025-07-30T22:51:38Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87DZ_Vy,61619,Update Currency Conveter when start and target currencies are same,CLOSED,2025-07-30T20:31:52Z,2025-07-30T22:46:34Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BL7wc,61394,Make the tests more flexible in the moon orbit lab,CLOSED,2025-07-17T22:37:08Z,2025-07-30T22:33:13Z,haiderr510,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87C9QSr,61522,Remove videos from working with functions lecture block,OPEN,2025-07-28T17:50:42Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C9hIk,61530,Remove videos from DOM related lecture blocks,CLOSED,2025-07-28T18:13:55Z,2025-07-30T22:07:37Z,Aaliyah1225,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C9aeQ,61526,Remove videos from JS fundamentals lecture block,CLOSED,2025-07-28T18:04:09Z,2025-07-30T19:21:37Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C9sj-,61537,Remove videos from functional programming and async programming lecture blocks,CLOSED,2025-07-28T18:33:06Z,2025-07-30T18:07:49Z,hbar1st,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87DWoXI,61613,Use `crypto.getRandomValues` Instead of `Math.random()` in Password Generator Lab for Better Security,CLOSED,2025-07-30T15:10:51Z,2025-07-30T17:55:26Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87C940q,61543,Remove all instances of `lecture videos` from English `intro.json` file,OPEN,2025-07-28T18:52:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C9jS2,61531,Remove videos from debugging techniques lecture block,CLOSED,2025-07-28T18:17:08Z,2025-07-30T16:19:36Z,hbar1st,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85TPTNN,47830,Potential accessibility fixes RWD: Learn Accessibility by Building a Quiz,OPEN,2022-10-04T16:04:20Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C9D02,61518,Remove videos from intro to JS and data types lecture blocks,CLOSED,2025-07-28T17:34:39Z,2025-07-30T14:24:38Z,hbar1st,freeCodeCamp,freeCodeCamp
@@ -23,7 +37,6 @@ I_kwDOAbI7X87C9MHI,61520,"Remove videos from math object, numbers booleans lectu
 I_kwDOAbI7X87C9gY7,61529,Remove videos from higher order functions lecture block,CLOSED,2025-07-28T18:12:54Z,2025-07-30T08:43:55Z,hbar1st,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8xTw,61511,Remove videos from flexbox and typography lecture blocks,CLOSED,2025-07-28T17:10:56Z,2025-07-30T08:43:39Z,hbar1st,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8rCP,61506,Remove videos from three design lecture blocks,CLOSED,2025-07-28T17:02:30Z,2025-07-30T08:40:10Z,hbar1st,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86kobjV,57818,Consider saving the code for labs,OPEN,2024-12-29T01:19:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C9qdP,61535,Remove videos from maps&sets and localStorage related lecture blocks,CLOSED,2025-07-28T18:29:27Z,2025-07-30T03:55:53Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C9UrJ,61524,Remove videos from working with objects lecture block,CLOSED,2025-07-28T17:56:46Z,2025-07-30T03:53:29Z,hbar1st,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C9oci,61534,"Remove videos from dates, audio and video JS related lecture blocks",CLOSED,2025-07-28T18:25:43Z,2025-07-30T03:53:17Z,Supravisor,freeCodeCamp,freeCodeCamp
@@ -46,7 +59,6 @@ I_kwDOAbI7X87C9VFx,61525,Remove videos from working with loops lecture block,CLO
 I_kwDOAbI7X87DGFDk,61565,edit profile not available,CLOSED,2025-07-29T10:50:18Z,2025-07-29T15:04:32Z,ShaunSHamilton;ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C_xnY,61553,scroll bar appearing on page,OPEN,2025-07-28T23:06:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87B-ejS,61441,Claiming to show examples but not actually including them - CSS Review Page,CLOSED,2025-07-22T23:52:09Z,2025-07-29T13:23:03Z,VishalTelukula,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865pl-V,60690,new lines cause failures in tests checking element content,OPEN,2025-06-03T16:37:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86tpEUd,59246,"Add Keyboard Shortcut (Ctrl + Enter) for ""Check Your Answer"" Button",OPEN,2025-03-12T08:57:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8f_b,61498,Remove videos from semantic HTML lecture blocks,CLOSED,2025-07-28T16:46:10Z,2025-07-29T03:56:54Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8lWC,61502,Remove videos from computer basics lecture blocks,CLOSED,2025-07-28T16:53:58Z,2025-07-29T02:59:19Z,Supravisor,freeCodeCamp,freeCodeCamp
@@ -54,13 +66,8 @@ I_kwDOAbI7X87C8rs-,61507,Remove videos from absolute and relative lecture block,
 I_kwDOAbI7X87C9TtM,61523,Remove videos from two array lecture blocks,CLOSED,2025-07-28T17:55:22Z,2025-07-29T02:50:46Z,StuartMosquera,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C9kVW,61532,Remove videos from working with regex lecture block,CLOSED,2025-07-28T18:18:40Z,2025-07-29T02:41:42Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C9tuO,61538,Remove videos from React fundamentals lecture blocks,CLOSED,2025-07-28T18:35:09Z,2025-07-29T02:38:30Z,liammaguire1,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87C9v5s,61541,Remove videos from web performance lecture block,OPEN,2025-07-28T18:39:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8-hN,61516,Remove videos from code editors lecture block,CLOSED,2025-07-28T17:28:04Z,2025-07-28T21:59:46Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87C9vki,61540,"Remove videos from React data fetching, routing and debugging lecture blocks",OPEN,2025-07-28T18:38:38Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87C9E5N,61519,Remove videos from working with strings and common string methods lecture blocks,OPEN,2025-07-28T17:36:01Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87C8jgY,61500,Remove videos from importance of a11y and accesible tables lecture blocks,OPEN,2025-07-28T16:51:14Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8g9D,61499,"Remove videos from working with forms, working with tables, HTML tools lecture blocks",OPEN,2025-07-28T16:47:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87C8eGq,61497,Remove videos from working with links lecture block,OPEN,2025-07-28T16:43:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8Y8k,61495,Remove videos from Understanding HTML Attributes lecture block,CLOSED,2025-07-28T16:36:22Z,2025-07-28T19:02:11Z,alexgoldsmith,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8VtU,61494,Remove videos for lectures,OPEN,2025-07-28T16:32:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C1GHu,61491,Please give us a language toggle,CLOSED,2025-07-28T08:17:04Z,2025-07-28T11:36:19Z,,freeCodeCamp,freeCodeCamp
@@ -100,7 +107,6 @@ I_kwDOAbI7X87BhXER,61418,"Ok
 ",CLOSED,2025-07-20T22:34:40Z,2025-07-21T03:42:00Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868qANl,60964,Build a Music Player - Step 21 - Fails to pass in Safari,CLOSED,2025-06-21T14:22:14Z,2025-07-21T11:21:34Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Bc2VW,61411,lab-permutation-generator could use more clarification,OPEN,2025-07-19T19:02:25Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868kw2e,60953,Build a Superhero Application Form step 21 too strict,OPEN,2025-06-20T15:48:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BJ7Gy,61392,Remove redundant backticks around MCQ option,CLOSED,2025-07-17T19:03:49Z,2025-07-18T18:29:26Z,Prerak yadav,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BGKrK,61385,Suggestion: Improve instructions in Basic HTML challenge,CLOSED,2025-07-17T13:33:41Z,2025-07-17T16:26:37Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BNfs4,61395,Missing video lecture on HTML lesson page,CLOSED,2025-07-18T01:40:23Z,2025-07-18T05:55:09Z,,freeCodeCamp,freeCodeCamp
@@ -438,7 +444,6 @@ I_kwDOAbI7X864Ljyp,60525,"Console Error: ""expected { status: 'unavailable' } to
 I_kwDOAbI7X864Cv4R,60511,Typo on The Odin Project -- Spanish version,CLOSED,2025-05-23T23:41:36Z,2025-05-25T23:41:57Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864GgFq,60517,Added comments for newcomers,CLOSED,2025-05-24T20:27:54Z,2025-05-25T23:35:02Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863opT2,60471,Todo App using Local Settings — final step,CLOSED,2025-05-21T17:00:40Z,2025-05-25T17:58:20Z,huyenltnguyen;roberiacono,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864BRBH,60508,Todo App using Local Storage: Step 53 - Only Chrome specific instructions are given,OPEN,2025-05-23T19:29:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8638kBq,60500,Typo in Introductions in an Online Team Meeting - Task 34,CLOSED,2025-05-23T11:43:25Z,2025-05-23T18:31:32Z,carlogy,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863diul,60458,House Painting - Change the way the relative element positions are calculated,OPEN,2025-05-20T19:05:14Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861agW5,60197,Football Team Cards lab tests,OPEN,2025-05-06T18:09:12Z,,,freeCodeCamp,freeCodeCamp
