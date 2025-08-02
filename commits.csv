@@ -1,4 +1,8 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+a79319c71f05b4ca00324772197d3cbd249a2508,feat(curriculum): add user configuration manager lab (#60845),2025-08-01T15:05:11Z,5,491,zairahira,freeCodeCamp,freeCodeCamp
+ec51058f815747c8091acf6ee884fb1434f12de6,feat: add relational databases review (#59307),2025-08-01T14:51:33Z,1,380,ilenia-magoni,freeCodeCamp,freeCodeCamp
+e0719007719535b08243d484598b19873338d99f,"fix(curriculum): remove videos and references from forms, tables, and…",2025-08-01T10:00:43Z,7,129,alexgoldsmith,freeCodeCamp,freeCodeCamp
+cd85e85c3eca821b954d8a703ec46b606d697cdb,fix(curriculum): remove stray backtick from greeting card instruction…,2025-08-01T07:57:47Z,1,2,vibemeistert,freeCodeCamp,freeCodeCamp
 05e3f5416c0e549b5d6b21f875860f2bf5e9c39f,chore(curriculum): rm vids from JS strings lectures (#61627),2025-08-01T00:40:48Z,12,116,hbar1st,freeCodeCamp,freeCodeCamp
 d69ee7af2a26deff0e561d1ef7a3a65983d8358b,chore(curriculum): rm vids from performance lectures (#61628),2025-07-31T19:02:02Z,14,130,hbar1st,freeCodeCamp,freeCodeCamp
 d6b5369a3b0f15e9d76beb127e8216fff14887a4,fix(curriculum): incorrect order for svg workshop (#61626),2025-07-31T17:25:34Z,1,6,jdwilkin4,freeCodeCamp,freeCodeCamp
@@ -671,12 +675,3 @@ f9a2b91c8b0cffcc631c84cde847806f4e08a0fc,fix(curriculum): improve Crowdin compat
 2815ede749053d5449509fd0d37b21f111998568,fix(curriculum): change generic assert to use assert.equal in worksho…,2025-05-02T08:31:38Z,1,6,joonhoswe,freeCodeCamp,freeCodeCamp
 e4126be18ba5ffa0b91d44deec5d4514dfd8b6cb,fix(client): add support of MathJax in FSD cert (#60110),2025-05-02T08:15:27Z,1,3,jdwilkin4,freeCodeCamp,freeCodeCamp
 f409d5b3872f7c03e069a2e80056c4a1123d59a1,fix(curriculum): update cat painting workshop step 24 to use assert m…,2025-05-02T06:41:17Z,1,4,cansuakgl,freeCodeCamp,freeCodeCamp
-d375cb3b324a0f333c41aa145ed9c98e183aecd5,feat(curriculum): add multimedia player lab (#59706),2025-05-02T00:26:16Z,5,370,larymak,freeCodeCamp,freeCodeCamp
-62091ed26586b03e8bb80886f0feb28228131ed7,fix(curriculum): updated assert methods (#60089),2025-05-01T22:30:45Z,1,12,shaikhFaris,freeCodeCamp,freeCodeCamp
-ca45f715c23136cfc68eff9acc395931ab2879fe,fix(curriculum): better wording in workshop-todo-app (#60075),2025-05-01T15:39:56Z,1,2,RojaPinnamraju,freeCodeCamp,freeCodeCamp
-6f51bd86dcbd8bf593f47a2775619fd0d0ca8499,fix(curriculum): improve wording for Crowdin compatibility (#60087),2025-05-01T12:07:56Z,5,12,chiuinggum,freeCodeCamp,freeCodeCamp
-f36a45363345fa924d7fe3b2b56ca7bbe2f8c513,fix(curriculum): replace Unicode ƒ with standard f in Map object lect…,2025-05-01T11:46:01Z,1,2,JainSourav30,freeCodeCamp,freeCodeCamp
-1d9b2b2330547121a52e077a2e325183c12accd4,fix(curriculum): Update to wording that crowdin likes in different wo…,2025-05-01T05:27:45Z,3,6,MelvinManni,freeCodeCamp,freeCodeCamp
-9eba39281399ef92164cb7821c974caa7ef42454,chore(client): remove bubbles next to the superblock (#59821),2025-05-01T05:21:38Z,4,245,khalil423,freeCodeCamp,freeCodeCamp
-d0040492f2546fbfdf855ab43c3643deba089e8f,"chore(i18n,client): processed translations (#60084)",2025-05-01T05:20:23Z,10,100,camperbot,freeCodeCamp,freeCodeCamp
-4f787a7a560d3f4a56b6a8990af4fff3402b376d,fix(curriculum): FSD-replace assert with assert.equal in cat painting…,2025-05-01T05:11:04Z,1,6,MrKleenex12,freeCodeCamp,freeCodeCamp
