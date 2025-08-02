@@ -1,9 +1,16 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87DxX3D,61645,"Step 33: Tests to pass are too strict, demanding there be no whitespace",OPEN,2025-08-01T16:34:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87DucSA,61643,Add outline to review page,OPEN,2025-08-01T12:18:04Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X865WfJn,60660,Add test to ensure block name in `meta.json` and in `intro.json` match,OPEN,2025-06-02T11:01:43Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86hhhdL,57378,Remove `partiallyCompletedChallenges` and `savedChallenges` from /get-public-profile,OPEN,2024-12-01T21:39:19Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87DtHNN,61639,"Step 27, tests you must pass are not specified in the instructions",OPEN,2025-08-01T10:19:01Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87C8g9D,61499,"Remove videos from working with forms, working with tables, HTML tools lecture blocks",CLOSED,2025-07-28T16:47:29Z,2025-08-01T10:00:45Z,alexgoldsmith;huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Drg_P,61635,Test not working in step 24 workshop-hotel-feedback-form,OPEN,2025-08-01T07:57:52Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87DlDiG,61629,Remove extraneous backtick at the end of hint text,CLOSED,2025-07-31T17:37:39Z,2025-08-01T07:57:49Z,Trev Abbott,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C9E5N,61519,Remove videos from working with strings and common string methods lecture blocks,CLOSED,2025-07-28T17:36:01Z,2025-08-01T00:40:50Z,hbar1st,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87DlUOe,61631,Add Type Annotations and Modern Python Typing,CLOSED,2025-07-31T18:07:14Z,2025-07-31T19:10:11Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87DlwAX,61633,Clarify default parameter rules in function syntax,CLOSED,2025-07-31T18:54:37Z,2025-07-31T19:06:18Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C9v5s,61541,Remove videos from web performance lecture block,CLOSED,2025-07-28T18:39:17Z,2025-07-31T19:02:04Z,hbar1st,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87DlDiG,61629,Remove extraneous backtick at the end of hint text,OPEN,2025-07-31T17:37:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85oEcpU,50630,Create a Rate Limiting middleware / plugin on top of all endpoints,OPEN,2023-06-07T14:07:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85oEeDf,50631,Rate Limiting Stored in Volatile Memory (remove from MongoDB),OPEN,2023-06-07T14:10:18Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8eGq,61497,Remove videos from working with links lecture block,CLOSED,2025-07-28T16:43:28Z,2025-07-31T11:53:23Z,huyenltnguyen;stimmer860,freeCodeCamp,freeCodeCamp
@@ -67,7 +74,6 @@ I_kwDOAbI7X87C9TtM,61523,Remove videos from two array lecture blocks,CLOSED,2025
 I_kwDOAbI7X87C9kVW,61532,Remove videos from working with regex lecture block,CLOSED,2025-07-28T18:18:40Z,2025-07-29T02:41:42Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C9tuO,61538,Remove videos from React fundamentals lecture blocks,CLOSED,2025-07-28T18:35:09Z,2025-07-29T02:38:30Z,liammaguire1,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8-hN,61516,Remove videos from code editors lecture block,CLOSED,2025-07-28T17:28:04Z,2025-07-28T21:59:46Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87C8g9D,61499,"Remove videos from working with forms, working with tables, HTML tools lecture blocks",OPEN,2025-07-28T16:47:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8Y8k,61495,Remove videos from Understanding HTML Attributes lecture block,CLOSED,2025-07-28T16:36:22Z,2025-07-28T19:02:11Z,alexgoldsmith,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8VtU,61494,Remove videos for lectures,OPEN,2025-07-28T16:32:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C1GHu,61491,Please give us a language toggle,CLOSED,2025-07-28T08:17:04Z,2025-07-28T11:36:19Z,,freeCodeCamp,freeCodeCamp
@@ -85,7 +91,6 @@ I_kwDOAbI7X87AbEX0,61331,chore: update asserts in workshop magazin steps 70-75,C
 I_kwDOAbI7X87CgHXN,61468,Adding file structure overview to the README,CLOSED,2025-07-25T13:13:54Z,2025-07-25T16:44:27Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87CWNup,61460,CSS Foundations Exercise E tests are too strict,OPEN,2025-07-24T17:07:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-ESxM,61160,controlled inputs mentioned too early in React workshop-fruit-search-app,OPEN,2025-06-30T14:54:08Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86hhhdL,57378,Remove `partiallyCompletedChallenges` and `savedChallenges` from /get-public-profile,OPEN,2024-12-01T21:39:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86Sm5Ov,55821,platformer game (js beta) step 84 and step 88 (and step 89) check is too strict,CLOSED,2024-08-11T16:40:16Z,2025-07-25T00:37:29Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86ys5rt,59751,Add set 2 of questions for CSS Flexbox quiz,CLOSED,2025-04-16T02:01:28Z,2025-07-24T22:06:22Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87CVTMW,61457,generate password is failing for missing semicolon,CLOSED,2025-07-24T15:43:37Z,2025-07-24T20:37:03Z,alexgoldsmith,freeCodeCamp,freeCodeCamp
@@ -333,7 +338,6 @@ I_kwDOAbI7X8656Mpn,60719,Improve how screen readers announce quiz question text,
 I_kwDOAbI7X86ytBMY,59756,Add set 2 of questions for CSS Grid quiz,CLOSED,2025-04-16T02:21:28Z,2025-06-10T10:35:43Z,fatma-ajroud;jdwilkin4,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866N2Wl,60742,chore: update tests to use specific asserts in project euler problems 21-25,CLOSED,2025-06-06T09:22:43Z,2025-06-10T09:46:37Z,DanyelleH,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86xEzig,59587,Audit Todo App workshop in Full Stack cert,OPEN,2025-04-03T22:25:27Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865WfJn,60660,Add test to ensure block name in `meta.json` and in `intro.json` match,OPEN,2025-06-02T11:01:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866d2MW,60780,"""Build a Markdown to HTML converter"" -- unclear instruction",OPEN,2025-06-08T14:11:18Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866g82M,60788,tanstack-query could be used at challenge-editor code,CLOSED,2025-06-09T05:35:07Z,2025-06-09T11:28:03Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866TT4h,60751,Grammar error in fCC Authors Page - step 12,CLOSED,2025-06-06T19:00:35Z,2025-06-09T11:18:42Z,atithi4dev,freeCodeCamp,freeCodeCamp
@@ -566,8 +570,3 @@ I_kwDOAbI7X860_2iE,60132,Build a Music Player step 27 typo,CLOSED,2025-05-02T18:
 I_kwDOAbI7X86z5tF4,59969,Build an availability table issue,OPEN,2025-04-24T19:23:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8600gzy,60103,update cat painting workshop to use specific assert methods step 27,CLOSED,2025-05-01T11:24:14Z,2025-05-02T08:31:39Z,joonhoswe,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8600gfB,60102,update cat painting workshop to use specific assert methods step 24,CLOSED,2025-05-01T11:23:01Z,2025-05-02T06:41:19Z,cansuakgl,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860oi2L,60079,update cat painting workshop to use specific assert methods step 19,CLOSED,2025-04-30T08:22:52Z,2025-05-01T22:30:46Z,shaikhFaris,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860y_Hm,60096,Typo in Map object lecture,CLOSED,2025-05-01T06:30:26Z,2025-05-01T11:46:02Z,JainSourav30,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860x7my,60094,"Add ""🟢 In Progress"" Indicator for Partially Completed Certifications on the Learn Page",CLOSED,2025-05-01T02:00:13Z,2025-05-01T05:35:54Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ytMju,59758,Remove the bubbles next to the superblock buttons on the map,CLOSED,2025-04-16T02:53:14Z,2025-05-01T05:21:40Z,huyenltnguyen;khalil423;moT01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860o2mb,60081,update cat painting workshop to use specific assert methods step 23,CLOSED,2025-04-30T08:55:44Z,2025-05-01T05:11:06Z,MrKleenex12,freeCodeCamp,freeCodeCamp
