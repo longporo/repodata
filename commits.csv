@@ -1,4 +1,6 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+9cee50eb38ace7690fef8a738c40a30c542c52fd,feat(curriculum): add bisection method lab (#61253),2025-08-02T06:36:03Z,4,381,Dario-DC,freeCodeCamp,freeCodeCamp
+ae086afd13a6fe250aee5d0ef68cfcaddfb6cbba,chore(curriculum): remove remaining lecture video references (#61640),2025-08-02T06:26:05Z,94,293,huyenltnguyen,freeCodeCamp,freeCodeCamp
 a79319c71f05b4ca00324772197d3cbd249a2508,feat(curriculum): add user configuration manager lab (#60845),2025-08-01T15:05:11Z,5,491,zairahira,freeCodeCamp,freeCodeCamp
 ec51058f815747c8091acf6ee884fb1434f12de6,feat: add relational databases review (#59307),2025-08-01T14:51:33Z,1,380,ilenia-magoni,freeCodeCamp,freeCodeCamp
 e0719007719535b08243d484598b19873338d99f,"fix(curriculum): remove videos and references from forms, tables, and…",2025-08-01T10:00:43Z,7,129,alexgoldsmith,freeCodeCamp,freeCodeCamp
@@ -664,14 +666,3 @@ ec43a5c4db594a213f13615366e5c9a1222e8caa,fix(curriculum): assert methods in cat 
 7b3a19f433637efcec706e92ca7c325b21d24422,fix(curriculum): typos in core JS fundamentals lecture (#60151),2025-05-05T04:08:58Z,2,6,Supravisor,freeCodeCamp,freeCodeCamp
 e2407ac6767d50da77cdbe971224e48011bd7db9,fix(curriculum): improve wording for clarity in step 4 instructions /…,2025-05-04T08:33:16Z,1,4,MelvinManni,freeCodeCamp,freeCodeCamp
 c796ea3dca48222bcc252d2f39a8c22b3f730806,fix(curriculum): update assertion syntax for CSS properties in cat pa…,2025-05-04T08:30:14Z,5,10,GuptaShubham-11,freeCodeCamp,freeCodeCamp
-7e72a817bc2bec73d59d00ab0d4b57afde02020b,fix(curriculum): typo in music player workshop step 3 (#60130),2025-05-02T23:07:33Z,1,2,vishnudt2004,freeCodeCamp,freeCodeCamp
-30a3c320c27926103fbd1bc23a942972cf245b9f,fix(curriculum): typo in step 27 of music player workshop (#60134),2025-05-02T22:40:45Z,1,2,joonhoswe,freeCodeCamp,freeCodeCamp
-776c83bdb3f3d4aca86fe9ac6e973a772ae7349e,fix(curriculum): instructions typo in learn about speculation and req…,2025-05-02T16:44:15Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-7822f2f5337595a4910faa4c89fca30bf4e2aa6c,fix(curriculum): logical typo in clarify information (#60118),2025-05-02T15:50:22Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-f9a2b91c8b0cffcc631c84cde847806f4e08a0fc,fix(curriculum): improve Crowdin compatibility for workshop-nutrition…,2025-05-02T15:40:59Z,1,6,vkalakota18,freeCodeCamp,freeCodeCamp
-3e9982107de9a8daa0b801c57576832930cff469,fix(curriculum): Make Crowdin like the flappy penguin (#60044),2025-05-02T14:57:14Z,13,26,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
-83a6854243f1b4447ff7fb46865f22e335cf074d,fix(curriculum): Reword adjacent code elements for improved Crowdin c…,2025-05-02T14:53:00Z,3,6,omarraf,freeCodeCamp,freeCodeCamp
-31369067da3004494cfa654a2463834c190f7fab,fix(curriculum): update fcc author wording (#60050),2025-05-02T14:03:54Z,6,14,a2937,freeCodeCamp,freeCodeCamp
-2815ede749053d5449509fd0d37b21f111998568,fix(curriculum): change generic assert to use assert.equal in worksho…,2025-05-02T08:31:38Z,1,6,joonhoswe,freeCodeCamp,freeCodeCamp
-e4126be18ba5ffa0b91d44deec5d4514dfd8b6cb,fix(client): add support of MathJax in FSD cert (#60110),2025-05-02T08:15:27Z,1,3,jdwilkin4,freeCodeCamp,freeCodeCamp
-f409d5b3872f7c03e069a2e80056c4a1123d59a1,fix(curriculum): update cat painting workshop step 24 to use assert m…,2025-05-02T06:41:17Z,1,4,cansuakgl,freeCodeCamp,freeCodeCamp
