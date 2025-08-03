@@ -1,9 +1,13 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
 I_kwDOAbI7X87DxX3D,61645,"Step 33: Tests to pass are too strict, demanding there be no whitespace",OPEN,2025-08-01T16:34:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87D2JVd,61648,Feature request: Listen to the audio button for A2 “Review of the entire dialogue” task,OPEN,2025-08-02T08:44:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87DucSA,61643,Add outline to review page,OPEN,2025-08-01T12:18:04Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865WfJn,60660,Add test to ensure block name in `meta.json` and in `intro.json` match,OPEN,2025-06-02T11:01:43Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Bc2VW,61411,lab-permutation-generator could use more clarification,OPEN,2025-07-19T19:02:25Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87DGFDk,61565,edit profile not available,CLOSED,2025-07-29T10:50:18Z,2025-07-29T15:04:32Z,ShaunSHamilton;ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86hhhdL,57378,Remove `partiallyCompletedChallenges` and `savedChallenges` from /get-public-profile,OPEN,2024-12-01T21:39:19Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87C8VtU,61494,Remove videos for lectures,CLOSED,2025-07-28T16:32:28Z,2025-08-02T06:26:06Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87DtHNN,61639,"Step 27, tests you must pass are not specified in the instructions",OPEN,2025-08-01T10:19:01Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X865WfJn,60660,Add test to ensure block name in `meta.json` and in `intro.json` match,OPEN,2025-06-02T11:01:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8g9D,61499,"Remove videos from working with forms, working with tables, HTML tools lecture blocks",CLOSED,2025-07-28T16:47:29Z,2025-08-01T10:00:45Z,alexgoldsmith;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Drg_P,61635,Test not working in step 24 workshop-hotel-feedback-form,OPEN,2025-08-01T07:57:52Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87DlDiG,61629,Remove extraneous backtick at the end of hint text,CLOSED,2025-07-31T17:37:39Z,2025-08-01T07:57:49Z,Trev Abbott,freeCodeCamp,freeCodeCamp
@@ -63,7 +67,6 @@ I_kwDOAbI7X87C8zoE,61512,Remove videos from CSS positioning lecture block,CLOSED
 I_kwDOAbI7X87DGIPj,61566,Typo in String Ending Checker lab,CLOSED,2025-07-29T10:55:05Z,2025-07-29T16:31:44Z,ftoucch,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C9ba1,61527,Remove videos from var and modules lecture blocks,CLOSED,2025-07-28T18:05:23Z,2025-07-29T16:17:46Z,hbar1st,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C9VFx,61525,Remove videos from working with loops lecture block,CLOSED,2025-07-28T17:57:23Z,2025-07-29T15:57:38Z,StuartMosquera,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87DGFDk,61565,edit profile not available,CLOSED,2025-07-29T10:50:18Z,2025-07-29T15:04:32Z,ShaunSHamilton;ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C_xnY,61553,scroll bar appearing on page,OPEN,2025-07-28T23:06:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87B-ejS,61441,Claiming to show examples but not actually including them - CSS Review Page,CLOSED,2025-07-22T23:52:09Z,2025-07-29T13:23:03Z,VishalTelukula,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86tpEUd,59246,"Add Keyboard Shortcut (Ctrl + Enter) for ""Check Your Answer"" Button",OPEN,2025-03-12T08:57:48Z,,,freeCodeCamp,freeCodeCamp
@@ -75,7 +78,6 @@ I_kwDOAbI7X87C9kVW,61532,Remove videos from working with regex lecture block,CLO
 I_kwDOAbI7X87C9tuO,61538,Remove videos from React fundamentals lecture blocks,CLOSED,2025-07-28T18:35:09Z,2025-07-29T02:38:30Z,liammaguire1,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8-hN,61516,Remove videos from code editors lecture block,CLOSED,2025-07-28T17:28:04Z,2025-07-28T21:59:46Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8Y8k,61495,Remove videos from Understanding HTML Attributes lecture block,CLOSED,2025-07-28T16:36:22Z,2025-07-28T19:02:11Z,alexgoldsmith,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87C8VtU,61494,Remove videos for lectures,OPEN,2025-07-28T16:32:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C1GHu,61491,Please give us a language toggle,CLOSED,2025-07-28T08:17:04Z,2025-07-28T11:36:19Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Cp1jp,61477,remove duplicate title from What Role Does HTML Play on the Web? lecture,CLOSED,2025-07-26T14:30:48Z,2025-07-27T09:27:20Z,Yuktha-Bodepudi,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Cr0vJ,61485,Add always-visible progress bar on the workshop page.,CLOSED,2025-07-26T23:17:38Z,2025-07-26T23:18:28Z,,freeCodeCamp,freeCodeCamp
@@ -111,7 +113,6 @@ I_kwDOAbI7X869yeQY,61111,JavaScript Asynchronous Programming lecture question no
 I_kwDOAbI7X87BhXER,61418,"Ok
 ",CLOSED,2025-07-20T22:34:40Z,2025-07-21T03:42:00Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868qANl,60964,Build a Music Player - Step 21 - Fails to pass in Safari,CLOSED,2025-06-21T14:22:14Z,2025-07-21T11:21:34Z,Giftea,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Bc2VW,61411,lab-permutation-generator could use more clarification,OPEN,2025-07-19T19:02:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BJ7Gy,61392,Remove redundant backticks around MCQ option,CLOSED,2025-07-17T19:03:49Z,2025-07-18T18:29:26Z,Prerak yadav,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BGKrK,61385,Suggestion: Improve instructions in Basic HTML challenge,CLOSED,2025-07-17T13:33:41Z,2025-07-17T16:26:37Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BNfs4,61395,Missing video lecture on HTML lesson page,CLOSED,2025-07-18T01:40:23Z,2025-07-18T05:55:09Z,,freeCodeCamp,freeCodeCamp
@@ -565,8 +566,3 @@ I_kwDOAbI7X8607ZwM,60123,"update cat painting workshop to use specific assert me
 I_kwDOAbI7X861BAFZ,60135,[Article] - Pyscript demo source points to missing source location,CLOSED,2025-05-02T22:39:28Z,2025-05-03T22:18:57Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86zbrtu,59879,do we need a new issue template for the English curriculum? and maybe for other challenge types?,OPEN,2025-04-22T08:42:54Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86rE54P,58939,freeCodeCamp logo lacks navigation to /learn homepage on login / sign up page,OPEN,2025-02-21T23:02:30Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8609_Ph,60127,Build a Music Player typo,CLOSED,2025-05-02T14:19:36Z,2025-05-02T23:07:34Z,vishnudt2004,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860_2iE,60132,Build a Music Player step 27 typo,CLOSED,2025-05-02T18:55:35Z,2025-05-02T22:40:46Z,joonhoswe,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z5tF4,59969,Build an availability table issue,OPEN,2025-04-24T19:23:50Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8600gzy,60103,update cat painting workshop to use specific assert methods step 27,CLOSED,2025-05-01T11:24:14Z,2025-05-02T08:31:39Z,joonhoswe,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8600gfB,60102,update cat painting workshop to use specific assert methods step 24,CLOSED,2025-05-01T11:23:01Z,2025-05-02T06:41:19Z,cansuakgl,freeCodeCamp,freeCodeCamp
