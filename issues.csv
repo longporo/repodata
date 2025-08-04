@@ -1,4 +1,10 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87D7Xxd,61654,Possible AI Applications on Our Platform (draft),OPEN,2025-08-03T12:12:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87D85hn,61658,"Learn Determiners and Advanced Use of Articles - Dialogue 1 - ""with them"" vs ""within the""",OPEN,2025-08-03T20:41:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87D7MCP,61653,Clarification Needed in Lecture on Abbreviations and Acronyms in HTML,OPEN,2025-08-03T11:01:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87D7Lk6,61652,Wrong header-name used in the 'Questions' section of a lecture,OPEN,2025-08-03T10:58:57Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X865pl-V,60690,new lines cause failures in tests checking element content,OPEN,2025-06-03T16:37:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87D6CJV,61650,consider adding test for `contacts` in profile lookup lab,OPEN,2025-08-03T06:48:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87DxX3D,61645,"Step 33: Tests to pass are too strict, demanding there be no whitespace",OPEN,2025-08-01T16:34:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87D2JVd,61648,Feature request: Listen to the audio button for A2 “Review of the entire dialogue” task,OPEN,2025-08-02T08:44:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87DucSA,61643,Add outline to review page,OPEN,2025-08-01T12:18:04Z,,,freeCodeCamp,freeCodeCamp
@@ -21,7 +27,6 @@ I_kwDOAbI7X87C8eGq,61497,Remove videos from working with links lecture block,CLO
 I_kwDOAbI7X864BRBH,60508,Todo App using Local Storage: Step 53 - Only Chrome specific instructions are given,OPEN,2025-05-23T19:29:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C9vki,61540,"Remove videos from React data fetching, routing and debugging lecture blocks",CLOSED,2025-07-28T18:38:38Z,2025-07-31T10:59:27Z,doylese;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8jgY,61500,Remove videos from importance of a11y and accesible tables lecture blocks,CLOSED,2025-07-28T16:51:14Z,2025-07-31T09:30:26Z,VishalTelukula,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865pl-V,60690,new lines cause failures in tests checking element content,OPEN,2025-06-03T16:37:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C9QSr,61522,Remove videos from working with functions lecture block,CLOSED,2025-07-28T17:50:42Z,2025-07-31T07:12:22Z,hbar1st,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86kobjV,57818,Consider saving the code for labs,OPEN,2024-12-29T01:19:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868kw2e,60953,Build a Superhero Application Form step 21 too strict,OPEN,2025-06-20T15:48:55Z,,,freeCodeCamp,freeCodeCamp
@@ -563,6 +568,3 @@ I_kwDOAbI7X86prkTf,58725,Python output is cut off,OPEN,2025-02-11T23:19:42Z,,,fr
 I_kwDOAbI7X861C4j-,60140,Navbar Tab Should Return to Home Page Instead of Learn Page,CLOSED,2025-05-03T14:13:14Z,2025-05-04T11:26:25Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861DNKj,60143,"""Visit the Curriculum"" link on the freeCodeCamp Forum redirects to homepage instead of curriculum page",CLOSED,2025-05-03T17:15:04Z,2025-05-04T11:24:48Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8607ZwM,60123,"update cat painting workshop to use specific assert methods step 25,28,30,31,32",CLOSED,2025-05-02T08:26:36Z,2025-05-04T08:30:16Z,GuptaShubham-11,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861BAFZ,60135,[Article] - Pyscript demo source points to missing source location,CLOSED,2025-05-02T22:39:28Z,2025-05-03T22:18:57Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zbrtu,59879,do we need a new issue template for the English curriculum? and maybe for other challenge types?,OPEN,2025-04-22T08:42:54Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86rE54P,58939,freeCodeCamp logo lacks navigation to /learn homepage on login / sign up page,OPEN,2025-02-21T23:02:30Z,,,freeCodeCamp,freeCodeCamp
