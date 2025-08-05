@@ -1,8 +1,14 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87D7Xxd,61654,Possible AI Applications on Our Platform (draft),OPEN,2025-08-03T12:12:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866HVFV,60731,Tic-tac-toe lab - not checked diagonal win conditions,OPEN,2025-06-05T20:00:07Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86prkTf,58725,Python output is cut off,CLOSED,2025-02-11T23:19:42Z,2025-08-04T19:16:49Z,tanmaygautam11,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86_mcuV,61263,Missing value attributes in radio buttons for registration form workshop,CLOSED,2025-07-09T05:18:56Z,2025-08-04T19:01:07Z,cpu-pixel,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-trTH,61200,avatars don't load in Forum Leaderboard lab,CLOSED,2025-07-03T14:42:55Z,2025-08-04T18:50:19Z,a2937,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87D7Xxd,61654,Possible AI Applications for Our Platform,OPEN,2025-08-03T12:12:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87EDMCZ,61660,[feat] curriculum ui structure for reviews and exams,OPEN,2025-08-04T12:09:14Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86xBwHS,59575,[discussion] exam ux,CLOSED,2025-04-03T15:44:09Z,2025-08-04T11:25:57Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87D7Lk6,61652,Wrong header-name used in the 'Questions' section of a lecture,OPEN,2025-08-03T10:58:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87D85hn,61658,"Learn Determiners and Advanced Use of Articles - Dialogue 1 - ""with them"" vs ""within the""",OPEN,2025-08-03T20:41:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87D7MCP,61653,Clarification Needed in Lecture on Abbreviations and Acronyms in HTML,OPEN,2025-08-03T11:01:23Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87D7Lk6,61652,Wrong header-name used in the 'Questions' section of a lecture,OPEN,2025-08-03T10:58:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865pl-V,60690,new lines cause failures in tests checking element content,OPEN,2025-06-03T16:37:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87D6CJV,61650,consider adding test for `contacts` in profile lookup lab,OPEN,2025-08-03T06:48:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87DxX3D,61645,"Step 33: Tests to pass are too strict, demanding there be no whitespace",OPEN,2025-08-01T16:34:29Z,,,freeCodeCamp,freeCodeCamp
@@ -91,7 +97,6 @@ I_kwDOAbI7X867b4ZW,60860,Declaring multiple variables in a single line fails - B
 I_kwDOAbI7X87CkxHg,61472,[lab-blog-post-card]: Instruction to link CSS file in HTML head,CLOSED,2025-07-25T21:21:28Z,2025-07-26T10:05:31Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86skN31,59129,Markdown to HTML Converter - JavaScript,OPEN,2025-03-04T19:05:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86__otP,61297,pyramid generator lab doesn't accept a solution with irrelevant spaces,CLOSED,2025-07-11T01:02:15Z,2025-07-25T22:35:54Z,tanmaygautam11,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86_mcuV,61263,Missing value attributes in radio buttons for registration form workshop,OPEN,2025-07-09T05:18:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862uUGG,60368,issues with tests for Design a Business Card lab,OPEN,2025-05-15T09:34:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866vLLj,60806,chore: update tests to specific asserts tracking issue,CLOSED,2025-06-10T09:59:05Z,2025-07-25T18:20:08Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87AbEX0,61331,chore: update asserts in workshop magazin steps 70-75,CLOSED,2025-07-14T10:53:30Z,2025-07-25T18:18:15Z,Shanpreet;huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -104,7 +109,6 @@ I_kwDOAbI7X87CVTMW,61457,generate password is failing for missing semicolon,CLOS
 I_kwDOAbI7X87CP9uc,61453,Bug in Project Euler Problem 89 Solution: Non-Minimal Roman Numeral Output,OPEN,2025-07-24T08:15:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-EcAJ,61161,real time counter test wording about 50 character limitation is fuzzy,CLOSED,2025-06-30T15:04:06Z,2025-07-24T01:53:44Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87B2Cki,61435,"Add support for GitLab, Gitea, and Codeberg profile links in freeCodeCamp user profiles",CLOSED,2025-07-22T10:47:40Z,2025-07-23T18:25:02Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86-trTH,61200,avatars don't load in Forum Leaderboard lab,OPEN,2025-07-03T14:42:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87B-3AN,61444,Problem in the Project,CLOSED,2025-07-23T01:02:40Z,2025-07-23T01:12:40Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Bcbap,61409,Keyword ‘assert’ is deprecated and keyword ‘with’ is the current standard.,CLOSED,2025-07-19T17:01:53Z,2025-07-23T13:36:45Z,dragon-slayer27,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87B6g5a,61438,build-a-sorting-visualizer lab asks for bubble sort but does too many steps in sample app,OPEN,2025-07-22T16:31:37Z,,,freeCodeCamp,freeCodeCamp
@@ -294,7 +298,6 @@ I_kwDOAbI7X8675UpO,60902,TOP: CSS Foundations Exercise C needs some updates,CLOS
 I_kwDOAbI7X866oNDm,60796,[Profile Card workshop] Step 1 not checking the return statement,CLOSED,2025-06-09T18:30:02Z,2025-06-18T19:51:18Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864mNf8,60563,Unclear description in Workshop fCC Authors Page - Step 12 and 13,CLOSED,2025-05-28T11:31:21Z,2025-06-18T09:07:41Z,vishnudt2004,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867zr7N,60900,Job Application form should test that input and label are linked correctly,CLOSED,2025-06-16T18:23:10Z,2025-06-18T07:58:44Z,a2937,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866HVFV,60731,Tic-tac-toe lab - not checked diagonal win conditions,OPEN,2025-06-05T20:00:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867qClb,60889,Bug/Incorrect Code in Step 15-16 of Full-stack Curriculum -> Fruit Search App,CLOSED,2025-06-16T02:42:46Z,2025-06-18T04:34:46Z,ilenia-magoni;vishnudt2004,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868CyRn,60915,Learn localStorage by Building a Todo App - Step 51,CLOSED,2025-06-17T21:46:51Z,2025-06-18T00:40:43Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867c50R,60866,Remove `alert-info` class,CLOSED,2025-06-13T22:07:48Z,2025-06-17T17:27:54Z,tanmaygautam11,freeCodeCamp,freeCodeCamp
@@ -564,7 +567,3 @@ I_kwDOAbI7X861OmLg,60169,No Content - Styling Forms Review,CLOSED,2025-05-05T18:
 I_kwDOAbI7X861QnBi,60173,Code not being recognized.,CLOSED,2025-05-05T23:01:48Z,2025-05-05T23:22:06Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X860_uq_,60131,Workshop Music Player - Step 43: Incorrect hint for null value test,CLOSED,2025-05-02T18:34:20Z,2025-05-05T07:25:44Z,bobofishbo,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8607cps,60124,update cat painting workshop to use specific assert methods step 29,CLOSED,2025-05-02T08:33:38Z,2025-05-05T06:24:18Z,LuluZhuu,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86prkTf,58725,Python output is cut off,OPEN,2025-02-11T23:19:42Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861C4j-,60140,Navbar Tab Should Return to Home Page Instead of Learn Page,CLOSED,2025-05-03T14:13:14Z,2025-05-04T11:26:25Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861DNKj,60143,"""Visit the Curriculum"" link on the freeCodeCamp Forum redirects to homepage instead of curriculum page",CLOSED,2025-05-03T17:15:04Z,2025-05-04T11:24:48Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8607ZwM,60123,"update cat painting workshop to use specific assert methods step 25,28,30,31,32",CLOSED,2025-05-02T08:26:36Z,2025-05-04T08:30:16Z,GuptaShubham-11,freeCodeCamp,freeCodeCamp
