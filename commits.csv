@@ -1,4 +1,14 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+836c569c078bf157daeb51ab435051696f6174d1,fix(ui): ensure terminal takes full viewport height on all devices (#…,2025-08-04T19:16:47Z,2,5,tanmaygautam11,freeCodeCamp,freeCodeCamp
+878eafb4adf1ed267505f31235e775b115fb7127,fix(curriculum): Added extra step in registration form workshop to ad…,2025-08-04T19:01:06Z,40,467,cpu-pixel,freeCodeCamp,freeCodeCamp
+1ddb2f7d0fdbe7155a1e77e7e122576071a4bdef,chore(curriculum): update fcc forum leaderboard cdn (#61462),2025-08-04T18:50:18Z,1,86,a2937,freeCodeCamp,freeCodeCamp
+d9229ecff203caadd48d9d42b932a19a4b1c5574,chore(curriculum): remove js a11y content from html module (#61591),2025-08-04T17:43:41Z,3,678,jdwilkin4,freeCodeCamp,freeCodeCamp
+5e73291dd35cbdc8754f287382b455d02916ecee,"chore(i18n,learn): update i18n-curriculum submodule (#61662)",2025-08-04T17:25:35Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+ad8b31df2c9c33f262f84aca558c9cf9e3e531d7,feat(client): enable daily challenges + add e2e tests (#61549),2025-08-04T16:37:06Z,4,233,moT01,freeCodeCamp,freeCodeCamp
+86f52e82f3ea8aec69fe363f265ab7b8c3314dda,fix(curriculum): ensure innerText test assertions use .trim() (#61624),2025-08-04T16:36:22Z,20,106,nishatayub,freeCodeCamp,freeCodeCamp
+143565ce63b28da030db99239dd11caaf7a7e662,feat(api): add attempt id and exam id to response (#61637),2025-08-04T16:12:46Z,3,24,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+e41fd9ed13930685940e4c4ae1c8d1dc9ce4561f,"chore(i18n,client): processed translations (#61661)",2025-08-04T15:49:23Z,11,2064,camperbot,freeCodeCamp,freeCodeCamp
+dd561eba237ef8fa37d33598e90ee18eff883e49,feat: add debug isbn validator lab (#61273),2025-08-04T13:40:00Z,4,714,ilenia-magoni,freeCodeCamp,freeCodeCamp
 9cee50eb38ace7690fef8a738c40a30c542c52fd,feat(curriculum): add bisection method lab (#61253),2025-08-02T06:36:03Z,4,381,Dario-DC,freeCodeCamp,freeCodeCamp
 ae086afd13a6fe250aee5d0ef68cfcaddfb6cbba,chore(curriculum): remove remaining lecture video references (#61640),2025-08-02T06:26:05Z,94,293,huyenltnguyen,freeCodeCamp,freeCodeCamp
 a79319c71f05b4ca00324772197d3cbd249a2508,feat(curriculum): add user configuration manager lab (#60845),2025-08-01T15:05:11Z,5,491,zairahira,freeCodeCamp,freeCodeCamp
@@ -664,5 +674,3 @@ a8be31b6ea25e6f1412ccef5499073da5cf82942,fix(a11y): hide Fail icon from screen r
 181321d90dffd8ed2e27fd76eebd5dbc013b9730,fix(curriculum): correct aria-label hint in music player step 43 (#60…,2025-05-05T07:25:43Z,1,2,bobofishbo,freeCodeCamp,freeCodeCamp
 ec43a5c4db594a213f13615366e5c9a1222e8caa,fix(curriculum): assert methods in cat painting step 29 (#60136),2025-05-05T06:24:17Z,1,4,LuluZhuu,freeCodeCamp,freeCodeCamp
 7b3a19f433637efcec706e92ca7c325b21d24422,fix(curriculum): typos in core JS fundamentals lecture (#60151),2025-05-05T04:08:58Z,2,6,Supravisor,freeCodeCamp,freeCodeCamp
-e2407ac6767d50da77cdbe971224e48011bd7db9,fix(curriculum): improve wording for clarity in step 4 instructions /…,2025-05-04T08:33:16Z,1,4,MelvinManni,freeCodeCamp,freeCodeCamp
-c796ea3dca48222bcc252d2f39a8c22b3f730806,fix(curriculum): update assertion syntax for CSS properties in cat pa…,2025-05-04T08:30:14Z,5,10,GuptaShubham-11,freeCodeCamp,freeCodeCamp
