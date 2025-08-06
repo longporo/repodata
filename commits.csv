@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+98df961a016af0a8f3bfcfa103d6f6b824b22738,feat(curriculum): add theme switcher lab (#61404),2025-08-05T20:16:29Z,5,580,jdwilkin4,freeCodeCamp,freeCodeCamp
+6aab1477b005b5db307466f576b048082a029d3c,fix: correct typo in Tailwind CTA Component titles (#61669),2025-08-05T20:14:00Z,3,8,ZunedKhan07,freeCodeCamp,freeCodeCamp
+1db36107c068f3003f28144243e03d05624c4575,chore: redirects for Understanding Core JavaScript Fundamentals and W…,2025-08-05T15:23:29Z,1,84,ilenia-magoni,freeCodeCamp,freeCodeCamp
+99692d7efaf0eb9e241fdcbaf8720d3548c75cde,chore(curriculum): audit bash and sql quiz (#61642),2025-08-05T15:10:51Z,1,50,zairahira,freeCodeCamp,freeCodeCamp
+a57e4e33b493780aa3110136c03b8371bf60999f,fix(curriculum): fix typo in tasks from block 20 of the B1 certificat…,2025-08-05T13:55:08Z,4,18,DanielRosa74,freeCodeCamp,freeCodeCamp
+7fdaa034c8f42504056c0af08510d6b1a2da1228,fix(client): gracefully handle errors while fetching user (#61623),2025-08-05T13:22:49Z,6,61,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+69ebb7e37a70fdb9f33458ab1671d3e1b376cb26,feat: add bash scripting review (#61466),2025-08-05T09:51:36Z,1,703,ilenia-magoni,freeCodeCamp,freeCodeCamp
 836c569c078bf157daeb51ab435051696f6174d1,fix(ui): ensure terminal takes full viewport height on all devices (#…,2025-08-04T19:16:47Z,2,5,tanmaygautam11,freeCodeCamp,freeCodeCamp
 878eafb4adf1ed267505f31235e775b115fb7127,fix(curriculum): Added extra step in registration form workshop to ad…,2025-08-04T19:01:06Z,40,467,cpu-pixel,freeCodeCamp,freeCodeCamp
 1ddb2f7d0fdbe7155a1e77e7e122576071a4bdef,chore(curriculum): update fcc forum leaderboard cdn (#61462),2025-08-04T18:50:18Z,1,86,a2937,freeCodeCamp,freeCodeCamp
@@ -667,10 +674,3 @@ d0e63c60cad50f3d3905967451f9d6c9ba1c9608,fix(api): add req id to logs (#60191),2
 c55e98d3eea223e50ee74bcd0b5a7efde2e4bcd0,chore(curriculum): Cat painting workshop updated to use specific asse…,2025-05-06T08:47:30Z,2,14,ArakhshQ,freeCodeCamp,freeCodeCamp
 e5051d472e8cb39a0b6c5bf85607e4d2e14f2d03,fix(GHA): update environment validation (#60011),2025-05-06T07:00:06Z,1,56,raisedadead,freeCodeCamp,freeCodeCamp
 3e9c13bb4349b94a46e411bfffecfdbd77971701,fix(curriculum): typos and spacing in lectures and reviews (#60077),2025-05-06T05:16:29Z,9,44,Supravisor,freeCodeCamp,freeCodeCamp
-abd9e3ff3e7e8dc1c01b542eaa7ab9803853130a,chore(curriculum): update TypeScript quiz questions (#60002),2025-05-05T18:50:06Z,1,78,sidemt,freeCodeCamp,freeCodeCamp
-256b76c3f76b02614dc74e4a4789a8ed691d1a8d,"chore(i18n,learn): update i18n-curriculum submodule (#60159)",2025-05-05T15:44:37Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-b842d09e9635f8a5a3cde9112ca7ef42c5f78df2,"chore(i18n,client): processed translations (#60158)",2025-05-05T15:05:17Z,10,70,camperbot,freeCodeCamp,freeCodeCamp
-a8be31b6ea25e6f1412ccef5499073da5cf82942,fix(a11y): hide Fail icon from screen readers (#60157),2025-05-05T12:30:20Z,2,3,huyenltnguyen,freeCodeCamp,freeCodeCamp
-181321d90dffd8ed2e27fd76eebd5dbc013b9730,fix(curriculum): correct aria-label hint in music player step 43 (#60…,2025-05-05T07:25:43Z,1,2,bobofishbo,freeCodeCamp,freeCodeCamp
-ec43a5c4db594a213f13615366e5c9a1222e8caa,fix(curriculum): assert methods in cat painting step 29 (#60136),2025-05-05T06:24:17Z,1,4,LuluZhuu,freeCodeCamp,freeCodeCamp
-7b3a19f433637efcec706e92ca7c325b21d24422,fix(curriculum): typos in core JS fundamentals lecture (#60151),2025-05-05T04:08:58Z,2,6,Supravisor,freeCodeCamp,freeCodeCamp
