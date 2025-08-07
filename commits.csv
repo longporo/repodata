@@ -1,4 +1,17 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+babcf475979ae36c483195dbe4faaa0165fd7a4a,chore(tools): test for instructions in schema (#60323),2025-08-06T20:44:06Z,1,6,a2937,freeCodeCamp,freeCodeCamp
+8b33e316ab9a4ab4f8b2058f900d11db74c47ebe,feat: add devcontainer setup (#61695),2025-08-06T20:04:30Z,2,39,raisedadead,freeCodeCamp,freeCodeCamp
+58fed4ae4f933ae820168fb40ced67bf303d1f37,"chore(i18n,learn): update i18n-curriculum submodule (#61690)",2025-08-06T19:55:22Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+546e3b7480574e258b7a530f0cc25d9b660a6ab0,fix: show donation page to unauthorized users (#61696),2025-08-06T19:44:59Z,2,11,ahmaxed,freeCodeCamp,freeCodeCamp
+185a421dae0837338dc579aa5c11f7638091c16d,feat(curriculum): add Python error handling review page (#60559),2025-08-06T16:34:30Z,1,130,Ksound22,freeCodeCamp,freeCodeCamp
+922c20e0efe9f6d053c419be8e46447415a6de20,chore: Move JS related Aria lectures to new JS and A11y module (#61666),2025-08-06T16:11:44Z,9,61,ilenia-magoni,freeCodeCamp,freeCodeCamp
+2a577ade98d2f3493cd6a6efe06053eda78967ce,feat: add lectures for searching and sorting algorithms (#61663),2025-08-06T16:07:47Z,5,358,ilenia-magoni,freeCodeCamp,freeCodeCamp
+0e81a59d301c016c64657f590f8582ac8c0f5899,chore: create redirects for js aria lectures (#61682),2025-08-06T15:56:33Z,1,16,ilenia-magoni,freeCodeCamp,freeCodeCamp
+713afce73191762c12c9dada5c00cd9f7f664472,"chore(i18n,client): processed translations (#61686)",2025-08-06T14:33:09Z,10,140,camperbot,freeCodeCamp,freeCodeCamp
+0eb04d9aed3ef1ce1a343ed1a95e24df79a4f26c,feat(curriculum): add Python error handling quiz (#60600),2025-08-06T13:44:21Z,1,328,Ksound22,freeCodeCamp,freeCodeCamp
+6bf3e33b6992283ab8aafeb0a9f0c1f4b3d8fd22,feat(curriculum): adding JS and A11y quiz questions (#61616),2025-08-06T13:42:25Z,1,361,jdwilkin4,freeCodeCamp,freeCodeCamp
+276b39638eb5907a1b5ea0715610b00abaef6480,fix(curriculum): remove redundant or (#61681),2025-08-06T11:59:48Z,1,2,sinha21Soumya,freeCodeCamp,freeCodeCamp
+be4c451041c029f82734025fd4fc80dc6807cf1c,fix(curriculum): fixed typo in workshop medical  data validator step …,2025-08-06T04:10:23Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
 98df961a016af0a8f3bfcfa103d6f6b824b22738,feat(curriculum): add theme switcher lab (#61404),2025-08-05T20:16:29Z,5,580,jdwilkin4,freeCodeCamp,freeCodeCamp
 6aab1477b005b5db307466f576b048082a029d3c,fix: correct typo in Tailwind CTA Component titles (#61669),2025-08-05T20:14:00Z,3,8,ZunedKhan07,freeCodeCamp,freeCodeCamp
 1db36107c068f3003f28144243e03d05624c4575,chore: redirects for Understanding Core JavaScript Fundamentals and W…,2025-08-05T15:23:29Z,1,84,ilenia-magoni,freeCodeCamp,freeCodeCamp
@@ -664,13 +677,3 @@ f2b09783f644385a9d3c7515a9d94dc496929ed0,feat(curriculum): add set 2 for css lay
 003489c1d7dcffb4645ffe4decc01959526b1126,feat: add bash commands review content (#59192),2025-05-07T15:33:32Z,1,66,ilenia-magoni,freeCodeCamp,freeCodeCamp
 baf650a3c795bc063cb53dad85f92e811287836e,fix(curriculum): prevent hardcoding in addition functions (#60196),2025-05-07T14:54:22Z,2,12,Averand1,freeCodeCamp,freeCodeCamp
 8a6fcd70dbaafc89916020bf0f2d96369fdfb108,fix(api): update logging (#60210),2025-05-07T10:00:32Z,2,16,raisedadead,freeCodeCamp,freeCodeCamp
-8e86fac37845d80dc21b81dce759d25b083df6d0,fix(curriculum): update cat painting workshop to use specific assert …,2025-05-06T23:39:36Z,1,36,clarencepenz,freeCodeCamp,freeCodeCamp
-32c19f1b92afb63de97d1783ae9aee8846b3add6,fix(curriculum): Make calculator tests less restrictive (#60188),2025-05-06T21:51:38Z,6,18,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
-ff43f3aecaf0f98b199f5b0dac6629c51859fde3,fix(api): whitespace in default values (#60199),2025-05-06T20:22:42Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
-dc5c7893b50b92795da3fcedf74e0f38cdc745ed,fix(api): update logs in user.ts (#60193),2025-05-06T18:19:24Z,1,7,raisedadead,freeCodeCamp,freeCodeCamp
-504a6eaa1d1460926b609ab3f65f21a17bb9f061,chore(curriculum): refactor tests in the workshop-cat-painting steps …,2025-05-06T17:24:40Z,2,20,Sky-walkerX,freeCodeCamp,freeCodeCamp
-d0e63c60cad50f3d3905967451f9d6c9ba1c9608,fix(api): add req id to logs (#60191),2025-05-06T16:50:31Z,1,4,raisedadead,freeCodeCamp,freeCodeCamp
-008e35d851ca10f6b1714de3a1135835e2a7ba3e,fix(api): update logging (#60187),2025-05-06T15:16:36Z,21,296,raisedadead,freeCodeCamp,freeCodeCamp
-c55e98d3eea223e50ee74bcd0b5a7efde2e4bcd0,chore(curriculum): Cat painting workshop updated to use specific asse…,2025-05-06T08:47:30Z,2,14,ArakhshQ,freeCodeCamp,freeCodeCamp
-e5051d472e8cb39a0b6c5bf85607e4d2e14f2d03,fix(GHA): update environment validation (#60011),2025-05-06T07:00:06Z,1,56,raisedadead,freeCodeCamp,freeCodeCamp
-3e9c13bb4349b94a46e411bfffecfdbd77971701,fix(curriculum): typos and spacing in lectures and reviews (#60077),2025-05-06T05:16:29Z,9,44,Supravisor,freeCodeCamp,freeCodeCamp
