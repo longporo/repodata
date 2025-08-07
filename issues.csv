@@ -1,17 +1,30 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87EY-xF,61680,Bugs in Basic HTML workshop,OPEN,2025-08-06T01:31:19Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87EYBDX,61678,"Minor edit to remove a duplicate ""or""",OPEN,2025-08-05T22:41:24Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87EnBMr,61701,Add a code example for svg lecture,OPEN,2025-08-07T01:24:58Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87CrusO,61484,Clarify that the replace() method returns a new string,OPEN,2025-07-26T23:00:15Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Drg_P,61635,Test not working in step 24 workshop-hotel-feedback-form,OPEN,2025-08-01T07:57:52Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87D6CJV,61650,consider adding test for `contacts` in profile lookup lab,OPEN,2025-08-03T06:48:04Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87D7Lk6,61652,Wrong header-name used in the 'Questions' section of a lecture,OPEN,2025-08-03T10:58:57Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87D7MCP,61653,Clarification Needed in Lecture on Abbreviations and Acronyms in HTML,OPEN,2025-08-03T11:01:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87EmTJk,61699,Add new attribute lecture script to cover concepts in related lab,OPEN,2025-08-06T23:26:20Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87D7Xxd,61654,Possible AI Applications for Our Platform,OPEN,2025-08-03T12:12:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87EiR0H,61694,add missing `**Objective:**` to lab descriptions,OPEN,2025-08-06T16:25:26Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86UO0yN,55941,Ambient camping sounds in freecodecamp website,OPEN,2024-08-26T13:43:51Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87EhAvS,61689,Clarify description to specify using function parameter with one minor edit,OPEN,2025-08-06T14:39:07Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87EhqaG,61692,:bug: Donation page is not working,CLOSED,2025-08-06T15:28:01Z,2025-08-06T19:45:01Z,ahmaxed,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87BCcYE,61375,Make labs descriptions uniform,OPEN,2025-07-17T08:27:15Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ETAvh,61671,House Painting - tests are too strict re: background-color,CLOSED,2025-08-05T14:19:47Z,2025-08-06T13:26:04Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X862yZmg,60381,Change Odin project challenge type,OPEN,2025-05-15T15:32:28Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87EDMCZ,61660,[feat] curriculum ui structure for reviews and exams,OPEN,2025-08-04T12:09:14Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87EYBDX,61678,"Minor edit to remove a duplicate ""or""",CLOSED,2025-08-05T22:41:24Z,2025-08-06T11:59:49Z,sinha21Soumya,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87EY-xF,61680,Bugs in Basic HTML workshop,CLOSED,2025-08-06T01:31:19Z,2025-08-06T02:46:13Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EPV2V,61668,Correct title of Tailwind workshop,CLOSED,2025-08-05T09:39:42Z,2025-08-05T20:14:01Z,ZunedKhan07,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87DGFDk,61565,edit profile not available,CLOSED,2025-07-29T10:50:18Z,2025-07-29T15:04:32Z,ShaunSHamilton;ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87D2JVd,61648,Feature request: Listen to the audio button for A2 “Review of the entire dialogue” task,OPEN,2025-08-02T08:44:13Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ETAvh,61671,House Painting - tests are too strict re: background-color,OPEN,2025-08-05T14:19:47Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87D7Xxd,61654,Possible AI Applications for Our Platform,OPEN,2025-08-03T12:12:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87D85hn,61658,"Learn Determiners and Advanced Use of Articles - Dialogue 1 - ""with them"" vs ""within the""",CLOSED,2025-08-03T20:41:50Z,2025-08-05T13:55:10Z,DanielRosa74,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866p8DT,60797,Certain explanations are wrapped in backticks,CLOSED,2025-06-09T21:41:17Z,2025-08-05T12:16:36Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861DFku,60142,"Add Search Suggestions for Articles, Tutorials, and Books",OPEN,2025-05-03T16:06:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868sbHR,60975,Form submission in preview don't give any feedback,OPEN,2025-06-22T08:15:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868SO2n,60931,[Profile Card workshop] Step 4 not checking the return statement,OPEN,2025-06-19T04:37:16Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862yZmg,60381,Change Odin project challenge type,OPEN,2025-05-15T15:32:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866nJm7,60795,Add warning when user attempts to close browser tab with unsaved privacy settings,CLOSED,2025-06-09T16:39:25Z,2025-08-05T08:44:24Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862GU2j,60280,"Navigation returns to wrong course section in the ""Learn the Box Model"" section path",OPEN,2025-05-11T17:24:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866HVFV,60731,Tic-tac-toe lab - not checked diagonal win conditions,OPEN,2025-06-05T20:00:07Z,,,freeCodeCamp,freeCodeCamp
@@ -23,12 +36,8 @@ I_kwDOAbI7X86yPbfq,59685,[audit needed] order of tests in workshops and labs mat
 I_kwDOAbI7X86prkTf,58725,Python output is cut off,CLOSED,2025-02-11T23:19:42Z,2025-08-04T19:16:49Z,tanmaygautam11,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_mcuV,61263,Missing value attributes in radio buttons for registration form workshop,CLOSED,2025-07-09T05:18:56Z,2025-08-04T19:01:07Z,cpu-pixel,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-trTH,61200,avatars don't load in Forum Leaderboard lab,CLOSED,2025-07-03T14:42:55Z,2025-08-04T18:50:19Z,a2937,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87EDMCZ,61660,[feat] curriculum ui structure for reviews and exams,OPEN,2025-08-04T12:09:14Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86xBwHS,59575,[discussion] exam ux,CLOSED,2025-04-03T15:44:09Z,2025-08-04T11:25:57Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87D7Lk6,61652,Wrong header-name used in the 'Questions' section of a lecture,OPEN,2025-08-03T10:58:57Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87D7MCP,61653,Clarification Needed in Lecture on Abbreviations and Acronyms in HTML,OPEN,2025-08-03T11:01:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865pl-V,60690,new lines cause failures in tests checking element content,OPEN,2025-06-03T16:37:46Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87D6CJV,61650,consider adding test for `contacts` in profile lookup lab,OPEN,2025-08-03T06:48:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87DxX3D,61645,"Step 33: Tests to pass are too strict, demanding there be no whitespace",OPEN,2025-08-01T16:34:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87DucSA,61643,Add outline to review page,OPEN,2025-08-01T12:18:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Bc2VW,61411,lab-permutation-generator could use more clarification,OPEN,2025-07-19T19:02:25Z,,,freeCodeCamp,freeCodeCamp
@@ -37,7 +46,6 @@ I_kwDOAbI7X87C8VtU,61494,Remove videos for lectures,CLOSED,2025-07-28T16:32:28Z,
 I_kwDOAbI7X87DtHNN,61639,"Step 27, tests you must pass are not specified in the instructions",OPEN,2025-08-01T10:19:01Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865WfJn,60660,Add test to ensure block name in `meta.json` and in `intro.json` match,OPEN,2025-06-02T11:01:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8g9D,61499,"Remove videos from working with forms, working with tables, HTML tools lecture blocks",CLOSED,2025-07-28T16:47:29Z,2025-08-01T10:00:45Z,alexgoldsmith;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Drg_P,61635,Test not working in step 24 workshop-hotel-feedback-form,OPEN,2025-08-01T07:57:52Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87DlDiG,61629,Remove extraneous backtick at the end of hint text,CLOSED,2025-07-31T17:37:39Z,2025-08-01T07:57:49Z,Trev Abbott,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C9E5N,61519,Remove videos from working with strings and common string methods lecture blocks,CLOSED,2025-07-28T17:36:01Z,2025-08-01T00:40:50Z,hbar1st,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87DlUOe,61631,Add Type Annotations and Modern Python Typing,CLOSED,2025-07-31T18:07:14Z,2025-07-31T19:10:11Z,,freeCodeCamp,freeCodeCamp
@@ -108,7 +116,6 @@ I_kwDOAbI7X87C8Y8k,61495,Remove videos from Understanding HTML Attributes lectur
 I_kwDOAbI7X87C1GHu,61491,Please give us a language toggle,CLOSED,2025-07-28T08:17:04Z,2025-07-28T11:36:19Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Cp1jp,61477,remove duplicate title from What Role Does HTML Play on the Web? lecture,CLOSED,2025-07-26T14:30:48Z,2025-07-27T09:27:20Z,Yuktha-Bodepudi,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Cr0vJ,61485,Add always-visible progress bar on the workshop page.,CLOSED,2025-07-26T23:17:38Z,2025-07-26T23:18:28Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87CrusO,61484,Clarify that the replace() method returns a new string,OPEN,2025-07-26T23:00:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867b4ZW,60860,Declaring multiple variables in a single line fails - Build an fCC Authors Page (step 7),CLOSED,2025-06-13T20:08:12Z,2025-07-26T10:13:00Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87CkxHg,61472,[lab-blog-post-card]: Instruction to link CSS file in HTML head,CLOSED,2025-07-25T21:21:28Z,2025-07-26T10:05:31Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86skN31,59129,Markdown to HTML Converter - JavaScript,OPEN,2025-03-04T19:05:22Z,,,freeCodeCamp,freeCodeCamp
@@ -143,7 +150,6 @@ I_kwDOAbI7X87BGKrK,61385,Suggestion: Improve instructions in Basic HTML challeng
 I_kwDOAbI7X87BNfs4,61395,Missing video lecture on HTML lesson page,CLOSED,2025-07-18T01:40:23Z,2025-07-18T05:55:09Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BDM6V,61380,chore: update step 78 workshop magazine to use specific asserts,CLOSED,2025-07-17T09:29:23Z,2025-07-18T00:09:50Z,linkwithjoydeep,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-yPYO,61203,Full Stack HTML Accessibility curriculum: tabindex clarification,CLOSED,2025-07-03T22:54:46Z,2025-07-17T21:34:04Z,tanmaygautam11,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87BCcYE,61375,Make labs descriptions uniform,OPEN,2025-07-17T08:27:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-okqZ,61195,Need explanation for forward slash in void elements,CLOSED,2025-07-03T07:11:25Z,2025-07-17T21:08:44Z,alexgoldsmith,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87A-nNN,61372,Two valid answers in the CSS Grid Quiz with one minor lab edit,CLOSED,2025-07-16T23:37:36Z,2025-07-17T20:29:00Z,garyeung,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BDK6V,61379,"chore: update asserts in workshop magazine steps 76-77,79",CLOSED,2025-07-17T09:27:14Z,2025-07-17T18:56:50Z,dragon-slayer27,freeCodeCamp,freeCodeCamp
@@ -564,9 +570,3 @@ I_kwDOAbI7X861YClG,60189,build a calculator can be hardcoded,CLOSED,2025-05-06T1
 I_kwDOAbI7X861hR-i,60211,test,CLOSED,2025-05-07T09:49:03Z,2025-05-07T09:53:20Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861e9Dq,60203,Clarify order of operations in add-items-to-an-array-with-push-and-unshift.md description,CLOSED,2025-05-07T06:03:26Z,2025-05-07T08:45:33Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861e56d,60202,Fix typo in add-items-to-an-array-with-push-and-unshift.md description,CLOSED,2025-05-07T05:56:44Z,2025-05-07T06:02:30Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861WIbz,60184,build a calculator test too restrictive,CLOSED,2025-05-06T11:14:38Z,2025-05-06T21:51:39Z,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861cUE_,60201,Update react fundamentals and chapter review pages for import/export udpates,OPEN,2025-05-06T21:48:42Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861UOIc,60182,update cat painting workshop to use specific assert methods step 40-41,CLOSED,2025-05-06T08:29:02Z,2025-05-06T17:24:41Z,Sky-walkerX,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861Mk-K,60161,update cat painting workshop to use specific assert methods step 36-37,CLOSED,2025-05-05T15:03:21Z,2025-05-06T08:47:32Z,ArakhshQ,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861UGwZ,60180,Handle log statements in redirection.ts,OPEN,2025-05-06T08:17:32Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861OmLg,60169,No Content - Styling Forms Review,CLOSED,2025-05-05T18:43:20Z,2025-05-06T05:01:38Z,,freeCodeCamp,freeCodeCamp
