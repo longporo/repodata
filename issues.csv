@@ -1,23 +1,35 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87EnBMr,61701,Add a code example for svg lecture,OPEN,2025-08-07T01:24:58Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87CP9uc,61453,Bug in Project Euler Problem 89 Solution: Non-Minimal Roman Numeral Output,OPEN,2025-07-24T08:15:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87EmTJk,61699,Update attribute lecture script to cover concepts in related lab,OPEN,2025-08-06T23:26:20Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Equ1p,61705,make output explitic in projectile trajectory step 14,OPEN,2025-08-07T08:28:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87CrusO,61484,Clarify that the replace() method returns a new string,OPEN,2025-07-26T23:00:15Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ErDs0,61707,adjust description for Debug a Random Background Color Changer,CLOSED,2025-08-07T08:52:22Z,2025-08-07T18:07:39Z,Shekhar0109,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Ew0rY,61727,Minor typos in JavaScript arrays review and quiz,OPEN,2025-08-07T16:20:13Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87D7Xxd,61654,Possible AI Applications for Our Platform,OPEN,2025-08-03T12:12:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87EwZf8,61723,"Quiz Answer likely error in 'What Are Conditional Statements, and How Do If/Else If/Else Statements Work?'",OPEN,2025-08-07T15:42:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87EruLQ,61712,rewrite description of Budget App,OPEN,2025-08-07T09:47:32Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87EnnCr,61702,Add Images/Demos in CSS/HTML lectures to supplement the examples code,OPEN,2025-08-07T03:01:24Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87B6g5a,61438,build-a-sorting-visualizer lab asks for bubble sort but does too many steps in sample app,CLOSED,2025-07-22T16:31:37Z,2025-08-07T15:07:32Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87D7MCP,61653,Clarification Needed in Lecture on Abbreviations and Acronyms in HTML,OPEN,2025-08-03T11:01:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87EudYE,61717,Add an Audio Feature to Lecture Articles,OPEN,2025-08-07T13:24:38Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87D7Lk6,61652,Wrong header-name used in the 'Questions' section of a lecture,CLOSED,2025-08-03T10:58:57Z,2025-08-07T12:34:13Z,sinha21Soumya,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ErBDa,61706,Adjust Build a Weather App lab introduction,OPEN,2025-08-07T08:49:44Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87BJKzR,61390,HTML multi-case tag name support?,OPEN,2025-07-17T17:44:59Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86Ac53t,53894,Machine Learning with Python Certification Projects not validate Solution Links (not run tests),CLOSED,2024-02-26T20:27:08Z,2024-06-25T08:12:29Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87BCcYE,61375,Make labs descriptions uniform,OPEN,2025-07-17T08:27:15Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X862yZmg,60381,Change Odin project challenge type,CLOSED,2025-05-15T15:32:28Z,2025-08-07T08:10:23Z,Supravisor,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87EnBMr,61701,Add a code example for svg lecture,OPEN,2025-08-07T01:24:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Drg_P,61635,Test not working in step 24 workshop-hotel-feedback-form,OPEN,2025-08-01T07:57:52Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87D6CJV,61650,consider adding test for `contacts` in profile lookup lab,OPEN,2025-08-03T06:48:04Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87D7Lk6,61652,Wrong header-name used in the 'Questions' section of a lecture,OPEN,2025-08-03T10:58:57Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87D7MCP,61653,Clarification Needed in Lecture on Abbreviations and Acronyms in HTML,OPEN,2025-08-03T11:01:23Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87EmTJk,61699,Add new attribute lecture script to cover concepts in related lab,OPEN,2025-08-06T23:26:20Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87D7Xxd,61654,Possible AI Applications for Our Platform,OPEN,2025-08-03T12:12:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EiR0H,61694,add missing `**Objective:**` to lab descriptions,OPEN,2025-08-06T16:25:26Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86UO0yN,55941,Ambient camping sounds in freecodecamp website,OPEN,2024-08-26T13:43:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EhAvS,61689,Clarify description to specify using function parameter with one minor edit,OPEN,2025-08-06T14:39:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EhqaG,61692,:bug: Donation page is not working,CLOSED,2025-08-06T15:28:01Z,2025-08-06T19:45:01Z,ahmaxed,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87BCcYE,61375,Make labs descriptions uniform,OPEN,2025-07-17T08:27:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ETAvh,61671,House Painting - tests are too strict re: background-color,CLOSED,2025-08-05T14:19:47Z,2025-08-06T13:26:04Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862yZmg,60381,Change Odin project challenge type,OPEN,2025-05-15T15:32:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EDMCZ,61660,[feat] curriculum ui structure for reviews and exams,OPEN,2025-08-04T12:09:14Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EYBDX,61678,"Minor edit to remove a duplicate ""or""",CLOSED,2025-08-05T22:41:24Z,2025-08-06T11:59:49Z,sinha21Soumya,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EY-xF,61680,Bugs in Basic HTML workshop,CLOSED,2025-08-06T01:31:19Z,2025-08-06T02:46:13Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87EPV2V,61668,Correct title of Tailwind workshop,CLOSED,2025-08-05T09:39:42Z,2025-08-05T20:14:01Z,ZunedKhan07,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87EPV2V,61668,Correct title of Tailwind workshop,CLOSED,2025-08-05T09:39:42Z,2025-08-05T20:14:01Z,Zuned khan,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87DGFDk,61565,edit profile not available,CLOSED,2025-07-29T10:50:18Z,2025-07-29T15:04:32Z,ShaunSHamilton;ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87D2JVd,61648,Feature request: Listen to the audio button for A2 “Review of the entire dialogue” task,OPEN,2025-08-02T08:44:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87D85hn,61658,"Learn Determiners and Advanced Use of Articles - Dialogue 1 - ""with them"" vs ""within the""",CLOSED,2025-08-03T20:41:50Z,2025-08-05T13:55:10Z,DanielRosa74,freeCodeCamp,freeCodeCamp
@@ -129,12 +141,10 @@ I_kwDOAbI7X86-ESxM,61160,controlled inputs mentioned too early in React workshop
 I_kwDOAbI7X86Sm5Ov,55821,platformer game (js beta) step 84 and step 88 (and step 89) check is too strict,CLOSED,2024-08-11T16:40:16Z,2025-07-25T00:37:29Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86ys5rt,59751,Add set 2 of questions for CSS Flexbox quiz,CLOSED,2025-04-16T02:01:28Z,2025-07-24T22:06:22Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87CVTMW,61457,generate password is failing for missing semicolon,CLOSED,2025-07-24T15:43:37Z,2025-07-24T20:37:03Z,alexgoldsmith,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87CP9uc,61453,Bug in Project Euler Problem 89 Solution: Non-Minimal Roman Numeral Output,OPEN,2025-07-24T08:15:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-EcAJ,61161,real time counter test wording about 50 character limitation is fuzzy,CLOSED,2025-06-30T15:04:06Z,2025-07-24T01:53:44Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87B2Cki,61435,"Add support for GitLab, Gitea, and Codeberg profile links in freeCodeCamp user profiles",CLOSED,2025-07-22T10:47:40Z,2025-07-23T18:25:02Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87B-3AN,61444,Problem in the Project,CLOSED,2025-07-23T01:02:40Z,2025-07-23T01:12:40Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Bcbap,61409,Keyword ‘assert’ is deprecated and keyword ‘with’ is the current standard.,CLOSED,2025-07-19T17:01:53Z,2025-07-23T13:36:45Z,dragon-slayer27,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87B6g5a,61438,build-a-sorting-visualizer lab asks for bubble sort but does too many steps in sample app,OPEN,2025-07-22T16:31:37Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Bd9ur,61414,lab-football-team-cards should warn of css use to hide/show cards,CLOSED,2025-07-20T02:14:36Z,2025-07-23T03:47:13Z,dragon-slayer27,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Bc0Wj,61410,workshop-calculator step 4 too restrictive: requires explicit return in answer,CLOSED,2025-07-19T18:52:24Z,2025-07-23T01:30:58Z,alexgoldsmith,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_IYPB,61230,Library Manager - Step 14,OPEN,2025-07-06T14:57:00Z,,,freeCodeCamp,freeCodeCamp
@@ -153,7 +163,6 @@ I_kwDOAbI7X86-yPYO,61203,Full Stack HTML Accessibility curriculum: tabindex clar
 I_kwDOAbI7X86-okqZ,61195,Need explanation for forward slash in void elements,CLOSED,2025-07-03T07:11:25Z,2025-07-17T21:08:44Z,alexgoldsmith,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87A-nNN,61372,Two valid answers in the CSS Grid Quiz with one minor lab edit,CLOSED,2025-07-16T23:37:36Z,2025-07-17T20:29:00Z,garyeung,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BDK6V,61379,"chore: update asserts in workshop magazine steps 76-77,79",CLOSED,2025-07-17T09:27:14Z,2025-07-17T18:56:50Z,dragon-slayer27,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87BJKzR,61390,HTML multi-case tag name support?,OPEN,2025-07-17T17:44:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867heXg,60874,backend test runner does not set origin on fetch,OPEN,2025-06-14T12:41:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86IR6nC,54713,Multifile editor - visual indication which editor is for which file,CLOSED,2024-05-08T20:32:52Z,2025-07-16T16:24:48Z,Arif-Khalid,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-dA1L,61181,hint not precise enough in greeting bot workshop,OPEN,2025-07-02T09:41:33Z,,,freeCodeCamp,freeCodeCamp
@@ -561,12 +570,3 @@ I_kwDOAbI7X861gEei,60207,Update test of Cat Photo App Step 17 to trim whitespace
 I_kwDOAbI7X86zpW8_,59923,No indication of the tests running,CLOSED,2025-04-23T13:10:20Z,2025-05-08T09:49:09Z,a2937,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861mfDo,60216,A missing sign in the cource,CLOSED,2025-05-07T17:58:25Z,2025-05-08T08:47:31Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86z5zAK,59974,update cafe menu tests to use specific asserts steps 66-78,CLOSED,2025-04-24T19:36:16Z,2025-05-08T07:50:57Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861mhWY,60217,Remove sentence in transcript for HTML boilerplate lecture,CLOSED,2025-05-07T18:02:25Z,2025-05-07T23:17:59Z,anuplohar001,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861g79u,60209,update cat painting workshop to use specific assert methods step 33,CLOSED,2025-05-07T09:18:37Z,2025-05-07T20:33:13Z,Sir-En00n3,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861h4MW,60213,Typo in English challenge,CLOSED,2025-05-07T10:50:59Z,2025-05-07T19:22:37Z,anuplohar001,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ys67W,59752,Add set 2 of questions for CSS Typography Quiz,CLOSED,2025-04-16T02:03:57Z,2025-05-07T19:11:45Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ys4Sz,59750,Add set 2 of questions for CSS layout and effects quiz,CLOSED,2025-04-16T01:58:57Z,2025-05-07T18:59:38Z,Supravisor;jdwilkin4,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861YClG,60189,build a calculator can be hardcoded,CLOSED,2025-05-06T14:07:47Z,2025-05-07T14:54:24Z,Averand1,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861hR-i,60211,test,CLOSED,2025-05-07T09:49:03Z,2025-05-07T09:53:20Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861e9Dq,60203,Clarify order of operations in add-items-to-an-array-with-push-and-unshift.md description,CLOSED,2025-05-07T06:03:26Z,2025-05-07T08:45:33Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861e56d,60202,Fix typo in add-items-to-an-array-with-push-and-unshift.md description,CLOSED,2025-05-07T05:56:44Z,2025-05-07T06:02:30Z,,freeCodeCamp,freeCodeCamp
