@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+b83c747ccd363e6a9bf24039c2c05a0577ee52cd,fix(curriculum): Explain Controlled Inputs in Fruit Search App (#61266),2025-08-08T22:38:14Z,1,17,Giftea,freeCodeCamp,freeCodeCamp
+7217d60f5c028c4874760cec346e799d0e89af17,feat: add html entities lab to full stack curriculum (#61716),2025-08-08T19:22:36Z,5,139,ilenia-magoni,freeCodeCamp,freeCodeCamp
+03bbdbe584339308e6a12d33e774914dd2f8050e,feat(curriculum): Add A1 Chinese Outline (#61655),2025-08-08T19:12:33Z,17,168,miyaliu666,freeCodeCamp,freeCodeCamp
+06561edaeb026c020bdc4fa4a538d71a2ef14903,chore(deps): update curriculum helpers (#61749),2025-08-08T18:07:14Z,2,24,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+0a1fe0cb7c676ee62e5322d4307a54704a6f2a6d,fix(curriculum): add missing 'Objective:' to lab descriptions (#61697),2025-08-08T10:39:22Z,60,122,StuartMosquera,freeCodeCamp,freeCodeCamp
+c27fd68ceb6afb6029b1d9a6f5e3ba877fe587e1,test: /donate page for signed out users (#61738),2025-08-08T09:20:25Z,1,171,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+9d441440ac7ca8babab6923546853c604f7df1fb,Fix(curriculum): Moved API above Objective line and added short intro…,2025-08-08T07:30:29Z,1,4,stimmer860,freeCodeCamp,freeCodeCamp
 11e82cbd1c6c47a4033a6e90ac245d3c907cdb76,fix: update lab description format for Random Background Color Change…,2025-08-07T18:07:38Z,1,2,Shekhar0109,freeCodeCamp,freeCodeCamp
 2f1f08d45c85d34d3114ed7b944d6f8c9f2d60c5,feat(.github): enable daily challenges (for real this time) (#61665),2025-08-07T13:22:36Z,1,1,moT01,freeCodeCamp,freeCodeCamp
 1ea5b8fe52d19f70d4d241c93b947ef03319942b,fix(curriculum): fix incorrect header (#61709),2025-08-07T12:34:12Z,1,2,sinha21Soumya,freeCodeCamp,freeCodeCamp
@@ -662,10 +669,3 @@ faa6dd7db86d466e850439e71f0af5bb7598ec91,fix(curriculum): correct typo in Todo A
 6fc87117118f6f6651c7c70e9a256ee7100be711,fix(curriculum): use assert.equal in cat painting workshop (#60242),2025-05-09T06:28:36Z,2,14,tanush29,freeCodeCamp,freeCodeCamp
 0dfda08a35f1b3554e2ed2f998767a229111123a,fix(curriculum): add test for href attribute in cat photo app (#60176),2025-05-09T05:54:58Z,1,15,Supravisor,freeCodeCamp,freeCodeCamp
 33cd29513e0c0fa5e3101f903e5fff4833733a37,chore(curriculum):remove stray forumTopicId from lab (#60240),2025-05-09T03:52:30Z,1,1,waleCloud,freeCodeCamp,freeCodeCamp
-64f566e6931d406417f6e1819b607f2423eda0d3,fix(curriculum): blank indicators in English challenges (#60236),2025-05-08T19:48:17Z,3,6,huyenltnguyen,freeCodeCamp,freeCodeCamp
-43754128c2e10c9bb3a72c0d68dcc12b94d86612,feat(curriculum): adding python loops and sequences quiz questions (#…,2025-05-08T16:41:31Z,1,283,jdwilkin4,freeCodeCamp,freeCodeCamp
-d08fe7c653475a751402f1f4a28ac78a7a08383b,fix(curriculum): remove pseudo class from business card lab (#60171),2025-05-08T15:55:36Z,1,16,Supravisor,freeCodeCamp,freeCodeCamp
-074e310b8269720219753d59042a6d46ef6bd022,fix(curriculum): add trim to remove whitespaces in url (#60226),2025-05-08T10:26:41Z,1,2,Ajay-2005,freeCodeCamp,freeCodeCamp
-a169c2a7b1639b79603b174d9b287f0075e789eb,chore(api): remove oldschema.prisma (#60227),2025-05-08T09:57:47Z,1,1101,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-a73ecf2aead8b1e882f759e743675d07b6cb3f62,feat(ui): test indicator icon (#60049),2025-05-08T09:49:08Z,3,71,a2937,freeCodeCamp,freeCodeCamp
-27018424868788166a245b7b4e228c41b70a9c0c,fix(curriculum): use specific assert methods in workshop cafe menu st…,2025-05-08T07:50:56Z,9,49,clarencepenz,freeCodeCamp,freeCodeCamp
