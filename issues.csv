@@ -1,22 +1,32 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87E_-XX,61751,Update array methods lecture to talk about the distinction between primitive values and object/array values,OPEN,2025-08-08T20:10:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87EwZf8,61723,"Quiz Answer likely error in 'What Are Conditional Statements, and How Do If/Else If/Else Statements Work?'",OPEN,2025-08-07T15:42:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Ew0rY,61727,Minor typos in JavaScript arrays review and quiz,OPEN,2025-08-07T16:20:13Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87EruLQ,61712,rewrite description of Budget App,OPEN,2025-08-07T09:47:32Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87EwZf8,61723,"Quiz Answer likely error in 'What Are Conditional Statements, and How Do If/Else If/Else Statements Work?'",CLOSED,2025-08-07T15:42:35Z,2025-08-09T17:53:12Z,doylese,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X85_ax_K,53754,Update code example for ternary operator in step 146 of RPG project,CLOSED,2024-02-16T01:39:47Z,2024-02-16T20:57:22Z,GiuseppeSoriano,freeCodeCamp,freeCodeCamp
+MDU6SXNzdWUyOTI2NTQyOTQ=,16604,[BETA] Install and Set Up Mongoose: typo in the test script,CLOSED,2018-01-30T05:04:55Z,2018-01-30T16:50:49Z,jurajmajerik,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86NF-YE,55275,Various typos,CLOSED,2024-06-21T19:46:41Z,2024-06-24T04:12:49Z,sidharthaA,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87CrusO,61484,Clarify that the replace() method returns a new string,OPEN,2025-07-26T23:00:15Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87FE4ha,61764,How Do Assertions Work in Unit Testing? definition wording,OPEN,2025-08-09T13:57:41Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87CP9uc,61453,Bug in Project Euler Problem 89 Solution: Non-Minimal Roman Numeral Output,OPEN,2025-07-24T08:15:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87DtHNN,61639,"Step 27, tests you must pass are not specified in the instructions",CLOSED,2025-08-01T10:19:01Z,2025-08-09T11:08:04Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87DxX3D,61645,"Step 33: Tests to pass are too strict, demanding there be no whitespace",CLOSED,2025-08-01T16:34:29Z,2025-08-09T10:10:11Z,StuartMosquera,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87FDNOG,61761,Add Simple Trading Card Battle Game as an Interactive Learning Tool,OPEN,2025-08-09T05:52:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87FBVNT,61755,suggestion to add a lecture to teach how to use vs code along-side html/css/js lectures,OPEN,2025-08-09T00:00:44Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87FAQjf,61752,Improving slug warning in auditSlugs output,CLOSED,2025-08-08T20:47:40Z,2025-08-09T09:11:30Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87EhAvS,61689,Clarify description to specify using function parameter with one minor edit,CLOSED,2025-08-06T14:39:07Z,2025-08-09T07:51:52Z,Tiffany Grevious,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87FCNLH,61759,Draft Issue: Please provide additional details,CLOSED,2025-08-09T03:20:01Z,2025-08-09T03:20:25Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86-dA1L,61181,hint not precise enough in greeting bot workshop,OPEN,2025-07-02T09:41:33Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87E_-XX,61751,Update array methods lecture to talk about the distinction between primitive values and object/array values,OPEN,2025-08-08T20:10:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86qYC-1,58844,Updating UI for individual lecture block pages,CLOSED,2025-02-17T17:19:45Z,2025-08-08T23:56:15Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Bc2VW,61411,lab-permutation-generator could use more clarification,OPEN,2025-07-19T19:02:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-ESxM,61160,controlled inputs mentioned too early in React workshop-fruit-search-app,CLOSED,2025-06-30T14:54:08Z,2025-08-08T22:38:16Z,Giftea;Sembauke,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86-dA1L,61181,hint not precise enough in greeting bot workshop,OPEN,2025-07-02T09:41:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869fZY2,61090,mounting and unmounting not introduced in React lecture,OPEN,2025-06-26T13:22:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869Iel-,61047,"React lecture group ""Working With Data In React"" missing some core concepts",OPEN,2025-06-24T19:54:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863pUiQ,60472,Shopping Cart workshop — better with a Dessert class?,OPEN,2025-05-21T18:17:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863ocO_,60469,Todo App using Local Storage — formInputValuesUpdated,OPEN,2025-05-21T16:36:14Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864sJtn,60577,greeting bot teaches declaration then assignment,OPEN,2025-05-28T21:16:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863diul,60458,House Painting - Change the way the relative element positions are calculated,OPEN,2025-05-20T19:05:14Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87EhAvS,61689,Clarify description to specify using function parameter with one minor edit,OPEN,2025-08-06T14:39:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BJKzR,61390,HTML multi-case tag name support?,OPEN,2025-07-17T17:44:59Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87FAQjf,61752,Improving slug warning in auditSlugs output,OPEN,2025-08-08T20:47:40Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87DtHNN,61639,"Step 27, tests you must pass are not specified in the instructions",OPEN,2025-08-01T10:19:01Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Ew0rY,61727,Minor typos in JavaScript arrays review and quiz,OPEN,2025-08-07T16:20:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86qG_r-,58807,Navbar style breaks in high contrast mode due to transparency/white background,OPEN,2025-02-14T15:09:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868sbHR,60975,Form submission in preview don't give any feedback,CLOSED,2025-06-22T08:15:17Z,2025-08-08T18:07:16Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X851UZ9u,52174,Create a Minimal freeCodeCamp Discourse theme,OPEN,2023-10-30T12:50:25Z,,,freeCodeCamp,freeCodeCamp
@@ -26,16 +36,13 @@ I_kwDOAbI7X87D2JVd,61648,Feature request: Listen to the audio button for A2 “R
 I_kwDOAbI7X87EiR0H,61694,add missing `**Objective:**` to lab descriptions,CLOSED,2025-08-06T16:25:26Z,2025-08-08T10:39:24Z,Sembauke;StuartMosquera,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BK6ad,61393,Recipe Ingredient Converter workshop step 17 is not easy to debug,OPEN,2025-07-17T20:46:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87CWNup,61460,CSS Foundations Exercise E tests are too strict,CLOSED,2025-07-24T17:07:58Z,2025-08-08T08:07:13Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87CP9uc,61453,Bug in Project Euler Problem 89 Solution: Non-Minimal Roman Numeral Output,OPEN,2025-07-24T08:15:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87D6CJV,61650,consider adding test for `contacts` in profile lookup lab,OPEN,2025-08-03T06:48:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ErBDa,61706,Adjust Build a Weather App lab introduction,CLOSED,2025-08-07T08:49:44Z,2025-08-08T07:30:31Z,stimmer860,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EnnCr,61702,Add Images/Demos in CSS/HTML lectures to supplement the examples code,OPEN,2025-08-07T03:01:24Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EmTJk,61699,Update attribute lecture script to cover concepts in related lab,OPEN,2025-08-06T23:26:20Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Equ1p,61705,make output explitic in projectile trajectory step 14,OPEN,2025-08-07T08:28:28Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87CrusO,61484,Clarify that the replace() method returns a new string,OPEN,2025-07-26T23:00:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ErDs0,61707,adjust description for Debug a Random Background Color Changer,CLOSED,2025-08-07T08:52:22Z,2025-08-07T18:07:39Z,Shekhar0109,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87D7Xxd,61654,Possible AI Applications for Our Platform,OPEN,2025-08-03T12:12:35Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87EruLQ,61712,rewrite description of Budget App,OPEN,2025-08-07T09:47:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87B6g5a,61438,build-a-sorting-visualizer lab asks for bubble sort but does too many steps in sample app,CLOSED,2025-07-22T16:31:37Z,2025-08-07T15:07:32Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87D7MCP,61653,Clarification Needed in Lecture on Abbreviations and Acronyms in HTML,OPEN,2025-08-03T11:01:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EudYE,61717,Add an Audio Feature to Lecture Articles,OPEN,2025-08-07T13:24:38Z,,,freeCodeCamp,freeCodeCamp
@@ -70,7 +77,6 @@ I_kwDOAbI7X86_mcuV,61263,Missing value attributes in radio buttons for registrat
 I_kwDOAbI7X86-trTH,61200,avatars don't load in Forum Leaderboard lab,CLOSED,2025-07-03T14:42:55Z,2025-08-04T18:50:19Z,a2937,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86xBwHS,59575,[discussion] exam ux,CLOSED,2025-04-03T15:44:09Z,2025-08-04T11:25:57Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865pl-V,60690,new lines cause failures in tests checking element content,OPEN,2025-06-03T16:37:46Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87DxX3D,61645,"Step 33: Tests to pass are too strict, demanding there be no whitespace",OPEN,2025-08-01T16:34:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87DucSA,61643,Add outline to review page,OPEN,2025-08-01T12:18:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86hhhdL,57378,Remove `partiallyCompletedChallenges` and `savedChallenges` from /get-public-profile,OPEN,2024-12-01T21:39:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8VtU,61494,Remove videos for lectures,CLOSED,2025-07-28T16:32:28Z,2025-08-02T06:26:06Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -565,10 +571,3 @@ I_kwDOAbI7X86uLYKV,59290,Questionable behaviour when using the Tab key to naviga
 I_kwDOAbI7X860LvK9,60017,Step 59 Learn Regular Expressions by Building a Password Generator Scientific Computing with Python,CLOSED,2025-04-27T10:02:09Z,2025-05-10T22:08:56Z,Ajay-2005,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8614HTD,60245,update cat painting workshop to use specific assert methods step 42-43,CLOSED,2025-05-09T08:17:19Z,2025-05-10T09:40:50Z,rirocodes,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8613CAB,60243,Typo in English challenges,CLOSED,2025-05-09T06:33:41Z,2025-05-10T07:28:39Z,VisibleNasir,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860EgBm,60006,Update graphic in default browser styles lecture video,CLOSED,2025-04-25T21:42:40Z,2025-05-09T23:41:59Z,estefaniacn,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86139y_,60244,Typo in How to Improve the Perceived Performance of Features,CLOSED,2025-05-09T07:59:55Z,2025-05-09T18:42:00Z,meenakshi,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861qg61,60225,Missing explanation for `<source>` tag,CLOSED,2025-05-08T05:09:09Z,2025-05-09T16:29:45Z,ArakhshQ,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8615Lub,60248,"Typo in the ""How Do You Add Attributes with setAttribute()?"" lecture",CLOSED,2025-05-09T10:00:25Z,2025-05-09T16:22:39Z,vishnudt2004,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861MY3S,60160,update cat painting workshop to use specific assert methods step 34-35,CLOSED,2025-05-05T14:45:28Z,2025-05-09T06:28:38Z,tanush29,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861PTNH,60172,Cat Photo 17 passes without href,CLOSED,2025-05-05T19:58:47Z,2025-05-09T05:54:59Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861g5oD,60208,stray forumTopicId in lab,CLOSED,2025-05-07T09:15:30Z,2025-05-09T03:52:32Z,Wale Ayandiran (walecloud),freeCodeCamp,freeCodeCamp
