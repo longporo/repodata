@@ -1,4 +1,8 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+eff6a8c768c36a265c65275154ebecee6eaf071b,fix(curriculum): updated quiz conditional statements answer (#61753),2025-08-09T17:53:11Z,1,2,doylese,freeCodeCamp,freeCodeCamp
+906a21b2ada04a8d60696198e7e992e3dd8cf8e7,fix(curriculum): allow extra whitespace for regex in step 33 (#61673),2025-08-09T10:10:09Z,1,2,StuartMosquera,freeCodeCamp,freeCodeCamp
+b84dc47ecbf9c292aa8c77ad767eee737809b91a,fix(curriculum): specify using function parameter in description (#61…,2025-08-09T07:51:51Z,2,4,DevchamploO,freeCodeCamp,freeCodeCamp
+6451b572f24755da46b4909654decbf54628293e,feat(curriculum): add adjacency convertor lab (#61298),2025-08-09T05:45:33Z,5,249,zairahira,freeCodeCamp,freeCodeCamp
 b83c747ccd363e6a9bf24039c2c05a0577ee52cd,fix(curriculum): Explain Controlled Inputs in Fruit Search App (#61266),2025-08-08T22:38:14Z,1,17,Giftea,freeCodeCamp,freeCodeCamp
 7217d60f5c028c4874760cec346e799d0e89af17,feat: add html entities lab to full stack curriculum (#61716),2025-08-08T19:22:36Z,5,139,ilenia-magoni,freeCodeCamp,freeCodeCamp
 03bbdbe584339308e6a12d33e774914dd2f8050e,feat(curriculum): Add A1 Chinese Outline (#61655),2025-08-08T19:12:33Z,17,168,miyaliu666,freeCodeCamp,freeCodeCamp
@@ -661,11 +665,3 @@ faa6dd7db86d466e850439e71f0af5bb7598ec91,fix(curriculum): correct typo in Todo A
 7e966906dbae4a813839ca86697defa7b2171731,fix(curriculum): Update the description in python password generator …,2025-05-10T22:08:55Z,1,2,Ajay-2005,freeCodeCamp,freeCodeCamp
 222f0852dbf774058af95f172bf3f42c87e8ec8d,fix(curriculum): updated cat-painting-workshop steps 42-43 to specifi…,2025-05-10T09:40:49Z,2,10,rirocodes,freeCodeCamp,freeCodeCamp
 7144b0433348dc566e4782c2f0906516d4813610,fix(curriculum): correct 'asnwer' to 'answer' in English challenges (…,2025-05-10T07:28:38Z,2,4,VisibleNasir,freeCodeCamp,freeCodeCamp
-0a0eefb6f903383284a5ee0bbea7a5e0502eb8d9,fix(curriculum): update default browser styles lecture (#60260),2025-05-09T23:41:58Z,1,2,estefaniacn,freeCodeCamp,freeCodeCamp
-070f9c70f5bbd424cf2e6118f2e892995ba719d8,fix(curriculum): correct grammar in feature description ('request it'…,2025-05-09T18:41:58Z,1,2,Meenakshi-Marree,freeCodeCamp,freeCodeCamp
-01722e62a75197509824d829e4b2c61ece12b6b3,chore(curriculum): Update user stories and description for the multim…,2025-05-09T16:29:44Z,1,25,ArakhshQ,freeCodeCamp,freeCodeCamp
-053a6072d4781061261ef57f728d7cad28645238,"fix(curriculum): correct grammar in transcript (""you"" → ""you're"") (#6…",2025-05-09T16:22:38Z,1,2,vishnudt2004,freeCodeCamp,freeCodeCamp
-7ffadd053070a853863cdcb63a4a6c56cfaa1114,feat(curriculum): add polygon area calculator lab (#59460),2025-05-09T12:37:44Z,5,908,zairahira,freeCodeCamp,freeCodeCamp
-6fc87117118f6f6651c7c70e9a256ee7100be711,fix(curriculum): use assert.equal in cat painting workshop (#60242),2025-05-09T06:28:36Z,2,14,tanush29,freeCodeCamp,freeCodeCamp
-0dfda08a35f1b3554e2ed2f998767a229111123a,fix(curriculum): add test for href attribute in cat photo app (#60176),2025-05-09T05:54:58Z,1,15,Supravisor,freeCodeCamp,freeCodeCamp
-33cd29513e0c0fa5e3101f903e5fff4833733a37,chore(curriculum):remove stray forumTopicId from lab (#60240),2025-05-09T03:52:30Z,1,1,waleCloud,freeCodeCamp,freeCodeCamp
