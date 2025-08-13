@@ -1,4 +1,13 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+72bc95fc51e5914381d38afe85696d235c466f09,fix(curriculum): removed later concepts from WAI-ARIA lecture (#61793),2025-08-12T22:21:27Z,1,67,Sydney205,freeCodeCamp,freeCodeCamp
+f6faac55aa951c2e404481de391e7511cb33b79e,fix(curriculum): make output explicit in projectile trajectory step 1…,2025-08-12T15:03:34Z,1,2,StuartMosquera,freeCodeCamp,freeCodeCamp
+95880bcb718d6eba2496e6cb4c0c7c9a175c551a,chore(curriculum): update attribute script to include more examples  …,2025-08-12T12:58:20Z,1,41,jdwilkin4,freeCodeCamp,freeCodeCamp
+7ea96f842747445d7968fa747cd598d9646991ef,fix(curriculum): modify unit testing definition wording (#61777),2025-08-12T12:41:31Z,1,2,kb42,freeCodeCamp,freeCodeCamp
+6adc98a42674754430267dc550affc9b4b737154,feat(api): add version to exam collections (#61644),2025-08-12T09:39:07Z,5,152,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+efd1f3bb2cdc67729a8453359ceb116f9e03bfbe,"chore(i18n,learn): update i18n-curriculum submodule (#61775)",2025-08-12T07:17:02Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+d325bc6d32716a8178c08343418a63c209bf720b,fix(curriculum): specify no argument for Merge Sort Algorithm (#61780),2025-08-12T07:16:33Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+7634b5c8a16c73eaae72c37380f929cd942d6668,refactor(client): daily challenges to use path params (#61776),2025-08-12T06:39:52Z,14,167,moT01,freeCodeCamp,freeCodeCamp
+8405f24a40951e4e175c3f8163ce1405e96e5a5f,chore(api): add collections related to exam creator (#61773),2025-08-12T06:36:39Z,1,43,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 fdcaff632c27b06d4194a79fd03eb5d8c4778cbe,fix(curriculum): fixed typo in JavaScript arrays review and quiz (#61…,2025-08-11T16:03:32Z,3,12,sinha21Soumya,freeCodeCamp,freeCodeCamp
 ec815cdd35f6725e3187702f1802b60c2beabad3,feat(curriculum): add working with common data structures lectures (#…,2025-08-11T12:30:36Z,7,1423,ilenia-magoni,freeCodeCamp,freeCodeCamp
 f4307c7d0f00c01c63c5f9a4e33ab9e28251007b,fix(curriculum): fixed typo in workshop medical  data validator step …,2025-08-11T11:13:24Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
@@ -652,17 +661,3 @@ eeeeb034ec4191b037ece419de8feae86416bacb,fix(api): deduplicating objects in logs
 75712748ddb105e2af8c4957fba1111bd4878fc4,feat: FOSS funding (#60313),2025-05-13T13:47:41Z,2,137,Nirajn2311,freeCodeCamp,freeCodeCamp
 fe3465bdd584f3b5f9bb2e7a42f87c1fe176e5ca,feat(curriculum): add hash table lab (#59545),2025-05-13T09:15:33Z,5,430,zairahira,freeCodeCamp,freeCodeCamp
 683c0c3fd667cf84dc61199ee81313903e48adf3,fix(curriculum): typo in workshop superhero application form step 19 …,2025-05-13T08:11:45Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-ce5d7b3467eaf0d185f031e90fd231300ef45da3,chore(curriculum): update assert methods cat painting workshop steps …,2025-05-12T19:12:53Z,2,18,Yogesh-Bhagwani,freeCodeCamp,freeCodeCamp
-d9afa547a8443dfe18af84db670709193f749b61,chore(.github): update docker-ghcr actions (#60301),2025-05-12T17:39:04Z,1,4,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-825c80475e43a0988da99aef60a3bfbe7b0f3fe9,"chore(i18n,learn): update i18n-curriculum submodule (#60302)",2025-05-12T15:54:20Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-f90854824640c20126996d9988f5dbdab29f6e70,feat(api): add endpoint for submitting daily coding challenges (#59465),2025-05-12T15:26:32Z,9,546,moT01,freeCodeCamp,freeCodeCamp
-40f89512a2804053a56a79642a229480e40f89e7,"chore(i18n,client): processed translations (#60296)",2025-05-12T14:14:29Z,10,120,camperbot,freeCodeCamp,freeCodeCamp
-7a424171d2b1733ce69f6400b1057b219d482dda,chore: update required pnpm version to >=10 (#60285),2025-05-12T13:27:18Z,19,293,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-7c4ebb4671321f88a234ba31efd37450229d5aed,chore(client): remove unused class names (#60295),2025-05-12T13:26:29Z,3,17,huyenltnguyen,freeCodeCamp,freeCodeCamp
-8bc84191a4f5b4ce2b7e5dd192cd2160ab7ae43c,fix(curriculum): use cdnjs instead of unpkg (#60286),2025-05-12T13:26:02Z,2,8,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-26b8ddf58311402c92cb69ca5866626b3e055551,refactor(curriculum): remove use of after-user-code (#60292),2025-05-12T12:45:38Z,1,35,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-4424194c7aeea2653213cc487968b1dc928f48a3,fix(curriculum): correct 'it's' to 'its' in RPS workshop step 12 (#60…,2025-05-12T09:59:33Z,1,2,Abdallah-scout,freeCodeCamp,freeCodeCamp
-d8685001102c6dc28752cf10fd8db8470f777b00,fix(curriculum): correct GitHub capitalization (#60271),2025-05-12T09:44:57Z,4,8,ChaseKnowlden,freeCodeCamp,freeCodeCamp
-cbd906453f6b5ef7385bab804e22f8a9f6cbc5cb,fix(curriculum): feedback in Describe Your Current Project task 31 (#…,2025-05-12T08:33:54Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-9528b31bae066a3100c111c49dcbac55796c03f1,fix(curriculum): use assert methods in Cat Painting step 44-45 (#60261),2025-05-12T08:14:01Z,2,14,YUVRAJSINGH3112,freeCodeCamp,freeCodeCamp
-faa6dd7db86d466e850439e71f0af5bb7598ec91,fix(curriculum): correct typo in Todo App Step 20 (#60277),2025-05-12T08:10:22Z,1,2,sakshiinayak,freeCodeCamp,freeCodeCamp
