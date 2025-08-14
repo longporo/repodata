@@ -1,21 +1,29 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87FYw2s,61781,"Remove later concepts from What Is the Purpose of WAI-ARIA, and How Does It Work?",CLOSED,2025-08-11T20:40:44Z,2025-08-12T22:21:28Z,Sydney205,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Fp30B,61795,"Group React imports into a single statement in ""Working with Forms in React"" lecture",OPEN,2025-08-12T22:02:34Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Fnw9z,61792,Build a Confidential Email Page tests 9 and 10 impossible to pass,OPEN,2025-08-12T19:14:38Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87F51Hx,61810,Build a Library Manager Step 11,OPEN,2025-08-14T00:25:22Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87F5ieQ,61809,Build a Library Manager step 4 space vs line,OPEN,2025-08-13T23:37:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87F4lfC,61806,What Is Compatibility Testing? RAM,OPEN,2025-08-13T21:25:58Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87F2WM7,61802,JavaScript Arrays Quiz error - keys() is an array method,OPEN,2025-08-13T18:01:59Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87F3KVd,61804,Step 51 JavaScript Algorithms and Data Structures- Building a Todo App,CLOSED,2025-08-13T19:22:05Z,2025-08-13T19:26:33Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87F3Eia,61803,Remove `showTranscriptTabs`,OPEN,2025-08-13T19:13:41Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87FuST0,61798,trivia bot does not accept already introduced method,OPEN,2025-08-13T07:30:07Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87D7MCP,61653,Clarification Needed in Lecture on Abbreviations and Acronyms in HTML,OPEN,2025-08-03T11:01:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Fp30B,61795,"Group React imports into a single statement in ""Working with Forms in React"" lecture",CLOSED,2025-08-12T22:02:34Z,2025-08-13T18:15:16Z,helfer1991,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87FnLpo,61791,A feature request for a lists of tags as which all articles are labelled,OPEN,2025-08-12T18:30:34Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87F0BnS,61800,[Problem] freeCodeCamp is loading slowly,OPEN,2025-08-13T14:42:15Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87D6CJV,61650,consider adding test for `contacts` in profile lookup lab,CLOSED,2025-08-03T06:48:04Z,2025-08-13T08:54:07Z,StuartMosquera,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Fnw9z,61792,Build a Confidential Email Page tests 9 and 10 impossible to pass,CLOSED,2025-08-12T19:14:38Z,2025-08-13T06:43:10Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87FYErQ,61779,[Suggestion] Include async/await workshop in FullStack Curriculum,OPEN,2025-08-11T19:39:11Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87FYw2s,61781,"Remove later concepts from What Is the Purpose of WAI-ARIA, and How Does It Work?",CLOSED,2025-08-11T20:40:44Z,2025-08-12T22:21:28Z,Sydney205,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87FmocU,61790,"To build an online banking website for Trust Finance Bank with the features you described, I’ll outline a comprehensive plan, including the technology stack, core features implementation, and design considerations. Since this is a complex project, I’ll break it down into key components, provide code snippets for critical functionalities, and suggest steps to achieve a modern, professional look similar to the provided reference (Mirox Finance Bank). I’ll also address security, user experience, and scalability considerations.",CLOSED,2025-08-12T17:45:15Z,2025-08-12T17:46:43Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BJKzR,61390,HTML multi-case tag name support?,OPEN,2025-07-17T17:44:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862uUGG,60368,issues with tests for Design a Business Card lab,OPEN,2025-05-15T09:34:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EudYE,61717,Add an Audio Feature to Lecture Articles,OPEN,2025-08-07T13:24:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Equ1p,61705,make output explitic in projectile trajectory step 14,CLOSED,2025-08-07T08:28:28Z,2025-08-12T15:03:35Z,StuartMosquera,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87D6CJV,61650,consider adding test for `contacts` in profile lookup lab,OPEN,2025-08-03T06:48:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_IYPB,61230,Library Manager - Step 14,OPEN,2025-07-06T14:57:00Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87D7MCP,61653,Clarification Needed in Lecture on Abbreviations and Acronyms in HTML,OPEN,2025-08-03T11:01:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87D7Xxd,61654,Possible AI Applications for Our Platform,CLOSED,2025-08-03T12:12:35Z,2025-08-11T12:33:54Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EmTJk,61699,Update attribute lecture script to cover concepts in related lab,CLOSED,2025-08-06T23:26:20Z,2025-08-12T12:58:21Z,huyenltnguyen;jdwilkin4,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87FE4ha,61764,How Do Assertions Work in Unit Testing? definition wording,CLOSED,2025-08-09T13:57:41Z,2025-08-12T12:41:33Z,kb42,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-EJoj,61159,Bug in Step 6 of Merge Sort Algorithm Challenge,CLOSED,2025-06-30T14:44:13Z,2025-08-12T07:16:34Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87FYErQ,61779,[Suggestion] Include async/await workshop in FullStack Curriculum,OPEN,2025-08-11T19:39:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EnnCr,61702,Add Images/Demos in CSS/HTML lectures to supplement the examples code,OPEN,2025-08-07T03:01:24Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87FBVNT,61755,suggestion to add a lecture to teach how to use vs code along-side html/css/js lectures,OPEN,2025-08-09T00:00:44Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Ew0rY,61727,Minor typos in JavaScript arrays review and quiz,CLOSED,2025-08-07T16:20:13Z,2025-08-11T16:03:34Z,sinha21Soumya,freeCodeCamp,freeCodeCamp
@@ -568,4 +576,3 @@ I_kwDOAbI7X86pcHCf,58683,[Python] - Build an Arithmetic Formatter Project,CLOSED
 I_kwDOAbI7X86yqVPT,59740,Customer Complaint Form - Should accept input event on textarea elements,CLOSED,2025-04-15T19:45:35Z,2025-05-14T13:47:01Z,ShauryaDusht,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861G4VS,60153,Test is to strict in event hub lab,CLOSED,2025-05-05T03:00:01Z,2025-05-14T09:07:20Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862M3vl,60297,fCC Forum Leaderboard - tests too restrictive for avatars img element,CLOSED,2025-05-12T12:38:06Z,2025-05-14T01:48:43Z,ilenia-magoni,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862a267,60321,freeze,CLOSED,2025-05-13T15:37:51Z,2025-05-13T16:37:41Z,,freeCodeCamp,freeCodeCamp
