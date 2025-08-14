@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+bd87711a2cb703f95a6f748b0d8d5810b83a4c4a,fix(curriculum): refactor import from lesson 25 of learning react - w…,2025-08-13T18:15:15Z,1,6,helfer1991,freeCodeCamp,freeCodeCamp
+824fc5943135c8333e1c6000df326e2b17123e76,"chore(i18n,learn): update i18n-curriculum submodule (#61801)",2025-08-13T15:59:24Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+db9b7d2358989d12998c1795d453de0196315610,chore(api): prevent non-staff exam authz token gen on staging (#61786),2025-08-13T15:33:14Z,5,94,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+59aa011b4844182914469db6bb051293229eb455,"chore(i18n,client): processed translations (#61772)",2025-08-13T10:54:24Z,20,380,camperbot,freeCodeCamp,freeCodeCamp
+6d7405f3a91ea841487ac204f844f236e1e7fbfc,fix(curriculum): correct grammatical and punctuation errors (#61799),2025-08-13T10:22:52Z,2,16,Firewooood,freeCodeCamp,freeCodeCamp
+56a2b1672cb0479c75644edefc77bdf75b9be862,fix(curriculum): add new test for 'contacts' in profile lookup lab (#…,2025-08-13T08:54:05Z,1,6,StuartMosquera,freeCodeCamp,freeCodeCamp
+bb41fb81da7c6910eff42a7061736310cce96425,fix(curriculum): add DS review page (#61771),2025-08-13T08:48:09Z,3,263,zairahira,freeCodeCamp,freeCodeCamp
 72bc95fc51e5914381d38afe85696d235c466f09,fix(curriculum): removed later concepts from WAI-ARIA lecture (#61793),2025-08-12T22:21:27Z,1,67,Sydney205,freeCodeCamp,freeCodeCamp
 f6faac55aa951c2e404481de391e7511cb33b79e,fix(curriculum): make output explicit in projectile trajectory step 1…,2025-08-12T15:03:34Z,1,2,StuartMosquera,freeCodeCamp,freeCodeCamp
 95880bcb718d6eba2496e6cb4c0c7c9a175c551a,chore(curriculum): update attribute script to include more examples  …,2025-08-12T12:58:20Z,1,41,jdwilkin4,freeCodeCamp,freeCodeCamp
@@ -655,9 +662,3 @@ f50fc7ca1d5380504d1f84ad0a7ca2ef17141a8d,"chore(i18n,client): processed translat
 c8d20d01063ab909be68b5df18749cc8f6f407b9,fix(curriculum): typos in workshop superhero application form (#60339),2025-05-14T13:08:20Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
 18cb51dffb3e3434ae0718909715ff7c0a293895,fix(curriculum): fix paragraph test for event hub lab (#60156),2025-05-14T09:07:18Z,1,7,Supravisor,freeCodeCamp,freeCodeCamp
 2d7011f5a3a06bcb3f5d7cf2b95c787685c71be0,fix(curriculum): feedback in Clarify Information step 73 (#60316),2025-05-14T08:02:38Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-cd94560ee554d25d063eba375dd18c4088c77130,fix(curriculum): allow both single and double quotes in fcc Forum Lea…,2025-05-14T01:48:41Z,1,12,ilenia-magoni,freeCodeCamp,freeCodeCamp
-9e61f27b94e0f9ad200495758d917cdfef710b95,feat(curriculum): add Block 18 of the B1 stage of the English Curricu…,2025-05-13T20:55:46Z,130,13337,DanielRosa74,freeCodeCamp,freeCodeCamp
-eeeeb034ec4191b037ece419de8feae86416bacb,fix(api): deduplicating objects in logs (#60319),2025-05-13T15:10:49Z,1,101,raisedadead,freeCodeCamp,freeCodeCamp
-75712748ddb105e2af8c4957fba1111bd4878fc4,feat: FOSS funding (#60313),2025-05-13T13:47:41Z,2,137,Nirajn2311,freeCodeCamp,freeCodeCamp
-fe3465bdd584f3b5f9bb2e7a42f87c1fe176e5ca,feat(curriculum): add hash table lab (#59545),2025-05-13T09:15:33Z,5,430,zairahira,freeCodeCamp,freeCodeCamp
-683c0c3fd667cf84dc61199ee81313903e48adf3,fix(curriculum): typo in workshop superhero application form step 19 …,2025-05-13T08:11:45Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
