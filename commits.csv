@@ -1,4 +1,13 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+91f87ea237a23f6c1eb8492cd4b5976fe3b458aa,chore(curriculum): remove backticks for platform name in Troubleshoot…,2025-08-14T12:18:26Z,2,8,Supravisor,freeCodeCamp,freeCodeCamp
+85fbe49501984c391461611f88f86b21183668a1,fix(curriculum): add SVG code example to lecture (#61703),2025-08-14T12:15:07Z,1,16,Hiruna-SP,freeCodeCamp,freeCodeCamp
+d72a6d2bbd3f471755ae9ef9ea626889a8019d21,chore: add redirects for common string methods (#61742),2025-08-14T11:54:05Z,1,28,ilenia-magoni,freeCodeCamp,freeCodeCamp
+d64b54912035f8dba1384ce0215de6242469492e,revert(#60948): Test adding transcript tabs to lectures (#61813),2025-08-14T11:42:03Z,4,106,huyenltnguyen,freeCodeCamp,freeCodeCamp
+9ebdd29205d4d44c8dbe1ad3d2db8f067d6db7a6,feat(challenge-parser): add validateSections plugin (#61148),2025-08-14T11:39:18Z,3,377,huyenltnguyen,freeCodeCamp,freeCodeCamp
+5d2adfa0583e9a2078cbd0a0eaa06e5e3756b277,chore: divide working with common string methods lecture in smaller b…,2025-08-14T11:30:05Z,18,186,ilenia-magoni,freeCodeCamp,freeCodeCamp
+29492cbfeae870706948691c8b62b3841f314c0b,fix(curriculum): minor improvements to aria-controls lecture (#61782),2025-08-14T11:28:40Z,1,6,huyenltnguyen,freeCodeCamp,freeCodeCamp
+76cd06471cc09c93784bf81541e67f3ee4d445d7,fix(curriculum): question wording in Computer Basics quiz (#61811),2025-08-14T10:16:29Z,1,2,rtajt,freeCodeCamp,freeCodeCamp
+58b615ef2f09e6e76620d566851631d1cf20aec3,"fix(curriculum): replaced incorrect quiz option ""keys()"" with ""trim()…",2025-08-14T09:29:02Z,1,2,priyamkumar,freeCodeCamp,freeCodeCamp
 bd87711a2cb703f95a6f748b0d8d5810b83a4c4a,fix(curriculum): refactor import from lesson 25 of learning react - w…,2025-08-13T18:15:15Z,1,6,helfer1991,freeCodeCamp,freeCodeCamp
 824fc5943135c8333e1c6000df326e2b17123e76,"chore(i18n,learn): update i18n-curriculum submodule (#61801)",2025-08-13T15:59:24Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 db9b7d2358989d12998c1795d453de0196315610,chore(api): prevent non-staff exam authz token gen on staging (#61786),2025-08-13T15:33:14Z,5,94,ShaunSHamilton,freeCodeCamp,freeCodeCamp
@@ -649,16 +658,3 @@ cd8afa660811f4b2935541a5aad869d03bd64d83,fix(curriculum): remove misleading exam
 dc911fd430445cf986c42410602c821868ffa43f,refactor(curriculum): remove after-user-code basic algorithms (#60332),2025-05-15T07:54:59Z,1,13,a2937,freeCodeCamp,freeCodeCamp
 1b499fb4ab5bb4bc9a062ecc8c4ad0373f77ed1d,refactor(curriculum): remove after-user-code basic data structures (#…,2025-05-15T07:19:38Z,1,37,a2937,freeCodeCamp,freeCodeCamp
 3531f0296360f335c5e3da0dd9dbcb93e3e24bbc,fix(curriculum): split up test in lab job application form (#60350),2025-05-15T02:09:32Z,1,14,clarencepenz,freeCodeCamp,freeCodeCamp
-fa1577e8327106c8f90683701e19601e7a3146ce,feat(curriculum): adding frontend libraries chapter review page (#59951),2025-05-14T21:17:26Z,2,1729,jdwilkin4,freeCodeCamp,freeCodeCamp
-6c9f5a9bbe74ebe0bbfb6b0ad32442c0b1342d37,fix(curriculum): improve Crowdin compatibility for workshop-city-skyl…,2025-05-14T20:43:00Z,2,4,vkalakota18,freeCodeCamp,freeCodeCamp
-826930b48548e4e2fafea0eb0bf25896ea53c4fe,fix(curriculum): improve Crowdin compatibility for lecture-what-is-cs…,2025-05-14T20:42:19Z,1,8,vkalakota18,freeCodeCamp,freeCodeCamp
-f606e19a1ad394e7c35f688b0aef07d7df169a70,feat(client): truncate long logs in the client rather than test evalu…,2025-05-14T20:16:31Z,6,46,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-b629884fea5a96d66ec5f3a7a4f309b668654e6c,fix(curriculum): updated description for taskData retrieval from loca…,2025-05-14T19:46:14Z,1,2,Averand1,freeCodeCamp,freeCodeCamp
-81502125dda1bc9c41c8dc55cb2d55766d498a33,fix: update location.hash when following links in preview (#60343),2025-05-14T18:59:56Z,1,6,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-b772485fe637500b69a38111115e8b54f20581d4,chore(curriculum): update assertions in cat painting workshop steps 3…,2025-05-14T17:18:18Z,2,16,HaheeBahee,freeCodeCamp,freeCodeCamp
-e8b8bb7a8ed5b66cbfafd356434b34fd7f394fde,chore(curriculum): Remove Legacy JS Caesars Cipher ID (#60342),2025-05-14T15:54:27Z,1,5,zairahira,freeCodeCamp,freeCodeCamp
-c150748ac841318374483c15e706a89f91db4935,fix: dispatch input event for textarea (#60107),2025-05-14T13:46:59Z,1,4,ShauryaDusht,freeCodeCamp,freeCodeCamp
-f50fc7ca1d5380504d1f84ad0a7ca2ef17141a8d,"chore(i18n,client): processed translations (#60344)",2025-05-14T13:33:41Z,10,130,camperbot,freeCodeCamp,freeCodeCamp
-c8d20d01063ab909be68b5df18749cc8f6f407b9,fix(curriculum): typos in workshop superhero application form (#60339),2025-05-14T13:08:20Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
-18cb51dffb3e3434ae0718909715ff7c0a293895,fix(curriculum): fix paragraph test for event hub lab (#60156),2025-05-14T09:07:18Z,1,7,Supravisor,freeCodeCamp,freeCodeCamp
-2d7011f5a3a06bcb3f5d7cf2b95c787685c71be0,fix(curriculum): feedback in Clarify Information step 73 (#60316),2025-05-14T08:02:38Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
