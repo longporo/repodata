@@ -1,26 +1,35 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87GH8od,61822,A video for Android Developement using Jetpack Compose and backend with Ktor.,OPEN,2025-08-15T00:34:05Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87GH0px,61821,Build a One-Time Password Generator,OPEN,2025-08-15T00:12:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GROiD,61839,Lesson refers to toFix method in error,OPEN,2025-08-15T21:24:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GRAPh,61838,Missing image in React lecture,OPEN,2025-08-15T20:55:52Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GQwS_,61836,Fill-in-the-blank feedback gives away the answer,OPEN,2025-08-15T20:32:31Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GKkIH,61824,Build a sentence maker allows for building strings without using the variables,OPEN,2025-08-15T08:13:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GPo7z,61834,HTML text editor is not working in any browser,CLOSED,2025-08-15T18:26:24Z,2025-08-15T20:06:02Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GNTsZ,61829,Build a One-Time Password Generator p element,OPEN,2025-08-15T14:03:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87EDMCZ,61660,[feat] curriculum ui structure for reviews and exams,OPEN,2025-08-04T12:09:14Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GLVDd,61826,"[Checkout Page lab] Use `type=""text""` for card number and CVV inputs",CLOSED,2025-08-15T09:47:01Z,2025-08-15T15:31:01Z,errantpianist,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87FuST0,61798,trivia bot does not accept already introduced method,OPEN,2025-08-13T07:30:07Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GH8od,61822,A video for Android Developement using Jetpack Compose and backend with Ktor.,CLOSED,2025-08-15T00:34:05Z,2025-08-15T12:57:44Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87F0BnS,61800,[Problem] freeCodeCamp is loading slowly,CLOSED,2025-08-13T14:42:15Z,2025-08-15T10:24:21Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GH0px,61821,Build a One-Time Password Generator,CLOSED,2025-08-15T00:12:46Z,2025-08-15T09:34:46Z,White-Devil04,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87F5ieQ,61809,Build a Library Manager step 4 space vs line,OPEN,2025-08-13T23:37:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GEQ-I,61815,"Use ""macOS"" instead of Mac when referrencing to the operating system",OPEN,2025-08-14T17:23:31Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87F4lfC,61806,What Is Compatibility Testing? RAM,OPEN,2025-08-13T21:25:58Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87DtHNN,61639,"Step 27, tests you must pass are not specified in the instructions",CLOSED,2025-08-01T10:19:01Z,2025-08-09T11:08:04Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87CrusO,61484,Clarify that the replace() method returns a new string,OPEN,2025-07-26T23:00:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GHGsi,61818,i18n: consider turning on type-checking for translations,OPEN,2025-08-14T22:23:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86yiMm8,59725,Full stack HTML Accessibility Lab: Build a checkout page - exercise not in line with good ARIA practice,OPEN,2025-04-15T06:34:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87E_-XX,61751,Update array methods lecture to talk about the distinction between primitive values and object/array values,OPEN,2025-08-08T20:10:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87D7MCP,61653,Clarification Needed in Lecture on Abbreviations and Acronyms in HTML,OPEN,2025-08-03T11:01:23Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87GEQ-I,61815,"Use ""macOS"" instead of Mac when referrencing to the operating system",OPEN,2025-08-14T17:23:31Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87F0BnS,61800,[Problem] freeCodeCamp is loading slowly,OPEN,2025-08-13T14:42:15Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87F4lfC,61806,What Is Compatibility Testing? RAM,OPEN,2025-08-13T21:25:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87F51Hx,61810,Build a Library Manager Step 11,OPEN,2025-08-14T00:25:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EnBMr,61701,Add a code example for svg lecture,CLOSED,2025-08-07T01:24:58Z,2025-08-14T12:15:08Z,Hiruna-SP,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86qG_r-,58807,Navbar style breaks in high contrast mode due to transparency/white background,OPEN,2025-02-14T15:09:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87F3Eia,61803,Remove `showTranscriptTabs`,CLOSED,2025-08-13T19:13:41Z,2025-08-14T11:42:04Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X860-p3l,60129,Add checks to ensure that proper headings are present in english curriculum challenges,CLOSED,2025-05-02T15:45:35Z,2025-08-14T11:39:19Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87F3KVd,61804,Step 51 JavaScript Algorithms and Data Structures- Building a Todo App,CLOSED,2025-08-13T19:22:05Z,2025-08-13T19:26:33Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87FuST0,61798,trivia bot does not accept already introduced method,OPEN,2025-08-13T07:30:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-XO2I,61177,Add solution code to the metadata of the first workshop step,OPEN,2025-07-01T20:46:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87FnLpo,61791,A feature request for a lists of tags as which all articles are labelled,OPEN,2025-08-12T18:30:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87F2WM7,61802,JavaScript Arrays Quiz error - keys() is an array method,CLOSED,2025-08-13T18:01:59Z,2025-08-14T09:29:03Z,PRIYAM,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EruLQ,61712,rewrite description of Budget App,OPEN,2025-08-07T09:47:32Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87F5ieQ,61809,Build a Library Manager step 4 space vs line,OPEN,2025-08-13T23:37:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Fp30B,61795,"Group React imports into a single statement in ""Working with Forms in React"" lecture",CLOSED,2025-08-12T22:02:34Z,2025-08-13T18:15:16Z,helfer1991,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87D6CJV,61650,consider adding test for `contacts` in profile lookup lab,CLOSED,2025-08-03T06:48:04Z,2025-08-13T08:54:07Z,StuartMosquera,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Fnw9z,61792,Build a Confidential Email Page tests 9 and 10 impossible to pass,CLOSED,2025-08-12T19:14:38Z,2025-08-13T06:43:10Z,,freeCodeCamp,freeCodeCamp
@@ -54,7 +63,6 @@ I_kwDOAbI7X85_ax_K,53754,Update code example for ternary operator in step 146 of
 MDU6SXNzdWUyOTI2NTQyOTQ=,16604,[BETA] Install and Set Up Mongoose: typo in the test script,CLOSED,2018-01-30T05:04:55Z,2018-01-30T16:50:49Z,jurajmajerik,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86NF-YE,55275,Various typos,CLOSED,2024-06-21T19:46:41Z,2024-06-24T04:12:49Z,sidharthaA,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87CP9uc,61453,Bug in Project Euler Problem 89 Solution: Non-Minimal Roman Numeral Output,OPEN,2025-07-24T08:15:46Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87DtHNN,61639,"Step 27, tests you must pass are not specified in the instructions",CLOSED,2025-08-01T10:19:01Z,2025-08-09T11:08:04Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87DxX3D,61645,"Step 33: Tests to pass are too strict, demanding there be no whitespace",CLOSED,2025-08-01T16:34:29Z,2025-08-09T10:10:11Z,StuartMosquera,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87FAQjf,61752,Improving slug warning in auditSlugs output,CLOSED,2025-08-08T20:47:40Z,2025-08-09T09:11:30Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EhAvS,61689,Clarify description to specify using function parameter with one minor edit,CLOSED,2025-08-06T14:39:07Z,2025-08-09T07:51:52Z,Tiffany Grevious,freeCodeCamp,freeCodeCamp
@@ -85,7 +93,6 @@ I_kwDOAbI7X87Drg_P,61635,Test not working in step 24 workshop-hotel-feedback-for
 I_kwDOAbI7X86UO0yN,55941,Ambient camping sounds in freecodecamp website,OPEN,2024-08-26T13:43:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EhqaG,61692,:bug: Donation page is not working,CLOSED,2025-08-06T15:28:01Z,2025-08-06T19:45:01Z,ahmaxed,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ETAvh,61671,House Painting - tests are too strict re: background-color,CLOSED,2025-08-05T14:19:47Z,2025-08-06T13:26:04Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87EDMCZ,61660,[feat] curriculum ui structure for reviews and exams,OPEN,2025-08-04T12:09:14Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EYBDX,61678,"Minor edit to remove a duplicate ""or""",CLOSED,2025-08-05T22:41:24Z,2025-08-06T11:59:49Z,sinha21Soumya,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EY-xF,61680,Bugs in Basic HTML workshop,CLOSED,2025-08-06T01:31:19Z,2025-08-06T02:46:13Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EPV2V,61668,Correct title of Tailwind workshop,CLOSED,2025-08-05T09:39:42Z,2025-08-05T20:14:01Z,Zuned khan,freeCodeCamp,freeCodeCamp
@@ -556,15 +563,3 @@ I_kwDOAbI7X8605Hz2,60113,Update comprehension check questions for logical operat
 I_kwDOAbI7X86fUd0s,57233,Update challenge.test.ts to use fake timers instead of abitrary number for date value,CLOSED,2024-11-19T17:27:28Z,2025-05-16T11:14:44Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862LWGa,60289,update cat painting workshop steps 46-47 to use specific asserts,CLOSED,2025-05-12T10:11:11Z,2025-05-16T11:00:30Z,huyenltnguyen;yosr maalej,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862ypWv,60382,Update assertions in legacy basic javascript code,CLOSED,2025-05-15T15:56:00Z,2025-05-16T03:26:19Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862Guty,60282,Chromium's audio restrictions mess up Build a Drum Machine lab,OPEN,2025-05-11T20:55:19Z,,,freeCodeCamp,freeCodeCamp
-MDU6SXNzdWU3OTI4Njc1OTg=,40773,Update unsubscribe functionality for edge case,CLOSED,2021-01-24T18:58:24Z,2025-05-15T23:05:06Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862zaOz,60385,Remove example for div#unique in CSS specificity video/transcript,CLOSED,2025-05-15T17:22:19Z,2025-05-15T17:26:58Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862sjvH,60362,Update challengeType in FSD Lab,CLOSED,2025-05-15T06:41:03Z,2025-05-15T15:18:54Z,jan-code26,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86mhXnD,58191,Student Database 2: exercise 1450.1: instructions unclear,CLOSED,2025-01-16T21:05:05Z,2025-05-15T14:52:36Z,moT01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862pQ6x,60356,Question Typo in CSS Typography Quiz in Full Stack Curriculum,CLOSED,2025-05-14T21:01:23Z,2025-05-15T14:31:42Z,salkamosesdb,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861FQTS,60148,Misleading example in instruction in 'Build a Recipe Ingredient Converter',CLOSED,2025-05-04T14:50:22Z,2025-05-15T10:28:45Z,Ajay-2005,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8619f0e,60258,"Storybuilding App: Step 6 - Change wording to reference main element, not div element",CLOSED,2025-05-09T17:36:24Z,2025-05-15T10:10:47Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860WC0s,60039,Update to wording that crowdin likes.,CLOSED,2025-04-28T17:42:38Z,2025-05-15T08:44:14Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86do2Ms,57107,"Removal of --before-user-code--, --after-user-code--",OPEN,2024-11-08T17:42:51Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zH7ZK,59810,Adding an extra option to the official Dark Theme of FCC on VS Code.,OPEN,2025-04-18T15:37:22Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862mKr0,60347,test needs to be divided,CLOSED,2025-05-14T15:08:27Z,2025-05-15T02:09:33Z,clarencepenz,freeCodeCamp,freeCodeCamp
