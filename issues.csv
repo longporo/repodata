@@ -1,22 +1,23 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87GROiD,61839,Lesson refers to toFix method in error,OPEN,2025-08-15T21:24:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GRAPh,61838,Missing image in React lecture,OPEN,2025-08-15T20:55:52Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87GQwS_,61836,Fill-in-the-blank feedback gives away the answer,OPEN,2025-08-15T20:32:31Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GUyis,61845,Words are wrong way around,OPEN,2025-08-16T14:43:07Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GROiD,61839,Lesson refers to toFix method in error,CLOSED,2025-08-15T21:24:49Z,2025-08-16T18:14:48Z,Sanchit Kathpalia,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87F5ieQ,61809,Build a Library Manager step 4 space vs line,OPEN,2025-08-13T23:37:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GKkIH,61824,Build a sentence maker allows for building strings without using the variables,OPEN,2025-08-15T08:13:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87GPo7z,61834,HTML text editor is not working in any browser,CLOSED,2025-08-15T18:26:24Z,2025-08-15T20:06:02Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GEQ-I,61815,"Use ""macOS"" instead of Mac when referrencing to the operating system",OPEN,2025-08-14T17:23:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GNTsZ,61829,Build a One-Time Password Generator p element,OPEN,2025-08-15T14:03:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GHGsi,61818,i18n: consider turning on type-checking for translations,OPEN,2025-08-14T22:23:16Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GQwS_,61836,Fill-in-the-blank feedback gives away the answer,OPEN,2025-08-15T20:32:31Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GPo7z,61834,HTML text editor is not working in any browser,CLOSED,2025-08-15T18:26:24Z,2025-08-15T20:06:02Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EDMCZ,61660,[feat] curriculum ui structure for reviews and exams,OPEN,2025-08-04T12:09:14Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GLVDd,61826,"[Checkout Page lab] Use `type=""text""` for card number and CVV inputs",CLOSED,2025-08-15T09:47:01Z,2025-08-15T15:31:01Z,errantpianist,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87FuST0,61798,trivia bot does not accept already introduced method,OPEN,2025-08-13T07:30:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GH8od,61822,A video for Android Developement using Jetpack Compose and backend with Ktor.,CLOSED,2025-08-15T00:34:05Z,2025-08-15T12:57:44Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87F0BnS,61800,[Problem] freeCodeCamp is loading slowly,CLOSED,2025-08-13T14:42:15Z,2025-08-15T10:24:21Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GH0px,61821,Build a One-Time Password Generator,CLOSED,2025-08-15T00:12:46Z,2025-08-15T09:34:46Z,White-Devil04,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87F5ieQ,61809,Build a Library Manager step 4 space vs line,OPEN,2025-08-13T23:37:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87GEQ-I,61815,"Use ""macOS"" instead of Mac when referrencing to the operating system",OPEN,2025-08-14T17:23:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87F4lfC,61806,What Is Compatibility Testing? RAM,OPEN,2025-08-13T21:25:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87DtHNN,61639,"Step 27, tests you must pass are not specified in the instructions",CLOSED,2025-08-01T10:19:01Z,2025-08-09T11:08:04Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87CrusO,61484,Clarify that the replace() method returns a new string,OPEN,2025-07-26T23:00:15Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87GHGsi,61818,i18n: consider turning on type-checking for translations,OPEN,2025-08-14T22:23:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86yiMm8,59725,Full stack HTML Accessibility Lab: Build a checkout page - exercise not in line with good ARIA practice,OPEN,2025-04-15T06:34:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87E_-XX,61751,Update array methods lecture to talk about the distinction between primitive values and object/array values,OPEN,2025-08-08T20:10:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87D7MCP,61653,Clarification Needed in Lecture on Abbreviations and Acronyms in HTML,OPEN,2025-08-03T11:01:23Z,,,freeCodeCamp,freeCodeCamp
@@ -552,14 +553,3 @@ I_kwDOAbI7X863KFEj,60426,"Typo in Workshop ""Build a Plant Nursery Catalog"" - S
 I_kwDOAbI7X863GAJ-,60421,Gitpod Part 2 SQL course: Reset disabled on final step,CLOSED,2025-05-18T13:50:58Z,2025-05-19T10:53:44Z,ShaunSHamilton;ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861TPNc,60179,Remove validation status from feedback text,CLOSED,2025-05-06T06:54:48Z,2025-05-19T10:30:33Z,huyenltnguyen;neelesh-124,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862bzqX,60326,update workshop cat painting steps 52-53 to use specific asserts,CLOSED,2025-05-13T17:19:48Z,2025-05-18T08:31:07Z,primovere,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862mGhG,60346,Build a Bookmark Manager App User Story 11,CLOSED,2025-05-14T15:02:40Z,2025-05-16T17:20:46Z,SaravananR01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862ozmi,60355,lab password generator last user story,CLOSED,2025-05-14T20:02:37Z,2025-05-16T17:01:34Z,Giftea,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862bxUo,60325,update cat painting workshops steps 50-51 to use specific asserts,CLOSED,2025-05-13T17:16:53Z,2025-05-16T16:50:27Z,daniel-idowu-01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862kiOG,60345,"Build a Calorie Counter: Step 79 - test accepts ""a - b + c"" but not ""a + c - b""",CLOSED,2025-05-14T12:56:31Z,2025-05-16T16:05:00Z,Sky-walkerX,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8605Ohs,60115,Possibility of two valid answers in the specificity for ID selectors lecture,CLOSED,2025-05-01T23:28:11Z,2025-05-16T15:54:51Z,Giftea,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zPnYI,59827,CSS Typography Review missing info and fixup,CLOSED,2025-04-20T20:33:30Z,2025-05-16T13:37:36Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8601m_Y,60104,Build a Customer Complaint Form test 16 and 24 same text,CLOSED,2025-05-01T14:15:25Z,2025-05-16T11:51:08Z,roberiacono,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8605Hz2,60113,Update comprehension check questions for logical operators lecture,CLOSED,2025-05-01T23:02:48Z,2025-05-16T11:50:05Z,roberiacono,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86fUd0s,57233,Update challenge.test.ts to use fake timers instead of abitrary number for date value,CLOSED,2024-11-19T17:27:28Z,2025-05-16T11:14:44Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862LWGa,60289,update cat painting workshop steps 46-47 to use specific asserts,CLOSED,2025-05-12T10:11:11Z,2025-05-16T11:00:30Z,huyenltnguyen;yosr maalej,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862ypWv,60382,Update assertions in legacy basic javascript code,CLOSED,2025-05-15T15:56:00Z,2025-05-16T03:26:19Z,,freeCodeCamp,freeCodeCamp
