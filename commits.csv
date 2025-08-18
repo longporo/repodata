@@ -1,4 +1,5 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+49dc805ce74d594dacda99b4dc6ee657aabf30a2,fix(curriculum): change 'Mac' to 'macOS' when referring to the OS (#6…,2025-08-17T15:50:37Z,3,14,Programmer-Adithya-Iyer,freeCodeCamp,freeCodeCamp
 d48ddcd59edba52d184e4c4afb01f02e8d25a20b,fix(curriculum): change toFix to toFixed in lesson content (#61843),2025-08-16T18:14:47Z,1,2,sanchitkhthpalia,freeCodeCamp,freeCodeCamp
 0741793ceb0e6a4c9e47ae659cb1722d2fdb37ea,fix(curriculum): change card and cvv input types to text (#61827),2025-08-15T15:30:59Z,1,4,errantpianist,freeCodeCamp,freeCodeCamp
 95263efc129e8864da83195793a54642f1788250,fix(curriculum): removed whitespace from 'Generate OTP'. (#61823),2025-08-15T09:34:45Z,1,2,White-Devil04,freeCodeCamp,freeCodeCamp
@@ -631,4 +632,3 @@ ac2efd48778afb98b5a6079b6cdf48390219121e,fix(curriculum): remove validation stat
 e1ba767039f415d1a5652da72cb7dce605824c55,refactor(curriculum): remove after-user-code workshop rps (#60412),2025-05-19T10:00:02Z,1,16,a2937,freeCodeCamp,freeCodeCamp
 1a30174449c6e4dc79a4548d688814d54d19243f,fix(curriculum): add missing word in Programming Vocabulary (#60423),2025-05-19T08:02:35Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 6e2eaf0a3d3b6faf07c6678d43c8640757e85295,fix(curriculum): update workshop cat painting (#60414),2025-05-18T08:31:06Z,2,14,primovere,freeCodeCamp,freeCodeCamp
-990b862d41ff9ee95fd45cdbb80302286b12982b,chore(api): log duplicate account ids (#60405),2025-05-17T03:41:41Z,2,16,ShaunSHamilton,freeCodeCamp,freeCodeCamp
