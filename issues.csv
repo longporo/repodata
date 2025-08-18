@@ -1,12 +1,17 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87GRAPh,61838,Missing image in React lecture,OPEN,2025-08-15T20:55:52Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GaHAZ,61855,Missing visual reference in CSS/Design/User Interface Design Fundamentals/What Is the Importance of Whitespace in Design?,OPEN,2025-08-17T22:54:31Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GY4xv,61852,Missinformation in Python course,OPEN,2025-08-17T15:15:07Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GHGsi,61818,i18n: consider turning on type-checking for translations,OPEN,2025-08-14T22:23:16Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GEQ-I,61815,"Use ""macOS"" instead of Mac when referrencing to the operating system",CLOSED,2025-08-14T17:23:31Z,2025-08-17T15:50:38Z,Programmer-Adithya-Iyer,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GUyis,61845,Words are wrong way around,OPEN,2025-08-16T14:43:07Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87F4lfC,61806,What Is Compatibility Testing? RAM,OPEN,2025-08-13T21:25:58Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X862GU2j,60280,"Navigation returns to wrong course section in the ""Learn the Box Model"" section path",OPEN,2025-05-11T17:24:19Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GXcnD,61847,Is the code in the example wrong? -- Working with Backgrounds and Borders - What Are Some Accessibility Considerations for Backgrounds?,OPEN,2025-08-17T06:56:13Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GRAPh,61838,Missing image in React lecture,OPEN,2025-08-15T20:55:52Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GROiD,61839,Lesson refers to toFix method in error,CLOSED,2025-08-15T21:24:49Z,2025-08-16T18:14:48Z,Sanchit Kathpalia,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87F5ieQ,61809,Build a Library Manager step 4 space vs line,OPEN,2025-08-13T23:37:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GKkIH,61824,Build a sentence maker allows for building strings without using the variables,OPEN,2025-08-15T08:13:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87GEQ-I,61815,"Use ""macOS"" instead of Mac when referrencing to the operating system",OPEN,2025-08-14T17:23:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GNTsZ,61829,Build a One-Time Password Generator p element,OPEN,2025-08-15T14:03:46Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87GHGsi,61818,i18n: consider turning on type-checking for translations,OPEN,2025-08-14T22:23:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GQwS_,61836,Fill-in-the-blank feedback gives away the answer,OPEN,2025-08-15T20:32:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GPo7z,61834,HTML text editor is not working in any browser,CLOSED,2025-08-15T18:26:24Z,2025-08-15T20:06:02Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EDMCZ,61660,[feat] curriculum ui structure for reviews and exams,OPEN,2025-08-04T12:09:14Z,,,freeCodeCamp,freeCodeCamp
@@ -15,7 +20,6 @@ I_kwDOAbI7X87FuST0,61798,trivia bot does not accept already introduced method,OP
 I_kwDOAbI7X87GH8od,61822,A video for Android Developement using Jetpack Compose and backend with Ktor.,CLOSED,2025-08-15T00:34:05Z,2025-08-15T12:57:44Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87F0BnS,61800,[Problem] freeCodeCamp is loading slowly,CLOSED,2025-08-13T14:42:15Z,2025-08-15T10:24:21Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GH0px,61821,Build a One-Time Password Generator,CLOSED,2025-08-15T00:12:46Z,2025-08-15T09:34:46Z,White-Devil04,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87F4lfC,61806,What Is Compatibility Testing? RAM,OPEN,2025-08-13T21:25:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87DtHNN,61639,"Step 27, tests you must pass are not specified in the instructions",CLOSED,2025-08-01T10:19:01Z,2025-08-09T11:08:04Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87CrusO,61484,Clarify that the replace() method returns a new string,OPEN,2025-07-26T23:00:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86yiMm8,59725,Full stack HTML Accessibility Lab: Build a checkout page - exercise not in line with good ARIA practice,OPEN,2025-04-15T06:34:38Z,,,freeCodeCamp,freeCodeCamp
@@ -103,7 +107,6 @@ I_kwDOAbI7X866p8DT,60797,Certain explanations are wrapped in backticks,CLOSED,20
 I_kwDOAbI7X861DFku,60142,"Add Search Suggestions for Articles, Tutorials, and Books",OPEN,2025-05-03T16:06:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868SO2n,60931,[Profile Card workshop] Step 4 not checking the return statement,OPEN,2025-06-19T04:37:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866nJm7,60795,Add warning when user attempts to close browser tab with unsaved privacy settings,CLOSED,2025-06-09T16:39:25Z,2025-08-05T08:44:24Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862GU2j,60280,"Navigation returns to wrong course section in the ""Learn the Box Model"" section path",OPEN,2025-05-11T17:24:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866HVFV,60731,Tic-tac-toe lab - not checked diagonal win conditions,OPEN,2025-06-05T20:00:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862Fyis,60278,Progress Bookmarking for Challenges or Tutorials,OPEN,2025-05-11T12:47:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861agW5,60197,Football Team Cards lab tests,CLOSED,2025-05-06T18:09:12Z,2025-08-05T07:34:29Z,,freeCodeCamp,freeCodeCamp
