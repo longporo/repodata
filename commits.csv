@@ -1,4 +1,15 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+806b7380ae444b585eb873052032eaa787dc4779,chore: update alt images for new images (#61625),2025-08-19T19:46:02Z,89,296,zairahira,freeCodeCamp,freeCodeCamp
+12964a0997012df3fa58dfe7408ffac372e0d2b9,fix(curriculum): library manager newline sentence (#61880),2025-08-19T19:42:40Z,2,4,pkdvalis,freeCodeCamp,freeCodeCamp
+9a78eba37155c01a8ace885ff77a114343a0f3cc,fix(curriculum): align hint string with test case in vowel balance ch…,2025-08-19T17:25:45Z,2,4,saurabh-pingale,freeCodeCamp,freeCodeCamp
+b62d1d16b5aa649fd1426e939ac5c9ca79f7705d,fix(curriculum): trim innerText in test assertions (#61651),2025-08-19T16:56:38Z,4,8,rajatbaranwal,freeCodeCamp,freeCodeCamp
+09654cda4c955261aaf95f52604786b246bd12ff,feat(curriculum): searching and sorting quiz (#61785),2025-08-19T12:58:58Z,1,323,Ksound22,freeCodeCamp,freeCodeCamp
+cf48154b2e5c256fba3d7444b66d731c8641bf25,fix(curriculum): typo test 38 (#61856),2025-08-19T12:18:37Z,1,2,pkdvalis,freeCodeCamp,freeCodeCamp
+28eb50b2d14320931a4401a7c3753d06b18b8fe8,feat(curriculum): add golf code lab (#61837),2025-08-19T11:26:15Z,5,185,a2937,freeCodeCamp,freeCodeCamp
+a33bc0b4b5a8d8d95db2b7784811bf07c2b5ae4d,chore(api): rename ExamEnvironmentTempExam -> ExamCreatorExam (#61868),2025-08-19T10:46:02Z,1,5,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+017f2735f6b0f354505e8156990be5616e2e7130,feat(curriculum): add five more steps to Resuable Profile Card (#61311),2025-08-19T09:53:29Z,7,1002,sskiragu,freeCodeCamp,freeCodeCamp
+a4deb4f5d78397ac5f7a64a0d997b214afac04b5,feat(curriculum): adding searching and sorting review page (#61774),2025-08-19T07:42:50Z,1,45,Ksound22,freeCodeCamp,freeCodeCamp
+aa7966218477030c73a073491687e66f96102016,feat(curriculum): JS and Accessibility review (#61622),2025-08-19T06:42:43Z,2,184,huyenltnguyen,freeCodeCamp,freeCodeCamp
 141a05b6542d66a2a351fe0b4f3b740b2b079841,fix: correct solution and test for euler problem 89 (#61854),2025-08-18T20:08:38Z,1,106,errantpianist,freeCodeCamp,freeCodeCamp
 a0429f71017861727626ab81c51db34c0ef830ba,"chore(i18n,client): processed translations (#61860)",2025-08-18T19:49:33Z,20,326,camperbot,freeCodeCamp,freeCodeCamp
 27f23eafd461fe5094bd5a1d68cbc2d907d04e50,"chore(i18n,learn): update i18n-curriculum submodule (#61862)",2025-08-18T16:48:26Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
@@ -69,7 +80,7 @@ babcf475979ae36c483195dbe4faaa0165fd7a4a,chore(tools): test for instructions in 
 276b39638eb5907a1b5ea0715610b00abaef6480,fix(curriculum): remove redundant or (#61681),2025-08-06T11:59:48Z,1,2,sinha21Soumya,freeCodeCamp,freeCodeCamp
 be4c451041c029f82734025fd4fc80dc6807cf1c,fix(curriculum): fixed typo in workshop medical  data validator step …,2025-08-06T04:10:23Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
 98df961a016af0a8f3bfcfa103d6f6b824b22738,feat(curriculum): add theme switcher lab (#61404),2025-08-05T20:16:29Z,5,580,jdwilkin4,freeCodeCamp,freeCodeCamp
-6aab1477b005b5db307466f576b048082a029d3c,fix: correct typo in Tailwind CTA Component titles (#61669),2025-08-05T20:14:00Z,3,8,Zuned Khan,freeCodeCamp,freeCodeCamp
+6aab1477b005b5db307466f576b048082a029d3c,fix: correct typo in Tailwind CTA Component titles (#61669),2025-08-05T20:14:00Z,3,8,ZunedKhan07,freeCodeCamp,freeCodeCamp
 1db36107c068f3003f28144243e03d05624c4575,chore: redirects for Understanding Core JavaScript Fundamentals and W…,2025-08-05T15:23:29Z,1,84,ilenia-magoni,freeCodeCamp,freeCodeCamp
 99692d7efaf0eb9e241fdcbaf8720d3548c75cde,chore(curriculum): audit bash and sql quiz (#61642),2025-08-05T15:10:51Z,1,50,zairahira,freeCodeCamp,freeCodeCamp
 a57e4e33b493780aa3110136c03b8371bf60999f,fix(curriculum): fix typo in tasks from block 20 of the B1 certificat…,2025-08-05T13:55:08Z,4,18,DanielRosa74,freeCodeCamp,freeCodeCamp
@@ -624,16 +635,3 @@ a008ad5152cdeac72a03bf694cf17097434b41d8,"chore(i18n,client): processed translat
 6dfc0e65bc71bf1b6d68262ab1142d185729d9b2,fix(curriculum): correct inaccurate answer in express agreement chall…,2025-05-20T19:48:07Z,1,2,IbrahimAl-Tawil,freeCodeCamp,freeCodeCamp
 2f7395e475c5fd8efe2cd6b1b11ecf268c294194,feat: add set 2 of questions for CSS animations quiz  (#59790),2025-05-20T12:49:25Z,1,488,aaqib605,freeCodeCamp,freeCodeCamp
 a50b43a3154437ef1ef827d29fd798b2c462238f,feat(curriculum): add Python loops and sequences review page (#60128),2025-05-20T06:17:13Z,2,701,zairahira,freeCodeCamp,freeCodeCamp
-efc3b3faedb6337dcd9610308500f3e9a417dcb7,fix(curriculum): update questions in Debugging techniques lecture (#6…,2025-05-19T21:36:47Z,1,40,Supravisor,freeCodeCamp,freeCodeCamp
-8c1610a1ed4e3522359622c182e42649b17acb70,fix(mobile): remove a2 spanish superblock (#60440),2025-05-19T21:22:12Z,4,58,moT01,freeCodeCamp,freeCodeCamp
-1f71111fea8c692a748ff1aef120f39350793fca,"chore(i18n,learn): update i18n-curriculum submodule (#60436)",2025-05-19T21:20:02Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-a13892447b6e92b2ef6c9759c25e127662efc20e,"fix(curriculum): change ""aria"" to all caps (#60434)",2025-05-19T16:23:57Z,2,4,harshit960,freeCodeCamp,freeCodeCamp
-cb26aec33a327f78e9a0901001f9fa3adaca6217,fix(curriculum): typo in workshop plant nursery catalog step 30 (#60427),2025-05-19T16:06:23Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-f7f5e74a7e7097b758a567c7fcf4b66a38b624a8,"chore(i18n,client): processed translations (#60432)",2025-05-19T15:44:32Z,20,280,camperbot,freeCodeCamp,freeCodeCamp
-7003362fef32535c2deb38a93bd2464343c05ebb,fix(api): handle concurrent deletion requests (#60430),2025-05-19T14:25:22Z,2,71,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-a5ec9e1ee723349e56b05972716ea019f8d2c933,fix(api): handle when emailVerified is null (#60429),2025-05-19T11:18:10Z,2,6,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-00264908e8eef1230634c39558755df457cf857f,fix(api): remove authn requirement for coderoad challenges (#60425),2025-05-19T10:53:43Z,4,341,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-8558d0b1f1e8425b14b7c9247cecf9ae85ef60e6,fix(api): catch invalid ms-username url (#60402),2025-05-19T10:53:24Z,3,145,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-ac2efd48778afb98b5a6079b6cdf48390219121e,fix(curriculum): remove validation status from feedback texts (#60254),2025-05-19T10:30:32Z,92,250,neelesh-124,freeCodeCamp,freeCodeCamp
-e1ba767039f415d1a5652da72cb7dce605824c55,refactor(curriculum): remove after-user-code workshop rps (#60412),2025-05-19T10:00:02Z,1,16,a2937,freeCodeCamp,freeCodeCamp
-1a30174449c6e4dc79a4548d688814d54d19243f,fix(curriculum): add missing word in Programming Vocabulary (#60423),2025-05-19T08:02:35Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
