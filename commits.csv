@@ -1,4 +1,9 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+3d78a31bc6285ed45156ad65f7846570b1ffba88,fix(api): DEPLOYMENT_ENV not same as client (#61893),2025-08-21T01:28:05Z,3,14,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+b9f2f720585ded63779e4ac4c13dd3f8ff069bf2,fix(curriculum): replace test method in step 24 'workshop-hotel-feedb…,2025-08-20T16:03:21Z,1,2,StuartMosquera,freeCodeCamp,freeCodeCamp
+7c624b7108667052a0cb2f3ded736fa77732c319,feat(curriculum): JS-A11y intro lecture (#61817),2025-08-20T14:57:19Z,2,156,huyenltnguyen,freeCodeCamp,freeCodeCamp
+8600a0973f5af6739b3d64b1a4bf229af4cd8b0d,fix(curriculum): correct typo 'rick-click' → 'right-click' (#61891),2025-08-20T14:44:55Z,1,2,Bhavishyakolloori,freeCodeCamp,freeCodeCamp
+53a648f71ccae84cd91906be126c2f7aa3c10d05,feat(learn): Added keyboard shortcut(ctrl+enter) to check your answer…,2025-08-20T04:19:39Z,2,103,tanmaygautam11,freeCodeCamp,freeCodeCamp
 806b7380ae444b585eb873052032eaa787dc4779,chore: update alt images for new images (#61625),2025-08-19T19:46:02Z,89,296,zairahira,freeCodeCamp,freeCodeCamp
 12964a0997012df3fa58dfe7408ffac372e0d2b9,fix(curriculum): library manager newline sentence (#61880),2025-08-19T19:42:40Z,2,4,pkdvalis,freeCodeCamp,freeCodeCamp
 9a78eba37155c01a8ace885ff77a114343a0f3cc,fix(curriculum): align hint string with test case in vowel balance ch…,2025-08-19T17:25:45Z,2,4,saurabh-pingale,freeCodeCamp,freeCodeCamp
@@ -632,6 +637,3 @@ a008ad5152cdeac72a03bf694cf17097434b41d8,"chore(i18n,client): processed translat
 5e836cbdb429ac29359c16f2ced314c14302d9fe,dev(api): track sentry releases (#60444),2025-05-21T11:58:03Z,1,7,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 0f9c2705ef27a7d893099f7b143f0c1e1e6f9f45,chore(curriculum): update HTML chapter to address last issue found in…,2025-05-21T08:11:38Z,26,1002,jdwilkin4,freeCodeCamp,freeCodeCamp
 8c4a474c4966b077521c8e87c2a7c5b9bccabc5e,feat(client): add spanish characters for animations (#60353),2025-05-21T06:09:42Z,3,492,moT01,freeCodeCamp,freeCodeCamp
-6dfc0e65bc71bf1b6d68262ab1142d185729d9b2,fix(curriculum): correct inaccurate answer in express agreement chall…,2025-05-20T19:48:07Z,1,2,IbrahimAl-Tawil,freeCodeCamp,freeCodeCamp
-2f7395e475c5fd8efe2cd6b1b11ecf268c294194,feat: add set 2 of questions for CSS animations quiz  (#59790),2025-05-20T12:49:25Z,1,488,aaqib605,freeCodeCamp,freeCodeCamp
-a50b43a3154437ef1ef827d29fd798b2c462238f,feat(curriculum): add Python loops and sequences review page (#60128),2025-05-20T06:17:13Z,2,701,zairahira,freeCodeCamp,freeCodeCamp
