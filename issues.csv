@@ -1,4 +1,10 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87G3ToM,61885,Proposal: Add Basic Swift section to curriculum,OPEN,2025-08-20T03:03:24Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Gx24D,61879,Build a Markdown to HTML Converter test 47,OPEN,2025-08-19T16:19:13Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87HBlaE,61897,/settings should redirect to auth if not signed in,OPEN,2025-08-20T18:05:11Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Drg_P,61635,Test not working in step 24 workshop-hotel-feedback-form,CLOSED,2025-08-01T07:57:52Z,2025-08-20T16:03:22Z,StuartMosquera,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87G55pW,61887,"Typo in How Can You Create, Move, and Delete Files and Folders Using Explorer/Finder?",CLOSED,2025-08-20T08:18:13Z,2025-08-20T14:44:56Z,Bhavishyakolloori,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86tpEUd,59246,"Add Keyboard Shortcut (Ctrl + Enter) for ""Check Your Answer"" Button",CLOSED,2025-03-12T08:57:48Z,2025-08-20T04:19:40Z,huyenltnguyen;tanmaygautam11,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87F5ieQ,61809,Build a Library Manager step 4 space vs line,CLOSED,2025-08-13T23:37:29Z,2025-08-19T19:42:41Z,pkdvalis,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-GFak,61164,Full Stack curriculum data types lecture,CLOSED,2025-06-30T17:13:38Z,2025-08-19T17:53:59Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86pPhpV,58652,Review Algorithmic Thinking by Building a Dice Game - Discrepency between instructions and hints,CLOSED,2025-02-08T02:37:55Z,2025-08-19T17:44:49Z,,freeCodeCamp,freeCodeCamp
@@ -6,7 +12,6 @@ I_kwDOAbI7X87Gpv2c,61869,"Daily Coding Challenge - August 11, 2025 - differing a
 I_kwDOAbI7X86xSpqy,59607,Build a Fortune Teller - Incorrect code passing,OPEN,2025-04-05T19:36:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GNTsZ,61829,Build a One-Time Password Generator p element,OPEN,2025-08-15T14:03:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87FnLpo,61791,A feature request for a lists of tags as which all articles are labelled,OPEN,2025-08-12T18:30:34Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Gx24D,61879,Build a Markdown to HTML Converter test 47,OPEN,2025-08-19T16:19:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GXcnD,61847,Is the code in the example wrong? -- Working with Backgrounds and Borders - What Are Some Accessibility Considerations for Backgrounds?,OPEN,2025-08-17T06:56:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GHGsi,61818,i18n: consider turning on type-checking for translations,OPEN,2025-08-14T22:23:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X860UlYp,60034,Full Stack - Build a Markdown to HTML Converter tests 38 and 47,CLOSED,2025-04-28T15:15:51Z,2025-08-19T12:18:39Z,pkdvalis,freeCodeCamp,freeCodeCamp
@@ -105,7 +110,6 @@ I_kwDOAbI7X87D7Lk6,61652,Wrong header-name used in the 'Questions' section of a 
 I_kwDOAbI7X86Ac53t,53894,Machine Learning with Python Certification Projects not validate Solution Links (not run tests),CLOSED,2024-02-26T20:27:08Z,2024-06-25T08:12:29Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BCcYE,61375,Make labs descriptions uniform,OPEN,2025-07-17T08:27:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862yZmg,60381,Change Odin project challenge type,CLOSED,2025-05-15T15:32:28Z,2025-08-07T08:10:23Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Drg_P,61635,Test not working in step 24 workshop-hotel-feedback-form,OPEN,2025-08-01T07:57:52Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86UO0yN,55941,Ambient camping sounds in freecodecamp website,OPEN,2024-08-26T13:43:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EhqaG,61692,:bug: Donation page is not working,CLOSED,2025-08-06T15:28:01Z,2025-08-06T19:45:01Z,ahmaxed,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ETAvh,61671,House Painting - tests are too strict re: background-color,CLOSED,2025-08-05T14:19:47Z,2025-08-06T13:26:04Z,,freeCodeCamp,freeCodeCamp
@@ -191,7 +195,6 @@ I_kwDOAbI7X87C9ba1,61527,Remove videos from var and modules lecture blocks,CLOSE
 I_kwDOAbI7X87C9VFx,61525,Remove videos from working with loops lecture block,CLOSED,2025-07-28T17:57:23Z,2025-07-29T15:57:38Z,StuartMosquera,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C_xnY,61553,scroll bar appearing on page,OPEN,2025-07-28T23:06:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87B-ejS,61441,Claiming to show examples but not actually including them - CSS Review Page,CLOSED,2025-07-22T23:52:09Z,2025-07-29T13:23:03Z,VishalTelukula,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86tpEUd,59246,"Add Keyboard Shortcut (Ctrl + Enter) for ""Check Your Answer"" Button",OPEN,2025-03-12T08:57:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8f_b,61498,Remove videos from semantic HTML lecture blocks,CLOSED,2025-07-28T16:46:10Z,2025-07-29T03:56:54Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8lWC,61502,Remove videos from computer basics lecture blocks,CLOSED,2025-07-28T16:53:58Z,2025-07-29T02:59:19Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8rs-,61507,Remove videos from absolute and relative lecture block,CLOSED,2025-07-28T17:03:23Z,2025-07-29T02:55:22Z,Supravisor,freeCodeCamp,freeCodeCamp
@@ -553,7 +556,3 @@ I_kwDOAbI7X863RRW9,60441,Trivia Bot - Allow separate space concatenation or upda
 I_kwDOAbI7X863pubd,60474,[Customer Complaint Form] Add `aria-live` to the message box,CLOSED,2025-05-21T19:06:23Z,2025-05-22T06:29:14Z,Rice-Cameron,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863hsoo,60459,Issue on Timestamp Microservice @ Back End Development and APIs in Test Case 7 and 8,CLOSED,2025-05-21T06:19:28Z,2025-05-22T01:58:05Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8629jkN,60407,Duplicated `--before-all--` section in challenges,CLOSED,2025-05-16T17:54:36Z,2025-05-21T17:45:13Z,falldownstairs;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862nxqb,60352,translate.freecodecamp.org is inaccessible,CLOSED,2025-05-14T17:57:21Z,2025-05-20T20:54:59Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863JgQu,60424,Learn How to Express Agreement - Task 71,CLOSED,2025-05-19T06:52:30Z,2025-05-20T19:48:09Z,IbrahimAl-Tawil,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ytCMr,59757,Add set 2 of questions for CSS Animations quiz,CLOSED,2025-04-16T02:24:38Z,2025-05-20T12:49:26Z,aaqib605,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862CBzT,60266,"""Saved! Your code was saved to your browser's local storage."" - banner has no timeout, carries over when changing page",CLOSED,2025-05-10T10:02:54Z,2025-05-20T11:38:22Z,,freeCodeCamp,freeCodeCamp
