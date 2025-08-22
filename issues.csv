@@ -1,6 +1,11 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87G3ToM,61885,Proposal: Add Basic Swift section to curriculum,OPEN,2025-08-20T03:03:24Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86z5tF4,59969,Build an availability table issue,OPEN,2025-04-24T19:23:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GXcnD,61847,Is the code in the example wrong? -- Working with Backgrounds and Borders - What Are Some Accessibility Considerations for Backgrounds?,OPEN,2025-08-17T06:56:13Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87HOeBi,61905,Build a Shopping Cart Step 26 - Unclear instructions,OPEN,2025-08-21T16:41:18Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87HJpGX,61901,Inaccurate test case in Golf Score Lab (with minor edits),OPEN,2025-08-21T10:25:15Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87D7MCP,61653,Clarification Needed in Lecture on Abbreviations and Acronyms in HTML,OPEN,2025-08-03T11:01:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Gx24D,61879,Build a Markdown to HTML Converter test 47,OPEN,2025-08-19T16:19:13Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87G3ToM,61885,Proposal: Add Basic Swift section to curriculum,OPEN,2025-08-20T03:03:24Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87HBlaE,61897,/settings should redirect to auth if not signed in,OPEN,2025-08-20T18:05:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Drg_P,61635,Test not working in step 24 workshop-hotel-feedback-form,CLOSED,2025-08-01T07:57:52Z,2025-08-20T16:03:22Z,StuartMosquera,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87G55pW,61887,"Typo in How Can You Create, Move, and Delete Files and Folders Using Explorer/Finder?",CLOSED,2025-08-20T08:18:13Z,2025-08-20T14:44:56Z,Bhavishyakolloori,freeCodeCamp,freeCodeCamp
@@ -12,7 +17,6 @@ I_kwDOAbI7X87Gpv2c,61869,"Daily Coding Challenge - August 11, 2025 - differing a
 I_kwDOAbI7X86xSpqy,59607,Build a Fortune Teller - Incorrect code passing,OPEN,2025-04-05T19:36:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GNTsZ,61829,Build a One-Time Password Generator p element,OPEN,2025-08-15T14:03:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87FnLpo,61791,A feature request for a lists of tags as which all articles are labelled,OPEN,2025-08-12T18:30:34Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87GXcnD,61847,Is the code in the example wrong? -- Working with Backgrounds and Borders - What Are Some Accessibility Considerations for Backgrounds?,OPEN,2025-08-17T06:56:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GHGsi,61818,i18n: consider turning on type-checking for translations,OPEN,2025-08-14T22:23:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X860UlYp,60034,Full Stack - Build a Markdown to HTML Converter tests 38 and 47,CLOSED,2025-04-28T15:15:51Z,2025-08-19T12:18:39Z,pkdvalis,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GaHAZ,61855,Missing visual reference in CSS/Design/User Interface Design Fundamentals/What Is the Importance of Whitespace in Design?,OPEN,2025-08-17T22:54:31Z,,,freeCodeCamp,freeCodeCamp
@@ -43,7 +47,6 @@ I_kwDOAbI7X87DtHNN,61639,"Step 27, tests you must pass are not specified in the 
 I_kwDOAbI7X87CrusO,61484,Clarify that the replace() method returns a new string,OPEN,2025-07-26T23:00:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86yiMm8,59725,Full stack HTML Accessibility Lab: Build a checkout page - exercise not in line with good ARIA practice,OPEN,2025-04-15T06:34:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87E_-XX,61751,Update array methods lecture to talk about the distinction between primitive values and object/array values,OPEN,2025-08-08T20:10:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87D7MCP,61653,Clarification Needed in Lecture on Abbreviations and Acronyms in HTML,OPEN,2025-08-03T11:01:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87F51Hx,61810,Build a Library Manager Step 11,OPEN,2025-08-14T00:25:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EnBMr,61701,Add a code example for svg lecture,CLOSED,2025-08-07T01:24:58Z,2025-08-14T12:15:08Z,Hiruna-SP,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86qG_r-,58807,Navbar style breaks in high contrast mode due to transparency/white background,OPEN,2025-02-14T15:09:34Z,,,freeCodeCamp,freeCodeCamp
@@ -77,7 +80,6 @@ I_kwDOAbI7X86-HTQd,61166,Browsing Topics API warning while using Firefox,OPEN,20
 I_kwDOAbI7X865M5HM,60643,Keyboard shortcuts in code editor,CLOSED,2025-06-01T12:17:54Z,2025-08-11T11:04:59Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-dA1L,61181,hint not precise enough in greeting bot workshop,CLOSED,2025-07-02T09:41:33Z,2025-08-11T08:11:09Z,collinfugate,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Cr2BB,61486,Add always-visible progress bar on the workshop page.,CLOSED,2025-07-26T23:21:48Z,2025-08-11T08:06:09Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z5tF4,59969,Build an availability table issue,OPEN,2025-04-24T19:23:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862iwe6,60341,Typo in lesson video,CLOSED,2025-05-14T10:06:14Z,2025-06-26T17:18:43Z,estefaniacn,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BK6ad,61393,Recipe Ingredient Converter workshop step 17 is not easy to debug,OPEN,2025-07-17T20:46:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EwZf8,61723,"Quiz Answer likely error in 'What Are Conditional Statements, and How Do If/Else If/Else Statements Work?'",CLOSED,2025-08-07T15:42:35Z,2025-08-09T17:53:12Z,doylese,freeCodeCamp,freeCodeCamp
@@ -555,4 +557,3 @@ I_kwDOAbI7X863v4TM,60484,Certified Full Stack Developer Curriculum -Camperbot Pr
 I_kwDOAbI7X863RRW9,60441,Trivia Bot - Allow separate space concatenation or update requirements,OPEN,2025-05-19T19:02:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863pubd,60474,[Customer Complaint Form] Add `aria-live` to the message box,CLOSED,2025-05-21T19:06:23Z,2025-05-22T06:29:14Z,Rice-Cameron,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863hsoo,60459,Issue on Timestamp Microservice @ Back End Development and APIs in Test Case 7 and 8,CLOSED,2025-05-21T06:19:28Z,2025-05-22T01:58:05Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8629jkN,60407,Duplicated `--before-all--` section in challenges,CLOSED,2025-05-16T17:54:36Z,2025-05-21T17:45:13Z,falldownstairs;huyenltnguyen,freeCodeCamp,freeCodeCamp
