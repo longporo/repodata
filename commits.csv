@@ -1,4 +1,8 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+28383824819bdc1695f51f3f2705a40d0a0e715b,fix(curriculum): improve tests in markdown converter lab (#61899),2025-08-22T08:44:02Z,1,4,Dario-DC,freeCodeCamp,freeCodeCamp
+2ecd00881600ac0421dcf10d5b3b77f4364afa4c,fix(curriculum): require empty p with aria-live (#61876),2025-08-22T08:28:06Z,1,41,pkdvalis,freeCodeCamp,freeCodeCamp
+6df2f49ad5d7b15bfc51a2d6dded9f273de37a4a,refactor(client): update super block accordion to dynamically look up…,2025-08-22T08:14:54Z,1,18,huyenltnguyen,freeCodeCamp,freeCodeCamp
+ef6501137968df6f349949e31b6b7194d0373a2f,feat(curriculum): release JS A11y module (#61898),2025-08-22T08:07:23Z,7,13,huyenltnguyen,freeCodeCamp,freeCodeCamp
 efe3d22b06dbe290a007782e3dd8eeff4fd1a16f,fix: make sure ext curriculum tests fail if missing meta (#61904),2025-08-21T17:57:45Z,3,250,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 b246d99b30e4f2ecae506db4557943374b18a7d6,chore: remove NODE_ENV from sample.env (#61902),2025-08-21T17:54:14Z,1,1,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 b0ab20bac6a21b89945310d4af822a3102ce546f,feat(curriculum): add tailwind pricing component workshop (#61238),2025-08-21T14:00:25Z,54,6607,Ksound22,freeCodeCamp,freeCodeCamp
@@ -624,8 +628,3 @@ a90e2757ac26d5753e22557de31df05aab443013,chore(api): add exam-env test script (#
 74aa61a7b4d5dbbbddbb0a70a9a56798932df47e,fix(curriculum): fix backtick placement in quiz question (#60494),2025-05-23T08:57:39Z,1,2,ritsth,freeCodeCamp,freeCodeCamp
 22fb9bc43b0328a7523f4b5429b71f783002f20e,feat(gha): add workflow to clean-up old images (#60485),2025-05-23T07:39:58Z,1,53,raisedadead,freeCodeCamp,freeCodeCamp
 10f23bcf0cf56be46080f2709902b140fe7c6c7a,fix(curriculum): typo changed from trnasforming to transforming (#60495),2025-05-23T04:50:47Z,1,2,qdow,freeCodeCamp,freeCodeCamp
-57adb773d2d03428be39c18171632226bc87e6ba,fix(curriculum): minor things in first workshop (#60489),2025-05-22T17:51:30Z,1,4,moT01,freeCodeCamp,freeCodeCamp
-dddfe99200ebc48f0f7ecf6e99a6652d1c0c02c4,chore(curriculum): add extra h1 tests to camperbot lab (#60478),2025-05-22T16:18:17Z,1,65,a2937,freeCodeCamp,freeCodeCamp
-331005f4c7205d3cc5668092f59b4d2ad720d63f,feat(tools): add chapter and module names to external curricula data …,2025-05-22T15:52:30Z,3,54,huyenltnguyen,freeCodeCamp,freeCodeCamp
-848ae3aacf11cc2f1e612fbc873501b39110f780,fix(api): handle users without email addresses (#60467),2025-05-22T09:28:56Z,11,101,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-1311b4e10f8b2eb3891c262b32405b03e49fc337,fix(curriculum): added missing aria-live attributes to message box (#…,2025-05-22T06:29:13Z,1,4,Rice-Cameron,freeCodeCamp,freeCodeCamp
