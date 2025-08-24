@@ -1,4 +1,6 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+1cca628c541ca1bdb65d7a9fb501cf91b5089189,fix(curriculum): clarify that replace() returns a new string in JS le…,2025-08-23T18:19:20Z,3,6,NiloySaha84,freeCodeCamp,freeCodeCamp
+7c25ffc55638bfb2922c6ee75f7f4c09dd8e73ef,fix(curriculum): add 'should' to correct typo in step 68 (#61916),2025-08-23T04:17:32Z,1,2,DevchamploO,freeCodeCamp,freeCodeCamp
 28383824819bdc1695f51f3f2705a40d0a0e715b,fix(curriculum): improve tests in markdown converter lab (#61899),2025-08-22T08:44:02Z,1,4,Dario-DC,freeCodeCamp,freeCodeCamp
 2ecd00881600ac0421dcf10d5b3b77f4364afa4c,fix(curriculum): require empty p with aria-live (#61876),2025-08-22T08:28:06Z,1,41,pkdvalis,freeCodeCamp,freeCodeCamp
 6df2f49ad5d7b15bfc51a2d6dded9f273de37a4a,refactor(client): update super block accordion to dynamically look up…,2025-08-22T08:14:54Z,1,18,huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -623,8 +625,3 @@ a90e2757ac26d5753e22557de31df05aab443013,chore(api): add exam-env test script (#
 469f0c0f0ba2ad65da415cfa10fd28754bb7ce62,fix(curriculum): make spaces optional in movie rating test (#60524),2025-05-26T16:55:58Z,1,2,lejenhan,freeCodeCamp,freeCodeCamp
 1b14282da085a9aacf1c081eb6909a02310f18d6,fix(curriculum): make spacing requirement less strict in Movie Review…,2025-05-26T09:13:26Z,1,4,PabloGarza328,freeCodeCamp,freeCodeCamp
 999b3e892813ed926d659641d778e217ae5fac2a,fix(curriculum): only sanitize task id with removeSpecialChars (#60482),2025-05-25T17:58:18Z,1,20,roberiacono,freeCodeCamp,freeCodeCamp
-6fc8c87422453637a54bc64521605fa78d6e8a5b,"fix(curriculum): ""Accoding"" typo (#60504)",2025-05-23T18:31:30Z,1,2,carlogy,freeCodeCamp,freeCodeCamp
-8138f086aa8b2e00d272d87b0772621a8391243e,fix(api): handle string challengeType (#60491),2025-05-23T12:56:18Z,4,86,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-74aa61a7b4d5dbbbddbb0a70a9a56798932df47e,fix(curriculum): fix backtick placement in quiz question (#60494),2025-05-23T08:57:39Z,1,2,ritsth,freeCodeCamp,freeCodeCamp
-22fb9bc43b0328a7523f4b5429b71f783002f20e,feat(gha): add workflow to clean-up old images (#60485),2025-05-23T07:39:58Z,1,53,raisedadead,freeCodeCamp,freeCodeCamp
-10f23bcf0cf56be46080f2709902b140fe7c6c7a,fix(curriculum): typo changed from trnasforming to transforming (#60495),2025-05-23T04:50:47Z,1,2,qdow,freeCodeCamp,freeCodeCamp
