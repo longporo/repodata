@@ -1,5 +1,14 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87HJpGX,61901,Inaccurate test case in Golf Score Lab (with minor edits),OPEN,2025-08-21T10:25:15Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87HTvnl,61910,Empty instrcutions for Labs and Projects,CLOSED,2025-08-22T02:08:47Z,2025-08-24T23:59:56Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86qG_r-,58807,Navbar style breaks in high contrast mode due to transparency/white background,OPEN,2025-02-14T15:09:34Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87EruLQ,61712,rewrite description of Budget App,OPEN,2025-08-07T09:47:32Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Hqyt3,61931,Remove backticks from Python,OPEN,2025-08-24T20:35:11Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GaHAZ,61855,Missing visual reference in CSS/Design/User Interface Design Fundamentals/What Is the Importance of Whitespace in Design?,OPEN,2025-08-17T22:54:31Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86NI88D,55293,"A2 English for Developers (Beta): Option to pause and seek, transcript after first playback, add hints",OPEN,2024-06-22T17:50:45Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X867heXg,60874,backend test runner does not set origin on fetch,OPEN,2025-06-14T12:41:21Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87HJpGX,61901,Inaccurate test case in Golf Score Lab (with minor edits),CLOSED,2025-08-21T10:25:15Z,2025-08-24T17:07:51Z,whiteSHADOW1234,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87HpzQZ,61928,No lesson on HTML entities in javascript curriculum,CLOSED,2025-08-24T15:22:22Z,2025-08-24T17:04:10Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Hp5KM,61929,Inconsistency in Project Euler Problem 89 Description,OPEN,2025-08-24T15:47:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87CrusO,61484,Clarify that the replace() method returns a new string,CLOSED,2025-07-26T23:00:15Z,2025-08-23T18:19:21Z,NiloySaha84;ilenia-magoni,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Hkukk,61926,A Few Fixes in B1 English – Learn How to Talk About Past Activities,OPEN,2025-08-23T14:15:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86xSpqy,59607,Build a Fortune Teller - Incorrect code passing,OPEN,2025-04-05T19:36:41Z,,,freeCodeCamp,freeCodeCamp
@@ -14,7 +23,6 @@ I_kwDOAbI7X866HVFV,60731,Tic-tac-toe lab - not checked diagonal win conditions,O
 I_kwDOAbI7X87Gx24D,61879,Build a Markdown to HTML Converter test 47,CLOSED,2025-08-19T16:19:13Z,2025-08-22T08:44:03Z,Dario-DC,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87HOeBi,61905,Build a Shopping Cart Step 26 - Unclear instructions,OPEN,2025-08-21T16:41:18Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GNTsZ,61829,Build a One-Time Password Generator p element,CLOSED,2025-08-15T14:03:46Z,2025-08-22T08:28:08Z,pkdvalis,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87HTvnl,61910,Empty instrcutions for Labs and Projects,OPEN,2025-08-22T02:08:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GXcnD,61847,Is the code in the example wrong? -- Working with Backgrounds and Borders - What Are Some Accessibility Considerations for Backgrounds?,OPEN,2025-08-17T06:56:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87D7MCP,61653,Clarification Needed in Lecture on Abbreviations and Acronyms in HTML,OPEN,2025-08-03T11:01:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Drg_P,61635,Test not working in step 24 workshop-hotel-feedback-form,CLOSED,2025-08-01T07:57:52Z,2025-08-20T16:03:22Z,StuartMosquera,freeCodeCamp,freeCodeCamp
@@ -27,7 +35,6 @@ I_kwDOAbI7X87Gpv2c,61869,"Daily Coding Challenge - August 11, 2025 - differing a
 I_kwDOAbI7X87FnLpo,61791,A feature request for a lists of tags as which all articles are labelled,OPEN,2025-08-12T18:30:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GHGsi,61818,i18n: consider turning on type-checking for translations,OPEN,2025-08-14T22:23:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X860UlYp,60034,Full Stack - Build a Markdown to HTML Converter tests 38 and 47,CLOSED,2025-04-28T15:15:51Z,2025-08-19T12:18:39Z,pkdvalis,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87GaHAZ,61855,Missing visual reference in CSS/Design/User Interface Design Fundamentals/What Is the Importance of Whitespace in Design?,OPEN,2025-08-17T22:54:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869KzgP,61051,React Fundamentals missing lab work or workshop on keys and list rendering,CLOSED,2025-06-25T01:06:47Z,2025-08-19T09:53:30Z,jdwilkin4;sskiragu,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86LfCa6,55111,Definitions should be improved for SciComPy,OPEN,2024-06-07T10:49:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8559Y1b,52583,[python]: learn-recursion-by-solving-the-tower-of-hanoi-puzzle,CLOSED,2023-12-18T09:20:11Z,2025-08-19T06:23:49Z,,freeCodeCamp,freeCodeCamp
@@ -55,13 +62,11 @@ I_kwDOAbI7X86yiMm8,59725,Full stack HTML Accessibility Lab: Build a checkout pag
 I_kwDOAbI7X87E_-XX,61751,Update array methods lecture to talk about the distinction between primitive values and object/array values,OPEN,2025-08-08T20:10:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87F51Hx,61810,Build a Library Manager Step 11,OPEN,2025-08-14T00:25:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EnBMr,61701,Add a code example for svg lecture,CLOSED,2025-08-07T01:24:58Z,2025-08-14T12:15:08Z,Hiruna-SP,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86qG_r-,58807,Navbar style breaks in high contrast mode due to transparency/white background,OPEN,2025-02-14T15:09:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87F3Eia,61803,Remove `showTranscriptTabs`,CLOSED,2025-08-13T19:13:41Z,2025-08-14T11:42:04Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X860-p3l,60129,Add checks to ensure that proper headings are present in english curriculum challenges,CLOSED,2025-05-02T15:45:35Z,2025-08-14T11:39:19Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87F3KVd,61804,Step 51 JavaScript Algorithms and Data Structures- Building a Todo App,CLOSED,2025-08-13T19:22:05Z,2025-08-13T19:26:33Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-XO2I,61177,Add solution code to the metadata of the first workshop step,OPEN,2025-07-01T20:46:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87F2WM7,61802,JavaScript Arrays Quiz error - keys() is an array method,CLOSED,2025-08-13T18:01:59Z,2025-08-14T09:29:03Z,PRIYAM,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87EruLQ,61712,rewrite description of Budget App,OPEN,2025-08-07T09:47:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Fp30B,61795,"Group React imports into a single statement in ""Working with Forms in React"" lecture",CLOSED,2025-08-12T22:02:34Z,2025-08-13T18:15:16Z,helfer1991,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87D6CJV,61650,consider adding test for `contacts` in profile lookup lab,CLOSED,2025-08-03T06:48:04Z,2025-08-13T08:54:07Z,StuartMosquera,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Fnw9z,61792,Build a Confidential Email Page tests 9 and 10 impossible to pass,CLOSED,2025-08-12T19:14:38Z,2025-08-13T06:43:10Z,,freeCodeCamp,freeCodeCamp
@@ -242,7 +247,6 @@ I_kwDOAbI7X86-yPYO,61203,Full Stack HTML Accessibility curriculum: tabindex clar
 I_kwDOAbI7X86-okqZ,61195,Need explanation for forward slash in void elements,CLOSED,2025-07-03T07:11:25Z,2025-07-17T21:08:44Z,alexgoldsmith,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87A-nNN,61372,Two valid answers in the CSS Grid Quiz with one minor lab edit,CLOSED,2025-07-16T23:37:36Z,2025-07-17T20:29:00Z,garyeung,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BDK6V,61379,"chore: update asserts in workshop magazine steps 76-77,79",CLOSED,2025-07-17T09:27:14Z,2025-07-17T18:56:50Z,dragon-slayer27,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X867heXg,60874,backend test runner does not set origin on fetch,OPEN,2025-06-14T12:41:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86IR6nC,54713,Multifile editor - visual indication which editor is for which file,CLOSED,2024-05-08T20:32:52Z,2025-07-16T16:24:48Z,Arif-Khalid,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87A2E4R,61365,List of missing Lecture Transcript and Questions,CLOSED,2025-07-16T10:37:57Z,2025-07-16T10:51:47Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864sFrV,60576,first challenge of backend and api microservices does not give enough infos,OPEN,2025-05-28T21:09:54Z,,,freeCodeCamp,freeCodeCamp
@@ -299,7 +303,6 @@ I_kwDOAbI7X86-T-t6,61175,Updating options in challenge helper script for creatin
 I_kwDOAbI7X86_g-wI,61254,Colored Boxes Lab tests fail without a semicolon,CLOSED,2025-07-08T16:16:21Z,2025-07-09T08:43:11Z,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86y9vC4,59791,Suggest to add shortcuts (play/pause video) support on the English course,CLOSED,2025-04-17T13:36:06Z,2025-07-08T20:07:33Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86nc5bo,58352,English curriculum - Lack of synchronization between audio and animation,CLOSED,2025-01-24T12:42:29Z,2025-07-08T20:02:57Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86NI88D,55293,"A2 English for Developers (Beta): Option to pause and seek, transcript after first playback, add hints",OPEN,2024-06-22T17:50:45Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_PMlj,61240,chore: update tests to use specific asserts in magazine workshop stesp 31-37,CLOSED,2025-07-07T10:30:40Z,2025-07-08T08:16:18Z,baibhavmandal,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-tTrQ,61198,Client Side Form Transcript incomplete,CLOSED,2025-07-03T14:11:46Z,2025-07-07T23:51:27Z,dev-kamil,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_Lf3g,61235,Expanding FSD selections,OPEN,2025-07-07T03:57:41Z,,,freeCodeCamp,freeCodeCamp
