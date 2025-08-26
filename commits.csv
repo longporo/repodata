@@ -1,4 +1,14 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+45c098d506c9c2e271b4a84e39ff8f7ec2f177a3,feat(api): s/jest/vitest/g (#61863),2025-08-25T17:27:56Z,58,2887,raisedadead,freeCodeCamp,freeCodeCamp
+fed489f092a57aff3c311be2d2decdfd6c5da8e8,chore(tools): update daily challenge seed script (#61721),2025-08-25T14:42:56Z,1,6,moT01,freeCodeCamp,freeCodeCamp
+79f3ee2844d176e52d4b8024fedeb44246ce574e,fix(client): initialize theme during gatsby SSR (#61922),2025-08-25T14:35:14Z,2,41,huyenltnguyen,freeCodeCamp,freeCodeCamp
+df9b21146fa2fdac521290f68f4e84d1c77daaa0,feat(curriculum): add lab for implementing a sorted index finder (#61…,2025-08-25T12:48:27Z,5,142,Sembauke,freeCodeCamp,freeCodeCamp
+3a9a4c9340424d261ae043aed15baf5a65516d51,feat(curriculum): release the Tailwind portion of the new FSD curricu…,2025-08-25T11:58:25Z,9,17,Ksound22,freeCodeCamp,freeCodeCamp
+fdb4a0a7bc79f71dc3f67d92922b3d2cc0c02810,fix(curriculum): correct wording in B1 Past Activities lesson (#61938),2025-08-25T11:35:30Z,4,10,whiteSHADOW1234,freeCodeCamp,freeCodeCamp
+ceadc376b183b7df1e00b9af198c231f742157e3,fix(curriculum): update CSS library and framework review page (#61872),2025-08-25T09:57:25Z,1,88,larymak,freeCodeCamp,freeCodeCamp
+a068693cf4a76930805d36742035074368f94c7e,fix(curriculum): update test to check diagonal win conditions (#61674),2025-08-25T09:20:42Z,1,28,tanmaygautam11,freeCodeCamp,freeCodeCamp
+c97ca99bcde1b58fe34721428456ca505ce4aeab,fix(curriculum): singular verb for text (#61932),2025-08-25T09:16:36Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+8acec2ca7b9b37993e42a4d614ea8c727972012b,chore(curriculum): add images to Whitespace in Design lecture (#61874),2025-08-25T07:15:38Z,1,10,huyenltnguyen,freeCodeCamp,freeCodeCamp
 4b0ac1009493dab387da651e5a869bae46ee7956,fix(curriculum): correct golf score user story (#61927),2025-08-24T17:07:50Z,1,8,whiteSHADOW1234,freeCodeCamp,freeCodeCamp
 1cca628c541ca1bdb65d7a9fb501cf91b5089189,fix(curriculum): clarify that replace() returns a new string in JS le…,2025-08-23T18:19:20Z,3,6,NiloySaha84,freeCodeCamp,freeCodeCamp
 7c25ffc55638bfb2922c6ee75f7f4c09dd8e73ef,fix(curriculum): add 'should' to correct typo in step 68 (#61916),2025-08-23T04:17:32Z,1,2,DevchamploO,freeCodeCamp,freeCodeCamp
@@ -625,4 +635,3 @@ a90e2757ac26d5753e22557de31df05aab443013,chore(api): add exam-env test script (#
 4af4f7bff4c935196a7437dbca56ea2c6c426e42,fix(curriculum): typo in learn introductions in an online team meetin…,2025-05-26T18:36:24Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
 469f0c0f0ba2ad65da415cfa10fd28754bb7ce62,fix(curriculum): make spaces optional in movie rating test (#60524),2025-05-26T16:55:58Z,1,2,lejenhan,freeCodeCamp,freeCodeCamp
 1b14282da085a9aacf1c081eb6909a02310f18d6,fix(curriculum): make spacing requirement less strict in Movie Review…,2025-05-26T09:13:26Z,1,4,PabloGarza328,freeCodeCamp,freeCodeCamp
-999b3e892813ed926d659641d778e217ae5fac2a,fix(curriculum): only sanitize task id with removeSpecialChars (#60482),2025-05-25T17:58:18Z,1,20,roberiacono,freeCodeCamp,freeCodeCamp
