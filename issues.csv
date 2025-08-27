@@ -1,5 +1,5 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87Hy_hR,61948,❄️❄️ CODE FREEZE ACTIVE ❄️❄️,OPEN,2025-08-25T14:13:43Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Hy_hR,61948,❄️❄️ CODE FREEZE ACTIVE ❄️❄️,CLOSED,2025-08-25T14:13:43Z,2025-08-26T21:19:05Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Hv6Ui,61940,Update Frontend Libraries Chapter review,OPEN,2025-08-25T10:04:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Hkukk,61926,A Few Fixes in B1 English – Learn How to Talk About Past Activities,CLOSED,2025-08-23T14:15:23Z,2025-08-25T11:35:31Z,whiteSHADOW1234,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86sLghp,59081,Long certifications page,OPEN,2025-03-01T07:31:49Z,,,freeCodeCamp,freeCodeCamp
@@ -549,7 +549,3 @@ I_kwDOAbI7X86361KS,60497,[Coding Interview Prep Algorithms] Update intros to men
 I_kwDOAbI7X863-KTz,60503,Build a Permutation Generator Test 7,CLOSED,2025-05-23T14:12:47Z,2025-05-27T10:53:24Z,AilaLu,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85ujMfT,51311,Create simple UI/Client to play with API,CLOSED,2023-08-17T10:25:41Z,2025-05-27T07:43:41Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863QIEY,60438,Handle 403 error with msg and do not send to sentry.,CLOSED,2025-05-19T16:49:49Z,2025-05-27T04:21:04Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864GctH,60516,[Curriculum]- New Tool feature; chai-ify in challenge editor,OPEN,2025-05-24T20:01:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864KFMS,60523,Test too strict in movie review page ,CLOSED,2025-05-25T23:32:06Z,2025-05-26T16:55:59Z,huyenltnguyen;lejenhan,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863dPAc,60457,Movie Review Page - imprecise requirements,CLOSED,2025-05-20T18:29:47Z,2025-05-26T09:13:27Z,PabloGarza328,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864Ljyp,60525,"Console Error: ""expected { status: 'unavailable' } to be an array"" appears despite all tests passing",CLOSED,2025-05-26T05:21:01Z,2025-05-26T05:39:31Z,,freeCodeCamp,freeCodeCamp
