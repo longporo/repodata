@@ -1,4 +1,9 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+dbdb6944cd439cc55d84c7a6417d48569003c7f4,feat(curriculum): add error handling lecture scripts (#61641),2025-08-26T18:26:03Z,7,855,larymak,freeCodeCamp,freeCodeCamp
+156053bc244faabb8523f0d63bd3c35f006c6dd3,feat: create a card counting lab (#61857),2025-08-26T17:55:23Z,5,237,a2937,freeCodeCamp,freeCodeCamp
+2005a3d4c5fac1aa76ce90ef1ff56e142e9dba27,feat: add arguments optional lab to full stack (#61835),2025-08-26T16:45:41Z,5,152,ilenia-magoni,freeCodeCamp,freeCodeCamp
+64dcea96dda37dde6a0d7a1c133655662071fa1f,"chore(i18n,client): processed translations (#61944)",2025-08-26T16:01:50Z,10,70,camperbot,freeCodeCamp,freeCodeCamp
+a801d503bc91dcae1860ca7a24db06c9c2fec726,refactor: top-down curriculum build (#61459),2025-08-26T10:37:26Z,14726,85211,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 45c098d506c9c2e271b4a84e39ff8f7ec2f177a3,feat(api): s/jest/vitest/g (#61863),2025-08-25T17:27:56Z,58,2887,raisedadead,freeCodeCamp,freeCodeCamp
 fed489f092a57aff3c311be2d2decdfd6c5da8e8,chore(tools): update daily challenge seed script (#61721),2025-08-25T14:42:56Z,1,6,moT01,freeCodeCamp,freeCodeCamp
 79f3ee2844d176e52d4b8024fedeb44246ce574e,fix(client): initialize theme during gatsby SSR (#61922),2025-08-25T14:35:14Z,2,41,huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -632,6 +637,3 @@ c754f29879ed0a36a309084a54c995dfd7926605,"chore(i18n,client): processed translat
 a90e2757ac26d5753e22557de31df05aab443013,chore(api): add exam-env test script (#60445),2025-05-27T04:23:51Z,3,48,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 0b1db2b9c682e1ba1ff7085a210e2eab5f684748,fix(api): handle expected Auth0 errors (#60499),2025-05-27T04:21:03Z,4,156,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 6299f545edf3db52e49ef9e65d9a705f7e9b5dd5,fix(curriculum): typos in DOM review (#60534),2025-05-27T03:57:38Z,1,4,Supravisor,freeCodeCamp,freeCodeCamp
-4af4f7bff4c935196a7437dbca56ea2c6c426e42,fix(curriculum): typo in learn introductions in an online team meetin…,2025-05-26T18:36:24Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-469f0c0f0ba2ad65da415cfa10fd28754bb7ce62,fix(curriculum): make spaces optional in movie rating test (#60524),2025-05-26T16:55:58Z,1,2,lejenhan,freeCodeCamp,freeCodeCamp
-1b14282da085a9aacf1c081eb6909a02310f18d6,fix(curriculum): make spacing requirement less strict in Movie Review…,2025-05-26T09:13:26Z,1,4,PabloGarza328,freeCodeCamp,freeCodeCamp
