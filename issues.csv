@@ -1,17 +1,21 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87IWBw0,61969,i18n: complete migration to i18next v25.4.2,OPEN,2025-08-27T23:54:01Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87IMVeb,61953,"Typo/ ""This this"" in how to contribute to open source handbook",CLOSED,2025-08-27T09:23:59Z,2025-08-27T21:23:14Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Hp5KM,61929,Inconsistency in Project Euler Problem 89 Description,CLOSED,2025-08-24T15:47:31Z,2025-08-27T18:24:48Z,ilenia-magoni;tharu-jwd,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ISDmN,61964,Use markdown block for example in Project Euler Problem 89,OPEN,2025-08-27T17:11:09Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87IMzz7,61954,Correct challenge type of A2 English exam,CLOSED,2025-08-27T10:07:42Z,2025-08-27T12:23:59Z,HarshSachdeva01,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87EruLQ,61712,rewrite description of Budget App,CLOSED,2025-08-07T09:47:32Z,2025-08-27T08:25:18Z,Dario-DC;kb42,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86sLghp,59081,Long certifications page,OPEN,2025-03-01T07:31:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Hy_hR,61948,❄️❄️ CODE FREEZE ACTIVE ❄️❄️,CLOSED,2025-08-25T14:13:43Z,2025-08-26T21:19:05Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Hv6Ui,61940,Update Frontend Libraries Chapter review,OPEN,2025-08-25T10:04:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Hkukk,61926,A Few Fixes in B1 English – Learn How to Talk About Past Activities,CLOSED,2025-08-23T14:15:23Z,2025-08-25T11:35:31Z,whiteSHADOW1234,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86sLghp,59081,Long certifications page,OPEN,2025-03-01T07:31:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EDMCZ,61660,[feat] curriculum ui structure for reviews and exams,OPEN,2025-08-04T12:09:14Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X852Ye7Q,52304,English Curriculum Tasks,CLOSED,2023-11-09T17:52:05Z,2025-08-25T09:55:09Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Hp5KM,61929,Inconsistency in Project Euler Problem 89 Description,OPEN,2025-08-24T15:47:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GdcHm,61859,☂️ Umbrella Issue updating lectures with code examples ☂️,OPEN,2025-08-18T07:52:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866HVFV,60731,Tic-tac-toe lab - not checked diagonal win conditions,CLOSED,2025-06-05T20:00:07Z,2025-08-25T09:20:43Z,tanmaygautam11,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GaHAZ,61855,Missing visual reference in CSS/Design/User Interface Design Fundamentals/What Is the Importance of Whitespace in Design?,CLOSED,2025-08-17T22:54:31Z,2025-08-25T07:15:40Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87HTvnl,61910,Empty instrcutions for Labs and Projects,CLOSED,2025-08-22T02:08:47Z,2025-08-24T23:59:56Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86qG_r-,58807,Navbar style breaks in high contrast mode due to transparency/white background,OPEN,2025-02-14T15:09:34Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87EruLQ,61712,rewrite description of Budget App,OPEN,2025-08-07T09:47:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Hqyt3,61931,Remove backticks from Python,OPEN,2025-08-24T20:35:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86NI88D,55293,"A2 English for Developers (Beta): Option to pause and seek, transcript after first playback, add hints",OPEN,2024-06-22T17:50:45Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867heXg,60874,backend test runner does not set origin on fetch,OPEN,2025-06-14T12:41:21Z,,,freeCodeCamp,freeCodeCamp
@@ -541,11 +545,3 @@ I_kwDOAbI7X864lAet,60560,Keyboard does not work in the console,CLOSED,2025-05-28
 I_kwDOAbI7X864WKON,60535,Improve post-sign-up feedback for new and returning users.,CLOSED,2025-05-27T06:54:10Z,2025-05-28T09:27:13Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864jjkq,60556,Design a movie review page,CLOSED,2025-05-28T07:22:03Z,2025-05-28T08:25:53Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864Yfww,60541,Typo in Discuss Your Morning or Evening Routine - Task 9,CLOSED,2025-05-27T10:25:20Z,2025-05-28T08:17:34Z,phoenixvasu,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863jSmo,60460,"Incomplete sentence in Workshop ""Build a Todo App using Local Storage"" - Step 53",CLOSED,2025-05-21T09:00:32Z,2025-05-27T19:01:50Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X859o6mT,53449,Add missing backticks for numbers for step 166 and 167 RPG game,CLOSED,2024-01-30T13:32:40Z,2024-01-31T06:10:01Z,ahujaesh,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864YegG,60540,Typo in JS review,CLOSED,2025-05-27T10:23:17Z,2025-05-27T16:54:35Z,dev-kamil,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864AmkT,60507,Weather App - helper function does not allow for encodeURIComponent encoded URLs,CLOSED,2025-05-23T18:10:58Z,2025-05-27T14:33:53Z,Anideep-Kalia,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86361KS,60497,[Coding Interview Prep Algorithms] Update intros to mention JS only solutions,CLOSED,2025-05-23T08:38:30Z,2025-05-27T14:14:33Z,nobu1,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863-KTz,60503,Build a Permutation Generator Test 7,CLOSED,2025-05-23T14:12:47Z,2025-05-27T10:53:24Z,AilaLu,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X85ujMfT,51311,Create simple UI/Client to play with API,CLOSED,2023-08-17T10:25:41Z,2025-05-27T07:43:41Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863QIEY,60438,Handle 403 error with msg and do not send to sentry.,CLOSED,2025-05-19T16:49:49Z,2025-05-27T04:21:04Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
