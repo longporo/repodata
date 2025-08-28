@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+399f000eac229b08221a3658c4cbc46bd1957a10,fix(curriculum): remove contradictory note in Problem 89 description …,2025-08-27T18:24:46Z,1,2,tharu-jwd,freeCodeCamp,freeCodeCamp
+0c1498a84deaacd2acab815b413a69ce908bf371,fix(environment): Use DEPLOYMENT_ENV and DEPLOYMENT_TLD (#61925),2025-08-27T17:17:21Z,4,21,raisedadead,freeCodeCamp,freeCodeCamp
+12b5905c6031e6742824178d941f02bfa4b2bf33,refactor: remove isPrivate (#61952),2025-08-27T17:15:36Z,34,466,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+918e0abb9d060b15776fbaa65b6fdd0b1c11e736,chore(curriculum): replace quote marks with backticks in description …,2025-08-27T16:36:21Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+7f0d42b638601c0326f02a23e8a23eabb0124fd0,chore: disable curriculum translation deletion (#61961),2025-08-27T16:32:16Z,1,11,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+bcc509e6bfeab4319bca2ffd88594be14aa973fb,fix(curriculum): update challenge type of a2 english exam (#61955),2025-08-27T12:23:57Z,1,2,HarshSachdeva01,freeCodeCamp,freeCodeCamp
+91608a165de7039e5676d9fac80236e15442f9c8,fix(curriculum): Rewrote budget app description (#61737),2025-08-27T08:25:16Z,1,152,kb42,freeCodeCamp,freeCodeCamp
 dbdb6944cd439cc55d84c7a6417d48569003c7f4,feat(curriculum): add error handling lecture scripts (#61641),2025-08-26T18:26:03Z,7,855,larymak,freeCodeCamp,freeCodeCamp
 156053bc244faabb8523f0d63bd3c35f006c6dd3,feat: create a card counting lab (#61857),2025-08-26T17:55:23Z,5,237,a2937,freeCodeCamp,freeCodeCamp
 2005a3d4c5fac1aa76ce90ef1ff56e142e9dba27,feat: add arguments optional lab to full stack (#61835),2025-08-26T16:45:41Z,5,152,ilenia-magoni,freeCodeCamp,freeCodeCamp
@@ -621,19 +628,3 @@ df7c9bcdf1d649513c4afc5b599b405c5f892366,feat(curriculum): add testing lecture v
 86b76f2eecf32cf2cfa4986da4aded1db1129295,chore(curriculum): add two labs to full stack/javascript/loops (#60185),2025-05-28T14:58:09Z,9,286,ilenia-magoni,freeCodeCamp,freeCodeCamp
 466e7208123e6428f8b1e265ae29e0ab3167522b,"fix(curriculum): correct ""Psuedocode"" typo in TOP lesson C (#60558)",2025-05-28T10:49:14Z,1,2,anjanavishvanath,freeCodeCamp,freeCodeCamp
 15cd2b48ce085b9085ee3a997f5120f8dcd31b73,fix(curriculum): correct typo 'strech' to 'stretch' in Task 9 (#60554),2025-05-28T08:17:32Z,1,2,phoenixvasu,freeCodeCamp,freeCodeCamp
-d0eacea68ded24dbadfe2b4b6333f41353db4403,fix(curriculum): typos in JS review (#60548),2025-05-27T16:54:33Z,1,4,dev-kamil,freeCodeCamp,freeCodeCamp
-3cde3e17d60593de16366eb1674c4176f3afa386,refactor: remove unused format rules from response schema (#60538),2025-05-27T16:16:32Z,1,8,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-c754f29879ed0a36a309084a54c995dfd7926605,"chore(i18n,client): processed translations (#60528)",2025-05-27T16:09:37Z,10,332,camperbot,freeCodeCamp,freeCodeCamp
-2f5a7ce1f851e2d96fe02d5b296d55ea7a4e4f2e,"chore(i18n,learn): update i18n-curriculum submodule (#60530)",2025-05-27T16:08:23Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-50c0194ee4de2bc4c1290418bbd02133c6d71cd2,test(api): stop reporting request logs during testing (#60546),2025-05-27T16:05:25Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-4edd1af7e4f5e8db30a2a34a20664b93bffde00e,chore: corepack use pnpm (#60536),2025-05-27T14:48:54Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-5748ca5750f78ea07e5aa5dbbb380647ad14a429,fix(curriculum): allow encoded URLs in Weather App (#60514),2025-05-27T14:33:52Z,1,223,Anideep-Kalia,freeCodeCamp,freeCodeCamp
-90230f491db931eb28972d463073972a20e00690,fix(client): add note on JS support to interview prep blocks (#60509),2025-05-27T14:14:32Z,1,26,nobu1,freeCodeCamp,freeCodeCamp
-63f6a5d61e6162c1464721257731abba1bb8f9ae,fix: replace clean:server with clean:api (#60544),2025-05-27T11:52:28Z,1,2,huyenltnguyen,freeCodeCamp,freeCodeCamp
-89e9a31ceba5bd6e8ce1f20851ca5078fc604438,chore(deps): update i18next (#60542),2025-05-27T11:39:18Z,7,122,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-33e8c416a760fae029371deffb06caf4ad5290aa,fix(curriculum): update lab-permutation-generator test 7 (#60526),2025-05-27T10:53:23Z,1,5,AilaLu,freeCodeCamp,freeCodeCamp
-464bae459514f68760cdb144160cb0c266c6cc05,chore: update pnpm version,2025-05-27T07:47:57Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
-16e461385e385f7740a0874aa122bac7275b2f66,chore(api-server): bye-bye you served us well (#60520),2025-05-27T04:26:46Z,139,14662,raisedadead,freeCodeCamp,freeCodeCamp
-a90e2757ac26d5753e22557de31df05aab443013,chore(api): add exam-env test script (#60445),2025-05-27T04:23:51Z,3,48,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-0b1db2b9c682e1ba1ff7085a210e2eab5f684748,fix(api): handle expected Auth0 errors (#60499),2025-05-27T04:21:03Z,4,156,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-6299f545edf3db52e49ef9e65d9a705f7e9b5dd5,fix(curriculum): typos in DOM review (#60534),2025-05-27T03:57:38Z,1,4,Supravisor,freeCodeCamp,freeCodeCamp
