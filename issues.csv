@@ -1,8 +1,14 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87IZLyn,61971,[bug] cors + 403 when submitting challenges,OPEN,2025-08-28T06:46:45Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87IgUwo,61976,use correct assert method,CLOSED,2025-08-28T16:14:48Z,2025-08-28T19:02:39Z,ChaseKnowlden,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87IhcaO,61979,in local build edited steps loose order,OPEN,2025-08-28T18:00:36Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GHGsi,61818,i18n: consider turning on type-checking for translations,OPEN,2025-08-14T22:23:16Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864YrCj,60543,Setup i18next types,CLOSED,2025-05-27T10:42:46Z,2025-08-28T10:49:51Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ISDmN,61964,Use markdown block for example in Project Euler Problem 89,CLOSED,2025-08-27T17:11:09Z,2025-08-28T09:23:16Z,AkshatHotCode,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87IZNbq,61972,CORS issue when submitting a challenge,CLOSED,2025-08-28T06:49:33Z,2025-08-28T06:50:06Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87IWBw0,61969,i18n: complete migration to i18next v25.4.2,OPEN,2025-08-27T23:54:01Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87IMVeb,61953,"Typo/ ""This this"" in how to contribute to open source handbook",CLOSED,2025-08-27T09:23:59Z,2025-08-27T21:23:14Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Hp5KM,61929,Inconsistency in Project Euler Problem 89 Description,CLOSED,2025-08-24T15:47:31Z,2025-08-27T18:24:48Z,ilenia-magoni;tharu-jwd,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ISDmN,61964,Use markdown block for example in Project Euler Problem 89,OPEN,2025-08-27T17:11:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87IMzz7,61954,Correct challenge type of A2 English exam,CLOSED,2025-08-27T10:07:42Z,2025-08-27T12:23:59Z,HarshSachdeva01,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EruLQ,61712,rewrite description of Budget App,CLOSED,2025-08-07T09:47:32Z,2025-08-27T08:25:18Z,Dario-DC;kb42,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86sLghp,59081,Long certifications page,OPEN,2025-03-01T07:31:49Z,,,freeCodeCamp,freeCodeCamp
@@ -43,7 +49,6 @@ I_kwDOAbI7X86-GFak,61164,Full Stack curriculum data types lecture,CLOSED,2025-06
 I_kwDOAbI7X86pPhpV,58652,Review Algorithmic Thinking by Building a Dice Game - Discrepency between instructions and hints,CLOSED,2025-02-08T02:37:55Z,2025-08-19T17:44:49Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Gpv2c,61869,"Daily Coding Challenge - August 11, 2025 - differing argument in hint and test",CLOSED,2025-08-19T04:22:17Z,2025-08-19T17:25:47Z,saurabh-pingale,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87FnLpo,61791,A feature request for a lists of tags as which all articles are labelled,OPEN,2025-08-12T18:30:34Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87GHGsi,61818,i18n: consider turning on type-checking for translations,OPEN,2025-08-14T22:23:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X860UlYp,60034,Full Stack - Build a Markdown to HTML Converter tests 38 and 47,CLOSED,2025-04-28T15:15:51Z,2025-08-19T12:18:39Z,pkdvalis,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869KzgP,61051,React Fundamentals missing lab work or workshop on keys and list rendering,CLOSED,2025-06-25T01:06:47Z,2025-08-19T09:53:30Z,jdwilkin4;sskiragu,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86LfCa6,55111,Definitions should be improved for SciComPy,OPEN,2024-06-07T10:49:35Z,,,freeCodeCamp,freeCodeCamp
@@ -459,7 +464,6 @@ I_kwDOAbI7X866g82M,60788,tanstack-query could be used at challenge-editor code,C
 I_kwDOAbI7X866TT4h,60751,Grammar error in fCC Authors Page - step 12,CLOSED,2025-06-06T19:00:35Z,2025-06-09T11:18:42Z,atithi4dev,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865W_bs,60661,"Excessive RAM usage in Safari (MacOS 15.5, M2)",CLOSED,2025-06-02T11:40:54Z,2025-06-05T12:48:25Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863ncHY,60465,Contact users with no email address,OPEN,2025-05-21T15:09:01Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864YrCj,60543,Setup i18next types,OPEN,2025-05-27T10:42:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866eoAx,60782,elmouselhyaboshamia@gmail.com,CLOSED,2025-06-08T18:13:23Z,2025-06-08T18:23:09Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866en9B,60781,elmouselhyaboshamia@gmail.com,CLOSED,2025-06-08T18:13:03Z,2025-06-08T18:22:57Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866aQH6,60775,Automated Security Findings for README,CLOSED,2025-06-07T20:00:25Z,2025-06-07T20:05:28Z,,freeCodeCamp,freeCodeCamp
@@ -535,13 +539,3 @@ I_kwDOAbI7X864b1Ju,60547,Fix mobile responsive issues for Weather app,CLOSED,202
 I_kwDOAbI7X864xdHt,60594,typo in lab - weather app - test 15,CLOSED,2025-05-29T11:02:19Z,2025-05-29T14:03:09Z,RobTou,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864dObI,60550,Issue with What Are Some Common Accessibility Auditing Tools to Use?,CLOSED,2025-05-27T17:31:18Z,2025-05-29T11:45:35Z,RITIKMANGAL,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864ucAi,60583,Can a one-time donation remove ads?,CLOSED,2025-05-29T04:58:48Z,2025-05-29T06:04:38Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86uxnmH,59343,Update FSD order to reflect changes discussed in curriculum meeting,CLOSED,2025-03-19T15:33:29Z,2025-05-28T22:31:35Z,moT01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86QC8Cd,55559,Allow all valid versions of browser alert,CLOSED,2024-07-18T15:10:51Z,2025-05-28T17:36:35Z,Monica Behrend;monbehre;raisedadead;riyueguang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86iV28g,57436,URGENT - labs need a reset code button,CLOSED,2024-12-06T18:03:16Z,2025-05-28T15:18:40Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86wD3Tw,59469,Break up accessibility lecture block into smaller blocks,CLOSED,2025-03-27T17:05:58Z,2025-05-28T15:13:19Z,jdwilkin4,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861cTFs,60200,Width for code examples in lectures are not the same,OPEN,2025-05-06T21:46:42Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864euHO,60555,[TOP] Typo in Learn to Solve Problems and Understand Errors Lesson C,CLOSED,2025-05-27T20:03:50Z,2025-05-28T10:49:16Z,“anjanavishvanath”,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864lAet,60560,Keyboard does not work in the console,CLOSED,2025-05-28T09:36:46Z,2025-05-28T10:36:04Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864WKON,60535,Improve post-sign-up feedback for new and returning users.,CLOSED,2025-05-27T06:54:10Z,2025-05-28T09:27:13Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864jjkq,60556,Design a movie review page,CLOSED,2025-05-28T07:22:03Z,2025-05-28T08:25:53Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864Yfww,60541,Typo in Discuss Your Morning or Evening Routine - Task 9,CLOSED,2025-05-27T10:25:20Z,2025-05-28T08:17:34Z,phoenixvasu,freeCodeCamp,freeCodeCamp
