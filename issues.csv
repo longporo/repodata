@@ -1,8 +1,10 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87Ipb5V,61981,Misspelled word in lecture,CLOSED,2025-08-29T10:12:46Z,2025-08-29T17:16:37Z,Sonudhukia143,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87I0pO6,61993,"Remove ""exists"" from backticks in Working with Objects lecture",OPEN,2025-08-30T15:46:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87IZLyn,61971,[bug] cors + 403 when submitting challenges,OPEN,2025-08-28T06:46:45Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87IgUwo,61976,use correct assert method,CLOSED,2025-08-28T16:14:48Z,2025-08-28T19:02:39Z,ChaseKnowlden,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X868SO2n,60931,[Profile Card workshop] Step 4 not checking the return statement,OPEN,2025-06-19T04:37:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87IhcaO,61979,in local build edited steps loose order,OPEN,2025-08-28T18:00:36Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Ipb5V,61981,Misspelled word in lecture,CLOSED,2025-08-29T10:12:46Z,2025-08-29T17:16:37Z,Sonudhukia143,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87IgUwo,61976,use correct assert method,CLOSED,2025-08-28T16:14:48Z,2025-08-28T19:02:39Z,ChaseKnowlden,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GHGsi,61818,i18n: consider turning on type-checking for translations,OPEN,2025-08-14T22:23:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864YrCj,60543,Setup i18next types,CLOSED,2025-05-27T10:42:46Z,2025-08-28T10:49:51Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ISDmN,61964,Use markdown block for example in Project Euler Problem 89,CLOSED,2025-08-27T17:11:09Z,2025-08-28T09:23:16Z,AkshatHotCode,freeCodeCamp,freeCodeCamp
@@ -147,7 +149,6 @@ I_kwDOAbI7X87DGFDk,61565,edit profile not available,CLOSED,2025-07-29T10:50:18Z,
 I_kwDOAbI7X87D85hn,61658,"Learn Determiners and Advanced Use of Articles - Dialogue 1 - ""with them"" vs ""within the""",CLOSED,2025-08-03T20:41:50Z,2025-08-05T13:55:10Z,DanielRosa74,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866p8DT,60797,Certain explanations are wrapped in backticks,CLOSED,2025-06-09T21:41:17Z,2025-08-05T12:16:36Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861DFku,60142,"Add Search Suggestions for Articles, Tutorials, and Books",OPEN,2025-05-03T16:06:15Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868SO2n,60931,[Profile Card workshop] Step 4 not checking the return statement,OPEN,2025-06-19T04:37:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866nJm7,60795,Add warning when user attempts to close browser tab with unsaved privacy settings,CLOSED,2025-06-09T16:39:25Z,2025-08-05T08:44:24Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862Fyis,60278,Progress Bookmarking for Challenges or Tutorials,OPEN,2025-05-11T12:47:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861agW5,60197,Football Team Cards lab tests,CLOSED,2025-05-06T18:09:12Z,2025-08-05T07:34:29Z,,freeCodeCamp,freeCodeCamp
@@ -522,14 +523,3 @@ I_kwDOAbI7X865M48N,60642,"Minor grammar correction in ""Basic JavaScript: Profil
 I_kwDOAbI7X865PVfp,60650,rror: listen EADDRINUSE: address already in use :::3000 & Error: Cannot find module 'fcc-express-bground',CLOSED,2025-06-01T20:23:47Z,2025-06-01T20:43:11Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8648lRC,60612,Allow `var` declaration,CLOSED,2025-05-30T10:56:42Z,2025-06-02T08:04:27Z,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865BVic,60624,Backticks used incorrectly for HTTP method string in Fetch API example,CLOSED,2025-05-30T19:53:39Z,2025-05-31T06:22:52Z,dev-kamil,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8648gQY,60611,unclear wording in flexbox quiz,CLOSED,2025-05-30T10:47:49Z,2025-05-30T21:07:07Z,vishnudt2004,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863ols7,60470,Todo App using Local Storage — seriously reconsider using localStorage.clear(),CLOSED,2025-05-21T16:53:54Z,2025-05-30T21:06:52Z,c0d1ng-ma5ter;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864qAVH,60569,Update mocking lecture video and transcript,CLOSED,2025-05-28T17:09:57Z,2025-05-30T18:18:51Z,beaucarnes;moT01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86r0d14,59020,Rename Mario Project,CLOSED,2025-02-26T19:52:58Z,2025-05-30T17:01:33Z,moT01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86r0fRy,59021,Rename Pokemon Project,CLOSED,2025-02-26T19:55:15Z,2025-05-30T17:01:34Z,moT01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863nkQR,60466,IDPs and Social providers like Apple may not provide email address,CLOSED,2025-05-21T15:18:39Z,2025-05-30T17:02:56Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864xIVC,60592,Optimize the multiple choice questions for usability,OPEN,2025-05-29T10:27:55Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8644yh5,60605,Typo in Step 5 of Build a Loan Qualification Checker Lab,CLOSED,2025-05-30T02:07:21Z,2025-05-30T15:40:16Z,TrevorBrowning,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ysvbG,59745,Add set 2 of questions for Backgrounds and borders quiz,CLOSED,2025-04-16T01:34:57Z,2025-05-30T15:40:04Z,roberiacono,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8640bhS,60599,Inventory Management Program - Allow var declaration,CLOSED,2025-05-29T15:49:39Z,2025-05-30T10:41:22Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864wj8x,60588,Typo in Learn to Solve Problems and Understand Errors Lesson H,CLOSED,2025-05-29T09:28:45Z,2025-05-30T06:50:43Z,drrakonov,freeCodeCamp,freeCodeCamp
