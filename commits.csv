@@ -1,4 +1,6 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+c58ba56eebc2cf616fbca8577ceee35a0cbc1dfe,fix(Curriculum): removed unused imaged from scene-assets.js (#61975),2025-09-01T15:33:40Z,1,18,nieldakarla,freeCodeCamp,freeCodeCamp
+8ee9ea33ef00bb49ce8d905b2d50f088775cd749,fix(curriculum): correct object property syntax in working with objec…,2025-09-01T04:24:26Z,1,2,kashaf12,freeCodeCamp,freeCodeCamp
 92015b62c377dad0b3a0715fa3ee34fa899c7f8e,fix(curriculum): add Tailwind CSS section to FE Libs chapter review (…,2025-08-31T09:33:14Z,1,93,niyati34,freeCodeCamp,freeCodeCamp
 03b4fd46f10d1dad05a1576c0a01debed5a548b7,fix(client): align text in chapter button to the left when multi-line…,2025-08-30T17:32:51Z,1,9,Sembauke,freeCodeCamp,freeCodeCamp
 793f81be48deb3759f33fd77c9c222e2242e5f5c,fix(client): allow identical challenge ids multiple superblocks (#61982),2025-08-30T07:50:28Z,1,6,Sembauke,freeCodeCamp,freeCodeCamp
@@ -602,4 +604,3 @@ d525081a8541c238f9f434b443187793a28d3e75,fix(curriculum): replace unrelated curr
 7f5e4470803977ef4cdb399a90b59f2f8b3025fb,fix(curriculum): Allow `var` declarations in challenges (#60626),2025-06-02T08:04:26Z,19,48,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
 ae07221ef4bdc7ddf49d58a94a16f4b862729bb2,fix(curriculum): misaligned titles (#60647),2025-06-02T02:39:39Z,2,4,moT01,freeCodeCamp,freeCodeCamp
 89402caa9d50ae3d85ffd973f8bf84c69b577164,chore(api): migrate to fastify v5 (#57576),2025-06-02T02:37:57Z,14,595,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-690d05c7b9fce177c054c3b4319ca4e63c928bdc,fix(curriculum): typo in js fundamentals (#60649),2025-06-01T21:00:25Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
