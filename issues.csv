@@ -1,12 +1,14 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87JEGE6,62010,Bookmark Manager passes incorrect code,OPEN,2025-09-01T16:43:42Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87IhcaO,61979,in local build edited steps loose order,OPEN,2025-08-28T18:00:36Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86hhhdL,57378,Remove `partiallyCompletedChallenges` and `savedChallenges` from /get-public-profile,OPEN,2024-12-01T21:39:19Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87IZLyn,61971,[bug] cors + 403 when submitting challenges,OPEN,2025-08-28T06:46:45Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GaHAZ,61855,Missing visual reference in CSS/Design/User Interface Design Fundamentals/What Is the Importance of Whitespace in Design?,CLOSED,2025-08-17T22:54:31Z,2025-08-25T07:15:40Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87I0pO6,61993,"Remove ""exists"" from backticks in Working with Objects lecture",CLOSED,2025-08-30T15:46:50Z,2025-09-01T04:24:27Z,kashaf12,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87I5dvI,62001,Golf Score lab,CLOSED,2025-08-31T17:16:08Z,2025-08-31T22:42:03Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87I4MIe,61999,Reference to method chaining applying to objects,OPEN,2025-08-31T11:38:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Hv6Ui,61940,Update Frontend Libraries Chapter review,CLOSED,2025-08-25T10:04:57Z,2025-08-31T09:33:15Z,niyati34,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87I0pO6,61993,"Remove ""exists"" from backticks in Working with Objects lecture",OPEN,2025-08-30T15:46:50Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87IZLyn,61971,[bug] cors + 403 when submitting challenges,OPEN,2025-08-28T06:46:45Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868SO2n,60931,[Profile Card workshop] Step 4 not checking the return statement,OPEN,2025-06-19T04:37:16Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87IhcaO,61979,in local build edited steps loose order,OPEN,2025-08-28T18:00:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Ipb5V,61981,Misspelled word in lecture,CLOSED,2025-08-29T10:12:46Z,2025-08-29T17:16:37Z,Sonudhukia143,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87IgUwo,61976,use correct assert method,CLOSED,2025-08-28T16:14:48Z,2025-08-28T19:02:39Z,ChaseKnowlden,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GHGsi,61818,i18n: consider turning on type-checking for translations,OPEN,2025-08-14T22:23:16Z,,,freeCodeCamp,freeCodeCamp
@@ -163,7 +165,6 @@ I_kwDOAbI7X86-trTH,61200,avatars don't load in Forum Leaderboard lab,CLOSED,2025
 I_kwDOAbI7X86xBwHS,59575,[discussion] exam ux,CLOSED,2025-04-03T15:44:09Z,2025-08-04T11:25:57Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865pl-V,60690,new lines cause failures in tests checking element content,OPEN,2025-06-03T16:37:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87DucSA,61643,Add outline to review page,OPEN,2025-08-01T12:18:04Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86hhhdL,57378,Remove `partiallyCompletedChallenges` and `savedChallenges` from /get-public-profile,OPEN,2024-12-01T21:39:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8VtU,61494,Remove videos for lectures,CLOSED,2025-07-28T16:32:28Z,2025-08-02T06:26:06Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865WfJn,60660,Add test to ensure block name in `meta.json` and in `intro.json` match,OPEN,2025-06-02T11:01:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8g9D,61499,"Remove videos from working with forms, working with tables, HTML tools lecture blocks",CLOSED,2025-07-28T16:47:29Z,2025-08-01T10:00:45Z,alexgoldsmith;huyenltnguyen,freeCodeCamp,freeCodeCamp
