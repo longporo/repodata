@@ -1,17 +1,23 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87JgtJo,62034,Remove placeholder intros for released modules,OPEN,2025-09-03T18:11:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87JhPPI,62035,New curriculum structure breaks challenge editor,OPEN,2025-09-03T19:01:20Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87JQXg7,62016,Build a Hotel Feedback Form - Step 19 radio labels,OPEN,2025-09-02T15:27:09Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87JgXCn,62033,FSD intro variant changes on refresh,OPEN,2025-09-03T17:38:32Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87JQzEc,62018,Daily challenge solutions are saved as `undefined.txt`,OPEN,2025-09-02T15:57:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X866aSMv,60776,Sprite / loading screen for dark mode?,CLOSED,2025-06-07T20:10:23Z,2025-09-03T16:34:46Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86hhhdL,57378,Remove `partiallyCompletedChallenges` and `savedChallenges` from /get-public-profile,OPEN,2024-12-01T21:39:19Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87JdYiD,62028,[Draft] New Issue - Additional Information Needed,CLOSED,2025-09-03T13:41:31Z,2025-09-03T13:51:54Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87IhcaO,61979,in local build edited steps loose order,OPEN,2025-08-28T18:00:36Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87IWBw0,61969,i18n: complete migration to i18next v25.4.2,OPEN,2025-08-27T23:54:01Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JV4M_,62023,Request for Open Badge / Credly Support for Certificates,OPEN,2025-09-03T01:14:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863RRW9,60441,Trivia Bot - Allow separate space concatenation or update requirements,CLOSED,2025-05-19T19:02:57Z,2025-09-02T23:36:34Z,Supravisor;ilenia-magoni,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JSBF8,62021,Availability table,CLOSED,2025-09-02T17:36:47Z,2025-09-02T17:42:39Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Hqyt3,61931,Remove backticks from Python,OPEN,2025-08-24T20:35:11Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87JQzEc,62018,Daily challenge solutions are saved as `undefined.txt`,OPEN,2025-09-02T15:57:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87JQXg7,62016,Build a Hotel Feedback Form - Step 19 radio labels,OPEN,2025-09-02T15:27:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87IZLyn,61971,[bug] cors + 403 when submitting challenges,CLOSED,2025-08-28T06:46:45Z,2025-09-02T14:20:49Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86dwajV,57113,Shortest-Path-Algorithm Challenge: Report with suggestions to improve the learning experience,CLOSED,2024-11-10T01:58:08Z,2025-09-02T13:40:41Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87I4MIe,61999,Reference to method chaining applying to objects,OPEN,2025-08-31T11:38:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JEGE6,62010,Bookmark Manager passes incorrect code,OPEN,2025-09-01T16:43:42Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87IhcaO,61979,in local build edited steps loose order,OPEN,2025-08-28T18:00:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87D7MCP,61653,Clarification Needed in Lecture on Abbreviations and Acronyms in HTML,OPEN,2025-08-03T11:01:23Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86hhhdL,57378,Remove `partiallyCompletedChallenges` and `savedChallenges` from /get-public-profile,OPEN,2024-12-01T21:39:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GaHAZ,61855,Missing visual reference in CSS/Design/User Interface Design Fundamentals/What Is the Importance of Whitespace in Design?,CLOSED,2025-08-17T22:54:31Z,2025-08-25T07:15:40Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87I0pO6,61993,"Remove ""exists"" from backticks in Working with Objects lecture",CLOSED,2025-08-30T15:46:50Z,2025-09-01T04:24:27Z,kashaf12,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87I5dvI,62001,Golf Score lab,CLOSED,2025-08-31T17:16:08Z,2025-08-31T22:42:03Z,,freeCodeCamp,freeCodeCamp
@@ -23,7 +29,6 @@ I_kwDOAbI7X87GHGsi,61818,i18n: consider turning on type-checking for translation
 I_kwDOAbI7X864YrCj,60543,Setup i18next types,CLOSED,2025-05-27T10:42:46Z,2025-08-28T10:49:51Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ISDmN,61964,Use markdown block for example in Project Euler Problem 89,CLOSED,2025-08-27T17:11:09Z,2025-08-28T09:23:16Z,AkshatHotCode,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87IZNbq,61972,CORS issue when submitting a challenge,CLOSED,2025-08-28T06:49:33Z,2025-08-28T06:50:06Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87IWBw0,61969,i18n: complete migration to i18next v25.4.2,OPEN,2025-08-27T23:54:01Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87IMVeb,61953,"Typo/ ""This this"" in how to contribute to open source handbook",CLOSED,2025-08-27T09:23:59Z,2025-08-27T21:23:14Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Hp5KM,61929,Inconsistency in Project Euler Problem 89 Description,CLOSED,2025-08-24T15:47:31Z,2025-08-27T18:24:48Z,ilenia-magoni;tharu-jwd,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87IMzz7,61954,Correct challenge type of A2 English exam,CLOSED,2025-08-27T10:07:42Z,2025-08-27T12:23:59Z,HarshSachdeva01,freeCodeCamp,freeCodeCamp
@@ -371,7 +376,6 @@ I_kwDOAbI7X865rAUQ,60692,Update questions for set 2 of semantic HTML quiz,CLOSED
 I_kwDOAbI7X869RyBT,61059,Add note and example for script element in step 5 of storytelling workshop,CLOSED,2025-06-25T12:57:27Z,2025-06-26T12:43:04Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864wrks,60589,Make editor easier to use,OPEN,2025-05-29T09:41:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863S51a,60446,[Curriculum] - Checking if zero Length is not the same as empty,CLOSED,2025-05-19T22:55:26Z,2025-06-25T20:47:27Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866aSMv,60776,Sprite / loading screen for dark mode?,OPEN,2025-06-07T20:10:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869Vo01,61071,HTML Build a Travel Agency,CLOSED,2025-06-25T18:23:40Z,2025-06-25T18:33:21Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866yHzb,60816,Notification banner text hard to read/notice,CLOSED,2025-06-10T13:54:05Z,2025-06-25T17:36:25Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865nvNK,60687,Learn How to share progress in weekly stand up meetings,CLOSED,2025-06-03T14:21:58Z,2025-06-25T12:09:56Z,nieldakarla,freeCodeCamp,freeCodeCamp
@@ -502,14 +506,3 @@ I_kwDOAbI7X8632z_P,60493,screen reader jaws issue with code examples in quiz,CLO
 I_kwDOAbI7X8652pk4,60708,change title to lecture,CLOSED,2025-06-04T14:42:47Z,2025-06-04T15:52:31Z,cuteshaun,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862tl3F,60366,Session Recordings Common UX issues.,OPEN,2025-05-15T08:27:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865k7wX,60680,Typo in Lightbox Viewer lab intro,CLOSED,2025-06-03T10:53:37Z,2025-06-04T07:32:03Z,kellbosu,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865U2gk,60654,chore: update nutritional label workshop steps 1-2 to use specific asserts,CLOSED,2025-06-02T08:58:00Z,2025-06-03T21:40:48Z,huyenltnguyen;kkoeplin,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86xIIqJ,59592,Create lecture files for python chapter,CLOSED,2025-04-04T08:51:06Z,2025-06-03T21:36:33Z,ilenia-magoni,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865nEm4,60686,Newlines break Movie Review Page test,CLOSED,2025-06-03T13:39:14Z,2025-06-03T21:33:34Z,StephenMuya,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861E7Zc,60147,Import Fonts Error in Build an Event Flyer Page,CLOSED,2025-05-04T12:06:39Z,2025-06-03T20:28:16Z,MelvinManni;ilenia-magoni,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86r08iJ,59022,Feature: add a playground page,OPEN,2025-02-26T20:50:01Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864dV1c,60551,chore: update cat painting workshops steps 54-55-56 to use specific asserts,CLOSED,2025-05-27T17:44:00Z,2025-06-03T17:47:15Z,c0d1ng-ma5ter;gikf,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865ZV8N,60664,test issue in voting system lab,CLOSED,2025-06-02T14:26:02Z,2025-06-03T17:42:06Z,Supravisor;gikf,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865U0Sm,60653,chore: update asserts in magazine workshop steps 15-16-17,CLOSED,2025-06-02T08:55:21Z,2025-06-03T17:31:04Z,anurpeljto,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86kZtez,57750,Lecture blocks left to add for the Frontend Libraries Chapter,CLOSED,2024-12-24T18:49:12Z,2025-06-03T15:59:30Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865IGtW,60634,Full Stack Curriculum: CSS Lecture Quiz assumes knowledge of concepts not yet introduced,CLOSED,2025-05-31T18:24:25Z,2025-06-03T15:43:52Z,StephenMuya;ilenia-magoni,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864q31X,60571,Semantic HTML Review doesn't mention section element,CLOSED,2025-05-28T18:42:54Z,2025-06-03T10:54:52Z,Supravisor;ilenia-magoni,freeCodeCamp,freeCodeCamp
