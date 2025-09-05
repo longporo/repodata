@@ -1,4 +1,9 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+72ca97aa7f3bc879109d1536a5824f3f4bd8ff38,refactor(curriculum): TypeScript lecture block into smaller blocks (#…,2025-09-04T12:05:46Z,11,82,ilenia-magoni,freeCodeCamp,freeCodeCamp
+5148ed2b82fd591766d217fdf8507b72fbb2167b,refactor(tools): migrate challenge editor to new curriculum structure…,2025-09-04T12:04:54Z,11,312,a2937,freeCodeCamp,freeCodeCamp
+b47bc04c97ed996812e0c5c5cd1f1f7bc9107ca0,test: only intercept the page-data for tested page (#62042),2025-09-04T12:03:31Z,1,8,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+ebd17c473bf38317945416fab7e046702155ec1d,fix(api): throw during exam generation if empty config (#62044),2025-09-04T10:49:07Z,1,4,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+00cc06f49c695295cbf29614840214f2e58ef1ea,"fix(curriculum): fix typo in Local Storage review (poses, not posses)…",2025-09-04T08:19:26Z,1,2,jihanurrahman33,freeCodeCamp,freeCodeCamp
 cf118c232506c8f1623ac1ac8f1ce3f3954eada9,feat: daily challenges 30-54 (#61991),2025-09-03T16:35:48Z,54,4328,moT01,freeCodeCamp,freeCodeCamp
 b6071ae692f9991a746ccaa322d7e70c603a9d4d,fix: validate tests exist if filtering for challenges (#62027),2025-09-03T15:23:51Z,1,12,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 63c19acfc3989fcab6eabe95f2e4c952c1587be6,test(e2e): mock quiz data in quiz-challenge.spec.ts (#62011),2025-09-03T13:45:19Z,2,91,huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -575,11 +580,3 @@ d04d26f515b8c55107beef7a7346a8977ee45d38,fix(curriculum): typo in lecture workin
 ee681ff4ad4482952ea08fe1fbbc1cdb81e40136,chore(curriculum): remove before user code in RPS game (#60723),2025-06-05T18:01:11Z,1,20,Nirajn2311,freeCodeCamp,freeCodeCamp
 2bb4c5565cbaf10ebb17d7c061ee78b3a235d8ce,chore(curriculum): update asserts in workshop cat painting steps 75–7…,2025-06-05T12:41:01Z,3,18,LalitNarayanYadav,freeCodeCamp,freeCodeCamp
 e7a712351e173c5faf511c873e840852cc29f7b7,fix(config): add dev playground to not audited (#60717),2025-06-05T07:14:07Z,1,30,moT01,freeCodeCamp,freeCodeCamp
-0c6b35630fd6b07f2b0714a6382d0ce981080d31,feat(curriculum): Add A2 Chinese Outline (#60451),2025-06-04T19:53:52Z,22,264,miyaliu666,freeCodeCamp,freeCodeCamp
-a2f2ad45c6ecbfaefd95f9071088462516f8df26,feat(curriculum): add dev-playground superblock and daily challenge t…,2025-06-04T17:32:25Z,70,4684,moT01,freeCodeCamp,freeCodeCamp
-d4c905e711517e7c2267863be63def269f2826f2,"fix(curriculum): change ""what is HTML"" lecture title (#60709)",2025-06-04T15:52:29Z,1,4,cuteshaun,freeCodeCamp,freeCodeCamp
-bd202928321cac1fd617f6d37d4a218f2f1ea734,"chore(i18n,learn): update i18n-curriculum submodule (#60707)",2025-06-04T15:07:30Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-26e45cd6e98e7c8c5e2ace7088d8b4ff92bf0142,fix(curriculum): typo falsey instead of  falsy (#60706),2025-06-04T13:22:17Z,2,6,clarencepenz,freeCodeCamp,freeCodeCamp
-0fe9cc721dba18e3ea727d95e2239a55464bec44,chore: temporary skip tests to keep CI stable (#60705),2025-06-04T11:53:06Z,1,54,huyenltnguyen,freeCodeCamp,freeCodeCamp
-f4dc57bc505f4876384e8d342c43f41e003358d0,fix(curriculum): hide upcoming blocks (#60684),2025-06-04T10:13:21Z,8,48,moT01,freeCodeCamp,freeCodeCamp
-09986313d0b00f3c40a37d4d2dcc5b226a5129ba,fix: correct typo in Lightbox Viewer lab intro (#60697),2025-06-04T07:32:02Z,1,2,kellbosu,freeCodeCamp,freeCodeCamp
