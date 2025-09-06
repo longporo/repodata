@@ -1,4 +1,17 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+e4144d145a5e4c5509d1b1866085fd4d5a615124,feat(curriculum): add lab for building a symmetric difference functio…,2025-09-05T19:04:05Z,5,118,Sembauke,freeCodeCamp,freeCodeCamp
+c2ff82ed9a42ed907fe02120bce166f422b34556,feat: add falsy bouncer to full stack (#61688),2025-09-05T18:56:01Z,5,112,ilenia-magoni,freeCodeCamp,freeCodeCamp
+e17584f89e7f678780530360ebd279eb35b067a5,feat: add a1 spanish superblock outline (#62059),2025-09-05T18:51:45Z,16,82,moT01,freeCodeCamp,freeCodeCamp
+9f9b4cbfb8300fefecfeb2a448346e1c901f0214,"chore(curriculum): replace quotes with backticks, add backticks to wo…",2025-09-05T18:13:26Z,1,6,Supravisor,freeCodeCamp,freeCodeCamp
+2ca7798d3b84c6b53c1c9e1941a48f36d4234a82,"chore(i18n,client): processed translations (#61958)",2025-09-05T17:47:59Z,11,2116,camperbot,freeCodeCamp,freeCodeCamp
+3b6ce9c545cd60aaecb37186687bb6c694f8c315,fix(curriculum): improve test for profile card step 4 (#61992),2025-09-05T17:36:13Z,1,15,errantpianist,freeCodeCamp,freeCodeCamp
+34014f109992324bb3de46c1f2bd2b006b7ef484,"fix(curriculum): grammar errors in ""Build a Financial Calculator"" cha…",2025-09-05T17:24:24Z,1,2,dev-kas,freeCodeCamp,freeCodeCamp
+e257c2969e88b4c9c036be593bf1dead288e96c3,fix: rebuild challenge pages if source is updated (#62056),2025-09-05T13:22:38Z,5,120,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+49c64a14b39b702f9ff5394b0f1bb0b99836c0c8,fix(curriculum): fix typos in 'Working with Loops' lecture (#62054),2025-09-05T12:48:52Z,2,4,cp50,freeCodeCamp,freeCodeCamp
+902ba8bc8e136873de8e7cff78ade24207d01d81,fix(curriculum): follow W3C convention for radio and checkbox inputs …,2025-09-05T09:25:23Z,18,475,StuartMosquera,freeCodeCamp,freeCodeCamp
+15f9c18c279ee21f9dd9a9a2dd1cba675bc15310,chore: add redirect for magazine layout lab (#61870),2025-09-05T06:58:05Z,1,4,Dario-DC,freeCodeCamp,freeCodeCamp
+cdffc8d8de6f89531a3692d379ffadaf38b75e3a,chore(curriculum): replace magazine layout lab with newspaper layout …,2025-09-05T06:57:32Z,7,720,Dario-DC,freeCodeCamp,freeCodeCamp
+437f98ad3ee49b8b44739092a365201eac3305d4,fix: hide Build an Optional Arguments Sum Function (#62047),2025-09-05T06:08:13Z,1,2,ilenia-magoni,freeCodeCamp,freeCodeCamp
 72ca97aa7f3bc879109d1536a5824f3f4bd8ff38,refactor(curriculum): TypeScript lecture block into smaller blocks (#…,2025-09-04T12:05:46Z,11,82,ilenia-magoni,freeCodeCamp,freeCodeCamp
 5148ed2b82fd591766d217fdf8507b72fbb2167b,refactor(tools): migrate challenge editor to new curriculum structure…,2025-09-04T12:04:54Z,11,312,a2937,freeCodeCamp,freeCodeCamp
 b47bc04c97ed996812e0c5c5cd1f1f7bc9107ca0,test: only intercept the page-data for tested page (#62042),2025-09-04T12:03:31Z,1,8,ojeytonwilliams,freeCodeCamp,freeCodeCamp
@@ -575,8 +588,3 @@ e8bde95a2dbdef08535371d2a27e22d3ffe20802,fix(curriculum): use lower case int in 
 ed2bdfcf961978b55b1240b72b6baa90d65d9a0b,fix(curriculum): standardize Next.js proper names (#60734),2025-06-06T10:03:14Z,1,2,dev-kamil,freeCodeCamp,freeCodeCamp
 d04d26f515b8c55107beef7a7346a8977ee45d38,fix(curriculum): typo in lecture working with loops and sequences (#6…,2025-06-06T08:47:33Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
 9df9b675c189b893f91e653aae0cd937d0856350,fix(curriculum): missing preposition (#60735),2025-06-06T03:54:22Z,1,2,dev-kamil,freeCodeCamp,freeCodeCamp
-6bcce9f0303ca933a2a317ce6fc2a8651258ce56,feat(curriculum): add merge sort workshop (#59633),2025-06-05T19:18:08Z,29,1657,zairahira,freeCodeCamp,freeCodeCamp
-2be423e92830b0bf5dacfbf44bd72617d7f35396,chore(curriculum) : update Project Euler tests with better assertions…,2025-06-05T19:03:07Z,10,22,VishalTelukula,freeCodeCamp,freeCodeCamp
-ee681ff4ad4482952ea08fe1fbbc1cdb81e40136,chore(curriculum): remove before user code in RPS game (#60723),2025-06-05T18:01:11Z,1,20,Nirajn2311,freeCodeCamp,freeCodeCamp
-2bb4c5565cbaf10ebb17d7c061ee78b3a235d8ce,chore(curriculum): update asserts in workshop cat painting steps 75–7…,2025-06-05T12:41:01Z,3,18,LalitNarayanYadav,freeCodeCamp,freeCodeCamp
-e7a712351e173c5faf511c873e840852cc29f7b7,fix(config): add dev playground to not audited (#60717),2025-06-05T07:14:07Z,1,30,moT01,freeCodeCamp,freeCodeCamp
