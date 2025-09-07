@@ -1,4 +1,6 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+c027a8db1b81e3c563e37a3b7e15049ecd67c2d4,fix(curriculum): fixed typo in py and js challenge 38 (#62062),2025-09-06T09:46:49Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
+87cde2d1e8f105fb759ba6dd9dd42d20272b86aa,"refactor(tools, curriculum): use challenge type 31 for review pages (…",2025-09-06T05:07:48Z,76,164,huyenltnguyen,freeCodeCamp,freeCodeCamp
 e4144d145a5e4c5509d1b1866085fd4d5a615124,feat(curriculum): add lab for building a symmetric difference functio…,2025-09-05T19:04:05Z,5,118,Sembauke,freeCodeCamp,freeCodeCamp
 c2ff82ed9a42ed907fe02120bce166f422b34556,feat: add falsy bouncer to full stack (#61688),2025-09-05T18:56:01Z,5,112,ilenia-magoni,freeCodeCamp,freeCodeCamp
 e17584f89e7f678780530360ebd279eb35b067a5,feat: add a1 spanish superblock outline (#62059),2025-09-05T18:51:45Z,16,82,moT01,freeCodeCamp,freeCodeCamp
@@ -578,13 +580,3 @@ f4121968e4d2d4e94baf7a8416748a989eaddf4c,refactor: move superblock folder maps t
 bbda50ed0d1b6f7aba29f4a3028b7eeead8463fb,fix(client): typo in top contributer badge component (#60765),2025-06-07T19:36:43Z,2,10,forge34,freeCodeCamp,freeCodeCamp
 a6f72e9ab00d0b13ac16aad44b4fd10f2f8d92bf,"fix(curriculum): grammar, typos in Introduction to JavaScript Librari…",2025-06-07T15:46:00Z,2,10,dev-kamil,freeCodeCamp,freeCodeCamp
 eefd43106d2401bdd12e835f2b744a464354f2c6,fix(curriculum): change plaintext blocks from bash to markdown (#60754),2025-06-07T07:33:08Z,8,26,StephenMuya,freeCodeCamp,freeCodeCamp
-c2196fefac8e8264fa678f6c896ae1dad26cde79,fix(curriculum): fix ups and remove quote marks in Programming Vocabu…,2025-06-07T00:54:36Z,12,42,Supravisor,freeCodeCamp,freeCodeCamp
-0d4b8e89b3533761c2ab790195c042977ed2024b,fix(curriculum): accept let and var declaration in Color picker lab (…,2025-06-06T22:53:16Z,1,4,gikf,freeCodeCamp,freeCodeCamp
-206511ec8a84109f775d1d2609333869e8e7544a,fix(curriculum): feedback text in “Learn Greetings in Your First Day …,2025-06-06T20:37:56Z,1,4,sharon1999,freeCodeCamp,freeCodeCamp
-12e45fc4a02ce2ac50c908f7c7b6cc128c541a34,feat(curriculum): add second quiz set for CSS variables (#59819),2025-06-06T17:23:31Z,1,485,Omar8345,freeCodeCamp,freeCodeCamp
-e8bde95a2dbdef08535371d2a27e22d3ffe20802,fix(curriculum): use lower case int in Code-related Concepts and Term…,2025-06-06T16:00:00Z,1,6,Supravisor,freeCodeCamp,freeCodeCamp
-777c68235a5b0e6e730a8e072a1882ba11d91265,fix(curriculum): remove errors in CSS and JS transcripts (#60711),2025-06-06T12:32:39Z,4,88,jdwilkin4,freeCodeCamp,freeCodeCamp
-46c008c112a84e55ccdf8f6b877ec33dddc7c6a4,fix(a11y): enable screen reader support for python terminal (#60154),2025-06-06T12:28:28Z,2,29,huyenltnguyen,freeCodeCamp,freeCodeCamp
-ed2bdfcf961978b55b1240b72b6baa90d65d9a0b,fix(curriculum): standardize Next.js proper names (#60734),2025-06-06T10:03:14Z,1,2,dev-kamil,freeCodeCamp,freeCodeCamp
-d04d26f515b8c55107beef7a7346a8977ee45d38,fix(curriculum): typo in lecture working with loops and sequences (#6…,2025-06-06T08:47:33Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
-9df9b675c189b893f91e653aae0cd937d0856350,fix(curriculum): missing preposition (#60735),2025-06-06T03:54:22Z,1,2,dev-kamil,freeCodeCamp,freeCodeCamp
