@@ -1,4 +1,12 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87JpJlQ,62043,lab needs topics not taught before it,OPEN,2025-09-04T09:59:27Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GRAPh,61838,Missing image in React lecture,OPEN,2025-08-15T20:55:52Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GkaGW,61864,☂️ Add visual references to lectures,OPEN,2025-08-18T16:49:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KDaFC,62064,missing info in hint of step 4 build a cipher,OPEN,2025-09-06T10:37:12Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KGN3I,62065,Change to user story on counting card assistant,OPEN,2025-09-06T18:01:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86z5tF4,59969,Build an availability table issue,OPEN,2025-04-24T19:23:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87JQzEc,62018,Daily challenge solutions are saved as `undefined.txt`,OPEN,2025-09-02T15:57:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87IZLyn,61971,[bug] cors + 403 when submitting challenges,CLOSED,2025-08-28T06:46:45Z,2025-09-02T14:20:49Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Jx6Tt,62049,group of checkboxes in hotel form feedback workshop,OPEN,2025-09-04T20:12:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GdcHm,61859,☂️ Umbrella Issue updating lectures with code examples ☂️,OPEN,2025-08-18T07:52:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868SO2n,60931,[Profile Card workshop] Step 4 not checking the return statement,CLOSED,2025-06-19T04:37:16Z,2025-09-05T17:36:14Z,errantpianist,freeCodeCamp,freeCodeCamp
@@ -6,13 +14,11 @@ I_kwDOAbI7X87JzJk2,62052,Small fixes in Working with Loops lecture,CLOSED,2025-0
 I_kwDOAbI7X87Hqyt3,61931,Remove backticks from Python,OPEN,2025-08-24T20:35:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JQXg7,62016,Build a Hotel Feedback Form - Step 19 radio labels,CLOSED,2025-09-02T15:27:09Z,2025-09-05T09:25:24Z,StuartMosquera,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87HBlaE,61897,/settings should redirect to auth if not signed in,OPEN,2025-08-20T18:05:11Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87JQzEc,62018,Daily challenge solutions are saved as `undefined.txt`,OPEN,2025-09-02T15:57:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GKkIH,61824,Build a sentence maker allows for building strings without using the variables,OPEN,2025-08-15T08:13:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GY4xv,61852,Missinformation in Python course,OPEN,2025-08-17T15:15:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86rIb49,58945,Issue template for /news article errors doesn't work,OPEN,2025-02-22T18:03:44Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Jr0UH,62045,feature request for challenge editor,OPEN,2025-09-04T13:07:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JhPPI,62035,New curriculum structure breaks challenge editor,CLOSED,2025-09-03T19:01:20Z,2025-09-04T12:04:55Z,a2937,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87JpJlQ,62043,lab needs topics not taught before it,OPEN,2025-09-04T09:59:27Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JnFUs,62041,Hi,CLOSED,2025-09-04T07:11:35Z,2025-09-04T07:39:11Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-WH0H,61176,Add support for Bluesky profile links in freeCodeCamp user profiles,OPEN,2025-07-01T18:40:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JgtJo,62034,Remove placeholder intros for released modules,OPEN,2025-09-03T18:11:50Z,,,freeCodeCamp,freeCodeCamp
@@ -25,7 +31,6 @@ I_kwDOAbI7X87IWBw0,61969,i18n: complete migration to i18next v25.4.2,OPEN,2025-0
 I_kwDOAbI7X87JV4M_,62023,Request for Open Badge / Credly Support for Certificates,OPEN,2025-09-03T01:14:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863RRW9,60441,Trivia Bot - Allow separate space concatenation or update requirements,CLOSED,2025-05-19T19:02:57Z,2025-09-02T23:36:34Z,Supravisor;ilenia-magoni,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JSBF8,62021,Availability table,CLOSED,2025-09-02T17:36:47Z,2025-09-02T17:42:39Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87IZLyn,61971,[bug] cors + 403 when submitting challenges,CLOSED,2025-08-28T06:46:45Z,2025-09-02T14:20:49Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86dwajV,57113,Shortest-Path-Algorithm Challenge: Report with suggestions to improve the learning experience,CLOSED,2024-11-10T01:58:08Z,2025-09-02T13:40:41Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87I4MIe,61999,Reference to method chaining applying to objects,OPEN,2025-08-31T11:38:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JEGE6,62010,Bookmark Manager passes incorrect code,OPEN,2025-09-01T16:43:42Z,,,freeCodeCamp,freeCodeCamp
@@ -58,7 +63,6 @@ I_kwDOAbI7X87HJpGX,61901,Inaccurate test case in Golf Score Lab (with minor edit
 I_kwDOAbI7X87HpzQZ,61928,No lesson on HTML entities in javascript curriculum,CLOSED,2025-08-24T15:22:22Z,2025-08-24T17:04:10Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87CrusO,61484,Clarify that the replace() method returns a new string,CLOSED,2025-07-26T23:00:15Z,2025-08-23T18:19:21Z,NiloySaha84;ilenia-magoni,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86xSpqy,59607,Build a Fortune Teller - Incorrect code passing,OPEN,2025-04-05T19:36:41Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z5tF4,59969,Build an availability table issue,OPEN,2025-04-24T19:23:50Z,,,freeCodeCamp,freeCodeCamp
 MDU6SXNzdWU3MDk5NTI1NzM=,39710,Deprecated ComponentWillMount is present in React Section,CLOSED,2020-09-28T05:45:17Z,2020-09-28T17:20:29Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87HWPOl,61912,Typo in step 68 of Learn Special Methods by Building a Vector Space in Scientific Computing with Python course,CLOSED,2025-08-22T07:38:15Z,2025-08-23T04:17:33Z,Tiffany Grevious,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862GU2j,60280,"Navigation returns to wrong course section in the ""Learn the Box Model"" section path",OPEN,2025-05-11T17:24:19Z,,,freeCodeCamp,freeCodeCamp
@@ -81,8 +85,6 @@ I_kwDOAbI7X869KzgP,61051,React Fundamentals missing lab work or workshop on keys
 I_kwDOAbI7X86LfCa6,55111,Definitions should be improved for SciComPy,OPEN,2024-06-07T10:49:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8559Y1b,52583,[python]: learn-recursion-by-solving-the-tower-of-hanoi-puzzle,CLOSED,2023-12-18T09:20:11Z,2025-08-19T06:23:49Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87CP9uc,61453,Bug in Project Euler Problem 89 Solution: Non-Minimal Roman Numeral Output,CLOSED,2025-07-24T08:15:46Z,2025-08-18T20:08:39Z,errantpianist,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87GkaGW,61864,☂️ Add visual references to lectures,OPEN,2025-08-18T16:49:46Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87GRAPh,61838,Missing image in React lecture,OPEN,2025-08-15T20:55:52Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GQwS_,61836,Fill-in-the-blank feedback gives away the answer,OPEN,2025-08-15T20:32:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GUyis,61845,Words are wrong way around,CLOSED,2025-08-16T14:43:07Z,2025-08-18T08:49:24Z,CodewithMukal,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EnnCr,61702,Add Images/Demos in CSS/HTML lectures to supplement the examples code,OPEN,2025-08-07T03:01:24Z,,,freeCodeCamp,freeCodeCamp
@@ -496,7 +498,3 @@ I_kwDOAbI7X866Zrm6,60771,Automated Security Findings for README,CLOSED,2025-06-0
 I_kwDOAbI7X866Zk1o,60770,Automated Security Findings for README,CLOSED,2025-06-07T17:02:48Z,2025-06-07T17:12:46Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866Ss0N,60746,Use `md` for plain text code blocks,CLOSED,2025-06-06T17:48:17Z,2025-06-07T07:33:10Z,StephenMuya,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866Wewb,60758,blank issue1,CLOSED,2025-06-07T04:53:13Z,2025-06-07T06:57:02Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866I4yo,60737,Misplaced feedback in Learn Greetings in Your First Day at the Office - Task 3,CLOSED,2025-06-05T22:34:13Z,2025-06-06T20:37:57Z,sharon1999,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ytAfG,59755,Add set 2 of questions for CSS Variables quiz,CLOSED,2025-04-16T02:19:27Z,2025-06-06T17:23:34Z,Omar8345;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866Rq5h,60744,Certified Full Stack Developer Curriculum: Build a Curriculum Outline,CLOSED,2025-06-06T15:58:38Z,2025-06-06T16:02:42Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863UMz6,60449,Python Terminal not Accessible via Screen Reader,CLOSED,2025-05-20T03:41:02Z,2025-06-06T12:28:30Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
