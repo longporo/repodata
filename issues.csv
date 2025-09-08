@@ -1,9 +1,12 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87KLNyp,62075,Looping problem — Learn Introductory JavaScript by Building a Pyramid Generator (step 33),OPEN,2025-09-07T19:38:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KK1U6,62074,Italian and portuguese tests for PRs are continually failing,OPEN,2025-09-07T17:33:25Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KGN3I,62065,Change to user story on counting card assistant,OPEN,2025-09-06T18:01:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KDaFC,62064,missing info in hint of step 4 build a cipher,OPEN,2025-09-06T10:37:12Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Hqyt3,61931,Remove backticks from Python,CLOSED,2025-08-24T20:35:11Z,2025-09-07T07:37:35Z,tejb96,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JpJlQ,62043,lab needs topics not taught before it,OPEN,2025-09-04T09:59:27Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GRAPh,61838,Missing image in React lecture,OPEN,2025-08-15T20:55:52Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GkaGW,61864,☂️ Add visual references to lectures,OPEN,2025-08-18T16:49:46Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87KDaFC,62064,missing info in hint of step 4 build a cipher,OPEN,2025-09-06T10:37:12Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87KGN3I,62065,Change to user story on counting card assistant,OPEN,2025-09-06T18:01:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86z5tF4,59969,Build an availability table issue,OPEN,2025-04-24T19:23:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JQzEc,62018,Daily challenge solutions are saved as `undefined.txt`,OPEN,2025-09-02T15:57:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87IZLyn,61971,[bug] cors + 403 when submitting challenges,CLOSED,2025-08-28T06:46:45Z,2025-09-02T14:20:49Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
@@ -11,7 +14,6 @@ I_kwDOAbI7X87Jx6Tt,62049,group of checkboxes in hotel form feedback workshop,OPE
 I_kwDOAbI7X87GdcHm,61859,☂️ Umbrella Issue updating lectures with code examples ☂️,OPEN,2025-08-18T07:52:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868SO2n,60931,[Profile Card workshop] Step 4 not checking the return statement,CLOSED,2025-06-19T04:37:16Z,2025-09-05T17:36:14Z,errantpianist,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JzJk2,62052,Small fixes in Working with Loops lecture,CLOSED,2025-09-04T22:07:43Z,2025-09-05T12:48:53Z,cp50,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Hqyt3,61931,Remove backticks from Python,OPEN,2025-08-24T20:35:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JQXg7,62016,Build a Hotel Feedback Form - Step 19 radio labels,CLOSED,2025-09-02T15:27:09Z,2025-09-05T09:25:24Z,StuartMosquera,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87HBlaE,61897,/settings should redirect to auth if not signed in,OPEN,2025-08-20T18:05:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GKkIH,61824,Build a sentence maker allows for building strings without using the variables,OPEN,2025-08-15T08:13:29Z,,,freeCodeCamp,freeCodeCamp
@@ -488,13 +490,3 @@ I_kwDOAbI7X865W_bs,60661,"Excessive RAM usage in Safari (MacOS 15.5, M2)",CLOSED
 I_kwDOAbI7X863ncHY,60465,Contact users with no email address,OPEN,2025-05-21T15:09:01Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866eoAx,60782,elmouselhyaboshamia@gmail.com,CLOSED,2025-06-08T18:13:23Z,2025-06-08T18:23:09Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866en9B,60781,elmouselhyaboshamia@gmail.com,CLOSED,2025-06-08T18:13:03Z,2025-06-08T18:22:57Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866aQH6,60775,Automated Security Findings for README,CLOSED,2025-06-07T20:00:25Z,2025-06-07T20:05:28Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866Hi-f,60733,Minor discrepancy in instructions for Step 6 of Certified Full Stack Developer - Basic HTML - Build a Curriculum Outline,CLOSED,2025-06-05T20:20:06Z,2025-06-07T20:03:04Z,dev-kamil,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866N0Zm,60741,chore: update tests to use specific asserts in project euler problems 11-20,CLOSED,2025-06-06T09:19:51Z,2025-06-07T20:00:51Z,zenocross,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866Z-BX,60774,Automated Security Findings for README,CLOSED,2025-06-07T18:47:04Z,2025-06-07T19:40:25Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866N2kU,60743,typo at camper.tsx component code( TopContibutorBadgeEmblem -> TopContributorBadgeEmblem),CLOSED,2025-06-06T09:22:58Z,2025-06-07T19:36:45Z,forge34,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866ZyhB,60772,Automated Security Findings for README,CLOSED,2025-06-07T17:57:01Z,2025-06-07T18:44:59Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866Zrm6,60771,Automated Security Findings for README,CLOSED,2025-06-07T17:27:19Z,2025-06-07T17:30:33Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866Zk1o,60770,Automated Security Findings for README,CLOSED,2025-06-07T17:02:48Z,2025-06-07T17:12:46Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866Ss0N,60746,Use `md` for plain text code blocks,CLOSED,2025-06-06T17:48:17Z,2025-06-07T07:33:10Z,StephenMuya,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866Wewb,60758,blank issue1,CLOSED,2025-06-07T04:53:13Z,2025-06-07T06:57:02Z,,freeCodeCamp,freeCodeCamp
