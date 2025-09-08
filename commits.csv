@@ -1,4 +1,5 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+0f3c6a6b6d5cde3899c448a62007795552670e0f,fix(english for developers): remove backticks in challenges from Pyth…,2025-09-07T07:37:34Z,2,8,tejb96,freeCodeCamp,freeCodeCamp
 c027a8db1b81e3c563e37a3b7e15049ecd67c2d4,fix(curriculum): fixed typo in py and js challenge 38 (#62062),2025-09-06T09:46:49Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
 87cde2d1e8f105fb759ba6dd9dd42d20272b86aa,"refactor(tools, curriculum): use challenge type 31 for review pages (…",2025-09-06T05:07:48Z,76,164,huyenltnguyen,freeCodeCamp,freeCodeCamp
 e4144d145a5e4c5509d1b1866085fd4d5a615124,feat(curriculum): add lab for building a symmetric difference functio…,2025-09-05T19:04:05Z,5,118,Sembauke,freeCodeCamp,freeCodeCamp
@@ -575,8 +576,3 @@ a3508054e24c29298756725239cd214b4cd541e5,"chore(i18n,client): processed translat
 8cb9550897a53146d05c6bc1ec6b01fe3883702f,"chore(i18n,learn): update i18n-curriculum submodule (#60792)",2025-06-09T15:59:24Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 55c94cc77dd782e8d03a293770f4cfa9744eb981,fix(curriculum): correct grammar in FCC authors page challenge (#60773),2025-06-09T11:18:41Z,2,4,atithi4dev,freeCodeCamp,freeCodeCamp
 f4121968e4d2d4e94baf7a8416748a989eaddf4c,refactor: move superblock folder maps to config (#60714),2025-06-08T14:01:16Z,6,176,moT01,freeCodeCamp,freeCodeCamp
-4912a0aac5f7826bff9a78c01a88498e6954e55e,fix(curriculum): discrepancy in Build a Curriculum Outline (#60762),2025-06-07T20:03:03Z,2,4,dev-kamil,freeCodeCamp,freeCodeCamp
-90bac7239d2b5b41b45359bad0686ca85f610968,chore: update tests to use specific asserts in project euler problems…,2025-06-07T20:00:49Z,10,20,zenocross,freeCodeCamp,freeCodeCamp
-bbda50ed0d1b6f7aba29f4a3028b7eeead8463fb,fix(client): typo in top contributer badge component (#60765),2025-06-07T19:36:43Z,2,10,forge34,freeCodeCamp,freeCodeCamp
-a6f72e9ab00d0b13ac16aad44b4fd10f2f8d92bf,"fix(curriculum): grammar, typos in Introduction to JavaScript Librari…",2025-06-07T15:46:00Z,2,10,dev-kamil,freeCodeCamp,freeCodeCamp
-eefd43106d2401bdd12e835f2b744a464354f2c6,fix(curriculum): change plaintext blocks from bash to markdown (#60754),2025-06-07T07:33:08Z,8,26,StephenMuya,freeCodeCamp,freeCodeCamp
