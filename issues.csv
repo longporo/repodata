@@ -1,12 +1,19 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87KLNyp,62075,Looping problem — Learn Introductory JavaScript by Building a Pyramid Generator (step 33),OPEN,2025-09-07T19:38:50Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87KK1U6,62074,Italian and portuguese tests for PRs are continually failing,OPEN,2025-09-07T17:33:25Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87KGN3I,62065,Change to user story on counting card assistant,OPEN,2025-09-06T18:01:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KaXOA,62096,Build a Music Instrument filter - step 9,OPEN,2025-09-08T22:13:53Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KZO0N,62094,A problem with some of the tests in the TriviaBot lab,OPEN,2025-09-08T20:25:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KDaFC,62064,missing info in hint of step 4 build a cipher,OPEN,2025-09-06T10:37:12Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KOf55,62080,"Sorting visualizer, test missing button click",OPEN,2025-09-08T06:26:38Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KLNyp,62075,Looping problem — Learn Introductory JavaScript by Building a Pyramid Generator (step 33),OPEN,2025-09-07T19:38:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KGN3I,62065,Change to user story on counting card assistant,CLOSED,2025-09-06T18:01:23Z,2025-09-08T11:56:13Z,snehabichkunde,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GkaGW,61864,☂️ Add visual references to lectures,OPEN,2025-08-18T16:49:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KTuLS,62087,Migrate client tests to vitest,OPEN,2025-09-08T13:10:52Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GRAPh,61838,Missing image in React lecture,CLOSED,2025-08-15T20:55:52Z,2025-09-08T11:31:18Z,errantpianist,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KMyuz,62079,"Permutation Generator, unclear purpose for prefixValue or how you're supposed to use it",OPEN,2025-09-08T02:28:59Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GXcnD,61847,Is the code in the example wrong? -- Working with Backgrounds and Borders - What Are Some Accessibility Considerations for Backgrounds?,OPEN,2025-08-17T06:56:13Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GKkIH,61824,Build a sentence maker allows for building strings without using the variables,OPEN,2025-08-15T08:13:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KK1U6,62074,Italian and portuguese tests for PRs are continually failing,OPEN,2025-09-07T17:33:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Hqyt3,61931,Remove backticks from Python,CLOSED,2025-08-24T20:35:11Z,2025-09-07T07:37:35Z,tejb96,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JpJlQ,62043,lab needs topics not taught before it,OPEN,2025-09-04T09:59:27Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87GRAPh,61838,Missing image in React lecture,OPEN,2025-08-15T20:55:52Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87GkaGW,61864,☂️ Add visual references to lectures,OPEN,2025-08-18T16:49:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86z5tF4,59969,Build an availability table issue,OPEN,2025-04-24T19:23:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JQzEc,62018,Daily challenge solutions are saved as `undefined.txt`,OPEN,2025-09-02T15:57:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87IZLyn,61971,[bug] cors + 403 when submitting challenges,CLOSED,2025-08-28T06:46:45Z,2025-09-02T14:20:49Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
@@ -16,7 +23,6 @@ I_kwDOAbI7X868SO2n,60931,[Profile Card workshop] Step 4 not checking the return 
 I_kwDOAbI7X87JzJk2,62052,Small fixes in Working with Loops lecture,CLOSED,2025-09-04T22:07:43Z,2025-09-05T12:48:53Z,cp50,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JQXg7,62016,Build a Hotel Feedback Form - Step 19 radio labels,CLOSED,2025-09-02T15:27:09Z,2025-09-05T09:25:24Z,StuartMosquera,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87HBlaE,61897,/settings should redirect to auth if not signed in,OPEN,2025-08-20T18:05:11Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87GKkIH,61824,Build a sentence maker allows for building strings without using the variables,OPEN,2025-08-15T08:13:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GY4xv,61852,Missinformation in Python course,OPEN,2025-08-17T15:15:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86rIb49,58945,Issue template for /news article errors doesn't work,OPEN,2025-02-22T18:03:44Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Jr0UH,62045,feature request for challenge editor,OPEN,2025-09-04T13:07:23Z,,,freeCodeCamp,freeCodeCamp
@@ -73,7 +79,6 @@ I_kwDOAbI7X87G3ToM,61885,Proposal: Add Basic Swift section to curriculum,CLOSED,
 I_kwDOAbI7X87Gx24D,61879,Build a Markdown to HTML Converter test 47,CLOSED,2025-08-19T16:19:13Z,2025-08-22T08:44:03Z,Dario-DC,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87HOeBi,61905,Build a Shopping Cart Step 26 - Unclear instructions,OPEN,2025-08-21T16:41:18Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GNTsZ,61829,Build a One-Time Password Generator p element,CLOSED,2025-08-15T14:03:46Z,2025-08-22T08:28:08Z,pkdvalis,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87GXcnD,61847,Is the code in the example wrong? -- Working with Backgrounds and Borders - What Are Some Accessibility Considerations for Backgrounds?,OPEN,2025-08-17T06:56:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Drg_P,61635,Test not working in step 24 workshop-hotel-feedback-form,CLOSED,2025-08-01T07:57:52Z,2025-08-20T16:03:22Z,StuartMosquera,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87G55pW,61887,"Typo in How Can You Create, Move, and Delete Files and Folders Using Explorer/Finder?",CLOSED,2025-08-20T08:18:13Z,2025-08-20T14:44:56Z,Bhavishyakolloori,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86tpEUd,59246,"Add Keyboard Shortcut (Ctrl + Enter) for ""Check Your Answer"" Button",CLOSED,2025-03-12T08:57:48Z,2025-08-20T04:19:40Z,huyenltnguyen;tanmaygautam11,freeCodeCamp,freeCodeCamp
@@ -488,5 +493,3 @@ I_kwDOAbI7X866g82M,60788,tanstack-query could be used at challenge-editor code,C
 I_kwDOAbI7X866TT4h,60751,Grammar error in fCC Authors Page - step 12,CLOSED,2025-06-06T19:00:35Z,2025-06-09T11:18:42Z,atithi4dev,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865W_bs,60661,"Excessive RAM usage in Safari (MacOS 15.5, M2)",CLOSED,2025-06-02T11:40:54Z,2025-06-05T12:48:25Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863ncHY,60465,Contact users with no email address,OPEN,2025-05-21T15:09:01Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866eoAx,60782,elmouselhyaboshamia@gmail.com,CLOSED,2025-06-08T18:13:23Z,2025-06-08T18:23:09Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866en9B,60781,elmouselhyaboshamia@gmail.com,CLOSED,2025-06-08T18:13:03Z,2025-06-08T18:22:57Z,,freeCodeCamp,freeCodeCamp
