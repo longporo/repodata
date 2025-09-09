@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+f356d6b442894991519830e31c0da17505197211,"Revert ""chore: disable curriculum translation deletion (#61961)"" (#62…",2025-09-08T17:47:31Z,1,11,moT01,freeCodeCamp,freeCodeCamp
+2494c4f88705097d65ecd37d86e066be73d58da4,fix(curriculum): clarify counting cards decrease by 1 (#62072),2025-09-08T11:56:12Z,1,2,snehabichkunde,freeCodeCamp,freeCodeCamp
+4f8cf0f1d8bbfd7bd4f28a1f41ef308618790529,fix(curriculum): remove image placeholder from Vite lecture (#62076),2025-09-08T11:31:16Z,1,2,errantpianist,freeCodeCamp,freeCodeCamp
+74f9ec57357862aeb8687124702efce75381d500,fix(curriculum): spelling variant (#62073),2025-09-08T10:27:35Z,3,6,clarencepenz,freeCodeCamp,freeCodeCamp
+ab9ec31a04f524728f88ef3d849922cb84008bd3,refactor: various workspaces to vitest (#62058),2025-09-08T09:35:38Z,23,516,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+ab3bab0967279cf4f350a86afffc5f5da9d0d4b2,fix(gha): cleaner and working matrix (#62081),2025-09-08T06:40:41Z,1,121,raisedadead,freeCodeCamp,freeCodeCamp
+fb854f255280463001839b74bf6415e59684978f,fix(curriculum): typo in Stand Up Meetings (#62077),2025-09-08T06:05:05Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 0f3c6a6b6d5cde3899c448a62007795552670e0f,fix(english for developers): remove backticks in challenges from Pyth…,2025-09-07T07:37:34Z,2,8,tejb96,freeCodeCamp,freeCodeCamp
 c027a8db1b81e3c563e37a3b7e15049ecd67c2d4,fix(curriculum): fixed typo in py and js challenge 38 (#62062),2025-09-06T09:46:49Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
 87cde2d1e8f105fb759ba6dd9dd42d20272b86aa,"refactor(tools, curriculum): use challenge type 31 for review pages (…",2025-09-06T05:07:48Z,76,164,huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -575,4 +582,3 @@ a9dc3bdeef781da2a7c3dbbb367eb46eba27306b,chore(api): add user's id to errors sen
 a3508054e24c29298756725239cd214b4cd541e5,"chore(i18n,client): processed translations (#60791)",2025-06-09T15:59:49Z,20,1016,camperbot,freeCodeCamp,freeCodeCamp
 8cb9550897a53146d05c6bc1ec6b01fe3883702f,"chore(i18n,learn): update i18n-curriculum submodule (#60792)",2025-06-09T15:59:24Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 55c94cc77dd782e8d03a293770f4cfa9744eb981,fix(curriculum): correct grammar in FCC authors page challenge (#60773),2025-06-09T11:18:41Z,2,4,atithi4dev,freeCodeCamp,freeCodeCamp
-f4121968e4d2d4e94baf7a8416748a989eaddf4c,refactor: move superblock folder maps to config (#60714),2025-06-08T14:01:16Z,6,176,moT01,freeCodeCamp,freeCodeCamp
