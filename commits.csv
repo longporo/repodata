@@ -1,4 +1,10 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+6b486f08e27a1813a338a8a025257745ae8eb367,fix(curriculum): daily challenge typos (#62103),2025-09-09T19:52:27Z,10,20,moT01,freeCodeCamp,freeCodeCamp
+dbb51259fae51c7651f431a1ccd432fa90a339b4,fix: run all tests (#62111),2025-09-09T17:51:53Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+ed116264e4f4fa2f6cfde7905d4fc947db1badfc,fix(gha): disable i18n nodejs tests (#62106),2025-09-09T15:38:51Z,1,130,raisedadead,freeCodeCamp,freeCodeCamp
+bd2167c17694ca823d3bd6ece02a1619ca3e1770,fix(tools): adjust create language block helper script (#62090),2025-09-09T14:32:10Z,3,32,moT01,freeCodeCamp,freeCodeCamp
+ce9f1dd99a251d12b234d930c074cce2f8fe61d0,chore(curriculum): minor clean up to daily challenges (#62095),2025-09-09T11:47:45Z,114,962,moT01,freeCodeCamp,freeCodeCamp
+ec93db58fe3a9bcfebfbc62f2b6000e8c03d1ee3,"fix(i18n,client): add note for deployment issues (#62093)",2025-09-09T04:56:06Z,1,31,raisedadead,freeCodeCamp,freeCodeCamp
 f356d6b442894991519830e31c0da17505197211,"Revert ""chore: disable curriculum translation deletion (#61961)"" (#62…",2025-09-08T17:47:31Z,1,11,moT01,freeCodeCamp,freeCodeCamp
 2494c4f88705097d65ecd37d86e066be73d58da4,fix(curriculum): clarify counting cards decrease by 1 (#62072),2025-09-08T11:56:12Z,1,2,snehabichkunde,freeCodeCamp,freeCodeCamp
 4f8cf0f1d8bbfd7bd4f28a1f41ef308618790529,fix(curriculum): remove image placeholder from Vite lecture (#62076),2025-09-08T11:31:16Z,1,2,errantpianist,freeCodeCamp,freeCodeCamp
@@ -573,12 +579,3 @@ fc7d2ac761865a8f2a95a1ab1d7c6011b38a0ee8,chore: create placeholder files for pyt
 74ede1345d769071f94bdd51011815f02f385c29,chore(curriculum): updated tests to use specific asserts  (#60800),2025-06-10T09:46:36Z,5,26,DanyelleH,freeCodeCamp,freeCodeCamp
 339e09961f9f8d395037eaa8987fa9c1295e006d,AB testing skill based landing page top (#60753),2025-06-10T04:40:57Z,8,463,ahmaxed,freeCodeCamp,freeCodeCamp
 276cea53a9f94563837f8d2917638b774055c843,fix(curriculum): typo in Code Related Concepts and Terms (#60798),2025-06-10T04:11:28Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-a9dc3bdeef781da2a7c3dbbb367eb46eba27306b,chore(api): add user's id to errors sent to Sentry (#60725),2025-06-09T20:21:02Z,1,11,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-892843f6d12b6eb0b2c851b5c90ebc73bab6632a,fix(curriculum): grammar and wording in multiple challenges (#60784),2025-06-09T18:30:12Z,3,8,dev-kamil,freeCodeCamp,freeCodeCamp
-78fbc36f7d9f3c073b75c5458a4c1b087f72bdf2,feat/replace-shop-url (#58281),2025-06-09T18:06:16Z,11,22,ahmaxed,freeCodeCamp,freeCodeCamp
-2aba3ebc2663ee69cdc40d787cb8db2f2b4f27db,fix(curriculum): fCC authors page - minor improvements (#60638),2025-06-09T16:47:20Z,7,38,dev-kamil,freeCodeCamp,freeCodeCamp
-3048a5a91d1f93db72e2f464759444189b5f68f1,chore(curriculum): backticks for OOP in Programming Vocabulary (#60786),2025-06-09T16:34:13Z,8,48,Supravisor,freeCodeCamp,freeCodeCamp
-371dcd512e6f927c2988dc7b66312e36f5fc2c4f,chore(curriculum): fixed misspelled variable names (#60789),2025-06-09T16:31:49Z,1,6,clarencepenz,freeCodeCamp,freeCodeCamp
-a3508054e24c29298756725239cd214b4cd541e5,"chore(i18n,client): processed translations (#60791)",2025-06-09T15:59:49Z,20,1016,camperbot,freeCodeCamp,freeCodeCamp
-8cb9550897a53146d05c6bc1ec6b01fe3883702f,"chore(i18n,learn): update i18n-curriculum submodule (#60792)",2025-06-09T15:59:24Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-55c94cc77dd782e8d03a293770f4cfa9744eb981,fix(curriculum): correct grammar in FCC authors page challenge (#60773),2025-06-09T11:18:41Z,2,4,atithi4dev,freeCodeCamp,freeCodeCamp
