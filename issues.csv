@@ -1,12 +1,20 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87KyvE5,62135,Array Diff Task - All tests pass even though one of them shouldn't,CLOSED,2025-09-10T12:34:27Z,2025-09-10T12:42:30Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KDaFC,62064,missing info in hint of step 4 build a cipher,CLOSED,2025-09-06T10:37:12Z,2025-09-10T21:59:06Z,MPK2004,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Km6tX,62110,lab-symmetric-difference - not needed to return unique values in 2nd array to pass,CLOSED,2025-09-09T16:50:34Z,2025-09-10T21:49:01Z,arizfaiyaz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87K5RV5,62147,https://github.com/noname010.git,CLOSED,2025-09-10T21:30:46Z,2025-09-10T21:32:52Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87K2Ouy,62144,Clearer Example- HTML Classes Lecture,OPEN,2025-09-10T17:09:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KzmJW,62138,September 10's daily challenge has miswritten test,CLOSED,2025-09-10T13:35:00Z,2025-09-10T16:41:13Z,moT01,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KuZLm,62119,change hint for clarity in book catalog,CLOSED,2025-09-10T06:53:33Z,2025-09-10T15:42:26Z,amritamishra01;ilenia-magoni,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KzqMf,62139,CSS verflow lecture has a typo,OPEN,2025-09-10T13:39:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KvbYC,62123,equality operator matched wrong with regex,CLOSED,2025-09-10T08:14:31Z,2025-09-10T13:23:14Z,janni1288,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KyhX0,62133,wrong challengeType for symmetric difference lab,OPEN,2025-09-10T12:18:57Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KotJc,62113,missing verb,CLOSED,2025-09-09T19:25:35Z,2025-09-10T09:53:02Z,arizfaiyaz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KixYN,62097,change drop down step 13 build a music instrument filter,OPEN,2025-09-09T12:02:25Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87KotJc,62113,missing verb,OPEN,2025-09-09T19:25:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KlwBP,62107,forum API does not have correct structure,CLOSED,2025-09-09T15:12:01Z,2025-09-09T17:31:25Z,a2937,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Km6tX,62110,lab-symmetric-difference - not needed to return unique values in 2nd array to pass,OPEN,2025-09-09T16:50:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KlxcD,62109,"i18n - Content Sync, Deployment and Test infra is broken",OPEN,2025-09-09T15:13:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KaXOA,62096,Build a Music Instrument filter - step 9,OPEN,2025-09-08T22:13:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KZO0N,62094,A problem with some of the tests in the TriviaBot lab,OPEN,2025-09-08T20:25:43Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87KDaFC,62064,missing info in hint of step 4 build a cipher,OPEN,2025-09-06T10:37:12Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KOf55,62080,"Sorting visualizer, test missing button click",OPEN,2025-09-08T06:26:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KLNyp,62075,Looping problem — Learn Introductory JavaScript by Building a Pyramid Generator (step 33),OPEN,2025-09-07T19:38:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KGN3I,62065,Change to user story on counting card assistant,CLOSED,2025-09-06T18:01:23Z,2025-09-08T11:56:13Z,snehabichkunde,freeCodeCamp,freeCodeCamp
@@ -487,8 +495,3 @@ I_kwDOAbI7X866vbcW,60812,chore: update steps 78-80 in cat paiting to use specifi
 I_kwDOAbI7X866vO-5,60807,"chore: update steps 2,8,9,10 of cat painting workshop to use specific asserts",CLOSED,2025-06-10T10:03:25Z,2025-06-11T08:58:32Z,ric-projects,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866vSD2,60808,chore: update cat painting steps 11-14 to use specific asserts,CLOSED,2025-06-10T10:06:22Z,2025-06-11T07:10:35Z,mosse692,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8661_dm,60821,Missing space between ending backtick and opening parenthesis,CLOSED,2025-06-10T20:04:26Z,2025-06-11T04:15:39Z,dev-kamil,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866x_er,60815,module.exports – How to Export in Node.js and JavaScript | Miss leading or not detail explanation why,CLOSED,2025-06-10T13:44:50Z,2025-06-10T21:30:12Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866HKH6,60730,Fruit search app workshop - index as key,CLOSED,2025-06-05T19:44:30Z,2025-06-10T18:50:29Z,StephenMuya,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8656Mpn,60719,Improve how screen readers announce quiz question text,CLOSED,2025-06-04T20:32:20Z,2025-06-10T17:57:10Z,ashish-2106;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ytBMY,59756,Add set 2 of questions for CSS Grid quiz,CLOSED,2025-04-16T02:21:28Z,2025-06-10T10:35:43Z,fatma-ajroud;jdwilkin4,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866N2Wl,60742,chore: update tests to use specific asserts in project euler problems 21-25,CLOSED,2025-06-06T09:22:43Z,2025-06-10T09:46:37Z,DanyelleH,freeCodeCamp,freeCodeCamp
