@@ -1,19 +1,25 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87KzqMf,62139,CSS verflow lecture has a typo,CLOSED,2025-09-10T13:39:29Z,2025-09-11T23:33:42Z,HUDASULTANA,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LHIOM,62157,Move punctuation mark outside of backticks,CLOSED,2025-09-11T18:29:35Z,2025-09-11T20:41:13Z,aroradev1010;huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86NI88D,55293,"A2 English for Developers (Beta): Option to pause and seek, transcript after first playback, add hints",CLOSED,2024-06-22T17:50:45Z,2025-09-11T19:56:25Z,Sembauke;a2937,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KyhX0,62133,wrong challengeType for symmetric difference lab,OPEN,2025-09-10T12:18:57Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KaXOA,62096,Build a Music Instrument filter - step 9,OPEN,2025-09-08T22:13:53Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87K2Ouy,62144,Clearer Example- HTML Classes Lecture,CLOSED,2025-09-10T17:09:35Z,2025-09-11T16:09:59Z,Sanchit Kathpalia,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86xZhc3,59613,Update create new challenge script,CLOSED,2025-04-07T09:39:33Z,2025-09-11T15:34:05Z,a2937;ojeytonwilliams,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86uLYKV,59290,Questionable behaviour when using the Tab key to navigate the lecture video sites,CLOSED,2025-03-15T15:27:47Z,2025-09-11T15:24:23Z,dev-kamil,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87K_RsU,62152,Updating Our Payment Provider Integration,OPEN,2025-09-11T09:10:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87K-hor,62151,misleading newsletter signup button,OPEN,2025-09-11T08:19:28Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87K5RV5,62147,Closed,CLOSED,2025-09-10T21:30:46Z,2025-09-10T21:32:52Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KyvE5,62135,Array Diff Task - All tests pass even though one of them shouldn't,CLOSED,2025-09-10T12:34:27Z,2025-09-10T12:42:30Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KDaFC,62064,missing info in hint of step 4 build a cipher,CLOSED,2025-09-06T10:37:12Z,2025-09-10T21:59:06Z,MPK2004,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Km6tX,62110,lab-symmetric-difference - not needed to return unique values in 2nd array to pass,CLOSED,2025-09-09T16:50:34Z,2025-09-10T21:49:01Z,arizfaiyaz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87K5RV5,62147,https://github.com/noname010.git,CLOSED,2025-09-10T21:30:46Z,2025-09-10T21:32:52Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87K2Ouy,62144,Clearer Example- HTML Classes Lecture,OPEN,2025-09-10T17:09:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KzmJW,62138,September 10's daily challenge has miswritten test,CLOSED,2025-09-10T13:35:00Z,2025-09-10T16:41:13Z,moT01,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KuZLm,62119,change hint for clarity in book catalog,CLOSED,2025-09-10T06:53:33Z,2025-09-10T15:42:26Z,amritamishra01;ilenia-magoni,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87KzqMf,62139,CSS verflow lecture has a typo,OPEN,2025-09-10T13:39:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KvbYC,62123,equality operator matched wrong with regex,CLOSED,2025-09-10T08:14:31Z,2025-09-10T13:23:14Z,janni1288,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87KyhX0,62133,wrong challengeType for symmetric difference lab,OPEN,2025-09-10T12:18:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KotJc,62113,missing verb,CLOSED,2025-09-09T19:25:35Z,2025-09-10T09:53:02Z,arizfaiyaz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KixYN,62097,change drop down step 13 build a music instrument filter,OPEN,2025-09-09T12:02:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KlwBP,62107,forum API does not have correct structure,CLOSED,2025-09-09T15:12:01Z,2025-09-09T17:31:25Z,a2937,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KlxcD,62109,"i18n - Content Sync, Deployment and Test infra is broken",OPEN,2025-09-09T15:13:34Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87KaXOA,62096,Build a Music Instrument filter - step 9,OPEN,2025-09-08T22:13:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KZO0N,62094,A problem with some of the tests in the TriviaBot lab,OPEN,2025-09-08T20:25:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KOf55,62080,"Sorting visualizer, test missing button click",OPEN,2025-09-08T06:26:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KLNyp,62075,Looping problem — Learn Introductory JavaScript by Building a Pyramid Generator (step 33),OPEN,2025-09-07T19:38:50Z,,,freeCodeCamp,freeCodeCamp
@@ -78,7 +84,6 @@ I_kwDOAbI7X852Ye7Q,52304,English Curriculum Tasks,CLOSED,2023-11-09T17:52:05Z,20
 I_kwDOAbI7X866HVFV,60731,Tic-tac-toe lab - not checked diagonal win conditions,CLOSED,2025-06-05T20:00:07Z,2025-08-25T09:20:43Z,tanmaygautam11,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87HTvnl,61910,Empty instrcutions for Labs and Projects,CLOSED,2025-08-22T02:08:47Z,2025-08-24T23:59:56Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86qG_r-,58807,Navbar style breaks in high contrast mode due to transparency/white background,OPEN,2025-02-14T15:09:34Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86NI88D,55293,"A2 English for Developers (Beta): Option to pause and seek, transcript after first playback, add hints",OPEN,2024-06-22T17:50:45Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867heXg,60874,backend test runner does not set origin on fetch,OPEN,2025-06-14T12:41:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87HJpGX,61901,Inaccurate test case in Golf Score Lab (with minor edits),CLOSED,2025-08-21T10:25:15Z,2025-08-24T17:07:51Z,whiteSHADOW1234,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87HpzQZ,61928,No lesson on HTML entities in javascript curriculum,CLOSED,2025-08-24T15:22:22Z,2025-08-24T17:04:10Z,,freeCodeCamp,freeCodeCamp
@@ -487,11 +492,3 @@ I_kwDOAbI7X866SZ4K,60745,Use `jsx` as the language identifer for React code bloc
 I_kwDOAbI7X864mNYO,60562,Update the certification map to increase conversion to the first step.,CLOSED,2025-05-28T11:31:08Z,2025-06-12T09:47:15Z,ahmaxed,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866TUVi,60752,Superhero application form - requiring implicit return in `onChange` function,CLOSED,2025-06-06T19:01:22Z,2025-06-12T09:09:17Z,vishnudt2004,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866etyU,60783,should all events dispatched bubble up?,OPEN,2025-06-08T18:50:01Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866miKj,60793,Disable Continous Integration on Draft PRs,CLOSED,2025-06-09T15:33:38Z,2025-06-12T00:43:14Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86614SH,60820,[Nutrition Label] Repeated class name in step 8,CLOSED,2025-06-10T19:50:39Z,2025-06-11T21:27:57Z,raman976,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866899P,60829,Typo in Learn How to Discuss Tech Trends and Updates - Task 49,CLOSED,2025-06-11T11:51:35Z,2025-06-11T17:40:29Z,hema312006,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ys_JN,59754,Add set 2 of questions for Responsive Web design quiz,CLOSED,2025-04-16T02:15:19Z,2025-06-11T14:23:36Z,saif814,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866vbcW,60812,chore: update steps 78-80 in cat paiting to use specific asserts in tests,CLOSED,2025-06-10T10:18:16Z,2025-06-11T09:26:27Z,ChaplainRafael,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866vO-5,60807,"chore: update steps 2,8,9,10 of cat painting workshop to use specific asserts",CLOSED,2025-06-10T10:03:25Z,2025-06-11T08:58:32Z,ric-projects,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866vSD2,60808,chore: update cat painting steps 11-14 to use specific asserts,CLOSED,2025-06-10T10:06:22Z,2025-06-11T07:10:35Z,mosse692,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8661_dm,60821,Missing space between ending backtick and opening parenthesis,CLOSED,2025-06-10T20:04:26Z,2025-06-11T04:15:39Z,dev-kamil,freeCodeCamp,freeCodeCamp
