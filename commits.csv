@@ -1,4 +1,19 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+003807217af1be6256649126ca59b1822469f49d,feat(curriculum): add sql and bash review page (#61739),2025-09-11T23:46:45Z,1,231,larymak,freeCodeCamp,freeCodeCamp
+76faee3ea17e0260035099d2f94a8d06a8439cfd,fix(curriculum): correct typo in CSS overflow lecture (#62148),2025-09-11T23:33:41Z,1,2,HUDASULTANA,freeCodeCamp,freeCodeCamp
+5778e672821e7edc1d7f8915fb81e98e60bbf372,fix(curriculum): move punctuation mark outside of backticks (#62159),2025-09-11T20:41:11Z,1,2,aroradev1010,freeCodeCamp,freeCodeCamp
+28f7417bdfea1012a6da8d4f0d01bf592d5da074,feat(Curriculum): Add new BlockType tags for the Language Curricula C…,2025-09-11T20:10:01Z,7,51,nieldakarla,freeCodeCamp,freeCodeCamp
+aba1776fcd952064928c4b3e91b25c43f3cd6ee1,feat(ui): add a transcript button (#56275),2025-09-11T19:56:24Z,3,52,a2937,freeCodeCamp,freeCodeCamp
+17cf36545ec05c4b2a8f63e54de0993206f78d6a,fix(client): correct static key usage in catalog.tsx (#62099),2025-09-11T16:46:24Z,1,4,clarencepenz,freeCodeCamp,freeCodeCamp
+75716c4dbba0a0278c47b8ca5fe42b751569dd52,fix(curriculum): clarify IDs vs classes usage in challenge (#62154),2025-09-11T16:09:58Z,1,2,sanchitkhthpalia,freeCodeCamp,freeCodeCamp
+2b008e5aa82a8f874035c7731338b90f4b5195c3,feat: support afterAll hook in challenge tests (#61256),2025-09-11T15:46:57Z,16,358,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+392f7f805eb48f44ab6bb995a2363f47c6395336,fix(tools): make create-challenge-helper prioritize full stack curric…,2025-09-11T15:34:04Z,3,288,a2937,freeCodeCamp,freeCodeCamp
+18b7cd8acc8855c22284a1b8565597961a6281f9,"chore(i18n,client): processed translations (#62086)",2025-09-11T15:32:35Z,20,840,camperbot,freeCodeCamp,freeCodeCamp
+7d825d112d26a14d0c679162018bd3d24cbcdf14,fix(client): add tabindex only to <pre> elements with horizontal scro…,2025-09-11T15:24:22Z,1,9,dev-kamil,freeCodeCamp,freeCodeCamp
+ded6b598d75eae5e1b46af87ff5639ceef36ca81,feat(client): add 25 dollar tier ab test (#62014),2025-09-11T10:04:01Z,4,139,ahmaxed,freeCodeCamp,freeCodeCamp
+09dc696c29141eb00e3742d6ede302e47c5bc48f,feat: add email sign up alert (#61218),2025-09-11T08:14:00Z,27,732,ahmaxed,freeCodeCamp,freeCodeCamp
+29513a4d6dfd9393fc7df13c9921178dfcd4c623,refactor(curriculum): split html fundamentals lecture into two (#61962),2025-09-11T07:09:23Z,8,50,moT01,freeCodeCamp,freeCodeCamp
+415f0207f5352de9de72e2754823efa8350e251a,chore(deps): upgrade @freecodecamp/ui to v4.3.0 (#61996),2025-09-11T05:19:10Z,6,86,huyenltnguyen,freeCodeCamp,freeCodeCamp
 eb3baf2f4757eb0477b0e7f50d44dc1132a4c117,fix(curriculum): Improve hint for Caesar Cipher step 4 (#62069),2025-09-10T21:59:04Z,1,2,MPK2004,freeCodeCamp,freeCodeCamp
 26b415ed6562dd4a4592018877d3b59645cdf30b,fix(curriculum): Add 5 extra tests for lab-symmetric-difference (#62143),2025-09-10T21:48:59Z,1,54,arizfaiyaz,freeCodeCamp,freeCodeCamp
 a834414bc587d19bc3a1a81fe2cd284c9483d917,fix(curriculum): python daily challenge boolean tests (#62145),2025-09-10T19:37:57Z,11,180,moT01,freeCodeCamp,freeCodeCamp
@@ -568,16 +583,3 @@ e25c67e48d2a6a06bcbe8d6f2aee515cbd7e046e,fix(curriculum): updated cat painting s
 f09732fdc6a261086fde0f27db26bd2039dd2fbd,feat(client): add superblock intro ab test (#60685),2025-06-12T09:47:14Z,4,260,ahmaxed,freeCodeCamp,freeCodeCamp
 4342119e21c888bb3d0e77ee89a005a73ea78a96,fix(curriculum): update Step 12 instructions in the superhero applica…,2025-06-12T09:09:15Z,2,10,vishnudt2004,freeCodeCamp,freeCodeCamp
 49fbe88369a7aca1aaa63e5f5e64e29183bf7ee1,feat(client): integrate new test runner (#60318),2025-06-12T07:25:37Z,23,2313,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-18e2f919c2dd2ef16ade00ec2cc3a28f0ebd1eca,fix(curriculum): correct class name typo in nutrition label step 8 (#…,2025-06-11T21:27:56Z,2,4,raman976,freeCodeCamp,freeCodeCamp
-b858d29e4c4e96c371647169f0a9cccd21df1d84,feat: add test for specific behaviour (#60828),2025-06-11T21:03:19Z,1,20,ilenia-magoni,freeCodeCamp,freeCodeCamp
-369cc96d99bbced0b96cd145c8ff35ebe9ec9e05,fix(curriculum): replace comma with period in task 49 description (#6…,2025-06-11T17:40:27Z,1,2,hema312006,freeCodeCamp,freeCodeCamp
-33f482b4016dd0fd516d8747a2e22cff4012b705,"chore(i18n,learn): update i18n-curriculum submodule (#60832)",2025-06-11T17:22:12Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-af63409ce6d73ed3a6338f251744a5fde5a98a39,"chore(i18n,client): processed translations (#60830)",2025-06-11T15:18:03Z,20,220,camperbot,freeCodeCamp,freeCodeCamp
-2fa1597bbeacbc56e09c3f762dce538db42fd98c,feat(curriculum): release react + perfomance + testing FSD modules (#…,2025-06-11T14:38:00Z,25,78,moT01,freeCodeCamp,freeCodeCamp
-82a732e9a39ce49fa7f341b52e85a0ea41c22c90,feat(curriculum): add second set of quiz questions for Responsive Web…,2025-06-11T14:23:34Z,1,441,saif814,freeCodeCamp,freeCodeCamp
-342a4ccf22b670cd459181b42c7222f2277a5094,chore: rename workflow files (#60826),2025-06-11T09:48:00Z,2,0,raisedadead,freeCodeCamp,freeCodeCamp
-e2c26a51222607426b1f9e2109b8d89b20d38b89,chore(curriculum): replace assert calls in cat painting steps 78-80 (…,2025-06-11T09:26:26Z,3,12,ChaplainRafael,freeCodeCamp,freeCodeCamp
-17edc313210a3831cd67854bc9198ac3251d88cd,"chore(curriculum): update steps 2,8,9,10 of cat painting workshop to …",2025-06-11T08:58:30Z,4,20,ric-projects,freeCodeCamp,freeCodeCamp
-66bc604bd759d45830690ce898a4c1ca42ff022d,fix(external curricula): use strings for superblock stages (#60813),2025-06-11T07:51:23Z,2,73,huyenltnguyen,freeCodeCamp,freeCodeCamp
-b9ee08ac58fb38270cf7ac7c693ba124c3932b54,chore(curriculum): update cat painting steps 11-14 to use specific as…,2025-06-11T07:10:34Z,4,38,mosse692,freeCodeCamp,freeCodeCamp
-998185448a47930ee3e4f4bd2648eb0fd44fe723,fix(curriculum): missing space between backtick and parenthesis (#60822),2025-06-11T04:15:37Z,3,6,dev-kamil,freeCodeCamp,freeCodeCamp
