@@ -1,4 +1,16 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+fe3fac9eee851739b293981d6001a88b4a29d645,fix: remove placeholder text from english intro.json (#62185),2025-09-12T20:17:33Z,1,15,abhisek7154,freeCodeCamp,freeCodeCamp
+ee05b0d5da15a49a8c6a6b3338e3eefc71f23d25,feat(tools): allow tsx tabs (#61936),2025-09-12T18:16:37Z,8,31,a2937,freeCodeCamp,freeCodeCamp
+28411a2cece75d086b7c994ddf7ea7daf8a507e8,refactor: migrate challenge parser tests to vitest (#62186),2025-09-12T16:50:02Z,36,545,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+2590c1c8206b28d1bb377500c27d6a6ce0a03d7f,fix(curriculum): correct function name used in hints for base check d…,2025-09-12T15:06:13Z,1,2,dley18,freeCodeCamp,freeCodeCamp
+d0cfac8c42cc0bf26e2bb44c5e08fd08c1036064,feat: add sum all prime challenge lab (#62084),2025-09-12T13:28:35Z,5,120,larymak,freeCodeCamp,freeCodeCamp
+9237d61f89177d3fff6fa563dee01bd3e12749c2,fix(curriculum): Add select value example to step 9 (#62163),2025-09-12T11:20:06Z,1,9,Giftea,freeCodeCamp,freeCodeCamp
+a0ba2054841ebeb8ded3c7f4d6b7ae27cf254f07,refactor: use top-level await in challenge tests (#61398),2025-09-12T10:55:39Z,94,620,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+6e0493f918b3a69aff8d06660c3656c17fdc8ec7,chore(curriculum): redirects for intro to js lectures (#62137),2025-09-12T09:45:02Z,1,20,jdwilkin4,freeCodeCamp,freeCodeCamp
+3e5031d002d046259f17273515195589456f8ea7,refactor(curriculum): breaking down intro to JS lecture block into sm…,2025-09-12T09:44:44Z,12,98,jdwilkin4,freeCodeCamp,freeCodeCamp
+6a0ada8a4cf68e794a6011ea87c71bf24fa46541,fix(curriculum): change challengeType of Symmetric Difference lab to …,2025-09-12T08:27:48Z,1,2,mohamedmostafakhudari,freeCodeCamp,freeCodeCamp
+c96c7d113705023bffe16e7a5fa98b42f7d54078,fix(curriculum): missing assignment text for bash and sql review page…,2025-09-12T08:12:16Z,1,2,jdwilkin4,freeCodeCamp,freeCodeCamp
+af730bf58502d386f1354137ddf4bf3e8791954b,chore: migrate gitpod -> ona (#62046),2025-09-12T07:34:52Z,23,482,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 003807217af1be6256649126ca59b1822469f49d,feat(curriculum): add sql and bash review page (#61739),2025-09-11T23:46:45Z,1,231,larymak,freeCodeCamp,freeCodeCamp
 76faee3ea17e0260035099d2f94a8d06a8439cfd,fix(curriculum): correct typo in CSS overflow lecture (#62148),2025-09-11T23:33:41Z,1,2,HUDASULTANA,freeCodeCamp,freeCodeCamp
 5778e672821e7edc1d7f8915fb81e98e60bbf372,fix(curriculum): move punctuation mark outside of backticks (#62159),2025-09-11T20:41:11Z,1,2,aroradev1010,freeCodeCamp,freeCodeCamp
@@ -573,13 +585,3 @@ e495e385cae2b68f68e84f02d8fac8b937915aff,feat(curriculum): Add second quiz set f
 19963dd6ab94ee62aab1e111cff205a63f2748dc,fix: improve step 2 instruction and fix indentation in profile card w…,2025-06-13T14:46:37Z,1,4,shreyakaushal180,freeCodeCamp,freeCodeCamp
 c052649ece2503c7456646ce87e2e17d9c8d6cd7,fix: improve hint text for Moon Orbit lab (#60850),2025-06-13T10:11:39Z,1,2,shruti-cpp,freeCodeCamp,freeCodeCamp
 4cca004fb8ed4c428325054deaeb7789b0cb66df,fix(curriculum): add explanation of name attribute to review pages (#…,2025-06-13T08:21:17Z,2,10,TrevorBrowning,freeCodeCamp,freeCodeCamp
-86b9cd12a0678eea972aca1009683ed2dcc25eba,chore(curriculum): change to US spelling (#60839),2025-06-12T22:50:43Z,11,66,clarencepenz,freeCodeCamp,freeCodeCamp
-a1364295efcb509813daf1322ece08503e7b716a,fix(curriculum): inconsistent value attribute between steps 9 to 12 i…,2025-06-12T16:32:04Z,2,25,vishnudt2004,freeCodeCamp,freeCodeCamp
-db71360fda20843626d04d1c4f6bdf7462b92564,"fix(curriculum):update cat painting steps 66,67,69,70 to use specific…",2025-06-12T16:15:59Z,4,28,asabahebwa,freeCodeCamp,freeCodeCamp
-f7d736213ae4241437157834294601a5e80ee230,"chore(i18n,learn): update i18n-curriculum submodule (#60844)",2025-06-12T15:19:25Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-e25c67e48d2a6a06bcbe8d6f2aee515cbd7e046e,fix(curriculum): updated cat painting steps 59-60-61-65 to use specif…,2025-06-12T15:17:04Z,4,28,pratham-exe,freeCodeCamp,freeCodeCamp
-783421008d17be706500fa209b0999267a8b2e1f,feat(tools): better language challenge helpers (#60696),2025-06-12T12:54:43Z,11,360,moT01,freeCodeCamp,freeCodeCamp
-98e689e2e0859161c492bab566387e21dfc50f11,fix(curriculum): react code block identifier (#60764),2025-06-12T11:57:24Z,24,602,AishwaryaRajput09,freeCodeCamp,freeCodeCamp
-f09732fdc6a261086fde0f27db26bd2039dd2fbd,feat(client): add superblock intro ab test (#60685),2025-06-12T09:47:14Z,4,260,ahmaxed,freeCodeCamp,freeCodeCamp
-4342119e21c888bb3d0e77ee89a005a73ea78a96,fix(curriculum): update Step 12 instructions in the superhero applica…,2025-06-12T09:09:15Z,2,10,vishnudt2004,freeCodeCamp,freeCodeCamp
-49fbe88369a7aca1aaa63e5f5e64e29183bf7ee1,feat(client): integrate new test runner (#60318),2025-06-12T07:25:37Z,23,2313,ojeytonwilliams,freeCodeCamp,freeCodeCamp
