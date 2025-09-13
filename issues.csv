@@ -1,9 +1,20 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87LX7Ye,62192,Issues with the `pnpm create-new-project` command,OPEN,2025-09-12T22:03:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LTFP7,62184,Remove `[Add more details]` placeholder text for review page content in `intro.json`,CLOSED,2025-09-12T14:41:13Z,2025-09-12T20:17:35Z,abhisek7154,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LWASv,62187,`create-project` doesn't support chapter-based super blocks beyond FSD,OPEN,2025-09-12T18:28:40Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LLYXU,62169,Incorrect function name used in hints for base check daily challenge,CLOSED,2025-09-12T04:05:30Z,2025-09-12T15:06:15Z,dley18,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LTFMU,62183,new tests for golf translator?,OPEN,2025-09-12T14:41:09Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LLmac,62170,Issue with creating new steps and adding the correct challengeType value,OPEN,2025-09-12T04:37:54Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LPkVo,62176,indentation error does not generate hint in python challenges,OPEN,2025-09-12T10:10:10Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LO8ue,62175,Erroneously failing test,CLOSED,2025-09-12T09:33:08Z,2025-09-12T10:12:44Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KaXOA,62096,Build a Music Instrument filter - step 9,CLOSED,2025-09-08T22:13:53Z,2025-09-12T11:20:08Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86I27rX,54796,[Certification Projects] Show a dialog when user leaving the page,OPEN,2024-05-14T18:29:06Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X85NcIdB,46810,Camper Feedback on Code Saving UX,CLOSED,2022-07-08T16:19:39Z,2025-09-12T10:43:07Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KyhX0,62133,wrong challengeType for symmetric difference lab,CLOSED,2025-09-10T12:18:57Z,2025-09-12T08:27:50Z,mohamedmostafakhudari,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LKvav,62164,Missing content related to example site and inspector tools,OPEN,2025-09-12T02:12:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KzqMf,62139,CSS verflow lecture has a typo,CLOSED,2025-09-10T13:39:29Z,2025-09-11T23:33:42Z,HUDASULTANA,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LHIOM,62157,Move punctuation mark outside of backticks,CLOSED,2025-09-11T18:29:35Z,2025-09-11T20:41:13Z,aroradev1010;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86NI88D,55293,"A2 English for Developers (Beta): Option to pause and seek, transcript after first playback, add hints",CLOSED,2024-06-22T17:50:45Z,2025-09-11T19:56:25Z,Sembauke;a2937,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87KyhX0,62133,wrong challengeType for symmetric difference lab,OPEN,2025-09-10T12:18:57Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87KaXOA,62096,Build a Music Instrument filter - step 9,OPEN,2025-09-08T22:13:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87K2Ouy,62144,Clearer Example- HTML Classes Lecture,CLOSED,2025-09-10T17:09:35Z,2025-09-11T16:09:59Z,Sanchit Kathpalia,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86xZhc3,59613,Update create new challenge script,CLOSED,2025-04-07T09:39:33Z,2025-09-11T15:34:05Z,a2937;ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86uLYKV,59290,Questionable behaviour when using the Tab key to navigate the lecture video sites,CLOSED,2025-03-15T15:27:47Z,2025-09-11T15:24:23Z,dev-kamil,freeCodeCamp,freeCodeCamp
@@ -483,12 +494,3 @@ I_kwDOAbI7X86ysxsV,59746,Add set 2 of questions for Design Fundamentals Quiz,CLO
 I_kwDOAbI7X867DIUz,60836,[Profile Card workshop] Improve instructions of step 2,CLOSED,2025-06-11T21:27:48Z,2025-06-13T14:46:39Z,shreyakaushal180,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867Qbu2,60849,[Moon Orbit lab] Improve hint text,CLOSED,2025-06-12T21:52:27Z,2025-06-13T10:11:41Z,shruti-cpp,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865Gem0,60630,Update review pages for grouping radio buttons,CLOSED,2025-05-31T13:27:19Z,2025-06-13T08:21:18Z,TrevorBrowning;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866dxcO,60778,Quiz Webpage: Step 40,CLOSED,2025-06-08T13:45:30Z,2025-06-12T18:13:32Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866TNNZ,60750,Superhero application form - elusive `value` attribute on first option,CLOSED,2025-06-06T18:49:50Z,2025-06-12T16:32:05Z,vishnudt2004,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866vYpx,60810,"chore: update cat painting steps 66,67,69,70 to use specific asserts",CLOSED,2025-06-10T10:14:37Z,2025-06-12T16:16:00Z,asabahebwa;ilenia-magoni,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866vVvX,60809,"chore: update steps 59-61,65 to use specific asserts",CLOSED,2025-06-10T10:10:24Z,2025-06-12T15:17:05Z,pratham-exe,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X867LslD,60842,my count of longest streak is not working,CLOSED,2025-06-12T13:55:13Z,2025-06-12T14:12:24Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866SZ4K,60745,Use `jsx` as the language identifer for React code blocks,CLOSED,2025-06-06T17:15:57Z,2025-06-12T11:57:25Z,AishwaryaRajput09;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864mNYO,60562,Update the certification map to increase conversion to the first step.,CLOSED,2025-05-28T11:31:08Z,2025-06-12T09:47:15Z,ahmaxed,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866TUVi,60752,Superhero application form - requiring implicit return in `onChange` function,CLOSED,2025-06-06T19:01:22Z,2025-06-12T09:09:17Z,vishnudt2004,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866etyU,60783,should all events dispatched bubble up?,OPEN,2025-06-08T18:50:01Z,,,freeCodeCamp,freeCodeCamp
