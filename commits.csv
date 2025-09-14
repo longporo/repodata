@@ -578,10 +578,3 @@ c10c38e63327fed0c687fa1434cda3e9c3529249,fix(curriculum): renamed forecast->weat
 44e734398f697f583ec81e12b894d6467173715e,fix(env): remove unused keys (#60878),2025-06-15T13:46:30Z,2,7,raisedadead,freeCodeCamp,freeCodeCamp
 579e9cf69cfedd22f8f6e3f005518823b1c4be67,chore(curriculum): add redirects to lecture blocks (#60581),2025-06-14T15:53:44Z,1,60,a2937,freeCodeCamp,freeCodeCamp
 9330916a553a117b807af01a5e0e545906831ac8,chore(client): remove alert notes from legacy block pages (#60872),2025-06-14T10:15:28Z,2,12,GoldFoylee,freeCodeCamp,freeCodeCamp
-caca12108e962827ab1e450fee5b74c89f3bd729,feat(client): add coming soon module intros (#60863),2025-06-14T00:51:43Z,10,980,moT01,freeCodeCamp,freeCodeCamp
-6663275117953e4cf3d6b10d968ea77b5906ccb4,fix(client): add dom fallback runner (#60861),2025-06-13T22:06:40Z,1,32,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-e495e385cae2b68f68e84f02d8fac8b937915aff,feat(curriculum): Add second quiz set for design fundamentals (#60631),2025-06-13T20:19:03Z,1,442,abhilashini,freeCodeCamp,freeCodeCamp
-29e2622d04a4044ff30514f96b934cb6d0c7f5de,chore(curriculum): add introduction to python transcripts (#60729),2025-06-13T15:53:56Z,15,2091,zairahira,freeCodeCamp,freeCodeCamp
-19963dd6ab94ee62aab1e111cff205a63f2748dc,fix: improve step 2 instruction and fix indentation in profile card w…,2025-06-13T14:46:37Z,1,4,shreyakaushal180,freeCodeCamp,freeCodeCamp
-c052649ece2503c7456646ce87e2e17d9c8d6cd7,fix: improve hint text for Moon Orbit lab (#60850),2025-06-13T10:11:39Z,1,2,shruti-cpp,freeCodeCamp,freeCodeCamp
-4cca004fb8ed4c428325054deaeb7789b0cb66df,fix(curriculum): add explanation of name attribute to review pages (#…,2025-06-13T08:21:17Z,2,10,TrevorBrowning,freeCodeCamp,freeCodeCamp
