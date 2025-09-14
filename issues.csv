@@ -1,5 +1,10 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87Lf9tx,62206,Typo in symmetric difference function,OPEN,2025-09-13T21:17:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LX7Ye,62192,Issues with the `pnpm create-new-project` command,OPEN,2025-09-12T22:03:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LeOVK,62200,Accessibility issue in “Design a Registration Form” – Step 27 nests a link inside a label,OPEN,2025-09-13T15:31:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LeJDl,62199,Spread operator (...) behaves incorrectly on array empty slots,OPEN,2025-09-13T15:17:30Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LdYRl,62197,Theme Switcher menu-item role should be menuitem,OPEN,2025-09-13T13:24:33Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X851UZ9u,52174,Create a Minimal freeCodeCamp Discourse theme,OPEN,2023-10-30T12:50:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LTFP7,62184,Remove `[Add more details]` placeholder text for review page content in `intro.json`,CLOSED,2025-09-12T14:41:13Z,2025-09-12T20:17:35Z,abhisek7154,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LWASv,62187,`create-project` doesn't support chapter-based super blocks beyond FSD,OPEN,2025-09-12T18:28:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LLYXU,62169,Incorrect function name used in hints for base check daily challenge,CLOSED,2025-09-12T04:05:30Z,2025-09-12T15:06:15Z,dley18,freeCodeCamp,freeCodeCamp
@@ -186,7 +191,6 @@ I_kwDOAbI7X863ocO_,60469,Todo App using Local Storage — formInputValuesUpdated
 I_kwDOAbI7X864sJtn,60577,greeting bot teaches declaration then assignment,OPEN,2025-05-28T21:16:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863diul,60458,House Painting - Change the way the relative element positions are calculated,OPEN,2025-05-20T19:05:14Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868sbHR,60975,Form submission in preview don't give any feedback,CLOSED,2025-06-22T08:15:17Z,2025-08-08T18:07:16Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X851UZ9u,52174,Create a Minimal freeCodeCamp Discourse theme,OPEN,2023-10-30T12:50:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85lPWwZ,50301,POST /user/account/delete -> DELETE /user/account,OPEN,2023-05-06T07:55:48Z,,Nirajn2311;ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85oHGUb,50633,Autosave idea,OPEN,2023-06-07T21:09:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EiR0H,61694,add missing `**Objective:**` to lab descriptions,CLOSED,2025-08-06T16:25:26Z,2025-08-08T10:39:24Z,Sembauke;StuartMosquera,freeCodeCamp,freeCodeCamp
@@ -490,7 +494,3 @@ I_kwDOAbI7X864o7i_,60567,Add redirects for moved challenges,CLOSED,2025-05-28T15
 I_kwDOAbI7X867dCxh,60868,Remove browser extensions note from legacy block pages,CLOSED,2025-06-13T22:25:55Z,2025-06-14T10:15:29Z,GoldFoylee,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865M5cX,60646,Suggestion: Add example for responsive images in HTML challenges,CLOSED,2025-06-01T12:18:55Z,2025-06-02T08:23:34Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865M5PL,60644,Accessibility enhancement: Add missing alt text to documentation images,CLOSED,2025-06-01T12:18:15Z,2025-06-02T08:24:04Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ysxsV,59746,Add set 2 of questions for Design Fundamentals Quiz,CLOSED,2025-04-16T01:39:43Z,2025-06-13T20:19:04Z,abhilashini,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X867DIUz,60836,[Profile Card workshop] Improve instructions of step 2,CLOSED,2025-06-11T21:27:48Z,2025-06-13T14:46:39Z,shreyakaushal180,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X867Qbu2,60849,[Moon Orbit lab] Improve hint text,CLOSED,2025-06-12T21:52:27Z,2025-06-13T10:11:41Z,shruti-cpp,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865Gem0,60630,Update review pages for grouping radio buttons,CLOSED,2025-05-31T13:27:19Z,2025-06-13T08:21:18Z,TrevorBrowning;huyenltnguyen,freeCodeCamp,freeCodeCamp
