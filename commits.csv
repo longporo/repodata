@@ -1,4 +1,6 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+e3d68d5c528d6f488d51f402b346f53bebd094cf,fix(curriculum): changed theme switcher value (#62202),2025-09-14T07:18:04Z,1,14,clarencepenz,freeCodeCamp,freeCodeCamp
+a6596b8836ef506e1b195341eb31614158b70185,fix(curriculum): correct typo in symmetric difference challenge test …,2025-09-14T07:15:55Z,1,2,bisht0968,freeCodeCamp,freeCodeCamp
 fe3fac9eee851739b293981d6001a88b4a29d645,fix: remove placeholder text from english intro.json (#62185),2025-09-12T20:17:33Z,1,15,abhisek7154,freeCodeCamp,freeCodeCamp
 ee05b0d5da15a49a8c6a6b3338e3eefc71f23d25,feat(tools): allow tsx tabs (#61936),2025-09-12T18:16:37Z,8,31,a2937,freeCodeCamp,freeCodeCamp
 28411a2cece75d086b7c994ddf7ea7daf8a507e8,refactor: migrate challenge parser tests to vitest (#62186),2025-09-12T16:50:02Z,36,545,ojeytonwilliams,freeCodeCamp,freeCodeCamp
@@ -576,5 +578,3 @@ f94571efd92c5156c1be5db641314e1b9ef5500d,fix(curriculum): combined sentences and
 f0bb5dd74014e8ceef9cedeccb440e0ac1677b59,refactor(client): update OfflineWarning to use Alert and Spacer compo…,2025-06-15T19:27:56Z,1,7,Sky-walkerX,freeCodeCamp,freeCodeCamp
 c10c38e63327fed0c687fa1434cda3e9c3529249,fix(curriculum): renamed forecast->weather in Build a Weather App (#6…,2025-06-15T15:03:44Z,1,58,dev-kamil,freeCodeCamp,freeCodeCamp
 44e734398f697f583ec81e12b894d6467173715e,fix(env): remove unused keys (#60878),2025-06-15T13:46:30Z,2,7,raisedadead,freeCodeCamp,freeCodeCamp
-579e9cf69cfedd22f8f6e3f005518823b1c4be67,chore(curriculum): add redirects to lecture blocks (#60581),2025-06-14T15:53:44Z,1,60,a2937,freeCodeCamp,freeCodeCamp
-9330916a553a117b807af01a5e0e545906831ac8,chore(client): remove alert notes from legacy block pages (#60872),2025-06-14T10:15:28Z,2,12,GoldFoylee,freeCodeCamp,freeCodeCamp
