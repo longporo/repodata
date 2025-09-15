@@ -1,16 +1,20 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87Lf9tx,62206,Typo in symmetric difference function,OPEN,2025-09-13T21:17:53Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87LX7Ye,62192,Issues with the `pnpm create-new-project` command,OPEN,2025-09-12T22:03:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LeOVK,62200,Accessibility issue in “Design a Registration Form” – Step 27 nests a link inside a label,OPEN,2025-09-13T15:31:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87D7MCP,61653,Clarification Needed in Lecture on Abbreviations and Acronyms in HTML,OPEN,2025-08-03T11:01:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LkPaN,62213,template literals topic doesn't show more complex examples with js expressions,OPEN,2025-09-14T16:49:16Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LjWQe,62211,Navbar covers content when printing articles - FCC News,OPEN,2025-09-14T13:25:19Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LifoI,62210,Build a Theme Switcher: broken test,OPEN,2025-09-14T09:30:33Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LTFMU,62183,new tests for golf translator?,OPEN,2025-09-12T14:41:09Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LPkVo,62176,indentation error does not generate hint in python challenges,OPEN,2025-09-12T10:10:10Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LX7Ye,62192,Issues with the `pnpm create-new-project` command,OPEN,2025-09-12T22:03:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LeJDl,62199,Spread operator (...) behaves incorrectly on array empty slots,OPEN,2025-09-13T15:17:30Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87LdYRl,62197,Theme Switcher menu-item role should be menuitem,OPEN,2025-09-13T13:24:33Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LdYRl,62197,Theme Switcher menu-item role should be menuitem,CLOSED,2025-09-13T13:24:33Z,2025-09-14T07:18:05Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Lf9tx,62206,Typo in symmetric difference function,CLOSED,2025-09-13T21:17:53Z,2025-09-14T07:15:57Z,DivyaAggarwal08,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X851UZ9u,52174,Create a Minimal freeCodeCamp Discourse theme,OPEN,2023-10-30T12:50:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LTFP7,62184,Remove `[Add more details]` placeholder text for review page content in `intro.json`,CLOSED,2025-09-12T14:41:13Z,2025-09-12T20:17:35Z,abhisek7154,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LWASv,62187,`create-project` doesn't support chapter-based super blocks beyond FSD,OPEN,2025-09-12T18:28:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LLYXU,62169,Incorrect function name used in hints for base check daily challenge,CLOSED,2025-09-12T04:05:30Z,2025-09-12T15:06:15Z,dley18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87LTFMU,62183,new tests for golf translator?,OPEN,2025-09-12T14:41:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LLmac,62170,Issue with creating new steps and adding the correct challengeType value,OPEN,2025-09-12T04:37:54Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87LPkVo,62176,indentation error does not generate hint in python challenges,OPEN,2025-09-12T10:10:10Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LO8ue,62175,Erroneously failing test,CLOSED,2025-09-12T09:33:08Z,2025-09-12T10:12:44Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KaXOA,62096,Build a Music Instrument filter - step 9,CLOSED,2025-09-08T22:13:53Z,2025-09-12T11:20:08Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86I27rX,54796,[Certification Projects] Show a dialog when user leaving the page,OPEN,2024-05-14T18:29:06Z,,,freeCodeCamp,freeCodeCamp
@@ -77,7 +81,6 @@ I_kwDOAbI7X87JSBF8,62021,Availability table,CLOSED,2025-09-02T17:36:47Z,2025-09-
 I_kwDOAbI7X86dwajV,57113,Shortest-Path-Algorithm Challenge: Report with suggestions to improve the learning experience,CLOSED,2024-11-10T01:58:08Z,2025-09-02T13:40:41Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87I4MIe,61999,Reference to method chaining applying to objects,OPEN,2025-08-31T11:38:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JEGE6,62010,Bookmark Manager passes incorrect code,OPEN,2025-09-01T16:43:42Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87D7MCP,61653,Clarification Needed in Lecture on Abbreviations and Acronyms in HTML,OPEN,2025-08-03T11:01:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GaHAZ,61855,Missing visual reference in CSS/Design/User Interface Design Fundamentals/What Is the Importance of Whitespace in Design?,CLOSED,2025-08-17T22:54:31Z,2025-08-25T07:15:40Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87I0pO6,61993,"Remove ""exists"" from backticks in Working with Objects lecture",CLOSED,2025-08-30T15:46:50Z,2025-09-01T04:24:27Z,kashaf12,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87I5dvI,62001,Golf Score lab,CLOSED,2025-08-31T17:16:08Z,2025-08-31T22:42:03Z,,freeCodeCamp,freeCodeCamp
@@ -490,7 +493,3 @@ I_kwDOAbI7X863jX9t,60461,Inconvenient discovery of challenges in Full Stack Deve
 I_kwDOAbI7X867op2v,60883,Hide dumbbell icon from screen readers,CLOSED,2025-06-15T19:18:27Z,2025-06-15T20:50:31Z,igor570,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867c3ZY,60864,Update OfflineWarning to use Alert component,CLOSED,2025-06-13T22:01:58Z,2025-06-15T19:27:58Z,Sky-walkerX,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867XRJZ,60853,Build a Weather App it's not a forecast,CLOSED,2025-06-13T12:35:42Z,2025-06-15T15:03:45Z,dev-kamil,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864o7i_,60567,Add redirects for moved challenges,CLOSED,2025-05-28T15:15:16Z,2025-06-14T15:53:45Z,a2937,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X867dCxh,60868,Remove browser extensions note from legacy block pages,CLOSED,2025-06-13T22:25:55Z,2025-06-14T10:15:29Z,GoldFoylee,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865M5cX,60646,Suggestion: Add example for responsive images in HTML challenges,CLOSED,2025-06-01T12:18:55Z,2025-06-02T08:23:34Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865M5PL,60644,Accessibility enhancement: Add missing alt text to documentation images,CLOSED,2025-06-01T12:18:15Z,2025-06-02T08:24:04Z,,freeCodeCamp,freeCodeCamp
