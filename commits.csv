@@ -1,4 +1,9 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+75e825d5fa2b6dc2d516a095cd6188567bac871e,Feat(Curriculum): Implement Chapter Based Layout to A1 Spanish (#62190),2025-09-15T19:39:48Z,24,647,nieldakarla,freeCodeCamp,freeCodeCamp
+954117ce5e951fa7e340b56525bce0e51261a5cd,chore(tools): display chapters in challenge editor (#62050),2025-09-15T14:30:13Z,21,680,a2937,freeCodeCamp,freeCodeCamp
+eb2c74b4e6f29726a5c25deaae6ac0517deb74e9,"chore(i18n,client): processed translations (#62221)",2025-09-15T14:01:01Z,20,926,camperbot,freeCodeCamp,freeCodeCamp
+d631c760875caf1655651efa01378fd551ce4965,feat: ab test for independent lowerjaw under editor (#61269),2025-09-15T07:29:24Z,4,78,ahmaxed,freeCodeCamp,freeCodeCamp
+8e8a813365408e6570ef48d6a703c23c37986b5c,fix(curriculum): typo in language feedback (#62214),2025-09-15T03:51:39Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 e3d68d5c528d6f488d51f402b346f53bebd094cf,fix(curriculum): changed theme switcher value (#62202),2025-09-14T07:18:04Z,1,14,clarencepenz,freeCodeCamp,freeCodeCamp
 a6596b8836ef506e1b195341eb31614158b70185,fix(curriculum): correct typo in symmetric difference challenge test …,2025-09-14T07:15:55Z,1,2,bisht0968,freeCodeCamp,freeCodeCamp
 fe3fac9eee851739b293981d6001a88b4a29d645,fix: remove placeholder text from english intro.json (#62185),2025-09-12T20:17:33Z,1,15,abhisek7154,freeCodeCamp,freeCodeCamp
@@ -574,7 +579,3 @@ f94571efd92c5156c1be5db641314e1b9ef5500d,fix(curriculum): combined sentences and
 4a2fad2c7d870de3b4bb230d6a05d750fe6c78e1,feat(curriculum): adding python basics review content (#59958),2025-06-16T10:17:04Z,2,867,jdwilkin4,freeCodeCamp,freeCodeCamp
 73130377fc3c234955b9dd25a3ed81df32a98530,refactor(client): update SuperBlockIntro to use Callout and Spacer co…,2025-06-16T04:10:53Z,1,16,Sky-walkerX,freeCodeCamp,freeCodeCamp
 7eaeddc3b5aa7e1182a50e689f865ab082418306,chore(client): removed unused css (#60885),2025-06-16T04:09:40Z,1,13,aldinash,freeCodeCamp,freeCodeCamp
-00bbcd2ea9ae597a6619507fc3bcad078c6a992a,fix(a11y): hide dumbbell icon from screen readers (#60884),2025-06-15T20:50:30Z,1,1,igor570,freeCodeCamp,freeCodeCamp
-f0bb5dd74014e8ceef9cedeccb440e0ac1677b59,refactor(client): update OfflineWarning to use Alert and Spacer compo…,2025-06-15T19:27:56Z,1,7,Sky-walkerX,freeCodeCamp,freeCodeCamp
-c10c38e63327fed0c687fa1434cda3e9c3529249,fix(curriculum): renamed forecast->weather in Build a Weather App (#6…,2025-06-15T15:03:44Z,1,58,dev-kamil,freeCodeCamp,freeCodeCamp
-44e734398f697f583ec81e12b894d6467173715e,fix(env): remove unused keys (#60878),2025-06-15T13:46:30Z,2,7,raisedadead,freeCodeCamp,freeCodeCamp
