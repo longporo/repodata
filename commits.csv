@@ -1,4 +1,14 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+4ad144fc67d325262093b8a5e73a950e1ee5432e,fix(dev): preserve step order during hot reload by reloading all chal…,2025-09-16T18:09:40Z,2,144,niyati34,freeCodeCamp,freeCodeCamp
+3931ed159d272e9b1e614dd0af66ba6f9f3ab857,feat(curriculum): add lectures for rest parameter syntax and argument…,2025-09-16T17:17:22Z,6,455,jdwilkin4,freeCodeCamp,freeCodeCamp
+91e4c05b9fba3ec1322eb9836a567376822a3eb6,fix(api): handle termination signals (#61171),2025-09-16T14:37:09Z,1,11,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+b80b849058e92ccd99d948903289938ecb601dfb,fix: indentation error reporting (#62182),2025-09-16T14:36:42Z,2,61,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+dc0d39c548a7bd9094f0d6096f16664332808765,fix(curriculum): Casing typo in JavaScript quiz (#62217),2025-09-16T10:30:00Z,2,8,Supravisor,freeCodeCamp,freeCodeCamp
+054d2448faa24c7b21e2f918c442700b83c1d296,fix(tools): insert step with appropriate challenge type (#62179),2025-09-16T07:50:25Z,5,69,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+fbf6bf2bcddbe5b95fe02d8afb48f790cb0730ec,fix(curriculum): rework variable declarations in Greeting Bot worksho…,2025-09-16T06:41:49Z,12,105,Supravisor,freeCodeCamp,freeCodeCamp
+881dfd8f7890e72f2518f026a53cbd9f158d94a5,refactor: client jest -> vitest (#62177),2025-09-16T06:30:06Z,86,2048,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+c7354cff89e4e4f7a20d1732a2363568e190ed8d,feat(curriculum): daily challenges 55-62 - Oct 4-11 (#62225),2025-09-16T06:28:10Z,19,1554,moT01,freeCodeCamp,freeCodeCamp
+df1c226cc608cbc69eb730b7a2a8fad186957f7f,feat(curriculum): add git and GitHub lectures (#62116),2025-09-16T02:04:15Z,22,3127,moT01,freeCodeCamp,freeCodeCamp
 75e825d5fa2b6dc2d516a095cd6188567bac871e,Feat(Curriculum): Implement Chapter Based Layout to A1 Spanish (#62190),2025-09-15T19:39:48Z,24,647,nieldakarla,freeCodeCamp,freeCodeCamp
 954117ce5e951fa7e340b56525bce0e51261a5cd,chore(tools): display chapters in challenge editor (#62050),2025-09-15T14:30:13Z,21,680,a2937,freeCodeCamp,freeCodeCamp
 eb2c74b4e6f29726a5c25deaae6ac0517deb74e9,"chore(i18n,client): processed translations (#62221)",2025-09-15T14:01:01Z,20,926,camperbot,freeCodeCamp,freeCodeCamp
@@ -574,8 +584,3 @@ ec764ef7cbf03ef1e2f4e49d7ebc1b6a65234b9c,chore(curriculum): change to US spellin
 128c43b5ccc403859c8451083a142e8ff53484e0,fix(client): show ab test for fsd only (#60880),2025-06-17T12:16:07Z,1,5,ahmaxed,freeCodeCamp,freeCodeCamp
 852348e97459b76602c7917b8e675c8354bc3f86,chore(curriculum): add JS a11y module  (#60579),2025-06-17T10:14:51Z,8,541,jdwilkin4,freeCodeCamp,freeCodeCamp
 2e6c81bc6371cfe63bf4fd54e5e8e62dcf27ede5,feat(curriculum): add Block 21 of the B1 stage of the English Curricu…,2025-06-17T03:49:43Z,137,13999,DanielRosa74,freeCodeCamp,freeCodeCamp
-4888343d212f4a1f42d88c22d1a0f30ecae0de4a,"chore(i18n,learn): update i18n-curriculum submodule (#60896)",2025-06-16T16:11:29Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-f94571efd92c5156c1be5db641314e1b9ef5500d,fix(curriculum): combined sentences and added examples (#60858),2025-06-16T14:43:39Z,1,20,Cas-Romero,freeCodeCamp,freeCodeCamp
-4a2fad2c7d870de3b4bb230d6a05d750fe6c78e1,feat(curriculum): adding python basics review content (#59958),2025-06-16T10:17:04Z,2,867,jdwilkin4,freeCodeCamp,freeCodeCamp
-73130377fc3c234955b9dd25a3ed81df32a98530,refactor(client): update SuperBlockIntro to use Callout and Spacer co…,2025-06-16T04:10:53Z,1,16,Sky-walkerX,freeCodeCamp,freeCodeCamp
-7eaeddc3b5aa7e1182a50e689f865ab082418306,chore(client): removed unused css (#60885),2025-06-16T04:09:40Z,1,13,aldinash,freeCodeCamp,freeCodeCamp
