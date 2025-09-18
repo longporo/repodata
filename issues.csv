@@ -1,11 +1,16 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87MRarR,62246,Horizontal bar looks like a footer on smaller devices,OPEN,2025-09-17T17:06:58Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X858JZdo,53201,Step 55 of OOP game should update instructions to mention where destructing should happen,CLOSED,2024-01-16T00:28:04Z,2024-01-18T02:48:59Z,a2937;jdwilkin4,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LifoI,62210,Build a Theme Switcher: broken test,CLOSED,2025-09-14T09:30:33Z,2025-09-17T19:27:29Z,janni1288,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87MIvHB,62239,BIOS should appear in backticks,CLOSED,2025-09-17T06:17:22Z,2025-09-17T19:23:50Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87MRi-r,62247,"Standardize use of ""Front End"" VS ""Frontend"" in /learn and cert names",OPEN,2025-09-17T17:18:33Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87D2JVd,61648,Feature request: Listen to the audio button for A2 “Review of the entire dialogue” task,OPEN,2025-08-02T08:44:13Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LeOVK,62200,Accessibility issue in “Design a Registration Form” – Step 27 nests a link inside a label,OPEN,2025-09-13T15:31:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KLNyp,62075,Looping problem — Learn Introductory JavaScript by Building a Pyramid Generator (step 33),CLOSED,2025-09-07T19:38:50Z,2025-09-16T20:47:41Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86y2DdZ,59776,"Feature Request: ""Start Where You Left Off"" for Lessons",OPEN,2025-04-16T19:09:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LtuIe,62222,HTML Sematic issues with Customer Complaint Form Lab,OPEN,2025-09-15T12:29:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87IhcaO,61979,in local build edited steps loose order,CLOSED,2025-08-28T18:00:36Z,2025-09-16T18:09:41Z,niyati34,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87LeOVK,62200,Accessibility issue in “Design a Registration Form” – Step 27 nests a link inside a label,OPEN,2025-09-13T15:31:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LTFMU,62183,new tests for golf translator?,OPEN,2025-09-12T14:41:09Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87LifoI,62210,Build a Theme Switcher: broken test,OPEN,2025-09-14T09:30:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KOf55,62080,"Sorting visualizer, test missing button click",OPEN,2025-09-08T06:26:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LPkVo,62176,indentation error does not generate hint in python challenges,CLOSED,2025-09-12T10:10:10Z,2025-09-16T14:36:43Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_Lf3g,61235,Expanding FSD selections,OPEN,2025-07-07T03:57:41Z,,,freeCodeCamp,freeCodeCamp
@@ -181,7 +186,6 @@ I_kwDOAbI7X87FE4ha,61764,How Do Assertions Work in Unit Testing? definition word
 I_kwDOAbI7X86-EJoj,61159,Bug in Step 6 of Merge Sort Algorithm Challenge,CLOSED,2025-06-30T14:44:13Z,2025-08-12T07:16:34Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87FBVNT,61755,suggestion to add a lecture to teach how to use vs code along-side html/css/js lectures,OPEN,2025-08-09T00:00:44Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Ew0rY,61727,Minor typos in JavaScript arrays review and quiz,CLOSED,2025-08-07T16:20:13Z,2025-08-11T16:03:34Z,sinha21Soumya,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87D2JVd,61648,Feature request: Listen to the audio button for A2 “Review of the entire dialogue” task,OPEN,2025-08-02T08:44:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87FDNOG,61761,Add Simple Trading Card Battle Game as an Interactive Learning Tool,CLOSED,2025-08-09T05:52:04Z,2025-08-11T11:42:58Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-HTQd,61166,Browsing Topics API warning while using Firefox,OPEN,2025-06-30T19:13:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865M5HM,60643,Keyboard shortcuts in code editor,CLOSED,2025-06-01T12:17:54Z,2025-08-11T11:04:59Z,,freeCodeCamp,freeCodeCamp
@@ -487,9 +491,3 @@ I_kwDOAbI7X866oNDm,60796,[Profile Card workshop] Step 1 not checking the return 
 I_kwDOAbI7X864mNf8,60563,Unclear description in Workshop fCC Authors Page - Step 12 and 13,CLOSED,2025-05-28T11:31:21Z,2025-06-18T09:07:41Z,vishnudt2004,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867zr7N,60900,Job Application form should test that input and label are linked correctly,CLOSED,2025-06-16T18:23:10Z,2025-06-18T07:58:44Z,a2937,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867qClb,60889,Bug/Incorrect Code in Step 15-16 of Full-stack Curriculum -> Fruit Search App,CLOSED,2025-06-16T02:42:46Z,2025-06-18T04:34:46Z,ilenia-magoni;vishnudt2004,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868CyRn,60915,Learn localStorage by Building a Todo App - Step 51,CLOSED,2025-06-17T21:46:51Z,2025-06-18T00:40:43Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X867c50R,60866,Remove `alert-info` class,CLOSED,2025-06-13T22:07:48Z,2025-06-17T17:27:54Z,tanmaygautam11,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X867Ohv3,60846,Build a recipe tracker - step 7,CLOSED,2025-06-12T17:53:13Z,2025-06-17T17:21:59Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865yMFd,60703,Preserve pre-sign-in activity and resume after authentication,OPEN,2025-06-04T08:20:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861sa5w,60228,Persisting Last User Activity,OPEN,2025-05-08T09:05:56Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864rUk3,60572,Add JS and A11y module object to `full-stack.json` file,CLOSED,2025-05-28T19:32:13Z,2025-06-17T10:14:52Z,huyenltnguyen;ilenia-magoni;jdwilkin4,freeCodeCamp,freeCodeCamp
