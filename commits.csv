@@ -1,4 +1,7 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+7e81540d2ed2ae461e1447d35810ce8dfc84057d,fix(curriculum): make Theme Switcher click events bubble (#62234),2025-09-17T19:27:26Z,1,4,janni1288,freeCodeCamp,freeCodeCamp
+0ec12631e9f841a733de2e6c1c36c308a8ecc451,test(test): migrate from Mocha to Vitest (#62085),2025-09-17T19:11:50Z,15,1310,Sembauke,freeCodeCamp,freeCodeCamp
+a0c1876e368467a3b3222cdc69d2b7bbd0caf71b,"chore(i18n,client): processed translations (#62242)",2025-09-17T15:21:32Z,10,520,camperbot,freeCodeCamp,freeCodeCamp
 4ad144fc67d325262093b8a5e73a950e1ee5432e,fix(dev): preserve step order during hot reload by reloading all chal…,2025-09-16T18:09:40Z,2,144,niyati34,freeCodeCamp,freeCodeCamp
 3931ed159d272e9b1e614dd0af66ba6f9f3ab857,feat(curriculum): add lectures for rest parameter syntax and argument…,2025-09-16T17:17:22Z,6,455,jdwilkin4,freeCodeCamp,freeCodeCamp
 91e4c05b9fba3ec1322eb9836a567376822a3eb6,fix(api): handle termination signals (#61171),2025-09-16T14:37:09Z,1,11,ojeytonwilliams,freeCodeCamp,freeCodeCamp
@@ -578,9 +581,3 @@ fbed638f0e6dd0fd15e7cf4198b84f5e5745305e,"feat(client,curriculum): add quicksort
 6a94d1b8ff9b7ba3ef407ba578019b0750d4830b,fix(curriculum): update step 12 and 13 in fcc authors page workshop (…,2025-06-18T09:07:40Z,2,6,vishnudt2004,freeCodeCamp,freeCodeCamp
 06ab8cd32ef81aa09ade79e7b4acb46efa22c462,chore(curriculum): test input and label are linked (#60909),2025-06-18T07:58:43Z,1,13,a2937,freeCodeCamp,freeCodeCamp
 c43429a9b184c4e9e20f4bcd00df7df45a9c9747,fix(curriculum): update steps 15-16 in fruit search app workshop (#60…,2025-06-18T04:34:44Z,2,12,vishnudt2004,freeCodeCamp,freeCodeCamp
-4f59955ea016f714aa8107fcdd324177b2dbeb6d,chore(client): removed alert-info class from global.css (#60897),2025-06-17T17:27:53Z,1,6,tanmaygautam11,freeCodeCamp,freeCodeCamp
-bb552574f6ff7d7c7209e4bc0fd0b7e62c8e7dde,fix(curriculum): modify description in Recipe Tracker workshop (#60886),2025-06-17T17:21:58Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-ec764ef7cbf03ef1e2f4e49d7ebc1b6a65234b9c,chore(curriculum): change to US spelling (#60852),2025-06-17T16:32:03Z,45,154,clarencepenz,freeCodeCamp,freeCodeCamp
-128c43b5ccc403859c8451083a142e8ff53484e0,fix(client): show ab test for fsd only (#60880),2025-06-17T12:16:07Z,1,5,ahmaxed,freeCodeCamp,freeCodeCamp
-852348e97459b76602c7917b8e675c8354bc3f86,chore(curriculum): add JS a11y module  (#60579),2025-06-17T10:14:51Z,8,541,jdwilkin4,freeCodeCamp,freeCodeCamp
-2e6c81bc6371cfe63bf4fd54e5e8e62dcf27ede5,feat(curriculum): add Block 21 of the B1 stage of the English Curricu…,2025-06-17T03:49:43Z,137,13999,DanielRosa74,freeCodeCamp,freeCodeCamp
