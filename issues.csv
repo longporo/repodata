@@ -1,16 +1,20 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87MRarR,62246,Horizontal bar looks like a footer on smaller devices,OPEN,2025-09-17T17:06:58Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87JQzEc,62018,Daily challenge solutions are saved as `undefined.txt`,OPEN,2025-09-02T15:57:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Mb4kg,62256,Potential errors in reusable card component workshop,OPEN,2025-09-18T11:10:24Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X85RXI65,47464,Add Per-Module Progress Reset,OPEN,2022-09-07T18:12:38Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LtuIe,62222,HTML Sematic issues with Customer Complaint Form Lab,OPEN,2025-09-15T12:29:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87D2JVd,61648,Feature request: Listen to the audio button for A2 “Review of the entire dialogue” task,CLOSED,2025-08-02T08:44:13Z,2025-09-18T10:45:30Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87MbVpW,62254,[Speaking Modal] Set the initial focus on the Play button,OPEN,2025-09-18T10:30:57Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LTFMU,62183,new tests for golf translator?,OPEN,2025-09-12T14:41:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X858JZdo,53201,Step 55 of OOP game should update instructions to mention where destructing should happen,CLOSED,2024-01-16T00:28:04Z,2024-01-18T02:48:59Z,a2937;jdwilkin4,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87MRarR,62246,Horizontal bar looks like a footer on smaller devices,OPEN,2025-09-17T17:06:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LifoI,62210,Build a Theme Switcher: broken test,CLOSED,2025-09-14T09:30:33Z,2025-09-17T19:27:29Z,janni1288,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87MIvHB,62239,BIOS should appear in backticks,CLOSED,2025-09-17T06:17:22Z,2025-09-17T19:23:50Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87MRi-r,62247,"Standardize use of ""Front End"" VS ""Frontend"" in /learn and cert names",OPEN,2025-09-17T17:18:33Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87D2JVd,61648,Feature request: Listen to the audio button for A2 “Review of the entire dialogue” task,OPEN,2025-08-02T08:44:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LeOVK,62200,Accessibility issue in “Design a Registration Form” – Step 27 nests a link inside a label,OPEN,2025-09-13T15:31:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KLNyp,62075,Looping problem — Learn Introductory JavaScript by Building a Pyramid Generator (step 33),CLOSED,2025-09-07T19:38:50Z,2025-09-16T20:47:41Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86y2DdZ,59776,"Feature Request: ""Start Where You Left Off"" for Lessons",OPEN,2025-04-16T19:09:33Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87LtuIe,62222,HTML Sematic issues with Customer Complaint Form Lab,OPEN,2025-09-15T12:29:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87IhcaO,61979,in local build edited steps loose order,CLOSED,2025-08-28T18:00:36Z,2025-09-16T18:09:41Z,niyati34,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87LTFMU,62183,new tests for golf translator?,OPEN,2025-09-12T14:41:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KOf55,62080,"Sorting visualizer, test missing button click",OPEN,2025-09-08T06:26:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LPkVo,62176,indentation error does not generate hint in python challenges,CLOSED,2025-09-12T10:10:10Z,2025-09-16T14:36:43Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_Lf3g,61235,Expanding FSD selections,OPEN,2025-07-07T03:57:41Z,,,freeCodeCamp,freeCodeCamp
@@ -75,7 +79,6 @@ I_kwDOAbI7X87KK1U6,62074,Italian and portuguese tests for PRs are continually fa
 I_kwDOAbI7X87Hqyt3,61931,Remove backticks from Python,CLOSED,2025-08-24T20:35:11Z,2025-09-07T07:37:35Z,tejb96,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JpJlQ,62043,lab needs topics not taught before it,OPEN,2025-09-04T09:59:27Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86z5tF4,59969,Build an availability table issue,OPEN,2025-04-24T19:23:50Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87JQzEc,62018,Daily challenge solutions are saved as `undefined.txt`,OPEN,2025-09-02T15:57:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87IZLyn,61971,[bug] cors + 403 when submitting challenges,CLOSED,2025-08-28T06:46:45Z,2025-09-02T14:20:49Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Jx6Tt,62049,group of checkboxes in hotel form feedback workshop,OPEN,2025-09-04T20:12:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GdcHm,61859,☂️ Umbrella Issue updating lectures with code examples ☂️,OPEN,2025-08-18T07:52:50Z,,,freeCodeCamp,freeCodeCamp
@@ -483,11 +486,3 @@ I_kwDOAbI7X86kF6fU,57640,[bug] donation modal mostly empty,CLOSED,2024-12-20T15:
 I_kwDOAbI7X86jPhOB,57518,Form validation and completion modal,CLOSED,2024-12-13T16:25:41Z,2025-06-19T14:58:53Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86htFzB,57391,Clean up challenge types,OPEN,2024-12-02T18:42:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867OmZO,60847,The quiz for async/defer attributes includes a question with content not discussed in video/transcript,CLOSED,2025-06-12T18:00:26Z,2025-06-19T11:05:12Z,vishnudt2004,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868QzEC,60929,Build a Color Picker App,CLOSED,2025-06-19T00:32:21Z,2025-06-19T00:57:01Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866XR28,60761,Build a Quiz Webpage - Step 24 with misguided instruction.,CLOSED,2025-06-07T07:46:03Z,2025-06-18T23:42:12Z,AishwaryaRajput09,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866vaPN,60811,chore: update tests to use specific asserts in cat paiting steps 71-74,CLOSED,2025-06-10T10:16:56Z,2025-06-18T21:36:08Z,ritsth,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8675UpO,60902,TOP: CSS Foundations Exercise C needs some updates,CLOSED,2025-06-17T07:21:32Z,2025-06-18T20:39:19Z,abhilashini,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866oNDm,60796,[Profile Card workshop] Step 1 not checking the return statement,CLOSED,2025-06-09T18:30:02Z,2025-06-18T19:51:18Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864mNf8,60563,Unclear description in Workshop fCC Authors Page - Step 12 and 13,CLOSED,2025-05-28T11:31:21Z,2025-06-18T09:07:41Z,vishnudt2004,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X867zr7N,60900,Job Application form should test that input and label are linked correctly,CLOSED,2025-06-16T18:23:10Z,2025-06-18T07:58:44Z,a2937,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X867qClb,60889,Bug/Incorrect Code in Step 15-16 of Full-stack Curriculum -> Fruit Search App,CLOSED,2025-06-16T02:42:46Z,2025-06-18T04:34:46Z,ilenia-magoni;vishnudt2004,freeCodeCamp,freeCodeCamp
