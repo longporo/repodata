@@ -1,4 +1,7 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+3a2e0b112a9bc95dfc86afebd32bc4dbf9215721,chore(curriculum): updating git and github quiz questions (#62191),2025-09-18T16:20:54Z,1,188,jdwilkin4,freeCodeCamp,freeCodeCamp
+92d6901c2f7ad0e9597373f1eb61dbeb71e93a3d,feat(api): add exam->challenge map and routes (#61683),2025-09-18T13:32:44Z,10,267,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+a6d186a73d3d9831253c390cc4f5070a9cfbd66c,feat(curriculum): add media catalogue workshop (#62051),2025-09-18T06:54:23Z,46,4875,Dario-DC,freeCodeCamp,freeCodeCamp
 7e81540d2ed2ae461e1447d35810ce8dfc84057d,fix(curriculum): make Theme Switcher click events bubble (#62234),2025-09-17T19:27:26Z,1,4,janni1288,freeCodeCamp,freeCodeCamp
 0ec12631e9f841a733de2e6c1c36c308a8ecc451,test(test): migrate from Mocha to Vitest (#62085),2025-09-17T19:11:50Z,15,1310,Sembauke,freeCodeCamp,freeCodeCamp
 a0c1876e368467a3b3222cdc69d2b7bbd0caf71b,"chore(i18n,client): processed translations (#62242)",2025-09-17T15:21:32Z,10,520,camperbot,freeCodeCamp,freeCodeCamp
@@ -568,16 +571,3 @@ aa78ee52ae1d2d4ebfce7ec2c0570b76889c43cd,feat(curriculum): update lunch picker t
 3099a8844cedf9a5c953f10ac9c8e6fe24cca3ef,chore(curriculum): break up and reorganize HTML media lectures (#60930),2025-06-20T10:34:31Z,12,102,jdwilkin4,freeCodeCamp,freeCodeCamp
 3e64e45bc561837604218bb08a40ec6914247af3,fix(curriculum): missing note in JS A11y (#60940),2025-06-20T08:35:38Z,1,6,jdwilkin4,freeCodeCamp,freeCodeCamp
 11d22be2dd889e297a114b05922272933f060a88,fix(curriculum): replace unrelated HTML defer/async question with a n…,2025-06-19T11:05:11Z,1,16,vishnudt2004,freeCodeCamp,freeCodeCamp
-4a5bd91a52c2785edea16ea25c8db45b7b1dd3f9,fix(curriculum): update the tests and instructions of the step 24 wor…,2025-06-18T23:42:11Z,1,14,AishwaryaRajput09,freeCodeCamp,freeCodeCamp
-2783b7365184d2c37c84a51944690427969e57a7,chore(curriculum): update tests to use specific asserts in cat painti…,2025-06-18T21:36:07Z,4,20,ritsth,freeCodeCamp,freeCodeCamp
-e725238fcadc3b8ad5d5541894f34d341240cb02,chore(curriculum): update selector references (#60908),2025-06-18T20:39:17Z,1,14,abhilashini,freeCodeCamp,freeCodeCamp
-4dd4f2ef20126b40f9c749de61677defebd68561,fix(curriculum): return empty string in Reusable Profile Card Compone…,2025-06-18T19:51:17Z,1,11,Supravisor,freeCodeCamp,freeCodeCamp
-6c6d22017b683ededc4dede57c851a49c5ab5a7c,feat: add daily challenge seed script (#60506),2025-06-18T18:29:49Z,10,461,moT01,freeCodeCamp,freeCodeCamp
-60ed8dd4d37b92ff4f3b3fede2a475e6108bab73,"chore(i18n,learn): update i18n-curriculum submodule (#60924)",2025-06-18T17:10:10Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-92e9ae9e7815be142d59e9d81eb7455c5a296aba,test(external curricula): run test on all chapters and modules (#60913),2025-06-18T15:40:27Z,1,44,huyenltnguyen,freeCodeCamp,freeCodeCamp
-e2b9a5e606bb9419fa16cbdb540da3735c908fd0,"chore(i18n,client): processed translations (#60894)",2025-06-18T14:09:34Z,20,2704,camperbot,freeCodeCamp,freeCodeCamp
-c2f6efc22a8414c68181f693aad25ae368b12a16,fix(client): handle Syntax and Indentation errors from python (#60910),2025-06-18T13:42:14Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-fbed638f0e6dd0fd15e7cf4198b84f5e5745305e,"feat(client,curriculum): add quicksort lab (#60298)",2025-06-18T11:12:20Z,5,152,Dario-DC,freeCodeCamp,freeCodeCamp
-6a94d1b8ff9b7ba3ef407ba578019b0750d4830b,fix(curriculum): update step 12 and 13 in fcc authors page workshop (…,2025-06-18T09:07:40Z,2,6,vishnudt2004,freeCodeCamp,freeCodeCamp
-06ab8cd32ef81aa09ade79e7b4acb46efa22c462,chore(curriculum): test input and label are linked (#60909),2025-06-18T07:58:43Z,1,13,a2937,freeCodeCamp,freeCodeCamp
-c43429a9b184c4e9e20f4bcd00df7df45a9c9747,fix(curriculum): update steps 15-16 in fruit search app workshop (#60…,2025-06-18T04:34:44Z,2,12,vishnudt2004,freeCodeCamp,freeCodeCamp
