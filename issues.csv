@@ -1,13 +1,19 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87JQzEc,62018,Daily challenge solutions are saved as `undefined.txt`,OPEN,2025-09-02T15:57:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Mb4kg,62256,Potential errors in reusable card component workshop,OPEN,2025-09-18T11:10:24Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87MxZhs,62278,JavaScript Fundamentals Quiz - Question 20: Readability Issue,OPEN,2025-09-19T18:45:18Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87My0QY,62280,Build a sorting Visualizer : Step 5 is very c onfusing and needs rewording,OPEN,2025-09-19T20:59:20Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LkPaN,62213,template literals topic doesn't show more complex examples with js expressions,OPEN,2025-09-14T16:49:16Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LyeRh,62229,Update `create-new-language-block` to support chapter-based structure,CLOSED,2025-09-15T18:15:16Z,2025-09-19T20:36:50Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X861cTFs,60200,Width for code examples in lectures are not the same,OPEN,2025-05-06T21:46:42Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87MRarR,62246,Horizontal bar looks like a footer on smaller devices,OPEN,2025-09-17T17:06:58Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KOf55,62080,"Sorting visualizer, test missing button click",CLOSED,2025-09-08T06:26:38Z,2025-09-19T10:09:34Z,happypepii,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85RXI65,47464,Add Per-Module Progress Reset,OPEN,2022-09-07T18:12:38Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Mb4kg,62256,Potential errors in reusable card component workshop,OPEN,2025-09-18T11:10:24Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87JQzEc,62018,Daily challenge solutions are saved as `undefined.txt`,OPEN,2025-09-02T15:57:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LtuIe,62222,HTML Sematic issues with Customer Complaint Form Lab,OPEN,2025-09-15T12:29:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87D2JVd,61648,Feature request: Listen to the audio button for A2 “Review of the entire dialogue” task,CLOSED,2025-08-02T08:44:13Z,2025-09-18T10:45:30Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87MbVpW,62254,[Speaking Modal] Set the initial focus on the Play button,OPEN,2025-09-18T10:30:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LTFMU,62183,new tests for golf translator?,OPEN,2025-09-12T14:41:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X858JZdo,53201,Step 55 of OOP game should update instructions to mention where destructing should happen,CLOSED,2024-01-16T00:28:04Z,2024-01-18T02:48:59Z,a2937;jdwilkin4,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87MRarR,62246,Horizontal bar looks like a footer on smaller devices,OPEN,2025-09-17T17:06:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LifoI,62210,Build a Theme Switcher: broken test,CLOSED,2025-09-14T09:30:33Z,2025-09-17T19:27:29Z,janni1288,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87MIvHB,62239,BIOS should appear in backticks,CLOSED,2025-09-17T06:17:22Z,2025-09-17T19:23:50Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87MRi-r,62247,"Standardize use of ""Front End"" VS ""Frontend"" in /learn and cert names",OPEN,2025-09-17T17:18:33Z,,,freeCodeCamp,freeCodeCamp
@@ -15,20 +21,16 @@ I_kwDOAbI7X87LeOVK,62200,Accessibility issue in “Design a Registration Form”
 I_kwDOAbI7X87KLNyp,62075,Looping problem — Learn Introductory JavaScript by Building a Pyramid Generator (step 33),CLOSED,2025-09-07T19:38:50Z,2025-09-16T20:47:41Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86y2DdZ,59776,"Feature Request: ""Start Where You Left Off"" for Lessons",OPEN,2025-04-16T19:09:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87IhcaO,61979,in local build edited steps loose order,CLOSED,2025-08-28T18:00:36Z,2025-09-16T18:09:41Z,niyati34,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87KOf55,62080,"Sorting visualizer, test missing button click",OPEN,2025-09-08T06:26:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LPkVo,62176,indentation error does not generate hint in python challenges,CLOSED,2025-09-12T10:10:10Z,2025-09-16T14:36:43Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_Lf3g,61235,Expanding FSD selections,OPEN,2025-07-07T03:57:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86p_CtY,58778,Add more prominent messaging about Donation support on the Donate Page,CLOSED,2025-02-13T19:04:45Z,2025-09-16T10:22:16Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86rBZDN,58932,Update logging in routes,OPEN,2025-02-21T14:59:14Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LLmac,62170,Issue with creating new steps and adding the correct challengeType value,CLOSED,2025-09-12T04:37:54Z,2025-09-16T07:50:26Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85fQ8lG,49492,Show warning to users when they try to source the wrong files,OPEN,2023-02-24T09:45:10Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87LkPaN,62213,template literals topic doesn't show more complex examples with js expressions,OPEN,2025-09-14T16:49:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KZO0N,62094,A problem with some of the tests in the TriviaBot lab,OPEN,2025-09-08T20:25:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864sJtn,60577,greeting bot teaches declaration then assignment,CLOSED,2025-05-28T21:16:32Z,2025-09-16T06:41:50Z,Supravisor;ilenia-magoni,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KTuLS,62087,Migrate client tests to vitest,CLOSED,2025-09-08T13:10:52Z,2025-09-16T06:30:08Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KixYN,62097,change drop down step 13 build a music instrument filter,CLOSED,2025-09-09T12:02:25Z,2025-09-15T20:03:52Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87LyeRh,62229,Update `create-new-language-block` to support chapter-based structure,OPEN,2025-09-15T18:15:16Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87LjWQe,62211,Navbar covers content when printing articles - FCC News,OPEN,2025-09-14T13:25:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C_xnY,61553,scroll bar appearing on page,OPEN,2025-07-28T23:06:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LX7Ye,62192,Issues with the `pnpm create-new-project` command,OPEN,2025-09-12T22:03:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Jr0UH,62045,feature request for challenge editor,CLOSED,2025-09-04T13:07:23Z,2025-09-15T14:30:14Z,a2937,freeCodeCamp,freeCodeCamp
@@ -476,13 +478,3 @@ I_kwDOAbI7X868gXvt,60943,Replace `==` with `===` in `execute-challenge-saga.js`,
 I_kwDOAbI7X8606bFr,60119,"""Build a lunch"" lab: failure message for getRandomLunch()",CLOSED,2025-05-02T05:29:10Z,2025-06-20T11:10:29Z,Ajay-2005;ilenia-magoni,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X867wFxE,60895,Create new language icons for Spanish and Chinese,OPEN,2025-06-16T13:05:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868bhTe,60938,Add note for JavaScript and A11y module,CLOSED,2025-06-19T21:04:48Z,2025-06-20T08:35:39Z,jdwilkin4,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868aams,60937,Build a Fruit Search App Step 15,CLOSED,2025-06-19T18:07:56Z,2025-06-19T18:37:07Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86lM1S6,57972,Inconsistency in the `completedDate` value returned,OPEN,2025-01-06T23:18:09Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86mUYIE,58161,Sentence Analyzer Small Confusions,OPEN,2025-01-15T16:56:41Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86lCvuZ,57921,Curriculum: Support teaching campers how to edit JSON files,CLOSED,2025-01-04T18:44:13Z,2025-06-19T15:32:34Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86k_3Fv,57918,Disable preview for labs that don't need them,CLOSED,2025-01-03T21:35:28Z,2025-06-19T15:20:11Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86kHZ22,57648,Creating a new Information Security Project - Web Vulnerability Scanner,CLOSED,2024-12-20T19:56:26Z,2025-06-19T15:04:28Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86kF6fU,57640,[bug] donation modal mostly empty,CLOSED,2024-12-20T15:59:04Z,2025-06-19T15:02:08Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86jPhOB,57518,Form validation and completion modal,CLOSED,2024-12-13T16:25:41Z,2025-06-19T14:58:53Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86htFzB,57391,Clean up challenge types,OPEN,2024-12-02T18:42:06Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X867OmZO,60847,The quiz for async/defer attributes includes a question with content not discussed in video/transcript,CLOSED,2025-06-12T18:00:26Z,2025-06-19T11:05:12Z,vishnudt2004,freeCodeCamp,freeCodeCamp
