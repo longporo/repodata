@@ -1,4 +1,5 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+3b756676c49c91ada07f5a7b363e54cdd3a29ee7,fix(curriculum): format code blocks in quiz answers (#62282),2025-09-20T17:53:34Z,1,8,JatinMehta007,freeCodeCamp,freeCodeCamp
 4af015a08ffe3aae6474eaa6ba1be6b8a36c14f6,fix(curriculum): typo in daily challenge (#62235),2025-09-20T00:15:20Z,2,6,moT01,freeCodeCamp,freeCodeCamp
 ee8e7504937a4cf2b2e27ce2fb830c7ff29b58ae,fix(tools): typo in error message (#62208),2025-09-20T00:13:39Z,2,4,nithya-kala,freeCodeCamp,freeCodeCamp
 9f410666e6b4200c2d69016387a4f3370d369723,fix(challenge-helper-scripts): make `create-language-block` support c…,2025-09-19T20:36:49Z,1,220,huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -582,10 +583,3 @@ db92673f0cc3d5d6b6efbbdcf3184acd86420058,chore(curriculum): remove unused .green
 9f5a98578b2d2bd3260dd51a7072f26b540cf90b,fix(curriculum): correct 'such us' to 'such as' (#60987),2025-06-22T19:16:47Z,1,2,TanishValesha,freeCodeCamp,freeCodeCamp
 4c93c696dd70cc4f33935a0751523e0b661aa74a,fix(curriculum): correct font-size answer in cascade of CSS lesson (#…,2025-06-21T22:33:04Z,1,4,Shobhit150,freeCodeCamp,freeCodeCamp
 d99a2bbf98c7cd637d95f3b168870585f817b7f3,feat(curriculum): adding Debug a Pet Adoption Page lab (#60917),2025-06-21T07:31:59Z,16,217,jdwilkin4,freeCodeCamp,freeCodeCamp
-c983a1e576bcdb8055a759df2fd03e2b0a048862,fix: corrected swapped content lines in CSS layout quiz (#60958),2025-06-21T01:11:21Z,1,4,cipherzyvishu,freeCodeCamp,freeCodeCamp
-d46dd8a13f10e6a8ed06ca0fecc847d8468ced10,chore(curriculum): use specific assert methods in workshop tests step…,2025-06-20T17:34:42Z,3,30,manthansubhash01,freeCodeCamp,freeCodeCamp
-88e685ddca3a273650e92c3b24a5a76e11c1512a,fix(curriculum): allow for new lines in element text in Design a Movi…,2025-06-20T17:20:21Z,1,6,asabahebwa,freeCodeCamp,freeCodeCamp
-7091c5b0edeac4dfcd081cf495c5ffc4fc7c57ac,fix(UI): update to strictly equals (#60950),2025-06-20T16:10:34Z,1,2,DevDolphin7,freeCodeCamp,freeCodeCamp
-aa78ee52ae1d2d4ebfce7ec2c0570b76889c43cd,feat(curriculum): update lunch picker test to prevent mutation (#60145),2025-06-20T11:10:28Z,1,42,Ajay-2005,freeCodeCamp,freeCodeCamp
-3099a8844cedf9a5c953f10ac9c8e6fe24cca3ef,chore(curriculum): break up and reorganize HTML media lectures (#60930),2025-06-20T10:34:31Z,12,102,jdwilkin4,freeCodeCamp,freeCodeCamp
-3e64e45bc561837604218bb08a40ec6914247af3,fix(curriculum): missing note in JS A11y (#60940),2025-06-20T08:35:38Z,1,6,jdwilkin4,freeCodeCamp,freeCodeCamp
