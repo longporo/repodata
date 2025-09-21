@@ -1,6 +1,7 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87MxZhs,62278,JavaScript Fundamentals Quiz - Question 20: Readability Issue,OPEN,2025-09-19T18:45:18Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87MxZhs,62278,JavaScript Fundamentals Quiz - Question 20: Readability Issue,CLOSED,2025-09-19T18:45:18Z,2025-09-20T17:53:35Z,JatinMehta007;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87My0QY,62280,Build a sorting Visualizer : Step 5 is very c onfusing and needs rewording,OPEN,2025-09-19T20:59:20Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86Qu5UB,55646,Pyramid Proj (JS Beta) - Step 43 Semi-colon check too sensitive,CLOSED,2024-07-24T18:22:32Z,2024-11-13T19:35:10Z,hbar1st,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LkPaN,62213,template literals topic doesn't show more complex examples with js expressions,OPEN,2025-09-14T16:49:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LyeRh,62229,Update `create-new-language-block` to support chapter-based structure,CLOSED,2025-09-15T18:15:16Z,2025-09-19T20:36:50Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861cTFs,60200,Width for code examples in lectures are not the same,OPEN,2025-05-06T21:46:42Z,,,freeCodeCamp,freeCodeCamp
@@ -471,10 +472,3 @@ I_kwDOAbI7X868meBM,60956,Remove unused CSS,CLOSED,2025-06-20T19:26:11Z,2025-06-2
 I_kwDOAbI7X868tq5m,60980,"Typo: ""such us"" should be ""such as""",CLOSED,2025-06-22T16:30:16Z,2025-06-22T19:16:48Z,TanishValesha,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8679I9d,60907,"""The Cascade of CSS"" lesson: CSS selector question gives incorrect answer based on code",CLOSED,2025-06-17T12:42:43Z,2025-06-21T22:33:05Z,Shobhit150,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868q0-s,60971,.,CLOSED,2025-06-21T19:15:02Z,2025-06-21T19:16:22Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868k63c,60954,CSS layout and effects quiz error,CLOSED,2025-06-20T16:08:13Z,2025-06-21T01:11:22Z,garv,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868K2F2,60922,test 'should expand the block of the most recently viewed challenge' is failing,CLOSED,2025-06-18T13:46:00Z,2025-06-20T20:57:04Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868gpOB,60944,chore: update steps 2-3-4 in magazine workshop to use specific asserts,CLOSED,2025-06-20T09:59:46Z,2025-06-20T17:34:43Z,manthansubhash01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868gXvt,60943,Replace `==` with `===` in `execute-challenge-saga.js`,CLOSED,2025-06-20T09:40:33Z,2025-06-20T16:10:36Z,DevDolphin7,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8606bFr,60119,"""Build a lunch"" lab: failure message for getRandomLunch()",CLOSED,2025-05-02T05:29:10Z,2025-06-20T11:10:29Z,Ajay-2005;ilenia-magoni,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X867wFxE,60895,Create new language icons for Spanish and Chinese,OPEN,2025-06-16T13:05:35Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868bhTe,60938,Add note for JavaScript and A11y module,CLOSED,2025-06-19T21:04:48Z,2025-06-20T08:35:39Z,jdwilkin4,freeCodeCamp,freeCodeCamp
