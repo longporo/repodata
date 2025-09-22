@@ -1,4 +1,6 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+ccfcca1f4670cf57965c36692c661d7b0057d509,fix(curriculum): typo in workshop description (#62295),2025-09-21T21:06:14Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+66e8c98867e91b9b5585620aa7268bc023b89f39,fix(curriculum):  typo in workshop media catalogue (#62283),2025-09-21T15:10:27Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
 3b756676c49c91ada07f5a7b363e54cdd3a29ee7,fix(curriculum): format code blocks in quiz answers (#62282),2025-09-20T17:53:34Z,1,8,JatinMehta007,freeCodeCamp,freeCodeCamp
 4af015a08ffe3aae6474eaa6ba1be6b8a36c14f6,fix(curriculum): typo in daily challenge (#62235),2025-09-20T00:15:20Z,2,6,moT01,freeCodeCamp,freeCodeCamp
 ee8e7504937a4cf2b2e27ce2fb830c7ff29b58ae,fix(tools): typo in error message (#62208),2025-09-20T00:13:39Z,2,4,nithya-kala,freeCodeCamp,freeCodeCamp
@@ -581,5 +583,3 @@ d5a930803c2f312eaa9c6b5f9f66a82078d8a2cc,chore(curriculum): update steps 5–7 i
 700aa1182d50105841963f5834f69a2e7d9ff810,fix(curriculum): add backticks to double not notation in quiz-basic-h…,2025-06-23T06:27:51Z,1,2,adarshdotdev,freeCodeCamp,freeCodeCamp
 db92673f0cc3d5d6b6efbbdcf3184acd86420058,chore(curriculum): remove unused .green class from global.css (#60982),2025-06-23T04:28:33Z,1,4,nishisurti2608,freeCodeCamp,freeCodeCamp
 9f5a98578b2d2bd3260dd51a7072f26b540cf90b,fix(curriculum): correct 'such us' to 'such as' (#60987),2025-06-22T19:16:47Z,1,2,TanishValesha,freeCodeCamp,freeCodeCamp
-4c93c696dd70cc4f33935a0751523e0b661aa74a,fix(curriculum): correct font-size answer in cascade of CSS lesson (#…,2025-06-21T22:33:04Z,1,4,Shobhit150,freeCodeCamp,freeCodeCamp
-d99a2bbf98c7cd637d95f3b168870585f817b7f3,feat(curriculum): adding Debug a Pet Adoption Page lab (#60917),2025-06-21T07:31:59Z,16,217,jdwilkin4,freeCodeCamp,freeCodeCamp
