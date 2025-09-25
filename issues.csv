@@ -1,7 +1,20 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87NcA7Z,62335,Allow code blocks in test text,OPEN,2025-09-23T21:10:59Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87NtA4X,62352,Typo in How Does the Print Function Work? lecture,OPEN,2025-09-24T22:00:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Ns2u6,62351,"Make the ""Build a Magazine"" workshop HTML more semantic",OPEN,2025-09-24T21:42:43Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87My0QY,62280,Build a sorting Visualizer : Step 5 is very c onfusing and needs rewording,OPEN,2025-09-19T20:59:20Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LeJDl,62199,Spread operator (...) behaves incorrectly on array empty slots,OPEN,2025-09-13T15:17:30Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87NrQ1W,62348,Build football cards app,OPEN,2025-09-24T19:29:57Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Nq2mH,62346,HTML - Accessibility Module - Step 21 - Missing link for students to add a subtitle file / Broken link to subtitles file on video inside the example project,OPEN,2025-09-24T18:58:04Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LkPaN,62213,template literals topic doesn't show more complex examples with js expressions,OPEN,2025-09-14T16:49:16Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87NjU8Y,62340,tempearate literals not passing step 47 build a calorie counter,CLOSED,2025-09-24T09:43:05Z,2025-09-24T15:13:41Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Njqzl,62341,step 48 build a calorie counter project not liking the label for in the temperate literal codel,CLOSED,2025-09-24T10:06:01Z,2025-09-24T15:10:05Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Nj33E,62342,add label text step 49 build a calorie counter,CLOSED,2025-09-24T10:18:26Z,2025-09-24T15:06:31Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87NkC1l,62343,add label step 50 build a calorie counter,CLOSED,2025-09-24T10:28:32Z,2025-09-24T14:59:37Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Ne0C_,62338,fcc editor not checking on multiple browsers,OPEN,2025-09-24T03:11:19Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87NegfV,62337,step 12 calorie counter project does not pass fcc editor,CLOSED,2025-09-24T02:28:11Z,2025-09-24T08:06:43Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Nc9aI,62336,Add Lua Courses,OPEN,2025-09-23T23:12:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Mb4kg,62256,Potential errors in reusable card component workshop,OPEN,2025-09-18T11:10:24Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87NcA7Z,62335,Allow code blocks in test text,OPEN,2025-09-23T21:10:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86kobjV,57818,Consider saving the code for labs,OPEN,2024-12-29T01:19:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Na9mI,62334,Currency Converter Lab passing with wrong answer,OPEN,2025-09-23T19:17:45Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86hhhdL,57378,Remove `partiallyCompletedChallenges` and `savedChallenges` from /get-public-profile,CLOSED,2024-12-01T21:39:19Z,2025-09-23T15:58:23Z,Sonudhukia143,freeCodeCamp,freeCodeCamp
@@ -25,7 +38,6 @@ I_kwDOAbI7X87LtuIe,62222,HTML Sematic issues with Customer Complaint Form Lab,CL
 I_kwDOAbI7X87M8iID,62290,decimal to binary workshop step 18,CLOSED,2025-09-21T17:08:18Z,2025-09-22T14:44:13Z,ppl-call-me-tima,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87NCIiD,62303,Typo in Build a Voting System Lab,CLOSED,2025-09-22T09:04:20Z,2025-09-22T14:42:36Z,shokuyansh,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87M61v4,62285,"Daily Coding Challenge September 21 ""video storage"" bad instructions or test",CLOSED,2025-09-21T08:00:08Z,2025-09-22T13:57:48Z,moT01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87My0QY,62280,Build a sorting Visualizer : Step 5 is very c onfusing and needs rewording,OPEN,2025-09-19T20:59:20Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87BJKzR,61390,HTML multi-case tag name support?,CLOSED,2025-07-17T17:44:59Z,2025-09-22T11:16:42Z,errantpianist,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87M8zte,62293,Small typo fix in JavaScript Fundamentals Review,CLOSED,2025-09-21T18:34:07Z,2025-09-22T11:08:34Z,VivekKavala;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86yiMm8,59725,Full stack HTML Accessibility Lab: Build a checkout page - exercise not in line with good ARIA practice,CLOSED,2025-04-15T06:34:38Z,2025-09-22T09:54:45Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -35,7 +47,6 @@ I_kwDOAbI7X87M8jc8,62291,Incorrect Test Case in Video Storage Calculation Challe
 I_kwDOAbI7X87M7WWQ,62286,Contradiction in video storage challenge,CLOSED,2025-09-21T10:08:16Z,2025-09-21T15:08:48Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87MxZhs,62278,JavaScript Fundamentals Quiz - Question 20: Readability Issue,CLOSED,2025-09-19T18:45:18Z,2025-09-20T17:53:35Z,JatinMehta007;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86Qu5UB,55646,Pyramid Proj (JS Beta) - Step 43 Semi-colon check too sensitive,CLOSED,2024-07-24T18:22:32Z,2024-11-13T19:35:10Z,hbar1st,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87LkPaN,62213,template literals topic doesn't show more complex examples with js expressions,OPEN,2025-09-14T16:49:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LyeRh,62229,Update `create-new-language-block` to support chapter-based structure,CLOSED,2025-09-15T18:15:16Z,2025-09-19T20:36:50Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861cTFs,60200,Width for code examples in lectures are not the same,OPEN,2025-05-06T21:46:42Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87MRarR,62246,Horizontal bar looks like a footer on smaller devices,OPEN,2025-09-17T17:06:58Z,,,freeCodeCamp,freeCodeCamp
@@ -69,7 +80,6 @@ I_kwDOAbI7X87LpaVO,62218,Very slow,CLOSED,2025-09-15T07:14:38Z,2025-09-15T12:08:
 I_kwDOAbI7X87LWASv,62187,`create-project` doesn't support chapter-based super blocks beyond FSD,OPEN,2025-09-12T18:28:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87K-hor,62151,misleading newsletter signup button,OPEN,2025-09-11T08:19:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86uKM5F,59288,hope to add a copy function in the step bar,CLOSED,2025-03-15T08:43:51Z,2025-09-15T07:18:59Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87LeJDl,62199,Spread operator (...) behaves incorrectly on array empty slots,OPEN,2025-09-13T15:17:30Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LdYRl,62197,Theme Switcher menu-item role should be menuitem,CLOSED,2025-09-13T13:24:33Z,2025-09-14T07:18:05Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Lf9tx,62206,Typo in symmetric difference function,CLOSED,2025-09-13T21:17:53Z,2025-09-14T07:15:57Z,DivyaAggarwal08,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X851UZ9u,52174,Create a Minimal freeCodeCamp Discourse theme,OPEN,2023-10-30T12:50:25Z,,,freeCodeCamp,freeCodeCamp
@@ -475,8 +485,3 @@ I_kwDOAbI7X869DMhM,61036,[HTML Accessibility Quiz] Change wording of set 2 - que
 I_kwDOAbI7X869C_gX,61035,"Transcript incomplete for React Fundamentals video: ""What are components in React ...""",CLOSED,2025-06-24T11:47:12Z,2025-06-25T09:26:16Z,Hassan Waqar;hassanwaqa,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868ueHO,60993,Curriculum Redirects not working?,CLOSED,2025-06-22T21:45:31Z,2025-06-25T08:43:13Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X868hG4c,60946,moved lectures need redirects,CLOSED,2025-06-20T10:33:57Z,2025-06-25T06:27:59Z,a2937,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868kEZU,60949,Suggestion for new or replaced test for Gradebook App,CLOSED,2025-06-20T14:42:53Z,2025-06-24T19:45:39Z,aboo212031,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X869DqFO,61038,missing backticks in workshop-reusable-mega-navbar step 7,CLOSED,2025-06-24T12:40:18Z,2025-06-24T18:36:41Z,Hassan Waqar,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868t9Vi,60991,"Grammar fix: ""a underline"" → ""an underline"" and remove ""then""",CLOSED,2025-06-22T18:27:44Z,2025-06-24T14:49:06Z,sskiragu,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868uFrJ,60992,"What Is Memoization, and How Does the useMemo Hook Work?",CLOSED,2025-06-22T19:17:41Z,2025-06-24T07:34:18Z,aboo212031,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X860p-l5,60083,Build a City Skyline Checks are Funky,OPEN,2025-04-30T10:49:05Z,,,freeCodeCamp,freeCodeCamp
