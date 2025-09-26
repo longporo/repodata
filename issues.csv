@@ -1,10 +1,19 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87NcA7Z,62335,Allow code blocks in test text,OPEN,2025-09-23T21:10:59Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87NtA4X,62352,Typo in How Does the Print Function Work? lecture,OPEN,2025-09-24T22:00:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87N7H5F,62368,[bug] `GET /exam-environment/exam-challenge` with no query params returns collection,OPEN,2025-09-25T19:26:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87KK1U6,62074,Italian and portuguese tests for PRs are continually failing,CLOSED,2025-09-07T17:33:25Z,2025-09-25T18:41:56Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87MRarR,62246,Horizontal bar looks like a footer on smaller devices,OPEN,2025-09-17T17:06:58Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Nc9aI,62336,Add Lua Courses,OPEN,2025-09-23T23:12:51Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X85lQQfk,50311,Book Recommendation Engine - Problem with tests,CLOSED,2023-05-06T20:05:22Z,2025-09-25T17:30:03Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87N4dBX,62366,testing enhancement for workshops,OPEN,2025-09-25T15:26:00Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87M89lD,62294,Rock Paper Scissors game Step 4,CLOSED,2025-09-21T19:22:36Z,2025-09-25T13:58:35Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87M6uox,62284,Learn advanced array methods by building a statistics calculator - code change on step 39,CLOSED,2025-09-21T07:36:46Z,2025-09-25T13:56:58Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87N2a4g,62365,review missing content,OPEN,2025-09-25T13:16:28Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87NrQ1W,62348,Build football cards app,CLOSED,2025-09-24T19:29:57Z,2025-09-25T10:18:39Z,ppl-call-me-tima,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87My0QY,62280,Build a sorting Visualizer : Step 5 is very c onfusing and needs rewording,CLOSED,2025-09-19T20:59:20Z,2025-09-25T09:55:58Z,Ahm3rIjaz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87NtA4X,62352,Typo in How Does the Print Function Work? lecture,CLOSED,2025-09-24T22:00:39Z,2025-09-25T08:33:40Z,ismaeeelxd,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Ns2u6,62351,"Make the ""Build a Magazine"" workshop HTML more semantic",OPEN,2025-09-24T21:42:43Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87My0QY,62280,Build a sorting Visualizer : Step 5 is very c onfusing and needs rewording,OPEN,2025-09-19T20:59:20Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87NcA7Z,62335,Allow code blocks in test text,OPEN,2025-09-23T21:10:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LeJDl,62199,Spread operator (...) behaves incorrectly on array empty slots,OPEN,2025-09-13T15:17:30Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87NrQ1W,62348,Build football cards app,OPEN,2025-09-24T19:29:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Nq2mH,62346,HTML - Accessibility Module - Step 21 - Missing link for students to add a subtitle file / Broken link to subtitles file on video inside the example project,OPEN,2025-09-24T18:58:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LkPaN,62213,template literals topic doesn't show more complex examples with js expressions,OPEN,2025-09-14T16:49:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87NjU8Y,62340,tempearate literals not passing step 47 build a calorie counter,CLOSED,2025-09-24T09:43:05Z,2025-09-24T15:13:41Z,,freeCodeCamp,freeCodeCamp
@@ -13,7 +22,6 @@ I_kwDOAbI7X87Nj33E,62342,add label text step 49 build a calorie counter,CLOSED,2
 I_kwDOAbI7X87NkC1l,62343,add label step 50 build a calorie counter,CLOSED,2025-09-24T10:28:32Z,2025-09-24T14:59:37Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Ne0C_,62338,fcc editor not checking on multiple browsers,OPEN,2025-09-24T03:11:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87NegfV,62337,step 12 calorie counter project does not pass fcc editor,CLOSED,2025-09-24T02:28:11Z,2025-09-24T08:06:43Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Nc9aI,62336,Add Lua Courses,OPEN,2025-09-23T23:12:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Mb4kg,62256,Potential errors in reusable card component workshop,OPEN,2025-09-18T11:10:24Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86kobjV,57818,Consider saving the code for labs,OPEN,2024-12-29T01:19:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Na9mI,62334,Currency Converter Lab passing with wrong answer,OPEN,2025-09-23T19:17:45Z,,,freeCodeCamp,freeCodeCamp
@@ -41,15 +49,12 @@ I_kwDOAbI7X87M61v4,62285,"Daily Coding Challenge September 21 ""video storage"" 
 I_kwDOAbI7X87BJKzR,61390,HTML multi-case tag name support?,CLOSED,2025-07-17T17:44:59Z,2025-09-22T11:16:42Z,errantpianist,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87M8zte,62293,Small typo fix in JavaScript Fundamentals Review,CLOSED,2025-09-21T18:34:07Z,2025-09-22T11:08:34Z,VivekKavala;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86yiMm8,59725,Full stack HTML Accessibility Lab: Build a checkout page - exercise not in line with good ARIA practice,CLOSED,2025-04-15T06:34:38Z,2025-09-22T09:54:45Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87M6uox,62284,Learn advanced array methods by building a statistics calculator - code change on step 39,OPEN,2025-09-21T07:36:46Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87M89lD,62294,Rock Paper Scissors game Step 4,OPEN,2025-09-21T19:22:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87M8jc8,62291,Incorrect Test Case in Video Storage Calculation Challenge daily-coding-challenge/2025-09-21,CLOSED,2025-09-21T17:15:07Z,2025-09-21T19:54:03Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87M7WWQ,62286,Contradiction in video storage challenge,CLOSED,2025-09-21T10:08:16Z,2025-09-21T15:08:48Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87MxZhs,62278,JavaScript Fundamentals Quiz - Question 20: Readability Issue,CLOSED,2025-09-19T18:45:18Z,2025-09-20T17:53:35Z,JatinMehta007;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86Qu5UB,55646,Pyramid Proj (JS Beta) - Step 43 Semi-colon check too sensitive,CLOSED,2024-07-24T18:22:32Z,2024-11-13T19:35:10Z,hbar1st,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LyeRh,62229,Update `create-new-language-block` to support chapter-based structure,CLOSED,2025-09-15T18:15:16Z,2025-09-19T20:36:50Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861cTFs,60200,Width for code examples in lectures are not the same,OPEN,2025-05-06T21:46:42Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87MRarR,62246,Horizontal bar looks like a footer on smaller devices,OPEN,2025-09-17T17:06:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KOf55,62080,"Sorting visualizer, test missing button click",CLOSED,2025-09-08T06:26:38Z,2025-09-19T10:09:34Z,happypepii,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85RXI65,47464,Add Per-Module Progress Reset,OPEN,2022-09-07T18:12:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JQzEc,62018,Daily challenge solutions are saved as `undefined.txt`,OPEN,2025-09-02T15:57:39Z,,,freeCodeCamp,freeCodeCamp
@@ -114,7 +119,6 @@ I_kwDOAbI7X87GRAPh,61838,Missing image in React lecture,CLOSED,2025-08-15T20:55:
 I_kwDOAbI7X87KMyuz,62079,"Permutation Generator, unclear purpose for prefixValue or how you're supposed to use it",OPEN,2025-09-08T02:28:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GXcnD,61847,Is the code in the example wrong? -- Working with Backgrounds and Borders - What Are Some Accessibility Considerations for Backgrounds?,OPEN,2025-08-17T06:56:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GKkIH,61824,Build a sentence maker allows for building strings without using the variables,OPEN,2025-08-15T08:13:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87KK1U6,62074,Italian and portuguese tests for PRs are continually failing,OPEN,2025-09-07T17:33:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Hqyt3,61931,Remove backticks from Python,CLOSED,2025-08-24T20:35:11Z,2025-09-07T07:37:35Z,tejb96,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86z5tF4,59969,Build an availability table issue,OPEN,2025-04-24T19:23:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87IZLyn,61971,[bug] cors + 403 when submitting challenges,CLOSED,2025-08-28T06:46:45Z,2025-09-02T14:20:49Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
@@ -475,13 +479,3 @@ I_kwDOAbI7X863Z0qU,60452,Feature Request: GitHub Integration for Auto-Saving Exe
 I_kwDOAbI7X865rAUQ,60692,Update questions for set 2 of semantic HTML quiz,CLOSED,2025-06-03T18:44:07Z,2025-06-26T13:10:33Z,StephenMuya;gikf;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869RyBT,61059,Add note and example for script element in step 5 of storytelling workshop,CLOSED,2025-06-25T12:57:27Z,2025-06-26T12:43:04Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864wrks,60589,Make editor easier to use,OPEN,2025-05-29T09:41:32Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863S51a,60446,[Curriculum] - Checking if zero Length is not the same as empty,CLOSED,2025-05-19T22:55:26Z,2025-06-25T20:47:27Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X869Vo01,61071,HTML Build a Travel Agency,CLOSED,2025-06-25T18:23:40Z,2025-06-25T18:33:21Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866yHzb,60816,Notification banner text hard to read/notice,CLOSED,2025-06-10T13:54:05Z,2025-06-25T17:36:25Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865nvNK,60687,Learn How to share progress in weekly stand up meetings,CLOSED,2025-06-03T14:21:58Z,2025-06-25T12:09:56Z,nieldakarla,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X869QMHF,61054,Contradiction in CSS Responsive Design in Full Stack Curriculum,CLOSED,2025-06-25T10:37:02Z,2025-06-25T10:51:39Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86QMbpW,55570,Distinguish challenge tests expected to pass with seed code,CLOSED,2024-07-19T15:11:21Z,2025-06-25T10:42:30Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X869DMhM,61036,[HTML Accessibility Quiz] Change wording of set 2 - question 17,CLOSED,2025-06-24T12:02:55Z,2025-06-25T10:04:27Z,raviKant0917,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X869C_gX,61035,"Transcript incomplete for React Fundamentals video: ""What are components in React ...""",CLOSED,2025-06-24T11:47:12Z,2025-06-25T09:26:16Z,Hassan Waqar;hassanwaqa,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868ueHO,60993,Curriculum Redirects not working?,CLOSED,2025-06-22T21:45:31Z,2025-06-25T08:43:13Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868hG4c,60946,moved lectures need redirects,CLOSED,2025-06-20T10:33:57Z,2025-06-25T06:27:59Z,a2937,freeCodeCamp,freeCodeCamp
