@@ -1,4 +1,16 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+1f8acc6df57d5e4a0d48e28c619dd4e3d0ad58cd,feat (curriculum): add oop and encapsulation lectures (#62121),2025-09-25T20:00:31Z,7,1547,Ksound22,freeCodeCamp,freeCodeCamp
+35d05d2c0560c1f19ec98e0e189dbb13533b156b,feat(client): add exam attempts to exam-download page (#61361),2025-09-25T19:27:31Z,12,478,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+6c3bc14f52ebd7e0a895dba42915785c4a8b85bb,feat(curriculum): add Build an All-True Property Validator lab (#62198),2025-09-25T14:29:14Z,5,212,ilenia-magoni,freeCodeCamp,freeCodeCamp
+57c515e230bcaa4a0ac5e438eb64ea00bff50e20,chore(curriculum): update rps-game instructions and hasPlayerWonTheRo…,2025-09-25T13:58:34Z,11,94,Giftea,freeCodeCamp,freeCodeCamp
+1a59985a51d60da19b22a225c0927ab8518273c5,fix(curriculum): Maintain getMode function consistency in steps 39 - …,2025-09-25T13:56:56Z,21,110,Giftea,freeCodeCamp,freeCodeCamp
+8a404bface758263f9f2a73160c7b5e1b47d8210,feat(curriculum): add musical instrument workshop (#61750),2025-09-25T13:45:46Z,17,777,zairahira,freeCodeCamp,freeCodeCamp
+6263791d2d558e74b33108bba0b0e2d337b5b102,fix(curriculum): update organises to organizes (#62359),2025-09-25T12:40:28Z,1,2,Giftea,freeCodeCamp,freeCodeCamp
+89bebfa39123de67a9c0dd5f39f7075b655b2155,fix(curriculum): add description for HTML snippet in Football Team Ca…,2025-09-25T10:18:38Z,1,2,ppl-call-me-tima,freeCodeCamp,freeCodeCamp
+bc58d9c40225cd706309bd00c5ff2dc7784d789a,fix(curriculum): rephrase the fillArrContainer description (#62356),2025-09-25T09:55:57Z,1,4,Ahm3rIjaz,freeCodeCamp,freeCodeCamp
+0bd86c02783523213b65237dbfd43a06f0f24596,fix(curriculum): correct formatting in Python print function lecture …,2025-09-25T08:33:39Z,1,6,ismaeeelxd,freeCodeCamp,freeCodeCamp
+c29dc53f1ac8145c10b2492d73afd97b406f5624,feat(curriculum): add odd Fibonacci sum calc challenge lab (#62271),2025-09-25T07:48:52Z,5,120,larymak,freeCodeCamp,freeCodeCamp
+945be2126f2b6e89297bd107f61b4fa7f2f3104a,"chore(i18n,client): processed translations (#62345)",2025-09-25T06:02:27Z,10,672,camperbot,freeCodeCamp,freeCodeCamp
 2366e1ab6ba929c441640dde07045f2a266cc56e,docs: Add Linux Foundation Health Score badge (#62339),2025-09-24T11:51:02Z,1,1,jonathimer,freeCodeCamp,freeCodeCamp
 51eba06a7dc9c07f5cf5df40bab6f520787db164,refactor: remove jest and lint vitest (#62330),2025-09-24T07:27:03Z,25,2066,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 d96d528e8c43066593b45ddeed22dd0ff84829ef,refactor: clearer errors for curriculum tests (#62331),2025-09-23T18:10:28Z,1,14,ojeytonwilliams,freeCodeCamp,freeCodeCamp
@@ -591,17 +603,3 @@ efec05898ea445a90579efefb0e7eb3d73aeb604,feat(curriculum): add review tasks to b
 6de6414059a463484eb6f048e3e1339a343d3de9,feat(curriculum): add review tasks to block 18 of the A2 curriculum (…,2025-06-26T14:22:51Z,3,495,anastasiiauk,freeCodeCamp,freeCodeCamp
 bd98eaf365ee1838e112e69b5bda20f0da52a3a6,"fix(curriculum): change question, answer and distractor in quiz semat…",2025-06-26T13:10:32Z,1,14,StephenMuya,freeCodeCamp,freeCodeCamp
 9e6a097da95e238c15e34a6f2f62d67b9ec7d2de,fix(curriculum): Add note and example for script element in step 5 of…,2025-06-26T12:43:01Z,1,6,Giftea,freeCodeCamp,freeCodeCamp
-9b666dc60fd81cb10fe874ac7158534e28745470,"chore(i18n,learn): update i18n-curriculum submodule (#61062)",2025-06-25T17:31:02Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-5ae2e3eca701192b1e528f02f894d77ddbd079eb,"chore(deps,api): update date-fns and add date-fns-tz (#61048)",2025-06-25T16:49:04Z,4,60,moT01,freeCodeCamp,freeCodeCamp
-98326d266f495fb1d4fc5f836bebcb35d9571da7,feat(curriculum): add review tasks to block 12 of the A2 curriculum (…,2025-06-25T15:51:47Z,75,878,anastasiiauk,freeCodeCamp,freeCodeCamp
-6848da8320fe4b57cd08e99a9233e6c81a0141d8,Merge commit from fork,2025-06-25T14:13:44Z,2,92,raisedadead,freeCodeCamp,freeCodeCamp
-acd5508831ea9a9ac15d0b2e181cc4d12b5a5702,"chore(i18n,client): processed translations (#61057)",2025-06-25T13:53:19Z,20,130,camperbot,freeCodeCamp,freeCodeCamp
-6c71f96b3fbec27c5cc0ff23faea48aa8a47d900,Feat(curriculum): Replace summary tasks by review tasks to Blocks 17 …,2025-06-25T12:09:54Z,3,565,nieldakarla,freeCodeCamp,freeCodeCamp
-551aa5ac01f4a88ca400b0e0f814b7a0e5e64bde,feat(curriculum): add review tasks to block 11 of the A2 curriculum (…,2025-06-25T12:09:37Z,91,950,anastasiiauk,freeCodeCamp,freeCodeCamp
-0e3c840d13fe260fda42aa4da68904b7ceae8494,feat(curriculum): add review tasks to block 10 of the A2 curriculum (…,2025-06-25T12:09:21Z,108,1078,anastasiiauk,freeCodeCamp,freeCodeCamp
-021a6b4ff52c46328c4dead4ae964c1e1cfec948,fix(client): update pokemon url redirect (#61018),2025-06-25T10:52:01Z,1,2,a2937,freeCodeCamp,freeCodeCamp
-d62e1f92117bc7fa29221d7d1e67c32141d789d3,fix(curriculum): update wording in HTML Accessibility quiz (#61046),2025-06-25T10:04:26Z,1,10,raviKant0917,freeCodeCamp,freeCodeCamp
-0acad8c464a40cb5f46fefb36d91e76c1c5f7b82,fix(curriculum): add missing transcript for React components video (#…,2025-06-25T09:26:15Z,1,1,hassanwaqa,freeCodeCamp,freeCodeCamp
-87c274a9ef170218b88e9b6a1ddd030f9c64de2d,feat(api): allow HOME_LOCATION origin in development (#61003),2025-06-25T06:30:24Z,5,31,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-a81293c52088b942a38541ca030984be748eaec2,fix(client): add html media lecture redirections (#61022),2025-06-25T06:27:57Z,1,36,a2937,freeCodeCamp,freeCodeCamp
-dd6117d4e657e7963e734cb84d2ba58a607622f3,chore(deps): upgrade @freecodecamp/ui to v4.2.0 (#60919),2025-06-25T03:57:02Z,5,197,huyenltnguyen,freeCodeCamp,freeCodeCamp
