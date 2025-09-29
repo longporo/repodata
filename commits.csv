@@ -1,4 +1,6 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+ef717e4e313ad9796bbe741467aadff793ec2129,docs: prefer codespaces,2025-09-28T06:53:52Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
+457123d96643bd312c75d386311a4b9efbcbcf2d,fix(tools): improve devcontainer experience (#62395),2025-09-28T05:18:11Z,1,21,raisedadead,freeCodeCamp,freeCodeCamp
 51d65b79417abcdaa4cd0941658cf8b5e9f32d6b,fix(curriculum): typo in workshop emoji reactor Step 14 (#62390),2025-09-27T14:25:30Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
 95b4056e207cda3fb462bf5f91775249a807d205,test(challenge-parser): improve validate-sections test (#62385),2025-09-27T13:22:21Z,2,117,huyenltnguyen,freeCodeCamp,freeCodeCamp
 fb3be5c01858d9ff16d0bd1bc7165cff283e5b88,fix(curriculum): 2 typos in the dom click events and web api lecture …,2025-09-27T04:58:48Z,2,4,swdev33,freeCodeCamp,freeCodeCamp
@@ -589,5 +591,3 @@ f81857068b2b42e16ec83e814984ce69d844d162,"chore(i18n,client): processed translat
 ee6b4ab943f5016efb12f9647daca9622886ee77,fix(learn): show answer for quiz questions in Full stack curriculum (…,2025-06-30T04:43:44Z,1,1,Arjit31,freeCodeCamp,freeCodeCamp
 c19a22a695321523d72d8821fc7e60baa93bd893,chore(curriculum): update specific asserts in magazine workshop steps…,2025-06-30T04:07:38Z,3,20,bizcodz,freeCodeCamp,freeCodeCamp
 5c61f3e3e053048030753cc34a022d6202d7f208,"fix(curriculum): update workshop-magazine steps 13,18 to use specific…",2025-06-29T05:08:35Z,2,28,satya-2810,freeCodeCamp,freeCodeCamp
-4865efb3fa3a70044cb4967a91713e59ddde1382,chore(curriculum): replace find_case_body helper (#61107),2025-06-28T18:41:15Z,7,26,Dario-DC,freeCodeCamp,freeCodeCamp
-b2ea6bdea357cd02be19f77bd129f7f0e116e81c,chore:  update asserts in step 19 tests (#61118),2025-06-28T17:14:03Z,1,26,tekluabayneh,freeCodeCamp,freeCodeCamp
