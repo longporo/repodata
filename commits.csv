@@ -1,4 +1,14 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+8cca7db4a3e841b5bbae60ee5f061230b267ac5b,feat(Curriculum):add Certification Introduction- 4 articles (#62424),2025-09-30T20:04:50Z,6,263,RafaelDavisH,freeCodeCamp,freeCodeCamp
+23ec4003a9479addd9d15634351ed8f8da6f89ae,fix(curriculum): change 'lecture' to 'theory' and 'lesson' (#62414),2025-09-30T17:59:12Z,469,2636,moT01,freeCodeCamp,freeCodeCamp
+58802c81129a11a7735e2262068de4161f75f5a6,refactor: remove before after user code (#59204),2025-09-30T16:41:16Z,7,240,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+8eab57a5488561aac7989816aea055605ca283cd,feat(curriculum): add graphs and trees review page (#62355),2025-09-30T13:24:31Z,1,127,larymak,freeCodeCamp,freeCodeCamp
+7347511393b86ed6c6463efec967f4faabc8374f,refactor(curriculum): replace $.ajax with fetch (#61425),2025-09-30T13:05:05Z,69,3750,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+dbe38ede57924ea61e47c8ea3315558829a9f913,fix(curriculum): typo and missing word (#62416),2025-09-30T12:15:56Z,2,6,Supravisor,freeCodeCamp,freeCodeCamp
+086454dc7b64841b76ac34ab5c4af11e8425c8f9,feat(curriculum): add linked list workshop (#61424),2025-09-30T09:22:01Z,28,1615,ihechikara,freeCodeCamp,freeCodeCamp
+b60dc22ea20cdba0bbefcdcea169485536e904e1,feat(curriculum): add iframe video workshop (#62053),2025-09-30T08:41:45Z,12,504,Ksound22,freeCodeCamp,freeCodeCamp
+d7505e9833faa134768b72071cd35c326e444683,chore(client): remove daily challenge env variables (#62105),2025-09-30T06:47:38Z,7,38,moT01,freeCodeCamp,freeCodeCamp
+6e01904ce6a99fa46ba460f76c59ef9282b85c33,feat(curriculum): daily challenges 63-79 (#62367),2025-09-30T03:24:17Z,39,3034,moT01,freeCodeCamp,freeCodeCamp
 f55140c8959a159b05cfd3332c90b1c228dd41a1,fix: updates to A2 english curriculum block 2 (#61667),2025-09-29T20:13:31Z,113,992,anastasiiauk,freeCodeCamp,freeCodeCamp
 2633178598f998d0a0838a08d5ef06dcfbe424d1,chore(curriculum): removing welcome block from FSD cert (#62412),2025-09-29T17:35:00Z,8,597,jdwilkin4,freeCodeCamp,freeCodeCamp
 d690ff13ab27147dc70149d89aea588f07d0a6f4,"chore(i18n,client): processed translations (#62410)",2025-09-29T14:10:09Z,20,540,camperbot,freeCodeCamp,freeCodeCamp
@@ -590,11 +600,3 @@ d82e1b98a55072f6807a53d7ff21939e5627ea2b,feat(curriculum): add otp generator (#5
 3877fd6d8f81189ec1db8644023a69ebd1f7e7f3,chore(curriculum): reorganize semantic html lectures (#61112),2025-07-01T16:29:39Z,19,167,jdwilkin4,freeCodeCamp,freeCodeCamp
 50482f5ccd97fe69d1d56e5359de7b6796daff46,fix(curriculum): typo in daily challenge (#61174),2025-07-01T15:34:32Z,1,2,moT01,freeCodeCamp,freeCodeCamp
 9418eadfe962250f29a2cfadaf3b4d1dffee356a,chore(curriculum): update magazine workshop steps 22–23 to use specif…,2025-07-01T12:07:49Z,2,58,aliyasyeddd,freeCodeCamp,freeCodeCamp
-b5f2115a7910feed24325471b6097387c5c7ded2,feat(curriculum): add binary search workshop (#60727),2025-06-30T16:39:28Z,19,947,Ksound22,freeCodeCamp,freeCodeCamp
-883286c242cb4c88fd86f816f8bb85c93ffe26c5,"chore(i18n,learn): update i18n-curriculum submodule (#61157)",2025-06-30T16:19:06Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-1b8945f993a33818c6c5e3d5bde7596b839e8d80,fix(curriculum): update lab page of playing cards test. (#61144),2025-06-30T15:46:59Z,1,8,StephenMuya,freeCodeCamp,freeCodeCamp
-1b4af50a75df6640fbbef8f1696a3863225cccb7,fix(curriculum): add .trim() to innerText assertions (#61109),2025-06-30T15:45:55Z,7,18,alexgoldsmith,freeCodeCamp,freeCodeCamp
-f81857068b2b42e16ec83e814984ce69d844d162,"chore(i18n,client): processed translations (#61151)",2025-06-30T14:11:30Z,20,796,camperbot,freeCodeCamp,freeCodeCamp
-502ca94e5a723b019e8ba52ec9fa04697f0e2730,fix(curriculum): updated assert method for steps 8-9 of workshop-maga…,2025-06-30T06:54:24Z,2,22,anish-eng,freeCodeCamp,freeCodeCamp
-ee6b4ab943f5016efb12f9647daca9622886ee77,fix(learn): show answer for quiz questions in Full stack curriculum (…,2025-06-30T04:43:44Z,1,1,Arjit31,freeCodeCamp,freeCodeCamp
-c19a22a695321523d72d8821fc7e60baa93bd893,chore(curriculum): update specific asserts in magazine workshop steps…,2025-06-30T04:07:38Z,3,20,bizcodz,freeCodeCamp,freeCodeCamp
