@@ -1,10 +1,20 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87OoZdR,62415,beginner-friendly crypto tutorial,CLOSED,2025-09-29T21:35:06Z,2025-09-29T22:16:19Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87OgFM_,62408,workshop preview modal is empty until content get loaded,OPEN,2025-09-29T11:27:06Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87O5C9i,62431,Learn how to describe places and events,OPEN,2025-09-30T21:01:27Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87O21dy,62427,Phone Number Formatter (2025-09-30): Incorrect length in the instructions,OPEN,2025-09-30T17:54:17Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87O3EOP,62428,Sum of Squares (2025-08-19): Cannot pass the tests,CLOSED,2025-09-30T18:11:10Z,2025-09-30T18:52:53Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87O3kuj,62430,docs: replace hyphen with em dash in README for clarity,OPEN,2025-09-30T18:50:59Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87O3WPY,62429,Alternative solution for Lab Moon Orbit,OPEN,2025-09-30T18:33:51Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87O1RnS,62425,firefox incompatibility with challenge tests,OPEN,2025-09-30T15:41:24Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87OxwZg,62419,Move Computer Basics to HTML instead of CSS,CLOSED,2025-09-30T12:23:29Z,2025-09-30T16:16:30Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87OdvN_,62406,[exam environment] certifications and completed challenges,OPEN,2025-09-29T08:51:26Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X867heXg,60874,backend test runner does not set origin on fetch,OPEN,2025-06-14T12:41:21Z,,ShaunSHamilton;ojeytonwilliams,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87K_RsU,62152,Updating Our Payment Provider Integration,OPEN,2025-09-11T09:10:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Oi2qu,62411,Missing data when using `pnpm run create-new-project`,OPEN,2025-09-29T14:17:48Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87OgFM_,62408,workshop preview modal is empty until content get loaded,OPEN,2025-09-29T11:27:06Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LeOVK,62200,Accessibility issue in “Design a Registration Form” – Step 27 nests a link inside a label,OPEN,2025-09-13T15:31:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87OoZdR,62415,beginner-friendly crypto tutorial,CLOSED,2025-09-29T21:35:06Z,2025-09-29T22:16:19Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Na9mI,62334,Currency Converter Lab passing with wrong answer,OPEN,2025-09-23T19:17:45Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87OggVb,62409,Preview of example code in lectures,CLOSED,2025-09-29T11:52:31Z,2025-09-29T13:49:02Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87OdvN_,62406,[exam environment] certifications and completed challenges,OPEN,2025-09-29T08:51:26Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87N7H5F,62368,[bug] `GET /exam-environment/exam-challenge` with no query params returns collection,CLOSED,2025-09-25T19:26:35Z,2025-09-29T13:26:30Z,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87OTFq1,62402,Copy-to-clipboard button to code blocks in lessons and articles,OPEN,2025-09-28T05:34:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Ns2u6,62351,"Make the ""Build a Magazine"" workshop HTML more semantic",OPEN,2025-09-24T21:42:43Z,,,freeCodeCamp,freeCodeCamp
@@ -14,7 +24,6 @@ I_kwDOAbI7X864sFrV,60576,first challenge of backend and api microservices does n
 I_kwDOAbI7X851UZ9u,52174,Create a Minimal freeCodeCamp Discourse theme,OPEN,2023-10-30T12:50:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87MRi-r,62247,"Standardize use of ""Front End"" VS ""Frontend"" in /learn and cert names",OPEN,2025-09-17T17:18:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87N2a4g,62365,CSS Attribute Selectors Review missing content,OPEN,2025-09-25T13:16:28Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87LeOVK,62200,Accessibility issue in “Design a Registration Form” – Step 27 nests a link inside a label,OPEN,2025-09-13T15:31:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87OMzDm,62387,Inconsistent lab title: ‘Build a Prime Number Sum Calculator’ vs ‘Build a Sum All Primes Calculator’,OPEN,2025-09-27T00:34:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87OAIwf,62375,DNA Pair Generator,OPEN,2025-09-26T07:31:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86AOJ1V,53836,JavaScript Algorithms and Data Structures (Beta) - Certification Projects - Directing campers away from incorrect solution,CLOSED,2024-02-23T14:21:25Z,2025-09-27T06:59:58Z,,freeCodeCamp,freeCodeCamp
@@ -24,7 +33,6 @@ I_kwDOAbI7X87OKAK_,62384,Accessibility for Text to Speech Tools,OPEN,2025-09-26T
 I_kwDOAbI7X87OFWmS,62380,`isNotEmpty` has the wrong arguments,CLOSED,2025-09-26T12:52:29Z,2025-09-26T19:10:03Z,Thunderer44,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87OHKUW,62381,Fix inaccurate callback explanation,OPEN,2025-09-26T14:51:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85TPTNN,47830,Potential accessibility fixes RWD: Learn Accessibility by Building a Quiz,OPEN,2022-10-04T16:04:20Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87K_RsU,62152,Updating Our Payment Provider Integration,OPEN,2025-09-11T09:10:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87OADHN,62373,"No Issue whatsoever, actually this is a compliment and a thank you",CLOSED,2025-09-26T07:24:21Z,2025-09-26T13:12:03Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865pl-V,60690,new lines cause failures in tests checking element content,OPEN,2025-06-03T16:37:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87E_-XX,61751,Update array methods lecture to talk about the distinction between primitive values and object/array values,CLOSED,2025-08-08T20:10:39Z,2025-09-26T11:26:01Z,ilenia-magoni;ran-cho,freeCodeCamp,freeCodeCamp
@@ -190,7 +198,6 @@ I_kwDOAbI7X852Ye7Q,52304,English Curriculum Tasks,CLOSED,2023-11-09T17:52:05Z,20
 I_kwDOAbI7X866HVFV,60731,Tic-tac-toe lab - not checked diagonal win conditions,CLOSED,2025-06-05T20:00:07Z,2025-08-25T09:20:43Z,tanmaygautam11,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87HTvnl,61910,Empty instrcutions for Labs and Projects,CLOSED,2025-08-22T02:08:47Z,2025-08-24T23:59:56Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86qG_r-,58807,Navbar style breaks in high contrast mode due to transparency/white background,OPEN,2025-02-14T15:09:34Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X867heXg,60874,backend test runner does not set origin on fetch,OPEN,2025-06-14T12:41:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87HJpGX,61901,Inaccurate test case in Golf Score Lab (with minor edits),CLOSED,2025-08-21T10:25:15Z,2025-08-24T17:07:51Z,whiteSHADOW1234,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87HpzQZ,61928,No lesson on HTML entities in javascript curriculum,CLOSED,2025-08-24T15:22:22Z,2025-08-24T17:04:10Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87CrusO,61484,Clarify that the replace() method returns a new string,CLOSED,2025-07-26T23:00:15Z,2025-08-23T18:19:21Z,NiloySaha84;ilenia-magoni,freeCodeCamp,freeCodeCamp
@@ -477,7 +484,3 @@ I_kwDOAbI7X86xFZSB,59590,No Higher Order Callback function walkthroughs,CLOSED,2
 I_kwDOAbI7X86-BytU,61149,chore: update steps 20-21 in workshop-magazine to use specific assert methods,CLOSED,2025-06-30T11:30:19Z,2025-07-02T00:33:12Z,Aaron-Lopez-Dev,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86HQbQu,54572,Change share on Twitter to share on X,OPEN,2024-04-29T14:40:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-B2v5,61150,chore: update steps 22-23 of magazine workshop to use specific assert methods,CLOSED,2025-06-30T11:36:09Z,2025-07-01T12:07:51Z,aliyasyeddd,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X869qnhE,61104,Additional Assertion Requirements in Playing Cards Lab,CLOSED,2025-06-27T09:18:19Z,2025-06-30T15:47:01Z,StephenMuya,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X869pknn,61100,chore: update steps 8-9 of workshop-magazine to use specific asserts,CLOSED,2025-06-27T07:53:27Z,2025-06-30T06:54:26Z,anish-eng,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86nlYfo,58394,Answer of quiz in Full stack curriculum,CLOSED,2025-01-26T14:34:45Z,2025-06-30T04:43:45Z,Arjit31,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X869pqkT,61101,chore: update tests in workshop-magazine 10-11-12 to use specific asserts,CLOSED,2025-06-27T08:00:32Z,2025-06-30T04:07:39Z,bizcodz,freeCodeCamp,freeCodeCamp
