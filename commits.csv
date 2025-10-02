@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+1214dbed666c617f0c1d602e80c3bb3eec258024,"fix(curriculum): typos, missing words, phrases, and punctuation (#62417)",2025-10-01T22:33:49Z,7,18,Supravisor,freeCodeCamp,freeCodeCamp
+ad76294c4246bffd4025cf216a8f83d09f977334,fix(curriculum): replace 'Ex.' with 'e.g.' in Cat Photo App step 42 (…,2025-10-01T20:37:32Z,1,4,SachinSingh008,freeCodeCamp,freeCodeCamp
+e1902188409388c7997937f5a6ff33a9862ca614,fix(api): adjust daily-challenge time from UTC (#62444),2025-10-01T19:17:27Z,2,68,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+e5ee7c61097e1212e56464b32dc2a8d2bf93201d,"chore(i18n,client): processed translations (#62443)",2025-10-01T14:59:27Z,20,2850,camperbot,freeCodeCamp,freeCodeCamp
+ba31773fcd60cc8e052fc1e13df8182464a2ebe4,chore(deps): update curriculum-helpers to v6 (#61399),2025-10-01T12:05:16Z,6,61,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+97d5d89d03e35575fe1ca9e4dc0450099638ef58,feat(Curriculum): Add Block Structure in Spanish Greetings and Introd…,2025-10-01T10:32:41Z,39,1354,nieldakarla,freeCodeCamp,freeCodeCamp
+67fc60785a65034bba0e7905f699e645bb80eaad,fix(curriculum): update digit length in Phone Number Formatter (2025-…,2025-10-01T08:41:00Z,2,4,JeevaRamanathan,freeCodeCamp,freeCodeCamp
 8cca7db4a3e841b5bbae60ee5f061230b267ac5b,feat(Curriculum):add Certification Introduction- 4 articles (#62424),2025-09-30T20:04:50Z,6,263,RafaelDavisH,freeCodeCamp,freeCodeCamp
 23ec4003a9479addd9d15634351ed8f8da6f89ae,fix(curriculum): change 'lecture' to 'theory' and 'lesson' (#62414),2025-09-30T17:59:12Z,469,2636,moT01,freeCodeCamp,freeCodeCamp
 58802c81129a11a7735e2262068de4161f75f5a6,refactor: remove before after user code (#59204),2025-09-30T16:41:16Z,7,240,ojeytonwilliams,freeCodeCamp,freeCodeCamp
@@ -595,8 +602,3 @@ f6107116e8ae610d68c975fc2f6eded410857b77,chore(curriculum): audit bash scripting
 4f0cd7aee33fbb8cf3463ac6e605730b267cb47a,refactor(curriculum): update higher order function workshop to break …,2025-07-02T15:08:57Z,17,1827,jdwilkin4,freeCodeCamp,freeCodeCamp
 e2ec2c14b4f702fd0a97908eb54831742a762209,"chore(i18n,client): processed translations (#61187)",2025-07-02T13:07:40Z,10,430,camperbot,freeCodeCamp,freeCodeCamp
 e3e8fadd3bccd68cddc0385936ad90885bb8b420,refactor(tools): remove screenshot-service (#61172),2025-07-02T09:00:09Z,10,1537,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-331f70da45cc56f6f3c8ee878de0c9f3f8c33b69,chore: update steps 20-21 in workshop-magazine to use specific assert…,2025-07-02T00:33:11Z,2,24,Aaron-Lopez-Dev,freeCodeCamp,freeCodeCamp
-d82e1b98a55072f6807a53d7ff21939e5627ea2b,feat(curriculum): add otp generator (#59121),2025-07-01T16:36:52Z,5,450,zairahira,freeCodeCamp,freeCodeCamp
-3877fd6d8f81189ec1db8644023a69ebd1f7e7f3,chore(curriculum): reorganize semantic html lectures (#61112),2025-07-01T16:29:39Z,19,167,jdwilkin4,freeCodeCamp,freeCodeCamp
-50482f5ccd97fe69d1d56e5359de7b6796daff46,fix(curriculum): typo in daily challenge (#61174),2025-07-01T15:34:32Z,1,2,moT01,freeCodeCamp,freeCodeCamp
-9418eadfe962250f29a2cfadaf3b4d1dffee356a,chore(curriculum): update magazine workshop steps 22–23 to use specif…,2025-07-01T12:07:49Z,2,58,aliyasyeddd,freeCodeCamp,freeCodeCamp
