@@ -1,4 +1,18 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+ef610dd36c1ce2ef429d0e9d513ccb0a957212e4,fix(tools): s/MailHog/Mailpit/g (#62481),2025-10-03T20:25:33Z,10,55,raisedadead,freeCodeCamp,freeCodeCamp
+034d6b1569f9175f8733eb6b9320e40f174041e2,feat(curriculum): JS checkpoint cert (#62188),2025-10-03T17:50:59Z,15,1515,huyenltnguyen,freeCodeCamp,freeCodeCamp
+1a6fdad624d15ef96021e6996f9dd76d36667852,feat(curriculum): add Build an HTML Audio and Video Player lab (#62460),2025-10-03T16:21:52Z,5,245,ilenia-magoni,freeCodeCamp,freeCodeCamp
+1a3dbe46d885b9e2bbe10b9a0269ddd1dfa48a44,feat(curriculum): add lab feature selection to full stack (#62289),2025-10-03T16:16:45Z,5,373,ilenia-magoni,freeCodeCamp,freeCodeCamp
+0a9e3a8360ab2f51fd0abaa4ea164ceff2121b69,fix: add seeding script to root,2025-10-03T16:05:27Z,1,1,raisedadead,freeCodeCamp,freeCodeCamp
+7ff864149c0447179a083f58c73130ba80e056b5,fix(client): update CTA for daily challenges,2025-10-03T16:05:27Z,5,23,raisedadead,freeCodeCamp,freeCodeCamp
+d7f1da61e4b34ca35371d26b4cf4d4b26446795c,fix(curriculum): correct capitalization inconsistency in MCQ section …,2025-10-03T15:47:16Z,1,8,sajid19,freeCodeCamp,freeCodeCamp
+179d92b1903e167a92ec3b49128811ca8c6b8515,chore(api): remove vitest import from mock (#62478),2025-10-03T14:12:25Z,1,3,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+eac87fb5ac750ab04a6644f66ea93f63ea1c279f,feat(curriculum): add dynamic programming lab (#62462),2025-10-03T13:47:17Z,5,223,zairahira,freeCodeCamp,freeCodeCamp
+972e6449347b5fe0c13615757cbd2cafcff26d0c,fix(curriculum): remove trailing periods from answer options  (#62473),2025-10-03T11:16:08Z,1,8,Hritik-sharmaa,freeCodeCamp,freeCodeCamp
+5516d22c4db8d06536a0f4c581c042670ece6f57,fix(scripts): add hasEditableBoundaries property for workshop metadat…,2025-10-03T10:36:10Z,1,3,ilenia-magoni,freeCodeCamp,freeCodeCamp
+06ef7746c80145eaff991692c1e088e82c19b24d,fix(curriculum): block title typo in es a1 review introducing yoursel…,2025-10-03T08:31:23Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
+3a5a409f8ed17649631484f9f81751fe6c9a5470,feat(curriculum): add salary tracker workshop (#62253),2025-10-03T07:50:08Z,39,2818,Dario-DC,freeCodeCamp,freeCodeCamp
+80026e26c41b6cdc19b095765a8e5f171b7a1560,fix(a11y): replace Alert with Callout for non-critical messages (#62466),2025-10-03T04:22:12Z,12,94,huyenltnguyen,freeCodeCamp,freeCodeCamp
 0b71e8779dba264064d9a696eba9dfb61924f593,feat(client): archive page (#62450),2025-10-02T19:30:33Z,13,331,moT01,freeCodeCamp,freeCodeCamp
 8704883aeb44ebc461fe31891ecbe08b0bd29c3d,refactor: improve description of DNA Pair Generator (#62393),2025-10-02T16:14:19Z,1,11,ilenia-magoni,freeCodeCamp,freeCodeCamp
 517b9f05760ae4bf55062d9c9eb5a46bb202fb98,fix(client): handle builds without all challenges (#61040),2025-10-02T14:44:27Z,5,117,ojeytonwilliams,freeCodeCamp,freeCodeCamp
@@ -597,6 +611,3 @@ caf6f27ed2e01150da833c3e4149650611268970,feat(curriculum): add English Curriculu
 573224fe044fa2ed43d58f67fbf7ed26901fca9f,fix(curriculum):strengthen draw condition check test in tic-tac-toela…,2025-07-04T13:16:01Z,1,110,Ajay-2005,freeCodeCamp,freeCodeCamp
 637fb3765c496aafe673267b645ce7ced1e5567b,chore(deps): update curriculum helpers to v5.0.0 (#61196),2025-07-04T10:12:07Z,2,170,Dario-DC,freeCodeCamp,freeCodeCamp
 ad152a87d53547b881128a79259e818c342cb95d,fix(ui): correct h1 size on review pages (#61073),2025-07-04T03:37:22Z,1,2,sskiragu,freeCodeCamp,freeCodeCamp
-3bb8f315fd9bfc75e0d3130485fa9d6b7a663577,feat(curriculum): Add English tasks B1 Block 22 (#61032),2025-07-03T21:07:29Z,163,15892,miyaliu666,freeCodeCamp,freeCodeCamp
-8945a1a814e742c1496724b5120fac258d478c8f,feat(curriculum): Add English tasks B1 Block 19 (#60375),2025-07-03T14:02:01Z,157,16387,miyaliu666,freeCodeCamp,freeCodeCamp
-7ae0c4cc83c5d29815495cb23b78239e5f60be92,fix(tools): challenge-editor (#60856),2025-07-03T05:45:12Z,2,34,moT01,freeCodeCamp,freeCodeCamp
