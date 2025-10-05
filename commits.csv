@@ -1,4 +1,7 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+1548b7ec2a4592fcea9d4861c1848ecb21310e4a,fix(curriculum): clarify expected input (#62493),2025-10-04T18:33:36Z,1,2,dragon-slayer27,freeCodeCamp,freeCodeCamp
+299e1771feaafeb9f329a27dfcef2541d3263a8a,fix(curriculum): remove duplicate tests in daily coding challenge 202…,2025-10-04T16:40:32Z,2,30,l3onhard,freeCodeCamp,freeCodeCamp
+d230b45f5d947462ea2c5094a878e12b34c572e5,fix(curriculum): Clarify OS as operating system in Python intro lesso…,2025-10-04T16:38:12Z,1,2,alifa-ara-heya,freeCodeCamp,freeCodeCamp
 ef610dd36c1ce2ef429d0e9d513ccb0a957212e4,fix(tools): s/MailHog/Mailpit/g (#62481),2025-10-03T20:25:33Z,10,55,raisedadead,freeCodeCamp,freeCodeCamp
 034d6b1569f9175f8733eb6b9320e40f174041e2,feat(curriculum): JS checkpoint cert (#62188),2025-10-03T17:50:59Z,15,1515,huyenltnguyen,freeCodeCamp,freeCodeCamp
 1a6fdad624d15ef96021e6996f9dd76d36667852,feat(curriculum): add Build an HTML Audio and Video Player lab (#62460),2025-10-03T16:21:52Z,5,245,ilenia-magoni,freeCodeCamp,freeCodeCamp
@@ -607,7 +610,3 @@ d51e4ba7bb14170f5bb5c46a21b6cbac594d6423,chore(curriculum): update asserts steps
 e49341c147c6c430bb3fc3aed169e0a9bbfbd026,feat(curriculum): set isUpcomingChange flags to false to block 21-23 …,2025-07-06T20:36:15Z,3,6,DanielRosa74,freeCodeCamp,freeCodeCamp
 caf6f27ed2e01150da833c3e4149650611268970,feat(curriculum): add English Curriculum Block 20 (#60061),2025-07-06T19:36:39Z,166,16334,anastasiiauk,freeCodeCamp,freeCodeCamp
 89273f065a6fdff19948dcc1c7018d28961d7a8c,feat(curriculum): add English Curriculum Block 23 (#60790),2025-07-06T16:59:17Z,155,14928,anastasiiauk,freeCodeCamp,freeCodeCamp
-91f2e6859c5df192fba6d0eb6f3714669513fff2,fix(curriculum): correct 'ecommerce' to 'e-commerce' for consistency …,2025-07-04T19:46:37Z,1,2,sujanthapa01,freeCodeCamp,freeCodeCamp
-573224fe044fa2ed43d58f67fbf7ed26901fca9f,fix(curriculum):strengthen draw condition check test in tic-tac-toela…,2025-07-04T13:16:01Z,1,110,Ajay-2005,freeCodeCamp,freeCodeCamp
-637fb3765c496aafe673267b645ce7ced1e5567b,chore(deps): update curriculum helpers to v5.0.0 (#61196),2025-07-04T10:12:07Z,2,170,Dario-DC,freeCodeCamp,freeCodeCamp
-ad152a87d53547b881128a79259e818c342cb95d,fix(ui): correct h1 size on review pages (#61073),2025-07-04T03:37:22Z,1,2,sskiragu,freeCodeCamp,freeCodeCamp
