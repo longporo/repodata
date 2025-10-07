@@ -1,4 +1,18 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+f002f1b83599fb39a06baa8935cdc5791d93bf61,fix(curriculum): enforce variable usage in sentence maker lab (#62078),2025-10-06T18:33:52Z,1,18,errantpianist,freeCodeCamp,freeCodeCamp
+0d7de236a65ef70828f12992bd2de1fc3bb36888,fix(curriculum): typo in closed captions (#62549),2025-10-06T18:00:03Z,4,8,Supravisor,freeCodeCamp,freeCodeCamp
+4ce5afffe9c286c053b79c15fb516be1f291caa5,"fix(curriculum): typos, punctuation, missing words (#62537)",2025-10-06T17:59:08Z,20,50,Supravisor,freeCodeCamp,freeCodeCamp
+5b045aa1748e72fdd248949accfdf631247cc8c6,"chore(i18n,client): processed translations (#62551)",2025-10-06T13:41:33Z,20,15506,camperbot,freeCodeCamp,freeCodeCamp
+7dd74aa4e6c98cd6a0a81d337281e27847706266,fix(curriculum): updates to A2 english curriculum block 7 (#62181),2025-10-06T12:07:48Z,102,1195,anastasiiauk,freeCodeCamp,freeCodeCamp
+3176f36bd261ea90bc29e908a57db17807f14a3a,fix(curriculum): add brief explanation of strings (#62495),2025-10-06T11:54:04Z,1,7,l3onhard,freeCodeCamp,freeCodeCamp
+a389bc7364a52a0db5b43c4f5b7e25df1f742394,fix(curriculum): correct example abbreviation (#62534),2025-10-06T11:36:09Z,14,30,yusufasur,freeCodeCamp,freeCodeCamp
+afdbf9913f7f325a175a273c7791ba0f22b5f161,fix(curriculum): replace comma with semicolon in toString method exam…,2025-10-06T10:54:38Z,1,2,satyam536,freeCodeCamp,freeCodeCamp
+e7c939985780198fe48ae8b78750aa70abf2da11,fix(curriculum): remove unnecessary punctuation from MCQ answers (#62…,2025-10-06T10:09:23Z,1,8,a-mamal,freeCodeCamp,freeCodeCamp
+9a399bf67d0b1cdb2c67097432fac28b4ca240e1,fix(curriculum): correct placeholder text example (#62533),2025-10-06T10:07:05Z,25,58,yusufasur,freeCodeCamp,freeCodeCamp
+9abf0c970c725715ae3c34ad4e27a21468c05920,feat(api): reuse exam generations (#62459),2025-10-06T09:37:40Z,2,133,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+8a6ae7a8ba6fccb372e3bf92a30b3fb7b70545b8,fix: update pnpm,2025-10-06T09:00:45Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
+c0fa2ca4249e6bc6da4e9f438ca40b6e85598e13,fix(curriculum): updates to A2 english curriculum block 8 (#62364),2025-10-06T05:57:00Z,113,1348,anastasiiauk,freeCodeCamp,freeCodeCamp
+fe848a071d16fa915656bd2ad356359ccb7565e3,feat(curriculum): add content to python chapter review (#62440),2025-10-06T05:23:02Z,4,2929,ilenia-magoni,freeCodeCamp,freeCodeCamp
 9d5580128d664c26f5c79c5252d483aa9bb10b79,fix(curriculum): correct typo in step-9 of Tailwind Pricing Component…,2025-10-05T09:05:18Z,1,2,mriduldoeswork,freeCodeCamp,freeCodeCamp
 a6cdf5ca92e3958060c79229a4c35a0840f781e5,fix(curriculum): improve instructions of  Library Manager step 5 and …,2025-10-05T08:05:16Z,2,4,pdtrang,freeCodeCamp,freeCodeCamp
 1548b7ec2a4592fcea9d4861c1848ecb21310e4a,fix(curriculum): clarify expected input (#62493),2025-10-04T18:33:36Z,1,2,dragon-slayer27,freeCodeCamp,freeCodeCamp
@@ -609,6 +623,3 @@ d51e4ba7bb14170f5bb5c46a21b6cbac594d6423,chore(curriculum): update asserts steps
 1d70c0de364a4fec9575ec76c604b4db280418aa,feat(curriculum): add Block 24 of the B1 stage of the English Curricu…,2025-07-07T13:07:01Z,155,15903,DanielRosa74,freeCodeCamp,freeCodeCamp
 2a7b220a4f4ddaa485ce2078fd92fb50516e8f2b,feat: support beforeEach and afterEach (#60921),2025-07-07T10:46:09Z,21,714,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 38cd1727e4fcc07522f3314e62ccea542132c380,fix: capitalize CSS in flexbox quiz question for consistency (#61219),2025-07-07T07:45:05Z,1,2,ctheface,freeCodeCamp,freeCodeCamp
-e49341c147c6c430bb3fc3aed169e0a9bbfbd026,feat(curriculum): set isUpcomingChange flags to false to block 21-23 …,2025-07-06T20:36:15Z,3,6,DanielRosa74,freeCodeCamp,freeCodeCamp
-caf6f27ed2e01150da833c3e4149650611268970,feat(curriculum): add English Curriculum Block 20 (#60061),2025-07-06T19:36:39Z,166,16334,anastasiiauk,freeCodeCamp,freeCodeCamp
-89273f065a6fdff19948dcc1c7018d28961d7a8c,feat(curriculum): add English Curriculum Block 23 (#60790),2025-07-06T16:59:17Z,155,14928,anastasiiauk,freeCodeCamp,freeCodeCamp
