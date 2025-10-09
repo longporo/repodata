@@ -1,14 +1,24 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87PiRpG,62487,Clarify what terminal is in intro to python lessons,OPEN,2025-10-03T17:14:59Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87O3WPY,62429,Alternative solution for Lab Moon Orbit,OPEN,2025-09-30T18:33:51Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Qbqyd,62612,spaces and new lines  test-related issues in workshop-accessibility-quiz,OPEN,2025-10-08T21:13:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87PuAdh,62530,JS Boolean and Numbers chapter has a lot of theory and little practice,CLOSED,2025-10-05T16:22:22Z,2025-10-08T23:24:50Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87QWxqz,62599,spaces and new lines cause failures in tests in workshop-final-exams-table,OPEN,2025-10-08T14:14:05Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87QahaE,62606,Wrong step when running tests with `FCC_CHALLENGE_ID`,OPEN,2025-10-08T19:22:19Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87QWwdh,62598,spaces and new lines cause failures in tests in workshop-build-a-video-display-using-iframe,CLOSED,2025-10-08T14:13:01Z,2025-10-08T20:24:45Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Pli_x,62494,[Toggle Text App] Add an empty space to code example of step 13,CLOSED,2025-10-03T22:21:20Z,2025-10-08T17:30:39Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87QXIQn,62600,create-new-projects create duplicates,OPEN,2025-10-08T14:36:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X865pl-V,60690,new lines cause failures in tests checking element content,OPEN,2025-06-03T16:37:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87O84L3,62437,Form Validation - preventDefault,OPEN,2025-10-01T05:17:10Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87P-HxN,62559,Reorganize Settings page with sidebar navigation,OPEN,2025-10-06T21:24:58Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87PimYp,62489,Audit print function lesson and consider simplifying it for beginners,OPEN,2025-10-03T17:39:16Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87O3WPY,62429,Alternative solution for Lab Moon Orbit,CLOSED,2025-09-30T18:33:51Z,2025-10-08T07:37:48Z,Shubh-Srivastava-5911;huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87O7bxF,62434,"Small bug found on ""Build a Password Generator App""",CLOSED,2025-10-01T01:52:32Z,2025-10-08T07:26:50Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87QFbEV,62572,Challenge Editor showing wrong file path,OPEN,2025-10-07T11:24:00Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87PxEVH,62541,Typo in the Declaration of an Object,CLOSED,2025-10-06T05:34:30Z,2025-10-06T10:54:40Z,satyam536,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87PiRpG,62487,Clarify what terminal is in intro to python lessons,OPEN,2025-10-03T17:14:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87QAV9Y,62564,Incorrect formatting of allow attributes in iframe,OPEN,2025-10-07T02:53:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87QCFeT,62567,Typo in Test Description of Test 7 of Build a User Configuration Manager,CLOSED,2025-10-07T06:57:38Z,2025-10-07T17:33:58Z,rpgjarman,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87QCDEO,62566,Typo in Test Description of Test 6 of Build a User Configuration Manager,CLOSED,2025-10-07T06:53:58Z,2025-10-07T16:52:08Z,abiramcodes,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Pq92X,62519,Provide short explanation on ES6 for isNan lesson,OPEN,2025-10-04T21:23:15Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87PimYp,62489,Audit print function lesson and consider simplifying it for beginners,OPEN,2025-10-03T17:39:16Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87P-HxN,62559,Reorganize Settings page with sidebar navigation,OPEN,2025-10-06T21:24:58Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87O7bxF,62434,"Small bug found on ""Build a Password Generator App""",OPEN,2025-10-01T01:52:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863diul,60458,House Painting - Change the way the relative element positions are calculated,CLOSED,2025-05-20T19:05:14Z,2025-10-07T13:43:21Z,Sembauke;Supravisor;ilenia-magoni,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87P_igp,62563,Updated Python course is hard to follow,CLOSED,2025-10-07T00:27:04Z,2025-10-07T11:40:06Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87PoAIv,62503,make `type` attribute check more robust,OPEN,2025-10-04T07:49:38Z,,,freeCodeCamp,freeCodeCamp
@@ -26,16 +36,12 @@ I_kwDOAbI7X85RXI65,47464,Add Per-Module Progress Reset,OPEN,2022-09-07T18:12:38Z
 I_kwDOAbI7X87PiaHG,62488,Provide brief explanation of a string in python variables lesson,CLOSED,2025-10-03T17:24:38Z,2025-10-06T11:54:06Z,l3onhard,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Pt1Ds,62528,example abbreviation,CLOSED,2025-10-05T15:21:30Z,2025-10-06T11:36:11Z,yusufasur,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87OgFM_,62408,workshop preview modal is empty until content get loaded,OPEN,2025-09-29T11:27:06Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87PxEVH,62541,Typo in the Declaration of an Object,CLOSED,2025-10-06T05:34:30Z,2025-10-06T10:54:40Z,satyam536,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Pt6b2,62529,unnecessary punctuation,CLOSED,2025-10-05T15:50:53Z,2025-10-06T10:09:25Z,a-mamal,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Pt0GB,62527,placeholder text example,CLOSED,2025-10-05T15:16:23Z,2025-10-06T10:07:06Z,yusufasur,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87PIe5G,62452,create-new-project extra metadata property with lectures,OPEN,2025-10-01T21:04:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87PAJOi,62441,Create a Deep Flattening tool,OPEN,2025-10-01T10:15:05Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87O84L3,62437,Form Validation - preventDefault,OPEN,2025-10-01T05:17:10Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87PpTAf,62509,"Error: ""Test runner failed to load"" in languages other than English",CLOSED,2025-10-04T13:12:52Z,2025-10-05T16:48:51Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87PuAdh,62530,JS Boolean and Numbers chapter has a lot of theory and little practice,OPEN,2025-10-05T16:22:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87PJSdU,62456,Update on Hacktoberfest 2025,OPEN,2025-10-01T22:12:15Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865pl-V,60690,new lines cause failures in tests checking element content,OPEN,2025-06-03T16:37:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87N2a4g,62365,CSS Attribute Selectors Review missing content,OPEN,2025-09-25T13:16:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87PWz04,62467,Typo in  workshop-tailwind-pricing-component/step-9,CLOSED,2025-10-02T20:41:10Z,2025-10-05T09:05:20Z,mriduldoeswork,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87F51Hx,61810,Build a Library Manager Step 11,CLOSED,2025-08-14T00:25:22Z,2025-10-05T08:05:17Z,pdtrang,freeCodeCamp,freeCodeCamp
@@ -43,7 +49,6 @@ I_kwDOAbI7X87PhDaD,62484,Build a Missing Letter Detector,CLOSED,2025-10-03T15:28
 I_kwDOAbI7X87PqQgF,62515,Typo in `step-9` of Tailwind Pricing Component Workshop – Extra Space in `mt-8` Class Name,CLOSED,2025-10-04T17:00:05Z,2025-10-04T17:26:10Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Pl7QQ,62497,"Challenge Contains Duplicate Test Case: Daily Coding Challenge October 3, 2025",CLOSED,2025-10-03T23:10:52Z,2025-10-04T16:40:33Z,l3onhard,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Ph-v1,62486,Specify what OS means in intro python lesson,CLOSED,2025-10-03T16:54:21Z,2025-10-04T16:38:13Z,alifa-ara-heya,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Pli_x,62494,[Toggle Text App] Add an empty space to code example of step 13,OPEN,2025-10-03T22:21:20Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87PbhEs,62470,inconsistent capitalization,CLOSED,2025-10-03T07:26:11Z,2025-10-03T16:27:55Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87PbyoU,62472,Build a Palindrome Checker Lab does not reset,OPEN,2025-10-03T07:55:27Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87PU2dm,62463,fCC website's dark mode has legibility issues for me,OPEN,2025-10-02T17:35:53Z,,,freeCodeCamp,freeCodeCamp
@@ -503,6 +508,3 @@ I_kwDOAbI7X86_tG_v,61268,Request for Guidance: Looking for First-Time Contributo
 I_kwDOAbI7X86_tFyy,61267,Request for Guidance: Looking for First-Time Contributor Tasks,CLOSED,2025-07-09T15:07:16Z,2025-07-09T15:08:01Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-T-t6,61175,Updating options in challenge helper script for creating new projects,OPEN,2025-07-01T15:20:12Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_g-wI,61254,Colored Boxes Lab tests fail without a semicolon,CLOSED,2025-07-08T16:16:21Z,2025-07-09T08:43:11Z,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86y9vC4,59791,Suggest to add shortcuts (play/pause video) support on the English course,CLOSED,2025-04-17T13:36:06Z,2025-07-08T20:07:33Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86nc5bo,58352,English curriculum - Lack of synchronization between audio and animation,CLOSED,2025-01-24T12:42:29Z,2025-07-08T20:02:57Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86_PMlj,61240,chore: update tests to use specific asserts in magazine workshop stesp 31-37,CLOSED,2025-07-07T10:30:40Z,2025-07-08T08:16:18Z,baibhavmandal,freeCodeCamp,freeCodeCamp
