@@ -1,4 +1,25 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+613f55e3ea28894fbf206f80262594087a2470b6,feat(curriculum): Add interactive examples to replaced elements lesso…,2025-10-09T23:03:57Z,1,33,Giftea,freeCodeCamp,freeCodeCamp
+63ef93a1db211dfd919c43447374b9fb9902d5cb,feat(curriculum): Add interactive examples to svg lesson (#62651),2025-10-09T21:59:25Z,1,33,Giftea,freeCodeCamp,freeCodeCamp
+d960b48c0ef65aab967633766aa28d138eb39e3d,feat(curriculum): Add interactive examples to the HTML audio & video …,2025-10-09T21:58:51Z,1,55,Giftea,freeCodeCamp,freeCodeCamp
+eb59d7e3e268970e505921b9299294e8847c47b3,feat(curriculum): Add interactive example to script element lesson (#…,2025-10-09T21:58:12Z,1,12,Giftea,freeCodeCamp,freeCodeCamp
+d584d64929ee6aa8d3848965536b585a080aac16,feat(curriculum): Add interactive examples to HTML entities lesson (#…,2025-10-09T21:57:38Z,1,44,Giftea,freeCodeCamp,freeCodeCamp
+4660bcd793c67bb1e1a34d12cd430ea8e1c843db,feat(curriculum): Add interactive examples to ids and classes lesson …,2025-10-09T20:55:23Z,1,87,Giftea,freeCodeCamp,freeCodeCamp
+02e4292f90b7f07a8eafabfc9014f521068e3970,feat(curriculum): Add interactive examples to div lesson (#62634),2025-10-09T16:36:19Z,1,41,Giftea,freeCodeCamp,freeCodeCamp
+b4ccd9db62572cf08b998029fd8fba7c56bf5c6b,fix(curriculum): Add interactive examples to what are attributes less…,2025-10-09T16:36:11Z,1,58,Giftea,freeCodeCamp,freeCodeCamp
+f14934c3266bd9191eb474ca04dc0c0f1172f0d3,feat(curriculum): Add interactive examples to intro HTML lesson (#62627),2025-10-09T16:35:55Z,1,58,Giftea,freeCodeCamp,freeCodeCamp
+4afd65e683fa6a88104b56b79be8aef46fc2feae,feat(curriculum): add remaining new superblocks (4 of them) (#62611),2025-10-09T15:54:56Z,30,538,moT01,freeCodeCamp,freeCodeCamp
+2cb3baba7f843f67fd9ad19f355d2ca40abe8ae2,fix(gha): use updated test command in submodule CI (#62633),2025-10-09T15:12:47Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+3f4a399aa05004e1c356e3aeed58a8bf4527a410,fix(curriculum): correct spelling from begining to beginning (#62628),2025-10-09T13:04:22Z,1,2,Giftea,freeCodeCamp,freeCodeCamp
+ee86bccdc7723820ce4036b1d1cb084c47eb132c,fix(curriculum): .trim() to textContent for workshop-accessibility-qu…,2025-10-09T10:54:10Z,12,54,Giftea,freeCodeCamp,freeCodeCamp
+e1e2292b698484d2bc1f8fe67e0cba89625f0f9d,fix(curriculum): filter by challengeId when building blocks (#62622),2025-10-09T10:42:09Z,2,14,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+9c31ffdf8de1fef29933259436dc2bc020fa9649,fix(curriculum): add .trim() to  textContent for workshop-cafe-menu (…,2025-10-09T10:35:59Z,5,10,Giftea,freeCodeCamp,freeCodeCamp
+fa80f066ad81b9707ea5db30318be13d977d3d93,fix(curriculum): add .trim() to textContent for workshop-final-exams-…,2025-10-09T07:16:40Z,5,36,Giftea,freeCodeCamp,freeCodeCamp
+b707f80d63196ba28ac9167c7a82c5498a3fa941,"feat(client, api): bluesky profile link (#62400)",2025-10-09T07:07:12Z,20,169,swdev33,freeCodeCamp,freeCodeCamp
+137b371b34c2cf0bede71930c51794ea4fbefb27,fix(curriculum): remove unnecessary punctuation from Computer Basics …,2025-10-09T06:59:49Z,1,92,a-mamal,freeCodeCamp,freeCodeCamp
+d8f3dc4dec20ed7307aa32f2378cc8c8ad564dfc,fix(curriculum): punctuation and formatting issues in English tasks (…,2025-10-09T06:48:50Z,35,74,huyenltnguyen,freeCodeCamp,freeCodeCamp
+082bff570bfebba2b2180c7f414544f3147bbda6,feat(api): add moderation schema challengesAwarded field (#62490),2025-10-09T04:05:44Z,1,7,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+7c20027732976f31e08319660ac5caa236ea7cd6,feat(client): add challenge interactive editor (#61805),2025-10-09T04:04:03Z,24,862,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 03d9d14d2d759136cbb8158543c97a1b75b74044,fix(curriculum): correct spelling from accordng to according (#62610),2025-10-08T20:33:55Z,1,2,Giftea,freeCodeCamp,freeCodeCamp
 ea3e22f1af27a2a4e33dcb29c6070b03f51ff4c6,fix(curriculum): add .trim() to textContent assertions (#62608),2025-10-08T20:24:44Z,1,2,Giftea,freeCodeCamp,freeCodeCamp
 a9fab953611926c0abb1229e9e134cc4c208c92c,feat(curriculum): RWD checkpoint certification (#62039),2025-10-08T18:24:21Z,15,1321,Nirajn2311,freeCodeCamp,freeCodeCamp
@@ -627,10 +648,3 @@ e258d627414a2c9ddd868a7b2f2f4c5a348aff80,chore: update assert() to specific asse
 6bc8a5aaff1c8bec53ff20672de429b0cc368d09,chore: add Dictionaries and Sets section lecture files (#60679),2025-07-10T13:58:40Z,9,587,ilenia-magoni,freeCodeCamp,freeCodeCamp
 a06719f0636565092c408d56434cc774b01354eb,Fix(Curriculum): A2 Learn Introductions in an Online Team Meeting - T…,2025-07-10T13:28:56Z,1,32,nieldakarla,freeCodeCamp,freeCodeCamp
 0939315645466e4a303a903afd7e282ec4293aeb,fix(curriculum): typo in Tech Trends and Updates (#61145),2025-07-10T10:52:37Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-e1d00c6fc571b6143c5ad58be591d9ffe2c1e5b7,fix(curriculum): reword of -ing explanations in the A2 certification …,2025-07-09T21:46:53Z,3,6,DanielRosa74,freeCodeCamp,freeCodeCamp
-d51e4ba7bb14170f5bb5c46a21b6cbac594d6423,chore(curriculum): update asserts steps 24-25 in the magazine worksho…,2025-07-09T19:11:15Z,2,22,fullstacksam23,freeCodeCamp,freeCodeCamp
-072903b58629c32e0fb6cd657f37de810ce8e70b,feat(curriculum): add dictionaries and sets review page (#60527),2025-07-09T17:43:46Z,2,378,sidemt,freeCodeCamp,freeCodeCamp
-6bdb4e8170a99729b477fff6396329019a905244,feat(curriculum): add tailwind css shopping cart lab (#61096),2025-07-09T13:03:25Z,5,668,jdwilkin4,freeCodeCamp,freeCodeCamp
-2382a2e5c62bfc7cc2020b90f10c533f1a7e9e0d,chore: adding semantic html redirects (#61162),2025-07-09T09:07:23Z,1,40,jdwilkin4,freeCodeCamp,freeCodeCamp
-1a7e169d600c5c61163692d7cae1b39a681f0b2c,fix(curriculum): Make colored boxes lab pass without semicolons (#61257),2025-07-09T08:43:09Z,1,8,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
-20aa972fd601401a33bfad077b64e305ed3d1d22,chore(deps): update curriculum-helpers to 5.3.0 (#61237),2025-07-09T05:48:17Z,2,12,ojeytonwilliams,freeCodeCamp,freeCodeCamp
