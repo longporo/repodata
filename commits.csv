@@ -1,4 +1,30 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+9932f6ea721e70352fd76fd5a5f49d9815fb5ff0,feat(curriculum): add interactive examples to target attribute lesson…,2025-10-10T22:59:16Z,1,10,minjo70,freeCodeCamp,freeCodeCamp
+fbcd965f1554814a1708f6f45fa8d292189f7c8a,feat(curriculum): Add interactive examples to description lists lesso…,2025-10-10T22:07:56Z,1,22,Giftea,freeCodeCamp,freeCodeCamp
+d3b35ed0f6c762bc33d747f42d0abff89301014d,feat(curriculum): Add interactive examples to link states lesson (#62…,2025-10-10T22:07:18Z,1,102,Giftea,freeCodeCamp,freeCodeCamp
+b81d4252a3c5f605ab960669f89aba5d2dda01af,feat(curriculum): Add interactive examples to types of buttons lesson…,2025-10-10T21:11:10Z,1,56,Giftea,freeCodeCamp,freeCodeCamp
+b83c0cd5b5610c92fe550b39c6e12bc98a115855,feat(curriculum): Add interactive examples for form elements lesson (…,2025-10-10T21:09:53Z,1,38,Giftea,freeCodeCamp,freeCodeCamp
+db55392e615a3a62310d786127b79e55ddc975dc,"feat(curriculum): Add interactive examples for u,s, ruby elements les…",2025-10-10T21:09:06Z,1,14,Giftea,freeCodeCamp,freeCodeCamp
+e0c0b86020949b0f2c5c3b86123dc42fbb51bf21,feat(curriculum): Add interactive examples to code element lesson (#6…,2025-10-10T21:08:34Z,1,10,Giftea,freeCodeCamp,freeCodeCamp
+a124dd0aea24ecb4396fa340089cb036f0d4177e,feat(curriculum): Add interactive examples to sup & sub elements less…,2025-10-10T21:08:08Z,1,16,Giftea,freeCodeCamp,freeCodeCamp
+747b1ebebd08fbd84d55947d1cdf86ed4d63729b,feat(curriculum): Add interactive examples to date/time lesson (#62699),2025-10-10T21:07:35Z,1,10,Giftea,freeCodeCamp,freeCodeCamp
+b6588b005ca8908e46efb6cc3be34eb3c7a2c740,feat(curriculum):  Add interactive example to address element lesson …,2025-10-10T21:06:04Z,1,6,Giftea,freeCodeCamp,freeCodeCamp
+feffa6ef35b02d679ed8c08cc573738516e9168d,feat(curriculum): Add interactive examples to abbreviations lesson (#…,2025-10-10T19:28:47Z,1,10,Giftea,freeCodeCamp,freeCodeCamp
+ebf8c688f7efaec307739ea98e5ed35d02daacdf,feat(curriculum): Add interactive examples to quotes lesson (#62690),2025-10-10T19:28:20Z,1,18,Giftea,freeCodeCamp,freeCodeCamp
+d2c76cf0db9257ee3a049ee7379ff6138129e0e6,feat(curriculum): Add interactive examples to strong element lesson (…,2025-10-10T19:25:55Z,1,10,Giftea,freeCodeCamp,freeCodeCamp
+3e22711499a3c18bb87615b1e34ded80d734a0de,feat(curriculum): Add interactive examples to em element lesson (#62684),2025-10-10T19:25:11Z,1,14,Giftea,freeCodeCamp,freeCodeCamp
+f0ca02978ffecfbaf457e29f5b89a39f5a1f1e29,feat(curriculum): Add interactive examples to presentational html les…,2025-10-10T19:24:21Z,1,41,Giftea,freeCodeCamp,freeCodeCamp
+85db5401a333c4d7529b3009903df312815fd039,feat(curriculum): Add interactive example to Good Structural Hierarch…,2025-10-10T19:21:58Z,1,14,Giftea,freeCodeCamp,freeCodeCamp
+ea11f2e12d1dab347ef7468102b5d48519e92a49,fix(tools): adjust challenge editor terminal path to match new curric…,2025-10-10T15:38:55Z,2,16,Sembauke,freeCodeCamp,freeCodeCamp
+899351436141b1a06f62f4adfd1f3fa3d09aecc6,fix(curriculum): add a description and examples of array flattening (…,2025-10-10T12:51:31Z,1,12,ppl-call-me-tima,freeCodeCamp,freeCodeCamp
+f3239ffc2260efb0f286a38d3c79ebef8a36e4f8,fix(client): non-serializable-payload error (#62664),2025-10-10T12:46:49Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+7f89b11e4e86e85ba427855c6b1be3223a89ef20,feat(curriculum): Add interactive examples to iframe element lesson (…,2025-10-10T10:20:49Z,1,56,clarencepenz,freeCodeCamp,freeCodeCamp
+6fc368404985a197095db80c8c67761e493483a0,fix(tools): prevent create-new-x overwriting old projects (#62621),2025-10-10T09:58:26Z,5,622,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+f5361f4341141b0d0f7eeb58603a7229ff4ac9a5,fix(client): apply i18n prefix to test-runner (#62523),2025-10-10T05:48:27Z,3,12,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+f6db89fdbcea323a3cb227558ac1d69838523285,feat: relax challenge auditor (#62601),2025-10-10T03:04:34Z,1,45,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+4fc3277aef55cadd95fb29aec259d704309db5b1,fix(curriculum): removed a misplaced comma (#62660),2025-10-10T02:29:17Z,1,2,minjo70,freeCodeCamp,freeCodeCamp
+3746ab841310d8499af5f27031e4211363f35bf6,fix(curriculum): add cert projects to RWD checkpoint cert (#62640),2025-10-10T02:03:53Z,2,30,huyenltnguyen,freeCodeCamp,freeCodeCamp
+c808f7aab529cc16332493cc4aea11504686e239,fix(config): change LinkedIn ID of JS checkpoint cert (#62636),2025-10-10T01:58:17Z,1,2,huyenltnguyen,freeCodeCamp,freeCodeCamp
 613f55e3ea28894fbf206f80262594087a2470b6,feat(curriculum): Add interactive examples to replaced elements lesso…,2025-10-09T23:03:57Z,1,33,Giftea,freeCodeCamp,freeCodeCamp
 63ef93a1db211dfd919c43447374b9fb9902d5cb,feat(curriculum): Add interactive examples to svg lesson (#62651),2025-10-09T21:59:25Z,1,33,Giftea,freeCodeCamp,freeCodeCamp
 d960b48c0ef65aab967633766aa28d138eb39e3d,feat(curriculum): Add interactive examples to the HTML audio & video …,2025-10-09T21:58:51Z,1,55,Giftea,freeCodeCamp,freeCodeCamp
@@ -638,13 +664,3 @@ fda816360ea8fff4e42435ff2384bf403f382eea,fix(curriculum): replace 'spreadsheet' 
 0725188094355f6f683b6794dd262a3102678523,fix(curriculum): Add test and user story to enforce correct RPG Creat…,2025-07-11T12:16:12Z,1,32,dev-kamil,freeCodeCamp,freeCodeCamp
 d3b8238c293c00110f280a5697d77dfc72ccc294,test: remove unnecessary testString check (#61206),2025-07-11T08:29:28Z,1,9,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 524af83ad8b2f1506c3a39662a718f108d639ba3,chore(curriculum): fix typo in learn determiners and advanced use of …,2025-07-11T03:43:23Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-e9befb49311f05dba6627d9dafca77c862a94c10,"chore: update asserts in step 38-41, 43-44 of magazine-workshop (#61290)",2025-07-10T21:01:14Z,6,24,stinkypingu,freeCodeCamp,freeCodeCamp
-b903270b7546162fcddb1368307b994afa0cde76,fix(curriculum): clarify state variable naming in Toggle Text (#61277),2025-07-10T20:47:02Z,1,4,Supravisor,freeCodeCamp,freeCodeCamp
-4ef79ddd339be402a6a98360c5af9b6761956fbb,chore(curriculum): fix typo in learn how to use adjectives in convers…,2025-07-10T18:46:24Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-76eee4b61913db2fe57b9764214a38b3d61d031f,"fix(curriculum): fix typo from ""Yor"" to ""Your"" (#61284)",2025-07-10T18:46:10Z,1,2,Giftea,freeCodeCamp,freeCodeCamp
-d47e11e97dd6cdf2e81d58d3a6d58237b133f388,fix(curriculum): updated learning habits transcript (#61282),2025-07-10T18:24:45Z,1,7,kannan-ravi,freeCodeCamp,freeCodeCamp
-e258d627414a2c9ddd868a7b2f2f4c5a348aff80,chore: update assert() to specific assert methods in workshop-magazin…,2025-07-10T17:45:11Z,4,22,anmolsah,freeCodeCamp,freeCodeCamp
-1c5c0867f7c6c18e8eadcbf3d0c353fb559510e1,chore(curriculum): update third question in react fundamentals quiz (…,2025-07-10T14:04:18Z,1,16,Giftea,freeCodeCamp,freeCodeCamp
-6bc8a5aaff1c8bec53ff20672de429b0cc368d09,chore: add Dictionaries and Sets section lecture files (#60679),2025-07-10T13:58:40Z,9,587,ilenia-magoni,freeCodeCamp,freeCodeCamp
-a06719f0636565092c408d56434cc774b01354eb,Fix(Curriculum): A2 Learn Introductions in an Online Team Meeting - T…,2025-07-10T13:28:56Z,1,32,nieldakarla,freeCodeCamp,freeCodeCamp
-0939315645466e4a303a903afd7e282ec4293aeb,fix(curriculum): typo in Tech Trends and Updates (#61145),2025-07-10T10:52:37Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
