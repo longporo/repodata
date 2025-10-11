@@ -1,19 +1,49 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87Qq4cL,62658,Content Request: Creating Shapes in HTML and CSS,OPEN,2025-10-09T23:32:14Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Qp1PN,62653,Add interactive examples to replaced elements lesson,CLOSED,2025-10-09T21:05:54Z,2025-10-09T23:03:58Z,Giftea,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87QqjGr,62657,Typo in SPA lecture,OPEN,2025-10-09T22:36:52Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GdcHm,61859,☂️ Umbrella Issue updating lectures with code examples ☂️,OPEN,2025-08-18T07:52:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Q5xj2,62722,Add interactive examples to accessible audio and video lesson,OPEN,2025-10-10T23:55:04Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Q5NLH,62714,Add interactive examples to accessible tables lesson,OPEN,2025-10-10T22:30:41Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Q5Jd_,62713,Add interactive examples to tables lesson,OPEN,2025-10-10T22:22:33Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Q4_bR,62710,Add interactive examples to form states lesson,OPEN,2025-10-10T21:55:42Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Q5q5J,62721,Add interactive examples to aria-describedby lesson,OPEN,2025-10-10T23:39:17Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Q5jtA,62720,Add interactive example to aria-hidden lesson,OPEN,2025-10-10T23:20:38Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Q5Z-_,62718,Add interactive example to WAI-ARIA lesson,OPEN,2025-10-10T22:59:27Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Qzf08,62667,Add interactive example to target attribute lesson,CLOSED,2025-10-10T14:21:41Z,2025-10-10T22:59:18Z,minjo70,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Q5XCV,62717,Add interactive example to WAI-ARIA lesson,CLOSED,2025-10-10T22:49:45Z,2025-10-10T22:50:18Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Q487P,62709,Add interactive examples to form validation lesson,OPEN,2025-10-10T21:49:55Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Q15EQ,62687,Add interactive examples to description lists lesson,CLOSED,2025-10-10T17:07:21Z,2025-10-10T22:07:57Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Q0PUI,62675,Add interactive examples to link states lesson,CLOSED,2025-10-10T15:12:35Z,2025-10-10T22:07:19Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Q3E4w,62707,Add interactive examples to types of buttons lesson,CLOSED,2025-10-10T18:36:42Z,2025-10-10T21:11:12Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Q2lep,62705,Add interactive examples for form elements lesson,CLOSED,2025-10-10T17:58:56Z,2025-10-10T21:09:54Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Q2XnL,62702,"Add interactive examples for u,s, ruby elements lesson",CLOSED,2025-10-10T17:46:53Z,2025-10-10T21:09:07Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Q2WEb,62700,Add interactive examples to code element lesson,CLOSED,2025-10-10T17:45:11Z,2025-10-10T21:08:35Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Q2Ss7,62697,Add interactive examples to `sup` and `sub` elements lesson,CLOSED,2025-10-10T17:40:56Z,2025-10-10T21:08:09Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Q2Mrk,62696,Add interactive examples to date/time lesson,CLOSED,2025-10-10T17:32:44Z,2025-10-10T21:07:36Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Q2LuK,62694,Add interactive example to address element lesson,CLOSED,2025-10-10T17:31:09Z,2025-10-10T21:06:06Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Q2A7R,62691,Add interactive examples to abbreviations lesson,CLOSED,2025-10-10T17:17:40Z,2025-10-10T19:28:48Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Q19l1,62689,Add interactive examples to quotes lesson,CLOSED,2025-10-10T17:13:25Z,2025-10-10T19:28:21Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Q1zYC,62685,Add interactive examples to `strong` element lesson,CLOSED,2025-10-10T16:59:55Z,2025-10-10T19:25:56Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Q1wuU,62683,Add interactive examples to `em` element lesson,CLOSED,2025-10-10T16:56:48Z,2025-10-10T19:25:12Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Q1rjn,62681,Add interactive examples to presentational html lesson,CLOSED,2025-10-10T16:50:44Z,2025-10-10T19:24:22Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Q0jEN,62678,Add interactive example to Good Structural Hierarchy lesson,CLOSED,2025-10-10T15:33:59Z,2025-10-10T19:22:00Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Qyltv,62666,Something about AI-generated pull requests,OPEN,2025-10-10T13:26:53Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87QFbEV,62572,Challenge Editor showing wrong file path,CLOSED,2025-10-07T11:24:00Z,2025-10-10T15:38:56Z,Sembauke,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X865pl-V,60690,new lines and spaces cause failures in tests checking element content,OPEN,2025-06-03T16:37:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87PAJOi,62441,Create a Deep Flattening tool,CLOSED,2025-10-01T10:15:05Z,2025-10-10T12:51:32Z,huyenltnguyen;ppl-call-me-tima,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87QlVy4,62635,Clarify and simplify regex used to assert HTML tag order in tests,OPEN,2025-10-09T14:31:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87QqPLZ,62655,Add interactive examples to iframe element lesson,CLOSED,2025-10-09T21:55:47Z,2025-10-10T10:20:51Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87QXIQn,62600,create-new-projects create duplicates,CLOSED,2025-10-08T14:36:35Z,2025-10-10T09:58:27Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87QvWHf,62663,Coding challenge 60 (October 9): Vague description,OPEN,2025-10-10T09:27:42Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Qq4cL,62658,Content Request: Creating Shapes in HTML and CSS,OPEN,2025-10-09T23:32:14Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87QqjGr,62657,Typo in SPA lecture,CLOSED,2025-10-09T22:36:52Z,2025-10-10T02:29:19Z,minjo70,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Qp1PN,62653,Add interactive examples to replaced elements lesson,CLOSED,2025-10-09T21:05:54Z,2025-10-09T23:03:58Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Qpo1D,62650,Add interactive examples to svg lesson,CLOSED,2025-10-09T20:43:54Z,2025-10-09T21:59:27Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87QoSYP,62645,Add interactive examples to the HTML audio and video lesson,CLOSED,2025-10-09T18:29:41Z,2025-10-09T21:58:52Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87QnysF,62643,Add interactive example to script element lesson,CLOSED,2025-10-09T17:48:44Z,2025-10-09T21:58:14Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87QntUG,62642,Add interactive examples to HTML entities lesson,CLOSED,2025-10-09T17:39:36Z,2025-10-09T21:57:39Z,Giftea,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87QqPLZ,62655,Add interactive examples to iframe element lesson,OPEN,2025-10-09T21:55:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Qpu16,62652,Build a Sentence Analyzer uses regex before it's been introduced,OPEN,2025-10-09T20:55:26Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Qm3ZM,62638,Add interactive examples to ids and classes lesson,CLOSED,2025-10-09T16:30:00Z,2025-10-09T20:55:24Z,Giftea,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865pl-V,60690,new lines cause failures in tests checking element content,OPEN,2025-06-03T16:37:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86xSpqy,59607,Build a Fortune Teller - Incorrect code passing,OPEN,2025-04-05T19:36:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87PriBA,62520,Error: Failed Installing Extensions: coderoad.coderoad,CLOSED,2025-10-05T01:52:15Z,2025-10-09T18:21:28Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87QlVy4,62635,Clarify and simplify regex used to assert HTML tag order in tests,OPEN,2025-10-09T14:31:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87QAV9Y,62564,Incorrect formatting of allow attributes in iframe,OPEN,2025-10-07T02:53:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85Sx5qD,47646,The user's code should be transformed alongside the injected code,OPEN,2022-09-28T06:38:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87QkUmZ,62632,Add interactive examples to `div` lesson,CLOSED,2025-10-09T13:27:31Z,2025-10-09T16:36:20Z,Giftea,freeCodeCamp,freeCodeCamp
@@ -32,10 +62,8 @@ I_kwDOAbI7X87EnnCr,61702,Add Images/Demos in CSS/HTML lectures to supplement the
 I_kwDOAbI7X87PuAdh,62530,JS Boolean and Numbers chapter has a lot of theory and little practice,CLOSED,2025-10-05T16:22:22Z,2025-10-08T23:24:50Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87QWwdh,62598,spaces and new lines cause failures in tests in workshop-build-a-video-display-using-iframe,CLOSED,2025-10-08T14:13:01Z,2025-10-08T20:24:45Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Pli_x,62494,[Toggle Text App] Add an empty space to code example of step 13,CLOSED,2025-10-03T22:21:20Z,2025-10-08T17:30:39Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87QXIQn,62600,create-new-projects create duplicates,OPEN,2025-10-08T14:36:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87O3WPY,62429,Alternative solution for Lab Moon Orbit,CLOSED,2025-09-30T18:33:51Z,2025-10-08T07:37:48Z,Shubh-Srivastava-5911;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87O7bxF,62434,"Small bug found on ""Build a Password Generator App""",CLOSED,2025-10-01T01:52:32Z,2025-10-08T07:26:50Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87QFbEV,62572,Challenge Editor showing wrong file path,OPEN,2025-10-07T11:24:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87PxEVH,62541,Typo in the Declaration of an Object,CLOSED,2025-10-06T05:34:30Z,2025-10-06T10:54:40Z,satyam536,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87PiRpG,62487,Clarify what terminal is in intro to python lessons,OPEN,2025-10-03T17:14:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87QCFeT,62567,Typo in Test Description of Test 7 of Build a User Configuration Manager,CLOSED,2025-10-07T06:57:38Z,2025-10-07T17:33:58Z,rpgjarman,freeCodeCamp,freeCodeCamp
@@ -58,7 +86,6 @@ I_kwDOAbI7X87OgFM_,62408,workshop preview modal is empty until content get loade
 I_kwDOAbI7X87Pt6b2,62529,unnecessary punctuation,CLOSED,2025-10-05T15:50:53Z,2025-10-06T10:09:25Z,a-mamal,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Pt0GB,62527,placeholder text example,CLOSED,2025-10-05T15:16:23Z,2025-10-06T10:07:06Z,yusufasur,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87PIe5G,62452,create-new-project extra metadata property with lectures,OPEN,2025-10-01T21:04:02Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87PAJOi,62441,Create a Deep Flattening tool,OPEN,2025-10-01T10:15:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87PpTAf,62509,"Error: ""Test runner failed to load"" in languages other than English",CLOSED,2025-10-04T13:12:52Z,2025-10-05T16:48:51Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87PJSdU,62456,Update on Hacktoberfest 2025,OPEN,2025-10-01T22:12:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87N2a4g,62365,CSS Attribute Selectors Review missing content,OPEN,2025-09-25T13:16:28Z,,,freeCodeCamp,freeCodeCamp
@@ -496,9 +523,3 @@ I_kwDOAbI7X86_H9Zf,61229,Incorrect use of 'spreadsheet' instead of 'stylesheet' 
 I_kwDOAbI7X87AJG44,61306,Cos assignment ,CLOSED,2025-07-11T16:59:28Z,2025-07-11T17:43:21Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869exZE,61089,Project Idea Board: Misleading hint when unpinning non-existent item in board,CLOSED,2025-06-26T12:26:36Z,2025-07-11T12:18:02Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869EwnT,61041,Tests passed code for the RPG Creature Search project with an incorrect endpoint,CLOSED,2025-06-24T14:02:41Z,2025-07-11T12:16:14Z,dev-kamil,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86_uQh-,61271,"chore: update asserts in steps 38-41,43-44 in magazine workshop",CLOSED,2025-07-09T16:58:43Z,2025-07-10T21:01:16Z,stinkypingu,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868MAuW,60923,workshop toggle text app step 4 naming,CLOSED,2025-06-18T15:11:32Z,2025-07-10T20:47:04Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86_vSpq,61275,Update learning habits transcript,CLOSED,2025-07-09T18:54:14Z,2025-07-10T18:24:47Z,kannan-ravi,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86_uTN1,61272,chore: update steps 45-48 of magazine workshop to use specific asserts,CLOSED,2025-07-09T17:03:16Z,2025-07-10T17:45:13Z,anmolsah,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X869B9iq,61034,React Fundamentals question's answer about SPAs is not explained in prior content,CLOSED,2025-06-24T10:31:01Z,2025-07-10T14:04:21Z,Giftea,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8684hDn,61017,English A2 - Learn Introductions in an Online Team Meeting - Task 99 - Requiring dot in answer,CLOSED,2025-06-23T17:35:09Z,2025-07-10T13:28:58Z,nieldakarla,freeCodeCamp,freeCodeCamp
