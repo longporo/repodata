@@ -1,4 +1,7 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+7709d3d78648a0e97dc050dd34a92aa1f5371874,fix(curriculum): add .trim() to business card lab tests (#62732),2025-10-11T23:50:21Z,1,16,KoolDrip,freeCodeCamp,freeCodeCamp
+7b333597466b07e6172f21f298f0377c3612ef25,chore: use active contributions badge,2025-10-11T14:28:44Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
+69a0d1d8c8239d92907e39cad95328df253f1a14,chore: cleanup badges,2025-10-11T14:24:53Z,1,3,raisedadead,freeCodeCamp,freeCodeCamp
 9932f6ea721e70352fd76fd5a5f49d9815fb5ff0,feat(curriculum): add interactive examples to target attribute lesson…,2025-10-10T22:59:16Z,1,10,minjo70,freeCodeCamp,freeCodeCamp
 fbcd965f1554814a1708f6f45fa8d292189f7c8a,feat(curriculum): Add interactive examples to description lists lesso…,2025-10-10T22:07:56Z,1,22,Giftea,freeCodeCamp,freeCodeCamp
 d3b35ed0f6c762bc33d747f42d0abff89301014d,feat(curriculum): Add interactive examples to link states lesson (#62…,2025-10-10T22:07:18Z,1,102,Giftea,freeCodeCamp,freeCodeCamp
@@ -660,7 +663,3 @@ e1bcb668b400c4151c5239fd7c36990e1b86545d,feat(curriculum): add set 2 of question
 5e1990ee1cc0cd1251af0492db663f11b1fdb628,fix(curriculum): faster euler 32 ref solution (#61274),2025-07-12T19:35:21Z,1,66,jeremylt,freeCodeCamp,freeCodeCamp
 af26a7c18a4f409d3b6922d468871cd90ed7e1c9,fix(curriculum): allow whitespaces in tests by trimming textContent f…,2025-07-12T16:13:16Z,3,6,dev-kamil,freeCodeCamp,freeCodeCamp
 4b1f1ac25fdb7faeed09a3eba1c11969947d2f62,chore(curriculum): replace question in JS Higher Order Functions Quiz…,2025-07-12T10:36:50Z,1,17,Giftea,freeCodeCamp,freeCodeCamp
-fda816360ea8fff4e42435ff2384bf403f382eea,fix(curriculum): replace 'spreadsheet' with 'stylesheet' in a CSS lec…,2025-07-11T19:40:59Z,1,7,PulkitPB,freeCodeCamp,freeCodeCamp
-0725188094355f6f683b6794dd262a3102678523,fix(curriculum): Add test and user story to enforce correct RPG Creat…,2025-07-11T12:16:12Z,1,32,dev-kamil,freeCodeCamp,freeCodeCamp
-d3b8238c293c00110f280a5697d77dfc72ccc294,test: remove unnecessary testString check (#61206),2025-07-11T08:29:28Z,1,9,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-524af83ad8b2f1506c3a39662a718f108d639ba3,chore(curriculum): fix typo in learn determiners and advanced use of …,2025-07-11T03:43:23Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
