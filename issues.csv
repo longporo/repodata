@@ -1,4 +1,13 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87Qq4cL,62658,Content Request: Creating Shapes in HTML and CSS,OPEN,2025-10-09T23:32:14Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87RDQy9,62745,Spelling error in Basic HTML - Theory: Understanding the HTML boilerplate,OPEN,2025-10-12T14:33:54Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87RDWsw,62746,Possible lexical error in Basic HTML - Theory: Understanding the HTML boilerplate,OPEN,2025-10-12T14:49:58Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87PoAIv,62503,make `type` attribute check more robust,OPEN,2025-10-04T07:49:38Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87RCZLU,62743,frontend is not well organize,OPEN,2025-10-12T12:09:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87RDCu-,62744,Quiz + Game = A Fun Way to Refresh Your Mind,CLOSED,2025-10-12T13:55:54Z,2025-10-12T16:10:50Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87RCQAS,62742,Login page not responsive below 400px width,OPEN,2025-10-12T11:43:30Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87RB1zX,62740,docs(readme/license): copyright statement spelling error,OPEN,2025-10-12T10:15:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87RBmkx,62737,docs(contributing): broken link to editing doc site,OPEN,2025-10-12T09:12:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Q89PY,62731,spaces and new lines related test issues in lab-business-card,CLOSED,2025-10-11T10:59:35Z,2025-10-11T23:50:22Z,KoolDrip,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Q-b0C,62733,Python visualization tool 'memory_graph',OPEN,2025-10-11T15:50:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Q8Gx_,62729,UI/UX Feedback: Soften Sharp Edges and Improve Profile Page Navigation/Display,CLOSED,2025-10-11T08:16:50Z,2025-10-11T11:26:25Z,,freeCodeCamp,freeCodeCamp
@@ -36,7 +45,6 @@ I_kwDOAbI7X87QlVy4,62635,Clarify and simplify regex used to assert HTML tag orde
 I_kwDOAbI7X87QqPLZ,62655,Add interactive examples to iframe element lesson,CLOSED,2025-10-09T21:55:47Z,2025-10-10T10:20:51Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87QXIQn,62600,create-new-projects create duplicates,CLOSED,2025-10-08T14:36:35Z,2025-10-10T09:58:27Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87QvWHf,62663,Coding challenge 60 (October 9): Vague description,OPEN,2025-10-10T09:27:42Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Qq4cL,62658,Content Request: Creating Shapes in HTML and CSS,OPEN,2025-10-09T23:32:14Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87QqjGr,62657,Typo in SPA lecture,CLOSED,2025-10-09T22:36:52Z,2025-10-10T02:29:19Z,minjo70,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Qp1PN,62653,Add interactive examples to replaced elements lesson,CLOSED,2025-10-09T21:05:54Z,2025-10-09T23:03:58Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Qpo1D,62650,Add interactive examples to svg lesson,CLOSED,2025-10-09T20:43:54Z,2025-10-09T21:59:27Z,Giftea,freeCodeCamp,freeCodeCamp
@@ -73,7 +81,6 @@ I_kwDOAbI7X87QCFeT,62567,Typo in Test Description of Test 7 of Build a User Conf
 I_kwDOAbI7X87QCDEO,62566,Typo in Test Description of Test 6 of Build a User Configuration Manager,CLOSED,2025-10-07T06:53:58Z,2025-10-07T16:52:08Z,abiramcodes,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863diul,60458,House Painting - Change the way the relative element positions are calculated,CLOSED,2025-05-20T19:05:14Z,2025-10-07T13:43:21Z,Sembauke;Supravisor;ilenia-magoni,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87P_igp,62563,Updated Python course is hard to follow,CLOSED,2025-10-07T00:27:04Z,2025-10-07T11:40:06Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87PoAIv,62503,make `type` attribute check more robust,OPEN,2025-10-04T07:49:38Z,,,freeCodeCamp,freeCodeCamp
 MDU6SXNzdWU3OTI4NjQ2MTc=,40772,Ability to sign up for email list directly,CLOSED,2021-01-24T18:43:05Z,2025-10-07T08:24:48Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Pygt0,62546,Linting staged files is taking forever,CLOSED,2025-10-06T08:07:16Z,2025-10-07T08:07:46Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87K_RsU,62152,Updating Our Payment Provider Integration,OPEN,2025-09-11T09:10:08Z,,,freeCodeCamp,freeCodeCamp
@@ -519,5 +526,3 @@ I_kwDOAbI7X87AQg1B,61318,"chore: replace asserts in steps 49,52-57 of magazine w
 I_kwDOAbI7X87ASFT-,61320,"Minor spelling mistake on ""Learn Git by Building an SQL Reference Object""",CLOSED,2025-07-13T00:27:36Z,2025-07-14T03:34:55Z,tanmaygautam11,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869TIrB,61061,Misleading hint on step 1 of the [Profile Card Component] workshop,CLOSED,2025-06-25T14:35:57Z,2025-07-14T02:01:04Z,dev-kamil,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86ys-Lk,59753,Add set 2 of questions for CSS Positioning quiz,CLOSED,2025-04-16T02:12:11Z,2025-07-13T20:21:11Z,Giftea,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87AJy5l,61308,Build a Balance Sheet - Step 17 - tests are too strict,CLOSED,2025-07-11T18:11:59Z,2025-07-12T16:13:18Z,dev-kamil,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868pd8S,60961,"The quiz for ""/quiz-javascript-higher-order-functions"" ramps up in difficulty extremely steeply",CLOSED,2025-06-21T10:37:13Z,2025-07-12T10:36:51Z,Giftea,freeCodeCamp,freeCodeCamp
