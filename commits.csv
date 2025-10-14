@@ -1,4 +1,27 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+ff1ea23aa199b489859c15708477a55e55f530cb,feat(curriculum): add interactive examples to aria hidden lesson (#62…,2025-10-14T00:10:26Z,1,16,Aeeshadam,freeCodeCamp,freeCodeCamp
+13366a25d9ab8a1892e18275d2bc1f881b19e6af,feat(curriculum): add interactive example to WAI-ARIA lesson (#62734),2025-10-13T23:58:18Z,1,60,LIHKINARYA,freeCodeCamp,freeCodeCamp
+5a72bac0e0931aeb345381f22fd34e58a11adae1,feat(curriculum): Add interactive examples to tables lesson (#62715),2025-10-13T23:53:38Z,1,10,Giftea,freeCodeCamp,freeCodeCamp
+d5e2af471733977d74ec252826b246d3841d6d32,feat(curriculum): Add interactive examples to accessible audio and vi…,2025-10-13T23:51:14Z,1,21,YueZheng-Sea-angle,freeCodeCamp,freeCodeCamp
+038686ef1615f543e8a1a150d14f1ca3ccd556fe,feat(curriculum): added interactive examples to type selector lessons…,2025-10-13T23:38:27Z,1,29,sanskriti2005,freeCodeCamp,freeCodeCamp
+620d0d31a3f39d45f95941a6e4fe9f35f6cedb2b,fix(curriculum): update interactive examples and correct inline CSS c…,2025-10-13T23:35:17Z,1,32,arizfaiyaz,freeCodeCamp,freeCodeCamp
+5186d7c6fdd739e2116799f7532108c1eb4346ea,feat(curriculum): add interactive examples to css combinators lesson …,2025-10-13T23:35:03Z,1,95,arizfaiyaz,freeCodeCamp,freeCodeCamp
+16b9528fd7d7d9d342c79aa6cb2f4a524ebec4d9,feat(curriculum): Add interactive examples to form validation lesson …,2025-10-13T23:33:47Z,1,38,Giftea,freeCodeCamp,freeCodeCamp
+9e30d55fe9ac4f7f886f67d90a06e3873d2187b8,feat(curriculum): Add interactive examples to inline-block lesson (#6…,2025-10-13T23:33:14Z,1,27,arizfaiyaz,freeCodeCamp,freeCodeCamp
+caaa60903f2c1889067fbac64afac0e457fe5d16,feat(curriculum): Add interactive examples to form states lesson (#62…,2025-10-13T23:32:48Z,1,40,Giftea,freeCodeCamp,freeCodeCamp
+ab2c4a8c31d6d019fceef120e9e48982bcf9eff7,feat(curriculum): Add interactive examples to margin and padding less…,2025-10-13T23:31:12Z,1,90,arizfaiyaz,freeCodeCamp,freeCodeCamp
+838b322d720dffc54c79455f60ce99a921f91709,feat(curriculum): add interactive examples to block and inline lesson…,2025-10-13T23:27:43Z,1,10,arizfaiyaz,freeCodeCamp,freeCodeCamp
+f5a932c5e86199ae5dec03c3c384610d3960f7cd,feat(curriculum): Add interactive examples to accessible tables lesso…,2025-10-13T19:56:00Z,1,16,Giftea,freeCodeCamp,freeCodeCamp
+5499800ab11570aef0d4b1c99eee2ccc68025196,fix(curriculum): add interactive examples to default browser styles  …,2025-10-13T19:42:22Z,1,22,arizfaiyaz,freeCodeCamp,freeCodeCamp
+2d574da6e640d7e36e85b3cc59c911a4f81b5bb0,feat(curriculum): add interactive examples to width and height lesson…,2025-10-13T19:32:30Z,1,14,arizfaiyaz,freeCodeCamp,freeCodeCamp
+af70a075470898885b5984bc93970f1277c3e0c2,feat(client): tsx compilation (#62236),2025-10-13T19:29:52Z,9,163,a2937,freeCodeCamp,freeCodeCamp
+b45ed39cd9d8aa41ca77d3a1c2239e6e9aa2ec83,fix(curriculum): Add interactive examples to * selector lesson (#62772),2025-10-13T19:23:35Z,1,18,arizfaiyaz,freeCodeCamp,freeCodeCamp
+baffca7ce7f6133067b9bb9c9ce30b535f5e9a31,feat(curriculum): add email simulator workshop (#62100),2025-10-13T11:23:43Z,55,4741,zairahira,freeCodeCamp,freeCodeCamp
+c005816748dcd5dd37cdfe6e21f6315a0d6ec2e2,fix(api): handle invalid picture URLs for '/update-my-about' (#61769),2025-10-13T10:45:08Z,2,111,Sembauke,freeCodeCamp,freeCodeCamp
+799713c8799922e25b3fd830997d78ce1a1604ec,fix(client): correct background color of links in help modal (#62589),2025-10-13T10:01:12Z,1,48,huyenltnguyen,freeCodeCamp,freeCodeCamp
+31cd5d7508fb0e3c8222f747e909e932db1c7230,docs(readme): fix copyright statement spelling error (#62741),2025-10-13T08:31:47Z,1,2,R055A,freeCodeCamp,freeCodeCamp
+a3150ee44c1d6b4a941f98a652ad53b10b5742df,docs: fallback to org .github files,2025-10-13T08:26:21Z,2,3,raisedadead,freeCodeCamp,freeCodeCamp
+e8cb2eb04b4d63885fc4a8b7ad5efdf8c7729fe5,docs(contributing): remove broken path link to editing the doc site (…,2025-10-13T08:24:38Z,1,1,R055A,freeCodeCamp,freeCodeCamp
 7cbd1d79b9c68267ee7fed1f77aed681b8ee2359,"feat(api): add DELETE ""/account"" endpoint to API (#61745)",2025-10-12T15:59:42Z,4,239,Sembauke,freeCodeCamp,freeCodeCamp
 7709d3d78648a0e97dc050dd34a92aa1f5371874,fix(curriculum): add .trim() to business card lab tests (#62732),2025-10-11T23:50:21Z,1,16,KoolDrip,freeCodeCamp,freeCodeCamp
 7b333597466b07e6172f21f298f0377c3612ef25,chore: use active contributions badge,2025-10-11T14:28:44Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
@@ -660,4 +683,3 @@ d4b5c01e99742c4bb0d48756e6257e2201e0c8e5,fix(client): remove link from staging-w
 939ef028c00076979c4f9a3e52d01b1c8b5071af,feat(curriculum): add string inverter lab (#61337),2025-07-14T14:51:07Z,6,110,zairahira,freeCodeCamp,freeCodeCamp
 9a1f4ca4aeb5fe5d9fb44941deb04fefcc806d4e,chore(curriculum): replace asserts of magazine workshop steps 49-57 (…,2025-07-14T09:25:59Z,7,24,garyeung,freeCodeCamp,freeCodeCamp
 f0035603b4b6d176a3fb09f4ae0529395473611c,fix(curriculum): Update hint text in Step 1 of Profile Card Component…,2025-07-14T02:01:03Z,1,2,dev-kamil,freeCodeCamp,freeCodeCamp
-e1bcb668b400c4151c5239fd7c36990e1b86545d,feat(curriculum): add set 2 of questions for CSS Positioning quiz (#6…,2025-07-13T20:21:09Z,1,593,Giftea,freeCodeCamp,freeCodeCamp
