@@ -1,4 +1,30 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+72d80f0f524e7561c370864c37511a52afe3e8ed,feat(curriculum): added interactive examples to specificity lesson (#…,2025-10-15T00:50:03Z,1,153,sanskriti2005,freeCodeCamp,freeCodeCamp
+f2e8d52e21016a1b434c92d6c51b884f6a30c35c,feat(curriculum): add interactive examples - intro css lesson (#62777),2025-10-15T00:43:13Z,1,204,shayla11,freeCodeCamp,freeCodeCamp
+598ecbe2cc68b9a7f3f48980d93be5f29ed3309e,feat(curriculum): update interactive examples in CSS specificity less…,2025-10-15T00:28:05Z,1,28,arizfaiyaz,freeCodeCamp,freeCodeCamp
+5c116f0972c302c2e6087441d3613f5ede6c18df,feat(curriculum): Add interactive examples to id selectors lesson (#6…,2025-10-15T00:25:45Z,1,13,arizfaiyaz,freeCodeCamp,freeCodeCamp
+cef48ce2e8e8e08ee5510b769cbc26a27a8d4e80,feat(curriculum): update interactive sections in CSS `!important` exp…,2025-10-15T00:23:39Z,1,30,arizfaiyaz,freeCodeCamp,freeCodeCamp
+d8a398453bb97553e7b8120ec1b6207221970b0a,feat(curriculum): Add interactive examples to cascade algorithm lesso…,2025-10-15T00:22:25Z,1,12,arizfaiyaz,freeCodeCamp,freeCodeCamp
+3a4872de3a20530b4cd629ba8cd5ae717c04e82e,feat(curriculum): Add interactive examples to CSS inheritance lesson …,2025-10-15T00:18:27Z,1,10,arizfaiyaz,freeCodeCamp,freeCodeCamp
+20e832c4e5c12e147f445554efe124fa69e47572,feat(curriculum): Add interactive examples to list items & line-heigh…,2025-10-14T22:40:06Z,1,34,Giftea,freeCodeCamp,freeCodeCamp
+d263e487e3d84aece5826c9eb62366a05f0e52a3,feat(curriculum): add interactive examples to default styling links l…,2025-10-14T22:38:52Z,1,36,Giftea,freeCodeCamp,freeCodeCamp
+c5600735bfdc1c96f1833fa01d89b00a100088f1,feat(curriculum): Add interactive examples to styling link states les…,2025-10-14T22:37:28Z,1,56,Giftea,freeCodeCamp,freeCodeCamp
+895fe011071c979866d4079c0e004d368ff05b77,feat(curriculum): Add interactive examples to list-style property les…,2025-10-14T22:19:48Z,1,24,Giftea,freeCodeCamp,freeCodeCamp
+594ebd066be9d761d5dab6f150aa9b99a07ac9fd,feat(curriculum): Add interactive examples to background images lesso…,2025-10-14T20:48:21Z,1,168,Giftea,freeCodeCamp,freeCodeCamp
+63d186649d989fae62ef1788d221b6832584941f,feat(curriculum): Add interactive examples to background gradient les…,2025-10-14T20:47:42Z,1,20,Giftea,freeCodeCamp,freeCodeCamp
+1f3a9b747a581c3e0270070c6acccaadace28336,feat(curriculum): Add interactive examples to accessible backgrounds …,2025-10-14T20:47:16Z,1,27,Giftea,freeCodeCamp,freeCodeCamp
+0d5101689c0b66bbeb8cca5e7db84bf8d3e671e5,feat(curriculum): Add interactive examples for borders and images les…,2025-10-14T20:46:41Z,1,50,Giftea,freeCodeCamp,freeCodeCamp
+8460ccf15c094cc50c925a76888cdf72bff3ac2d,fix(curriculum): clarify what terminal is in Python installation less…,2025-10-14T19:38:33Z,1,2,alifa-ara-heya,freeCodeCamp,freeCodeCamp
+00ca2b1c7e15513a403fe474d68f631508eb82d4,fix: i18n node tests (#62785),2025-10-14T16:32:49Z,1,131,moT01,freeCodeCamp,freeCodeCamp
+b35ec9ef114dbc036147e8efe1f685c8df944c6e,fix(curriculum): fix word from statememt to statement (#62781),2025-10-14T16:08:49Z,1,2,Giftea,freeCodeCamp,freeCodeCamp
+e018e2e61af09b7d020029be6fe19790ecc9163e,"chore(i18n,client): processed translations (#62749)",2025-10-14T15:24:18Z,10,10390,camperbot,freeCodeCamp,freeCodeCamp
+254b4a08aa01dbc3fd03bca1549921bd58753bcb,fix(curriculum): add missing 'to' in favicon description in Basic HTM…,2025-10-14T14:21:01Z,1,2,Danielchinasa,freeCodeCamp,freeCodeCamp
+df1c1a3f3f3c42510e1e904cecebb7e08a6bbd25,refactor: modularize typescript worker (#62668),2025-10-14T09:44:52Z,3,180,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+e8f8b044cd9d8e6671d82859f23e31cda3364440,fix(client): allow transcript expanded state to not persist (#62492),2025-10-14T05:18:44Z,2,43,huyenltnguyen,freeCodeCamp,freeCodeCamp
+f4531901221307e6fbae92bb7e94971aea83fed2,feat(client): redirect renamed prime number sum calculator lab (#62391),2025-10-14T04:43:53Z,1,4,ilenia-magoni,freeCodeCamp,freeCodeCamp
+d1106e928b871b0bc89db7e2c05d104dbce65e04,feat(curriculum): rename prime numbers sum calculator (#62392),2025-10-14T04:43:35Z,6,34,ilenia-magoni,freeCodeCamp,freeCodeCamp
+9993661bd2cdd5883f6f8fc0af7a3d67b983838b,fix(learn): Fix navigation issues with block hover on the Odin Projec…,2025-10-14T04:41:00Z,1,41,azad12614,freeCodeCamp,freeCodeCamp
+c2dac680bbd35aea60c96395dccb565e87f411b8,fix(curriculum): remove punctuation from example phrase in backticks …,2025-10-14T03:34:11Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 ff1ea23aa199b489859c15708477a55e55f530cb,feat(curriculum): add interactive examples to aria hidden lesson (#62…,2025-10-14T00:10:26Z,1,16,Aeeshadam,freeCodeCamp,freeCodeCamp
 13366a25d9ab8a1892e18275d2bc1f881b19e6af,feat(curriculum): add interactive example to WAI-ARIA lesson (#62734),2025-10-13T23:58:18Z,1,60,LIHKINARYA,freeCodeCamp,freeCodeCamp
 5a72bac0e0931aeb345381f22fd34e58a11adae1,feat(curriculum): Add interactive examples to tables lesson (#62715),2025-10-13T23:53:38Z,1,10,Giftea,freeCodeCamp,freeCodeCamp
@@ -677,9 +703,3 @@ d4b5c01e99742c4bb0d48756e6257e2201e0c8e5,fix(client): remove link from staging-w
 979e3ac4e636e85a02db7425b5cf45d7e5df7021,test: relax challenge id uniqueness constraints (#61351),2025-07-15T14:30:40Z,2,1600,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 0d2268981ceee8accb81bf220dff4124598ccab1,fix(scripts): ignore upcoming blocks when building external curricula…,2025-07-15T05:48:49Z,1,18,huyenltnguyen,freeCodeCamp,freeCodeCamp
 42a2ca714cd1a14ab9bd9f5083fd11ae6a2ffc07,chore: clean up unused browser-script deps + config (#61329),2025-07-15T05:42:06Z,3,176,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-8c484e9619b087e3e0e03a8e477981445344753d,fix(curriculum): instructions wording in Accessibility Quiz step 14 (…,2025-07-14T20:51:42Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-68663bef54d6e39e7691e9a97085286291d7523d,chore(curriculum): update asserts in workshop magazine steps 64-69 (#…,2025-07-14T19:01:55Z,6,20,jaypatelr97,freeCodeCamp,freeCodeCamp
-4bed405425a267ce3c60435a99d9239818be4c0b,"chore(i18n,client): processed translations (#61334)",2025-07-14T14:53:21Z,10,132,camperbot,freeCodeCamp,freeCodeCamp
-939ef028c00076979c4f9a3e52d01b1c8b5071af,feat(curriculum): add string inverter lab (#61337),2025-07-14T14:51:07Z,6,110,zairahira,freeCodeCamp,freeCodeCamp
-9a1f4ca4aeb5fe5d9fb44941deb04fefcc806d4e,chore(curriculum): replace asserts of magazine workshop steps 49-57 (…,2025-07-14T09:25:59Z,7,24,garyeung,freeCodeCamp,freeCodeCamp
-f0035603b4b6d176a3fb09f4ae0529395473611c,fix(curriculum): Update hint text in Step 1 of Profile Card Component…,2025-07-14T02:01:03Z,1,2,dev-kamil,freeCodeCamp,freeCodeCamp
