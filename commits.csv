@@ -1,4 +1,23 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+0c8fc66fbf189455e7078e4f6ac2974f68f55180,feat(curriculum): Add interactive examples to alignment lesson (#62842),2025-10-15T23:27:28Z,1,217,Giftea,freeCodeCamp,freeCodeCamp
+12a39223e5fa4c2e8a601839bd736ded90b1900b,feat(curriculum): Add interactive examples to visual hierarchy lesson…,2025-10-15T23:20:51Z,1,189,Giftea,freeCodeCamp,freeCodeCamp
+4c62cb643d823cb0c90b8db2833accbd9b1993c2,chore: @freecodecamp/curriculum-helpers@7.0.0 (#62826),2025-10-15T23:17:53Z,2,144,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+2bee3596119160bfd02824c9cd010de3e7baaaf0,feat(curriculum): Add interactive examples to color contrast lesson (…,2025-10-15T23:02:02Z,1,372,Giftea,freeCodeCamp,freeCodeCamp
+46357a279654040b5404b55ff9a40b763e4c9ce4,feat(curriculum): Add interactive examples to working with strings le…,2025-10-15T22:59:38Z,1,59,Giftea,freeCodeCamp,freeCodeCamp
+dc985408e9245ec2aa9e85de28bcdf198fec7368,feat(curriculum): Add interactive examples to common design terms les…,2025-10-15T22:58:22Z,1,584,Giftea,freeCodeCamp,freeCodeCamp
+42e578099d9fb880dfbc0355d2d734a863d69022,feat(curriculum): Add interactive examples to scale lesson (#62839),2025-10-15T22:57:42Z,1,148,Giftea,freeCodeCamp,freeCodeCamp
+04447d25b59692611a31842e16a895a0fa97166e,feat(curriculum): Add interactive examples to images and design lesso…,2025-10-15T22:51:53Z,1,233,Giftea,freeCodeCamp,freeCodeCamp
+f6a4c486368e3ef0c595f994e0627f4acfdb3473,fix(curriculum): add .trim() to innerText  and textContent assertions…,2025-10-15T22:11:54Z,13,114,Giftea,freeCodeCamp,freeCodeCamp
+a4da6d288246c41760350a2e6d8b9ffa88c081e1,"revert(i18n,client): add note for deployment issues (#62827)",2025-10-15T21:56:46Z,1,31,raisedadead,freeCodeCamp,freeCodeCamp
+76984837ea7e89a6d4347005c12bbb7a62761cc0,fix(curriculum): add test to ensure typeAttr matches srcAttr media ty…,2025-10-15T20:40:36Z,1,19,l3onhard,freeCodeCamp,freeCodeCamp
+836134b3273d721ebaf3caee6d0f901f04e0a4a7,fix(curriculum): fix typos in lab-boolean-check (#62844),2025-10-15T20:05:47Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
+2f9057158359338dbbe4829d39a9504edebb598a,"chore(i18n,client): processed translations (#62825)",2025-10-15T16:44:32Z,10,322,camperbot,freeCodeCamp,freeCodeCamp
+ca02bcb7ee8761cb8bf9a8d61e097134766bbf9d,"feat(api,client): add rwd and js v9 certs (#62458)",2025-10-15T16:06:42Z,26,129,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+c2d5d8c974197c3834996b64352c87e36d3edb92,feat(curriculum): add element skipper lab (#62779),2025-10-15T15:12:15Z,5,203,larymak,freeCodeCamp,freeCodeCamp
+41b6aea6ebe5bd6f593211b90aece5e5074349cb,fix(curriculum): typo in Understanding the HTML boilerplate lesson (#…,2025-10-15T14:16:18Z,1,2,Ansh-Kathil,freeCodeCamp,freeCodeCamp
+d1d3d36ea4e0f8787a9f3e8066ca7cbd0ec31ca6,fix(curriculum): add .trim() to innerText assertions (#62806),2025-10-15T09:33:33Z,1,14,Giftea,freeCodeCamp,freeCodeCamp
+d86703fce35a1397ffb543de1cf6d7570b5a1a56,"chore(i18n,learn): update i18n-curriculum submodule (#62812)",2025-10-15T02:58:47Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+361207680c8001ddb454948f96e66b63baf26430,fix(client): add list of cert projects to RWD and JS intro (#62822),2025-10-15T02:55:38Z,1,22,huyenltnguyen,freeCodeCamp,freeCodeCamp
 72d80f0f524e7561c370864c37511a52afe3e8ed,feat(curriculum): added interactive examples to specificity lesson (#…,2025-10-15T00:50:03Z,1,153,sanskriti2005,freeCodeCamp,freeCodeCamp
 f2e8d52e21016a1b434c92d6c51b884f6a30c35c,feat(curriculum): add interactive examples - intro css lesson (#62777),2025-10-15T00:43:13Z,1,204,shayla11,freeCodeCamp,freeCodeCamp
 598ecbe2cc68b9a7f3f48980d93be5f29ed3309e,feat(curriculum): update interactive examples in CSS specificity less…,2025-10-15T00:28:05Z,1,28,arizfaiyaz,freeCodeCamp,freeCodeCamp
@@ -695,11 +714,3 @@ de1134e3e22a6b0f96902615daa8b3bfedc9c605,feat(curriculum): add Tower of Hanoi la
 e832ce63f2920b3a592bf5a3a060449f3b9f48d2,"chore(i18n,client): processed translations (#61367)",2025-07-16T15:28:15Z,20,80,camperbot,freeCodeCamp,freeCodeCamp
 4011709f380f68c4dc621a440363e7ed82d4ff7a,feat: add loops and sequences lectures (#61294),2025-07-16T15:27:50Z,9,1225,ilenia-magoni,freeCodeCamp,freeCodeCamp
 7e4150ff92d582f637ed0a4e6b2597ece97c79c3,chore(curriculum): remove transcript header from first python lecture…,2025-07-16T15:24:04Z,13,52,Dario-DC,freeCodeCamp,freeCodeCamp
-f4ed5692e3e95deeeed746954260290e21c78c1d,fix: landing tests (#61360),2025-07-15T22:09:45Z,1,90,moT01,freeCodeCamp,freeCodeCamp
-e6ed034a77ba9564665070bfe71f991fd3eefee5,fix: GB request hanging (#61359),2025-07-15T21:20:55Z,1,30,moT01,freeCodeCamp,freeCodeCamp
-6e723cff1da2cd8b06e0f59aa3cba9b3d4a422be,chore(curriculum): update test assertions in workshop-magazine to use…,2025-07-15T20:29:57Z,5,26,AtharvaBhogle,freeCodeCamp,freeCodeCamp
-e1cf35dd910f1fe9c710ace562fe936deaf2b77d,chore(deps): update curriculum helpers to 5.4.0 (#61350),2025-07-15T17:38:59Z,2,122,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-d4b5c01e99742c4bb0d48756e6257e2201e0c8e5,fix(client): remove link from staging-warning (#61348),2025-07-15T15:06:55Z,3,18,raisedadead,freeCodeCamp,freeCodeCamp
-979e3ac4e636e85a02db7425b5cf45d7e5df7021,test: relax challenge id uniqueness constraints (#61351),2025-07-15T14:30:40Z,2,1600,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-0d2268981ceee8accb81bf220dff4124598ccab1,fix(scripts): ignore upcoming blocks when building external curricula…,2025-07-15T05:48:49Z,1,18,huyenltnguyen,freeCodeCamp,freeCodeCamp
-42a2ca714cd1a14ab9bd9f5083fd11ae6a2ffc07,chore: clean up unused browser-script deps + config (#61329),2025-07-15T05:42:06Z,3,176,ojeytonwilliams,freeCodeCamp,freeCodeCamp
