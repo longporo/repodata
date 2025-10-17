@@ -1,4 +1,12 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+ed568658c13d43908cc5334c3345ab8007b23a85,feat: add a2-english cert and exam (#62855),2025-10-16T20:52:37Z,24,65,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+59cab66cf24db5826bb5dad7a108d5bc7bc65e02,feat: remove deprecated exam fields (#62852),2025-10-16T16:54:58Z,11,171,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+5add4262bd24c7cb37b7969944834d497b5d9bd6,refactor(client): use different challenges component in different blo…,2025-10-16T16:25:53Z,2,238,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+8965cf31807558c3a5cc7d59a1dcc0fc8ca00d49,fix(a11y): color contrast in interactive editor (#62848),2025-10-16T13:01:42Z,1,18,huyenltnguyen,freeCodeCamp,freeCodeCamp
+33cff927e00bbd0fcde1095714b5b3f9ad548010,fix(curriculum): remove unnecessary comma in JS variable lecture (#62…,2025-10-16T08:19:17Z,1,2,Aditya-jaiswal07972,freeCodeCamp,freeCodeCamp
+652684e8de6905d643356de6b0fc5b2b94582c49,fix(challenge-editor): superblock names in link to challenge (#62669),2025-10-16T07:39:17Z,2,61,moT01,freeCodeCamp,freeCodeCamp
+c91ff309f0dc67115233373126841eacf0d704f1,feat(curriculum): add string transformer workshop to FSD cert (#62557),2025-10-16T06:35:56Z,15,765,jdwilkin4,freeCodeCamp,freeCodeCamp
+bf4088992091281f0edf00c36b684fd31652d47a,refactor(client): remove unused styles in help-modal.css (#62846),2025-10-16T03:32:41Z,1,9,huyenltnguyen,freeCodeCamp,freeCodeCamp
 0c8fc66fbf189455e7078e4f6ac2974f68f55180,feat(curriculum): Add interactive examples to alignment lesson (#62842),2025-10-15T23:27:28Z,1,217,Giftea,freeCodeCamp,freeCodeCamp
 12a39223e5fa4c2e8a601839bd736ded90b1900b,feat(curriculum): Add interactive examples to visual hierarchy lesson…,2025-10-15T23:20:51Z,1,189,Giftea,freeCodeCamp,freeCodeCamp
 4c62cb643d823cb0c90b8db2833accbd9b1993c2,chore: @freecodecamp/curriculum-helpers@7.0.0 (#62826),2025-10-15T23:17:53Z,2,144,ojeytonwilliams,freeCodeCamp,freeCodeCamp
@@ -705,12 +713,3 @@ a3c1cc15d33d74aa01f95f72d82bd3d83d6da78b,fix: change the review instructions for
 cb9dac43f89ec3ee5e88f5a2ab4d52b16f71dc2c,fix(curriculum): handle whitespace for step 12 of workshop-cat-photo-…,2025-07-17T17:30:40Z,1,2,alexgoldsmith,freeCodeCamp,freeCodeCamp
 29cd2d227d182b2df51d01d60ddefcc2fbd2e55e,feat(api): daily challenge api (#61346),2025-07-17T09:34:46Z,13,700,moT01,freeCodeCamp,freeCodeCamp
 3bcd6bbaf1aac76e044860bfd2b092abcf6ac633,"chore(i18n,learn): update i18n-curriculum submodule (#61373)",2025-07-17T07:45:24Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-59ed5910ea1fb024fdb15ce654d0f3cef922a48f,feat(curriculum): add tailwind CTA component workshop to main (#61013),2025-07-16T22:20:14Z,22,1269,Ksound22,freeCodeCamp,freeCodeCamp
-de1134e3e22a6b0f96902615daa8b3bfedc9c605,feat(curriculum): add Tower of Hanoi lab (#61364),2025-07-16T22:07:56Z,5,1203,Dario-DC,freeCodeCamp,freeCodeCamp
-792757d98d79e4f3c0d061478b0afc30e70550cc,feat(curriculum): adding tablist workshop (#61063),2025-07-16T19:04:57Z,25,2426,jdwilkin4,freeCodeCamp,freeCodeCamp
-28bd4ac22f651964fbda9c87ccfee202211431f7,fix(client): duplicate challengeFile declaration in editor (#61371),2025-07-16T18:05:46Z,1,3,moT01,freeCodeCamp,freeCodeCamp
-92b6ca53430493af338d61adf067d1e9f5131236,feat(api): add exam env attempts endpoints and fields (#59634),2025-07-16T16:35:12Z,18,1649,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-8eee5ca8bfd79f47f1283c5756ff677c537fe3da,feat(client): Editor file visual indication (#59186),2025-07-16T16:24:46Z,3,26,Arif-Khalid,freeCodeCamp,freeCodeCamp
-e832ce63f2920b3a592bf5a3a060449f3b9f48d2,"chore(i18n,client): processed translations (#61367)",2025-07-16T15:28:15Z,20,80,camperbot,freeCodeCamp,freeCodeCamp
-4011709f380f68c4dc621a440363e7ed82d4ff7a,feat: add loops and sequences lectures (#61294),2025-07-16T15:27:50Z,9,1225,ilenia-magoni,freeCodeCamp,freeCodeCamp
-7e4150ff92d582f637ed0a4e6b2597ece97c79c3,chore(curriculum): remove transcript header from first python lecture…,2025-07-16T15:24:04Z,13,52,Dario-DC,freeCodeCamp,freeCodeCamp
