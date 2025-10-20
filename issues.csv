@@ -1,12 +1,14 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87SQg4G,62889,Accessibility Issue - Calorie Counter Exercise,OPEN,2025-10-17T20:59:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Sa9P_,62899,Inconsistent text in message,OPEN,2025-10-19T17:41:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SWGsq,62896,Misleading hint in HTML curriculum,OPEN,2025-10-18T17:13:30Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87RNdss,62751,Add interactive examples to anatomy of css lesson,CLOSED,2025-10-13T12:55:12Z,2025-10-19T15:27:25Z,likhith5697,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SWDDs,62895,New interactive editor in lesson is not accessible for those using screen readers,OPEN,2025-10-18T16:54:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87NPoNp,62320,"Bug: Tracking possible deprecated challenge IDs, FCC Classroom Integration Questions",CLOSED,2025-09-23T02:48:12Z,2025-10-18T13:38:56Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LeJDl,62199,Spread operator (...) behaves incorrectly on array empty slots,OPEN,2025-09-13T15:17:30Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LKvav,62164,Missing content related to example site and inspector tools,CLOSED,2025-09-12T02:12:56Z,2025-10-18T13:34:28Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SMU7z,62878,Progress Checkmarks not Visible in Dark Mode on Samsung Browser,OPEN,2025-10-17T14:45:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SUV6G,62892,Editor becomes laggy (~30 FPS) in Full Stack Developer workshops/labs after several steps — Chrome 141 / Windows 11,OPEN,2025-10-18T10:18:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87SQg4G,62889,Accessibility Issue - Calorie Counter Exercise,OPEN,2025-10-17T20:59:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87QvWHf,62663,Coding challenge 60 (October 9): Vague description,OPEN,2025-10-10T09:27:42Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87R-LkN,62861,hint message that error is present does not appear,OPEN,2025-10-16T17:05:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SKf7B,62874,Daily Challenge: Email Validator,OPEN,2025-10-17T12:27:24Z,,,freeCodeCamp,freeCodeCamp
@@ -92,7 +94,6 @@ I_kwDOAbI7X87Q5NLH,62714,Add interactive examples to accessible tables lesson,CL
 I_kwDOAbI7X87RNmET,62752,Add interactive examples to default browser styles lesson,CLOSED,2025-10-13T13:05:05Z,2025-10-13T19:42:23Z,arizfaiyaz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87RNubj,62754,Add interactive examples to width and height lesson,CLOSED,2025-10-13T13:15:31Z,2025-10-13T19:32:31Z,arizfaiyaz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87RPY-U,62760,Add interactive examples to `*` selector lesson,CLOSED,2025-10-13T15:20:38Z,2025-10-13T19:23:37Z,arizfaiyaz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87RNdss,62751,Add interactive examples to anatomy of css lesson,OPEN,2025-10-13T12:55:12Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85mDz-_,50399,Add validation to /update-my-about,CLOSED,2023-05-16T15:38:28Z,2025-10-13T10:45:09Z,Sembauke,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Nc9aI,62336,Add Lua Courses,CLOSED,2025-09-23T23:12:51Z,2025-10-13T08:50:19Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87RB1zX,62740,docs(readme/license): copyright statement spelling error,CLOSED,2025-10-12T10:15:08Z,2025-10-13T08:31:49Z,R055A,freeCodeCamp,freeCodeCamp
