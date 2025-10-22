@@ -1,4 +1,12 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+33839b291e03ee48b27c6bd6e36a00f1a9829e56,fix(curriculum): add missing question mark in lecture title (#62923),2025-10-21T21:00:46Z,2,4,AyushSharma72,freeCodeCamp,freeCodeCamp
+97302e88864a1e23843fc74da4ee56847d5a9e3b,fix(docker): consistently use DB everywhere (#62569),2025-10-21T15:23:59Z,5,79,raisedadead,freeCodeCamp,freeCodeCamp
+f3d2511f22e6b9bb5ed5760eeb4d3eb13d8f2017,feat(curriculum): daily challenges 80-89 (#62910),2025-10-21T12:53:43Z,23,1733,moT01,freeCodeCamp,freeCodeCamp
+5fd86514e6a43979ffce8a14654392caf638ad66,feat(curriculum): add n-queens lab (#62420),2025-10-21T10:02:58Z,5,210,zairahira,freeCodeCamp,freeCodeCamp
+7abb9275141e3bce3504b2ee1b8d815b0e7f6a55,feat(curriculum): add bfs workshop (#62517),2025-10-21T09:59:30Z,18,843,Dario-DC,freeCodeCamp,freeCodeCamp
+b36060bc28a9b9362894694a9307ba8152b7f9ce,feat(tools): add prettier formatting to CSS files in lint-staged conf…,2025-10-21T04:11:57Z,1,6,huyenltnguyen,freeCodeCamp,freeCodeCamp
+a301cd1146154258fc1d7ca0e69e89ef26c21f7e,fix(curriculum): Misleading hint in HTML curriculum (#62914),2025-10-21T03:55:44Z,1,6,pardeshiaryan,freeCodeCamp,freeCodeCamp
+7e0d90bc4dbc3e11c200146bc718790bee474c35,fix(curriculum): correct language identifier for Java code block (#62…,2025-10-21T03:54:17Z,3,6,pdtrang,freeCodeCamp,freeCodeCamp
 d8d217685df7136c8bb5f13c93c90a09dd707655,"chore(i18n,client): processed translations (#62909)",2025-10-20T15:30:56Z,20,750,camperbot,freeCodeCamp,freeCodeCamp
 1c894307933d7da2f1e350e13ebc74e9b06adf1b,chore: hide interactive editor from screenreaders (#62901),2025-10-20T14:42:25Z,1,2,a2937,freeCodeCamp,freeCodeCamp
 303c2c689ff7d2728bf65631b7d973556eb9994f,fix: update history and amounts,2025-10-20T12:22:50Z,1,26,raisedadead,freeCodeCamp,freeCodeCamp
@@ -711,9 +719,3 @@ df7e70b36bd345224c97d836d4eed2f5ac0a4622,fix(curriculum): allow arrow syntax in 
 cfc50a8d365110694fc89c2e3b84a3ab85b1447b,chore: Remove videos from Understanding the HTML Boilerplate lecture …,2025-07-22T19:33:32Z,3,34,ilenia-magoni,freeCodeCamp,freeCodeCamp
 d88691bc8a2e61c51349883491274732f7f2ca68,breaking(api): remove screenshot api (#61300),2025-07-22T15:28:13Z,10,351,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 e807d58a0b5f5bcb576f9f5460821245d94e952a,fix(client): fix typo in useState variable name in progress-inner.tsx…,2025-07-22T11:59:44Z,1,4,Nardix,freeCodeCamp,freeCodeCamp
-5273b31156e8edfd870010dd7ddaa113ad48a8e4,"chore(i18n,client): processed translations (#61422)",2025-07-21T18:06:17Z,10,420,camperbot,freeCodeCamp,freeCodeCamp
-06c344c91d5c9ee2853d8032f5da9c97d4010e30,fix(curriculum): replace a question in JavaScript Asynchronous Progra…,2025-07-21T17:32:27Z,1,22,Cyanidebob0,freeCodeCamp,freeCodeCamp
-a9da775c16d95fbc6b0c79f078bbea5f857a1523,"chore(i18n,learn): update i18n-curriculum submodule (#61426)",2025-07-21T17:30:40Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-1794a243acbdef46d1b21966cd99f0f7ebe681e1,feat: add classes and objects lectures (#61327),2025-07-21T17:27:29Z,4,681,ilenia-magoni,freeCodeCamp,freeCodeCamp
-19caaaf7e662d1d5ae1478f32a1a11c4306b119a,fix(curriculum): update test in Music Player lab to be reliable acros…,2025-07-21T11:21:33Z,1,12,Giftea,freeCodeCamp,freeCodeCamp
-51bdb6c7b3001f4fb0b00e78c0e9064d64e5d13f,feat: add celsius to fahrenheit lab (#61342),2025-07-21T10:35:34Z,5,120,zairahira,freeCodeCamp,freeCodeCamp
