@@ -1,4 +1,21 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+0d44fff1ff7d22d5ed69ee0a5237f249f35e83ff,feat(curriculum): add interactive examples to em and rem lesson (#62955),2025-10-22T23:42:29Z,1,25,pdtrang,freeCodeCamp,freeCodeCamp
+99d91a1219f61584f94e48b4517e573cda981cb5,feat(curriculum): add interactive examples to percentages lesson (#62…,2025-10-22T23:38:17Z,1,106,pdtrang,freeCodeCamp,freeCodeCamp
+a70fb3a2e94899c4314058fff383b79bf508bd9a,feat(curriculum): add interactive examples to vh and vw lesson (#62953),2025-10-22T23:31:17Z,1,46,pdtrang,freeCodeCamp,freeCodeCamp
+b99f643757379abd8de7845d2096697f84815aa9,chore: @freecodecamp/curriculum-helpers@7.1.0 (#62954),2025-10-22T22:26:08Z,2,14,Dario-DC,freeCodeCamp,freeCodeCamp
+f22cafcf38cb8ad533fd6232c2a87a86b71821df,feat(curriculum): add interactive examples to designing cards lesson …,2025-10-22T22:25:09Z,1,197,pdtrang,freeCodeCamp,freeCodeCamp
+8b8327aac19e4b935c8221a84687a99a481e28af,feat(curriculum): add interactive examples to infinite scroll lesson …,2025-10-22T22:24:29Z,1,299,pdtrang,freeCodeCamp,freeCodeCamp
+8959ce8187928ef548050e5231b5cd70d20a2e6b,feat(curriculum): add interactive examples to modal design lesson (#6…,2025-10-22T22:23:38Z,1,129,pdtrang,freeCodeCamp,freeCodeCamp
+90e0bd974f3caf3acf789219f397c0b3337ea2d8,feat(curriculum): add interactive examples to progress indication les…,2025-10-22T22:22:55Z,1,479,pdtrang,freeCodeCamp,freeCodeCamp
+cf25e1faeeaa5f7d8b7a6747b44311dff168f3e4,feat(curriculum): add interactive examples for shopping cart design l…,2025-10-22T22:21:27Z,1,432,pdtrang,freeCodeCamp,freeCodeCamp
+bffb74f1d49d9f0234de9d750f926c578681ec5d,"chore(i18n,learn): update i18n-curriculum submodule (#62935)",2025-10-22T18:01:15Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+88f6d600a09610d97ab8f8b77ca8b1245cc4f760,"chore(i18n,client): processed translations (#62932)",2025-10-22T14:29:15Z,10,120,camperbot,freeCodeCamp,freeCodeCamp
+806031d5aa73c0406d90d115e275253371748fb4,fix(curriculum): rework daily challenge 75 to something more friendly…,2025-10-22T14:28:21Z,4,116,moT01,freeCodeCamp,freeCodeCamp
+b84cd339c92609ff4adba664bd499bbc919dd5ac,feat(curriculum): add dynamic programming quiz questions (#62418),2025-10-22T13:42:24Z,1,323,zairahira,freeCodeCamp,freeCodeCamp
+e42a864e1228ece91c06f77d7d721fafb647eee5,fix: direct import from curriculum (#62931),2025-10-22T13:07:59Z,1,19,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+b8f089810f0e63c683485e32f2a360d50c4971cd,chore: @freecodecamp/curriculum-helpers@7.0.1 (#62927),2025-10-22T08:54:50Z,2,12,Dario-DC,freeCodeCamp,freeCodeCamp
+7136537e454f4f11e9f15e015ebe52b7295f844d,fix(curriculum): correction of grammar (#62924),2025-10-22T05:05:18Z,1,2,Aditya-jaiswal07972,freeCodeCamp,freeCodeCamp
+51c24f67e1284365fa54828922c9a6fbd9c8b177,"fix(gha): allowlist staff, and revert commits (#62894)",2025-10-22T05:04:18Z,1,28,raisedadead,freeCodeCamp,freeCodeCamp
 33839b291e03ee48b27c6bd6e36a00f1a9829e56,fix(curriculum): add missing question mark in lecture title (#62923),2025-10-21T21:00:46Z,2,4,AyushSharma72,freeCodeCamp,freeCodeCamp
 97302e88864a1e23843fc74da4ee56847d5a9e3b,fix(docker): consistently use DB everywhere (#62569),2025-10-21T15:23:59Z,5,79,raisedadead,freeCodeCamp,freeCodeCamp
 f3d2511f22e6b9bb5ed5760eeb4d3eb13d8f2017,feat(curriculum): daily challenges 80-89 (#62910),2025-10-21T12:53:43Z,23,1733,moT01,freeCodeCamp,freeCodeCamp
@@ -715,7 +732,3 @@ d9665200ad85fdb6ad336a494e01ae599566046a,"chore(i18n,client): processed translat
 08e0f07a96d3880df4b2d83d4bc7336fea62c219,"fix(curriculum): change ""assert"" to ""from"" and remove videoId (#61446)",2025-07-23T13:36:43Z,1,11,dragon-slayer27,freeCodeCamp,freeCodeCamp
 64b32cf69b22183d1cb42bad5f5f73da14e492f3,feat: add finders keepers algorithm to full stack (#61332),2025-07-23T11:35:19Z,5,159,ilenia-magoni,freeCodeCamp,freeCodeCamp
 35ce56580779cf4548dc539ad01caa6dfc9ced46,fix(curriculum): update description and hints of lab-football-team-ca…,2025-07-23T03:47:12Z,1,12,dragon-slayer27,freeCodeCamp,freeCodeCamp
-df7e70b36bd345224c97d836d4eed2f5ac0a4622,fix(curriculum): allow arrow syntax in workshop-calculator step 4 (#6…,2025-07-23T01:30:57Z,1,5,alexgoldsmith,freeCodeCamp,freeCodeCamp
-cfc50a8d365110694fc89c2e3b84a3ab85b1447b,chore: Remove videos from Understanding the HTML Boilerplate lecture …,2025-07-22T19:33:32Z,3,34,ilenia-magoni,freeCodeCamp,freeCodeCamp
-d88691bc8a2e61c51349883491274732f7f2ca68,breaking(api): remove screenshot api (#61300),2025-07-22T15:28:13Z,10,351,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-e807d58a0b5f5bcb576f9f5460821245d94e952a,fix(client): fix typo in useState variable name in progress-inner.tsx…,2025-07-22T11:59:44Z,1,4,Nardix,freeCodeCamp,freeCodeCamp
