@@ -1,16 +1,30 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87TI-yY,62950,Add interactive examples to `em` and `rem` lesson,CLOSED,2025-10-22T20:50:57Z,2025-10-22T23:42:30Z,huyenltnguyen;pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TI4kV,62949,Add interactive examples to percentages lesson,CLOSED,2025-10-22T20:39:56Z,2025-10-22T23:38:18Z,huyenltnguyen;pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TJL76,62951,Add interactive examples to `vh` and `vw` lesson,CLOSED,2025-10-22T21:13:09Z,2025-10-22T23:31:19Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TF2wX,62936,Add interactive examples to designing cards lesson,CLOSED,2025-10-22T16:22:54Z,2025-10-22T22:25:11Z,huyenltnguyen;pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TGLD8,62938,Add interactive examples to infinite scroll lesson,CLOSED,2025-10-22T16:52:26Z,2025-10-22T22:24:31Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TGW-L,62939,Add interactive examples to modal design lesson,CLOSED,2025-10-22T17:10:39Z,2025-10-22T22:23:39Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TGjLz,62940,Add interactive examples to progress indication lesson,CLOSED,2025-10-22T17:27:14Z,2025-10-22T22:22:57Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TG5IE,62941,Add interactive examples for shopping cart design lessons,CLOSED,2025-10-22T17:57:26Z,2025-10-22T22:21:29Z,huyenltnguyen;pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GdcHm,61859,☂️ Umbrella Issue updating lessons with interactive code examples ☂️,OPEN,2025-08-18T07:52:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TJr8m,62957,Add interactive examples to pseudo classes lesson,OPEN,2025-10-22T22:17:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TJPsc,62952,Add interactive example for `calc` lesson,OPEN,2025-10-22T21:18:57Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TIvRm,62948,Add interactive examples for absolute units lesson,OPEN,2025-10-22T20:25:11Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TIjDo,62947,Add interactive examples to progressive disclosure lesson,OPEN,2025-10-22T20:08:47Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TF7_6,62937,Mistaken Sectioning in the Full Stack Developer Course,OPEN,2025-10-22T16:30:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SWDDs,62895,New interactive editor in lesson is not accessible for those using screen readers,OPEN,2025-10-18T16:54:07Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87SfxZF,62904,missing punctuation,CLOSED,2025-10-20T08:34:10Z,2025-10-21T21:00:47Z,AyushSharma72,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87RhgfZ,62821,Incorrect Math in the Launch Fuel Challenge (Oct. 10th),CLOSED,2025-10-14T19:39:57Z,2025-10-21T20:51:28Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TD1rP,62933,Daily Challenge breadcrumb doesn't work,OPEN,2025-10-22T13:58:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87SKf7B,62874,Daily Challenge: Email Validator,OPEN,2025-10-17T12:27:24Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SgQV7,62905,Redirect users who sign in from the landing page to /learn,OPEN,2025-10-20T09:13:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SO95T,62885,missing topic from review,OPEN,2025-10-17T18:36:46Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87SKf7B,62874,Daily Challenge: Email Validator,OPEN,2025-10-17T12:27:24Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87RoNm-,62823,"maybe grammar issue in What Is the Purpose of WAI-ARIA, and How Does It Work?",CLOSED,2025-10-15T08:36:50Z,2025-10-22T05:05:20Z,Aditya-jaiswal07972,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ShGJC,62907,UX: Breadcrumbs with better navigation levels,OPEN,2025-10-20T10:17:42Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87GdcHm,61859,☂️ Umbrella Issue updating lessons with interactive code examples ☂️,OPEN,2025-08-18T07:52:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87SfxZF,62904,missing punctuation,CLOSED,2025-10-20T08:34:10Z,2025-10-21T21:00:47Z,AyushSharma72,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87RhgfZ,62821,Incorrect Math in the Launch Fuel Challenge (Oct. 10th),CLOSED,2025-10-14T19:39:57Z,2025-10-21T20:51:28Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SMU7z,62878,Progress Checkmarks not Visible in Dark Mode on Samsung Browser,OPEN,2025-10-17T14:45:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87RuGhR,62829,Inconsistency between Build a book inventory page and Tech Conference Schedule Table,OPEN,2025-10-15T15:20:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87R-352,62862,"When Is the alt Attribute Needed, and What Are Some Examples of Good Alt Text? referes to something not shown",OPEN,2025-10-16T17:57:22Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87RoNm-,62823,"maybe grammar issue in What Is the Purpose of WAI-ARIA, and How Does It Work?",OPEN,2025-10-15T08:36:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SLNmN,62875,Move block descriptions from intro.json to the block's meta file due to frequent merge conflicts,OPEN,2025-10-17T13:17:37Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86m51GA,58252,Fix DEP0170 - DeprecationWarning with MongoDB URL,CLOSED,2025-01-20T19:50:10Z,2025-10-21T05:38:50Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SUV6G,62892,Editor becomes laggy (~30 FPS) in Full Stack Developer workshops/labs after several steps — Chrome 141 / Windows 11,OPEN,2025-10-18T10:18:29Z,,,freeCodeCamp,freeCodeCamp
@@ -569,5 +583,3 @@ I_kwDOAbI7X87B2Cki,61435,"Add support for GitLab, Gitea, and Codeberg profile li
 I_kwDOAbI7X87B-3AN,61444,Problem in the Project,CLOSED,2025-07-23T01:02:40Z,2025-07-23T01:12:40Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Bcbap,61409,Keyword ‘assert’ is deprecated and keyword ‘with’ is the current standard.,CLOSED,2025-07-19T17:01:53Z,2025-07-23T13:36:45Z,dragon-slayer27,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Bd9ur,61414,lab-football-team-cards should warn of css use to hide/show cards,CLOSED,2025-07-20T02:14:36Z,2025-07-23T03:47:13Z,dragon-slayer27,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Bc0Wj,61410,workshop-calculator step 4 too restrictive: requires explicit return in answer,CLOSED,2025-07-19T18:52:24Z,2025-07-23T01:30:58Z,alexgoldsmith,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87BtN5S,61428,Typo:  useState variable defined on line 42 of progress-inner.tsx is misspelled,CLOSED,2025-07-21T19:54:46Z,2025-07-22T11:59:45Z,Nardix,freeCodeCamp,freeCodeCamp
