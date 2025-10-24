@@ -1,4 +1,14 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+02e1e1c33180cd11591208ece5d021544699c8cb,fix(curriculum): missing word in String Transformer step 3 (#63000),2025-10-23T20:48:10Z,1,2,cuongpham24,freeCodeCamp,freeCodeCamp
+27a54624c3ab724e64038727be0744138a9080f4,refactor: blockType -> blockLabel (#62548),2025-10-23T17:50:15Z,530,1215,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+808d0d0d7411f64eb24c97604b92ad251e124cf7,fix(curriculum) : Added missing cute puppy and tropical-resort images…,2025-10-23T17:06:01Z,1,8,AyushSharma72,freeCodeCamp,freeCodeCamp
+62e0170cc3baeff615de5c4958a5a65f51a4e5cf,feat(curriculum): add interactive examples to pseudo classes lesson (…,2025-10-23T15:03:08Z,1,62,pdtrang,freeCodeCamp,freeCodeCamp
+e6bb589b5ff1c127124cfe4cfeb4e7dee2e6c198,feat(curriculum): Add interactive example for calc lesson (#62959),2025-10-23T15:02:32Z,1,13,cuongpham24,freeCodeCamp,freeCodeCamp
+59edf1571e365990c49ecf26974b98ebc0054144,feat(curriculum): Add interactive examples for absolute units lesson …,2025-10-23T15:02:05Z,1,23,cuongpham24,freeCodeCamp,freeCodeCamp
+68465070a31c8c6f02094104688275d622109988,feat(curriculum): Add interactive examples to progressive disclosure …,2025-10-23T15:01:33Z,1,397,cuongpham24,freeCodeCamp,freeCodeCamp
+0c04e1a9ed2bbe7873bfd5a4ee9d6b747b0fd1f1,test: use expect for clearer errors (#62965),2025-10-23T10:02:40Z,3,45,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+8380c7c01fac3f01dc0ba1f981749268ca40da6b,chore: ignore dist folders when linting (#62966),2025-10-23T09:55:48Z,2,3,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+4a635c1b3274c5f1ab6a0371e40615046c4af69b,refactor: migrate (some) curriculum files to TypeScript (#62228),2025-10-23T05:24:57Z,62,1505,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 0d44fff1ff7d22d5ed69ee0a5237f249f35e83ff,feat(curriculum): add interactive examples to em and rem lesson (#62955),2025-10-22T23:42:29Z,1,25,pdtrang,freeCodeCamp,freeCodeCamp
 99d91a1219f61584f94e48b4517e573cda981cb5,feat(curriculum): add interactive examples to percentages lesson (#62…,2025-10-22T23:38:17Z,1,106,pdtrang,freeCodeCamp,freeCodeCamp
 a70fb3a2e94899c4314058fff383b79bf508bd9a,feat(curriculum): add interactive examples to vh and vw lesson (#62953),2025-10-22T23:31:17Z,1,46,pdtrang,freeCodeCamp,freeCodeCamp
@@ -725,10 +735,3 @@ fde929b2640c51cd4c02bb4aea17c9f5186fe091,fix(curriculum): make semicolon optiona
 329b27d8c6f070164d1011482a199de4b19c8c4e,feat(curriculum): add longest word finder lab (#61340),2025-07-24T18:21:28Z,5,131,zairahira,freeCodeCamp,freeCodeCamp
 b4a28b1dc3ac1a1d431a0ada53ef15a32fca3d54,fix: remove duplicate challenge from challengeOrder (#61456),2025-07-24T14:25:49Z,1,4,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 09095aef0365d012e3c297d26b1a6cca05852a0a,fix(curriculum): clarify input limit for Real Time Counter (#61276),2025-07-24T01:53:42Z,1,4,Supravisor,freeCodeCamp,freeCodeCamp
-60ca15ad4c8b5841a4a0ee2f6e08ca985bfa4941,feat(curriculum): add understanding the command line and working with…,2025-07-23T17:59:41Z,8,625,moT01,freeCodeCamp,freeCodeCamp
-ee009a34881aa0692759d9831d44ba6881072f02,"chore(i18n,learn): update i18n-curriculum submodule (#61448)",2025-07-23T17:42:21Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-910d431ef22f37be59538df896b49c9664c0f874,fix: swap blank solutions in task 25 hobbies and interests (#61439),2025-07-23T14:47:47Z,1,8,ilenia-magoni,freeCodeCamp,freeCodeCamp
-d9665200ad85fdb6ad336a494e01ae599566046a,"chore(i18n,client): processed translations (#61447)",2025-07-23T14:29:25Z,11,62,camperbot,freeCodeCamp,freeCodeCamp
-08e0f07a96d3880df4b2d83d4bc7336fea62c219,"fix(curriculum): change ""assert"" to ""from"" and remove videoId (#61446)",2025-07-23T13:36:43Z,1,11,dragon-slayer27,freeCodeCamp,freeCodeCamp
-64b32cf69b22183d1cb42bad5f5f73da14e492f3,feat: add finders keepers algorithm to full stack (#61332),2025-07-23T11:35:19Z,5,159,ilenia-magoni,freeCodeCamp,freeCodeCamp
-35ce56580779cf4548dc539ad01caa6dfc9ced46,fix(curriculum): update description and hints of lab-football-team-ca…,2025-07-23T03:47:12Z,1,12,dragon-slayer27,freeCodeCamp,freeCodeCamp
