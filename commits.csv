@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+5ff2e3816f980719126d37660d433e588913ee90,fix(curriculum): typo number_patter -> number_pattern (#63056),2025-10-25T18:22:51Z,1,2,st3lll4,freeCodeCamp,freeCodeCamp
+6e33189f3b6f8dfd08b7735e5b8acd84272c7c76,test(e2e): add tests for interactive editor toggle (#63043),2025-10-25T05:38:51Z,3,191,huyenltnguyen,freeCodeCamp,freeCodeCamp
+8b44491cc4e04a90fb9ec0c3e7ab046919d1d658,fix(curriculum): move parentheses inside the backticks (#63045),2025-10-25T04:09:04Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
+79c06257ac84c4d637e66324e240e6aa591e749d,feat(curriculum): added a short explanation on ES6 for isNan lesson (…,2025-10-25T04:08:51Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
+a8bbe93fa678c28c96db12939f49106af00a6559,refactor(client): remove unused playwright test labels (#63042),2025-10-25T04:02:58Z,2,6,pdtrang,freeCodeCamp,freeCodeCamp
+7348d346449a36174a264eb7a08158004687a348,fix(client): remove references of quiz from RDB review intro (#63046),2025-10-25T04:02:43Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
+72544f2b92c88d3b6b5e7c4e03b87559427d0772,test(e2e): scroll functionality for certification sections on /settin…,2025-10-25T03:50:51Z,1,21,huyenltnguyen,freeCodeCamp,freeCodeCamp
 380003c142285be31cdd278412bd538e1d9af23f,fix: reinstate i18n curriculum (#63036),2025-10-24T14:25:16Z,1,1,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 ae8417a467cef0828f403fd5c782d137874ed2ce,feat(client): add action row with interactive editor toggle to lectur…,2025-10-24T13:12:00Z,15,458,huyenltnguyen,freeCodeCamp,freeCodeCamp
 389353263470abfcb8c23a505db75a30b2d037ca,fix(client): completion epic missing structure bug (#63028),2025-10-24T11:50:03Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
@@ -748,11 +755,3 @@ df324144060c5066859711dcd2079c9784710299,fix(curriculum): add period to options 
 f25f38133a0ea2e2e5f1fa812ac0c91338221c86,feat(curriculum): add python classes and objects quiz (#61436),2025-07-28T02:54:28Z,1,344,Dario-DC,freeCodeCamp,freeCodeCamp
 a9d44cda57342838d94e7707be4edf0231e9700b,fix: remove duplicate title in HTML lecture (#61483),2025-07-27T09:27:19Z,1,2,Yuktha-Bodepudi,freeCodeCamp,freeCodeCamp
 f45b667553aa915be84d07f8d9a72f4d92593b3d,fix(curriculum): declare variables on a new line in fCC Authors Page …,2025-07-26T10:12:58Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-5a52d9ace429173fea63db5b7799d2cacdb24cb1,fix(curriculum): Update instruction of build a pyramid generator (#61…,2025-07-25T22:35:53Z,1,2,tanmaygautam11,freeCodeCamp,freeCodeCamp
-e26fa7d3aa1e94939285c9559b39e75efe533ca6,"feat: break down ""Working with Numbers, Booleans, and the Math Object…",2025-07-25T22:26:28Z,27,268,ilenia-magoni,freeCodeCamp,freeCodeCamp
-79f7b6c0a14d7b506c3f224edc1f30df05eb7a7e,feat(curriculum): add confirm string ending challenge (#61382),2025-07-25T22:17:42Z,5,156,zairahira,freeCodeCamp,freeCodeCamp
-e301bceb8c71a0511d292fa5c66277f91ab52b72,chore(curriculum): update assert methods in workshop magazine steps 7…,2025-07-25T18:18:14Z,6,20,Shanpreet,freeCodeCamp,freeCodeCamp
-18ba06ad3f2950aab271249d98a5ef030bb232ed,fix: updates to EC (#61464),2025-07-25T15:49:32Z,11,40,anastasiiauk,freeCodeCamp,freeCodeCamp
-78449230882ccd544ecb3271b395b9c5ca87dda1,feat(curriculum): add bash scripting lectures (#61452),2025-07-25T15:44:54Z,5,189,moT01,freeCodeCamp,freeCodeCamp
-25c544d62085719d82d9704c3a93ddd1bbcec86e,feat: add boolean checker lab to full stack (#61433),2025-07-25T14:06:21Z,5,139,ilenia-magoni,freeCodeCamp,freeCodeCamp
-3ee3a928a9d68fedbe5776a9cd44d26ae859af12,feat(curriculum): adding JS A11y note taking app (#61449),2025-07-25T09:49:49Z,17,1728,jdwilkin4,freeCodeCamp,freeCodeCamp
