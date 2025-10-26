@@ -1,14 +1,20 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87TZzOM,63008,Remove references of quiz from RBD review intro?,OPEN,2025-10-23T22:00:05Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87To0ZR,63040,Minor edit in DOM Manipulation Review,OPEN,2025-10-24T19:12:46Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ToeVP,63039,Remove unused playwright test labels,OPEN,2025-10-24T18:45:58Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TqKf8,63047,"Change ""Preview"" button to ""Terminal"" for Python lessons",OPEN,2025-10-24T21:21:17Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TxyLg,63064,Grammatical error in the beta Full Stack Developer Curriculum.,OPEN,2025-10-25T22:14:05Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TwNzw,63052,Typo in the Full Curriculum text,OPEN,2025-10-25T15:30:38Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TwqF1,63057,Misleading explanation of default width behavior in CSS Basics,OPEN,2025-10-25T17:25:55Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TwEys,63051,"""Build a Number Pattern Generator"" lab test hint typo",CLOSED,2025-10-25T14:50:27Z,2025-10-25T18:22:52Z,st3lll4,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Tp2vO,63044,infinte scroll example with load more not working,CLOSED,2025-10-24T20:45:29Z,2025-10-25T14:57:00Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TjZxe,63033,Accessibility issues in the demo of Drum Machine,OPEN,2025-10-24T12:34:45Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TTMoi,62971,[ui] exam token info is not pretty in day mode.,OPEN,2025-10-23T14:46:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Tped7,63041,missing info in lecture about link states,OPEN,2025-10-24T20:08:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Tp2vO,63044,infinte scroll example with load more not working,OPEN,2025-10-24T20:45:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87To0ZR,63040,Minor edit in DOM Manipulation Review,CLOSED,2025-10-24T19:12:46Z,2025-10-25T04:09:05Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Pq92X,62519,Provide short explanation on ES6 for isNan lesson,CLOSED,2025-10-04T21:23:15Z,2025-10-25T04:08:52Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ToeVP,63039,Remove unused playwright test labels,CLOSED,2025-10-24T18:45:58Z,2025-10-25T04:03:00Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TZzOM,63008,Remove references of quiz from RBD review intro?,CLOSED,2025-10-23T22:00:05Z,2025-10-25T04:02:44Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TqKf8,63047,"Change ""Preview"" button to ""Terminal"" for Python lessons",OPEN,2025-10-24T21:21:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TTQI5,62972,Update lessons that mention interacting with the interactive editor,OPEN,2025-10-23T14:49:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SQg4G,62889,Accessibility Issue - Calorie Counter Exercise,OPEN,2025-10-17T20:59:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Tg-jV,63029,about using selectors to talk about elements,OPEN,2025-10-24T10:03:53Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TjZxe,63033,Accessibility issues in the demo of Drum Machine,OPEN,2025-10-24T12:34:45Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SWDDs,62895,New interactive editor in lesson is not accessible for those using screen readers,CLOSED,2025-10-18T16:54:07Z,2025-10-24T13:12:02Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TiG5X,63032,"Bug Report: Toast notifications don’t auto-dismiss after actions (e.g., login, theme change)",CLOSED,2025-10-24T11:17:15Z,2025-10-24T13:10:29Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TTAhA,62970,Build a Curriculum Outline - Second submitting doesn't work in `IndependentLowerJaw`,CLOSED,2025-10-23T14:33:48Z,2025-10-24T11:50:04Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
@@ -39,7 +45,6 @@ I_kwDOAbI7X87R9rAf,62857,[bug] `attempt.result.percent` does not exist,CLOSED,20
 I_kwDOAbI7X87Pd85n,62479,"[feat] add ""copy"" and ""generate"" user token button to exam pages",CLOSED,2025-10-03T11:20:13Z,2025-10-24T08:22:16Z,ShaunSHamilton;moT01,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SKf7B,62874,Daily Challenge: Email Validator,OPEN,2025-10-17T12:27:24Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TVSzN,62973,Issue in the full-stack web-dev course,CLOSED,2025-10-23T16:37:14Z,2025-10-24T04:33:38Z,Preytorkamen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TTMoi,62971,[ui] exam token info is not pretty in day mode.,OPEN,2025-10-23T14:46:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TWt-j,62982,Minor edit to add a missing word,CLOSED,2025-10-23T18:07:45Z,2025-10-23T20:48:11Z,cuongpham24,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TF7_6,62937,Mistaken Sectioning in the Full Stack Developer Course,OPEN,2025-10-22T16:30:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TPPXE,62967,Using monaco for better a11y support in interactive editor,OPEN,2025-10-23T09:59:12Z,,,freeCodeCamp,freeCodeCamp
@@ -214,7 +219,6 @@ I_kwDOAbI7X87Qjz9F,62629,Add interactive examples to `what are attributes` lesso
 I_kwDOAbI7X87QjH6F,62626,Add interactive examples to intro HTML lesson,CLOSED,2025-10-09T12:00:48Z,2025-10-09T16:35:56Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87O84L3,62437,Form Validation - preventDefault,OPEN,2025-10-01T05:17:10Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Ne0C_,62338,fcc editor not checking on multiple browsers,CLOSED,2025-09-24T03:11:19Z,2025-10-09T12:01:21Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Pq92X,62519,Provide short explanation on ES6 for isNan lesson,OPEN,2025-10-04T21:23:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Qbqyd,62612,spaces and new lines  test-related issues in workshop-accessibility-quiz,CLOSED,2025-10-08T21:13:23Z,2025-10-09T10:54:11Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87QahaE,62606,Wrong step when running tests with `FCC_CHALLENGE_ID`,CLOSED,2025-10-08T19:22:19Z,2025-10-09T10:42:10Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87P-HxN,62559,Reorganize Settings page with sidebar navigation,OPEN,2025-10-06T21:24:58Z,,,freeCodeCamp,freeCodeCamp
@@ -610,8 +614,3 @@ I_kwDOAbI7X87Cr0vJ,61485,Add always-visible progress bar on the workshop page.,C
 I_kwDOAbI7X867b4ZW,60860,Declaring multiple variables in a single line fails - Build an fCC Authors Page (step 7),CLOSED,2025-06-13T20:08:12Z,2025-07-26T10:13:00Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87CkxHg,61472,[lab-blog-post-card]: Instruction to link CSS file in HTML head,CLOSED,2025-07-25T21:21:28Z,2025-07-26T10:05:31Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86skN31,59129,Markdown to HTML Converter - JavaScript,OPEN,2025-03-04T19:05:22Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86__otP,61297,pyramid generator lab doesn't accept a solution with irrelevant spaces,CLOSED,2025-07-11T01:02:15Z,2025-07-25T22:35:54Z,tanmaygautam11,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866vLLj,60806,chore: update tests to specific asserts tracking issue,CLOSED,2025-06-10T09:59:05Z,2025-07-25T18:20:08Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87AbEX0,61331,chore: update asserts in workshop magazin steps 70-75,CLOSED,2025-07-14T10:53:30Z,2025-07-25T18:18:15Z,Shanpreet;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87CgHXN,61468,Adding file structure overview to the README,CLOSED,2025-07-25T13:13:54Z,2025-07-25T16:44:27Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86Sm5Ov,55821,platformer game (js beta) step 84 and step 88 (and step 89) check is too strict,CLOSED,2024-08-11T16:40:16Z,2025-07-25T00:37:29Z,Supravisor,freeCodeCamp,freeCodeCamp
