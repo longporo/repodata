@@ -1,4 +1,5 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+418fd7525cb9515d3862b26ceb361f70436337a4,fix(curriculum): typo in css specificity (#63067),2025-10-26T11:31:08Z,1,2,jmferreirab,freeCodeCamp,freeCodeCamp
 5ff2e3816f980719126d37660d433e588913ee90,fix(curriculum): typo number_patter -> number_pattern (#63056),2025-10-25T18:22:51Z,1,2,st3lll4,freeCodeCamp,freeCodeCamp
 6e33189f3b6f8dfd08b7735e5b8acd84272c7c76,test(e2e): add tests for interactive editor toggle (#63043),2025-10-25T05:38:51Z,3,191,huyenltnguyen,freeCodeCamp,freeCodeCamp
 8b44491cc4e04a90fb9ec0c3e7ab046919d1d658,fix(curriculum): move parentheses inside the backticks (#63045),2025-10-25T04:09:04Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
@@ -754,4 +755,3 @@ df324144060c5066859711dcd2079c9784710299,fix(curriculum): add period to options 
 10c873364165cb5b6610e2b99d1bea7424a803ca,fix(api): check attempts and moderations records for available exams …,2025-07-28T10:05:28Z,3,325,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 f25f38133a0ea2e2e5f1fa812ac0c91338221c86,feat(curriculum): add python classes and objects quiz (#61436),2025-07-28T02:54:28Z,1,344,Dario-DC,freeCodeCamp,freeCodeCamp
 a9d44cda57342838d94e7707be4edf0231e9700b,fix: remove duplicate title in HTML lecture (#61483),2025-07-27T09:27:19Z,1,2,Yuktha-Bodepudi,freeCodeCamp,freeCodeCamp
-f45b667553aa915be84d07f8d9a72f4d92593b3d,fix(curriculum): declare variables on a new line in fCC Authors Page …,2025-07-26T10:12:58Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
