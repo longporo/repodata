@@ -1,7 +1,12 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87TxyLg,63064,Grammatical error in the beta Full Stack Developer Curriculum.,OPEN,2025-10-25T22:14:05Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TwNzw,63052,Typo in the Full Curriculum text,OPEN,2025-10-25T15:30:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TwqF1,63057,Misleading explanation of default width behavior in CSS Basics,OPEN,2025-10-25T17:25:55Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87T3alI,63075,Danielofosu.com,CLOSED,2025-10-26T22:40:15Z,2025-10-26T23:00:46Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TTQI5,62972,Update lessons that mention interacting with the interactive editor,OPEN,2025-10-23T14:49:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87T28Yb,63072,Character name changed in challenge,OPEN,2025-10-26T19:59:45Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TxyLg,63064,Grammatical error in the beta Full Stack Developer Curriculum.,OPEN,2025-10-25T22:14:05Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87T2Hlo,63070,"""Submit and Continue"" Button does not work, generates console error on MacOS (Multiple Browsers)",OPEN,2025-10-26T16:32:00Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87T1N9g,63069,New interactive code examples show distracting errors while editing the JavaScript,OPEN,2025-10-26T13:25:21Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TwNzw,63052,Typo in the Full Curriculum text,CLOSED,2025-10-25T15:30:38Z,2025-10-26T11:31:09Z,jmferreirab,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TwEys,63051,"""Build a Number Pattern Generator"" lab test hint typo",CLOSED,2025-10-25T14:50:27Z,2025-10-25T18:22:52Z,st3lll4,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Tp2vO,63044,infinte scroll example with load more not working,CLOSED,2025-10-24T20:45:29Z,2025-10-25T14:57:00Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TjZxe,63033,Accessibility issues in the demo of Drum Machine,OPEN,2025-10-24T12:34:45Z,,,freeCodeCamp,freeCodeCamp
@@ -12,7 +17,6 @@ I_kwDOAbI7X87Pq92X,62519,Provide short explanation on ES6 for isNan lesson,CLOSE
 I_kwDOAbI7X87ToeVP,63039,Remove unused playwright test labels,CLOSED,2025-10-24T18:45:58Z,2025-10-25T04:03:00Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TZzOM,63008,Remove references of quiz from RBD review intro?,CLOSED,2025-10-23T22:00:05Z,2025-10-25T04:02:44Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TqKf8,63047,"Change ""Preview"" button to ""Terminal"" for Python lessons",OPEN,2025-10-24T21:21:17Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TTQI5,62972,Update lessons that mention interacting with the interactive editor,OPEN,2025-10-23T14:49:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SQg4G,62889,Accessibility Issue - Calorie Counter Exercise,OPEN,2025-10-17T20:59:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Tg-jV,63029,about using selectors to talk about elements,OPEN,2025-10-24T10:03:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SWDDs,62895,New interactive editor in lesson is not accessible for those using screen readers,CLOSED,2025-10-18T16:54:07Z,2025-10-24T13:12:02Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -610,7 +614,3 @@ I_kwDOAbI7X87C8-hN,61516,Remove videos from code editors lecture block,CLOSED,20
 I_kwDOAbI7X87C8Y8k,61495,Remove videos from Understanding HTML Attributes lecture block,CLOSED,2025-07-28T16:36:22Z,2025-07-28T19:02:11Z,alexgoldsmith,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C1GHu,61491,Please give us a language toggle,CLOSED,2025-07-28T08:17:04Z,2025-07-28T11:36:19Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Cp1jp,61477,remove duplicate title from What Role Does HTML Play on the Web? lecture,CLOSED,2025-07-26T14:30:48Z,2025-07-27T09:27:20Z,Yuktha-Bodepudi,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Cr0vJ,61485,Add always-visible progress bar on the workshop page.,CLOSED,2025-07-26T23:17:38Z,2025-07-26T23:18:28Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X867b4ZW,60860,Declaring multiple variables in a single line fails - Build an fCC Authors Page (step 7),CLOSED,2025-06-13T20:08:12Z,2025-07-26T10:13:00Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87CkxHg,61472,[lab-blog-post-card]: Instruction to link CSS file in HTML head,CLOSED,2025-07-25T21:21:28Z,2025-07-26T10:05:31Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86skN31,59129,Markdown to HTML Converter - JavaScript,OPEN,2025-03-04T19:05:22Z,,,freeCodeCamp,freeCodeCamp
