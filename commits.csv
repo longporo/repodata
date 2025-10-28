@@ -1,4 +1,21 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+cbc7ac08c0bbebfce476ae21c9cccaa59a743314,"feat(curriculum): add interactive examples to ""How Do You Work with E…",2025-10-27T21:47:53Z,1,27,pdtrang,freeCodeCamp,freeCodeCamp
+ba0e5cd6218e4fe7fb131bae26a934bb7b07d7ce,"feat(curriculum): add interactive examples to ""What Are Some Common F…",2025-10-27T21:04:50Z,1,619,pdtrang,freeCodeCamp,freeCodeCamp
+2417b329e544739556a382f8ea455c84237b0a1f,feat(curriculum): add interactive examples to What Is Fixed and Stick…,2025-10-27T21:04:39Z,1,59,pdtrang,freeCodeCamp,freeCodeCamp
+6b7a9758dd250c0408832a95202327b7c2c538cb,"feat(curriculum): add interactive examples to ""What Is Relative Posit…",2025-10-27T21:04:24Z,1,39,pdtrang,freeCodeCamp,freeCodeCamp
+0fa3ecd7a42ccf761d8316136f4d34c455087cb8,"feat(curriculum): add interactive examples to ""What Is the text-shado…",2025-10-27T21:04:12Z,1,52,pdtrang,freeCodeCamp,freeCodeCamp
+9e7e71df70f146d798bde92b7f99988f90254262,feat(curriculum): add interactive examples to What Are Common Use Cas…,2025-10-27T21:03:57Z,1,38,pdtrang,freeCodeCamp,freeCodeCamp
+3e1882dbdef45953edf3a3c1cdce4931b0ac1dc0,feat(curriculum): add interactive examples to What Are Some Tools to …,2025-10-27T21:03:39Z,1,11,pdtrang,freeCodeCamp,freeCodeCamp
+4a3465008a8c8f7fe8ecff2054fe844a48b145ea,feat(curriculum): Add interactive examples to What Are Best Practices…,2025-10-27T21:03:00Z,1,39,pdtrang,freeCodeCamp,freeCodeCamp
+c0d983d538e1af39a26b60c6c1b3617db51d9b51,"feat(curriculum): add interactive examples to ""What Is Absolute Posit…",2025-10-27T20:58:38Z,1,17,pdtrang,freeCodeCamp,freeCodeCamp
+3cdf2f1349f4a2ccbd72de6860f11f67a882c344,"feat(curriculum): add interactive examples to ""What Is CSS Flexbox, a…",2025-10-27T20:57:19Z,1,156,pdtrang,freeCodeCamp,freeCodeCamp
+7c0539b95967899b3c5c2a964e85425a1c7010fa,"feat(curriculum): add interactive examples to ""What Are Font Families…",2025-10-27T20:55:25Z,1,46,pdtrang,freeCodeCamp,freeCodeCamp
+17d41c2690c6b2ae30917b1d895472665ba69d68,fix(curriculum): add edge case tests for 'Implement a Sorted Index Fi…,2025-10-27T15:19:24Z,1,16,baibhavmandal,freeCodeCamp,freeCodeCamp
+2d1b18f7e4e7e21f44b3c4c625ff8fd0661008ed,feat(curriculum): Add blocks to Chinese curriculum first 5 chapters (…,2025-10-27T14:13:13Z,121,3482,miyaliu666,freeCodeCamp,freeCodeCamp
+26976b1d81332c2e038f18391a3170db32e8ecbc,feat(curriculum): add content to the 4 new certs (#62659),2025-10-27T13:43:04Z,10,1796,huyenltnguyen,freeCodeCamp,freeCodeCamp
+6bab524f2c6ea356ae16675d84e7349774c7a576,"chore(i18n,client): processed translations (#63082)",2025-10-27T12:58:12Z,20,270,camperbot,freeCodeCamp,freeCodeCamp
+2e26c997d7d0e88631837b74aa3059feae9e43a2,fix(curriculum): improve default width behavior explanation (#63063),2025-10-27T10:24:53Z,3,6,jmferreirab,freeCodeCamp,freeCodeCamp
+a04eeaa9f2285ce6ee00746bd32c13a2c8e91235,"fix(learn): Rename ""Preview"" button to ""Terminal"" for Python lessons …",2025-10-27T09:32:56Z,3,19,JatinMehta007,freeCodeCamp,freeCodeCamp
 418fd7525cb9515d3862b26ceb361f70436337a4,fix(curriculum): typo in css specificity (#63067),2025-10-26T11:31:08Z,1,2,jmferreirab,freeCodeCamp,freeCodeCamp
 5ff2e3816f980719126d37660d433e588913ee90,fix(curriculum): typo number_patter -> number_pattern (#63056),2025-10-25T18:22:51Z,1,2,st3lll4,freeCodeCamp,freeCodeCamp
 6e33189f3b6f8dfd08b7735e5b8acd84272c7c76,test(e2e): add tests for interactive editor toggle (#63043),2025-10-25T05:38:51Z,3,191,huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -754,4 +771,3 @@ bde1e6f81b5482b4a111c6becba5ece41bf6d4e5,feat(client): add daily challenges (#60
 df324144060c5066859711dcd2079c9784710299,fix(curriculum): add period to options in Troubleshoot on GitHub (#61…,2025-07-28T10:54:57Z,1,6,Supravisor,freeCodeCamp,freeCodeCamp
 10c873364165cb5b6610e2b99d1bea7424a803ca,fix(api): check attempts and moderations records for available exams …,2025-07-28T10:05:28Z,3,325,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 f25f38133a0ea2e2e5f1fa812ac0c91338221c86,feat(curriculum): add python classes and objects quiz (#61436),2025-07-28T02:54:28Z,1,344,Dario-DC,freeCodeCamp,freeCodeCamp
-a9d44cda57342838d94e7707be4edf0231e9700b,fix: remove duplicate title in HTML lecture (#61483),2025-07-27T09:27:19Z,1,2,Yuktha-Bodepudi,freeCodeCamp,freeCodeCamp
