@@ -1,31 +1,59 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87TwqF1,63057,Misleading explanation of default width behavior in CSS Basics,OPEN,2025-10-25T17:25:55Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87T3alI,63075,Danielofosu.com,CLOSED,2025-10-26T22:40:15Z,2025-10-26T23:00:46Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TTQI5,62972,Update lessons that mention interacting with the interactive editor,OPEN,2025-10-23T14:49:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UIgtT,63121,"Instructions for ""Build an Inventory Management Program"" are unclear",OPEN,2025-10-27T23:13:04Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GdcHm,61859,☂️ Umbrella Issue updating lessons with interactive code examples ☂️,OPEN,2025-08-18T07:52:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UEYXW,63090,Add interactive examples to How Do You Work with External Fonts Like Font Squirrel and Google Fonts? lesson,CLOSED,2025-10-27T17:48:56Z,2025-10-27T21:47:55Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UEuLy,63095,"Change a question for the ""Pseudo Classes and Elements"" lesson and quiz about the `:target-within` pseudo-class",OPEN,2025-10-27T18:14:12Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UD1uk,63088,"Add interactive examples to What Are Some Common Flex Properties, and How Do They Work? lesson",CLOSED,2025-10-27T17:09:22Z,2025-10-27T21:04:52Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UFV1v,63104,"Add interactive examples to What Is Fixed and Sticky Positioning, and How Does It Differ from Absolute Positioning? lesson",CLOSED,2025-10-27T18:54:19Z,2025-10-27T21:04:40Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UE_6V,63099,"Add interactive examples to What Is Relative Positioning, and How Does This Differ from the Default Static Positioning? lesson",CLOSED,2025-10-27T18:33:49Z,2025-10-27T21:04:26Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UEZGN,63091,"Add interactive examples to What Is the text-shadow Property, and How Does It Work? lesson",CLOSED,2025-10-27T17:49:51Z,2025-10-27T21:04:13Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UE8ic,63097,"Add interactive examples to What Are Common Use Cases for Using Floats, and How Do They Work? lesson",CLOSED,2025-10-27T18:30:43Z,2025-10-27T21:03:59Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UEgwg,63092,Add interactive examples to What Are Some Tools to Check for Good Color Contrast on Sites? lesson,CLOSED,2025-10-27T17:58:55Z,2025-10-27T21:03:41Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UEmSb,63094,Add interactive examples to What Are Best Practices for Hiding Content So It Doesn't Become Inaccessible? lesson,CLOSED,2025-10-27T18:05:31Z,2025-10-27T21:03:01Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UFDUF,63101,"Add interactive examples to What Is Absolute Positioning, and How Does It Work? lesson",CLOSED,2025-10-27T18:36:52Z,2025-10-27T20:58:40Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UCv1B,63086,"Add interactive examples to What Is CSS Flexbox, and When Should You Use It? lesson",CLOSED,2025-10-27T15:59:41Z,2025-10-27T20:57:21Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UEDch,63089,Add interactive examples to What Are Font Families and How Do They Work? lesson,CLOSED,2025-10-27T17:24:20Z,2025-10-27T20:55:27Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UHBAg,63119,"Add interactive examples to What Is the @Property Rule, and How Does It Work with Fallbacks? lesson",OPEN,2025-10-27T20:51:59Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UGyFX,63118,"Add interactive examples to What Are CSS Custom Properties, and How Do They Work? lesson",OPEN,2025-10-27T20:33:06Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UGXwD,63115,Add interactive examples to What Is the Mobile First Approach in Responsive Web Design? lesson,OPEN,2025-10-27T20:08:34Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UGUCA,63114,"Add interactive examples to What Are Media Breakpoints, and What Are Common Breakpoints in Modern Design? lesson",OPEN,2025-10-27T20:04:42Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UGSHI,63113,"Add interactive examples to How Do Media Queries Work, and What Are Some Common Media Types and Features? lesson",OPEN,2025-10-27T20:02:45Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UGFRX,63112,"Add interactive examples to What Is Responsive Web Design, and What Is Its Relationship to Tools Like CSS Grid and Flexbox? lesson",OPEN,2025-10-27T19:49:26Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UF3GO,63108,Add interactive examples to How to Use the Attribute Selector to Target Ordered List Elements with the type Attribute? lesson,OPEN,2025-10-27T19:33:14Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UFzlK,63107,Add interactive examples to How to Use the Attribute Selector to Target Elements with the lang and data-lang Attributes? lesson,OPEN,2025-10-27T19:28:56Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UFuyd,63106,"Add interactive examples to What Is the Attribute Selector, and How Can It Be Used to Target Links with the href and title Attributes? lesson",OPEN,2025-10-27T19:23:17Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UFaWN,63105,"Add interactive examples to What Is the Z-Index Property, and How Does It Work to Control the Stacking of Positioned Elements? lesson",OPEN,2025-10-27T19:00:22Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TqKf8,63047,"Change ""Preview"" button to ""Terminal"" for Python lessons",OPEN,2025-10-24T21:21:17Z,,JatinMehta007,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TF7_6,62937,Mistaken Sectioning in the Full Stack Developer Course,OPEN,2025-10-22T16:30:17Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87R-LkN,62861,hint message that error is present does not appear,OPEN,2025-10-16T17:05:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Tped7,63041,missing info in lecture about link states,OPEN,2025-10-24T20:08:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87T1N9g,63069,New interactive code examples show distracting errors while editing the JavaScript,OPEN,2025-10-26T13:25:21Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UDHQK,63087,I cannot update command via update on Proxmox,CLOSED,2025-10-27T16:22:31Z,2025-10-27T16:24:54Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Rv_nX,62837,"Suggestion: Add edge case tests for ""Implement a Sorted Index Finder"" lab",CLOSED,2025-10-15T17:51:29Z,2025-10-27T15:19:26Z,baibhavmandal,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X867wFxE,60895,Create new language icons for Spanish and Chinese,OPEN,2025-06-16T13:05:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TwqF1,63057,Misleading explanation of default width behavior in CSS Basics,CLOSED,2025-10-25T17:25:55Z,2025-10-27T10:24:54Z,jmferreirab,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Tg-jV,63029,about using selectors to talk about elements,OPEN,2025-10-24T10:03:53Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87T3alI,63075,Danielofosu.com,CLOSED,2025-10-26T22:40:15Z,2025-10-26T23:00:46Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87T28Yb,63072,Character name changed in challenge,OPEN,2025-10-26T19:59:45Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TxyLg,63064,Grammatical error in the beta Full Stack Developer Curriculum.,OPEN,2025-10-25T22:14:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87T2Hlo,63070,"""Submit and Continue"" Button does not work, generates console error on MacOS (Multiple Browsers)",OPEN,2025-10-26T16:32:00Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87T1N9g,63069,New interactive code examples show distracting errors while editing the JavaScript,OPEN,2025-10-26T13:25:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TwNzw,63052,Typo in the Full Curriculum text,CLOSED,2025-10-25T15:30:38Z,2025-10-26T11:31:09Z,jmferreirab,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TwEys,63051,"""Build a Number Pattern Generator"" lab test hint typo",CLOSED,2025-10-25T14:50:27Z,2025-10-25T18:22:52Z,st3lll4,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Tp2vO,63044,infinte scroll example with load more not working,CLOSED,2025-10-24T20:45:29Z,2025-10-25T14:57:00Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TjZxe,63033,Accessibility issues in the demo of Drum Machine,OPEN,2025-10-24T12:34:45Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TTMoi,62971,[ui] exam token info is not pretty in day mode.,OPEN,2025-10-23T14:46:07Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Tped7,63041,missing info in lecture about link states,OPEN,2025-10-24T20:08:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87To0ZR,63040,Minor edit in DOM Manipulation Review,CLOSED,2025-10-24T19:12:46Z,2025-10-25T04:09:05Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Pq92X,62519,Provide short explanation on ES6 for isNan lesson,CLOSED,2025-10-04T21:23:15Z,2025-10-25T04:08:52Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ToeVP,63039,Remove unused playwright test labels,CLOSED,2025-10-24T18:45:58Z,2025-10-25T04:03:00Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TZzOM,63008,Remove references of quiz from RBD review intro?,CLOSED,2025-10-23T22:00:05Z,2025-10-25T04:02:44Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TqKf8,63047,"Change ""Preview"" button to ""Terminal"" for Python lessons",OPEN,2025-10-24T21:21:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SQg4G,62889,Accessibility Issue - Calorie Counter Exercise,OPEN,2025-10-17T20:59:49Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Tg-jV,63029,about using selectors to talk about elements,OPEN,2025-10-24T10:03:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SWDDs,62895,New interactive editor in lesson is not accessible for those using screen readers,CLOSED,2025-10-18T16:54:07Z,2025-10-24T13:12:02Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TiG5X,63032,"Bug Report: Toast notifications don’t auto-dismiss after actions (e.g., login, theme change)",CLOSED,2025-10-24T11:17:15Z,2025-10-24T13:10:29Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TTAhA,62970,Build a Curriculum Outline - Second submitting doesn't work in `IndependentLowerJaw`,CLOSED,2025-10-23T14:33:48Z,2025-10-24T11:50:04Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ThMV2,63030,October 24 Daily Coding Challenge,CLOSED,2025-10-24T10:17:07Z,2025-10-24T10:25:58Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TWZYE,62981,Add interactive examples to Pseudo-elements lesson,CLOSED,2025-10-23T17:44:26Z,2025-10-24T09:26:57Z,cuongpham24,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TWUO2,62980,Add interactive examples to Functional Pseudo-classes lesson,CLOSED,2025-10-23T17:39:39Z,2025-10-24T09:26:28Z,cuongpham24,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87GdcHm,61859,☂️ Umbrella Issue updating lessons with interactive code examples ☂️,OPEN,2025-08-18T07:52:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Taw6g,63014,Add interactive examples to css filter lesson,CLOSED,2025-10-23T23:47:28Z,2025-10-24T09:26:04Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TaqU3,63012,Add interactive examples to css reset lesson,CLOSED,2025-10-23T23:35:28Z,2025-10-24T09:25:40Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TaGMB,63011,Add interactive examples to box sizing lesson,CLOSED,2025-10-23T22:32:00Z,2025-10-24T09:25:14Z,cuongpham24,freeCodeCamp,freeCodeCamp
@@ -50,7 +78,6 @@ I_kwDOAbI7X87Pd85n,62479,"[feat] add ""copy"" and ""generate"" user token button
 I_kwDOAbI7X87SKf7B,62874,Daily Challenge: Email Validator,OPEN,2025-10-17T12:27:24Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TVSzN,62973,Issue in the full-stack web-dev course,CLOSED,2025-10-23T16:37:14Z,2025-10-24T04:33:38Z,Preytorkamen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TWt-j,62982,Minor edit to add a missing word,CLOSED,2025-10-23T18:07:45Z,2025-10-23T20:48:11Z,cuongpham24,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TF7_6,62937,Mistaken Sectioning in the Full Stack Developer Course,OPEN,2025-10-22T16:30:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TPPXE,62967,Using monaco for better a11y support in interactive editor,OPEN,2025-10-23T09:59:12Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87R-352,62862,"When Is the alt Attribute Needed, and What Are Some Examples of Good Alt Text? referes to something not shown",CLOSED,2025-10-16T17:57:22Z,2025-10-23T17:06:02Z,AyushSharma72,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TD1rP,62933,Daily Challenge breadcrumb doesn't work,OPEN,2025-10-22T13:58:49Z,,,freeCodeCamp,freeCodeCamp
@@ -94,13 +121,11 @@ MDU6SXNzdWU1Mzg4NTQ5NQ==,11,Grab larger Twitter image?,CLOSED,2015-01-09T16:25:2
 I_kwDOAbI7X87Sa9P_,62899,Inconsistent text in message,CLOSED,2025-10-19T17:41:16Z,2025-10-20T08:33:54Z,Akash9541,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864wrks,60589,Make editor easier to use,OPEN,2025-05-29T09:41:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Q-b0C,62733,Python visualization tool 'memory_graph',OPEN,2025-10-11T15:50:49Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Rv_nX,62837,"Suggestion: Add edge case tests for ""Implement a Sorted Index Finder"" lab",OPEN,2025-10-15T17:51:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87RNdss,62751,Add interactive examples to anatomy of css lesson,CLOSED,2025-10-13T12:55:12Z,2025-10-19T15:27:25Z,likhith5697,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87NPoNp,62320,"Bug: Tracking possible deprecated challenge IDs, FCC Classroom Integration Questions",CLOSED,2025-09-23T02:48:12Z,2025-10-18T13:38:56Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LeJDl,62199,Spread operator (...) behaves incorrectly on array empty slots,OPEN,2025-09-13T15:17:30Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LKvav,62164,Missing content related to example site and inspector tools,CLOSED,2025-09-12T02:12:56Z,2025-10-18T13:34:28Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87QvWHf,62663,Coding challenge 60 (October 9): Vague description,OPEN,2025-10-10T09:27:42Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87R-LkN,62861,hint message that error is present does not appear,OPEN,2025-10-16T17:05:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87RCQAS,62742,Login page not responsive below 400px width,CLOSED,2025-10-12T11:43:30Z,2025-10-18T07:12:04Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Q5q5J,62721,Add interactive examples to aria-describedby lesson,CLOSED,2025-10-10T23:39:17Z,2025-10-17T22:58:26Z,huyenltnguyen;pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87RNDwG,62748,Add interactive examples to accessible keyboards lesson,CLOSED,2025-10-13T12:25:26Z,2025-10-17T22:57:49Z,huyenltnguyen;pdtrang,freeCodeCamp,freeCodeCamp
@@ -613,4 +638,3 @@ I_kwDOAbI7X87C9tuO,61538,Remove videos from React fundamentals lecture blocks,CL
 I_kwDOAbI7X87C8-hN,61516,Remove videos from code editors lecture block,CLOSED,2025-07-28T17:28:04Z,2025-07-28T21:59:46Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8Y8k,61495,Remove videos from Understanding HTML Attributes lecture block,CLOSED,2025-07-28T16:36:22Z,2025-07-28T19:02:11Z,alexgoldsmith,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C1GHu,61491,Please give us a language toggle,CLOSED,2025-07-28T08:17:04Z,2025-07-28T11:36:19Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Cp1jp,61477,remove duplicate title from What Role Does HTML Play on the Web? lecture,CLOSED,2025-07-26T14:30:48Z,2025-07-27T09:27:20Z,Yuktha-Bodepudi,freeCodeCamp,freeCodeCamp
