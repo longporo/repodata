@@ -1,4 +1,52 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+7242d973766639a8654278c1dc7d888bbfd5cbc6,fix(curriculum): grammar fixes in lectures (#63206),2025-10-28T23:24:02Z,2,4,sachin-dul,freeCodeCamp,freeCodeCamp
+9b39665c97ac82dcba8a6f0a305cd0619f7d9be0,feat(curriculum): Add interactive examples  to What Is String Concate…,2025-10-28T23:07:45Z,1,29,clarencepenz,freeCodeCamp,freeCodeCamp
+918f14173bbc433798ff53244c6c9e0ccbfc46d5,feat(curriculum): Add interactive examples  to What Is the prompt() M…,2025-10-28T22:13:57Z,1,44,clarencepenz,freeCodeCamp,freeCodeCamp
+ed5deb483c0713226899124e78113c1d845817fe,feat(curriculum): Add interactive examples  to How Do You Create a Ne…,2025-10-28T22:12:11Z,1,25,clarencepenz,freeCodeCamp,freeCodeCamp
+06c1a1fb4945047d0e00eee8e9821d68f12766dc,feat(curriculum): Add interactive examples  to What Is Bracket Notati…,2025-10-28T22:07:35Z,1,20,clarencepenz,freeCodeCamp,freeCodeCamp
+64a3e5af19766a727a93b668e9a61da64306165a,feat(curriculum): Add interactive examples  to How Does the typeof Op…,2025-10-28T22:02:38Z,1,14,clarencepenz,freeCodeCamp,freeCodeCamp
+9513e5d8784b72d8e69ddbebebc768f454339744,refactor(curriculum): update tests to use new helper (#63071),2025-10-28T21:58:21Z,8,112,ilenia-magoni,freeCodeCamp,freeCodeCamp
+565b919a9a5122743fcbb115eb78fe82cac9aa4a,"feat(curriculum): Add interactive examples  to What Is ASCII, and How…",2025-10-28T21:57:25Z,1,26,clarencepenz,freeCodeCamp,freeCodeCamp
+0c8914818cea6c5f83955db4239462d856d63fe4,chore(deps): update github actions (#63209),2025-10-28T21:55:53Z,13,106,renovate[bot],freeCodeCamp,freeCodeCamp
+84c393e026fc5f5d4229f5ed1f05dafda7e359ee,feat(curriculum): Add interactive examples  to How Can You Find the P…,2025-10-28T21:54:42Z,1,20,clarencepenz,freeCodeCamp,freeCodeCamp
+7e31be36d4416761495b4e1ab6d073a82edab94e,feat(curriculum): Add interactive examples  to How Can You Test if a …,2025-10-28T21:53:23Z,1,16,clarencepenz,freeCodeCamp,freeCodeCamp
+27cdddb486cb87dd5227c7afa6c2190df06e8478,feat(curriculum): Add interactive examples  to How Can You Extract a …,2025-10-28T21:51:19Z,1,26,clarencepenz,freeCodeCamp,freeCodeCamp
+7338688829162446061e043cb2e49185ada25ae5,feat(curriculum): Add interactive examples  to How to Use the Attribu…,2025-10-28T21:48:41Z,1,30,clarencepenz,freeCodeCamp,freeCodeCamp
+4a42e47e9ceb921633b793efaef3d723f2e64daf,chore: temporarily block E2E runs on main branch pushes (#63207),2025-10-28T21:45:35Z,1,8,raisedadead,freeCodeCamp,freeCodeCamp
+0a656397ac3f88839babc6693d36aff8aecd5b63,chore: enable renovate only on GHA and Docker (#63208),2025-10-28T21:45:14Z,1,3,raisedadead,freeCodeCamp,freeCodeCamp
+ae2c0afc897dfd67c2e72161fd31ce8d1122db44,feat(curriculum): Add interactive examples  to What Is console.log Us…,2025-10-28T21:44:25Z,1,32,clarencepenz,freeCodeCamp,freeCodeCamp
+1ac90f0e227b585a838352a36e970042219d611f,"chore(i18n,learn): update i18n-curriculum submodule (#63204)",2025-10-28T21:29:28Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+ae0a140c0c589aa0dd15558ec343fa686ed16150,refactor(api): clean up test dbs when tests finish (#63149),2025-10-28T21:14:56Z,3,17,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+77ea476f12c0af21c9331f93dd00946ecf207fb6,feat: show python syntax-error message if a NameError occurs (#63085),2025-10-28T20:20:54Z,1,6,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+7652afbe0f637b908793d8de22ee4f08ffd3ca1b,"fix(curriculum): correct character name in task 68, 69, 70, 71 (#63187)",2025-10-28T20:01:36Z,4,26,pdtrang,freeCodeCamp,freeCodeCamp
+3841cfb9631c9104d8ab9e3baa011b1ad86d9a71,feat(curriculum): Add interactive examples  to What Is a String in Ja…,2025-10-28T19:59:15Z,1,14,clarencepenz,freeCodeCamp,freeCodeCamp
+014d31f9242670784a1750ddaa7a6a710c13a3d5,feat(curriculum): Add interactive examples to What Is the minmax Func…,2025-10-28T19:24:31Z,1,11,clarencepenz,freeCodeCamp,freeCodeCamp
+527d0f874667040152405cf5f7e64891609d807c,feat(curriculum): Add interactive examples to What Is the Difference …,2025-10-28T19:23:04Z,1,31,clarencepenz,freeCodeCamp,freeCodeCamp
+50234a240ec771a8ad8691fcfd3a7d35479668b2,feat(curriculum): Add interactive examples to How Can You Repeat Trac…,2025-10-28T19:03:45Z,1,51,clarencepenz,freeCodeCamp,freeCodeCamp
+5d3115764f1a6d2d277a7b4f6c06893071b6739c,feat(curriculum): Add interactive examples to let and const lesson (#…,2025-10-28T19:01:24Z,1,20,clarencepenz,freeCodeCamp,freeCodeCamp
+f589ef901747e41476a98eb3ccdfb29b97c2d650,"feat(curriculum): Add interactive examples to What Are Variables, and…",2025-10-28T18:57:56Z,1,71,clarencepenz,freeCodeCamp,freeCodeCamp
+23bb0ce704d3b5242d9854086cbad924bfa21d14,feat(curriculum): Add interactive examples to How Can You Create Flex…,2025-10-28T18:57:37Z,1,38,clarencepenz,freeCodeCamp,freeCodeCamp
+00dbf472536c38f1821a91193d6820c1c047aa44,feat(curriculum): Add interactive examples to What Is CSS Grid and Ho…,2025-10-28T18:54:15Z,1,38,clarencepenz,freeCodeCamp,freeCodeCamp
+a1625e597245e5e5f5116dd53ee41a1cf1d5d79b,"refactor(curriculum,client): rename a2 exam block to en-a2-certificat…",2025-10-28T18:53:08Z,6,12,huyenltnguyen,freeCodeCamp,freeCodeCamp
+da0901ff21e39293f1a46f3c61b6d9dd7fe3dd08,feat(curriculum): Add interactive examples to How Can You Create Gaps…,2025-10-28T18:52:51Z,1,44,clarencepenz,freeCodeCamp,freeCodeCamp
+e3d5b0ea4b0205abbdb2ff52537e1b8a2037f1ef,"feat(curriculum): Add interactive examples to What Is JavaScript, and…",2025-10-28T18:51:29Z,1,8,clarencepenz,freeCodeCamp,freeCodeCamp
+ece9a98ae1254d82a4d2fde9f61446dd5d8ff6e5,feat(curriculum): Add interactive examples to How Can You Position It…,2025-10-28T18:41:01Z,1,57,clarencepenz,freeCodeCamp,freeCodeCamp
+3f9345a10773d88ca244b018356a70455e465898,feat(curriculum): add new fsd superblock (#63093),2025-10-28T18:37:11Z,12,147,moT01,freeCodeCamp,freeCodeCamp
+b6a816260227d0462338deb1ec6bfff0ec5a5d1f,feat(curriculum): Update JS data types lesson (#63168),2025-10-28T18:12:49Z,1,17,clarencepenz,freeCodeCamp,freeCodeCamp
+ec64b8b5311a4be1db7d9452907fe07f6556eb46,feat(curriculum): Add interactive examples to How Do the grid-column …,2025-10-28T18:08:34Z,1,139,clarencepenz,freeCodeCamp,freeCodeCamp
+27632d799b37f5c3740c2a3218c6dd4de5f30b6a,feat(curriculum): Add interactive examples to What Are CSS Animations…,2025-10-28T17:57:17Z,1,42,clarencepenz,freeCodeCamp,freeCodeCamp
+03a526a62a8c8a8607e004c82d73d70ab6d4ae0e,feat(curriculum): add player interface lab (#62665),2025-10-28T16:00:49Z,5,413,Dario-DC,freeCodeCamp,freeCodeCamp
+ff2c26eb00d358bdab5ab7789fcb92f8b8a20966,feat(curriculum): Add interactive examples to What Is the Attribute S…,2025-10-28T14:38:08Z,1,82,shashankdangi,freeCodeCamp,freeCodeCamp
+eb649ff99cc267347d9e097177849ed47e5af33e,feat: add unmet exam prerequisites (#63131),2025-10-28T13:44:16Z,6,106,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+2d04d110564fa972b6fa79898f7252066ed0513d,chore(deps): update pino (#63142),2025-10-28T13:43:50Z,6,210,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+1146b74eb9612f02f724e0b08b95527b2ac7b4c0,"feat(curriculum): add interactive examples to ""What Is the Z-Index Pr…",2025-10-28T10:17:16Z,1,15,pdtrang,freeCodeCamp,freeCodeCamp
+8fe91b907b322f34c5da047c2ba34524a0816014,feat(curriculum): Add interactive examples to How Do Media Queries Wo…,2025-10-28T10:14:43Z,1,16,kannan-ravi,freeCodeCamp,freeCodeCamp
+867eabe7254245136d14ebe673b7b81ef891f24a,feat(curriculum): add interactive examples to 'What Are Media Breakpo…,2025-10-28T10:13:50Z,1,14,kannan-ravi,freeCodeCamp,freeCodeCamp
+e630647ee0acb99548613beeea69ed6088e773b9,feat(curriculum): added interactive examples to 'What Is the Mobile F…,2025-10-28T10:13:37Z,1,20,kannan-ravi,freeCodeCamp,freeCodeCamp
+ac345ad54372d4c3fd80f934a89ac0f424485121,"feat(curriculum): add interactive examples to ""What Are CSS Custom Pr…",2025-10-28T10:10:59Z,1,136,pdtrang,freeCodeCamp,freeCodeCamp
+83ac47190a973ff372ef78628fdfcdb55ef9c61d,"feat(curriculum): add interactive examples to ""What Is the @Property …",2025-10-28T10:08:46Z,1,54,pdtrang,freeCodeCamp,freeCodeCamp
+86320b2ad81d2da3a0b7b83c1e1b0d359672f24e,feat(curriculum): added interactive examples to 'What Is Responsive W…,2025-10-28T10:04:16Z,1,15,kannan-ravi,freeCodeCamp,freeCodeCamp
+72bce43c71323f98d349886d015e847d16a4e7a1,feat(curriculum): added interactive examples to How to Use the Attrib…,2025-10-28T10:02:00Z,1,26,kannan-ravi,freeCodeCamp,freeCodeCamp
 cbc7ac08c0bbebfce476ae21c9cccaa59a743314,"feat(curriculum): add interactive examples to ""How Do You Work with E…",2025-10-27T21:47:53Z,1,27,pdtrang,freeCodeCamp,freeCodeCamp
 ba0e5cd6218e4fe7fb131bae26a934bb7b07d7ce,"feat(curriculum): add interactive examples to ""What Are Some Common F…",2025-10-27T21:04:50Z,1,619,pdtrang,freeCodeCamp,freeCodeCamp
 2417b329e544739556a382f8ea455c84237b0a1f,feat(curriculum): add interactive examples to What Is Fixed and Stick…,2025-10-27T21:04:39Z,1,59,pdtrang,freeCodeCamp,freeCodeCamp
@@ -762,12 +810,3 @@ ccaf532b6e3e8758dc413318ae4b3be9c38b1c5d,fix(curriculum): remove video from Abso
 3eb80d4574bcadb21502cab69d673d891e791a28,fix(curriculum): remove videos from two array lecture blocks (#61554),2025-07-29T02:50:44Z,10,94,StuartMosquera,freeCodeCamp,freeCodeCamp
 c54e0cc8963b47d01fa04979078da3c2179db3ef,chore(curriculum): remove video from Regular Expressions lectures (#6…,2025-07-29T02:41:41Z,7,62,Supravisor,freeCodeCamp,freeCodeCamp
 3d76f10574987e412fa4f8da2d73b6f684d7c8b7,fix(curriculum): remove videos from React fundamentals lecture blocks…,2025-07-29T02:38:29Z,10,120,liammaguire1,freeCodeCamp,freeCodeCamp
-aec594b7c38a130ea9b1de05ce7f52d2e8b33e0b,chore(curriculum): remove video from Code Editors lectures (#61547),2025-07-28T21:59:45Z,5,47,Supravisor,freeCodeCamp,freeCodeCamp
-8115fcb43ea971d756b372f9122ced2b87a2dc2a,fix(curriculum): remove videos and references to videos from Understa…,2025-07-28T19:02:10Z,2,31,alexgoldsmith,freeCodeCamp,freeCodeCamp
-bde1e6f81b5482b4a111c6becba5ece41bf6d4e5,feat(client): add daily challenges (#60867),2025-07-28T18:08:10Z,43,1721,moT01,freeCodeCamp,freeCodeCamp
-2cdd62b00b0fcf4783031eab12a4644bdde4239b,"chore(i18n,learn): update i18n-curriculum submodule (#61493)",2025-07-28T16:04:32Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-4a44093562f646395771d969171d4bc7c7d82626,"chore(i18n,client): processed translations (#61492)",2025-07-28T13:44:12Z,10,750,camperbot,freeCodeCamp,freeCodeCamp
-3e1da8f3fbc3492175babf5d4f3c8f6c970d5eaf,refactor(client): store session user in dedicated key (#59954),2025-07-28T12:55:14Z,30,938,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-df324144060c5066859711dcd2079c9784710299,fix(curriculum): add period to options in Troubleshoot on GitHub (#61…,2025-07-28T10:54:57Z,1,6,Supravisor,freeCodeCamp,freeCodeCamp
-10c873364165cb5b6610e2b99d1bea7424a803ca,fix(api): check attempts and moderations records for available exams …,2025-07-28T10:05:28Z,3,325,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-f25f38133a0ea2e2e5f1fa812ac0c91338221c86,feat(curriculum): add python classes and objects quiz (#61436),2025-07-28T02:54:28Z,1,344,Dario-DC,freeCodeCamp,freeCodeCamp
