@@ -1,4 +1,40 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+f49e321bd998498f65d14e60085a52077f534bf9,fix(curriculum): add blockLabel to game settings workshop (#63291),2025-10-29T21:22:29Z,1,2,moT01,freeCodeCamp,freeCodeCamp
+3bf7ab6fed63c5bd0ea5e067225b51aca2ab466c,feat(curriculum): styling checkboxes workshop (#62607),2025-10-29T19:33:57Z,21,1783,Timiro,freeCodeCamp,freeCodeCamp
+7a2c79955cba49b68cab8178c004015ee195b1ef,feat(curriculum): add accessible audio controller workshop to FSD cer…,2025-10-29T19:28:25Z,11,563,dragon-slayer27,freeCodeCamp,freeCodeCamp
+fc3eac4cf4c28c644a551d787d09187314bc6c84,feat(curriculum): Add interactive examples  to What Is the Math Objec…,2025-10-29T19:21:45Z,1,57,clarencepenz,freeCodeCamp,freeCodeCamp
+26546710ba6e51e0e4d05f9f5d3d7bae43f977bb,feat(curriculum): Add interactive examples  to What Are Binary Logica…,2025-10-29T19:16:51Z,1,30,clarencepenz,freeCodeCamp,freeCodeCamp
+040d4c7fa38a0be88a6bc75e98f011a0c78d17c1,feat(curriculum): Add interactive examples  to What Are Conditional S…,2025-10-29T19:08:49Z,1,27,clarencepenz,freeCodeCamp,freeCodeCamp
+038c1f4314c82c6a1855db123e2273f6904dd9cf,fix(a11y): add aria-label to mathematical formulas (#63251),2025-10-29T18:51:28Z,1,8,ilenia-magoni,freeCodeCamp,freeCodeCamp
+47f85184360cfa23c98f9bfa41f1f7df3323a5a5,feat(curriculum): Add interactive examples  to What Are Comparison Op…,2025-10-29T18:31:11Z,1,18,clarencepenz,freeCodeCamp,freeCodeCamp
+691b9c2ee8e7d1d190a3eb14b51a77ea5383200a,"feat(curriculum): Add interactive examples  to What Are Booleans, and…",2025-10-29T18:24:34Z,1,26,clarencepenz,freeCodeCamp,freeCodeCamp
+da2ef67f13412c7aab3e7b6d8595cd08c37e6fa9,feat(curriculum): Add interactive examples  to  What Are Compound Ass…,2025-10-29T18:23:37Z,1,30,clarencepenz,freeCodeCamp,freeCodeCamp
+26bc0b2b3ddac653c7aa7fc1be96035a5e41231d,feat(curriculum): Add interactive examples  to  How Do the Increment …,2025-10-29T18:22:39Z,1,18,clarencepenz,freeCodeCamp,freeCodeCamp
+371d14256ea1deccc26e462ea02a9e745faba849,feat(curriculum): Add interactive examples  to  How Does Operator Pre…,2025-10-29T18:21:35Z,1,26,clarencepenz,freeCodeCamp,freeCodeCamp
+3115d38faf14b490ea19709dc5de076d50130841,feat(curriculum): Add interactive examples  to  What Happens When You…,2025-10-29T18:20:25Z,1,26,clarencepenz,freeCodeCamp,freeCodeCamp
+624ead6752a2a1cbaa9a1249bbd623a1e0920284,feat(curriculum): Add interactive examples  to What Are Bitwise Opera…,2025-10-29T18:19:45Z,1,48,clarencepenz,freeCodeCamp,freeCodeCamp
+f81ca655232545bbcf3c8089a74efdb4267f40fe,feat(curriculum): Add interactive examples  to  What Are the Differen…,2025-10-29T18:19:21Z,1,42,clarencepenz,freeCodeCamp,freeCodeCamp
+bd40b32c22a71b982bef77c400f13e413db34f26,feat(curriculum): Add interactive examples  to What Are Unary Operato…,2025-10-29T18:18:20Z,1,26,clarencepenz,freeCodeCamp,freeCodeCamp
+55f3631cd94ec91162a02243092dc69dc5f2b8e4,feat(curriculum): Add interactive examples  to  number types lesson (…,2025-10-29T18:18:01Z,1,26,clarencepenz,freeCodeCamp,freeCodeCamp
+d002589aa493013539d84b35cd9b22884060d4ac,feat(curriculum): Add interactive examples  to How Can You Repeat a S…,2025-10-29T18:15:36Z,1,20,clarencepenz,freeCodeCamp,freeCodeCamp
+3b0c6c517269ea96e76c7a699b9fbf1a25e95422,feat(curriculum): Add interactive examples  to How Can You Replace Pa…,2025-10-29T18:14:34Z,1,26,clarencepenz,freeCodeCamp,freeCodeCamp
+f3631ac6486119e1f5f47d19fb88b04a27467d55,feat(curriculum): Add interactive examples  to How Can You Trim White…,2025-10-29T18:13:30Z,1,25,clarencepenz,freeCodeCamp,freeCodeCamp
+4464c123a50484ded5cf20be121b4d4b2ac747d5,feat(curriculum): Add interactive examples  to How Can You Change the…,2025-10-29T18:10:15Z,1,14,clarencepenz,freeCodeCamp,freeCodeCamp
+fdbd33a9a7fb5fea0570f307c4df15b3e56ab018,feat(curriculum): add string inspector workshop to FSD cert (#62574),2025-10-29T17:59:47Z,16,831,Teklez,freeCodeCamp,freeCodeCamp
+ce109e5dff86d71ff62c43ec69445f12abbf164b,feat(client): flash when can claim cert (#62594),2025-10-29T17:26:52Z,7,96,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+d4e6f3ac8d06aba8510288bdc0dd846fcff10719,"chore(i18n,learn): update i18n-curriculum submodule (#63222)",2025-10-29T17:13:23Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+e85aeb770464f8fbb03c189b1001819aeadc21ac,feat(curriculum): add Blockquotes and Quote Workshop to FSD cert (#62…,2025-10-29T17:05:27Z,17,1107,l3onhard,freeCodeCamp,freeCodeCamp
+fdb74bea05676058e0db9d0928d8b6079e3c5fe5,feat(curriculum): add attribute selector recap to CSS review (#62524),2025-10-29T16:59:06Z,1,46,DipakHalkude,freeCodeCamp,freeCodeCamp
+9231224b2249aa17a01edfdf87f75aee213aee41,fix(curriculum): Corrected question and its solution (#62876),2025-10-29T16:20:26Z,1,51,Ansh-Kathil,freeCodeCamp,freeCodeCamp
+26ca8fee4b1ef4484773e2476aa1bb656224077f,feat: add attempt statuses (#63035),2025-10-29T14:20:02Z,6,155,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+03c775ac2dd23498189ab029d8de3ecce90d7b55,feat/ab test landing google auth (#62538),2025-10-29T13:55:08Z,14,704,ahmaxed,freeCodeCamp,freeCodeCamp
+2bd3ec1db88a96b9d984bdb1c4a94075b60ff6f5,fix(curriculum) : Fixed Wrong Comment of Backreferences Example (#63219),2025-10-29T13:10:47Z,1,2,hiteshdotdev,freeCodeCamp,freeCodeCamp
+41ddf7eff0eceaaccae18ac160b6d5a69a0e9f80,"chore(i18n,client): processed translations (#63220)",2025-10-29T12:58:40Z,20,18238,camperbot,freeCodeCamp,freeCodeCamp
+36947395b4f66b5b70c5fcf67061a51ffd354329,feat(curriculum): add game character stats lab (#62243),2025-10-29T11:41:43Z,5,608,ihechikara,freeCodeCamp,freeCodeCamp
+c503861b6839fcf9bb87c1ff7a6f4a9d2689fced,feat(curriculum): add example to element skipper lab (#63079),2025-10-29T10:20:35Z,1,4,ilenia-magoni,freeCodeCamp,freeCodeCamp
+d7268ed64a07986483c4514bfd68d473ce71d24a,feat(client): icons for Chinese and Spanish super blocks (#63205),2025-10-29T03:09:27Z,8,497,huyenltnguyen,freeCodeCamp,freeCodeCamp
+02995191f7a7f754b07e8138bbbe85e76309ca94,fix(curriculum): use more recent target for TS compilation (#63144),2025-10-29T03:08:57Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+3b0a6a022b33423e9b2b5a19b0ec0eb037c4933b,test(client): add unit tests for theme initialization logic (#63212),2025-10-29T03:08:31Z,2,121,huyenltnguyen,freeCodeCamp,freeCodeCamp
 7242d973766639a8654278c1dc7d888bbfd5cbc6,fix(curriculum): grammar fixes in lectures (#63206),2025-10-28T23:24:02Z,2,4,sachin-dul,freeCodeCamp,freeCodeCamp
 9b39665c97ac82dcba8a6f0a305cd0619f7d9be0,feat(curriculum): Add interactive examples  to What Is String Concate…,2025-10-28T23:07:45Z,1,29,clarencepenz,freeCodeCamp,freeCodeCamp
 918f14173bbc433798ff53244c6c9e0ccbfc46d5,feat(curriculum): Add interactive examples  to What Is the prompt() M…,2025-10-28T22:13:57Z,1,44,clarencepenz,freeCodeCamp,freeCodeCamp
@@ -784,29 +820,3 @@ a9b91d41c2c398161eb35c1a6a1f76044f0723be,"fix(curriculum): remove video from Map
 478f84a7a61ce4bd75ab1169f253114ce7eec859,"fix(curriculum): remove video from Date, Audio and Video lectures (#6…",2025-07-30T03:53:16Z,8,84,Supravisor,freeCodeCamp,freeCodeCamp
 e54fd8b1ef9c6f4c83a3b362b3bb08d83dd0b7a1,chore(curriculum): remove video from ARIA and Accessible Media Elemen…,2025-07-30T03:53:09Z,13,111,Supravisor,freeCodeCamp,freeCodeCamp
 e87517fdffff71fe032cdf9666c7408049a28fc4,"fix(curriculum): remove video from React State, Hooks, and Routing le…",2025-07-30T03:52:09Z,10,114,Supravisor,freeCodeCamp,freeCodeCamp
-9cde018cc9114c9a8e6911cbef694dca96e277b3,chore(curriculum): rm vids from styling forms & box model lectures (#…,2025-07-30T01:25:34Z,10,87,hbar1st,freeCodeCamp,freeCodeCamp
-59d2454d4d8e884b061c39ab23ef605377a6777f,"fix(curriculum): remove video from Lists, Links, Background and Borde…",2025-07-30T01:24:29Z,8,74,Supravisor,freeCodeCamp,freeCodeCamp
-325259197d7e0ebb3392c2914515725b073e547d,fix(curriculum): remove video from Attribute Selectors and Responsive…,2025-07-30T01:17:27Z,7,73,Supravisor,freeCodeCamp,freeCodeCamp
-35082c72a60041abf6abfd028ca01f418360fc1b,fix(curriculum): remove video from Pseudo Classes and Elements lectur…,2025-07-30T01:13:33Z,7,71,Supravisor,freeCodeCamp,freeCodeCamp
-fd8cc7d34d0e4fec264763aac0f8201eaa7d5696,fix(curriculum): remove videos from CSS specificity lecture block (#6…,2025-07-29T18:04:00Z,8,81,StuartMosquera,freeCodeCamp,freeCodeCamp
-d32f06dd1f4bc0ad28fd504b931d114cd333b2c9,chore(curriculum): rm vids from what is css lectures (#61577),2025-07-29T17:31:25Z,10,94,hbar1st,freeCodeCamp,freeCodeCamp
-49d30f54b57484adfb0c1273683824f46fa68818,chore(curriculum): rm vids from diff. types of testing lectures (#61572),2025-07-29T16:44:30Z,15,307,hbar1st,freeCodeCamp,freeCodeCamp
-6f4ce424564d411008d0d4b2740716f54a9fc104,chore(curriculum): rm vids from css colors lectures (#61576),2025-07-29T16:41:58Z,6,58,hbar1st,freeCodeCamp,freeCodeCamp
-e24565b6d10156bf6e1ea18ffe75b60ff6acf32e,chore(curriculum): rm vids from classes & recursion lectures (#61573),2025-07-29T16:40:21Z,5,45,hbar1st,freeCodeCamp,freeCodeCamp
-8c30401a2d7279cbe200334d97eb5e87e367613f,chore(curriculum): rm vids for css positioning lectures (#61575),2025-07-29T16:38:44Z,5,45,hbar1st,freeCodeCamp,freeCodeCamp
-97e4b650e405dded8f0c75d5faa077dde36c9c6c,fix(curriculum): fix typo in string ending checker lab (#61574),2025-07-29T16:31:43Z,1,4,ftoucch,freeCodeCamp,freeCodeCamp
-ca3f88b022a230db53c066c9b3521045b58c1cdb,chore(curriculum): remove videos from var and modules lectures (#61561),2025-07-29T16:17:45Z,3,29,hbar1st,freeCodeCamp,freeCodeCamp
-fc39b154c9157bc5d7f2ad5bb4dc0cbf761c39a9,fix(curriculum): remove videos from working with loops lecture block …,2025-07-29T15:57:37Z,5,55,StuartMosquera,freeCodeCamp,freeCodeCamp
-ad7b0748d9a5bc32bab01604c0e2a688cbac441c,fix(api): return usernameDisplay (#61567),2025-07-29T15:04:31Z,6,19,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-8ab474d4c01d092ab33e5208e38747650ec198b9,feat(curriculum): working with rdbs lectures (#61450),2025-07-29T13:39:35Z,12,1777,moT01,freeCodeCamp,freeCodeCamp
-5b66377ae7dcb18fe30d888be0538ceca1d485d8,feat(curriculm): add medical data validator workshop (#60926),2025-07-29T13:33:29Z,48,5139,Dario-DC,freeCodeCamp,freeCodeCamp
-5c4a83615f59e8ad492c7e3d13b4fba7076841b5,fix(curriculum): clean up misleading lines and formatting in CSS revi…,2025-07-29T13:23:01Z,4,31,VishalTelukula,freeCodeCamp,freeCodeCamp
-7d64725813a281b0917716b86e8ea61b97606a22,fix(curriculum): make book inventory demo responsive for mobile (#61202),2025-07-29T10:32:34Z,1,168,huyenltnguyen,freeCodeCamp,freeCodeCamp
-f662b64a37530280f3b58a8342d2a559fed450da,fix(api): use lowercase email address (#61490),2025-07-29T07:46:50Z,3,52,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-8da2da879c215c8f621aea0f6cb9ba0ed090f8a2,chore(curriculum): remove blank line in regex lecture (#61559),2025-07-29T06:41:16Z,1,1,a2937,freeCodeCamp,freeCodeCamp
-f2d5aad54e6843678c8b580389ef811f924ecf20,fix(curriculum): remove video from Semantic HTML videos (#61557),2025-07-29T03:56:53Z,13,153,Supravisor,freeCodeCamp,freeCodeCamp
-3b76b9c3b9c9716c0af93b8fdc8ec7de06937cd1,fix(curriculum): remove video from Computer Basics lectures (#61546),2025-07-29T02:59:18Z,14,160,Supravisor,freeCodeCamp,freeCodeCamp
-ccaf532b6e3e8758dc413318ae4b3be9c38b1c5d,fix(curriculum): remove video from Absolute and Relative Units lectur…,2025-07-29T02:55:21Z,5,73,Supravisor,freeCodeCamp,freeCodeCamp
-3eb80d4574bcadb21502cab69d673d891e791a28,fix(curriculum): remove videos from two array lecture blocks (#61554),2025-07-29T02:50:44Z,10,94,StuartMosquera,freeCodeCamp,freeCodeCamp
-c54e0cc8963b47d01fa04979078da3c2179db3ef,chore(curriculum): remove video from Regular Expressions lectures (#6…,2025-07-29T02:41:41Z,7,62,Supravisor,freeCodeCamp,freeCodeCamp
-3d76f10574987e412fa4f8da2d73b6f684d7c8b7,fix(curriculum): remove videos from React fundamentals lecture blocks…,2025-07-29T02:38:29Z,10,120,liammaguire1,freeCodeCamp,freeCodeCamp
