@@ -1,4 +1,43 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+9caeb30b141411c4e2298832ec9934ab106aa9d8,fix(client): Correct B1 English super block title (#63408),2025-10-31T21:58:56Z,2,4,pdtrang,freeCodeCamp,freeCodeCamp
+a9df33f650b772cb788c1730a453ac28ee78a022,feat(curriculum): add language tag for A1 and A2 Spanish (#63315),2025-10-31T20:45:25Z,75,75,Sembauke,freeCodeCamp,freeCodeCamp
+efce3f38049915ce2595c4d7dabbaa53ed3bf308,feat(curriculum): Add interactive examples to Sort method lesson (#63…,2025-10-31T20:30:26Z,1,14,Giftea,freeCodeCamp,freeCodeCamp
+0e6dd568fb0e58cb84395de521b1142b83f7bd1c,feat(curriculum): Add interactive examples to Method chaining lesson …,2025-10-31T20:29:34Z,1,10,Giftea,freeCodeCamp,freeCodeCamp
+0ef0992514bdee32d4e719dc8af6228faee4a2b0, feat(curriculum): Add interactive examples to Reduce method lesson (…,2025-10-31T20:29:07Z,1,6,Giftea,freeCodeCamp,freeCodeCamp
+86c334b81f6f27eb969e12fad2ac9ef9d00bb13d,feat(curriculum):  Add interactive examples to Filter method lesson (…,2025-10-31T20:26:55Z,1,16,Giftea,freeCodeCamp,freeCodeCamp
+188b721b62a7723be24145ffcf2981ed6ac8d221,feat(curriculum): Add interactive examples to Higher order functions …,2025-10-31T20:25:59Z,1,16,Giftea,freeCodeCamp,freeCodeCamp
+ac4385c9329d51ff5844bf9a463c9808f8c1c550,feat(curriculum): Add interactive examples to Callbacks and forEach m…,2025-10-31T20:25:29Z,1,14,Giftea,freeCodeCamp,freeCodeCamp
+7675b19f01250fa78bbce15f1dfb38d2226b7db8,feat(curriculum): Add interactive examples to Every and some methods …,2025-10-31T20:24:59Z,1,10,Giftea,freeCodeCamp,freeCodeCamp
+b07b75ba0ebcb44755d9f22f3153e2d006679466,feat(curriculum): Add interactive examples to Map method lesson (#63390),2025-10-31T19:32:54Z,1,18,Giftea,freeCodeCamp,freeCodeCamp
+c09b40797c7193beb8582d5e966aa8fcd609ea73,feat(curriculum): Add interactive examples to rest parameters lesson …,2025-10-31T19:32:27Z,1,18,Giftea,freeCodeCamp,freeCodeCamp
+962aa571331b24cfa6d9b257b9b1e1638511da6e,feat(curriculum): Add interactive examples to toString() Method lesso…,2025-10-31T19:31:53Z,1,18,clarencepenz,freeCodeCamp,freeCodeCamp
+4df9bbbcdc340de7e760d6d2a75127d5453a8b44,feat(curriculum): Add interactive examples to Number Constructor less…,2025-10-31T19:29:55Z,1,34,clarencepenz,freeCodeCamp,freeCodeCamp
+50efcaaad47078a3c24a97061dcebb045ceb401f,feat(curriculum): Add interactive examples to How Do You Get the Leng…,2025-10-31T19:28:49Z,1,24,clarencepenz,freeCodeCamp,freeCodeCamp
+b771044e9f40e8096b036f1cfe3af0566d2ee2f6,feat(curriculum): Add interactive examples to closures lesson (#63380),2025-10-31T19:28:14Z,1,30,clarencepenz,freeCodeCamp,freeCodeCamp
+a53407d7528ef4635ae02cc16f88cbfa1952a987,feat(curriculum): Add interactive examples to var keyword lesson (#63…,2025-10-31T19:27:29Z,1,12,clarencepenz,freeCodeCamp,freeCodeCamp
+409bb41d2c794148512abad14a8e44a499ff09f2,feat(curriculum): Add interactive examples  to What Is Hoisting (#63377),2025-10-31T19:26:20Z,1,14,clarencepenz,freeCodeCamp,freeCodeCamp
+011dcb04b7fe646dd893ba0718e1ead45141c1ff,feat(curriculum): Add interactive examples  to What is the arguments …,2025-10-31T19:24:49Z,1,22,clarencepenz,freeCodeCamp,freeCodeCamp
+db86461ef25774a9466bdef1c7ec6455e06570e8,feat(curriculum): Add interactive examples to String object lesson  (…,2025-10-31T19:24:00Z,1,6,clarencepenz,freeCodeCamp,freeCodeCamp
+5bb6ec3b05bca77c82834f5d3a4e95cb6a804369,fix(curriculum): Incorrect margin collapsing example value in curricu…,2025-10-31T18:51:04Z,1,2,fortii2,freeCodeCamp,freeCodeCamp
+65e1e9978bcf51f03fb5f01fbb29224eca314afc,fix(curriculum): daily challenge 82 description (#63366),2025-10-31T17:16:45Z,2,4,moT01,freeCodeCamp,freeCodeCamp
+a7bc2ae3489f42b70f2197b34342c2e42ad779e7,feat(curriculum): update certification intro articles (#62556),2025-10-31T14:53:31Z,3,14,RafaelDavisH,freeCodeCamp,freeCodeCamp
+05aa8242d995bae1ab870157f0821f3b30c7810e,feat(curriculum): add A1 module 2 profession introductions (#62465),2025-10-31T14:49:22Z,12,1089,RafaelDavisH,freeCodeCamp,freeCodeCamp
+214df90d9d3b6e38fc58cca84622a7e7b9005a43,refactor(client): change donation alerts to use div instead of Callou…,2025-10-31T14:15:31Z,4,191,huyenltnguyen,freeCodeCamp,freeCodeCamp
+fed347908d9c989a48ca9e5ded21860f89e917ba,fix(curriculum): correct selector for ::backdrop pseudo-element (#63362),2025-10-31T14:01:20Z,1,2,Yyash64,freeCodeCamp,freeCodeCamp
+83a534773914f9970779373c2208c9c0f7c33479,fix(curriculum): correct spelling error  (#63363),2025-10-31T13:57:30Z,1,2,Giftea,freeCodeCamp,freeCodeCamp
+39f2b3ab1901695879778e5ebf5b167ea6702bf0,feat(curriculum) add type coercion debug lab (#62930),2025-10-31T12:49:20Z,5,211,larymak,freeCodeCamp,freeCodeCamp
+ae615ba4c520140e87b7c9ee4934731b8c488084,fix(client): only fetch exam data if signed in (#63356),2025-10-31T11:21:27Z,1,10,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+4584d51834ae5764d57ed0d879bbdde63bdb1e69,feat(curriculum): add language tag for A2 and B1 English (#63316),2025-10-31T10:47:12Z,5638,5638,Sembauke,freeCodeCamp,freeCodeCamp
+22beb5997fd80b8411faf76bb66f16e511ffb0fc,"fix(curriculum) : Typo in ""The var Keyword and Hoisting"" (#63357)",2025-10-31T09:31:59Z,1,4,VinayDevv,freeCodeCamp,freeCodeCamp
+bc658f44be282164c19db6ef1d0b8a216e98d5cc,feat(curriculum): Add interactive examples  to What Is the Optional C…,2025-10-31T09:18:19Z,1,16,clarencepenz,freeCodeCamp,freeCodeCamp
+1cd4372bced0844f8f231ae0f474185cabe4dcdd,feat(curriculum): Add interactive examples to How Do JSON.parse() & J…,2025-10-31T09:17:13Z,1,34,Giftea,freeCodeCamp,freeCodeCamp
+489a87874f21d2ddce1625610a7cd31841fd813b,feat(curriculum): Add interactive examples  to What Is the For...in L…,2025-10-31T09:15:58Z,1,24,clarencepenz,freeCodeCamp,freeCodeCamp
+d94cec7a3e5febafb745bb91d38d23e239a7f5e2,feat(curriculum): Add interactive examples to What Are the Break and …,2025-10-31T09:14:41Z,1,15,Giftea,freeCodeCamp,freeCodeCamp
+f5aec47e4cf2bc90f2cc260e7e6bfcbfc80e8e52,"feat(curriculum): Add interactive examples  to What Is a While Loop, …",2025-10-31T09:13:04Z,1,46,clarencepenz,freeCodeCamp,freeCodeCamp
+24573d2620a92aca0904daa0a1e1a43e867110ed,feat(curriculum): Add interactive examples  to How Does the For...of …,2025-10-31T09:11:33Z,1,14,clarencepenz,freeCodeCamp,freeCodeCamp
+f0abd7cb7bceb3b66fb8f42dfa63a58a63867645,feat(curriculum): Add interactive examples to How Do Loops and Iterat…,2025-10-31T09:09:05Z,1,6,Giftea,freeCodeCamp,freeCodeCamp
+bcc863ab454afe299405909d2de5055cac276eea,feat(curriculum): Add interactive examples to What Is Object Destruct…,2025-10-31T09:07:46Z,1,22,Giftea,freeCodeCamp,freeCodeCamp
+afeab1889ea609366578c8031c85a5c73c4ce145,fix(client): minor improvements to exam download page (#62847),2025-10-31T06:57:54Z,2,153,huyenltnguyen,freeCodeCamp,freeCodeCamp
 222d0bdfd75a2cb3c13b6fb06ffe520507f287f4,feat(curriculum): Add new Spanish audios from the CDN (#63353),2025-10-30T23:47:06Z,1,9,nieldakarla,freeCodeCamp,freeCodeCamp
 92ea792fc2d5a8bf6353f973bacba8657faae69a,chore(curriculum): update content (#63325),2025-10-30T21:59:00Z,4,49,moT01,freeCodeCamp,freeCodeCamp
 3c240e89c286b5fe12891ead38c2731484e2e15f,feat(client): add disabled blocks growthbook feature (#63322),2025-10-30T17:52:15Z,2,45,ShaunSHamilton,freeCodeCamp,freeCodeCamp
@@ -814,15 +853,3 @@ a79319c71f05b4ca00324772197d3cbd249a2508,feat(curriculum): add user configuratio
 ec51058f815747c8091acf6ee884fb1434f12de6,feat: add relational databases review (#59307),2025-08-01T14:51:33Z,1,380,ilenia-magoni,freeCodeCamp,freeCodeCamp
 e0719007719535b08243d484598b19873338d99f,"fix(curriculum): remove videos and references from forms, tables, and…",2025-08-01T10:00:43Z,7,129,alexgoldsmith,freeCodeCamp,freeCodeCamp
 cd85e85c3eca821b954d8a703ec46b606d697cdb,fix(curriculum): remove stray backtick from greeting card instruction…,2025-08-01T07:57:47Z,1,2,vibemeistert,freeCodeCamp,freeCodeCamp
-05e3f5416c0e549b5d6b21f875860f2bf5e9c39f,chore(curriculum): rm vids from JS strings lectures (#61627),2025-08-01T00:40:48Z,12,116,hbar1st,freeCodeCamp,freeCodeCamp
-d69ee7af2a26deff0e561d1ef7a3a65983d8358b,chore(curriculum): rm vids from performance lectures (#61628),2025-07-31T19:02:02Z,14,130,hbar1st,freeCodeCamp,freeCodeCamp
-d6b5369a3b0f15e9d76beb127e8216fff14887a4,fix(curriculum): incorrect order for svg workshop (#61626),2025-07-31T17:25:34Z,1,6,jdwilkin4,freeCodeCamp,freeCodeCamp
-4a245316a2514dd4998cdb53da4ea6e997833222,feat(curriculum): create a heart icon workshop (#61262),2025-07-31T15:49:56Z,10,399,a2937,freeCodeCamp,freeCodeCamp
-76c9fa9d48c68f0b64f860972db53743d1cfa01c,feat(api): add attempts routes to user (#61362),2025-07-31T14:54:29Z,2,24,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-55fbe40152a368b6a7d507a3459ee18f585c09ea,fix(api): more informative auth errors (#61607),2025-07-31T14:13:39Z,1,10,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-500342b24fda7e1a54864fcef4b21aca1cec1d94,fix(api): shuffle generated exam answers each time (#61352),2025-07-31T13:50:59Z,4,98,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-bc0b47047f06f2093c5eb9cb1d7e9cf64557c9bf,fix(curriculum): remove videos from working with links lecture block …,2025-07-31T11:53:22Z,4,42,stimmer860,freeCodeCamp,freeCodeCamp
-af3b7104fe04c1289b017896113c1e7b71dabcf9,"fix(curriculum): remove videos for React data fetching, routing and d…",2025-07-31T10:59:25Z,11,153,doylese,freeCodeCamp,freeCodeCamp
-a55b0c2983e47bfe469c8b9872fca96640f6d8d0,fix(curriculum): remove videos and transcripts from a11y and accessib…,2025-07-31T09:30:25Z,10,104,VishalTelukula,freeCodeCamp,freeCodeCamp
-ee18d22c7032c0a930980ec662bf061b4ffbd564,chore(curriculum): rm vids from js functions lectures (#61615),2025-07-31T07:12:21Z,3,37,hbar1st,freeCodeCamp,freeCodeCamp
-3bd06fe458a93c773591f64e09cd0221c5dfbf45,fix(curriculum): remove all instances of lecture videos from English …,2025-07-31T03:14:20Z,1,160,StuartMosquera,freeCodeCamp,freeCodeCamp
