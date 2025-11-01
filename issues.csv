@@ -1,22 +1,46 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87P6-rG,62555,Make curriculum subject headings anchor linkable for direct sharing,OPEN,2025-10-06T17:34:23Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87U8obY,63351,Docs: Correct incorrect margin collapsing example value in curriculum,OPEN,2025-10-30T22:13:53Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87U8lvL,63350,Docs: Mismatch between filter example code and description (“multi-filter” class),OPEN,2025-10-30T22:09:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VLV0d,63407,Correct B1 English super block title,CLOSED,2025-10-31T21:17:03Z,2025-10-31T21:58:57Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VLctI,63409,Incorrect explanation of nullish coalescing operator in lesson,OPEN,2025-10-31T21:25:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GdcHm,61859,☂️ Umbrella Issue updating lessons with interactive code examples ☂️,OPEN,2025-08-18T07:52:50Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87U8VnB,63345,"Add interactive examples to What Is Object Destructuring, and How Does It Work lesson",OPEN,2025-10-30T21:34:35Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87U8Uru,63342,Add interactive examples to How Do Loops and Iteration Work in JavaScript lesson,OPEN,2025-10-30T21:32:37Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87U8UFe,63340,"Add interactive examples to How Does the For...of Loop Work, and When Should You Use It lesson",OPEN,2025-10-30T21:31:19Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87U8TGm,63339,"Add interactive examples to What Is a While Loop, and How Does It Differ from the Do...while Loop lesson",OPEN,2025-10-30T21:29:43Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87U8PiO,63336,Add interactive examples to What Are the Break and Continue Statements Used for in Loops lesson,OPEN,2025-10-30T21:24:04Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87U8ORo,63335,"Add interactive examples to What Is the For...in Loop, and When Should You Use It lesson",OPEN,2025-10-30T21:22:15Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87U8JUE,63333,Add interactive examples to How Do JSON.parse() and JSON.stringify() Work lesson,OPEN,2025-10-30T21:15:22Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VI-Cq,63401,Add interactive examples to Sort method lesson,CLOSED,2025-10-31T17:59:40Z,2025-10-31T20:30:27Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VI82O,63398,Add interactive examples to Method chaining lesson,CLOSED,2025-10-31T17:57:35Z,2025-10-31T20:29:36Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VI8Ou,63397,Add interactive examples to Reduce method lesson,CLOSED,2025-10-31T17:56:29Z,2025-10-31T20:29:08Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VI7dy,63396,Add interactive examples to Filter method lesson,CLOSED,2025-10-31T17:55:11Z,2025-10-31T20:26:56Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VIuA5,63388,Add interactive examples to Higher order functions lesson,CLOSED,2025-10-31T17:36:50Z,2025-10-31T20:26:00Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VItXH,63387,Add interactive examples to Callbacks and forEach method lesson,CLOSED,2025-10-31T17:35:36Z,2025-10-31T20:25:31Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VIseC,63386,Add interactive examples to Every and some methods lesson,CLOSED,2025-10-31T17:34:15Z,2025-10-31T20:25:00Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VIu2L,63389,Add interactive examples to Map method lesson,CLOSED,2025-10-31T17:38:14Z,2025-10-31T19:32:56Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VIYs3,63384,Add interactive examples to rest parameters lesson,CLOSED,2025-10-31T17:07:29Z,2025-10-31T19:32:28Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VIMiK,63378,Add interactive examples to toString() Method lesson,CLOSED,2025-10-31T16:50:09Z,2025-10-31T19:31:55Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VIKQp,63375,Add interactive examples to Number Constructor lesson,CLOSED,2025-10-31T16:47:29Z,2025-10-31T19:29:57Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VIIGa,63373,Add interactive examples to How Do You Get the Length for an Array lesson,CLOSED,2025-10-31T16:44:45Z,2025-10-31T19:28:50Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VICKN,63372,Add interactive examples to closures lesson,CLOSED,2025-10-31T16:37:11Z,2025-10-31T19:28:15Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VIAZz,63371,Add interactive examples to var keyword lesson,CLOSED,2025-10-31T16:35:21Z,2025-10-31T19:27:30Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VH_e4,63370,Add interactive examples to hoisting lesson,CLOSED,2025-10-31T16:34:12Z,2025-10-31T19:26:21Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VH6cv,63369,Add interactive examples to arguments object lesson,CLOSED,2025-10-31T16:29:27Z,2025-10-31T19:24:51Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VH4pu,63368,Add interactive examples to String object lesson,CLOSED,2025-10-31T16:27:09Z,2025-10-31T19:24:01Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87U8obY,63351,Incorrect margin collapsing example value in curriculum,CLOSED,2025-10-30T22:13:53Z,2025-10-31T18:51:06Z,fortii2,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TTQI5,62972,Update lessons that mention interacting with the interactive editor,OPEN,2025-10-23T14:49:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VCS28,63359,incorrect use of `::backdrop` in a lesson,CLOSED,2025-10-31T09:41:03Z,2025-10-31T14:01:22Z,Yyash64,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87U8lvL,63350,Mismatch between filter example code and description (“multi-filter” class),OPEN,2025-10-30T22:09:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VCMRW,63358,replace language indicator,OPEN,2025-10-31T09:34:05Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87U7md1,63329,"Typo in ""The var Keyword and Hoisting""",CLOSED,2025-10-30T20:28:23Z,2025-10-31T09:32:01Z,VinayDevv,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87U78iU,63330,"Add interactive examples to What Is the Optional Chaining Operator, and How Does It Work lesson",CLOSED,2025-10-30T20:57:44Z,2025-10-31T09:18:20Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87U8JUE,63333,Add interactive examples to How Do JSON.parse() and JSON.stringify() Work lesson,CLOSED,2025-10-30T21:15:22Z,2025-10-31T09:17:15Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87U8ORo,63335,"Add interactive examples to What Is the For...in Loop, and When Should You Use It lesson",CLOSED,2025-10-30T21:22:15Z,2025-10-31T09:16:00Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87U8PiO,63336,Add interactive examples to What Are the Break and Continue Statements Used for in Loops lesson,CLOSED,2025-10-30T21:24:04Z,2025-10-31T09:14:42Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87U8TGm,63339,"Add interactive examples to What Is a While Loop, and How Does It Differ from the Do...while Loop lesson",CLOSED,2025-10-30T21:29:43Z,2025-10-31T09:13:05Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87U8UFe,63340,"Add interactive examples to How Does the For...of Loop Work, and When Should You Use It lesson",CLOSED,2025-10-30T21:31:19Z,2025-10-31T09:11:35Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87U8Uru,63342,Add interactive examples to How Do Loops and Iteration Work in JavaScript lesson,CLOSED,2025-10-30T21:32:37Z,2025-10-31T09:09:06Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87U8VnB,63345,"Add interactive examples to What Is Object Destructuring, and How Does It Work lesson",CLOSED,2025-10-30T21:34:35Z,2025-10-31T09:07:48Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TQDmD,62968,[discussion] move more curriculum into growthbook,OPEN,2025-10-23T11:03:33Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TTMoi,62971,[ui] exam token info is not pretty in day mode.,OPEN,2025-10-23T14:46:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TF7_6,62937,Mistaken Sectioning in the Full Stack Developer Course,OPEN,2025-10-22T16:30:17Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87U78iU,63330,"Add interactive examples to What Is the Optional Chaining Operator, and How Does It Work lesson",OPEN,2025-10-30T20:57:44Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87P6-rG,62555,Make curriculum subject headings anchor linkable for direct sharing,OPEN,2025-10-06T17:34:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UooIE,63258,Update last two binary logical operator examples to use `ts` for code blocks,OPEN,2025-10-29T18:55:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UIgtT,63121,"Instructions for ""Build an Inventory Management Program"" are unclear",OPEN,2025-10-27T23:13:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Tped7,63041,Update todo list lab user stories 4 and 5,OPEN,2025-10-24T20:08:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87U3t-N,63323,Donate note has extra space at the bottom,OPEN,2025-10-30T15:40:11Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87U7md1,63329,"Typo in ""The var Keyword and Hoisting""",OPEN,2025-10-30T20:28:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Uc49n,63214,CSS Layout and Effects Quiz - Same answer for two questions regarding properties with different behavior.,CLOSED,2025-10-29T04:54:39Z,2025-10-30T17:45:50Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Up4VT,63292,Add interactive examples to How Do You Add and Remove Elements from the Middle of an Array lesson,CLOSED,2025-10-29T20:28:31Z,2025-10-30T11:29:51Z,clarencepenz;ilenia-magoni,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UqGb1,63303,Add interactive examples to How Do You Work with Accessing Properties from Nested Objects and Arrays in Objects lesson,CLOSED,2025-10-29T20:44:25Z,2025-10-30T11:22:17Z,clarencepenz;ilenia-magoni,freeCodeCamp,freeCodeCamp
@@ -114,7 +138,6 @@ I_kwDOAbI7X87UEuLy,63095,"Change a question for the ""Pseudo Classes and Element
 I_kwDOAbI7X87UHBAg,63119,"Add interactive examples to What Is the @Property Rule, and How Does It Work with Fallbacks? lesson",CLOSED,2025-10-27T20:51:59Z,2025-10-28T10:08:48Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UGFRX,63112,"Add interactive examples to What Is Responsive Web Design, and What Is Its Relationship to Tools Like CSS Grid and Flexbox? lesson",CLOSED,2025-10-27T19:49:26Z,2025-10-28T10:04:18Z,kannan-ravi,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UF3GO,63108,Add interactive examples to How to Use the Attribute Selector to Target Ordered List Elements with the type Attribute? lesson,CLOSED,2025-10-27T19:33:14Z,2025-10-28T10:02:01Z,kannan-ravi,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TTQI5,62972,Update lessons that mention interacting with the interactive editor,OPEN,2025-10-23T14:49:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UEYXW,63090,Add interactive examples to How Do You Work with External Fonts Like Font Squirrel and Google Fonts? lesson,CLOSED,2025-10-27T17:48:56Z,2025-10-27T21:47:55Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UD1uk,63088,"Add interactive examples to What Are Some Common Flex Properties, and How Do They Work? lesson",CLOSED,2025-10-27T17:09:22Z,2025-10-27T21:04:52Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UFV1v,63104,"Add interactive examples to What Is Fixed and Sticky Positioning, and How Does It Differ from Absolute Positioning? lesson",CLOSED,2025-10-27T18:54:19Z,2025-10-27T21:04:40Z,pdtrang,freeCodeCamp,freeCodeCamp
@@ -137,7 +160,6 @@ I_kwDOAbI7X87TwNzw,63052,Typo in the Full Curriculum text,CLOSED,2025-10-25T15:3
 I_kwDOAbI7X87TwEys,63051,"""Build a Number Pattern Generator"" lab test hint typo",CLOSED,2025-10-25T14:50:27Z,2025-10-25T18:22:52Z,st3lll4,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Tp2vO,63044,infinte scroll example with load more not working,CLOSED,2025-10-24T20:45:29Z,2025-10-25T14:57:00Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TjZxe,63033,Accessibility issues in the demo of Drum Machine,OPEN,2025-10-24T12:34:45Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TTMoi,62971,[ui] exam token info is not pretty in day mode.,OPEN,2025-10-23T14:46:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87To0ZR,63040,Minor edit in DOM Manipulation Review,CLOSED,2025-10-24T19:12:46Z,2025-10-25T04:09:05Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Pq92X,62519,Provide short explanation on ES6 for isNan lesson,CLOSED,2025-10-04T21:23:15Z,2025-10-25T04:08:52Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ToeVP,63039,Remove unused playwright test labels,CLOSED,2025-10-24T18:45:58Z,2025-10-25T04:03:00Z,pdtrang,freeCodeCamp,freeCodeCamp
@@ -180,7 +202,6 @@ I_kwDOAbI7X87TJPsc,62952,Add interactive example for `calc` lesson,CLOSED,2025-1
 I_kwDOAbI7X87TIvRm,62948,Add interactive examples for absolute units lesson,CLOSED,2025-10-22T20:25:11Z,2025-10-23T15:02:07Z,cuongpham24,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TIjDo,62947,Add interactive examples to progressive disclosure lesson,CLOSED,2025-10-22T20:08:47Z,2025-10-23T15:01:34Z,cuongpham24;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SUV6G,62892,Editor becomes laggy (~30 FPS) in Full Stack Developer workshops/labs after several steps — Chrome 141 / Windows 11,CLOSED,2025-10-18T10:18:29Z,2025-10-23T14:20:00Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TQDmD,62968,[discussion] move more curriculum into growthbook,OPEN,2025-10-23T11:03:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85TPTNN,47830,Potential accessibility fixes RWD: Learn Accessibility by Building a Quiz,CLOSED,2022-10-04T16:04:20Z,2025-10-23T05:58:43Z,,freeCodeCamp,freeCodeCamp
 MDU6SXNzdWUyMzM0MDQ3NjA=,15200,"Word Blanks, Not a Question.",CLOSED,2017-06-04T01:07:52Z,2017-06-04T18:56:25Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TI-yY,62950,Add interactive examples to `em` and `rem` lesson,CLOSED,2025-10-22T20:50:57Z,2025-10-22T23:42:30Z,huyenltnguyen;pdtrang,freeCodeCamp,freeCodeCamp
@@ -662,15 +683,3 @@ I_kwDOAbI7X87C8VtU,61494,Remove videos for lectures,CLOSED,2025-07-28T16:32:28Z,
 I_kwDOAbI7X865WfJn,60660,Add test to ensure block name in `meta.json` and in `intro.json` match,OPEN,2025-06-02T11:01:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C8g9D,61499,"Remove videos from working with forms, working with tables, HTML tools lecture blocks",CLOSED,2025-07-28T16:47:29Z,2025-08-01T10:00:45Z,alexgoldsmith;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87DlDiG,61629,Remove extraneous backtick at the end of hint text,CLOSED,2025-07-31T17:37:39Z,2025-08-01T07:57:49Z,Trev Abbott,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87C9E5N,61519,Remove videos from working with strings and common string methods lecture blocks,CLOSED,2025-07-28T17:36:01Z,2025-08-01T00:40:50Z,hbar1st,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87DlUOe,61631,Add Type Annotations and Modern Python Typing,CLOSED,2025-07-31T18:07:14Z,2025-07-31T19:10:11Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87DlwAX,61633,Clarify default parameter rules in function syntax,CLOSED,2025-07-31T18:54:37Z,2025-07-31T19:06:18Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87C9v5s,61541,Remove videos from web performance lecture block,CLOSED,2025-07-28T18:39:17Z,2025-07-31T19:02:04Z,hbar1st,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X85oEcpU,50630,Create a Rate Limiting middleware / plugin on top of all endpoints,OPEN,2023-06-07T14:07:41Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X85oEeDf,50631,Rate Limiting Stored in Volatile Memory (remove from MongoDB),OPEN,2023-06-07T14:10:18Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87C8eGq,61497,Remove videos from working with links lecture block,CLOSED,2025-07-28T16:43:28Z,2025-07-31T11:53:23Z,huyenltnguyen;stimmer860,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864BRBH,60508,Todo App using Local Storage: Step 53 - Only Chrome specific instructions are given,OPEN,2025-05-23T19:29:33Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87C9vki,61540,"Remove videos from React data fetching, routing and debugging lecture blocks",CLOSED,2025-07-28T18:38:38Z,2025-07-31T10:59:27Z,doylese;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87C8jgY,61500,Remove videos from importance of a11y and accesible tables lecture blocks,CLOSED,2025-07-28T16:51:14Z,2025-07-31T09:30:26Z,VishalTelukula,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87C9QSr,61522,Remove videos from working with functions lecture block,CLOSED,2025-07-28T17:50:42Z,2025-07-31T07:12:22Z,hbar1st,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87C940q,61543,Remove all instances of `lecture videos` from English `intro.json` file,CLOSED,2025-07-28T18:52:40Z,2025-07-31T03:14:22Z,StuartMosquera,freeCodeCamp,freeCodeCamp
