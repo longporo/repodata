@@ -1,4 +1,7 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+2d65f11e0f7ebf14d898ec881233c3423e67b6a6,fix(curriculum): rename Basic CSS Review and Quiz to CSS Fundamentals…,2025-11-01T16:15:05Z,5,22,Marv5e,freeCodeCamp,freeCodeCamp
+6c440e2f785f39ce34f1fa152436192f35ef4bdf,feat(curriculum): Add A1 Chinese Chapter 3 Module 2 Block 1 (#63078),2025-11-01T14:33:10Z,35,1763,miyaliu666,freeCodeCamp,freeCodeCamp
+4d4cdca1e687a2372a82399ef95e6aad764ee9b5,Fix(curriculum): Correct code block language in loops lecture (#63411),2025-11-01T08:44:22Z,1,8,shlok3640,freeCodeCamp,freeCodeCamp
 9caeb30b141411c4e2298832ec9934ab106aa9d8,fix(client): Correct B1 English super block title (#63408),2025-10-31T21:58:56Z,2,4,pdtrang,freeCodeCamp,freeCodeCamp
 a9df33f650b772cb788c1730a453ac28ee78a022,feat(curriculum): add language tag for A1 and A2 Spanish (#63315),2025-10-31T20:45:25Z,75,75,Sembauke,freeCodeCamp,freeCodeCamp
 efce3f38049915ce2595c4d7dabbaa53ed3bf308,feat(curriculum): Add interactive examples to Sort method lesson (#63…,2025-10-31T20:30:26Z,1,14,Giftea,freeCodeCamp,freeCodeCamp
@@ -849,7 +852,3 @@ e41fd9ed13930685940e4c4ae1c8d1dc9ce4561f,"chore(i18n,client): processed translat
 dd561eba237ef8fa37d33598e90ee18eff883e49,feat: add debug isbn validator lab (#61273),2025-08-04T13:40:00Z,4,714,ilenia-magoni,freeCodeCamp,freeCodeCamp
 9cee50eb38ace7690fef8a738c40a30c542c52fd,feat(curriculum): add bisection method lab (#61253),2025-08-02T06:36:03Z,4,381,Dario-DC,freeCodeCamp,freeCodeCamp
 ae086afd13a6fe250aee5d0ef68cfcaddfb6cbba,chore(curriculum): remove remaining lecture video references (#61640),2025-08-02T06:26:05Z,94,293,huyenltnguyen,freeCodeCamp,freeCodeCamp
-a79319c71f05b4ca00324772197d3cbd249a2508,feat(curriculum): add user configuration manager lab (#60845),2025-08-01T15:05:11Z,5,491,zairahira,freeCodeCamp,freeCodeCamp
-ec51058f815747c8091acf6ee884fb1434f12de6,feat: add relational databases review (#59307),2025-08-01T14:51:33Z,1,380,ilenia-magoni,freeCodeCamp,freeCodeCamp
-e0719007719535b08243d484598b19873338d99f,"fix(curriculum): remove videos and references from forms, tables, and…",2025-08-01T10:00:43Z,7,129,alexgoldsmith,freeCodeCamp,freeCodeCamp
-cd85e85c3eca821b954d8a703ec46b606d697cdb,fix(curriculum): remove stray backtick from greeting card instruction…,2025-08-01T07:57:47Z,1,2,vibemeistert,freeCodeCamp,freeCodeCamp
