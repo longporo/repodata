@@ -1,4 +1,7 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+6b12b01a7ee2092ecfeb0285631e16dbf981b6ca,feat(curriculum): add description list workshop to FSD cert (#62597),2025-11-03T00:07:54Z,11,567,Allan70,freeCodeCamp,freeCodeCamp
+6b4ea540d4e3e68af2868c7959e2c89badf5adfe,fix(curriculum): correct sentence about the nullish coalesing operato…,2025-11-02T19:47:01Z,1,2,l3onhard,freeCodeCamp,freeCodeCamp
+982d0fb29055a01b464baece7119df13273d61b3,feat(GHA): configurable SHOW_UPCOMING_CHANGES (#63395),2025-11-02T13:15:47Z,4,46,raisedadead,freeCodeCamp,freeCodeCamp
 2d65f11e0f7ebf14d898ec881233c3423e67b6a6,fix(curriculum): rename Basic CSS Review and Quiz to CSS Fundamentals…,2025-11-01T16:15:05Z,5,22,Marv5e,freeCodeCamp,freeCodeCamp
 6c440e2f785f39ce34f1fa152436192f35ef4bdf,feat(curriculum): Add A1 Chinese Chapter 3 Module 2 Block 1 (#63078),2025-11-01T14:33:10Z,35,1763,miyaliu666,freeCodeCamp,freeCodeCamp
 4d4cdca1e687a2372a82399ef95e6aad764ee9b5,Fix(curriculum): Correct code block language in loops lecture (#63411),2025-11-01T08:44:22Z,1,8,shlok3640,freeCodeCamp,freeCodeCamp
@@ -850,5 +853,3 @@ ad8b31df2c9c33f262f84aca558c9cf9e3e531d7,feat(client): enable daily challenges +
 143565ce63b28da030db99239dd11caaf7a7e662,feat(api): add attempt id and exam id to response (#61637),2025-08-04T16:12:46Z,3,24,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 e41fd9ed13930685940e4c4ae1c8d1dc9ce4561f,"chore(i18n,client): processed translations (#61661)",2025-08-04T15:49:23Z,11,2064,camperbot,freeCodeCamp,freeCodeCamp
 dd561eba237ef8fa37d33598e90ee18eff883e49,feat: add debug isbn validator lab (#61273),2025-08-04T13:40:00Z,4,714,ilenia-magoni,freeCodeCamp,freeCodeCamp
-9cee50eb38ace7690fef8a738c40a30c542c52fd,feat(curriculum): add bisection method lab (#61253),2025-08-02T06:36:03Z,4,381,Dario-DC,freeCodeCamp,freeCodeCamp
-ae086afd13a6fe250aee5d0ef68cfcaddfb6cbba,chore(curriculum): remove remaining lecture video references (#61640),2025-08-02T06:26:05Z,94,293,huyenltnguyen,freeCodeCamp,freeCodeCamp
