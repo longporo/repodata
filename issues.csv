@@ -1,6 +1,12 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87VTCY7,63418,Incorrect Answer on Quiz in Perform Basic Operations on Numbers in C#,OPEN,2025-11-01T22:16:09Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87VLctI,63409,Incorrect explanation of nullish coalescing operator in lesson,OPEN,2025-10-31T21:25:43Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VZneH,63428,Missing pronoun in transcript,OPEN,2025-11-03T01:35:42Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Mb4kg,62256,Potential errors in reusable card component workshop,OPEN,2025-09-18T11:10:24Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VYkkF,63425,Mismatch in float layout lesson: container height explanation does not match provided CSS,OPEN,2025-11-02T21:26:20Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VLctI,63409,Incorrect explanation of nullish coalescing operator in lesson,CLOSED,2025-10-31T21:25:43Z,2025-11-02T19:47:03Z,l3onhard,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Tped7,63041,Update todo list lab user stories 4 and 5,OPEN,2025-10-24T20:08:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UZp4I,63210,Dependency Dashboard,OPEN,2025-10-28T21:48:33Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UL7-D,63128,CSS Color Quiz question number 19,OPEN,2025-10-28T05:33:16Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VTCY7,63418,Incorrect Answer on Quiz in Perform Basic Operations on Numbers in C#,CLOSED,2025-11-01T22:16:09Z,2025-11-02T09:47:19Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87VR9lM,63416,Enhancement: Add Modern JavaScript Patterns Section to Curriculum,CLOSED,2025-11-01T17:53:50Z,2025-11-01T18:12:04Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87VR913,63417,Documentation Improvement: Clarify Responsive Web Design Certification Syllabus for Beginners,CLOSED,2025-11-01T17:55:14Z,2025-11-01T18:08:02Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TF7_6,62937,Mistaken Sectioning in the Full Stack Developer Course,CLOSED,2025-10-22T16:30:17Z,2025-11-01T16:15:06Z,MarvZanga,freeCodeCamp,freeCodeCamp
@@ -43,7 +49,6 @@ I_kwDOAbI7X87TTMoi,62971,[ui] exam token info is not pretty in day mode.,OPEN,20
 I_kwDOAbI7X87P6-rG,62555,Make curriculum subject headings anchor linkable for direct sharing,OPEN,2025-10-06T17:34:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UooIE,63258,Update last two binary logical operator examples to use `ts` for code blocks,OPEN,2025-10-29T18:55:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UIgtT,63121,"Instructions for ""Build an Inventory Management Program"" are unclear",OPEN,2025-10-27T23:13:04Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Tped7,63041,Update todo list lab user stories 4 and 5,OPEN,2025-10-24T20:08:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87U3t-N,63323,Donate note has extra space at the bottom,OPEN,2025-10-30T15:40:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Uc49n,63214,CSS Layout and Effects Quiz - Same answer for two questions regarding properties with different behavior.,CLOSED,2025-10-29T04:54:39Z,2025-10-30T17:45:50Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Up4VT,63292,Add interactive examples to How Do You Add and Remove Elements from the Middle of an Array lesson,CLOSED,2025-10-29T20:28:31Z,2025-10-30T11:29:51Z,clarencepenz;ilenia-magoni,freeCodeCamp,freeCodeCamp
@@ -106,7 +111,6 @@ I_kwDOAbI7X87UX6QO,63190,Add interactive examples to How Do You Create a Newline
 I_kwDOAbI7X87UX2vh,63188,"Add interactive examples to What Is Bracket Notation, and How Do You Access Characters from a String lesson",CLOSED,2025-10-28T19:15:59Z,2025-10-28T22:07:37Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UXrwa,63184,"Add interactive examples to How Does the typeof Operator Work, and What Is the typeof null Bug in JavaScript lesson",CLOSED,2025-10-28T19:03:26Z,2025-10-28T22:02:40Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UYM38,63197,"Add interactive examples to What Is ASCII, and How Does It Work with charCodeAt() and fromCharCode() lesson",CLOSED,2025-10-28T19:42:02Z,2025-10-28T21:57:27Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87UZp4I,63210,Dependency Dashboard,OPEN,2025-10-28T21:48:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UX7dj,63191,Add interactive examples to How Can You Find the Position of a Substring in a String lesson,CLOSED,2025-10-28T19:19:50Z,2025-10-28T21:54:43Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UYP9x,63199,Add interactive examples to How Can You Test if a String Contains a Substring lesson,CLOSED,2025-10-28T19:46:10Z,2025-10-28T21:53:24Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UYTzA,63201,Add interactive examples to How Can You Extract a Substring from a String lesson,CLOSED,2025-10-28T19:51:49Z,2025-10-28T21:51:21Z,clarencepenz,freeCodeCamp,freeCodeCamp
@@ -131,7 +135,6 @@ I_kwDOAbI7X87UVj5I,63154,Add interactive examples to How Do the grid-column and 
 I_kwDOAbI7X87UV0Ae,63156,"Add interactive examples to What Are CSS Animations, and How Do They Work? lesson",CLOSED,2025-10-28T16:52:50Z,2025-10-28T17:57:19Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UFuyd,63106,"Add interactive examples to What Is the Attribute Selector, and How Can It Be Used to Target Links with the href and title Attributes? lesson",CLOSED,2025-10-27T19:23:17Z,2025-10-28T14:38:09Z,ilenia-magoni;shashankdangi,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87USvWu,63145,Lesson TS compiler assumes all files are index.tsx,OPEN,2025-10-28T13:50:56Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87UL7-D,63128,CSS Color Quiz question number 19,OPEN,2025-10-28T05:33:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UFaWN,63105,"Add interactive examples to What Is the Z-Index Property, and How Does It Work to Control the Stacking of Positioned Elements? lesson",CLOSED,2025-10-27T19:00:22Z,2025-10-28T10:17:17Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UGSHI,63113,"Add interactive examples to How Do Media Queries Work, and What Are Some Common Media Types and Features? lesson",CLOSED,2025-10-27T20:02:45Z,2025-10-28T10:14:44Z,kannan-ravi,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SgQV7,62905,Redirect users who sign in from the landing page to /learn,OPEN,2025-10-20T09:13:31Z,,,freeCodeCamp,freeCodeCamp
@@ -457,7 +460,6 @@ I_kwDOAbI7X87Njqzl,62341,step 48 build a calorie counter project not liking the 
 I_kwDOAbI7X87Nj33E,62342,add label text step 49 build a calorie counter,CLOSED,2025-09-24T10:18:26Z,2025-09-24T15:06:31Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87NkC1l,62343,add label step 50 build a calorie counter,CLOSED,2025-09-24T10:28:32Z,2025-09-24T14:59:37Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87NegfV,62337,step 12 calorie counter project does not pass fcc editor,CLOSED,2025-09-24T02:28:11Z,2025-09-24T08:06:43Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Mb4kg,62256,Potential errors in reusable card component workshop,OPEN,2025-09-18T11:10:24Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86hhhdL,57378,Remove `partiallyCompletedChallenges` and `savedChallenges` from /get-public-profile,CLOSED,2024-12-01T21:39:19Z,2025-09-23T15:58:23Z,Sonudhukia143,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87NVbKR,62323,Correct super block name of Build a Weather App,CLOSED,2025-09-23T11:45:47Z,2025-09-23T15:35:28Z,Swapnanilb,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87NWn06,62328,> Closes https://github.com/freeCodeCamp/freeCodeCamp/pull/62323,CLOSED,2025-09-23T13:14:39Z,2025-09-23T13:20:20Z,,freeCodeCamp,freeCodeCamp
@@ -682,5 +684,3 @@ I_kwDOAbI7X86prkTf,58725,Python output is cut off,CLOSED,2025-02-11T23:19:42Z,20
 I_kwDOAbI7X86_mcuV,61263,Missing value attributes in radio buttons for registration form workshop,CLOSED,2025-07-09T05:18:56Z,2025-08-04T19:01:07Z,cpu-pixel,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-trTH,61200,avatars don't load in Forum Leaderboard lab,CLOSED,2025-07-03T14:42:55Z,2025-08-04T18:50:19Z,a2937,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86xBwHS,59575,[discussion] exam ux,CLOSED,2025-04-03T15:44:09Z,2025-08-04T11:25:57Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87DucSA,61643,Add outline to review page,OPEN,2025-08-01T12:18:04Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87C8VtU,61494,Remove videos for lectures,CLOSED,2025-07-28T16:32:28Z,2025-08-02T06:26:06Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
