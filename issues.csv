@@ -1,10 +1,41 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87Vm62J,63483,is this a grammar error?,OPEN,2025-11-03T21:04:47Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Vo-Ka,63487,Expand help categories in create-language-block script,OPEN,2025-11-04T00:57:41Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UooIE,63258,Update last two binary logical operator examples to use `ts` for code blocks,CLOSED,2025-10-29T18:55:13Z,2025-11-03T23:42:13Z,ilenia-magoni;shashankdangi,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87O84L3,62437,Form Validation - preventDefault,CLOSED,2025-10-01T05:17:10Z,2025-11-03T23:41:45Z,Naveenchinthakindi;ilenia-magoni,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VnFoK,63485,typo in Challenge 99: Fingerprint Test,OPEN,2025-11-03T21:19:30Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GdcHm,61859,☂️ Umbrella Issue updating lessons with interactive code examples ☂️,OPEN,2025-08-18T07:52:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VlBlu,63468,Add interactive examples to requestAnimationFrame lesson,CLOSED,2025-11-03T18:34:09Z,2025-11-03T21:16:12Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Vm9hx,63484,"corrections needed in What Is the CSS Filter Property, and What Are Common Examples?",OPEN,2025-11-03T21:08:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87VZneH,63428,Missing pronoun in transcript,OPEN,2025-11-03T01:35:42Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Mb4kg,62256,Potential errors in reusable card component workshop,OPEN,2025-09-18T11:10:24Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87U8lvL,63350,Mismatch between filter example code and description (“multi-filter” class),CLOSED,2025-10-30T22:09:08Z,2025-11-03T20:07:23Z,Sanchit Kathpalia,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Tped7,63041,Update todo list lab user stories 4 and 5,OPEN,2025-10-24T20:08:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VlZDO,63479,Add interactive examples to dynamic and interactive content accessible lesson,CLOSED,2025-11-03T19:03:22Z,2025-11-03T19:45:19Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VlDEW,63470,Add interactive examples to web animations API lesson,CLOSED,2025-11-03T18:35:54Z,2025-11-03T19:44:50Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VlIQ5,63472,Add interactive examples to dialog element lesson,CLOSED,2025-11-03T18:41:38Z,2025-11-03T19:43:46Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VlKEx,63473,Add interactive examples to change event lesson,CLOSED,2025-11-03T18:44:01Z,2025-11-03T19:43:01Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VkoD6,63460,Add interactive examples to removeEventListener lesson,CLOSED,2025-11-03T18:01:08Z,2025-11-03T19:42:02Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VkrE1,63461,Add interactive examples to inline event handler lesson,CLOSED,2025-11-03T18:05:14Z,2025-11-03T19:41:19Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VksLI,63462,Add interactive examples to element.style and element.classList lesson,CLOSED,2025-11-03T18:06:53Z,2025-11-03T19:40:45Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VjsnJ,63454,Add interactive examples to addEventListener lesson,CLOSED,2025-11-03T16:50:28Z,2025-11-03T19:39:56Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Vjp24,63452,Add interactive examples to setAttribute lesson,CLOSED,2025-11-03T16:47:22Z,2025-11-03T19:39:11Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Vk7lL,63465,Add interactive examples to setTimeout and setInterval lesson,CLOSED,2025-11-03T18:27:37Z,2025-11-03T19:36:53Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VjnEe,63451,"Add interactive examples to navigator, window and document object lesson",CLOSED,2025-11-03T16:44:53Z,2025-11-03T19:36:10Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VjOyi,63446,Add interactive examples to adding and removing nodes lesson,CLOSED,2025-11-03T16:20:28Z,2025-11-03T19:35:37Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VjMla,63445,"Add interactive examples to innerText, textContent and innerHTML lesson",CLOSED,2025-11-03T16:18:17Z,2025-11-03T19:34:44Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Vi-wL,63443,Add interactive examples to creating new nodes lesson,CLOSED,2025-11-03T16:06:25Z,2025-11-03T19:33:58Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Vi2rs,63442,Add interactive examples to What is the DOM lesson,CLOSED,2025-11-03T15:59:28Z,2025-11-03T19:32:29Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Vku2-,63463,Add interactive examples to DOMContentLoaded lesson,CLOSED,2025-11-03T18:10:42Z,2025-11-03T19:30:56Z,Giftea,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VlFi0,63471,Add interactive examples to canvas API lesson,CLOSED,2025-11-03T18:38:19Z,2025-11-03T19:05:26Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VdDAm,63432,workshop greeting card uses colors of insufficient contrast,OPEN,2025-11-03T09:01:05Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Vj4WP,63457,"Use `challenge-grid` for the layout of A1 Chinese learn, practice, and warm up blocks",CLOSED,2025-11-03T17:03:35Z,2025-11-03T17:53:46Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87U3t-N,63323,Donate note has extra space at the bottom,OPEN,2025-10-30T15:40:11Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87VdxzY,63435,labeler action is failing,CLOSED,2025-11-03T10:01:31Z,2025-11-03T10:59:09Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Vc3qQ,63431,blank lines in seed code give weird effect,OPEN,2025-11-03T08:48:30Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UZp4I,63210,Dependency Dashboard,OPEN,2025-10-28T21:48:33Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Mb4kg,62256,Potential errors in reusable card component workshop,CLOSED,2025-09-18T11:10:24Z,2025-11-03T05:35:18Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87VYkkF,63425,Mismatch in float layout lesson: container height explanation does not match provided CSS,OPEN,2025-11-02T21:26:20Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87VLctI,63409,Incorrect explanation of nullish coalescing operator in lesson,CLOSED,2025-10-31T21:25:43Z,2025-11-02T19:47:03Z,l3onhard,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Tped7,63041,Update todo list lab user stories 4 and 5,OPEN,2025-10-24T20:08:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87UZp4I,63210,Dependency Dashboard,OPEN,2025-10-28T21:48:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UL7-D,63128,CSS Color Quiz question number 19,OPEN,2025-10-28T05:33:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87VTCY7,63418,Incorrect Answer on Quiz in Perform Basic Operations on Numbers in C#,CLOSED,2025-11-01T22:16:09Z,2025-11-02T09:47:19Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87VR9lM,63416,Enhancement: Add Modern JavaScript Patterns Section to Curriculum,CLOSED,2025-11-01T17:53:50Z,2025-11-01T18:12:04Z,,freeCodeCamp,freeCodeCamp
@@ -13,7 +44,6 @@ I_kwDOAbI7X87TF7_6,62937,Mistaken Sectioning in the Full Stack Developer Course,
 I_kwDOAbI7X87VPX6J,63414,Reattempting a completed lab shows NaN% completion,OPEN,2025-11-01T09:02:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87VCMRW,63358,replace language indicator,CLOSED,2025-10-31T09:34:05Z,2025-11-01T08:44:23Z,shlok3640,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87VLV0d,63407,Correct B1 English super block title,CLOSED,2025-10-31T21:17:03Z,2025-10-31T21:58:57Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87GdcHm,61859,☂️ Umbrella Issue updating lessons with interactive code examples ☂️,OPEN,2025-08-18T07:52:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87VI-Cq,63401,Add interactive examples to Sort method lesson,CLOSED,2025-10-31T17:59:40Z,2025-10-31T20:30:27Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87VI82O,63398,Add interactive examples to Method chaining lesson,CLOSED,2025-10-31T17:57:35Z,2025-10-31T20:29:36Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87VI8Ou,63397,Add interactive examples to Reduce method lesson,CLOSED,2025-10-31T17:56:29Z,2025-10-31T20:29:08Z,Giftea,freeCodeCamp,freeCodeCamp
@@ -34,7 +64,6 @@ I_kwDOAbI7X87VH4pu,63368,Add interactive examples to String object lesson,CLOSED
 I_kwDOAbI7X87U8obY,63351,Incorrect margin collapsing example value in curriculum,CLOSED,2025-10-30T22:13:53Z,2025-10-31T18:51:06Z,fortii2,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TTQI5,62972,Update lessons that mention interacting with the interactive editor,OPEN,2025-10-23T14:49:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87VCS28,63359,incorrect use of `::backdrop` in a lesson,CLOSED,2025-10-31T09:41:03Z,2025-10-31T14:01:22Z,Yyash64,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87U8lvL,63350,Mismatch between filter example code and description (“multi-filter” class),OPEN,2025-10-30T22:09:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87U7md1,63329,"Typo in ""The var Keyword and Hoisting""",CLOSED,2025-10-30T20:28:23Z,2025-10-31T09:32:01Z,VinayDevv,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87U78iU,63330,"Add interactive examples to What Is the Optional Chaining Operator, and How Does It Work lesson",CLOSED,2025-10-30T20:57:44Z,2025-10-31T09:18:20Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87U8JUE,63333,Add interactive examples to How Do JSON.parse() and JSON.stringify() Work lesson,CLOSED,2025-10-30T21:15:22Z,2025-10-31T09:17:15Z,Giftea,freeCodeCamp,freeCodeCamp
@@ -47,9 +76,7 @@ I_kwDOAbI7X87U8VnB,63345,"Add interactive examples to What Is Object Destructuri
 I_kwDOAbI7X87TQDmD,62968,[discussion] move more curriculum into growthbook,OPEN,2025-10-23T11:03:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TTMoi,62971,[ui] exam token info is not pretty in day mode.,OPEN,2025-10-23T14:46:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87P6-rG,62555,Make curriculum subject headings anchor linkable for direct sharing,OPEN,2025-10-06T17:34:23Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87UooIE,63258,Update last two binary logical operator examples to use `ts` for code blocks,OPEN,2025-10-29T18:55:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UIgtT,63121,"Instructions for ""Build an Inventory Management Program"" are unclear",OPEN,2025-10-27T23:13:04Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87U3t-N,63323,Donate note has extra space at the bottom,OPEN,2025-10-30T15:40:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Uc49n,63214,CSS Layout and Effects Quiz - Same answer for two questions regarding properties with different behavior.,CLOSED,2025-10-29T04:54:39Z,2025-10-30T17:45:50Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Up4VT,63292,Add interactive examples to How Do You Add and Remove Elements from the Middle of an Array lesson,CLOSED,2025-10-29T20:28:31Z,2025-10-30T11:29:51Z,clarencepenz;ilenia-magoni,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UqGb1,63303,Add interactive examples to How Do You Work with Accessing Properties from Nested Objects and Arrays in Objects lesson,CLOSED,2025-10-29T20:44:25Z,2025-10-30T11:22:17Z,clarencepenz;ilenia-magoni,freeCodeCamp,freeCodeCamp
@@ -365,7 +392,6 @@ I_kwDOAbI7X85Sx5qD,47646,The user's code should be transformed alongside the inj
 I_kwDOAbI7X87QkUmZ,62632,Add interactive examples to `div` lesson,CLOSED,2025-10-09T13:27:31Z,2025-10-09T16:36:20Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Qjz9F,62629,Add interactive examples to `what are attributes` lesson,CLOSED,2025-10-09T12:52:35Z,2025-10-09T16:36:13Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87QjH6F,62626,Add interactive examples to intro HTML lesson,CLOSED,2025-10-09T12:00:48Z,2025-10-09T16:35:56Z,Giftea,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87O84L3,62437,Form Validation - preventDefault,OPEN,2025-10-01T05:17:10Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Ne0C_,62338,fcc editor not checking on multiple browsers,CLOSED,2025-09-24T03:11:19Z,2025-10-09T12:01:21Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Qbqyd,62612,spaces and new lines  test-related issues in workshop-accessibility-quiz,CLOSED,2025-10-08T21:13:23Z,2025-10-09T10:54:11Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87QahaE,62606,Wrong step when running tests with `FCC_CHALLENGE_ID`,CLOSED,2025-10-08T19:22:19Z,2025-10-09T10:42:10Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
