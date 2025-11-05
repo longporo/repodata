@@ -1,4 +1,18 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+b060233b5055264dfcdab08ec689aefcf79e41bb,fix(curriculum): fix typo and grammar in quiz-bash-commands question …,2025-11-04T23:19:12Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
+4ec50cb688c7614070930d159df3d6c8da1e50ee,feat(curriculum): add new lesson How to Handle Object Attributes Dyna…,2025-11-04T18:28:27Z,2,320,ilenia-magoni,freeCodeCamp,freeCodeCamp
+4afe2dac07eaaf72595aff4de785d40eab9698ab,feat(curriculum): add discount calculator workshop (#62644),2025-11-04T18:27:27Z,36,2975,zairahira,freeCodeCamp,freeCodeCamp
+5199ced01c0800f6570034cf82b28263c6e24c8e,fix(curriculum): Change blockLayout of zh-a1-quiz and zh-a1-review to…,2025-11-04T18:06:16Z,14,28,pdtrang,freeCodeCamp,freeCodeCamp
+d9abc21e81720307a3882c74fd68bfae00c7b94a,fix(curriculum): correct grammar in Web Animations API lesson (#63506),2025-11-04T16:52:33Z,1,2,AntonioFigueiredo,freeCodeCamp,freeCodeCamp
+1ffd4568c4bda861d3a65ffaf1c39cb435b82648,fix(curriculum): make tests work again (#63504),2025-11-04T16:44:21Z,8,16,ilenia-magoni,freeCodeCamp,freeCodeCamp
+d819fefc61a5f96b4702d2b713f9688c59851df6,fix: correct grammar in Fingerprint Test description (#63493),2025-11-04T12:55:15Z,2,4,Teku-Guy,freeCodeCamp,freeCodeCamp
+9da851bc9adf0ca55b2a0b07ba0a282d9996bf48,fix(curriculum): clarify addProduct behavior in inventory lab (#63132),2025-11-04T12:21:09Z,1,2,ILUCIFER0069,freeCodeCamp,freeCodeCamp
+9ac6fbf27c4483a622ee5e64e1f651c2da525757,fix(curriculum): grammar and punctuations in CSS filter lesson (#63496),2025-11-04T12:15:07Z,1,12,vardhu032,freeCodeCamp,freeCodeCamp
+abbb52a3fddebbb2daa424edbffe3b9dab132dce,fix(curriculum): add missing 'you' in transcript for dialogue 3 (#63499),2025-11-04T12:13:43Z,1,2,vardhu032,freeCodeCamp,freeCodeCamp
+22e346ddc957d1a5f6bc89db33f2cfa9e7b44504,feat(curriculum): add `inputType` property to challenge schema (#63405),2025-11-04T09:49:15Z,1,12,huyenltnguyen,freeCodeCamp,freeCodeCamp
+0770db7c861b2ad781c0250b937d78e5f89dbad0,feat(tools): add 'Chinese Curriculum' and 'Spanish Curriculum' to hel…,2025-11-04T08:52:30Z,1,6,pdtrang,freeCodeCamp,freeCodeCamp
+d5ad4d41447e37041e4e9c2a8ca7eddc01681a4e,revert: add 100% branch coverage for env.ts (#63492),2025-11-04T04:42:53Z,1,232,raisedadead,freeCodeCamp,freeCodeCamp
+b33a01963f6f8857d60faed2874343d8fc90d6b4,"fix(curriculum): fix typo ""exceded"" -> ""exceeded"" in Challenge 99 (#6…",2025-11-04T02:42:51Z,2,4,Teku-Guy,freeCodeCamp,freeCodeCamp
 177dc4d6689f419a99d3d9d314421f6c71737157, feat(curriculum): add string formatter workshop to FSD cert (#62561),2025-11-03T23:44:46Z,20,1080,jjotteson1,freeCodeCamp,freeCodeCamp
 b464e3158c9b3c09f75caa6df21916e7e0e726ee,fix(curriculum): change last two binary logical operator examples to …,2025-11-03T23:42:12Z,1,13,shashankdangi,freeCodeCamp,freeCodeCamp
 7fcb89bfbeefaedda02735b0b5cf4544262a386e,fix(curriculum): update lecture title for preventDefault method (#62446),2025-11-03T23:41:44Z,2,4,Naveenchinthakindi,freeCodeCamp,freeCodeCamp
@@ -879,13 +893,3 @@ be4c451041c029f82734025fd4fc80dc6807cf1c,fix(curriculum): fixed typo in workshop
 a57e4e33b493780aa3110136c03b8371bf60999f,fix(curriculum): fix typo in tasks from block 20 of the B1 certificat…,2025-08-05T13:55:08Z,4,18,DanielRosa74,freeCodeCamp,freeCodeCamp
 7fdaa034c8f42504056c0af08510d6b1a2da1228,fix(client): gracefully handle errors while fetching user (#61623),2025-08-05T13:22:49Z,6,61,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 69ebb7e37a70fdb9f33458ab1671d3e1b376cb26,feat: add bash scripting review (#61466),2025-08-05T09:51:36Z,1,703,ilenia-magoni,freeCodeCamp,freeCodeCamp
-836c569c078bf157daeb51ab435051696f6174d1,fix(ui): ensure terminal takes full viewport height on all devices (#…,2025-08-04T19:16:47Z,2,5,tanmaygautam11,freeCodeCamp,freeCodeCamp
-878eafb4adf1ed267505f31235e775b115fb7127,fix(curriculum): Added extra step in registration form workshop to ad…,2025-08-04T19:01:06Z,40,467,cpu-pixel,freeCodeCamp,freeCodeCamp
-1ddb2f7d0fdbe7155a1e77e7e122576071a4bdef,chore(curriculum): update fcc forum leaderboard cdn (#61462),2025-08-04T18:50:18Z,1,86,a2937,freeCodeCamp,freeCodeCamp
-d9229ecff203caadd48d9d42b932a19a4b1c5574,chore(curriculum): remove js a11y content from html module (#61591),2025-08-04T17:43:41Z,3,678,jdwilkin4,freeCodeCamp,freeCodeCamp
-5e73291dd35cbdc8754f287382b455d02916ecee,"chore(i18n,learn): update i18n-curriculum submodule (#61662)",2025-08-04T17:25:35Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-ad8b31df2c9c33f262f84aca558c9cf9e3e531d7,feat(client): enable daily challenges + add e2e tests (#61549),2025-08-04T16:37:06Z,4,233,moT01,freeCodeCamp,freeCodeCamp
-86f52e82f3ea8aec69fe363f265ab7b8c3314dda,fix(curriculum): ensure innerText test assertions use .trim() (#61624),2025-08-04T16:36:22Z,20,106,nishatayub,freeCodeCamp,freeCodeCamp
-143565ce63b28da030db99239dd11caaf7a7e662,feat(api): add attempt id and exam id to response (#61637),2025-08-04T16:12:46Z,3,24,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-e41fd9ed13930685940e4c4ae1c8d1dc9ce4561f,"chore(i18n,client): processed translations (#61661)",2025-08-04T15:49:23Z,11,2064,camperbot,freeCodeCamp,freeCodeCamp
-dd561eba237ef8fa37d33598e90ee18eff883e49,feat: add debug isbn validator lab (#61273),2025-08-04T13:40:00Z,4,714,ilenia-magoni,freeCodeCamp,freeCodeCamp
