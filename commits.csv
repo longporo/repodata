@@ -1,4 +1,22 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+64da68fdfd87aae69e9c7bfae1c182c68453c310,fix(curriculum): fixed typo in class and object lecture (#63585),2025-11-06T21:53:27Z,1,2,reybozo,freeCodeCamp,freeCodeCamp
+3c2505556779f2c1a8004ed65e0abcfba5f753fa,fix(curriculum): fix typos in some zh-a1 and es-a1 files (#63608),2025-11-06T21:31:01Z,7,14,pdtrang,freeCodeCamp,freeCodeCamp
+ab69cbb61c3e34a8e9ddff15685c0e75224fda37,fix(curriculum): v9 fsd intro and add notes to superblocks (#63606),2025-11-06T20:56:26Z,1,18,moT01,freeCodeCamp,freeCodeCamp
+8213267f0b76d5de70fdc564537cb49f1918eaba,feat(client): add alert if qualified for exam (#63607),2025-11-06T19:46:13Z,2,11,moT01,freeCodeCamp,freeCodeCamp
+ec86ed5212e97e6d1493abf2264454f502706e19,feat(curriculum): update class lesson with interactive example  (#63572),2025-11-06T17:38:30Z,1,42,het2576,freeCodeCamp,freeCodeCamp
+1bacf09dd559ca59db28e8e08a1fee0856f7f321,fix(client): use Link component for block links (#63559),2025-11-06T17:37:42Z,2,245,moT01,freeCodeCamp,freeCodeCamp
+9bc0f8478c530c9dce65ab0acf8206ed95066574,feat(curriculum): add interactive examples to regex lesson (#63598),2025-11-06T17:26:07Z,1,22,saitejx08,freeCodeCamp,freeCodeCamp
+b3939372112b333cc6b9088cdddc4731058eaaac,feat(client): add exam project tag (#63584),2025-11-06T17:04:01Z,10,88,moT01,freeCodeCamp,freeCodeCamp
+17d7339a8e1364b47ebf697ccfd37087757ecb30,feat(curriculum): update aria-live lesson with interactive code examp…,2025-11-06T16:11:22Z,1,118,VSrimukh,freeCodeCamp,freeCodeCamp
+37ce12aa69b35a81de9eb0f7ead00edde45d8c0c,fix(curriculum): added the new version and fixed typos in lec-working…,2025-11-06T15:46:38Z,1,28,Hrishik03,freeCodeCamp,freeCodeCamp
+af13a79f4ad41dd8fe9609327e8c5c382f58739b,feat(curriculum): add Build a Bookstore Page Workshop to FSD cert  (#…,2025-11-06T15:31:11Z,20,918,alaa-yahia,freeCodeCamp,freeCodeCamp
+930b09a32877d59247635b887239be9cc96092f8,feat(curriculum): release remaining python modules (#63494),2025-11-06T14:39:24Z,47,106,Dario-DC,freeCodeCamp,freeCodeCamp
+02787ab1bf52f0a172f96931e5e38b10a85e10f2,fix(curriculum): correct malformed q closing tag in workshop-quincys-…,2025-11-06T14:34:54Z,11,52,l3onhard,freeCodeCamp,freeCodeCamp
+2be0a9a3f26b681407973d6fc49e7af4a93b7c93,fix(curriculum): simplify print() lesson for beginners (#62680),2025-11-06T14:33:19Z,1,185,mriduldoeswork,freeCodeCamp,freeCodeCamp
+c7a4138c181c8526d764ac03cb4aca6dd04c6932,feat(curriculum): add shortest path algorithm workshop (#61147),2025-11-06T12:25:59Z,31,2369,larymak,freeCodeCamp,freeCodeCamp
+ea42bfc6e5437c5d6ed0d78dff23f94f37583ef1,feat(curriculum): Add interactive examples to aria-expanded attribute…,2025-11-06T11:04:04Z,1,123,shivanissingh,freeCodeCamp,freeCodeCamp
+447325818960ced6391361452fffd075813bb7e2,fix(client): new chapter icons for v9 certs (#63587),2025-11-06T11:02:32Z,2,35,moT01,freeCodeCamp,freeCodeCamp
+5c4812dcf4b475cb8ed874c4ba6feea0bd1e2e31,fix(client): exam prerequisites list (#63582),2025-11-06T09:27:04Z,1,10,moT01,freeCodeCamp,freeCodeCamp
 309b021815a07b3f4985aefda1691485b9103161,"fix(client): removed ""Build a Discount Calculator"" from intro text in…",2025-11-05T23:43:24Z,1,1,rosettaJoy,freeCodeCamp,freeCodeCamp
 fd038e80c07b8ab0ee627b54165129d1775e83fa,fix(curriculum): fix typos in es-a1-practice-greetings-and-farewells …,2025-11-05T22:22:30Z,2,4,pdtrang,freeCodeCamp,freeCodeCamp
 8a5dc7d28fcaac38d9899ee6c6c45a6af0255ae5,feat(curriculum): Add interactive examples to try…catch…finally lesso…,2025-11-05T21:12:06Z,1,6,ishaanpgujaran,freeCodeCamp,freeCodeCamp
@@ -891,16 +909,3 @@ c27fd68ceb6afb6029b1d9a6f5e3ba877fe587e1,test: /donate page for signed out users
 2f1f08d45c85d34d3114ed7b944d6f8c9f2d60c5,feat(.github): enable daily challenges (for real this time) (#61665),2025-08-07T13:22:36Z,1,1,moT01,freeCodeCamp,freeCodeCamp
 1ea5b8fe52d19f70d4d241c93b947ef03319942b,fix(curriculum): fix incorrect header (#61709),2025-08-07T12:34:12Z,1,2,sinha21Soumya,freeCodeCamp,freeCodeCamp
 32512e526a850d4d89937ed7b945397ca47cf7c9,chore(curriculum): change Odin project challenge type (#61677),2025-08-07T08:10:22Z,7,14,Supravisor,freeCodeCamp,freeCodeCamp
-babcf475979ae36c483195dbe4faaa0165fd7a4a,chore(tools): test for instructions in schema (#60323),2025-08-06T20:44:06Z,1,6,a2937,freeCodeCamp,freeCodeCamp
-8b33e316ab9a4ab4f8b2058f900d11db74c47ebe,feat: add devcontainer setup (#61695),2025-08-06T20:04:30Z,2,39,raisedadead,freeCodeCamp,freeCodeCamp
-58fed4ae4f933ae820168fb40ced67bf303d1f37,"chore(i18n,learn): update i18n-curriculum submodule (#61690)",2025-08-06T19:55:22Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-546e3b7480574e258b7a530f0cc25d9b660a6ab0,fix: show donation page to unauthorized users (#61696),2025-08-06T19:44:59Z,2,11,ahmaxed,freeCodeCamp,freeCodeCamp
-185a421dae0837338dc579aa5c11f7638091c16d,feat(curriculum): add Python error handling review page (#60559),2025-08-06T16:34:30Z,1,130,Ksound22,freeCodeCamp,freeCodeCamp
-922c20e0efe9f6d053c419be8e46447415a6de20,chore: Move JS related Aria lectures to new JS and A11y module (#61666),2025-08-06T16:11:44Z,9,61,ilenia-magoni,freeCodeCamp,freeCodeCamp
-2a577ade98d2f3493cd6a6efe06053eda78967ce,feat: add lectures for searching and sorting algorithms (#61663),2025-08-06T16:07:47Z,5,358,ilenia-magoni,freeCodeCamp,freeCodeCamp
-0e81a59d301c016c64657f590f8582ac8c0f5899,chore: create redirects for js aria lectures (#61682),2025-08-06T15:56:33Z,1,16,ilenia-magoni,freeCodeCamp,freeCodeCamp
-713afce73191762c12c9dada5c00cd9f7f664472,"chore(i18n,client): processed translations (#61686)",2025-08-06T14:33:09Z,10,140,camperbot,freeCodeCamp,freeCodeCamp
-0eb04d9aed3ef1ce1a343ed1a95e24df79a4f26c,feat(curriculum): add Python error handling quiz (#60600),2025-08-06T13:44:21Z,1,328,Ksound22,freeCodeCamp,freeCodeCamp
-6bf3e33b6992283ab8aafeb0a9f0c1f4b3d8fd22,feat(curriculum): adding JS and A11y quiz questions (#61616),2025-08-06T13:42:25Z,1,361,jdwilkin4,freeCodeCamp,freeCodeCamp
-276b39638eb5907a1b5ea0715610b00abaef6480,fix(curriculum): remove redundant or (#61681),2025-08-06T11:59:48Z,1,2,sinha21Soumya,freeCodeCamp,freeCodeCamp
-be4c451041c029f82734025fd4fc80dc6807cf1c,fix(curriculum): fixed typo in workshop medical  data validator step …,2025-08-06T04:10:23Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
