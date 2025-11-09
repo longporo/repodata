@@ -1,4 +1,8 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+843457665eae04483b5ae300bf02d9430c01822d,"feat(curriculum): Improve example in ""Working with Regular Expression…",2025-11-08T15:59:39Z,1,32,akshith30388,freeCodeCamp,freeCodeCamp
+94c53c6144a6fa264801aeff9724c52b082b3461,fix: add missing question mark (#63656),2025-11-08T08:33:28Z,1,2,lasyareddipatlolla71415-wq,freeCodeCamp,freeCodeCamp
+c7dd3c422154e6c7c3af06fdd9a779f7d294de6d,"fix(curriculum): Change ""Pey"" to ""Pay"" in learn-conversation-starters…",2025-11-08T08:26:14Z,1,2,MohammedKhalidMahmoud,freeCodeCamp,freeCodeCamp
+7cbab4902a3ad15ecb61ac436afdc7bc118e3380,chore: pnpm self-update,2025-11-08T01:58:57Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
 2432f5e9e40cec150a9525df4f33a3ad5f8e8b5e,"feat(tools, client): add speaking tasks logic (#61906)",2025-11-07T19:29:21Z,24,1470,DanielRosa74,freeCodeCamp,freeCodeCamp
 e32bad05c3586984ac8d8ae63f6a24cd0e1c3161,feat(curriculum): add new Spanish audio from the CDN (#63635),2025-11-07T16:45:01Z,1,1,estefaniacn,freeCodeCamp,freeCodeCamp
 e9516faca48322f4ffb34228bce26c6a42ff836b,"fix(curriculum): Typo in daily challenges 103, 104, 107 (#63609)",2025-11-07T16:33:38Z,6,12,moT01,freeCodeCamp,freeCodeCamp
@@ -910,10 +914,3 @@ eff6a8c768c36a265c65275154ebecee6eaf071b,fix(curriculum): updated quiz condition
 906a21b2ada04a8d60696198e7e992e3dd8cf8e7,fix(curriculum): allow extra whitespace for regex in step 33 (#61673),2025-08-09T10:10:09Z,1,2,StuartMosquera,freeCodeCamp,freeCodeCamp
 b84dc47ecbf9c292aa8c77ad767eee737809b91a,fix(curriculum): specify using function parameter in description (#61…,2025-08-09T07:51:51Z,2,4,DevchamploO,freeCodeCamp,freeCodeCamp
 6451b572f24755da46b4909654decbf54628293e,feat(curriculum): add adjacency convertor lab (#61298),2025-08-09T05:45:33Z,5,249,zairahira,freeCodeCamp,freeCodeCamp
-b83c747ccd363e6a9bf24039c2c05a0577ee52cd,fix(curriculum): Explain Controlled Inputs in Fruit Search App (#61266),2025-08-08T22:38:14Z,1,17,Giftea,freeCodeCamp,freeCodeCamp
-7217d60f5c028c4874760cec346e799d0e89af17,feat: add html entities lab to full stack curriculum (#61716),2025-08-08T19:22:36Z,5,139,ilenia-magoni,freeCodeCamp,freeCodeCamp
-03bbdbe584339308e6a12d33e774914dd2f8050e,feat(curriculum): Add A1 Chinese Outline (#61655),2025-08-08T19:12:33Z,17,168,miyaliu666,freeCodeCamp,freeCodeCamp
-06561edaeb026c020bdc4fa4a538d71a2ef14903,chore(deps): update curriculum helpers (#61749),2025-08-08T18:07:14Z,2,24,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-0a1fe0cb7c676ee62e5322d4307a54704a6f2a6d,fix(curriculum): add missing 'Objective:' to lab descriptions (#61697),2025-08-08T10:39:22Z,60,122,StuartMosquera,freeCodeCamp,freeCodeCamp
-c27fd68ceb6afb6029b1d9a6f5e3ba877fe587e1,test: /donate page for signed out users (#61738),2025-08-08T09:20:25Z,1,171,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-9d441440ac7ca8babab6923546853c604f7df1fb,Fix(curriculum): Moved API above Objective line and added short intro…,2025-08-08T07:30:29Z,1,4,stimmer860,freeCodeCamp,freeCodeCamp
