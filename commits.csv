@@ -1,4 +1,8 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+8d34ae8ab20e175801c4b52f8f163026feb97e7f,fix(curriculum): remove last sentence from step 16 of bookstore page …,2025-11-09T12:22:20Z,1,2,simoncriado,freeCodeCamp,freeCodeCamp
+b0d94ee4fb33529ba3855c56963c0d6c73338a8b,fix(curriculum): remove extra quotes from lunch picker user stories (…,2025-11-09T09:50:21Z,1,14,hello-rain,freeCodeCamp,freeCodeCamp
+f9942d0c3f42eeee09be7b9a9cc0c09e40e8e293,fix(curriculum): replace second comprehensive check quesion in div el…,2025-11-09T07:56:56Z,1,24,pdtrang,freeCodeCamp,freeCodeCamp
+15d6b0b488c9b5d86a05c2c6a2081a2da1e4f9eb,fix(curriculum): update What Is the Object() Constructor lesson (#63657),2025-11-09T07:54:07Z,1,4,pdtrang,freeCodeCamp,freeCodeCamp
 843457665eae04483b5ae300bf02d9430c01822d,"feat(curriculum): Improve example in ""Working with Regular Expression…",2025-11-08T15:59:39Z,1,32,akshith30388,freeCodeCamp,freeCodeCamp
 94c53c6144a6fa264801aeff9724c52b082b3461,fix: add missing question mark (#63656),2025-11-08T08:33:28Z,1,2,lasyareddipatlolla71415-wq,freeCodeCamp,freeCodeCamp
 c7dd3c422154e6c7c3af06fdd9a779f7d294de6d,"fix(curriculum): Change ""Pey"" to ""Pay"" in learn-conversation-starters…",2025-11-08T08:26:14Z,1,2,MohammedKhalidMahmoud,freeCodeCamp,freeCodeCamp
@@ -910,7 +914,3 @@ fdcaff632c27b06d4194a79fd03eb5d8c4778cbe,fix(curriculum): fixed typo in JavaScri
 ec815cdd35f6725e3187702f1802b60c2beabad3,feat(curriculum): add working with common data structures lectures (#…,2025-08-11T12:30:36Z,7,1423,ilenia-magoni,freeCodeCamp,freeCodeCamp
 f4307c7d0f00c01c63c5f9a4e33ab9e28251007b,fix(curriculum): fixed typo in workshop medical  data validator step …,2025-08-11T11:13:24Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
 e9ee37c60395219d7a2889c8e5a194d8acc1bbfe,fix(curriculum): clarify greeting bot hint (#61758),2025-08-11T08:11:08Z,1,2,collinfugate,freeCodeCamp,freeCodeCamp
-eff6a8c768c36a265c65275154ebecee6eaf071b,fix(curriculum): updated quiz conditional statements answer (#61753),2025-08-09T17:53:11Z,1,2,doylese,freeCodeCamp,freeCodeCamp
-906a21b2ada04a8d60696198e7e992e3dd8cf8e7,fix(curriculum): allow extra whitespace for regex in step 33 (#61673),2025-08-09T10:10:09Z,1,2,StuartMosquera,freeCodeCamp,freeCodeCamp
-b84dc47ecbf9c292aa8c77ad767eee737809b91a,fix(curriculum): specify using function parameter in description (#61…,2025-08-09T07:51:51Z,2,4,DevchamploO,freeCodeCamp,freeCodeCamp
-6451b572f24755da46b4909654decbf54628293e,feat(curriculum): add adjacency convertor lab (#61298),2025-08-09T05:45:33Z,5,249,zairahira,freeCodeCamp,freeCodeCamp
