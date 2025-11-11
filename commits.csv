@@ -1,4 +1,20 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+c722fcdd9de690c9738891426679fa618a99607f,fix(curriculum): update tests for step 41 of cat photo app workshop (…,2025-11-10T23:19:13Z,1,4,pdtrang,freeCodeCamp,freeCodeCamp
+c56a9448f40267abba5e51ff4a2005110baca5d9,fix(curriculum): allow multiple trailing spaces in factorial calculat…,2025-11-10T23:12:20Z,1,2,Armankb2,freeCodeCamp,freeCodeCamp
+69eb4e400340073ccabeec26b3eb87d2fde56ac3,fix(curriculum): guide users to enable the interactive editor (#63328),2025-11-10T19:30:25Z,34,150,st3lll4,freeCodeCamp,freeCodeCamp
+0c844ab007ea91843b449b0219ea9703d1ba7b10,"feat(client,challenge-parser): render Chinese as ruby markup (#63424)",2025-11-10T19:25:57Z,13,729,huyenltnguyen,freeCodeCamp,freeCodeCamp
+14dd3c6b2772b29a8226ba3c6bf3abfaf9f0ef91,chore(curriculum): update v9 content (#63650),2025-11-10T17:24:50Z,7,75,moT01,freeCodeCamp,freeCodeCamp
+13ec0d5a9053e7db01218f2a2a3cb33c5c1e46bb,fix(curriculum): clarify performance.now() precision and update quiz …,2025-11-10T16:19:58Z,1,4,ketanpatil29,freeCodeCamp,freeCodeCamp
+2bbb66a8549b180fb2f1771a9f6e9badccb84464,"chore(i18n,learn): update i18n-curriculum submodule (#63695)",2025-11-10T15:09:05Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+e8a145b3a2341ff23f3a22ca1782db23a3d30b28,feat(curriculum): Add Chinese audios from the CDN (#63682),2025-11-10T14:56:40Z,1,6,miyaliu666,freeCodeCamp,freeCodeCamp
+3549056b34b4598834f119e9c66117d18d0b28f4,"chore(i18n,client): processed translations (#63693)",2025-11-10T14:55:15Z,20,1210,camperbot,freeCodeCamp,freeCodeCamp
+7616926f3f5092bef003fef669e322253186d3bd,refactor(e2e): consolidate tests in preview.spec.ts (#63652),2025-11-10T13:29:42Z,1,15,huyenltnguyen,freeCodeCamp,freeCodeCamp
+dff61e6af7b81e70a40a175e68d31b9bf73763a3,fix(curriculum): fix misleading question in grid section (#63648),2025-11-10T12:03:16Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
+4ec96c1a0cec3e3e59a37f26ca6b47cf3ef5d465,feat: allow filtering by block and challengeId (#63640),2025-11-10T11:29:21Z,5,47,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+8de1289fa81ae7a59dff2e313e22413828e53fc9,fix(curriculum): correct spacing in CSS editable region (#63433),2025-11-10T08:26:00Z,20,24,shashankdangi,freeCodeCamp,freeCodeCamp
+d8f5c6aca734bd8b51def51e3c8631b6fe07bdd4,feat(curriculum): add interactive examples to recursion and call stac…,2025-11-10T08:25:08Z,1,68,Armankb2,freeCodeCamp,freeCodeCamp
+2d15487f26362dc30cd1730af5241197e44d867e,fix(curriculum): fix typo (#63687),2025-11-10T08:21:17Z,1,2,jvodlz,freeCodeCamp,freeCodeCamp
+9509811a7317ddd85b4cca8b472c2b0354b599e5,fix(client): remove extra margin inside the donate alert (#63413),2025-11-10T08:17:51Z,1,4,garyeung,freeCodeCamp,freeCodeCamp
 8d34ae8ab20e175801c4b52f8f163026feb97e7f,fix(curriculum): remove last sentence from step 16 of bookstore page …,2025-11-09T12:22:20Z,1,2,simoncriado,freeCodeCamp,freeCodeCamp
 b0d94ee4fb33529ba3855c56963c0d6c73338a8b,fix(curriculum): remove extra quotes from lunch picker user stories (…,2025-11-09T09:50:21Z,1,14,hello-rain,freeCodeCamp,freeCodeCamp
 f9942d0c3f42eeee09be7b9a9cc0c09e40e8e293,fix(curriculum): replace second comprehensive check quesion in div el…,2025-11-09T07:56:56Z,1,24,pdtrang,freeCodeCamp,freeCodeCamp
@@ -62,7 +78,7 @@ b060233b5055264dfcdab08ec689aefcf79e41bb,fix(curriculum): fix typo and grammar i
 d9abc21e81720307a3882c74fd68bfae00c7b94a,fix(curriculum): correct grammar in Web Animations API lesson (#63506),2025-11-04T16:52:33Z,1,2,AntonioFigueiredo,freeCodeCamp,freeCodeCamp
 1ffd4568c4bda861d3a65ffaf1c39cb435b82648,fix(curriculum): make tests work again (#63504),2025-11-04T16:44:21Z,8,16,ilenia-magoni,freeCodeCamp,freeCodeCamp
 d819fefc61a5f96b4702d2b713f9688c59851df6,fix: correct grammar in Fingerprint Test description (#63493),2025-11-04T12:55:15Z,2,4,Teku-Guy,freeCodeCamp,freeCodeCamp
-9da851bc9adf0ca55b2a0b07ba0a282d9996bf48,fix(curriculum): clarify addProduct behavior in inventory lab (#63132),2025-11-04T12:21:09Z,1,2,ILUCIFER0069,freeCodeCamp,freeCodeCamp
+9da851bc9adf0ca55b2a0b07ba0a282d9996bf48,fix(curriculum): clarify addProduct behavior in inventory lab (#63132),2025-11-04T12:21:09Z,1,2,vishal-singh-web,freeCodeCamp,freeCodeCamp
 9ac6fbf27c4483a622ee5e64e1f651c2da525757,fix(curriculum): grammar and punctuations in CSS filter lesson (#63496),2025-11-04T12:15:07Z,1,12,vardhu032,freeCodeCamp,freeCodeCamp
 abbb52a3fddebbb2daa424edbffe3b9dab132dce,fix(curriculum): add missing 'you' in transcript for dialogue 3 (#63499),2025-11-04T12:13:43Z,1,2,vardhu032,freeCodeCamp,freeCodeCamp
 22e346ddc957d1a5f6bc89db33f2cfa9e7b44504,feat(curriculum): add `inputType` property to challenge schema (#63405),2025-11-04T09:49:15Z,1,12,huyenltnguyen,freeCodeCamp,freeCodeCamp
