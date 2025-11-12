@@ -1,23 +1,47 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87XbQk1,63761,Use stricter regex for Hanzi–Pinyin pair detection,OPEN,2025-11-11T23:24:01Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XZ2dz,63757,Typo in es-a1-learn-consonants-and-special-characters,OPEN,2025-11-11T20:55:03Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XZC9U,63752,Add interactive examples to Proper Heading Level Structure lesson,OPEN,2025-11-11T19:45:40Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GdcHm,61859,☂️ Umbrella Issue updating lessons with interactive code examples ☂️,OPEN,2025-08-18T07:52:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XYmil,63750,Add punctuation to first set of comprehension check options for Accessibility Auditing Tools lesson,OPEN,2025-11-11T19:08:47Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87WcSfk,63610,Accessibility for Full Stack Developer,OPEN,2025-11-06T21:31:43Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XGDf3,63698,tests pass with empty editor,CLOSED,2025-11-10T16:00:25Z,2025-11-11T19:23:07Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87WtlR2,63651,Add example to heart icon step 3,CLOSED,2025-11-07T22:38:51Z,2025-11-11T19:18:47Z,huyenltnguyen;ketanpatil29,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86kZwpU,57752,Lecture blocks left to add to the Relational Databases Chapter,CLOSED,2024-12-24T19:12:54Z,2025-11-11T19:13:29Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XXj7-,63742,Remove unused test label,CLOSED,2025-11-11T17:46:31Z,2025-11-11T19:13:19Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XX698,63746,Remove punctuation from comprehension check options in screen readers lesson,OPEN,2025-11-11T18:14:47Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XYNpF,63749,Remove puncutation from comprehension check options in Alternative Pointing Devices lesson,OPEN,2025-11-11T18:37:21Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87D7Xxd,61654,Possible AI Applications for Our Platform,CLOSED,2025-08-03T12:12:35Z,2025-08-11T12:33:54Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XXxU6,63744,Remove unnecessary capitalization and punctuation in intro to accessibility lesson,OPEN,2025-11-11T18:02:17Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XW08Z,63740,Unclear instruction: Build a hash table,OPEN,2025-11-11T16:47:12Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XJOnU,63708,Add code examples to semantic HTML review page,CLOSED,2025-11-10T20:06:22Z,2025-11-11T16:39:13Z,dimssu,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XNEbZ,63715,Incorrect example and explanation in heap property visualization (values and hierarchy mismatch),CLOSED,2025-11-11T03:18:20Z,2025-11-11T16:36:02Z,ilenia-magoni,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87WHGQ9,63555,Add interactive examples to e.preventDefault lesson,CLOSED,2025-11-05T17:51:48Z,2025-11-11T16:29:31Z,farchettiensis,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87WIhU7,63565,Add interactive examples to static properties and methods lesson,OPEN,2025-11-05T19:50:26Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XH9AO,63704,Update good structural hierarchy lesson,CLOSED,2025-11-10T18:23:37Z,2025-11-11T16:14:58Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XUB2E,63728,Font Size,OPEN,2025-11-11T13:34:52Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87WqnyA,63641,Remove duplicate title inside UTF-8  lesson,CLOSED,2025-11-07T18:23:34Z,2025-11-11T16:01:50Z,daczarne,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XRN9D,63720,wrong capitalization in step 3 of quincy's job tips page,CLOSED,2025-11-11T10:10:31Z,2025-11-11T15:59:38Z,Chiranthdv,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UZp4I,63210,Dependency Dashboard,OPEN,2025-10-28T21:48:33Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X85r2t8z,50999,POST /challenge/coderoad-challenge-completed,CLOSED,2023-07-18T09:09:26Z,2023-08-24T15:53:06Z,Sembauke;moT01;ojeytonwilliams,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87SgQV7,62905,Redirect users who sign in from the landing page to /learn,OPEN,2025-10-20T09:13:31Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XIj_3,63705,Remove boilerplate steps in cat blog page,OPEN,2025-11-10T19:13:25Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XMroR,63714,add new coding challenge - maskify numbers,OPEN,2025-11-11T02:26:53Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XMZkb,63712,Remove boilerplate steps from final exams table workshop,OPEN,2025-11-11T01:51:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WrbJT,63642,Update tests for step 41 of cat photo app workshop,CLOSED,2025-11-07T19:22:52Z,2025-11-10T23:19:14Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87XG_62,63701,factorial calculator fails for some spaces,CLOSED,2025-11-10T17:07:45Z,2025-11-10T23:12:21Z,Armankb2,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87XIj_3,63705,Remove boilerplate steps in cat blog page,OPEN,2025-11-10T19:13:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87W52rz,63685,Update recipe tracker,OPEN,2025-11-09T21:06:01Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87XJk3i,63710,Remove boilerplate steps from hotel feedback form,OPEN,2025-11-10T20:36:17Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87XJOnU,63708,Add code examples to semantic HTML review page,OPEN,2025-11-10T20:06:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87W21t5,63678,transition property not compatible with tests,OPEN,2025-11-09T09:44:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WLCQW,63583,Non-obvious use of em dash,OPEN,2025-11-05T23:35:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TTQI5,62972,Update lessons that mention interacting with the interactive editor,CLOSED,2025-10-23T14:49:23Z,2025-11-10T19:30:27Z,st3lll4,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87XH9AO,63704,Update good structural hierarchy lesson,OPEN,2025-11-10T18:23:37Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87XGdUW,63700,Address ambuigity in lesson for 2NF,OPEN,2025-11-10T16:30:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87XGNjo,63699,Update text container width for fsd lessons,OPEN,2025-11-10T16:11:41Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87XGDf3,63698,tests pass with empty editor,OPEN,2025-11-10T16:00:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87W2hCS,63676,Precise information on Understanding Performance in Web Applications,CLOSED,2025-11-09T08:32:44Z,2025-11-10T16:20:00Z,ketanpatil29,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WqMcL,63638,Use consistent editor layout for workshops in full stack cert,OPEN,2025-11-07T17:53:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WsTGh,63645,Misleading Question in Grid Section,CLOSED,2025-11-07T20:35:56Z,2025-11-10T12:03:18Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87W-4II,63690,quotes around strings in description make people think they go in the output,OPEN,2025-11-10T08:37:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Vc3qQ,63431,blank lines in seed code give weird effect,CLOSED,2025-11-03T08:48:30Z,2025-11-10T08:26:01Z,shashankdangi,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87GdcHm,61859,☂️ Umbrella Issue updating lessons with interactive code examples ☂️,OPEN,2025-08-18T07:52:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WIji0,63566,Add interactive examples to recursion and call stack lesson,CLOSED,2025-11-05T19:53:32Z,2025-11-10T08:25:09Z,Armankb2;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Wkrel,63624,Typo in Learn How to Clarify Misunderstandings - Task 27,CLOSED,2025-11-07T11:36:50Z,2025-11-10T08:21:19Z,jvodlz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87U3t-N,63323,Donate note has extra space at the bottom,CLOSED,2025-10-30T15:40:11Z,2025-11-10T08:17:53Z,garyeung,freeCodeCamp,freeCodeCamp
@@ -38,12 +62,10 @@ I_kwDOAbI7X87Wy9-P,63667,[bug] api serialization failure for error response,OPEN
 I_kwDOAbI7X87Tped7,63041,Update todo list lab user stories 4 and 5,OPEN,2025-10-24T20:08:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87VYkkF,63425,Mismatch in float layout lesson: container height explanation does not match provided CSS,OPEN,2025-11-02T21:26:20Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WQ2H2,63590,Misaligned hero section text on mobile,OPEN,2025-11-06T08:42:59Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87WtlR2,63651,Add example to heart icon step 3,OPEN,2025-11-07T22:38:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WsdTS,63647,Incomplete JavaScript Comparisons and Conditionals Review,OPEN,2025-11-07T20:50:37Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Ws8Wy,63649,Add missing punctuation for html audio and video lab solution,CLOSED,2025-11-07T21:36:40Z,2025-11-08T08:33:29Z,sainischalvarma,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WsLuR,63644,Typo in learn-conversation-starters-in-the-break-room - task 46,CLOSED,2025-11-07T20:27:35Z,2025-11-08T08:26:15Z,MohammedKhalidMahmoud,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Wm_fl,63631,Book Organizer filter() results not tested,OPEN,2025-11-07T14:14:54Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87WqnyA,63641,Remove duplicate title inside UTF-8  lesson,OPEN,2025-11-07T18:23:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WGVAn,63547,Add interactive examples to common aria states lesson,OPEN,2025-11-05T16:56:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WJtkU,63575,Add interactive examples to regex and common methods lesson,CLOSED,2025-11-05T21:26:30Z,2025-11-07T15:05:16Z,M-Vamshidhar-Reddy,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WmmA3,63629,Add dynamic meta images based on page content,CLOSED,2025-11-07T13:51:23Z,2025-11-07T14:40:31Z,,freeCodeCamp,freeCodeCamp
@@ -52,7 +74,6 @@ I_kwDOAbI7X87WX3E0,63601,[A1 Chinese] Change all review blocks to use `challenge
 I_kwDOAbI7X87WGuxW,63551,Add interactive examples to async/await lesson,OPEN,2025-11-05T17:23:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WHH_x,63556,Add interactive examples to functional programming lesson,OPEN,2025-11-05T17:53:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WIyDB,63569,Add interactive examples to JS Date object lesson,OPEN,2025-11-05T20:12:51Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87WcSfk,63610,Accessibility for Full Stack Developer,OPEN,2025-11-06T21:31:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Wc7XU,63613,Build a Mood board - NaN% Complete,CLOSED,2025-11-06T22:34:28Z,2025-11-06T22:57:09Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WdCS3,63614,Move `isUpcomingChange` from block structure to super block structure,OPEN,2025-11-06T22:48:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TQDmD,62968,[discussion] move more curriculum into growthbook,OPEN,2025-10-23T11:03:33Z,,,freeCodeCamp,freeCodeCamp
@@ -72,10 +93,8 @@ I_kwDOAbI7X87WJ7L7,63577,Add interactive examples to common regex modifiers for 
 I_kwDOAbI7X87WFw7F,63545,Add interactive examples to try…catch…finally lesson,CLOSED,2025-11-05T16:21:52Z,2025-11-05T21:12:08Z,ishaanpgujaran,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WIprR,63568,Add interactive examples to IndexedDB lesson,OPEN,2025-11-05T20:02:01Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WIYgL,63563,Add interactive examples to this keyword lesson,OPEN,2025-11-05T19:37:44Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87WIhU7,63565,Add interactive examples to static properties and methods lesson,OPEN,2025-11-05T19:50:26Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WIXYI,63562,جده,CLOSED,2025-11-05T19:36:06Z,2025-11-05T19:40:44Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WHLw3,63557,Add interactive examples to currying lesson,OPEN,2025-11-05T17:58:07Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87WHGQ9,63555,Add interactive examples to e.preventDefault lesson,OPEN,2025-11-05T17:51:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WG2_5,63553,Add interactive examples to validate forms lesson,OPEN,2025-11-05T17:33:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WGe-r,63549,Add interactive examples to aria-controls attribute lesson,OPEN,2025-11-05T17:06:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TD1rP,62933,Daily Challenge breadcrumb doesn't work,CLOSED,2025-10-22T13:58:49Z,2025-11-05T16:58:25Z,pdtrang,freeCodeCamp,freeCodeCamp
@@ -137,7 +156,6 @@ I_kwDOAbI7X87Vku2-,63463,Add interactive examples to DOMContentLoaded lesson,CLO
 I_kwDOAbI7X87VlFi0,63471,Add interactive examples to canvas API lesson,CLOSED,2025-11-03T18:38:19Z,2025-11-03T19:05:26Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Vj4WP,63457,"Use `challenge-grid` for the layout of A1 Chinese learn, practice, and warm up blocks",CLOSED,2025-11-03T17:03:35Z,2025-11-03T17:53:46Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87VdxzY,63435,labeler action is failing,CLOSED,2025-11-03T10:01:31Z,2025-11-03T10:59:09Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87UZp4I,63210,Dependency Dashboard,OPEN,2025-10-28T21:48:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Mb4kg,62256,Potential errors in reusable card component workshop,CLOSED,2025-09-18T11:10:24Z,2025-11-03T05:35:18Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87VLctI,63409,Incorrect explanation of nullish coalescing operator in lesson,CLOSED,2025-10-31T21:25:43Z,2025-11-02T19:47:03Z,l3onhard,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87VTCY7,63418,Incorrect Answer on Quiz in Perform Basic Operations on Numbers in C#,CLOSED,2025-11-01T22:16:09Z,2025-11-02T09:47:19Z,,freeCodeCamp,freeCodeCamp
@@ -260,7 +278,6 @@ I_kwDOAbI7X87UFuyd,63106,"Add interactive examples to What Is the Attribute Sele
 I_kwDOAbI7X87USvWu,63145,Lesson TS compiler assumes all files are index.tsx,OPEN,2025-10-28T13:50:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UFaWN,63105,"Add interactive examples to What Is the Z-Index Property, and How Does It Work to Control the Stacking of Positioned Elements? lesson",CLOSED,2025-10-27T19:00:22Z,2025-10-28T10:17:17Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UGSHI,63113,"Add interactive examples to How Do Media Queries Work, and What Are Some Common Media Types and Features? lesson",CLOSED,2025-10-27T20:02:45Z,2025-10-28T10:14:44Z,kannan-ravi,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87SgQV7,62905,Redirect users who sign in from the landing page to /learn,OPEN,2025-10-20T09:13:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UGUCA,63114,"Add interactive examples to What Are Media Breakpoints, and What Are Common Breakpoints in Modern Design? lesson",CLOSED,2025-10-27T20:04:42Z,2025-10-28T10:13:51Z,kannan-ravi,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UGXwD,63115,Add interactive examples to What Is the Mobile First Approach in Responsive Web Design? lesson,CLOSED,2025-10-27T20:08:34Z,2025-10-28T10:13:39Z,kannan-ravi,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UGyFX,63118,"Add interactive examples to What Are CSS Custom Properties, and How Do They Work? lesson",CLOSED,2025-10-27T20:33:06Z,2025-10-28T10:11:00Z,pdtrang,freeCodeCamp,freeCodeCamp
@@ -742,15 +759,6 @@ I_kwDOAbI7X87FmocU,61790,"To build an online banking website for Trust Finance B
 I_kwDOAbI7X87EudYE,61717,Add an Audio Feature to Lecture Articles,OPEN,2025-08-07T13:24:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Equ1p,61705,make output explitic in projectile trajectory step 14,CLOSED,2025-08-07T08:28:28Z,2025-08-12T15:03:35Z,StuartMosquera,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86_IYPB,61230,Library Manager - Step 14,OPEN,2025-07-06T14:57:00Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87D7Xxd,61654,Possible AI Applications for Our Platform,CLOSED,2025-08-03T12:12:35Z,2025-08-11T12:33:54Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EmTJk,61699,Update attribute lecture script to cover concepts in related lab,CLOSED,2025-08-06T23:26:20Z,2025-08-12T12:58:21Z,huyenltnguyen;jdwilkin4,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87FE4ha,61764,How Do Assertions Work in Unit Testing? definition wording,CLOSED,2025-08-09T13:57:41Z,2025-08-12T12:41:33Z,kb42,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-EJoj,61159,Bug in Step 6 of Merge Sort Algorithm Challenge,CLOSED,2025-06-30T14:44:13Z,2025-08-12T07:16:34Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87FBVNT,61755,suggestion to add a lecture to teach how to use vs code along-side html/css/js lectures,OPEN,2025-08-09T00:00:44Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Ew0rY,61727,Minor typos in JavaScript arrays review and quiz,CLOSED,2025-08-07T16:20:13Z,2025-08-11T16:03:34Z,sinha21Soumya,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87FDNOG,61761,Add Simple Trading Card Battle Game as an Interactive Learning Tool,CLOSED,2025-08-09T05:52:04Z,2025-08-11T11:42:58Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86-HTQd,61166,Browsing Topics API warning while using Firefox,OPEN,2025-06-30T19:13:55Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865M5HM,60643,Keyboard shortcuts in code editor,CLOSED,2025-06-01T12:17:54Z,2025-08-11T11:04:59Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86-dA1L,61181,hint not precise enough in greeting bot workshop,CLOSED,2025-07-02T09:41:33Z,2025-08-11T08:11:09Z,collinfugate,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Cr2BB,61486,Add always-visible progress bar on the workshop page.,CLOSED,2025-07-26T23:21:48Z,2025-08-11T08:06:09Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X862iwe6,60341,Typo in lesson video,CLOSED,2025-05-14T10:06:14Z,2025-06-26T17:18:43Z,estefaniacn,freeCodeCamp,freeCodeCamp
