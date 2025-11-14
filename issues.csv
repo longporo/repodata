@@ -1,22 +1,38 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87XYmil,63750,Add punctuation to first set of comprehension check options for Accessibility Auditing Tools lesson,CLOSED,2025-11-11T19:08:47Z,2025-11-13T00:08:35Z,krishna-medapati,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87XfyqO,63766,Top bar script.js button misbehaves on Firefox browser,OPEN,2025-11-12T08:05:53Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87WcSfk,63610,Accessibility for Full Stack Developer,CLOSED,2025-11-06T21:31:43Z,2025-11-12T22:23:14Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87X9dFS,63821,"JavaScript Section shows 1033 out of 1034 Steps Complete, All Steps are Checked",OPEN,2025-11-13T23:15:04Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87X9Tjx,63819,Minor Typo,OPEN,2025-11-13T23:03:26Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87X9cKN,63820,Camper says they have completed everything in JS cert but still showing that one step is incomplete,CLOSED,2025-11-13T23:13:38Z,2025-11-13T23:18:23Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87X8z2a,63818,Write tests for `buildTranscript` function,OPEN,2025-11-13T22:20:11Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87X6nqc,63812,Break down the first step of sentence analyser,OPEN,2025-11-13T19:12:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87X5rt3,63809,Use `challenge-grid` for layout of Spanish learn and practice blocks,CLOSED,2025-11-13T17:56:44Z,2025-11-13T19:39:14Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87X6phO,63814,Workshop for refactoring?,OPEN,2025-11-13T19:14:45Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87X6o3A,63813,Workshop/Lab for exploring console?,OPEN,2025-11-13T19:13:51Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87X6VC3,63811,missing Java highlight,OPEN,2025-11-13T18:48:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Xq1cH,63788,Escaping HTML entities,OPEN,2025-11-12T21:42:22Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87X4ZuO,63808,Error generating exam token,OPEN,2025-11-13T16:20:07Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87X1zAo,63804,Unclear requirements for claiming new certifications,OPEN,2025-11-13T13:20:10Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GdcHm,61859,☂️ Umbrella Issue updating lessons with interactive code examples ☂️,OPEN,2025-08-18T07:52:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XkpIK,63776,Add interactive example to associated label lesson and update questions,CLOSED,2025-11-12T14:03:35Z,2025-11-13T14:58:39Z,tanmaygautam11,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87X0nII,63801,Broken old FSD links,OPEN,2025-11-13T11:52:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XYNpF,63749,Remove puncutation from comprehension check options in Alternative Pointing Devices lesson,CLOSED,2025-11-11T18:37:21Z,2025-11-13T11:28:40Z,Harri254,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XzsjY,63798,inconsistent use of backticks with console in Greeting Bot workshop,OPEN,2025-11-13T10:47:21Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XzWH0,63797,misplaced sentence in BookStore Page workshop,OPEN,2025-11-13T10:24:54Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XwUZA,63794,[bug]: .dev does not point to staging exam-env,OPEN,2025-11-13T06:50:00Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87WG2_5,63553,Add interactive examples to validate forms lesson,CLOSED,2025-11-05T17:33:22Z,2025-11-13T09:15:48Z,huyenltnguyen;loki106-dot,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XGdUW,63700,Address ambuigity in lesson for 2NF,CLOSED,2025-11-10T16:30:16Z,2025-11-13T09:06:53Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Xm24p,63779,Add interactive examples to aria roles lesson,CLOSED,2025-11-12T16:28:19Z,2025-11-13T08:42:31Z,KarthikPaka,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XvDGi,63791,Full Stack Developer Curriculum not showing teaching and training sessions for unsigned in user,CLOSED,2025-11-13T04:54:53Z,2025-11-13T07:07:37Z,jdwilkin4,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XfyqO,63766,Top bar script.js button misbehaves on Firefox browser,OPEN,2025-11-12T08:05:53Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XYmil,63750,Add punctuation to first set of comprehension check options for Accessibility Auditing Tools lesson,CLOSED,2025-11-11T19:08:47Z,2025-11-13T00:08:35Z,krishna-medapati,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87WcSfk,63610,Accessibility for Full Stack Developer,CLOSED,2025-11-06T21:31:43Z,2025-11-12T22:23:14Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87XqP9c,63785,Build a Checkout Page lab doesn't pass if you use implicit form association,OPEN,2025-11-12T20:49:06Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87XGdUW,63700,Address ambuigity in lesson for 2NF,OPEN,2025-11-10T16:30:16Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87WG2_5,63553,Add interactive examples to validate forms lesson,OPEN,2025-11-05T17:33:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87XIj_3,63705,Remove boilerplate steps in cat blog page,CLOSED,2025-11-10T19:13:25Z,2025-11-12T18:45:11Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87XMZkb,63712,Remove boilerplate steps from final exams table workshop,CLOSED,2025-11-11T01:51:17Z,2025-11-12T18:43:22Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87XJk3i,63710,Remove boilerplate steps from hotel feedback form,CLOSED,2025-11-10T20:36:17Z,2025-11-12T18:41:39Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Xnmt0,63782,Add interactive examples to aria-label lesson,OPEN,2025-11-12T17:17:43Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87GdcHm,61859,☂️ Umbrella Issue updating lessons with interactive code examples ☂️,OPEN,2025-08-18T07:52:50Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Xm24p,63779,Add interactive examples to aria roles lesson,OPEN,2025-11-12T16:28:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87VPX6J,63414,Reattempting a completed lab shows NaN% completion,OPEN,2025-11-01T09:02:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87XXxU6,63744,Remove unnecessary capitalization and punctuation in intro to accessibility lesson,CLOSED,2025-11-11T18:02:17Z,2025-11-12T14:20:40Z,utk-avi,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87XkpIK,63776,Add interactive example to associated label lesson and update questions,OPEN,2025-11-12T14:03:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UZp4I,63210,Dependency Dashboard,OPEN,2025-10-28T21:48:33Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87XYNpF,63749,Remove puncutation from comprehension check options in Alternative Pointing Devices lesson,OPEN,2025-11-11T18:37:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Xf9jy,63767,"""Something went wrong."" appears for signed out users if api server is down",OPEN,2025-11-12T08:21:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87XZ2dz,63757,Typo in es-a1-learn-consonants-and-special-characters,CLOSED,2025-11-11T20:55:03Z,2025-11-12T08:00:25Z,ThisIsMubashir,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WJ7L7,63577,Add interactive examples to common regex modifiers for searching lesson,CLOSED,2025-11-05T21:45:38Z,2025-11-12T07:51:00Z,Almee Christian,freeCodeCamp,freeCodeCamp
@@ -757,7 +773,3 @@ I_kwDOAbI7X860-p3l,60129,Add checks to ensure that proper headings are present i
 I_kwDOAbI7X87F3KVd,61804,Step 51 JavaScript Algorithms and Data Structures- Building a Todo App,CLOSED,2025-08-13T19:22:05Z,2025-08-13T19:26:33Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86-XO2I,61177,Add solution code to the metadata of the first workshop step,OPEN,2025-07-01T20:46:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87F2WM7,61802,JavaScript Arrays Quiz error - keys() is an array method,CLOSED,2025-08-13T18:01:59Z,2025-08-14T09:29:03Z,PRIYAM,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Fp30B,61795,"Group React imports into a single statement in ""Working with Forms in React"" lecture",CLOSED,2025-08-12T22:02:34Z,2025-08-13T18:15:16Z,helfer1991,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87D6CJV,61650,consider adding test for `contacts` in profile lookup lab,CLOSED,2025-08-03T06:48:04Z,2025-08-13T08:54:07Z,StuartMosquera,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Fnw9z,61792,Build a Confidential Email Page tests 9 and 10 impossible to pass,CLOSED,2025-08-12T19:14:38Z,2025-08-13T06:43:10Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87FYErQ,61779,[Suggestion] Include async/await workshop in FullStack Curriculum,OPEN,2025-08-11T19:39:11Z,,,freeCodeCamp,freeCodeCamp
