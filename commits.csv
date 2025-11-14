@@ -1,4 +1,14 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+10473c2b7cad717c08ccb8b3a1d304794e7877ec,fix(curriculum): update blockLayout to use challenge-grid in es-a1 (#…,2025-11-13T19:39:12Z,3,6,pdtrang,freeCodeCamp,freeCodeCamp
+a7f67e349c0440f31cb4e8c0b34e2c4f36f7f775,fix(client): add back exam token i18n key (#63807),2025-11-13T16:54:59Z,1,1,moT01,freeCodeCamp,freeCodeCamp
+b877d5cd33b5f6e971d6197d5fa09ce8ca351531,fix(tools/build): remove new SBs from mobile curriculum v1 (#63806),2025-11-13T16:53:14Z,2,13,Nirajn2311,freeCodeCamp,freeCodeCamp
+6dc706a785cb656a3904ed5cbe2b9b5b02f5ca66,test: fix possible long lasting memory leak in Gatsby Node (#63805),2025-11-13T16:11:12Z,1,1,Sembauke,freeCodeCamp,freeCodeCamp
+3fe392b375ab61342bd445448cc135027b63c3d5,fix(curriculum): replace uncovered quiz questions and add interactive…,2025-11-13T14:58:34Z,1,38,tanmaygautam11,freeCodeCamp,freeCodeCamp
+f82889355b0ad522efadc51019aab05ccbb1de51,fix(curriculum): Remove unnecessary punctuation from comprehension ch…,2025-11-13T11:28:39Z,1,24,Harri254,freeCodeCamp,freeCodeCamp
+ff05967043a384ef9e36ee210c436524baab502f,feat(curriculum): add interactive examples to validate-forms lesson (…,2025-11-13T09:15:46Z,1,424,loki106-dot,freeCodeCamp,freeCodeCamp
+e1af98e5d97f29d12c0a2daa8a1a32a7a6877ca3,fix(curriculum): remove product column in 2NF lesson (#63786),2025-11-13T09:06:52Z,1,8,pdtrang,freeCodeCamp,freeCodeCamp
+958fb2b1553bea20120f1aa6061b776d49638808,feat(curriculum): Add interactive examples to aria roles lesson (#63790),2025-11-13T08:42:30Z,1,349,KarthikPaka,freeCodeCamp,freeCodeCamp
+dfe7279d83e789448816efc15c072ca3e8e20170,fix: missing redirects for fsd cert main page (#63793),2025-11-13T08:30:16Z,1,4,jdwilkin4,freeCodeCamp,freeCodeCamp
 bebd570a22098b381b0b35c76c729de5e1e838cc,fix(curriculum): add punctuation to accessibility auditing tools comp…,2025-11-13T00:08:34Z,1,8,krishna-medapati,freeCodeCamp,freeCodeCamp
 d1be12b869af227f76e57b0a261dabdbee663857,fix: hot reloading lessons (#63781),2025-11-12T23:44:35Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 7f8bf854e847cc21d29a9a7220f57275fa0b8674,fix(client): increase touch target size for super block accordion gri…,2025-11-12T22:23:13Z,1,7,pdtrang,freeCodeCamp,freeCodeCamp
@@ -939,10 +949,3 @@ d64b54912035f8dba1384ce0215de6242469492e,revert(#60948): Test adding transcript 
 29492cbfeae870706948691c8b62b3841f314c0b,fix(curriculum): minor improvements to aria-controls lecture (#61782),2025-08-14T11:28:40Z,1,6,huyenltnguyen,freeCodeCamp,freeCodeCamp
 76cd06471cc09c93784bf81541e67f3ee4d445d7,fix(curriculum): question wording in Computer Basics quiz (#61811),2025-08-14T10:16:29Z,1,2,rtajt,freeCodeCamp,freeCodeCamp
 58b615ef2f09e6e76620d566851631d1cf20aec3,"fix(curriculum): replaced incorrect quiz option ""keys()"" with ""trim()…",2025-08-14T09:29:02Z,1,2,priyamkumar,freeCodeCamp,freeCodeCamp
-bd87711a2cb703f95a6f748b0d8d5810b83a4c4a,fix(curriculum): refactor import from lesson 25 of learning react - w…,2025-08-13T18:15:15Z,1,6,helfer1991,freeCodeCamp,freeCodeCamp
-824fc5943135c8333e1c6000df326e2b17123e76,"chore(i18n,learn): update i18n-curriculum submodule (#61801)",2025-08-13T15:59:24Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-db9b7d2358989d12998c1795d453de0196315610,chore(api): prevent non-staff exam authz token gen on staging (#61786),2025-08-13T15:33:14Z,5,94,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-59aa011b4844182914469db6bb051293229eb455,"chore(i18n,client): processed translations (#61772)",2025-08-13T10:54:24Z,20,380,camperbot,freeCodeCamp,freeCodeCamp
-6d7405f3a91ea841487ac204f844f236e1e7fbfc,fix(curriculum): correct grammatical and punctuation errors (#61799),2025-08-13T10:22:52Z,2,16,Firewooood,freeCodeCamp,freeCodeCamp
-56a2b1672cb0479c75644edefc77bdf75b9be862,fix(curriculum): add new test for 'contacts' in profile lookup lab (#…,2025-08-13T08:54:05Z,1,6,StuartMosquera,freeCodeCamp,freeCodeCamp
-bb41fb81da7c6910eff42a7061736310cce96425,fix(curriculum): add DS review page (#61771),2025-08-13T08:48:09Z,3,263,zairahira,freeCodeCamp,freeCodeCamp
