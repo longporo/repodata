@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+11ef9723ef8c537ace92e7247b87d6d253b0426b,fix(curriculum): fix some minor typos in workshop files (#63838),2025-11-14T20:56:08Z,18,36,pdtrang,freeCodeCamp,freeCodeCamp
+dcf58c1042e287e1fcf10d5782a6433128f6173c,fix(curriculum): typo in Working with File System lecture (#63837),2025-11-14T20:48:56Z,1,2,tanie05,freeCodeCamp,freeCodeCamp
+c07461c08b69cc0a090fa269cd4983999984aca5,fix(curriculum): Remove `:target-within` in notes and change question…,2025-11-14T17:59:28Z,3,10,pdtrang,freeCodeCamp,freeCodeCamp
+73d55e0bcf652b9c59011f404a4bfc56e2a226b8,fix(curriculum): correct spelling error from exlamation to exclamatio…,2025-11-14T17:58:28Z,2,8,Giftea,freeCodeCamp,freeCodeCamp
+7e1f07e384e2196bfe188ea7f0d12b2361589e2d,feat(curriculum): add interactive examples to client side storage neg…,2025-11-14T17:55:16Z,1,6,shy-away,freeCodeCamp,freeCodeCamp
+856a5f683e67325a686f4dfe1f8862a6e46b5c0c,fix(curriculum): remove duplicate lab-voting-system block from module…,2025-11-14T16:17:02Z,1,1,Sembauke,freeCodeCamp,freeCodeCamp
+62918737c8e160eed328e61ed3e3862018961bce,fix(curriculum): add missing line to seed in linked list workshop (#6…,2025-11-14T10:37:15Z,9,9,Dario-DC,freeCodeCamp,freeCodeCamp
 10473c2b7cad717c08ccb8b3a1d304794e7877ec,fix(curriculum): update blockLayout to use challenge-grid in es-a1 (#…,2025-11-13T19:39:12Z,3,6,pdtrang,freeCodeCamp,freeCodeCamp
 a7f67e349c0440f31cb4e8c0b34e2c4f36f7f775,fix(client): add back exam token i18n key (#63807),2025-11-13T16:54:59Z,1,1,moT01,freeCodeCamp,freeCodeCamp
 b877d5cd33b5f6e971d6197d5fa09ce8ca351531,fix(tools/build): remove new SBs from mobile curriculum v1 (#63806),2025-11-13T16:53:14Z,2,13,Nirajn2311,freeCodeCamp,freeCodeCamp
@@ -940,12 +947,3 @@ d48ddcd59edba52d184e4c4afb01f02e8d25a20b,fix(curriculum): change toFix to toFixe
 95263efc129e8864da83195793a54642f1788250,fix(curriculum): removed whitespace from 'Generate OTP'. (#61823),2025-08-15T09:34:45Z,1,2,White-Devil04,freeCodeCamp,freeCodeCamp
 fd82f78f6211b103295f7d2b26659d69adb2f59c,chore(gha): update action name,2025-08-15T09:33:42Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
 0ae01847cb1514c3b7df1b28126f45642a0e73e9,refactor: share common intro creation code (#61814),2025-08-15T06:05:54Z,4,117,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-91f87ea237a23f6c1eb8492cd4b5976fe3b458aa,chore(curriculum): remove backticks for platform name in Troubleshoot…,2025-08-14T12:18:26Z,2,8,Supravisor,freeCodeCamp,freeCodeCamp
-85fbe49501984c391461611f88f86b21183668a1,fix(curriculum): add SVG code example to lecture (#61703),2025-08-14T12:15:07Z,1,16,Hiruna-SP,freeCodeCamp,freeCodeCamp
-d72a6d2bbd3f471755ae9ef9ea626889a8019d21,chore: add redirects for common string methods (#61742),2025-08-14T11:54:05Z,1,28,ilenia-magoni,freeCodeCamp,freeCodeCamp
-d64b54912035f8dba1384ce0215de6242469492e,revert(#60948): Test adding transcript tabs to lectures (#61813),2025-08-14T11:42:03Z,4,106,huyenltnguyen,freeCodeCamp,freeCodeCamp
-9ebdd29205d4d44c8dbe1ad3d2db8f067d6db7a6,feat(challenge-parser): add validateSections plugin (#61148),2025-08-14T11:39:18Z,3,377,huyenltnguyen,freeCodeCamp,freeCodeCamp
-5d2adfa0583e9a2078cbd0a0eaa06e5e3756b277,chore: divide working with common string methods lecture in smaller b…,2025-08-14T11:30:05Z,18,186,ilenia-magoni,freeCodeCamp,freeCodeCamp
-29492cbfeae870706948691c8b62b3841f314c0b,fix(curriculum): minor improvements to aria-controls lecture (#61782),2025-08-14T11:28:40Z,1,6,huyenltnguyen,freeCodeCamp,freeCodeCamp
-76cd06471cc09c93784bf81541e67f3ee4d445d7,fix(curriculum): question wording in Computer Basics quiz (#61811),2025-08-14T10:16:29Z,1,2,rtajt,freeCodeCamp,freeCodeCamp
-58b615ef2f09e6e76620d566851631d1cf20aec3,"fix(curriculum): replaced incorrect quiz option ""keys()"" with ""trim()…",2025-08-14T09:29:02Z,1,2,priyamkumar,freeCodeCamp,freeCodeCamp
