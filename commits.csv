@@ -1,4 +1,13 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+3b7a00a2d477ea747d0e05a5ab5a935e809c8606,fix(curriculum): correct 'less then' → 'less than' typo in loop expla…,2025-11-15T23:51:54Z,1,2,Loboston,freeCodeCamp,freeCodeCamp
+b932e8074097dd0075a54e47816b2b74f71bf207,feat(curriculum): add interactive editors to class inheritance lesson…,2025-11-15T20:01:05Z,1,59,nikhilkumarpanigrahi,freeCodeCamp,freeCodeCamp
+3081b33dbf830ff024bf2ca9b03ae866dc6953e5,feat(curriculum): added interactive examples to aria-controls attribu…,2025-11-15T19:13:50Z,1,182,Jamesren64,freeCodeCamp,freeCodeCamp
+4bde0ce62a1b4897a7e86237a3ba914e3c595abd,fix(curriculum): replace the last comprehension check question for cs…,2025-11-15T18:57:00Z,1,47,pdtrang,freeCodeCamp,freeCodeCamp
+4b3b1f742cc6ae185b3a70bb8b2ca08cc260f177,fix(curriculum): correct minor typo in Python truthy/falsy lesson (#6…,2025-11-15T18:13:47Z,1,2,SkvProgrammer,freeCodeCamp,freeCodeCamp
+2e21e80a3a80471202838e284262f2c99ee61a9e,fix(curriculum): fix workshop CSS (#63865),2025-11-15T17:54:17Z,2,4,Leomb-coder,freeCodeCamp,freeCodeCamp
+8bb699459273538c4a5408e2b6d62bdd309a6abc,fix(client): align attempt result type with api (#63844),2025-11-15T15:23:09Z,2,6,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+e3fc2b0e2a35ee0053f9c87c7410bf4f0bbb3865,fix(curriculum): add interactive examples to aria-label lecture (#63862),2025-11-15T13:01:51Z,1,12,NagallaThanvi,freeCodeCamp,freeCodeCamp
+aaec1b82b9c02568bdbaf0e95e5c150fecf9d360,chore(curriculum): update deadlines for remaining frontend libraries …,2025-11-15T08:43:48Z,1,6,jdwilkin4,freeCodeCamp,freeCodeCamp
 11ef9723ef8c537ace92e7247b87d6d253b0426b,fix(curriculum): fix some minor typos in workshop files (#63838),2025-11-14T20:56:08Z,18,36,pdtrang,freeCodeCamp,freeCodeCamp
 dcf58c1042e287e1fcf10d5782a6433128f6173c,fix(curriculum): typo in Working with File System lecture (#63837),2025-11-14T20:48:56Z,1,2,tanie05,freeCodeCamp,freeCodeCamp
 c07461c08b69cc0a090fa269cd4983999984aca5,fix(curriculum): Remove `:target-within` in notes and change question…,2025-11-14T17:59:28Z,3,10,pdtrang,freeCodeCamp,freeCodeCamp
@@ -943,7 +952,3 @@ a65daec6b51b5ced372a2f2c21c4fedec9c52e35,fix(curriculum): camel case Audio const
 3c866bf5605b602d07089a0173312aaa5788b0b9,fix(curriculum): update description of challenge on compatibility tes…,2025-08-18T07:04:36Z,1,2,tanmaygautam11,freeCodeCamp,freeCodeCamp
 49dc805ce74d594dacda99b4dc6ee657aabf30a2,fix(curriculum): change 'Mac' to 'macOS' when referring to the OS (#6…,2025-08-17T15:50:37Z,3,14,Programmer-Adithya-Iyer,freeCodeCamp,freeCodeCamp
 d48ddcd59edba52d184e4c4afb01f02e8d25a20b,fix(curriculum): change toFix to toFixed in lesson content (#61843),2025-08-16T18:14:47Z,1,2,sanchitkhthpalia,freeCodeCamp,freeCodeCamp
-0741793ceb0e6a4c9e47ae659cb1722d2fdb37ea,fix(curriculum): change card and cvv input types to text (#61827),2025-08-15T15:30:59Z,1,4,errantpianist,freeCodeCamp,freeCodeCamp
-95263efc129e8864da83195793a54642f1788250,fix(curriculum): removed whitespace from 'Generate OTP'. (#61823),2025-08-15T09:34:45Z,1,2,White-Devil04,freeCodeCamp,freeCodeCamp
-fd82f78f6211b103295f7d2b26659d69adb2f59c,chore(gha): update action name,2025-08-15T09:33:42Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
-0ae01847cb1514c3b7df1b28126f45642a0e73e9,refactor: share common intro creation code (#61814),2025-08-15T06:05:54Z,4,117,ojeytonwilliams,freeCodeCamp,freeCodeCamp
