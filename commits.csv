@@ -1,4 +1,7 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+359e3b61259efab859300f5a86c0abb477ea9ac6,feat(curriculum): Add the Chinese vocabulary audio from the CDN (#63873),2025-11-16T12:49:58Z,1,3,miyaliu666,freeCodeCamp,freeCodeCamp
+58352caef16139b5ac1bac9ad865907db1436048,feat(curriculum): add interactive examples to functional programming …,2025-11-16T10:45:37Z,1,12,Paila009,freeCodeCamp,freeCodeCamp
+8ab7c106dafb3bc1494310e29b251e73573be452,feat(tools): add language block specific properties in helper scripts…,2025-11-16T10:31:52Z,10,211,gikf,freeCodeCamp,freeCodeCamp
 3b7a00a2d477ea747d0e05a5ab5a935e809c8606,fix(curriculum): correct 'less then' → 'less than' typo in loop expla…,2025-11-15T23:51:54Z,1,2,Loboston,freeCodeCamp,freeCodeCamp
 b932e8074097dd0075a54e47816b2b74f71bf207,feat(curriculum): add interactive editors to class inheritance lesson…,2025-11-15T20:01:05Z,1,59,nikhilkumarpanigrahi,freeCodeCamp,freeCodeCamp
 3081b33dbf830ff024bf2ca9b03ae866dc6953e5,feat(curriculum): added interactive examples to aria-controls attribu…,2025-11-15T19:13:50Z,1,182,Jamesren64,freeCodeCamp,freeCodeCamp
@@ -127,11 +130,11 @@ b89d8588f447b1eea7492ca7a477fa6800ae2984,fix(curriculum): fix error in step 1 st
 050fc60685a8c95ba162203c4518182e92a4b558,fix(curriculum): pronunciation of Chinese phrase (#63498),2025-11-05T02:42:07Z,2,14,huyenltnguyen,freeCodeCamp,freeCodeCamp
 0561a2a223151574ccb3ec05d70a46c2f2353543,fix(client): exam token widget (#63526),2025-11-05T02:33:29Z,1,2,moT01,freeCodeCamp,freeCodeCamp
 b060233b5055264dfcdab08ec689aefcf79e41bb,fix(curriculum): fix typo and grammar in quiz-bash-commands question …,2025-11-04T23:19:12Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
-4ec50cb688c7614070930d159df3d6c8da1e50ee,feat(curriculum): add new lesson How to Handle Object Attributes Dyna…,2025-11-04T18:28:27Z,2,320,ilenia-magoni,freeCodeCamp,freeCodeCamp
+4ec50cb688c7614070930d159df3d6c8da1e50ee,feat(curriculum): add new lesson How to Handle Object Attributes Dyna…,2025-11-04T18:28:27Z,2,320,majestic-owl448,freeCodeCamp,freeCodeCamp
 4afe2dac07eaaf72595aff4de785d40eab9698ab,feat(curriculum): add discount calculator workshop (#62644),2025-11-04T18:27:27Z,36,2975,zairahira,freeCodeCamp,freeCodeCamp
 5199ced01c0800f6570034cf82b28263c6e24c8e,fix(curriculum): Change blockLayout of zh-a1-quiz and zh-a1-review to…,2025-11-04T18:06:16Z,14,28,pdtrang,freeCodeCamp,freeCodeCamp
 d9abc21e81720307a3882c74fd68bfae00c7b94a,fix(curriculum): correct grammar in Web Animations API lesson (#63506),2025-11-04T16:52:33Z,1,2,AntonioFigueiredo,freeCodeCamp,freeCodeCamp
-1ffd4568c4bda861d3a65ffaf1c39cb435b82648,fix(curriculum): make tests work again (#63504),2025-11-04T16:44:21Z,8,16,ilenia-magoni,freeCodeCamp,freeCodeCamp
+1ffd4568c4bda861d3a65ffaf1c39cb435b82648,fix(curriculum): make tests work again (#63504),2025-11-04T16:44:21Z,8,16,majestic-owl448,freeCodeCamp,freeCodeCamp
 d819fefc61a5f96b4702d2b713f9688c59851df6,fix: correct grammar in Fingerprint Test description (#63493),2025-11-04T12:55:15Z,2,4,Teku-Guy,freeCodeCamp,freeCodeCamp
 9da851bc9adf0ca55b2a0b07ba0a282d9996bf48,fix(curriculum): clarify addProduct behavior in inventory lab (#63132),2025-11-04T12:21:09Z,1,2,vishal-singh-web,freeCodeCamp,freeCodeCamp
 9ac6fbf27c4483a622ee5e64e1f651c2da525757,fix(curriculum): grammar and punctuations in CSS filter lesson (#63496),2025-11-04T12:15:07Z,1,12,vardhu032,freeCodeCamp,freeCodeCamp
@@ -264,7 +267,7 @@ f49e321bd998498f65d14e60085a52077f534bf9,fix(curriculum): add blockLabel to game
 fc3eac4cf4c28c644a551d787d09187314bc6c84,feat(curriculum): Add interactive examples  to What Is the Math Objec…,2025-10-29T19:21:45Z,1,57,clarencepenz,freeCodeCamp,freeCodeCamp
 26546710ba6e51e0e4d05f9f5d3d7bae43f977bb,feat(curriculum): Add interactive examples  to What Are Binary Logica…,2025-10-29T19:16:51Z,1,30,clarencepenz,freeCodeCamp,freeCodeCamp
 040d4c7fa38a0be88a6bc75e98f011a0c78d17c1,feat(curriculum): Add interactive examples  to What Are Conditional S…,2025-10-29T19:08:49Z,1,27,clarencepenz,freeCodeCamp,freeCodeCamp
-038c1f4314c82c6a1855db123e2273f6904dd9cf,fix(a11y): add aria-label to mathematical formulas (#63251),2025-10-29T18:51:28Z,1,8,ilenia-magoni,freeCodeCamp,freeCodeCamp
+038c1f4314c82c6a1855db123e2273f6904dd9cf,fix(a11y): add aria-label to mathematical formulas (#63251),2025-10-29T18:51:28Z,1,8,majestic-owl448,freeCodeCamp,freeCodeCamp
 47f85184360cfa23c98f9bfa41f1f7df3323a5a5,feat(curriculum): Add interactive examples  to What Are Comparison Op…,2025-10-29T18:31:11Z,1,18,clarencepenz,freeCodeCamp,freeCodeCamp
 691b9c2ee8e7d1d190a3eb14b51a77ea5383200a,"feat(curriculum): Add interactive examples  to What Are Booleans, and…",2025-10-29T18:24:34Z,1,26,clarencepenz,freeCodeCamp,freeCodeCamp
 da2ef67f13412c7aab3e7b6d8595cd08c37e6fa9,feat(curriculum): Add interactive examples  to  What Are Compound Ass…,2025-10-29T18:23:37Z,1,30,clarencepenz,freeCodeCamp,freeCodeCamp
@@ -290,7 +293,7 @@ fdb74bea05676058e0db9d0928d8b6079e3c5fe5,feat(curriculum): add attribute selecto
 2bd3ec1db88a96b9d984bdb1c4a94075b60ff6f5,fix(curriculum) : Fixed Wrong Comment of Backreferences Example (#63219),2025-10-29T13:10:47Z,1,2,hiteshdotdev,freeCodeCamp,freeCodeCamp
 41ddf7eff0eceaaccae18ac160b6d5a69a0e9f80,"chore(i18n,client): processed translations (#63220)",2025-10-29T12:58:40Z,20,18238,camperbot,freeCodeCamp,freeCodeCamp
 36947395b4f66b5b70c5fcf67061a51ffd354329,feat(curriculum): add game character stats lab (#62243),2025-10-29T11:41:43Z,5,608,ihechikara,freeCodeCamp,freeCodeCamp
-c503861b6839fcf9bb87c1ff7a6f4a9d2689fced,feat(curriculum): add example to element skipper lab (#63079),2025-10-29T10:20:35Z,1,4,ilenia-magoni,freeCodeCamp,freeCodeCamp
+c503861b6839fcf9bb87c1ff7a6f4a9d2689fced,feat(curriculum): add example to element skipper lab (#63079),2025-10-29T10:20:35Z,1,4,majestic-owl448,freeCodeCamp,freeCodeCamp
 d7268ed64a07986483c4514bfd68d473ce71d24a,feat(client): icons for Chinese and Spanish super blocks (#63205),2025-10-29T03:09:27Z,8,497,huyenltnguyen,freeCodeCamp,freeCodeCamp
 02995191f7a7f754b07e8138bbbe85e76309ca94,fix(curriculum): use more recent target for TS compilation (#63144),2025-10-29T03:08:57Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 3b0a6a022b33423e9b2b5a19b0ec0eb037c4933b,test(client): add unit tests for theme initialization logic (#63212),2025-10-29T03:08:31Z,2,121,huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -300,7 +303,7 @@ d7268ed64a07986483c4514bfd68d473ce71d24a,feat(client): icons for Chinese and Spa
 ed5deb483c0713226899124e78113c1d845817fe,feat(curriculum): Add interactive examples  to How Do You Create a Ne…,2025-10-28T22:12:11Z,1,25,clarencepenz,freeCodeCamp,freeCodeCamp
 06c1a1fb4945047d0e00eee8e9821d68f12766dc,feat(curriculum): Add interactive examples  to What Is Bracket Notati…,2025-10-28T22:07:35Z,1,20,clarencepenz,freeCodeCamp,freeCodeCamp
 64a3e5af19766a727a93b668e9a61da64306165a,feat(curriculum): Add interactive examples  to How Does the typeof Op…,2025-10-28T22:02:38Z,1,14,clarencepenz,freeCodeCamp,freeCodeCamp
-9513e5d8784b72d8e69ddbebebc768f454339744,refactor(curriculum): update tests to use new helper (#63071),2025-10-28T21:58:21Z,8,112,ilenia-magoni,freeCodeCamp,freeCodeCamp
+9513e5d8784b72d8e69ddbebebc768f454339744,refactor(curriculum): update tests to use new helper (#63071),2025-10-28T21:58:21Z,8,112,majestic-owl448,freeCodeCamp,freeCodeCamp
 565b919a9a5122743fcbb115eb78fe82cac9aa4a,"feat(curriculum): Add interactive examples  to What Is ASCII, and How…",2025-10-28T21:57:25Z,1,26,clarencepenz,freeCodeCamp,freeCodeCamp
 0c8914818cea6c5f83955db4239462d856d63fe4,chore(deps): update github actions (#63209),2025-10-28T21:55:53Z,13,106,renovate[bot],freeCodeCamp,freeCodeCamp
 84c393e026fc5f5d4229f5ed1f05dafda7e359ee,feat(curriculum): Add interactive examples  to How Can You Find the P…,2025-10-28T21:54:42Z,1,20,clarencepenz,freeCodeCamp,freeCodeCamp
@@ -393,7 +396,7 @@ c4ae39851e231e3f5d40afc4c206bceee7b16977,feat(curriculum): add interactive examp
 963bf0ef4c11ef92c7fc2176b69ffbb905f5982a,feat(curriculum): add interactive examples to Styling Special Input E…,2025-10-24T08:46:16Z,1,76,pdtrang,freeCodeCamp,freeCodeCamp
 c2c6ca37b835443766f9653bb1009457dda4009e,feat: copy and generate exam token (#62623),2025-10-24T08:22:15Z,11,288,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 556abb4b9fdd890d50e89c5cb82bacbf4d21d26f,fix(curriculum): replace blockType with blockLabel in planet lab (#63…,2025-10-24T07:46:01Z,1,2,Dario-DC,freeCodeCamp,freeCodeCamp
-f8b815458d1b673a1b6c8c112d9e608206301721,feat(curriculum): add build a planet class lab (#62625),2025-10-24T05:28:46Z,5,368,ilenia-magoni,freeCodeCamp,freeCodeCamp
+f8b815458d1b673a1b6c8c112d9e608206301721,feat(curriculum): add build a planet class lab (#62625),2025-10-24T05:28:46Z,5,368,majestic-owl448,freeCodeCamp,freeCodeCamp
 5d105ed25db4f9ac06f8f6c6824b594ae562c521,fix (curriculum): fixed __blank typo (#63022),2025-10-24T04:33:36Z,1,4,Preytorkamen,freeCodeCamp,freeCodeCamp
 dd08d1ae1c596c1e3e90e81c443e9a6af8ff23d3,chore(api): upgrade typebox to 1.0 (#62969),2025-10-24T01:52:35Z,4,211,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 02e1e1c33180cd11591208ece5d021544699c8cb,fix(curriculum): missing word in String Transformer step 3 (#63000),2025-10-23T20:48:10Z,1,2,cuongpham24,freeCodeCamp,freeCodeCamp
@@ -435,7 +438,7 @@ d8d217685df7136c8bb5f13c93c90a09dd707655,"chore(i18n,client): processed translat
 1c894307933d7da2f1e350e13ebc74e9b06adf1b,chore: hide interactive editor from screenreaders (#62901),2025-10-20T14:42:25Z,1,2,a2937,freeCodeCamp,freeCodeCamp
 303c2c689ff7d2728bf65631b7d973556eb9994f,fix: update history and amounts,2025-10-20T12:22:50Z,1,26,raisedadead,freeCodeCamp,freeCodeCamp
 ef513a531ec15e223ae3c4db6e8b222f31c5cbb4,fix(curriculum): unify checklist message text in steps 46–50 (#62900),2025-10-20T08:33:53Z,4,8,Akash9541,freeCodeCamp,freeCodeCamp
-c7fe5d915f3f8e6aae5cff17880be55d5503234a,feat(curriculum): add Understanding the HTTP request-response model T…,2025-10-19T23:46:41Z,7,624,ilenia-magoni,freeCodeCamp,freeCodeCamp
+c7fe5d915f3f8e6aae5cff17880be55d5503234a,feat(curriculum): add Understanding the HTTP request-response model T…,2025-10-19T23:46:41Z,7,624,majestic-owl448,freeCodeCamp,freeCodeCamp
 54ccb1d71ca8a1c16d71244e8057a2d4301afa1c,feat(curriculum): add interactive examples to anatomy of CSS lesson (…,2025-10-19T15:27:24Z,1,28,likhith5697,freeCodeCamp,freeCodeCamp
 3c407ee8d133ec564689763c35cf21920aa746a3,feat(curriculum): added data structure quiz (#62786),2025-10-19T15:02:08Z,1,200,fhsinchy,freeCodeCamp,freeCodeCamp
 d53e88ac1497fd6df4c974c8b7a610fce39920dd,fix(client): c# cert id (#62858),2025-10-18T16:56:19Z,4,118,moT01,freeCodeCamp,freeCodeCamp
@@ -447,7 +450,7 @@ c217ed4e36b32bc6c26e30e496b8f095f189726c,refactor(client): remove placeholder in
 a624894564afaabd411e17e8a4a5cd4e0db6d1ec,fix(curriculum):allow logical expression for disable button (#62032),2025-10-17T16:31:33Z,1,38,Ajay-2005,freeCodeCamp,freeCodeCamp
 f740765d1119593c2abaa3efce513dbdb303ba14,fix(styles): strong inheritance from global.css (#62870),2025-10-17T16:08:44Z,3,11,Sembauke,freeCodeCamp,freeCodeCamp
 16cbb4c24da7bc71014c12dd1c9067721ac20575,dev(client): disable webpack console warnings (#62873),2025-10-17T16:05:42Z,2,16,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-ed2013e8082216956554542a0148d486cf1bf512,chore: replace file name to one that does not have spaces (#62877),2025-10-17T16:00:27Z,3,10,ilenia-magoni,freeCodeCamp,freeCodeCamp
+ed2013e8082216956554542a0148d486cf1bf512,chore: replace file name to one that does not have spaces (#62877),2025-10-17T16:00:27Z,3,10,majestic-owl448,freeCodeCamp,freeCodeCamp
 a9b37de5a2a26879fa455217e90f7980499b2897,feat(curriculum): make relational database chapter live (#62464),2025-10-17T15:40:23Z,42,181,jdwilkin4,freeCodeCamp,freeCodeCamp
 3f7ad26a00a97f9b0b72f4fbc9727d8aaaa07137,chore(client): remove note for Project Euler and Rosetta Code (#62871),2025-10-17T10:48:12Z,1,1,Sembauke,freeCodeCamp,freeCodeCamp
 78b9cff3e844f7b572a0453df7e6c40ac0a311ba,fix(curriculum): typo in curriculum review-javascript-strings (#62867),2025-10-17T06:01:19Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
@@ -501,8 +504,8 @@ e018e2e61af09b7d020029be6fe19790ecc9163e,"chore(i18n,client): processed translat
 254b4a08aa01dbc3fd03bca1549921bd58753bcb,fix(curriculum): add missing 'to' in favicon description in Basic HTM…,2025-10-14T14:21:01Z,1,2,Danielchinasa,freeCodeCamp,freeCodeCamp
 df1c1a3f3f3c42510e1e904cecebb7e08a6bbd25,refactor: modularize typescript worker (#62668),2025-10-14T09:44:52Z,3,180,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 e8f8b044cd9d8e6671d82859f23e31cda3364440,fix(client): allow transcript expanded state to not persist (#62492),2025-10-14T05:18:44Z,2,43,huyenltnguyen,freeCodeCamp,freeCodeCamp
-f4531901221307e6fbae92bb7e94971aea83fed2,feat(client): redirect renamed prime number sum calculator lab (#62391),2025-10-14T04:43:53Z,1,4,ilenia-magoni,freeCodeCamp,freeCodeCamp
-d1106e928b871b0bc89db7e2c05d104dbce65e04,feat(curriculum): rename prime numbers sum calculator (#62392),2025-10-14T04:43:35Z,6,34,ilenia-magoni,freeCodeCamp,freeCodeCamp
+f4531901221307e6fbae92bb7e94971aea83fed2,feat(client): redirect renamed prime number sum calculator lab (#62391),2025-10-14T04:43:53Z,1,4,majestic-owl448,freeCodeCamp,freeCodeCamp
+d1106e928b871b0bc89db7e2c05d104dbce65e04,feat(curriculum): rename prime numbers sum calculator (#62392),2025-10-14T04:43:35Z,6,34,majestic-owl448,freeCodeCamp,freeCodeCamp
 9993661bd2cdd5883f6f8fc0af7a3d67b983838b,fix(learn): Fix navigation issues with block hover on the Odin Projec…,2025-10-14T04:41:00Z,1,41,azad12614,freeCodeCamp,freeCodeCamp
 c2dac680bbd35aea60c96395dccb565e87f411b8,fix(curriculum): remove punctuation from example phrase in backticks …,2025-10-14T03:34:11Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 ff1ea23aa199b489859c15708477a55e55f530cb,feat(curriculum): add interactive examples to aria hidden lesson (#62…,2025-10-14T00:10:26Z,1,16,Aeeshadam,freeCodeCamp,freeCodeCamp
@@ -614,7 +617,7 @@ e7c939985780198fe48ae8b78750aa70abf2da11,fix(curriculum): remove unnecessary pun
 9abf0c970c725715ae3c34ad4e27a21468c05920,feat(api): reuse exam generations (#62459),2025-10-06T09:37:40Z,2,133,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 8a6ae7a8ba6fccb372e3bf92a30b3fb7b70545b8,fix: update pnpm,2025-10-06T09:00:45Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
 c0fa2ca4249e6bc6da4e9f438ca40b6e85598e13,fix(curriculum): updates to A2 english curriculum block 8 (#62364),2025-10-06T05:57:00Z,113,1348,anastasiiauk,freeCodeCamp,freeCodeCamp
-fe848a071d16fa915656bd2ad356359ccb7565e3,feat(curriculum): add content to python chapter review (#62440),2025-10-06T05:23:02Z,4,2929,ilenia-magoni,freeCodeCamp,freeCodeCamp
+fe848a071d16fa915656bd2ad356359ccb7565e3,feat(curriculum): add content to python chapter review (#62440),2025-10-06T05:23:02Z,4,2929,majestic-owl448,freeCodeCamp,freeCodeCamp
 9d5580128d664c26f5c79c5252d483aa9bb10b79,fix(curriculum): correct typo in step-9 of Tailwind Pricing Component…,2025-10-05T09:05:18Z,1,2,mriduldoeswork,freeCodeCamp,freeCodeCamp
 a6cdf5ca92e3958060c79229a4c35a0840f781e5,fix(curriculum): improve instructions of  Library Manager step 5 and …,2025-10-05T08:05:16Z,2,4,pdtrang,freeCodeCamp,freeCodeCamp
 1548b7ec2a4592fcea9d4861c1848ecb21310e4a,fix(curriculum): clarify expected input (#62493),2025-10-04T18:33:36Z,1,2,dragon-slayer27,freeCodeCamp,freeCodeCamp
@@ -622,20 +625,20 @@ a6cdf5ca92e3958060c79229a4c35a0840f781e5,fix(curriculum): improve instructions o
 d230b45f5d947462ea2c5094a878e12b34c572e5,fix(curriculum): Clarify OS as operating system in Python intro lesso…,2025-10-04T16:38:12Z,1,2,alifa-ara-heya,freeCodeCamp,freeCodeCamp
 ef610dd36c1ce2ef429d0e9d513ccb0a957212e4,fix(tools): s/MailHog/Mailpit/g (#62481),2025-10-03T20:25:33Z,10,55,raisedadead,freeCodeCamp,freeCodeCamp
 034d6b1569f9175f8733eb6b9320e40f174041e2,feat(curriculum): JS checkpoint cert (#62188),2025-10-03T17:50:59Z,15,1515,huyenltnguyen,freeCodeCamp,freeCodeCamp
-1a6fdad624d15ef96021e6996f9dd76d36667852,feat(curriculum): add Build an HTML Audio and Video Player lab (#62460),2025-10-03T16:21:52Z,5,245,ilenia-magoni,freeCodeCamp,freeCodeCamp
-1a3dbe46d885b9e2bbe10b9a0269ddd1dfa48a44,feat(curriculum): add lab feature selection to full stack (#62289),2025-10-03T16:16:45Z,5,373,ilenia-magoni,freeCodeCamp,freeCodeCamp
+1a6fdad624d15ef96021e6996f9dd76d36667852,feat(curriculum): add Build an HTML Audio and Video Player lab (#62460),2025-10-03T16:21:52Z,5,245,majestic-owl448,freeCodeCamp,freeCodeCamp
+1a3dbe46d885b9e2bbe10b9a0269ddd1dfa48a44,feat(curriculum): add lab feature selection to full stack (#62289),2025-10-03T16:16:45Z,5,373,majestic-owl448,freeCodeCamp,freeCodeCamp
 0a9e3a8360ab2f51fd0abaa4ea164ceff2121b69,fix: add seeding script to root,2025-10-03T16:05:27Z,1,1,raisedadead,freeCodeCamp,freeCodeCamp
 7ff864149c0447179a083f58c73130ba80e056b5,fix(client): update CTA for daily challenges,2025-10-03T16:05:27Z,5,23,raisedadead,freeCodeCamp,freeCodeCamp
 d7f1da61e4b34ca35371d26b4cf4d4b26446795c,fix(curriculum): correct capitalization inconsistency in MCQ section …,2025-10-03T15:47:16Z,1,8,sajid19,freeCodeCamp,freeCodeCamp
 179d92b1903e167a92ec3b49128811ca8c6b8515,chore(api): remove vitest import from mock (#62478),2025-10-03T14:12:25Z,1,3,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 eac87fb5ac750ab04a6644f66ea93f63ea1c279f,feat(curriculum): add dynamic programming lab (#62462),2025-10-03T13:47:17Z,5,223,zairahira,freeCodeCamp,freeCodeCamp
 972e6449347b5fe0c13615757cbd2cafcff26d0c,fix(curriculum): remove trailing periods from answer options  (#62473),2025-10-03T11:16:08Z,1,8,Hritik-sharmaa,freeCodeCamp,freeCodeCamp
-5516d22c4db8d06536a0f4c581c042670ece6f57,fix(scripts): add hasEditableBoundaries property for workshop metadat…,2025-10-03T10:36:10Z,1,3,ilenia-magoni,freeCodeCamp,freeCodeCamp
+5516d22c4db8d06536a0f4c581c042670ece6f57,fix(scripts): add hasEditableBoundaries property for workshop metadat…,2025-10-03T10:36:10Z,1,3,majestic-owl448,freeCodeCamp,freeCodeCamp
 06ef7746c80145eaff991692c1e088e82c19b24d,fix(curriculum): block title typo in es a1 review introducing yoursel…,2025-10-03T08:31:23Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
 3a5a409f8ed17649631484f9f81751fe6c9a5470,feat(curriculum): add salary tracker workshop (#62253),2025-10-03T07:50:08Z,39,2818,Dario-DC,freeCodeCamp,freeCodeCamp
 80026e26c41b6cdc19b095765a8e5f171b7a1560,fix(a11y): replace Alert with Callout for non-critical messages (#62466),2025-10-03T04:22:12Z,12,94,huyenltnguyen,freeCodeCamp,freeCodeCamp
 0b71e8779dba264064d9a696eba9dfb61924f593,feat(client): archive page (#62450),2025-10-02T19:30:33Z,13,331,moT01,freeCodeCamp,freeCodeCamp
-8704883aeb44ebc461fe31891ecbe08b0bd29c3d,refactor: improve description of DNA Pair Generator (#62393),2025-10-02T16:14:19Z,1,11,ilenia-magoni,freeCodeCamp,freeCodeCamp
+8704883aeb44ebc461fe31891ecbe08b0bd29c3d,refactor: improve description of DNA Pair Generator (#62393),2025-10-02T16:14:19Z,1,11,majestic-owl448,freeCodeCamp,freeCodeCamp
 517b9f05760ae4bf55062d9c9eb5a46bb202fb98,fix(client): handle builds without all challenges (#61040),2025-10-02T14:44:27Z,5,117,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 568840b8d8a7b2023ac666eae840196ca4c36440,feat(api): exam date use + split prisma files (#62344),2025-10-02T12:28:36Z,16,1558,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 3dc1e8b9d82b6b2709986fcf1a40ebe3beaca5fd,feat(curriculum): adding relational DB chapter review page (#62266),2025-10-02T11:57:44Z,5,1622,jdwilkin4,freeCodeCamp,freeCodeCamp
@@ -667,7 +670,7 @@ c7a8b183d3cba3917482c40fce960b32bd95630a,fix(api): 400 for exam-challenge route 
 20a77c44d02378f0baf7b066da8ec048954cf671,fix: updates to A2 english curriculum block 5 (#62026),2025-09-29T12:55:28Z,105,1783,anastasiiauk,freeCodeCamp,freeCodeCamp
 a7c71569c0bce8d3c529c8e01dc76238872a942a,feat(curriculum): add smallest common multiple lab (#62407),2025-09-29T12:26:14Z,5,130,larymak,freeCodeCamp,freeCodeCamp
 a627116efdbcfd434338592ccb1d68df7fc5c18f,fix(curriculum): typo in top introduction to flexbox challenge type 1…,2025-09-29T11:09:40Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-c9626fc86fd5ed948497ca0ac508ab7fe65120c7,feat(curriculum): add implement a Unique Sorted Union lab (#62226),2025-09-29T09:47:44Z,5,115,ilenia-magoni,freeCodeCamp,freeCodeCamp
+c9626fc86fd5ed948497ca0ac508ab7fe65120c7,feat(curriculum): add implement a Unique Sorted Union lab (#62226),2025-09-29T09:47:44Z,5,115,majestic-owl448,freeCodeCamp,freeCodeCamp
 ef717e4e313ad9796bbe741467aadff793ec2129,docs: prefer codespaces,2025-09-28T06:53:52Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
 457123d96643bd312c75d386311a4b9efbcbcf2d,fix(tools): improve devcontainer experience (#62395),2025-09-28T05:18:11Z,1,21,raisedadead,freeCodeCamp,freeCodeCamp
 51d65b79417abcdaa4cd0941658cf8b5e9f32d6b,fix(curriculum): typo in workshop emoji reactor Step 14 (#62390),2025-09-27T14:25:30Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
@@ -676,7 +679,7 @@ fb3be5c01858d9ff16d0bd1bc7165cff283e5b88,fix(curriculum): 2 typos in the dom cli
 adc886019456251fe042db3e72f51251d0ca6dc8,feat(curriculum): add dfs python lab (#62322),2025-09-26T20:02:03Z,5,144,Dario-DC,freeCodeCamp,freeCodeCamp
 6dbc2f72b301de5320463549054c5f3b9701f73b,fix(curriculum): typo in lecture introduction to git and github (#62383),2025-09-26T19:46:59Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
 762f87442d44405d5731d9099c14983c2ee323bb,fix(curriculum): correct arguments for `isNotEmpty` (#62382),2025-09-26T19:10:02Z,2,4,Thunderer44,freeCodeCamp,freeCodeCamp
-84f5d7375b108f9fa01bfe7adedc329ca3fe75f8,feat: add emoji reactor workshop (#61638),2025-09-26T14:10:57Z,19,2814,ilenia-magoni,freeCodeCamp,freeCodeCamp
+84f5d7375b108f9fa01bfe7adedc329ca3fe75f8,feat: add emoji reactor workshop (#61638),2025-09-26T14:10:57Z,19,2814,majestic-owl448,freeCodeCamp,freeCodeCamp
 71adf50f6a8b80272a4b7e5a02be5e47ac819d56,fix(curriculum): clarify shallow copy explanation and add nested arra…,2025-09-26T11:26:00Z,3,36,ran-cho,freeCodeCamp,freeCodeCamp
 acf368d2d8579d1e732a9afdef6618651d137d75,feat(curriculum) : convert spinal case challenge to lab (#62117),2025-09-26T11:18:32Z,5,118,zairahira,freeCodeCamp,freeCodeCamp
 c486fc5d57fce6528e679bf332e1cde0ce05b655,"fix(curriculum): correct typo in Navbar (""remainder"" → ""reminder"") (#…",2025-09-26T11:14:47Z,1,2,AamishB,freeCodeCamp,freeCodeCamp
@@ -691,7 +694,7 @@ c4a4abe487f3984eaedf87f9465c039f2a4fb710,fix(tools): allow more chapter based su
 2923cf7331a5828c8d8cf74ac73d7fe2fb5c1864,fix(curriculum): correct casing of JavaScript (#62369),2025-09-26T04:19:42Z,2,4,pdtrang,freeCodeCamp,freeCodeCamp
 1f8acc6df57d5e4a0d48e28c619dd4e3d0ad58cd,feat (curriculum): add oop and encapsulation lectures (#62121),2025-09-25T20:00:31Z,7,1547,Ksound22,freeCodeCamp,freeCodeCamp
 35d05d2c0560c1f19ec98e0e189dbb13533b156b,feat(client): add exam attempts to exam-download page (#61361),2025-09-25T19:27:31Z,12,478,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-6c3bc14f52ebd7e0a895dba42915785c4a8b85bb,feat(curriculum): add Build an All-True Property Validator lab (#62198),2025-09-25T14:29:14Z,5,212,ilenia-magoni,freeCodeCamp,freeCodeCamp
+6c3bc14f52ebd7e0a895dba42915785c4a8b85bb,feat(curriculum): add Build an All-True Property Validator lab (#62198),2025-09-25T14:29:14Z,5,212,majestic-owl448,freeCodeCamp,freeCodeCamp
 57c515e230bcaa4a0ac5e438eb64ea00bff50e20,chore(curriculum): update rps-game instructions and hasPlayerWonTheRo…,2025-09-25T13:58:34Z,11,94,Giftea,freeCodeCamp,freeCodeCamp
 1a59985a51d60da19b22a225c0927ab8518273c5,fix(curriculum): Maintain getMode function consistency in steps 39 - …,2025-09-25T13:56:56Z,21,110,Giftea,freeCodeCamp,freeCodeCamp
 8a404bface758263f9f2a73160c7b5e1b47d8210,feat(curriculum): add musical instrument workshop (#61750),2025-09-25T13:45:46Z,17,777,zairahira,freeCodeCamp,freeCodeCamp
@@ -705,9 +708,9 @@ c29dc53f1ac8145c10b2492d73afd97b406f5624,feat(curriculum): add odd Fibonacci sum
 51eba06a7dc9c07f5cf5df40bab6f520787db164,refactor: remove jest and lint vitest (#62330),2025-09-24T07:27:03Z,25,2066,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 d96d528e8c43066593b45ddeed22dd0ff84829ef,refactor: clearer errors for curriculum tests (#62331),2025-09-23T18:10:28Z,1,14,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 bbe7752ef133669ca0e881c33db8fec0b00de69b,fix(curriculum): correct spelling from behaviours to behavior (#62332),2025-09-23T16:28:09Z,1,2,Giftea,freeCodeCamp,freeCodeCamp
-143c0452759ab3e905ade72589e5cabdd79986c0,feat(curriculum): add Build a Missing Letter Detector lab (#62227),2025-09-23T16:05:07Z,5,109,ilenia-magoni,freeCodeCamp,freeCodeCamp
+143c0452759ab3e905ade72589e5cabdd79986c0,feat(curriculum): add Build a Missing Letter Detector lab (#62227),2025-09-23T16:05:07Z,5,109,majestic-owl448,freeCodeCamp,freeCodeCamp
 093f99d5e4b8c62f549ccf927e3c480ed33b9a5c,fix(api): cleanup props from get public profile endpoint (#62007),2025-09-23T15:58:22Z,2,11,Sonudhukia143,freeCodeCamp,freeCodeCamp
-60697413b36c64c50fe76331ef106b23d46b3ebd,feat: add Implement a Pig Latin Translator lab (#62128),2025-09-23T15:53:55Z,5,130,ilenia-magoni,freeCodeCamp,freeCodeCamp
+60697413b36c64c50fe76331ef106b23d46b3ebd,feat: add Implement a Pig Latin Translator lab (#62128),2025-09-23T15:53:55Z,5,130,majestic-owl448,freeCodeCamp,freeCodeCamp
 5dda96afc03a2d8c7c0d153bdc62ce47009f437c,fix(curriculum): correct superBlock name in Build a Weather App lab (…,2025-09-23T15:35:27Z,1,2,Swapnanilb,freeCodeCamp,freeCodeCamp
 3a305ae69cb1a3a2b72cb54b4047fd15512b391f,fix: update amount and links,2025-09-23T14:59:17Z,1,6,raisedadead,freeCodeCamp,freeCodeCamp
 a89bf48ae9c66fae01829af4a34579ed4cc6a489,feat(curriculum): Add two new chapters to A1 Spanish (#62329),2025-09-23T14:43:50Z,14,359,nieldakarla,freeCodeCamp,freeCodeCamp
@@ -729,12 +732,12 @@ ec36cf60cc1eba4368bf3aea9c531210c6bb46f7,fix(curriculum): update references to '
 f5b2774043f87fd6ec1d39d25001265512e4d206,fix(curriculum): Make Build an Optional Arguments Sum Function visibl…,2025-09-22T17:12:05Z,1,2,Giftea,freeCodeCamp,freeCodeCamp
 3d720f0f813d7d9f2447cffb7e0816952a582e9e,fix(curriculum): Update business card tests to allow flexible contain…,2025-09-22T17:11:48Z,1,20,Shekhar0109,freeCodeCamp,freeCodeCamp
 3a6c2fa160ec030bb5cb2af7e7cf590e7f773325,fix(curriculum): fix typo from correspondant to correspondent (#62314),2025-09-22T17:01:57Z,1,2,Giftea,freeCodeCamp,freeCodeCamp
-c1018150ccc473bdd72f816d4e52fac148b9e7fc,feat(curriculum): add graphs and trees lecture (#62055),2025-09-22T16:50:47Z,8,1304,ilenia-magoni,freeCodeCamp,freeCodeCamp
+c1018150ccc473bdd72f816d4e52fac148b9e7fc,feat(curriculum): add graphs and trees lecture (#62055),2025-09-22T16:50:47Z,8,1304,majestic-owl448,freeCodeCamp,freeCodeCamp
 aee89b025be221f7fea3d56eb78f47ca4832e982,feat(curriculum): convert title case challenge to lab (#62108),2025-09-22T16:31:43Z,5,113,zairahira,freeCodeCamp,freeCodeCamp
 00a015cd924cb82b188d7b31a9a8745ca14f320c,feat: update growthbook and handle network errors (#61374),2025-09-22T15:36:38Z,7,293,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 8d791e0718628544b9c385cd0f387ce8a0436f3c,fix(curriculum): make concatenation optional (#62232),2025-09-22T15:17:40Z,1,5,Supravisor,freeCodeCamp,freeCodeCamp
 62c47f46e5d03c2dc31db4a3567b386bdef6c81e,fix(curriculum): add more tests for the golf translator lab (#62248),2025-09-22T15:14:27Z,1,74,StuartMosquera,freeCodeCamp,freeCodeCamp
-5ada45dc6004df6a82a503b1050374d1a4856ab2,refactor: semantic update to complaint form (#62255),2025-09-22T15:11:41Z,1,18,ilenia-magoni,freeCodeCamp,freeCodeCamp
+5ada45dc6004df6a82a503b1050374d1a4856ab2,refactor: semantic update to complaint form (#62255),2025-09-22T15:11:41Z,1,18,majestic-owl448,freeCodeCamp,freeCodeCamp
 0e08e2dd09eb10211e036e28cf248671bed568ad,refactor(curriculum): expand the editable region in Decimal to Binary…,2025-09-22T14:44:12Z,1,4,ppl-call-me-tima,freeCodeCamp,freeCodeCamp
 0ce17abdd4f81b47b61304c5c5ed1854a35cdbf1,fix(curriculum): change 'display' to 'return' in lab-voting-system ch…,2025-09-22T14:42:35Z,1,2,shokuyansh,freeCodeCamp,freeCodeCamp
 923e6c4c7d029bedb6a8d8dfeb3db4753b754546,fix(curriculum): daily challenge 42 test (#62308),2025-09-22T13:57:47Z,2,12,moT01,freeCodeCamp,freeCodeCamp
@@ -755,16 +758,16 @@ ccfcca1f4670cf57965c36692c661d7b0057d509,fix(curriculum): typo in workshop descr
 4af015a08ffe3aae6474eaa6ba1be6b8a36c14f6,fix(curriculum): typo in daily challenge (#62235),2025-09-20T00:15:20Z,2,6,moT01,freeCodeCamp,freeCodeCamp
 ee8e7504937a4cf2b2e27ce2fb830c7ff29b58ae,fix(tools): typo in error message (#62208),2025-09-20T00:13:39Z,2,4,nithya-kala,freeCodeCamp,freeCodeCamp
 9f410666e6b4200c2d69016387a4f3370d369723,fix(challenge-helper-scripts): make `create-language-block` support c…,2025-09-19T20:36:49Z,1,220,huyenltnguyen,freeCodeCamp,freeCodeCamp
-e9cf3b35be5dc35a54a3b47a960c429c8f67ae55,feat(curriculum): add Create a Deep Flattening Tool lab (#62216),2025-09-19T20:08:31Z,5,135,ilenia-magoni,freeCodeCamp,freeCodeCamp
+e9cf3b35be5dc35a54a3b47a960c429c8f67ae55,feat(curriculum): add Create a Deep Flattening Tool lab (#62216),2025-09-19T20:08:31Z,5,135,majestic-owl448,freeCodeCamp,freeCodeCamp
 57415e2a11b4021c5a2058f67c59a378edf8e53f,fix: skip upcoming superblocks in normal builds (#62263),2025-09-19T17:40:06Z,3,117,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 243678e4348ca59bc48f83edcc1e000cae0d9870,test: handle meta validation errors (#62274),2025-09-19T17:39:12Z,1,10,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 c6498cf0b428dea8df4da1f6a69a42a544a1d38d,refactor: remove invariant (#62275),2025-09-19T17:36:20Z,6,53,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 56c34a3bd6b988df8b1ef60ba9479bc9c71af14e,fix: change 'of' to 'or' in this Python lecture (#62277),2025-09-19T16:56:36Z,1,2,ENAwareness,freeCodeCamp,freeCodeCamp
 8672be653ab0cdcee45267e40f053738e5eed8ac,fix(curriculum): typo in daily coding challenges py (#62273),2025-09-19T16:13:47Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
-80f8b6ffcd07210e2be2d2d7dfe812985ffff43f,fix(curriculum): allow spaces in book catalog table lab inside elemen…,2025-09-19T12:47:09Z,1,10,ilenia-magoni,freeCodeCamp,freeCodeCamp
-2e5d3e86e8049f56864e0a4684c03f83783b3293,fix(curriculum): allow spaces in travel agency page (#62259),2025-09-19T12:46:00Z,1,8,ilenia-magoni,freeCodeCamp,freeCodeCamp
-74f663b8f1714c68f9a5828c7415c567c0d5d9c1,fix: allow spaces around text content of elements in workshop blog pa…,2025-09-19T12:45:29Z,5,14,ilenia-magoni,freeCodeCamp,freeCodeCamp
-adf8b1644e33e0ae3777ee9c561f862a6579736d,fix: allow spaces around element content in workshop hotel feedback f…,2025-09-19T12:44:20Z,10,40,ilenia-magoni,freeCodeCamp,freeCodeCamp
+80f8b6ffcd07210e2be2d2d7dfe812985ffff43f,fix(curriculum): allow spaces in book catalog table lab inside elemen…,2025-09-19T12:47:09Z,1,10,majestic-owl448,freeCodeCamp,freeCodeCamp
+2e5d3e86e8049f56864e0a4684c03f83783b3293,fix(curriculum): allow spaces in travel agency page (#62259),2025-09-19T12:46:00Z,1,8,majestic-owl448,freeCodeCamp,freeCodeCamp
+74f663b8f1714c68f9a5828c7415c567c0d5d9c1,fix: allow spaces around text content of elements in workshop blog pa…,2025-09-19T12:45:29Z,5,14,majestic-owl448,freeCodeCamp,freeCodeCamp
+adf8b1644e33e0ae3777ee9c561f862a6579736d,fix: allow spaces around element content in workshop hotel feedback f…,2025-09-19T12:44:20Z,10,40,majestic-owl448,freeCodeCamp,freeCodeCamp
 dc5a75fbc38214c46bac768dccb611e9af07118f,fix(curriculum): add generate-btn click to sort-btn test (#62252),2025-09-19T10:09:33Z,1,2,happypepii,freeCodeCamp,freeCodeCamp
 39164ca87f2cbd28564a533d77de42d4553f22a2,fix: ensure daily challenge tests run (#62260),2025-09-19T08:48:29Z,1,87,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 3a41a6137a31a99141d24196a48cf4f93ed46f82,feat: find closest matching block and superblock for testing (#62089),2025-09-19T08:25:40Z,5,404,ojeytonwilliams,freeCodeCamp,freeCodeCamp
@@ -826,9 +829,9 @@ eb3baf2f4757eb0477b0e7f50d44dc1132a4c117,fix(curriculum): Improve hint for Caesa
 a834414bc587d19bc3a1a81fe2cd284c9483d917,fix(curriculum): python daily challenge boolean tests (#62145),2025-09-10T19:37:57Z,11,180,moT01,freeCodeCamp,freeCodeCamp
 f70024eb39e3b34cf836df1c6da16f153a6c0fd6,fix(curriculum): JS daily challenge 31 test text (#62141),2025-09-10T16:41:12Z,1,2,moT01,freeCodeCamp,freeCodeCamp
 e8753a7c0d283f6800e598429b7786e9a637c871,fix: clarify hint and improve test flexibility in book catalog exerci…,2025-09-10T15:42:25Z,1,4,amritamishra01,freeCodeCamp,freeCodeCamp
-77f02ff75562585555cd43a4edc4184d4fcc276a,fix: remove forgotten file (fix CI failure) (#62142),2025-09-10T15:33:07Z,1,54,ilenia-magoni,freeCodeCamp,freeCodeCamp
-89a6b1fcdabfc4afad7ab1257ecffd211c286a07,feat(curriculum): add redirects for the javascript object lectures (#…,2025-09-10T14:27:48Z,1,44,ilenia-magoni,freeCodeCamp,freeCodeCamp
-383da6ebeb92d9c369b4eedd178e790f70ddf62a,refactor(curriculum): divide JavaScript objects lecture block into sm…,2025-09-10T14:27:37Z,20,132,ilenia-magoni,freeCodeCamp,freeCodeCamp
+77f02ff75562585555cd43a4edc4184d4fcc276a,fix: remove forgotten file (fix CI failure) (#62142),2025-09-10T15:33:07Z,1,54,majestic-owl448,freeCodeCamp,freeCodeCamp
+89a6b1fcdabfc4afad7ab1257ecffd211c286a07,feat(curriculum): add redirects for the javascript object lectures (#…,2025-09-10T14:27:48Z,1,44,majestic-owl448,freeCodeCamp,freeCodeCamp
+383da6ebeb92d9c369b4eedd178e790f70ddf62a,refactor(curriculum): divide JavaScript objects lecture block into sm…,2025-09-10T14:27:37Z,20,132,majestic-owl448,freeCodeCamp,freeCodeCamp
 97f759a8b78c9486e9d27aff415db715e44a44b8,chore: validate block-superblock relationship (#62126),2025-09-10T14:18:07Z,2,42,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 d19e7ede11bb8b60c0ba8226eeeec40f6376aaf3,fix(gha): handle connections better (#62104),2025-09-10T13:40:12Z,2,131,raisedadead,freeCodeCamp,freeCodeCamp
 efe8114fc333fbe04ab978544f88c6c8b0415755,fix(curriculum): Regex should only allow == or === in equality check …,2025-09-10T13:23:12Z,1,2,janni1288,freeCodeCamp,freeCodeCamp
@@ -851,7 +854,7 @@ fb854f255280463001839b74bf6415e59684978f,fix(curriculum): typo in Stand Up Meeti
 c027a8db1b81e3c563e37a3b7e15049ecd67c2d4,fix(curriculum): fixed typo in py and js challenge 38 (#62062),2025-09-06T09:46:49Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
 87cde2d1e8f105fb759ba6dd9dd42d20272b86aa,"refactor(tools, curriculum): use challenge type 31 for review pages (…",2025-09-06T05:07:48Z,76,164,huyenltnguyen,freeCodeCamp,freeCodeCamp
 e4144d145a5e4c5509d1b1866085fd4d5a615124,feat(curriculum): add lab for building a symmetric difference functio…,2025-09-05T19:04:05Z,5,118,Sembauke,freeCodeCamp,freeCodeCamp
-c2ff82ed9a42ed907fe02120bce166f422b34556,feat: add falsy bouncer to full stack (#61688),2025-09-05T18:56:01Z,5,112,ilenia-magoni,freeCodeCamp,freeCodeCamp
+c2ff82ed9a42ed907fe02120bce166f422b34556,feat: add falsy bouncer to full stack (#61688),2025-09-05T18:56:01Z,5,112,majestic-owl448,freeCodeCamp,freeCodeCamp
 e17584f89e7f678780530360ebd279eb35b067a5,feat: add a1 spanish superblock outline (#62059),2025-09-05T18:51:45Z,16,82,moT01,freeCodeCamp,freeCodeCamp
 9f9b4cbfb8300fefecfeb2a448346e1c901f0214,"chore(curriculum): replace quotes with backticks, add backticks to wo…",2025-09-05T18:13:26Z,1,6,Supravisor,freeCodeCamp,freeCodeCamp
 2ca7798d3b84c6b53c1c9e1941a48f36d4234a82,"chore(i18n,client): processed translations (#61958)",2025-09-05T17:47:59Z,11,2116,camperbot,freeCodeCamp,freeCodeCamp
@@ -862,8 +865,8 @@ e257c2969e88b4c9c036be593bf1dead288e96c3,fix: rebuild challenge pages if source 
 902ba8bc8e136873de8e7cff78ade24207d01d81,fix(curriculum): follow W3C convention for radio and checkbox inputs …,2025-09-05T09:25:23Z,18,475,StuartMosquera,freeCodeCamp,freeCodeCamp
 15f9c18c279ee21f9dd9a9a2dd1cba675bc15310,chore: add redirect for magazine layout lab (#61870),2025-09-05T06:58:05Z,1,4,Dario-DC,freeCodeCamp,freeCodeCamp
 cdffc8d8de6f89531a3692d379ffadaf38b75e3a,chore(curriculum): replace magazine layout lab with newspaper layout …,2025-09-05T06:57:32Z,7,720,Dario-DC,freeCodeCamp,freeCodeCamp
-437f98ad3ee49b8b44739092a365201eac3305d4,fix: hide Build an Optional Arguments Sum Function (#62047),2025-09-05T06:08:13Z,1,2,ilenia-magoni,freeCodeCamp,freeCodeCamp
-72ca97aa7f3bc879109d1536a5824f3f4bd8ff38,refactor(curriculum): TypeScript lecture block into smaller blocks (#…,2025-09-04T12:05:46Z,11,82,ilenia-magoni,freeCodeCamp,freeCodeCamp
+437f98ad3ee49b8b44739092a365201eac3305d4,fix: hide Build an Optional Arguments Sum Function (#62047),2025-09-05T06:08:13Z,1,2,majestic-owl448,freeCodeCamp,freeCodeCamp
+72ca97aa7f3bc879109d1536a5824f3f4bd8ff38,refactor(curriculum): TypeScript lecture block into smaller blocks (#…,2025-09-04T12:05:46Z,11,82,majestic-owl448,freeCodeCamp,freeCodeCamp
 5148ed2b82fd591766d217fdf8507b72fbb2167b,refactor(tools): migrate challenge editor to new curriculum structure…,2025-09-04T12:04:54Z,11,312,a2937,freeCodeCamp,freeCodeCamp
 b47bc04c97ed996812e0c5c5cd1f1f7bc9107ca0,test: only intercept the page-data for tested page (#62042),2025-09-04T12:03:31Z,1,8,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 ebd17c473bf38317945416fab7e046702155ec1d,fix(api): throw during exam generation if empty config (#62044),2025-09-04T10:49:07Z,1,4,ShaunSHamilton,freeCodeCamp,freeCodeCamp
@@ -889,7 +892,7 @@ a40fe34ae281ae32ec4722793ef6d7cdbba8f017,feat(tools): script to create daily cha
 f0bc3a62b7a993fb07f4a300f49d893a76f6a653,fix(curriculum): correct spelling 'mangers' → 'managers' in lecture (…,2025-08-29T17:16:36Z,1,2,Sonudhukia143,freeCodeCamp,freeCodeCamp
 1ef3cc1e7a01d752bc39663833fca1fe42625d27,feat(curriculum): more daily challenges (#61959),2025-08-29T16:56:31Z,12,982,moT01,freeCodeCamp,freeCodeCamp
 f677494de42ec3b6621692ad0130e357f30d72a6,chore: remove order and superblock from block structure files (#61951),2025-08-29T16:08:11Z,672,970,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-93d7de3e24d2192bd5f45905c51254e6a0387f43,fix: order intro.json blocks properly (#61984),2025-08-29T14:24:26Z,2,122,ilenia-magoni,freeCodeCamp,freeCodeCamp
+93d7de3e24d2192bd5f45905c51254e6a0387f43,fix: order intro.json blocks properly (#61984),2025-08-29T14:24:26Z,2,122,majestic-owl448,freeCodeCamp,freeCodeCamp
 7d5e6b727980e32ec6960c80d4b71cb4facdc79a,fix: updates to A2 english curriculum block 1 (#61569),2025-08-29T12:32:27Z,165,1364,anastasiiauk,freeCodeCamp,freeCodeCamp
 d781102513bbba1b15dde7fc4a3f25d872cb0ed4,feat(api): add more debug logging (#61980),2025-08-29T10:55:16Z,3,33,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 ddd945770391837cd7c3b5032ac0a5064372beb8,fix(curriculum): use correct assert method (#61978),2025-08-28T19:02:38Z,1,2,ChaseKnowlden,freeCodeCamp,freeCodeCamp
@@ -903,7 +906,7 @@ bcc509e6bfeab4319bca2ffd88594be14aa973fb,fix(curriculum): update challenge type 
 91608a165de7039e5676d9fac80236e15442f9c8,fix(curriculum): Rewrote budget app description (#61737),2025-08-27T08:25:16Z,1,152,kb42,freeCodeCamp,freeCodeCamp
 dbdb6944cd439cc55d84c7a6417d48569003c7f4,feat(curriculum): add error handling lecture scripts (#61641),2025-08-26T18:26:03Z,7,855,larymak,freeCodeCamp,freeCodeCamp
 156053bc244faabb8523f0d63bd3c35f006c6dd3,feat: create a card counting lab (#61857),2025-08-26T17:55:23Z,5,237,a2937,freeCodeCamp,freeCodeCamp
-2005a3d4c5fac1aa76ce90ef1ff56e142e9dba27,feat: add arguments optional lab to full stack (#61835),2025-08-26T16:45:41Z,5,152,ilenia-magoni,freeCodeCamp,freeCodeCamp
+2005a3d4c5fac1aa76ce90ef1ff56e142e9dba27,feat: add arguments optional lab to full stack (#61835),2025-08-26T16:45:41Z,5,152,majestic-owl448,freeCodeCamp,freeCodeCamp
 64dcea96dda37dde6a0d7a1c133655662071fa1f,"chore(i18n,client): processed translations (#61944)",2025-08-26T16:01:50Z,10,70,camperbot,freeCodeCamp,freeCodeCamp
 a801d503bc91dcae1860ca7a24db06c9c2fec726,refactor: top-down curriculum build (#61459),2025-08-26T10:37:26Z,14726,85211,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 45c098d506c9c2e271b4a84e39ff8f7ec2f177a3,feat(api): s/jest/vitest/g (#61863),2025-08-25T17:27:56Z,58,2887,raisedadead,freeCodeCamp,freeCodeCamp
@@ -951,4 +954,3 @@ a65daec6b51b5ced372a2f2c21c4fedec9c52e35,fix(curriculum): camel case Audio const
 9405b4083671d917498d38f5900367674b65cb77,fix(curriculum): Typo corrected from 'can we see' to 'as we can see' …,2025-08-18T08:49:22Z,1,2,CodewithMukal,freeCodeCamp,freeCodeCamp
 3c866bf5605b602d07089a0173312aaa5788b0b9,fix(curriculum): update description of challenge on compatibility tes…,2025-08-18T07:04:36Z,1,2,tanmaygautam11,freeCodeCamp,freeCodeCamp
 49dc805ce74d594dacda99b4dc6ee657aabf30a2,fix(curriculum): change 'Mac' to 'macOS' when referring to the OS (#6…,2025-08-17T15:50:37Z,3,14,Programmer-Adithya-Iyer,freeCodeCamp,freeCodeCamp
-d48ddcd59edba52d184e4c4afb01f02e8d25a20b,fix(curriculum): change toFix to toFixed in lesson content (#61843),2025-08-16T18:14:47Z,1,2,sanchitkhthpalia,freeCodeCamp,freeCodeCamp
