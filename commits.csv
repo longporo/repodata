@@ -1,4 +1,23 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+b9f47f8c9dad992f2d8d74e1753270393c2592db,fix(curriculum): remove backticks around console (#63927),2025-11-18T00:53:49Z,1,4,ssam18,freeCodeCamp,freeCodeCamp
+30e76f9bc3ecf74ff2d6626bddeed9a81732c062,feat(curriculum): add interactive examples to JS Date object lesson (…,2025-11-18T00:45:12Z,1,34,nancytwwongutoronto,freeCodeCamp,freeCodeCamp
+bc46ae9bbf267641160e62b1156fbd5397b9333f,test(client): add tests to build transcript function (#63822),2025-11-18T00:22:45Z,4,241,farchettiensis,freeCodeCamp,freeCodeCamp
+36be0f75bf63bfa5e826e9e94791a4ffe0f010c6,fix(tools): inccorect quiz challenge location when running create-new…,2025-11-18T00:21:27Z,1,9,pdtrang,freeCodeCamp,freeCodeCamp
+c91913fbef3d1a22f5e67b2b68b6c4cde49c14ff,fix(curriculum): fixed fill-in-the-blank sentence to match dialogue (…,2025-11-17T21:49:40Z,1,2,jbiersdo,freeCodeCamp,freeCodeCamp
+93ceb61b7c0985c6ea077bf40e4cd61695c32b2e,feat(curriculum): add interactive examples to common aria states less…,2025-11-17T21:32:57Z,1,294,Unknownmaster0,freeCodeCamp,freeCodeCamp
+3f226362f267e0ee365261a456a626eb70f72134,feat(curriculum): add numbers audio files from CDN (#63920),2025-11-17T19:42:25Z,1,3,estefaniacn,freeCodeCamp,freeCodeCamp
+3356ab7caba0838a22cd8b3207dc0661acf589ad,feat(curriculum): add new blocks and rename a couple things in Spanis…,2025-11-17T19:24:27Z,19,281,huyenltnguyen,freeCodeCamp,freeCodeCamp
+88a607ce1fc7edcf9f5c602e26cbd331258b2059,fix(curriculum): wrap method name in backticks (#63904),2025-11-17T15:59:36Z,1,2,ThalaPravin,freeCodeCamp,freeCodeCamp
+872ad4746617f0eefa60f7d1f801b614ed690603,feat(curriculum): scaffold Basic Personal Details chapter (#63888),2025-11-17T15:55:47Z,35,1311,huyenltnguyen,freeCodeCamp,freeCodeCamp
+99adb08d0b45e57415d88d65229894c5d245838f,fix(curriculum): adjust editable region indentation in workshop-libra…,2025-11-17T11:52:25Z,10,20,majestic-owl448,freeCodeCamp,freeCodeCamp
+07b9a80cabd0113abf4ac2475240edd2a13b60a8,fix(curriculum): fix incorrect apostrophe mark (#63907),2025-11-17T11:51:25Z,2,6,Giftea,freeCodeCamp,freeCodeCamp
+f64f895ab62159b41cf28fdfe43512c432f3d2c5,refactor: start using turborepo (#63734),2025-11-17T10:37:09Z,9,1699,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+0029c51a9a19fe8e802440cb908fab9ee937888a,fix(curriculum): add missing content replaceAll() in JS strings revie…,2025-11-17T09:51:48Z,1,7,pdtrang,freeCodeCamp,freeCodeCamp
+e0d21f30c998b213995726ae7054bc34b6e6c332,"feat(curriculum,schema): add Chinese and Spanish help categories to m…",2025-11-17T09:49:40Z,1,4,huyenltnguyen,freeCodeCamp,freeCodeCamp
+ca77691ed832d3b98bb2d26e32036232e6bfd18e,fix(curriculum): remove HTML boilerplate steps 1-4 for cafe menu work…,2025-11-17T09:38:21Z,94,1031,pdtrang,freeCodeCamp,freeCodeCamp
+981c6024f69b85854a0335ce71f22e15f73069f0,feat(client): add details to daily challenges calendar (#63003),2025-11-17T07:42:00Z,6,371,moT01,freeCodeCamp,freeCodeCamp
+3653717d9a4803b57ee979ec3ad0f944ff65bb73,"fix(curriculum): update sentence in What Is a String Object, and How …",2025-11-17T07:37:35Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
+33a0604c044e204851d0c526ab94749dce1fc50b,fix(curriculum): print command output for tuples lesson (#63889),2025-11-17T03:31:37Z,1,2,BhavikOstwal,freeCodeCamp,freeCodeCamp
 359e3b61259efab859300f5a86c0abb477ea9ac6,feat(curriculum): Add the Chinese vocabulary audio from the CDN (#63873),2025-11-16T12:49:58Z,1,3,miyaliu666,freeCodeCamp,freeCodeCamp
 58352caef16139b5ac1bac9ad865907db1436048,feat(curriculum): add interactive examples to functional programming …,2025-11-16T10:45:37Z,1,12,Paila009,freeCodeCamp,freeCodeCamp
 8ab7c106dafb3bc1494310e29b251e73573be452,feat(tools): add language block specific properties in helper scripts…,2025-11-16T10:31:52Z,10,211,gikf,freeCodeCamp,freeCodeCamp
@@ -953,4 +972,3 @@ a0429f71017861727626ab81c51db34c0ef830ba,"chore(i18n,client): processed translat
 a65daec6b51b5ced372a2f2c21c4fedec9c52e35,fix(curriculum): camel case Audio constructor property (#61853),2025-08-18T09:07:50Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 9405b4083671d917498d38f5900367674b65cb77,fix(curriculum): Typo corrected from 'can we see' to 'as we can see' …,2025-08-18T08:49:22Z,1,2,CodewithMukal,freeCodeCamp,freeCodeCamp
 3c866bf5605b602d07089a0173312aaa5788b0b9,fix(curriculum): update description of challenge on compatibility tes…,2025-08-18T07:04:36Z,1,2,tanmaygautam11,freeCodeCamp,freeCodeCamp
-49dc805ce74d594dacda99b4dc6ee657aabf30a2,fix(curriculum): change 'Mac' to 'macOS' when referring to the OS (#6…,2025-08-17T15:50:37Z,3,14,Programmer-Adithya-Iyer,freeCodeCamp,freeCodeCamp
