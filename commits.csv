@@ -1,4 +1,18 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+902c8222ad0c260b571d4e713fe0270900f62c16,feat(curriculum): add mixed numbers audios for the A1 Spanish curricu…,2025-11-18T22:51:17Z,1,2,estefaniacn,freeCodeCamp,freeCodeCamp
+877bd933585909043341789de7f714e3881fdd3c,fix(curriculum): add void element reminder to cafe menu step 16 (#63855),2025-11-18T22:50:45Z,1,2,immortal71,freeCodeCamp,freeCodeCamp
+1ed9f0e4d2a3a56da48fa17c20a08345216bb081,fix(curriculum): correct typo in feedback (#63950),2025-11-18T22:22:31Z,1,2,ZaidQtaish,freeCodeCamp,freeCodeCamp
+a46e57b82dceb68694769c5298eb5bb8bc614440,fix(curriculum): correct “error” to “Error” constructor in debugging …,2025-11-18T21:57:43Z,1,2,undefinedIsMyLife,freeCodeCamp,freeCodeCamp
+51c93c229b615d4b100588d1c88b6702bfc5f5ee,feat(curriculum): add interactive examples to 'this' keyword lesson (…,2025-11-18T20:41:50Z,1,25,bengguankoay,freeCodeCamp,freeCodeCamp
+fec396ae74de8521cd5e8c31b749537b4ecedd6d,fix(curriculum): unclear instruction: Build a hash table (#63952),2025-11-18T20:21:04Z,1,4,pdtrang,freeCodeCamp,freeCodeCamp
+46fddf1f7abe3de3336ef4d2c4fb3d2c3748e995,fix(curriculum): correct the explanation for gyroscope (#63514),2025-11-18T20:14:07Z,1,2,tkunanuntakij,freeCodeCamp,freeCodeCamp
+13637bb5c776fd852eae1fe3d19c7bedd5af3214,"fix(curriculum): typo in Python workshop ""Build an Email simulator"" -…",2025-11-18T20:03:07Z,1,2,PedroLFigueiredo,freeCodeCamp,freeCodeCamp
+b3847dfd6589e4cb2ebeed144d8d7f4a00980703,fix(curriculum): mismatch in float container collapse example (#63653),2025-11-18T17:44:16Z,1,8,fortii2,freeCodeCamp,freeCodeCamp
+da805e0f4861ca4a211e7dff331174a95913266c,fix: use simpler grammar in How Do You Add Attributes with setAttribu…,2025-11-18T09:22:52Z,1,2,Zaeemahmed,freeCodeCamp,freeCodeCamp
+a605462f6fda63ac84029332d5dd93ee2d6e3003,fix: handle NaN percentage completion for completed lab challenges (#…,2025-11-18T08:15:40Z,2,287,farchettiensis,freeCodeCamp,freeCodeCamp
+73f74045ca55e948956eeff1dafdbd6435253b01,fix(curriculum): adjust sentence in steps 2-14 in workshop-mathbot (#…,2025-11-18T07:56:59Z,13,32,farchettiensis,freeCodeCamp,freeCodeCamp
+9339da9283a7a57edf024a23574825d1f184906e,"chore(i18n,client): processed translations (#63911)",2025-11-18T07:53:04Z,20,540,camperbot,freeCodeCamp,freeCodeCamp
+f764b4249503df3045d9bc3cc7be9fee7512de3b,chore(deps): update github actions (#63915),2025-11-18T05:08:10Z,12,44,renovate[bot],freeCodeCamp,freeCodeCamp
 b9f47f8c9dad992f2d8d74e1753270393c2592db,fix(curriculum): remove backticks around console (#63927),2025-11-18T00:53:49Z,1,4,ssam18,freeCodeCamp,freeCodeCamp
 30e76f9bc3ecf74ff2d6626bddeed9a81732c062,feat(curriculum): add interactive examples to JS Date object lesson (…,2025-11-18T00:45:12Z,1,34,nancytwwongutoronto,freeCodeCamp,freeCodeCamp
 bc46ae9bbf267641160e62b1156fbd5397b9333f,test(client): add tests to build transcript function (#63822),2025-11-18T00:22:45Z,4,241,farchettiensis,freeCodeCamp,freeCodeCamp
@@ -966,9 +980,3 @@ a33bc0b4b5a8d8d95db2b7784811bf07c2b5ae4d,chore(api): rename ExamEnvironmentTempE
 017f2735f6b0f354505e8156990be5616e2e7130,feat(curriculum): add five more steps to Resuable Profile Card (#61311),2025-08-19T09:53:29Z,7,1002,sskiragu,freeCodeCamp,freeCodeCamp
 a4deb4f5d78397ac5f7a64a0d997b214afac04b5,feat(curriculum): adding searching and sorting review page (#61774),2025-08-19T07:42:50Z,1,45,Ksound22,freeCodeCamp,freeCodeCamp
 aa7966218477030c73a073491687e66f96102016,feat(curriculum): JS and Accessibility review (#61622),2025-08-19T06:42:43Z,2,184,huyenltnguyen,freeCodeCamp,freeCodeCamp
-141a05b6542d66a2a351fe0b4f3b740b2b079841,fix: correct solution and test for euler problem 89 (#61854),2025-08-18T20:08:38Z,1,106,errantpianist,freeCodeCamp,freeCodeCamp
-a0429f71017861727626ab81c51db34c0ef830ba,"chore(i18n,client): processed translations (#61860)",2025-08-18T19:49:33Z,20,326,camperbot,freeCodeCamp,freeCodeCamp
-27f23eafd461fe5094bd5a1d68cbc2d907d04e50,"chore(i18n,learn): update i18n-curriculum submodule (#61862)",2025-08-18T16:48:26Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-a65daec6b51b5ced372a2f2c21c4fedec9c52e35,fix(curriculum): camel case Audio constructor property (#61853),2025-08-18T09:07:50Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-9405b4083671d917498d38f5900367674b65cb77,fix(curriculum): Typo corrected from 'can we see' to 'as we can see' …,2025-08-18T08:49:22Z,1,2,CodewithMukal,freeCodeCamp,freeCodeCamp
-3c866bf5605b602d07089a0173312aaa5788b0b9,fix(curriculum): update description of challenge on compatibility tes…,2025-08-18T07:04:36Z,1,2,tanmaygautam11,freeCodeCamp,freeCodeCamp
