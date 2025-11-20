@@ -1,4 +1,19 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+02928e10cb2b0cdcbf43354a3e98b7cb437d2207,fix(client): fetch non-prod exam links on deploymentEnv (#63978),2025-11-19T19:55:54Z,1,83,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+0367c2ddb152f5ede1575cbc1d92134c35de2957,fix(client): put token widget behind email check (#63910),2025-11-19T19:48:09Z,5,66,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+9157a25ef443fa9367b3fb0e75be1381594474bc,feat(curriculum): add images to color theory lesson (#63975),2025-11-19T17:42:36Z,1,34,majestic-owl448,freeCodeCamp,freeCodeCamp
+aee389803f93c8b615bf5def627b1892413da9eb,fix(curriculum): remove periods from answers in audio/video apis chal…,2025-11-19T16:35:42Z,1,8,FerSuaiden,freeCodeCamp,freeCodeCamp
+971134863d29031bc01b8218c2000416b4060547,fix(client): retry failed rtk queries (#63976),2025-11-19T16:30:34Z,1,40,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+e1cf5c265048616395f2a8bf4dcafe9c63b8121f,fix(curriculum): Allow use of semicolons in iframe lecture (#62670),2025-11-19T16:03:09Z,3,20,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
+a2c81caae6b89a6c6430a9b6691abb495090648a,"fix(curriculum, tools): remove duplicated words (#63981)",2025-11-19T15:49:58Z,12,26,gikf,freeCodeCamp,freeCodeCamp
+cce4f57022c13c7c58dcc80901ed587627214933,fix(curriculum): clarify RangeError example in debugging lecture (#63…,2025-11-19T14:13:22Z,1,6,saimanoharigodavarty,freeCodeCamp,freeCodeCamp
+014882c92d820e8643e73aed96a5c497117ddd96,"chore(i18n,client): processed translations (#63977)",2025-11-19T14:11:06Z,10,810,camperbot,freeCodeCamp,freeCodeCamp
+a728840a007a79ccd21904158c496a2ef4b903a4,refactor: workshop game settings panel step order (#63884),2025-11-19T13:52:44Z,3,169,farchettiensis,freeCodeCamp,freeCodeCamp
+a202702795b0f38fd0f13ad9d3ada92d85659001,"fix(curriculum): Fixed the repetition of ""other"" (#63972)",2025-11-19T11:27:35Z,1,2,Bhupi1306,freeCodeCamp,freeCodeCamp
+960fd9e072d4d5011138252e934e2414e28d9cc2,refactor: split curriculum build in two (#63639),2025-11-19T11:00:32Z,20,227,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+1212c7872733264d5df7bf02b52111f6088f59b3,fix(curriculum): move nested div explanation to step 5 (#63932),2025-11-19T07:44:15Z,2,4,ssam18,freeCodeCamp,freeCodeCamp
+77a13bb5b2c28219deaa8e49b8caa91d0f1c769e,fix(curriculum): update feedback for second and third questions in fo…,2025-11-19T07:43:04Z,1,12,pdtrang,freeCodeCamp,freeCodeCamp
+17ea34e0845f415ed5f1b394a543fcabba240e87,fix(curriculum): trim spaces in Build a Storytelling App (#63951),2025-11-19T07:30:37Z,2,20,pdtrang,freeCodeCamp,freeCodeCamp
 902c8222ad0c260b571d4e713fe0270900f62c16,feat(curriculum): add mixed numbers audios for the A1 Spanish curricu…,2025-11-18T22:51:17Z,1,2,estefaniacn,freeCodeCamp,freeCodeCamp
 877bd933585909043341789de7f714e3881fdd3c,fix(curriculum): add void element reminder to cafe menu step 16 (#63855),2025-11-18T22:50:45Z,1,2,immortal71,freeCodeCamp,freeCodeCamp
 1ed9f0e4d2a3a56da48fa17c20a08345216bb081,fix(curriculum): correct typo in feedback (#63950),2025-11-18T22:22:31Z,1,2,ZaidQtaish,freeCodeCamp,freeCodeCamp
@@ -969,14 +984,3 @@ b9f2f720585ded63779e4ac4c13dd3f8ff069bf2,fix(curriculum): replace test method in
 7c624b7108667052a0cb2f3ded736fa77732c319,feat(curriculum): JS-A11y intro lecture (#61817),2025-08-20T14:57:19Z,2,156,huyenltnguyen,freeCodeCamp,freeCodeCamp
 8600a0973f5af6739b3d64b1a4bf229af4cd8b0d,fix(curriculum): correct typo 'rick-click' → 'right-click' (#61891),2025-08-20T14:44:55Z,1,2,Bhavishyakolloori,freeCodeCamp,freeCodeCamp
 53a648f71ccae84cd91906be126c2f7aa3c10d05,feat(learn): Added keyboard shortcut(ctrl+enter) to check your answer…,2025-08-20T04:19:39Z,2,103,tanmaygautam11,freeCodeCamp,freeCodeCamp
-806b7380ae444b585eb873052032eaa787dc4779,chore: update alt images for new images (#61625),2025-08-19T19:46:02Z,89,296,zairahira,freeCodeCamp,freeCodeCamp
-12964a0997012df3fa58dfe7408ffac372e0d2b9,fix(curriculum): library manager newline sentence (#61880),2025-08-19T19:42:40Z,2,4,pkdvalis,freeCodeCamp,freeCodeCamp
-9a78eba37155c01a8ace885ff77a114343a0f3cc,fix(curriculum): align hint string with test case in vowel balance ch…,2025-08-19T17:25:45Z,2,4,saurabh-pingale,freeCodeCamp,freeCodeCamp
-b62d1d16b5aa649fd1426e939ac5c9ca79f7705d,fix(curriculum): trim innerText in test assertions (#61651),2025-08-19T16:56:38Z,4,8,rajatbaranwal,freeCodeCamp,freeCodeCamp
-09654cda4c955261aaf95f52604786b246bd12ff,feat(curriculum): searching and sorting quiz (#61785),2025-08-19T12:58:58Z,1,323,Ksound22,freeCodeCamp,freeCodeCamp
-cf48154b2e5c256fba3d7444b66d731c8641bf25,fix(curriculum): typo test 38 (#61856),2025-08-19T12:18:37Z,1,2,pkdvalis,freeCodeCamp,freeCodeCamp
-28eb50b2d14320931a4401a7c3753d06b18b8fe8,feat(curriculum): add golf code lab (#61837),2025-08-19T11:26:15Z,5,185,a2937,freeCodeCamp,freeCodeCamp
-a33bc0b4b5a8d8d95db2b7784811bf07c2b5ae4d,chore(api): rename ExamEnvironmentTempExam -> ExamCreatorExam (#61868),2025-08-19T10:46:02Z,1,5,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-017f2735f6b0f354505e8156990be5616e2e7130,feat(curriculum): add five more steps to Resuable Profile Card (#61311),2025-08-19T09:53:29Z,7,1002,sskiragu,freeCodeCamp,freeCodeCamp
-a4deb4f5d78397ac5f7a64a0d997b214afac04b5,feat(curriculum): adding searching and sorting review page (#61774),2025-08-19T07:42:50Z,1,45,Ksound22,freeCodeCamp,freeCodeCamp
-aa7966218477030c73a073491687e66f96102016,feat(curriculum): JS and Accessibility review (#61622),2025-08-19T06:42:43Z,2,184,huyenltnguyen,freeCodeCamp,freeCodeCamp
