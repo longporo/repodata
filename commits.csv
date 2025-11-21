@@ -1,4 +1,23 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+563992ad5fb1ccd57d83f82946056c5872bf98c5,fix(curriculum): correct console.log numbering in build a calculator …,2025-11-20T23:15:57Z,1,4,fortii2,freeCodeCamp,freeCodeCamp
+f5befd012075545bbbd5de833a043f0ff88e8fdd,fix(curriculum): fix minor typos/grammar in es-a1 (#64019),2025-11-20T23:08:14Z,4,10,pdtrang,freeCodeCamp,freeCodeCamp
+aa45127e49b4a8058672593e0d1872a3a9f9d2de,feat(curriculum): Add Basic Personal Details audios from CDN (#64020),2025-11-20T22:56:18Z,1,7,estefaniacn,freeCodeCamp,freeCodeCamp
+da77b2249560e5881636e48cba06748865eccae3,refactor(client): refactor fill-in-the-blank input change handler (#6…,2025-11-20T22:24:23Z,2,13,pdtrang,freeCodeCamp,freeCodeCamp
+cf250739bf343ebd3dd87a2dbe7aeb3a3a9cd3e3,fix(curriculum): update examples for inline-block lesson (#63853),2025-11-20T20:37:16Z,1,8,an3dree,freeCodeCamp,freeCodeCamp
+7fd3fc2f4ea7960b0cf02cb637de2b4af0b2feb9,feat(curriculum): Add A1 Spanish Module First Questions (#63672),2025-11-20T20:26:39Z,84,8359,estefaniacn,freeCodeCamp,freeCodeCamp
+f90905fbfe1f8a6ae2a968dffaef55a536382bd8,fix(curriculum): improve getResults test to prevent TypeError in lab-…,2025-11-20T19:26:07Z,1,13,bengguankoay,freeCodeCamp,freeCodeCamp
+719c93c7db045843e8623375442161091804396c,fix(curriculum): fixes typo (#64000),2025-11-20T18:12:45Z,1,2,laurascotelari,freeCodeCamp,freeCodeCamp
+bb6de25eb6388de754f4c0cc43624e6e13d8d20d,feat(curriculum): add interactive examples to IndexedDB lesson (#63992),2025-11-20T17:23:25Z,1,8,ulquix,freeCodeCamp,freeCodeCamp
+03b4a861272fcb0212db0ac60f4b4a993b422e76,feat(client): add start/continue superblock buttons (#63495),2025-11-20T16:59:26Z,5,670,ahmaxed,freeCodeCamp,freeCodeCamp
+14fc33950204d1a4355a2b21a11cd4b7ed0c8a65,feat(curriculum): Add Spanish characters to assets (#64001),2025-11-20T16:54:43Z,2,63,DanielRosa74,freeCodeCamp,freeCodeCamp
+cf4290894c184e7b4118c627beede243044a6df6,feat(curriculum): Add Chinese Chapter 1 audio from the CDN (#63999),2025-11-20T14:51:22Z,1,3,miyaliu666,freeCodeCamp,freeCodeCamp
+9c6001169fbb8063a9c42884189eca1aff1796b4,feat(curriculum): Add new characters to Chinese curriculum (#63998),2025-11-20T13:41:01Z,2,52,DanielRosa74,freeCodeCamp,freeCodeCamp
+97d812bd5da0da795ab8cd84aa12d4c99046120f,feat(curriculum): add logic checker workshop (#63666),2025-11-20T11:02:47Z,17,637,Dario-DC,freeCodeCamp,freeCodeCamp
+68156f8f000bc97cd6e5bc4e0495e82a116f83e5,feat(client): module based progress (#63966),2025-11-20T09:52:43Z,2,11,arorakanav,freeCodeCamp,freeCodeCamp
+ec0c34eb401653ab864031fbbe54b8ead6e06e17,docs(README): remove legacy certs and links (#63987),2025-11-20T08:24:12Z,1,194,raisedadead,freeCodeCamp,freeCodeCamp
+6e17ea7e60e35600e44ac425322b8e2dea1eb730,fix(curriculum): add missing selector variations for tests 48 and 49 …,2025-11-20T08:04:58Z,1,4,DeveloperViraj,freeCodeCamp,freeCodeCamp
+a556ec7c1d18847fd03f828efd8cc635ad8a6cc6,fix(curriculum): fix format zh-a1-warm-up-meeting-new-teammates  task…,2025-11-20T03:54:13Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
+f750cb2ad1c7daf75c062df1fa423ed869f9e330,fix(client): remove completion message from pop up modal for certific…,2025-11-20T02:48:32Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
 02928e10cb2b0cdcbf43354a3e98b7cb437d2207,fix(client): fetch non-prod exam links on deploymentEnv (#63978),2025-11-19T19:55:54Z,1,83,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 0367c2ddb152f5ede1575cbc1d92134c35de2957,fix(client): put token widget behind email check (#63910),2025-11-19T19:48:09Z,5,66,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 9157a25ef443fa9367b3fb0e75be1381594474bc,feat(curriculum): add images to color theory lesson (#63975),2025-11-19T17:42:36Z,1,34,majestic-owl448,freeCodeCamp,freeCodeCamp
@@ -979,8 +998,3 @@ b246d99b30e4f2ecae506db4557943374b18a7d6,chore: remove NODE_ENV from sample.env 
 b0ab20bac6a21b89945310d4af822a3102ce546f,feat(curriculum): add tailwind pricing component workshop (#61238),2025-08-21T14:00:25Z,54,6607,Ksound22,freeCodeCamp,freeCodeCamp
 27c2dacc465def67aaa903b90a128e0c8d80b09a,"chore(i18n,client): processed translations (#61892)",2025-08-21T07:28:26Z,10,60,camperbot,freeCodeCamp,freeCodeCamp
 018298a4bfd8d48308728eb5eba4b30d6b59c7ca,"chore(i18n,learn): update i18n-curriculum submodule (#61895)",2025-08-21T06:10:51Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-3d78a31bc6285ed45156ad65f7846570b1ffba88,fix(api): DEPLOYMENT_ENV not same as client (#61893),2025-08-21T01:28:05Z,3,14,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-b9f2f720585ded63779e4ac4c13dd3f8ff069bf2,fix(curriculum): replace test method in step 24 'workshop-hotel-feedb…,2025-08-20T16:03:21Z,1,2,StuartMosquera,freeCodeCamp,freeCodeCamp
-7c624b7108667052a0cb2f3ded736fa77732c319,feat(curriculum): JS-A11y intro lecture (#61817),2025-08-20T14:57:19Z,2,156,huyenltnguyen,freeCodeCamp,freeCodeCamp
-8600a0973f5af6739b3d64b1a4bf229af4cd8b0d,fix(curriculum): correct typo 'rick-click' → 'right-click' (#61891),2025-08-20T14:44:55Z,1,2,Bhavishyakolloori,freeCodeCamp,freeCodeCamp
-53a648f71ccae84cd91906be126c2f7aa3c10d05,feat(learn): Added keyboard shortcut(ctrl+enter) to check your answer…,2025-08-20T04:19:39Z,2,103,tanmaygautam11,freeCodeCamp,freeCodeCamp
