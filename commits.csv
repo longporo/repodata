@@ -1,4 +1,16 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+b85cbc0fdf2f42f463b45f51923eb84c4b3d513e,fix(curriculum): typo in Safe Ways to Sign Into Your Computer lesson …,2025-11-21T21:35:31Z,1,2,leputz,freeCodeCamp,freeCodeCamp
+c3f4ffd2e57c49135cdcbf5bc1436436de956c21,feat(curriculum): release rwd and js exams and certs (#63783),2025-11-21T14:57:50Z,7,40,moT01,freeCodeCamp,freeCodeCamp
+1e0805fd72a4f7ca780664515ea0b4213d15de78,refactor: one eslint task per workspace (#63835),2025-11-21T13:51:46Z,74,4082,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+c9e83c5c6a7793abb388c9b7ff33a4a98342c094,fix(curriculum): Corrected blockLayout of Certification Introduction …,2025-11-21T13:36:33Z,1,2,SkvProgrammer,freeCodeCamp,freeCodeCamp
+c5676e3145c62bbb000d47984fff95de019f8f1c,fix(auth): redirect users signing in from landing page to /learn (#63…,2025-11-21T11:03:55Z,2,24,Jamesren64,freeCodeCamp,freeCodeCamp
+dc8b75ba3f0819855ad1857302b279b12e26332d,fix(curriculum): updated callback function definition and comprehensi…,2025-11-21T09:03:26Z,1,4,shokuyansh,freeCodeCamp,freeCodeCamp
+35f3f4bd5bfd5affee6c483f1f7472ae3d947dc7,fix(curriculum): add internal links using href and id to review pages…,2025-11-21T08:38:55Z,2,12,vardhu032,freeCodeCamp,freeCodeCamp
+8a9035a774466cbcb45b7b60bc96f8b18bfe4269,fix(curriculum): expand on null in javascript comparisons and conditi…,2025-11-21T08:27:57Z,2,42,l3onhard,freeCodeCamp,freeCodeCamp
+edbdc415e239bfdf857d0cf073b54a831321142b,fix(curriculum): clarify HSLA alpha can be a percentage in HSL lesson…,2025-11-21T08:13:34Z,1,2,BakshiSuhas,freeCodeCamp,freeCodeCamp
+8eda3b3a1967b000000c84abf88ba7133ef715e1,fix(curriculum): add `inputType` to frontmatter of zh-a1 fill-in-the-…,2025-11-21T02:19:56Z,6,6,pdtrang,freeCodeCamp,freeCodeCamp
+45bd3c7a5a90b1f216a16b82948dba620b47259c,feat(curriculum): daily challenges 110-119 (#63852),2025-11-21T01:59:29Z,23,1799,moT01,freeCodeCamp,freeCodeCamp
+7eddc11733799a80ab86006d9f1920dda15d48b3,fix(client): typo in FSD v9 note (#64017),2025-11-21T01:57:16Z,1,2,huyenltnguyen,freeCodeCamp,freeCodeCamp
 563992ad5fb1ccd57d83f82946056c5872bf98c5,fix(curriculum): correct console.log numbering in build a calculator …,2025-11-20T23:15:57Z,1,4,fortii2,freeCodeCamp,freeCodeCamp
 f5befd012075545bbbd5de833a043f0ff88e8fdd,fix(curriculum): fix minor typos/grammar in es-a1 (#64019),2025-11-20T23:08:14Z,4,10,pdtrang,freeCodeCamp,freeCodeCamp
 aa45127e49b4a8058672593e0d1872a3a9f9d2de,feat(curriculum): Add Basic Personal Details audios from CDN (#64020),2025-11-20T22:56:18Z,1,7,estefaniacn,freeCodeCamp,freeCodeCamp
@@ -993,8 +1005,3 @@ c97ca99bcde1b58fe34721428456ca505ce4aeab,fix(curriculum): singular verb for text
 2ecd00881600ac0421dcf10d5b3b77f4364afa4c,fix(curriculum): require empty p with aria-live (#61876),2025-08-22T08:28:06Z,1,41,pkdvalis,freeCodeCamp,freeCodeCamp
 6df2f49ad5d7b15bfc51a2d6dded9f273de37a4a,refactor(client): update super block accordion to dynamically look up…,2025-08-22T08:14:54Z,1,18,huyenltnguyen,freeCodeCamp,freeCodeCamp
 ef6501137968df6f349949e31b6b7194d0373a2f,feat(curriculum): release JS A11y module (#61898),2025-08-22T08:07:23Z,7,13,huyenltnguyen,freeCodeCamp,freeCodeCamp
-efe3d22b06dbe290a007782e3dd8eeff4fd1a16f,fix: make sure ext curriculum tests fail if missing meta (#61904),2025-08-21T17:57:45Z,3,250,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-b246d99b30e4f2ecae506db4557943374b18a7d6,chore: remove NODE_ENV from sample.env (#61902),2025-08-21T17:54:14Z,1,1,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-b0ab20bac6a21b89945310d4af822a3102ce546f,feat(curriculum): add tailwind pricing component workshop (#61238),2025-08-21T14:00:25Z,54,6607,Ksound22,freeCodeCamp,freeCodeCamp
-27c2dacc465def67aaa903b90a128e0c8d80b09a,"chore(i18n,client): processed translations (#61892)",2025-08-21T07:28:26Z,10,60,camperbot,freeCodeCamp,freeCodeCamp
-018298a4bfd8d48308728eb5eba4b30d6b59c7ca,"chore(i18n,learn): update i18n-curriculum submodule (#61895)",2025-08-21T06:10:51Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
