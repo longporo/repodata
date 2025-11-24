@@ -1,5 +1,15 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87Z3gW0,64067,Curriculum Helper .functionRegex doesn't (seem to) support `const foo = function (bar) => {}`,OPEN,2025-11-22T23:28:01Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Z3gW0,64067,Curriculum Helper .functionRegex doesn't (seem to) support `const foo = function (bar) {}`,OPEN,2025-11-22T23:28:01Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87YzE22,63944,The new coding challenge archive UI is less usable,OPEN,2025-11-18T10:10:53Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Z6JdC,64076,Wrong hint backtick formatting - Email Simulator - Step 5,CLOSED,2025-11-23T12:02:50Z,2025-11-23T16:32:57Z,RitamPal26,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Z4Whm,64070,In progress status after exam submission might be confusing to exam takers,OPEN,2025-11-23T03:08:24Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87GdcHm,61859,☂️ Umbrella Issue updating lessons with interactive code examples ☂️,OPEN,2025-08-18T07:52:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XZC9U,63752,Add interactive examples to Proper Heading Level Structure lesson,CLOSED,2025-11-11T19:45:40Z,2025-11-23T15:06:54Z,abhirammanikantareddymallidi,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87WGuxW,63551,Add interactive examples to async/await lesson,OPEN,2025-11-05T17:23:59Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87WHLw3,63557,Add interactive examples to currying lesson,CLOSED,2025-11-05T17:58:07Z,2025-11-23T10:21:01Z,manuuuskp,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ZoxU-,64029,"Sentence can be made cleaner and concise in [How Do You Install, Configure and Use Python in Your Local Environment?] - Introduction to Python",CLOSED,2025-11-21T11:42:39Z,2025-11-23T09:12:35Z,ramprasad-13,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Z4PBq,64069,a dedicated code playground,CLOSED,2025-11-23T02:13:38Z,2025-11-23T05:48:58Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ZxUnE,64056,Explain manual download options to campers for exams,OPEN,2025-11-22T01:29:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ZvHuL,64049,a problem with index .js file,CLOSED,2025-11-21T20:31:05Z,2025-11-22T19:02:07Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87I4MIe,61999,Reference to method chaining applying to objects,CLOSED,2025-08-31T11:38:21Z,2025-11-22T18:58:57Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87DucSA,61643,Add outline to review page,OPEN,2025-08-01T12:18:04Z,,,freeCodeCamp,freeCodeCamp
@@ -9,9 +19,6 @@ I_kwDOAbI7X861sa5w,60228,Persisting Last User Activity,OPEN,2025-05-08T09:05:56Z
 I_kwDOAbI7X87JQzEc,62018,Daily challenge solutions are saved as `undefined.txt`,OPEN,2025-09-02T15:57:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86I27rX,54796,[Certification Projects] Show a dialog when user leaving the page,OPEN,2024-05-14T18:29:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86nvL2G,58430,Expected dates contains <today> twice but not <tomorrow>,CLOSED,2025-01-27T22:10:26Z,2025-11-22T18:38:00Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ZoxU-,64029,"Sentence can be made cleaner and concise in [How Do You Install, Configure and Use Python in Your Local Environment?] - Introduction to Python",OPEN,2025-11-21T11:42:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87XZC9U,63752,Add interactive examples to Proper Heading Level Structure lesson,OPEN,2025-11-11T19:45:40Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ZxUnE,64056,Explain manual download options to campers for exams,OPEN,2025-11-22T01:29:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87YarEL,63885,comprehension questions do not ask about actual usage of optional chaining,CLOSED,2025-11-16T17:29:59Z,2025-11-22T17:32:13Z,Unknownmaster0,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EudYE,61717,Add an Audio Feature to Lecture Articles,CLOSED,2025-08-07T13:24:38Z,2025-11-22T16:36:13Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87PU2dm,62463,fCC website's dark mode has legibility issues for me,OPEN,2025-10-02T17:35:53Z,,,freeCodeCamp,freeCodeCamp
@@ -98,7 +105,6 @@ I_kwDOAbI7X87WsdTS,63647,Incomplete JavaScript Comparisons and Conditionals Revi
 I_kwDOAbI7X87UL7-D,63128,Update HSL lesson to include example for using percentages,CLOSED,2025-10-28T05:33:16Z,2025-11-21T08:13:35Z,Bakshi Suhas,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865pl-V,60690,new lines and spaces cause failures in tests checking element content,CLOSED,2025-06-03T16:37:46Z,2025-11-21T08:10:07Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Y7cum,63959,confusing way to talk about type of a css variable,OPEN,2025-11-18T18:24:02Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87YzE22,63944,The new coding challenge archive UI is less usable,OPEN,2025-11-18T10:10:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ZfgOQ,64006,[Chinese] Add `inputType` to frontmatter of fill-in-the-blank challenges,CLOSED,2025-11-20T20:15:30Z,2025-11-21T02:19:57Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ZfikF,64007,Mispelling in November 20th challenge,CLOSED,2025-11-20T20:18:10Z,2025-11-20T23:29:38Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ZffOK,64005,Build a Calculator Workshop Step 19 instruction contains incorrect console.log numbering,CLOSED,2025-11-20T20:14:26Z,2025-11-20T23:15:58Z,fortii2,freeCodeCamp,freeCodeCamp
@@ -122,7 +128,6 @@ I_kwDOAbI7X867heXg,60874,backend test runner does not set origin on fetch,OPEN,2
 I_kwDOAbI7X87Wnckx,63633,Add a progress bar to visually track completion percentage in each certification section,OPEN,2025-11-07T14:43:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Bc2VW,61411,lab-permutation-generator could use more clarification,OPEN,2025-07-19T19:02:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ZX6Vy,63996,Minor typos in Python review lesson (Python certification),CLOSED,2025-11-20T11:52:55Z,2025-11-20T18:12:47Z,laurascotelari,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87GdcHm,61859,☂️ Umbrella Issue updating lessons with interactive code examples ☂️,OPEN,2025-08-18T07:52:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WIprR,63568,Add interactive examples to IndexedDB lesson,CLOSED,2025-11-05T20:02:01Z,2025-11-20T17:23:28Z,ulquix,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86y2DdZ,59776,"Feature Request: ""Start Where You Left Off"" for Lessons",CLOSED,2025-04-16T19:09:33Z,2025-11-20T16:59:28Z,ahmaxed,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WQ2H2,63590,Misaligned hero section text on mobile,OPEN,2025-11-06T08:42:59Z,,,freeCodeCamp,freeCodeCamp
@@ -288,7 +293,6 @@ I_kwDOAbI7X87WJtkU,63575,Add interactive examples to regex and common methods le
 I_kwDOAbI7X87WmmA3,63629,Add dynamic meta images based on page content,CLOSED,2025-11-07T13:51:23Z,2025-11-07T14:40:31Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WI3Jh,63570,Add interactive examples to different ways to format dates lesson,CLOSED,2025-11-05T20:19:04Z,2025-11-07T14:36:49Z,narendra-s19,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WX3E0,63601,[A1 Chinese] Change all review blocks to use `challenge-list` layout,CLOSED,2025-11-06T16:29:27Z,2025-11-07T14:24:42Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87WGuxW,63551,Add interactive examples to async/await lesson,OPEN,2025-11-05T17:23:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Wc7XU,63613,Build a Mood board - NaN% Complete,CLOSED,2025-11-06T22:34:28Z,2025-11-06T22:57:09Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WdCS3,63614,Move `isUpcomingChange` from block structure to super block structure,OPEN,2025-11-06T22:48:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TQDmD,62968,[discussion] move more curriculum into growthbook,OPEN,2025-10-23T11:03:33Z,,,freeCodeCamp,freeCodeCamp
@@ -306,7 +310,6 @@ I_kwDOAbI7X87WGPHI,63546,Add interactive examples to aria-expanded attribute les
 I_kwDOAbI7X87V-gBZ,63530,fix needed in intro.json,CLOSED,2025-11-05T08:44:07Z,2025-11-05T23:43:25Z,rosettaJoy,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WFw7F,63545,Add interactive examples to try…catch…finally lesson,CLOSED,2025-11-05T16:21:52Z,2025-11-05T21:12:08Z,ishaanpgujaran,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WIXYI,63562,جده,CLOSED,2025-11-05T19:36:06Z,2025-11-05T19:40:44Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87WHLw3,63557,Add interactive examples to currying lesson,OPEN,2025-11-05T17:58:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TD1rP,62933,Daily Challenge breadcrumb doesn't work,CLOSED,2025-10-22T13:58:49Z,2025-11-05T16:58:25Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87V3M71,63520,production redux store broken with rtk,CLOSED,2025-11-04T20:09:56Z,2025-11-05T16:49:50Z,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87V-p15,63532,fix needed in new classes and objects lecture,CLOSED,2025-11-05T08:56:29Z,2025-11-05T15:22:45Z,Rudronha,freeCodeCamp,freeCodeCamp
@@ -880,6 +883,3 @@ I_kwDOAbI7X87HTvnl,61910,Empty instrcutions for Labs and Projects,CLOSED,2025-08
 I_kwDOAbI7X86qG_r-,58807,Navbar style breaks in high contrast mode due to transparency/white background,OPEN,2025-02-14T15:09:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87HJpGX,61901,Inaccurate test case in Golf Score Lab (with minor edits),CLOSED,2025-08-21T10:25:15Z,2025-08-24T17:07:51Z,whiteSHADOW1234,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87HpzQZ,61928,No lesson on HTML entities in javascript curriculum,CLOSED,2025-08-24T15:22:22Z,2025-08-24T17:04:10Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87CrusO,61484,Clarify that the replace() method returns a new string,CLOSED,2025-07-26T23:00:15Z,2025-08-23T18:19:21Z,NiloySaha84;majestic-owl448,freeCodeCamp,freeCodeCamp
-MDU6SXNzdWU3MDk5NTI1NzM=,39710,Deprecated ComponentWillMount is present in React Section,CLOSED,2020-09-28T05:45:17Z,2020-09-28T17:20:29Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87HWPOl,61912,Typo in step 68 of Learn Special Methods by Building a Vector Space in Scientific Computing with Python course,CLOSED,2025-08-22T07:38:15Z,2025-08-23T04:17:33Z,Tiffany Grevious,freeCodeCamp,freeCodeCamp
