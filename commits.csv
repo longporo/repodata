@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+82f89e800415176e0080e0208d30e1eb6b7c76be,fix(curriculum): dispatch bubbling event in Theme Switcher tests (#64…,2025-11-24T16:17:31Z,1,8,gikf,freeCodeCamp,freeCodeCamp
+77457e54a21591ddc23e011c3a7a1da4e8d19601,fix(curriculum): remove excessive backtick in Modal Verbs Task 143 (#…,2025-11-24T16:09:29Z,1,2,Navadeep0007,freeCodeCamp,freeCodeCamp
+1162e4b7b612dd5f82408c5e51aa1cdacf434102,"chore(i18n,client): processed translations (#64100)",2025-11-24T15:32:23Z,20,546,camperbot,freeCodeCamp,freeCodeCamp
+22a56eddfb7b79d6dac34478ce00b7fbb48ff3da,refactor(api): remove exam-env feature flag (#63909),2025-11-24T14:38:06Z,4,20,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+5b3a248e7232f390ce4ed931f728b55d988f3f0a,fix(curriculum): remove unnecessary double backticks  (#64098),2025-11-24T11:21:08Z,5,48,sanchitkhthpalia,freeCodeCamp,freeCodeCamp
+981d0c301c70bb7d06dfd423b5529f55922ab665,fix(client): only show missing prerequisites if signed in (#64047),2025-11-24T09:06:17Z,1,22,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+152f8a59dff0a2c14f5b7f3d1ebedd433b00f601,feat(client): add recommended os to exam download link (#64078),2025-11-24T09:04:29Z,1,44,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 e270a8dc4b0d356d070085aeecd490340081d2e2,fix(curriculum): fix spelling from behaviour to behavior (#64083),2025-11-23T18:55:24Z,2,4,Giftea,freeCodeCamp,freeCodeCamp
 b72a3982e543faef4cf4bb64213a03a66f944d55,fix(curriculum): correct hint formatting in email simulator step 5 (#…,2025-11-23T16:32:56Z,1,2,RitamPal26,freeCodeCamp,freeCodeCamp
 2f7772b716c168f13d5f68d8976f6a47b51793e3,feat(curriculum): add interactive examples to Proper Heading Level St…,2025-11-23T15:06:53Z,1,32,abhirammanikantareddymallidi,freeCodeCamp,freeCodeCamp
@@ -1007,4 +1014,3 @@ ceadc376b183b7df1e00b9af198c231f742157e3,fix(curriculum): update CSS library and
 a068693cf4a76930805d36742035074368f94c7e,fix(curriculum): update test to check diagonal win conditions (#61674),2025-08-25T09:20:42Z,1,28,tanmaygautam11,freeCodeCamp,freeCodeCamp
 c97ca99bcde1b58fe34721428456ca505ce4aeab,fix(curriculum): singular verb for text (#61932),2025-08-25T09:16:36Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 8acec2ca7b9b37993e42a4d614ea8c727972012b,chore(curriculum): add images to Whitespace in Design lecture (#61874),2025-08-25T07:15:38Z,1,10,huyenltnguyen,freeCodeCamp,freeCodeCamp
-4b0ac1009493dab387da651e5a869bae46ee7956,fix(curriculum): correct golf score user story (#61927),2025-08-24T17:07:50Z,1,8,whiteSHADOW1234,freeCodeCamp,freeCodeCamp
