@@ -1,4 +1,10 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+8f480d8cdfdd0ff8ad5be602e0d0d0ddc9ca4c4b,fix(challenge-helper-scripts): create quiz project challenges in corr…,2025-11-26T22:04:49Z,4,58,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+35c73a1503eb25e07ae1bffc025d0331071b272b,fix(curriculum): move lab-optional-arguments-sum-function to function…,2025-11-26T16:03:00Z,2,4,pdtrang,freeCodeCamp,freeCodeCamp
+f20d8a7a702e6d0c67f090fedd27600015408d7f,fix(tools): wrong throw causes test to pass (#64159),2025-11-26T15:43:08Z,2,6,gikf,freeCodeCamp,freeCodeCamp
+9531c9d20cb81b78131aeaa574088fb92a93965d,feat(curriculum): Add A1 Chinese Chapter 1 (#64023),2025-11-26T13:37:39Z,7,432,miyaliu666,freeCodeCamp,freeCodeCamp
+1e28b76bf5c457c704491b56d39a24dbf078abe4,feat(curriculum): added 2 new steps to mathbot project for random int…,2025-11-26T10:15:16Z,11,282,shokuyansh,freeCodeCamp,freeCodeCamp
+a89054d9db8c17f7661d5dae1b5cd80cfab1a550,fix(curriculum): add/fix an example link in user stories (#64153),2025-11-26T08:23:00Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
 33325b9002533d6bc3abb94e876dfce8818dfc73,"feat(client,challenge-parser): update fill-in-the-blank to support Ch…",2025-11-25T19:02:22Z,24,1140,huyenltnguyen,freeCodeCamp,freeCodeCamp
 b6fff6e2b7dc7dbe48e40c5afc0367cc7f432554,fix(curriculum): avoid passing currency converter lab with wrong impl…,2025-11-25T19:01:59Z,1,71,vic-fb,freeCodeCamp,freeCodeCamp
 583555e9b7f1162fd8cdd427cc59bd8813d89a46,feat(curriculum): add interactive examples to async/await lesson (#64…,2025-11-25T18:33:36Z,1,6,pdtrang,freeCodeCamp,freeCodeCamp
@@ -1008,8 +1014,3 @@ aa72a676d93b515c558c4d68f3878b6f958f1dba,chore(curriculum): use fenced markdown 
 7f0d42b638601c0326f02a23e8a23eabb0124fd0,chore: disable curriculum translation deletion (#61961),2025-08-27T16:32:16Z,1,11,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 bcc509e6bfeab4319bca2ffd88594be14aa973fb,fix(curriculum): update challenge type of a2 english exam (#61955),2025-08-27T12:23:57Z,1,2,HarshSachdeva01,freeCodeCamp,freeCodeCamp
 91608a165de7039e5676d9fac80236e15442f9c8,fix(curriculum): Rewrote budget app description (#61737),2025-08-27T08:25:16Z,1,152,kb42,freeCodeCamp,freeCodeCamp
-dbdb6944cd439cc55d84c7a6417d48569003c7f4,feat(curriculum): add error handling lecture scripts (#61641),2025-08-26T18:26:03Z,7,855,larymak,freeCodeCamp,freeCodeCamp
-156053bc244faabb8523f0d63bd3c35f006c6dd3,feat: create a card counting lab (#61857),2025-08-26T17:55:23Z,5,237,a2937,freeCodeCamp,freeCodeCamp
-2005a3d4c5fac1aa76ce90ef1ff56e142e9dba27,feat: add arguments optional lab to full stack (#61835),2025-08-26T16:45:41Z,5,152,majestic-owl448,freeCodeCamp,freeCodeCamp
-64dcea96dda37dde6a0d7a1c133655662071fa1f,"chore(i18n,client): processed translations (#61944)",2025-08-26T16:01:50Z,10,70,camperbot,freeCodeCamp,freeCodeCamp
-a801d503bc91dcae1860ca7a24db06c9c2fec726,refactor: top-down curriculum build (#61459),2025-08-26T10:37:26Z,14726,85211,ojeytonwilliams,freeCodeCamp,freeCodeCamp
