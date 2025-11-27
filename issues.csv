@@ -1,8 +1,23 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87aMWJq,64108,"""Computer Basics"" block placement",OPEN,2025-11-24T22:00:07Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87aZwQ7,64148,missing hint+test in feature selection page,OPEN,2025-11-25T18:41:53Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ZYmFt,63997,[Challenge helper scripts] Add script for renaming block,OPEN,2025-11-20T12:37:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87auEQ2,64180,Enhancement: Add keyboard shortcuts guide to the learning platform,OPEN,2025-11-27T01:11:38Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87atTbr,64179,"Certification Projects Don't Get Saved, What Does Get Saved Is Unclear",OPEN,2025-11-26T23:03:37Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87aswI4,64178,Review and Quiz - Searching and Sorting Algorithms: Binary Search,OPEN,2025-11-26T22:04:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPEw0,64119,Lab – Nutrient Tracker Dictionary,OPEN,2025-11-25T03:44:25Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87arohm,64175,Balance sheet workshop uses 'magic' width settings with no explanation,OPEN,2025-11-26T19:56:12Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86x7y7f,59661,Build a Balance Sheet Step 53 - Remove `width` from checks,CLOSED,2025-04-10T10:42:27Z,2025-04-15T20:54:46Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87aqlUg,64171,Pointless required 100vw on Step 53 of Build a Balance Sheet,CLOSED,2025-11-26T18:20:03Z,2025-11-26T18:31:56Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87aZwQ7,64148,missing hint+test in feature selection page,OPEN,2025-11-25T18:41:53Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87apEZR,64164,Feature Request: Provided feedback on areas to review on exam page,OPEN,2025-11-26T16:22:26Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ae7vr,64151,interactive editor is overly eager,OPEN,2025-11-26T03:21:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Wz1as,63670,Move optional arguments lab to functional programming section,CLOSED,2025-11-08T20:06:29Z,2025-11-26T16:03:02Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ai1sv,64158,issue that profile card,CLOSED,2025-11-26T09:05:53Z,2025-11-26T09:35:20Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ZYmFt,63997,[Challenge helper scripts] Add script for renaming block,OPEN,2025-11-20T12:37:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87YaRLc,63883,topic that could be added to mathbot,CLOSED,2025-11-16T16:10:00Z,2025-11-26T10:15:18Z,shokuyansh,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ai1Oo,64157,issues with sjr,CLOSED,2025-11-26T09:05:28Z,2025-11-26T09:34:56Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87aBeiR,64092,Calculate streaks correctly,OPEN,2025-11-24T09:00:57Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Nq2mH,62346,HTML - Accessibility Module - Step 21 - Missing link for students to add a subtitle file / Broken link to subtitles file on video inside the example project,CLOSED,2025-09-24T18:58:04Z,2025-11-26T08:23:02Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X865WfJn,60660,Add test to ensure block name in `meta.json` and in `intro.json` match,OPEN,2025-06-02T11:01:43Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87aMWJq,64108,"""Computer Basics"" block placement",OPEN,2025-11-24T22:00:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPDkQ,64109,Workshop – Space Mission Roster,OPEN,2025-11-25T03:40:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPD3u,64110,Lab – Smart Pantry Restocker,OPEN,2025-11-25T03:41:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPD_P,64111,Workshop – Delivery Route Merger,OPEN,2025-11-25T03:42:04Z,,,freeCodeCamp,freeCodeCamp
@@ -36,7 +51,6 @@ I_kwDOAbI7X87aPFY3,64127,Workshop – Festival Crowd Flow Simulator,OPEN,2025-11
 I_kwDOAbI7X87aPFE7,64123,Workshop – Escape Room Code Runner,OPEN,2025-11-25T03:45:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPE14,64121,Workshop – Artifact Provenance Auditor,OPEN,2025-11-25T03:44:42Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPElK,64117,Workshop – Smart Campus Directory,OPEN,2025-11-25T03:43:53Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87aBeiR,64092,Calculate streaks correctly,OPEN,2025-11-24T09:00:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPbWa,64129,Bug: Challenge test does not accept valid JavaScript function syntax using const foo = function() {},CLOSED,2025-11-25T04:42:17Z,2025-11-25T05:03:55Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Zo4_6,64031,Copy button or may be a run code feature will make the lessons even more interactive,OPEN,2025-11-21T11:53:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Z-pl6,64086,Excessive backtick in explanation - Learn How to Use Modal Verbs - Task 143,CLOSED,2025-11-24T04:52:32Z,2025-11-24T16:09:31Z,Navadeep0007,freeCodeCamp,freeCodeCamp
@@ -81,7 +95,6 @@ I_kwDOAbI7X87NcA7Z,62335,Allow code blocks in test text,OPEN,2025-09-23T21:10:59
 I_kwDOAbI7X86M4mje,55234,Send 200 status for get-session-user,OPEN,2024-06-20T06:42:26Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87USvWu,63145,Lesson TS compiler assumes all files are index.tsx,OPEN,2025-10-28T13:50:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864xIVC,60592,Optimize the multiple choice questions for usability,OPEN,2025-05-29T10:27:55Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865WfJn,60660,Add test to ensure block name in `meta.json` and in `intro.json` match,OPEN,2025-06-02T11:01:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85y0kxU,51807,Make sure all endpoints do proper encoding,OPEN,2023-10-04T14:46:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85xHUSK,51554,Color Coding New Content,OPEN,2023-09-15T05:42:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85lG0FB,50283,Require pre-flighted requests,OPEN,2023-05-04T15:52:15Z,,,freeCodeCamp,freeCodeCamp
@@ -91,7 +104,6 @@ I_kwDOAbI7X86-T-t6,61175,Updating options in challenge helper script for creatin
 I_kwDOAbI7X867ZPjT,60857,Build a Voting System test 17 too strict,CLOSED,2025-06-13T15:33:08Z,2025-11-22T08:58:13Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X866etyU,60783,should all events dispatched bubble up?,CLOSED,2025-06-08T18:50:01Z,2025-11-22T08:54:12Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Ze3CH,64003,Add more detailed explanation for keys in rending lists lesson,OPEN,2025-11-20T19:26:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87YaRLc,63883,topic that could be added to mathbot,OPEN,2025-11-16T16:10:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86vYBmW,59397,Clean up global.css,OPEN,2025-03-24T07:40:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87QlVy4,62635,Clarify and simplify regex used to assert HTML tag order in tests,OPEN,2025-10-09T14:31:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ZtAqh,64043,Typo in Security Basics lesson in CSS,CLOSED,2025-11-21T17:07:48Z,2025-11-21T21:35:32Z,leputz,freeCodeCamp,freeCodeCamp
@@ -161,7 +173,6 @@ I_kwDOAbI7X87Zel62,64002,Add explanation for inline styles syntax for react less
 I_kwDOAbI7X8603Drm,60106,Update import/export lesson to teach both default exports and named import/exports,OPEN,2025-05-01T17:30:10Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863ocO_,60469,Todo App using Local Storage — formInputValuesUpdated,OPEN,2025-05-21T16:36:14Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JEGE6,62010,Bookmark Manager passes incorrect code,OPEN,2025-09-01T16:43:42Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Nq2mH,62346,HTML - Accessibility Module - Step 21 - Missing link for students to add a subtitle file / Broken link to subtitles file on video inside the example project,OPEN,2025-09-24T18:58:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863pUiQ,60472,Refactor shopping cart workshop,OPEN,2025-05-21T18:17:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X869Iel-,61047,"React lecture group ""Working With Data In React"" missing some core concepts",CLOSED,2025-06-24T19:54:23Z,2025-11-20T19:27:37Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Yfiux,63899,testing could be improved in lab-quiz-game,CLOSED,2025-11-17T07:52:24Z,2025-11-20T19:26:09Z,beng guan koay,freeCodeCamp,freeCodeCamp
@@ -317,7 +328,6 @@ I_kwDOAbI7X87W2e-W,63675,Certifications in the same place as the curriculum,CLOS
 I_kwDOAbI7X87Wrz8H,63643,Replace second comprehension check question in `div` element lesson,CLOSED,2025-11-07T19:58:06Z,2025-11-09T07:56:57Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Wp8oK,63637,Update What Is the Object() Constructor lesson,CLOSED,2025-11-07T17:35:27Z,2025-11-09T07:54:09Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Wzagt,63669,workshop-bookstore-page missing html boilerplate,OPEN,2025-11-08T17:54:15Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Wz1as,63670,Move optional arguments lab to functional programming section,OPEN,2025-11-08T20:06:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WKCnJ,63580,Add interactive examples to capturing groups lesson,CLOSED,2025-11-05T21:58:25Z,2025-11-08T15:59:41Z,akshith30388,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Wy9-P,63667,[bug] api serialization failure for error response,OPEN,2025-11-08T15:42:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Tped7,63041,Update todo list lab user stories 4 and 5,OPEN,2025-10-24T20:08:29Z,,,freeCodeCamp,freeCodeCamp
@@ -907,4 +917,3 @@ I_kwDOAbI7X87IMVeb,61953,"Typo/ ""This this"" in how to contribute to open sourc
 I_kwDOAbI7X87Hp5KM,61929,Inconsistency in Project Euler Problem 89 Description,CLOSED,2025-08-24T15:47:31Z,2025-08-27T18:24:48Z,majestic-owl448;tharu-jwd,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87IMzz7,61954,Correct challenge type of A2 English exam,CLOSED,2025-08-27T10:07:42Z,2025-08-27T12:23:59Z,HarshSachdeva01,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87EruLQ,61712,rewrite description of Budget App,CLOSED,2025-08-07T09:47:32Z,2025-08-27T08:25:18Z,Dario-DC;kb42,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Hy_hR,61948,❄️❄️ CODE FREEZE ACTIVE ❄️❄️,CLOSED,2025-08-25T14:13:43Z,2025-08-26T21:19:05Z,,freeCodeCamp,freeCodeCamp
