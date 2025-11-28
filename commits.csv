@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+8cbaf2b27de8776be396cdd6e4de4d949bc60cf2,fix(challenge-parser): add missing backtick in challenge parser fixtu…,2025-11-27T22:54:55Z,13,30,gowtham1412-p,freeCodeCamp,freeCodeCamp
+b51290d0093a3b6ec35df025ccef3dd87bec5247,fix(curriculum): add assert to prevent empty editor pass in todo list…,2025-11-27T13:30:16Z,1,1,Vincent-Stone,freeCodeCamp,freeCodeCamp
+4b6c2d7805a2d85c0702b3ee9869aaff722a276a,fix(api): handle string numbers in normalizeDate (#64188),2025-11-27T13:16:25Z,2,15,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+7c12767a680fe8a490bba5c7311612498939ebf7,chore: remove staff from codeowners,2025-11-27T09:41:20Z,1,8,raisedadead,freeCodeCamp,freeCodeCamp
+c1b98390634e88a987a89d06d122480f687238f4,"chore(i18n,client): processed translations (#64161)",2025-11-27T09:12:37Z,10,20,camperbot,freeCodeCamp,freeCodeCamp
+d921d1de2bed37920f50cd216d00a082b2716564,chore(curriculum): update JS data type lesson (#64132),2025-11-27T08:48:08Z,1,94,jdwilkin4,freeCodeCamp,freeCodeCamp
+d823ae310276a65313535821f6db4080118da30b,fix(curriculum): clarify moon phase day numbering in Daily Coding Cha…,2025-11-27T08:31:50Z,2,4,VeerendraSD,freeCodeCamp,freeCodeCamp
 8f480d8cdfdd0ff8ad5be602e0d0d0ddc9ca4c4b,fix(challenge-helper-scripts): create quiz project challenges in corr…,2025-11-26T22:04:49Z,4,58,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 35c73a1503eb25e07ae1bffc025d0331071b272b,fix(curriculum): move lab-optional-arguments-sum-function to function…,2025-11-26T16:03:00Z,2,4,pdtrang,freeCodeCamp,freeCodeCamp
 f20d8a7a702e6d0c67f090fedd27600015408d7f,fix(tools): wrong throw causes test to pass (#64159),2025-11-26T15:43:08Z,2,6,gikf,freeCodeCamp,freeCodeCamp
@@ -1007,10 +1014,3 @@ f677494de42ec3b6621692ad0130e357f30d72a6,chore: remove order and superblock from
 d781102513bbba1b15dde7fc4a3f25d872cb0ed4,feat(api): add more debug logging (#61980),2025-08-29T10:55:16Z,3,33,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 ddd945770391837cd7c3b5032ac0a5064372beb8,fix(curriculum): use correct assert method (#61978),2025-08-28T19:02:38Z,1,2,ChaseKnowlden,freeCodeCamp,freeCodeCamp
 aa72a676d93b515c558c4d68f3878b6f958f1dba,chore(curriculum): use fenced markdown in Project Euler Problem 89 (#…,2025-08-28T09:23:15Z,1,16,AkshatHotCode,freeCodeCamp,freeCodeCamp
-399f000eac229b08221a3658c4cbc46bd1957a10,fix(curriculum): remove contradictory note in Problem 89 description …,2025-08-27T18:24:46Z,1,2,tharu-jwd,freeCodeCamp,freeCodeCamp
-0c1498a84deaacd2acab815b413a69ce908bf371,fix(environment): Use DEPLOYMENT_ENV and DEPLOYMENT_TLD (#61925),2025-08-27T17:17:21Z,4,21,raisedadead,freeCodeCamp,freeCodeCamp
-12b5905c6031e6742824178d941f02bfa4b2bf33,refactor: remove isPrivate (#61952),2025-08-27T17:15:36Z,34,466,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-918e0abb9d060b15776fbaa65b6fdd0b1c11e736,chore(curriculum): replace quote marks with backticks in description …,2025-08-27T16:36:21Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-7f0d42b638601c0326f02a23e8a23eabb0124fd0,chore: disable curriculum translation deletion (#61961),2025-08-27T16:32:16Z,1,11,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-bcc509e6bfeab4319bca2ffd88594be14aa973fb,fix(curriculum): update challenge type of a2 english exam (#61955),2025-08-27T12:23:57Z,1,2,HarshSachdeva01,freeCodeCamp,freeCodeCamp
-91608a165de7039e5676d9fac80236e15442f9c8,fix(curriculum): Rewrote budget app description (#61737),2025-08-27T08:25:16Z,1,152,kb42,freeCodeCamp,freeCodeCamp
