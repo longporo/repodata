@@ -1010,10 +1010,3 @@ c58ba56eebc2cf616fbca8577ceee35a0cbc1dfe,fix(Curriculum): removed unused imaged 
 793f81be48deb3759f33fd77c9c222e2242e5f5c,fix(client): allow identical challenge ids multiple superblocks (#61982),2025-08-30T07:50:28Z,1,6,Sembauke,freeCodeCamp,freeCodeCamp
 a40fe34ae281ae32ec4722793ef6d7cdbba8f017,feat(tools): script to create daily challenge files (#61921),2025-08-30T07:43:09Z,3,231,moT01,freeCodeCamp,freeCodeCamp
 0a000f7423a71e944d3a109b55a2ff87501ec732,chore(pnpm): self-update (#61907),2025-08-30T07:29:28Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
-2a197233f5f9399a7e0cffb4839d7d8e2332ea70,Fix: (Curriculum) Replaced office-cafe.png by cafe.png (#61966),2025-08-29T21:02:00Z,7,20,nieldakarla,freeCodeCamp,freeCodeCamp
-f0bc3a62b7a993fb07f4a300f49d893a76f6a653,fix(curriculum): correct spelling 'mangers' → 'managers' in lecture (…,2025-08-29T17:16:36Z,1,2,Sonudhukia143,freeCodeCamp,freeCodeCamp
-1ef3cc1e7a01d752bc39663833fca1fe42625d27,feat(curriculum): more daily challenges (#61959),2025-08-29T16:56:31Z,12,982,moT01,freeCodeCamp,freeCodeCamp
-f677494de42ec3b6621692ad0130e357f30d72a6,chore: remove order and superblock from block structure files (#61951),2025-08-29T16:08:11Z,672,970,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-93d7de3e24d2192bd5f45905c51254e6a0387f43,fix: order intro.json blocks properly (#61984),2025-08-29T14:24:26Z,2,122,majestic-owl448,freeCodeCamp,freeCodeCamp
-7d5e6b727980e32ec6960c80d4b71cb4facdc79a,fix: updates to A2 english curriculum block 1 (#61569),2025-08-29T12:32:27Z,165,1364,anastasiiauk,freeCodeCamp,freeCodeCamp
-d781102513bbba1b15dde7fc4a3f25d872cb0ed4,feat(api): add more debug logging (#61980),2025-08-29T10:55:16Z,3,33,ojeytonwilliams,freeCodeCamp,freeCodeCamp
