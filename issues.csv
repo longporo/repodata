@@ -1,4 +1,14 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87atTbr,64179,"Certification Projects Don't Get Saved, What Does Get Saved Is Unclear",OPEN,2025-11-26T23:03:37Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87bKYrU,64224,Redundancies in a passage,OPEN,2025-11-29T17:13:00Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87bKG2S,64223,Bad example for unvisited link,OPEN,2025-11-29T15:33:01Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87OgFM_,62408,workshop preview modal is empty until content get loaded,OPEN,2025-09-29T11:27:06Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87PIe5G,62452,create-new-project extra metadata property with lectures,OPEN,2025-10-01T21:04:02Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Z3gW0,64067,Curriculum Helper .functionRegex doesn't (seem to) support `const foo = function (bar) {}`,CLOSED,2025-11-22T23:28:01Z,2025-11-25T16:18:37Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87bJI1Y,64222,Text misaligned with example in introduction to Regular Expression.,OPEN,2025-11-29T10:32:07Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87bI4mP,64220,Debug a Random Background Color Changer is not commutative,OPEN,2025-11-29T09:01:11Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87bIrFi,64219,Mony,CLOSED,2025-11-29T07:52:43Z,2025-11-29T08:46:47Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87aswI4,64178,Review and Quiz - Searching and Sorting Algorithms: Binary Search,OPEN,2025-11-26T22:04:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPFE7,64123,Workshop – Escape Room Code Runner,OPEN,2025-11-25T03:45:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87bBKXh,64205,Learn How to Talk About Past Experiences - Task 102 - Correct answer with feedback,CLOSED,2025-11-28T11:03:48Z,2025-11-28T22:18:02Z,majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87bFRDx,64213,Lecture questions with correct answer having feedback,CLOSED,2025-11-28T18:01:06Z,2025-11-28T22:16:57Z,majestic-owl448,freeCodeCamp,freeCodeCamp
@@ -25,8 +35,6 @@ I_kwDOAbI7X87azADe,64191,test passes with empty editor,CLOSED,2025-11-27T10:32:5
 I_kwDOAbI7X87axGXj,64186,"[bug]: Unexpected date value: ""1427725979000""",CLOSED,2025-11-27T08:07:13Z,2025-11-27T13:16:27Z,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87arohm,64175,Balance sheet workshop uses 'magic' width settings with no explanation,OPEN,2025-11-26T19:56:12Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87QvWHf,62663,Coding challenge 60 (October 9): Vague description,CLOSED,2025-10-10T09:27:42Z,2025-11-27T08:31:51Z,VeerendraSD,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87aswI4,64178,Review and Quiz - Searching and Sorting Algorithms: Binary Search,OPEN,2025-11-26T22:04:36Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87atTbr,64179,"Certification Projects Don't Get Saved, What Does Get Saved Is Unclear",OPEN,2025-11-26T23:03:37Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87avHCS,64183,step 66 build a decimal to binary converter body not empty,CLOSED,2025-11-27T04:05:50Z,2025-11-27T08:22:42Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPEw0,64119,Lab – Nutrient Tracker Dictionary,OPEN,2025-11-25T03:44:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86x7y7f,59661,Build a Balance Sheet Step 53 - Remove `width` from checks,CLOSED,2025-04-10T10:42:27Z,2025-04-15T20:54:46Z,,freeCodeCamp,freeCodeCamp
@@ -60,7 +68,6 @@ I_kwDOAbI7X86DF_-p,54162,Project solutions are missing from certified user data,
 I_kwDOAbI7X866d2MW,60780,"""Build a Markdown to HTML converter"" -- unclear instruction",CLOSED,2025-06-08T14:11:18Z,2025-11-25T17:06:27Z,majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86skN31,59129,Markdown to HTML Converter - JavaScript,CLOSED,2025-03-04T19:05:22Z,2025-11-25T17:06:26Z,majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JgXCn,62033,FSD intro variant changes on refresh,CLOSED,2025-09-03T17:38:32Z,2025-11-25T16:25:47Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Z3gW0,64067,Curriculum Helper .functionRegex doesn't (seem to) support `const foo = function (bar) {}`,CLOSED,2025-11-22T23:28:01Z,2025-11-25T16:18:37Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aVNCL,64138,Dark mode readability issues in README.md (accessibility improvement),CLOSED,2025-11-25T13:03:41Z,2025-11-25T15:47:07Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ZXnVU,63995,[Challenge parser] Improve validation to catch missing `---` in MCQ challenges,OPEN,2025-11-20T11:31:03Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WLCQW,63583,Non-obvious use of em dash,CLOSED,2025-11-05T23:35:04Z,2025-11-25T14:08:40Z,garyeung,freeCodeCamp,freeCodeCamp
@@ -214,7 +221,6 @@ I_kwDOAbI7X87ZUMxO,63990,Update empty arrays lesson,OPEN,2025-11-20T07:52:24Z,,,
 I_kwDOAbI7X87YKVFe,63839,Loss of Screen Reader functionality,CLOSED,2025-11-14T17:48:53Z,2025-11-20T09:52:44Z,arorakanav,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ZEtlV,63973,Performance issue on mobile for https://www.freecodecamp.org/learn/ page,CLOSED,2025-11-19T09:38:34Z,2025-11-20T03:08:36Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ZXQ-D,63994,Add tests for per module progress in client,OPEN,2025-11-20T11:07:02Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87OgFM_,62408,workshop preview modal is empty until content get loaded,OPEN,2025-09-29T11:27:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ZC4Dl,63970,add `retryingTest` in helpers docs,OPEN,2025-11-19T07:22:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ZIGJz,63980,Book Inventory tests 48 and 49 are too strict,CLOSED,2025-11-19T13:37:04Z,2025-11-20T08:04:59Z,DeveloperViraj,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Y7ESg,63955,Missing MCQ option in Meeting New Teammates - Task 6,CLOSED,2025-11-18T17:59:48Z,2025-11-20T03:54:14Z,pdtrang,freeCodeCamp,freeCodeCamp
@@ -229,7 +235,6 @@ I_kwDOAbI7X87QAV9Y,62564,Incorrect formatting of allow attributes in iframe,CLOS
 I_kwDOAbI7X87Y6-9G,63953,error in What Are Some Examples of Common JavaScript Errors?,CLOSED,2025-11-18T17:54:24Z,2025-11-19T14:13:25Z,saimanoharigodavarty,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87YQ3Qf,63859,class selector is given properties before giving it to an html element,CLOSED,2025-11-15T07:57:37Z,2025-11-19T13:52:45Z,farchettiensis,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ZC1Or,63969,repeated word in lesson,CLOSED,2025-11-19T07:18:56Z,2025-11-19T11:27:37Z,Bhupi1306,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87PIe5G,62452,create-new-project extra metadata property with lectures,OPEN,2025-10-01T21:04:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87XzWH0,63797,misplaced sentence in BookStore Page workshop,CLOSED,2025-11-13T10:24:54Z,2025-11-19T07:44:16Z,ssam18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87YRCxP,63860,Update feedback for second and third questions in forms lesson,CLOSED,2025-11-15T08:42:14Z,2025-11-19T07:43:05Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WIhU7,63565,Add interactive examples to static properties and methods lesson,OPEN,2025-11-05T19:50:26Z,,,freeCodeCamp,freeCodeCamp
@@ -921,4 +926,3 @@ I_kwDOAbI7X87GaHAZ,61855,Missing visual reference in CSS/Design/User Interface D
 I_kwDOAbI7X87I0pO6,61993,"Remove ""exists"" from backticks in Working with Objects lecture",CLOSED,2025-08-30T15:46:50Z,2025-09-01T04:24:27Z,kashaf12,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87I5dvI,62001,Golf Score lab,CLOSED,2025-08-31T17:16:08Z,2025-08-31T22:42:03Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Hv6Ui,61940,Update Frontend Libraries Chapter review,CLOSED,2025-08-25T10:04:57Z,2025-08-31T09:33:15Z,niyati34,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Ipb5V,61981,Misspelled word in lecture,CLOSED,2025-08-29T10:12:46Z,2025-08-29T17:16:37Z,Sonudhukia143,freeCodeCamp,freeCodeCamp
