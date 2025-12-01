@@ -1,12 +1,18 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87bRyXd,64236,"Misalign of Ideas from (What Are the Accessibility Benefits for Good Link Text, and What Are Examples of Good Link Text?)",OPEN,2025-12-01T01:51:26Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86zrBgf,59929,Update Keyboard Shortcuts lesson to include multi line editing,OPEN,2025-04-23T15:24:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87bPGgP,64230,Fix incorrect instructions on how to generate random number,CLOSED,2025-11-30T18:16:54Z,2025-11-30T23:08:16Z,bdtripp,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87bQOMU,64234,`pnpm run create-new-project` cannot insert module at first position,OPEN,2025-11-30T21:46:54Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Xf9jy,63767,"""Something went wrong."" appears for signed out users if api server is down",OPEN,2025-11-12T08:21:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87atTbr,64179,"Certification Projects Don't Get Saved, What Does Get Saved Is Unclear",OPEN,2025-11-26T23:03:37Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87bKYrU,64224,Redundancies in a passage,OPEN,2025-11-29T17:13:00Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87bI4mP,64220,Debug a Random Background Color Changer is not commutative,OPEN,2025-11-29T09:01:11Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87bJI1Y,64222,Text misaligned with example in introduction to Regular Expression.,CLOSED,2025-11-29T10:32:07Z,2025-11-30T18:25:57Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87bKG2S,64223,Bad example for unvisited link,OPEN,2025-11-29T15:33:01Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87bKYrU,64224,Redundancies in a passage for HTML abbreviations lesson,OPEN,2025-11-29T17:13:00Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87bNhO2,64229,`--fcc-expected--` and `--fcc-actual--` handle falsy values incorrecly,OPEN,2025-11-30T13:18:03Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87OgFM_,62408,workshop preview modal is empty until content get loaded,OPEN,2025-09-29T11:27:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87PIe5G,62452,create-new-project extra metadata property with lectures,OPEN,2025-10-01T21:04:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Z3gW0,64067,Curriculum Helper .functionRegex doesn't (seem to) support `const foo = function (bar) {}`,CLOSED,2025-11-22T23:28:01Z,2025-11-25T16:18:37Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87bJI1Y,64222,Text misaligned with example in introduction to Regular Expression.,OPEN,2025-11-29T10:32:07Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87bI4mP,64220,Debug a Random Background Color Changer is not commutative,OPEN,2025-11-29T09:01:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87bIrFi,64219,Mony,CLOSED,2025-11-29T07:52:43Z,2025-11-29T08:46:47Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aswI4,64178,Review and Quiz - Searching and Sorting Algorithms: Binary Search,OPEN,2025-11-26T22:04:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPFE7,64123,Workshop – Escape Room Code Runner,OPEN,2025-11-25T03:45:22Z,,,freeCodeCamp,freeCodeCamp
@@ -143,7 +149,6 @@ I_kwDOAbI7X861DFku,60142,"Add Search Suggestions for Articles, Tutorials, and Bo
 I_kwDOAbI7X86HQbQu,54572,Change share on Twitter to share on X,OPEN,2024-04-29T14:40:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X854BpFk,52440,Accessibility concerns for new fill-in-the-blank questions in English for Developers,OPEN,2023-11-28T05:51:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85RXI65,47464,Add Per-Module Progress Reset,OPEN,2022-09-07T18:12:38Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zrBgf,59929,Update Keyboard Shortcuts lesson to include multi line editing,OPEN,2025-04-23T15:24:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86lM1S6,57972,Inconsistency in the `completedDate` value returned,CLOSED,2025-01-06T23:18:09Z,2025-11-21T20:36:54Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ZvFdt,64048,index.js is not clickable,CLOSED,2025-11-21T20:27:10Z,2025-11-21T20:27:27Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86zYlE_,59871,Step 42 Build a Balance Sheet Unclear instructions,CLOSED,2025-04-22T00:44:08Z,2025-11-21T20:25:59Z,,freeCodeCamp,freeCodeCamp
@@ -216,7 +221,6 @@ I_kwDOAbI7X87X6phO,63814,Workshop for refactoring?,OPEN,2025-11-13T19:14:45Z,,,f
 I_kwDOAbI7X87YpuW0,63922,Add block completion status for new certs,OPEN,2025-11-17T19:53:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87YtbsV,63935,Clarify ambiguous instructions in Tribute Page project,OPEN,2025-11-18T02:23:27Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87X0nII,63801,Broken old FSD links,CLOSED,2025-11-13T11:52:50Z,2025-11-20T15:59:29Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Xf9jy,63767,"""Something went wrong."" appears for signed out users if api server is down",OPEN,2025-11-12T08:21:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ZUMxO,63990,Update empty arrays lesson,OPEN,2025-11-20T07:52:24Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87YKVFe,63839,Loss of Screen Reader functionality,CLOSED,2025-11-14T17:48:53Z,2025-11-20T09:52:44Z,arorakanav,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ZEtlV,63973,Performance issue on mobile for https://www.freecodecamp.org/learn/ page,CLOSED,2025-11-19T09:38:34Z,2025-11-20T03:08:36Z,,freeCodeCamp,freeCodeCamp
@@ -924,5 +928,3 @@ I_kwDOAbI7X87JSBF8,62021,Availability table,CLOSED,2025-09-02T17:36:47Z,2025-09-
 I_kwDOAbI7X86dwajV,57113,Shortest-Path-Algorithm Challenge: Report with suggestions to improve the learning experience,CLOSED,2024-11-10T01:58:08Z,2025-09-02T13:40:41Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GaHAZ,61855,Missing visual reference in CSS/Design/User Interface Design Fundamentals/What Is the Importance of Whitespace in Design?,CLOSED,2025-08-17T22:54:31Z,2025-08-25T07:15:40Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87I0pO6,61993,"Remove ""exists"" from backticks in Working with Objects lecture",CLOSED,2025-08-30T15:46:50Z,2025-09-01T04:24:27Z,kashaf12,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87I5dvI,62001,Golf Score lab,CLOSED,2025-08-31T17:16:08Z,2025-08-31T22:42:03Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Hv6Ui,61940,Update Frontend Libraries Chapter review,CLOSED,2025-08-25T10:04:57Z,2025-08-31T09:33:15Z,niyati34,freeCodeCamp,freeCodeCamp
