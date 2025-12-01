@@ -1,4 +1,6 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+26e075253809b37df722c1ab4d57f5013d6478bf,fix(curriculum): corrected formula for generating a random number (#6…,2025-11-30T23:08:15Z,1,2,bdtripp,freeCodeCamp,freeCodeCamp
+dc134043304d84f3a1d403ff8f1ecfefd373a97b,"chore(i18n,learn): update i18n-curriculum submodule (#64232)",2025-11-30T23:03:19Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 5a703ef1e2dae65e5df4ec1061b80ae50ae6572a,fix(curriculum): corrected typo in Design Fundamentals Review (#64211),2025-11-28T22:59:10Z,1,6,bdtripp,freeCodeCamp,freeCodeCamp
 39f3a9bcfb1364194bdcc9c6d20201d6978a5c94,fix(curriculum): correct CSS Animations quiz answer 16 wording (#64215),2025-11-28T22:23:59Z,1,2,DeveloperViraj,freeCodeCamp,freeCodeCamp
 fa133418f62f228454b6339c133f1242394c0b19,fix(curriculum): adjust feedback pattern for english curriculum task …,2025-11-28T22:18:00Z,1,4,majestic-owl448,freeCodeCamp,freeCodeCamp
@@ -1005,8 +1007,3 @@ b64afd03e2753ae193e9ef3f5d3fc66c1dbc2ce1,fix(GHA): allow selective build and dep
 10c565828ef3b4008ccfd55fc87b36085cc3e838,fix(tools): curriculum command line helpers (#61831),2025-09-02T14:03:28Z,40,1783,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 c58ba56eebc2cf616fbca8577ceee35a0cbc1dfe,fix(Curriculum): removed unused imaged from scene-assets.js (#61975),2025-09-01T15:33:40Z,1,18,nieldakarla,freeCodeCamp,freeCodeCamp
 8ee9ea33ef00bb49ce8d905b2d50f088775cd749,fix(curriculum): correct object property syntax in working with objec…,2025-09-01T04:24:26Z,1,2,kashaf12,freeCodeCamp,freeCodeCamp
-92015b62c377dad0b3a0715fa3ee34fa899c7f8e,fix(curriculum): add Tailwind CSS section to FE Libs chapter review (…,2025-08-31T09:33:14Z,1,93,niyati34,freeCodeCamp,freeCodeCamp
-03b4fd46f10d1dad05a1576c0a01debed5a548b7,fix(client): align text in chapter button to the left when multi-line…,2025-08-30T17:32:51Z,1,9,Sembauke,freeCodeCamp,freeCodeCamp
-793f81be48deb3759f33fd77c9c222e2242e5f5c,fix(client): allow identical challenge ids multiple superblocks (#61982),2025-08-30T07:50:28Z,1,6,Sembauke,freeCodeCamp,freeCodeCamp
-a40fe34ae281ae32ec4722793ef6d7cdbba8f017,feat(tools): script to create daily challenge files (#61921),2025-08-30T07:43:09Z,3,231,moT01,freeCodeCamp,freeCodeCamp
-0a000f7423a71e944d3a109b55a2ff87501ec732,chore(pnpm): self-update (#61907),2025-08-30T07:29:28Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
