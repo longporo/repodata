@@ -1,4 +1,21 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+6a0fd9e65b6f17547ec06054ba069d3d48a0d542,fix(curriculum): replace 'boolean operations' with 'boolean operators…,2025-12-02T01:32:14Z,1,2,Rahul-2006,freeCodeCamp,freeCodeCamp
+770f926e0089a9c8b7ecae14cfa3754a1e955bd7,fix(curriculum): accept both multiplication orders in getRandomIndex …,2025-12-01T20:35:00Z,1,2,ssam18,freeCodeCamp,freeCodeCamp
+db4aa92b1fb546b0e3e0c59bbfda15e2fa7f27ab,chore(deps): remove jsdom from api workspace (#64204),2025-12-01T20:29:38Z,2,91,huyenltnguyen,freeCodeCamp,freeCodeCamp
+b55037c51104ecb7e23d8cf676a601e87ae563f0,feat(client): Added tests for per-module progress in client (#64226),2025-12-01T20:27:15Z,2,140,Almee98,freeCodeCamp,freeCodeCamp
+3ea53a0fb0735592ddb7bb14dc6cb20c1f6462a3,fix(curriculum): add hint for feature selection labels (#64156),2025-12-01T20:14:00Z,1,11,pulkitbajaj,freeCodeCamp,freeCodeCamp
+091adf387592548adbf8d8b406604dff13b67136,fix(curriculum): revise sentence in Searching and Sorting Algorithms …,2025-12-01T19:45:46Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
+b6c2373d20cf49d1386121de93934bda0e77808e,fix: improve explanation for descriptive link text accessibility (#64…,2025-12-01T19:43:32Z,1,2,pulkitbajaj,freeCodeCamp,freeCodeCamp
+d871372dff93db0856ca1b5e39ceed628e77e7fb,fix(curriculum): remove redundant form attribute denitions in html re…,2025-12-01T19:42:27Z,1,2,HridoyMA,freeCodeCamp,freeCodeCamp
+04f163f42a8b4c590e6fa873cf8de8505c5ff6e0,fix(curriculum): correct float output comments in python challenges (…,2025-12-01T19:41:33Z,3,8,HridoyMA,freeCodeCamp,freeCodeCamp
+fd2a32fe59c99d54a81f8b69670caa5c50daa7b6,fix(curriculum): reversed the order of the input and label elements (…,2025-12-01T19:10:05Z,1,8,bdtripp,freeCodeCamp,freeCodeCamp
+f4494c903818a7ce42b07694c6c8b2b53a30e662,fix(curriculum): specified what the descendant combinator is (#64260),2025-12-01T19:08:22Z,1,2,bdtripp,freeCodeCamp,freeCodeCamp
+5d6eacb6156eb1a8e3904d683fcf957b4e48719f,feat(client): add pinyin-to-hanzi input to fill in the blank challeng…,2025-12-01T18:35:06Z,8,848,huyenltnguyen,freeCodeCamp,freeCodeCamp
+e93134d9b6961fbea7c3df05988bc50b060f33fb,feat(curriculum): add test case for Daily Challenge - Email Validator…,2025-12-01T18:10:37Z,2,15,pdtrang,freeCodeCamp,freeCodeCamp
+745d4632530636531d8aa9793cfc55f44a391d14,"chore(i18n,learn): update i18n-curriculum submodule (#64249)",2025-12-01T16:32:11Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+73423641b560801a60f150bab0b4fd4ed9af0baa,"chore(i18n,client): processed translations (#64246)",2025-12-01T14:09:58Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+37ce13412303532812f089d2ae0f6b776da6c2fc,refactor: (slightly) decentralize type checking (#64163),2025-12-01T11:43:53Z,46,434,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+176bba6c151ba103c26c962b3f63521ab98960ef,fix(curriculum): Typo in Asynchronous Programming of extra prepositio…,2025-12-01T11:00:36Z,1,2,TheMatrix31415926,freeCodeCamp,freeCodeCamp
 26e075253809b37df722c1ab4d57f5013d6478bf,fix(curriculum): corrected formula for generating a random number (#6…,2025-11-30T23:08:15Z,1,2,bdtripp,freeCodeCamp,freeCodeCamp
 dc134043304d84f3a1d403ff8f1ecfefd373a97b,"chore(i18n,learn): update i18n-curriculum submodule (#64232)",2025-11-30T23:03:19Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 5a703ef1e2dae65e5df4ec1061b80ae50ae6572a,fix(curriculum): corrected typo in Design Fundamentals Review (#64211),2025-11-28T22:59:10Z,1,6,bdtripp,freeCodeCamp,freeCodeCamp
@@ -1005,5 +1022,3 @@ b64afd03e2753ae193e9ef3f5d3fc66c1dbc2ce1,fix(GHA): allow selective build and dep
 24856ae86833118a9847810472dd3e7bd99bf467,chore(curriculum): release four python modules (#62017),2025-09-02T17:05:24Z,21,50,Dario-DC,freeCodeCamp,freeCodeCamp
 8cd2efe570a31ef9b9f3e0e779bd066656852003,feat: base64 encode file contents when making api requests (#62006),2025-09-02T14:20:48Z,7,819,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 10c565828ef3b4008ccfd55fc87b36085cc3e838,fix(tools): curriculum command line helpers (#61831),2025-09-02T14:03:28Z,40,1783,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-c58ba56eebc2cf616fbca8577ceee35a0cbc1dfe,fix(Curriculum): removed unused imaged from scene-assets.js (#61975),2025-09-01T15:33:40Z,1,18,nieldakarla,freeCodeCamp,freeCodeCamp
-8ee9ea33ef00bb49ce8d905b2d50f088775cd749,fix(curriculum): correct object property syntax in working with objec…,2025-09-01T04:24:26Z,1,2,kashaf12,freeCodeCamp,freeCodeCamp
