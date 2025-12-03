@@ -1,4 +1,13 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+ebf5a8463e09e476a7d487f2b5561c48ca0c8f3e,refactor(client): clean up global.css (#64052),2025-12-02T18:58:28Z,1,54,pdtrang,freeCodeCamp,freeCodeCamp
+8675090e349c9ad18ba4f46b003005afa9db2fe4,fix(curriculum): revise feedback - Learn How to Describe Places and E…,2025-12-02T17:05:23Z,1,4,pdtrang,freeCodeCamp,freeCodeCamp
+94f2c710f239482f9a920a86777867aa20b2a0c3,feat(curriculum): update Keyboard Shortcuts lesson to include multi-l…,2025-12-02T17:01:50Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
+96ca614099b7c97b2c0f670cd0fb742bd6c9b224,fix(curriculum): minor typo in working with loops and sequence lesson…,2025-12-02T16:08:44Z,1,2,JayeshPatil163,freeCodeCamp,freeCodeCamp
+5699caea98626f5bed3ddb21b08dcd4451dd2e93,fix(curriculum): move computer basics module to html (#64147),2025-12-02T15:52:30Z,2,10,a2937,freeCodeCamp,freeCodeCamp
+8ef4620e0b718cb3f9d6cf17787deacbdd8b94f1,chore: move challenge-auditor out of root (#64280),2025-12-02T15:06:49Z,4,46,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+9c40394914a78c2ccf295f9289b5b0d6f93b53cd,fix: format + lint commands (#64256),2025-12-02T12:17:23Z,6,33,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+61f3363f23950120a6339b842d73b333e05689b6,fix(curriculum): fix typo of review-python-basics (#64269),2025-12-02T12:16:33Z,2,4,garyeung,freeCodeCamp,freeCodeCamp
+8888231f71fd6badbfffc937df71e03b0b6df113,fix(client): clarify “my location” wording (#64266),2025-12-02T11:03:31Z,1,2,DeveloperViraj,freeCodeCamp,freeCodeCamp
 6a0fd9e65b6f17547ec06054ba069d3d48a0d542,fix(curriculum): replace 'boolean operations' with 'boolean operators…,2025-12-02T01:32:14Z,1,2,Rahul-2006,freeCodeCamp,freeCodeCamp
 770f926e0089a9c8b7ecae14cfa3754a1e955bd7,fix(curriculum): accept both multiplication orders in getRandomIndex …,2025-12-01T20:35:00Z,1,2,ssam18,freeCodeCamp,freeCodeCamp
 db4aa92b1fb546b0e3e0c59bbfda15e2fa7f27ab,chore(deps): remove jsdom from api workspace (#64204),2025-12-01T20:29:38Z,2,91,huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -1018,7 +1027,3 @@ b6071ae692f9991a746ccaa322d7e70c603a9d4d,fix: validate tests exist if filtering 
 041074b7bc54ebdb0b3bbb9e64a06cadf0639561,feat(curriculum): add Full Stack Open Skeleton (#61974),2025-09-03T13:43:45Z,9,316,Sembauke,freeCodeCamp,freeCodeCamp
 3aced6dc6af7c66cda11ef6a32ebc26cc5a1b0d2,chore: update deps (#62025),2025-09-03T13:19:36Z,1,5,raisedadead,freeCodeCamp,freeCodeCamp
 b64afd03e2753ae193e9ef3f5d3fc66c1dbc2ce1,fix(GHA): allow selective build and deploy (#62020),2025-09-03T06:40:48Z,1,105,raisedadead,freeCodeCamp,freeCodeCamp
-692fcec5147c8f325ed0b403ffc6c22e3232e92e,chore(curriculum): remove concatenation asserts in Trivia Bot lab (#6…,2025-09-02T23:36:33Z,1,22,Supravisor,freeCodeCamp,freeCodeCamp
-24856ae86833118a9847810472dd3e7bd99bf467,chore(curriculum): release four python modules (#62017),2025-09-02T17:05:24Z,21,50,Dario-DC,freeCodeCamp,freeCodeCamp
-8cd2efe570a31ef9b9f3e0e779bd066656852003,feat: base64 encode file contents when making api requests (#62006),2025-09-02T14:20:48Z,7,819,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-10c565828ef3b4008ccfd55fc87b36085cc3e838,fix(tools): curriculum command line helpers (#61831),2025-09-02T14:03:28Z,40,1783,ojeytonwilliams,freeCodeCamp,freeCodeCamp
