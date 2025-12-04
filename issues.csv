@@ -1,15 +1,24 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87cEhv6,64308,Increase A1 Spanish and A1 Chinese chapter icons size,OPEN,2025-12-03T22:43:38Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87b391-,64292,Minor typo in Dictionary and set review lesson,OPEN,2025-12-03T07:28:02Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87b8NYk,64296,Small typo in <B1 English for Developers Certification>,CLOSED,2025-12-03T12:16:03Z,2025-12-03T22:06:59Z,Surajnairx,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87cBjD2,64302,B1 English incorrect tense in How to Express Agreement,CLOSED,2025-12-03T18:23:54Z,2025-12-03T22:05:06Z,Sid,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87bzKb9,64284,Move string inverter lab,CLOSED,2025-12-02T21:33:45Z,2025-12-03T21:58:18Z,bdtripp,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87XfyqO,63766,Middle div in action row conflicts with button,CLOSED,2025-11-12T08:05:53Z,2025-12-03T21:46:07Z,garyeung,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ZXnVU,63995,[Challenge parser] Improve validation to catch missing `---` in MCQ challenges,CLOSED,2025-11-20T11:31:03Z,2025-12-03T17:03:27Z,gikf,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87bFj9i,64218,CSSHelp issue with `getStyleAny`,OPEN,2025-11-28T18:46:56Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87bzxOp,64287,Remove `dataPlaywrightTestLabel` from SectionHeader,CLOSED,2025-12-02T22:42:30Z,2025-12-03T09:56:15Z,garyeung,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87P-HxN,62559,Reorganize Settings page with sidebar navigation,CLOSED,2025-10-06T21:24:58Z,2025-12-03T09:28:22Z,Sembauke;ahmaxed;huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87bCNNy,64207,Request Support for 32-bit Systems for Exam Environment,CLOSED,2025-11-28T12:37:31Z,2025-12-02T15:02:58Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UZp4I,63210,Dependency Dashboard,OPEN,2025-10-28T21:48:33Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87b1MLf,64290,Potentially missing explanation of nested object destructuring,OPEN,2025-12-03T01:55:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Ze3CH,64003,Add more detailed explanation for keys in rending lists lesson,OPEN,2025-11-20T19:26:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87bzxOp,64287,Remove `dataPlaywrightTestLabel` from SectionHeader,OPEN,2025-12-02T22:42:30Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87bzKb9,64284,Move string inverter lab,OPEN,2025-12-02T21:33:45Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPDkQ,64109,Workshop – Space Mission Roster,OPEN,2025-11-25T03:40:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPEGx,64112,Lab – Story Fragment Shuffler,OPEN,2025-11-25T03:42:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87bl-e9,64265,MathJax not rendering in Python v9 lab,OPEN,2025-12-02T05:51:54Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87UZp4I,63210,Dependency Dashboard,OPEN,2025-10-28T21:48:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86vYBmW,59397,Clean up global.css,CLOSED,2025-03-24T07:40:43Z,2025-12-02T18:58:29Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87a7Vr7,64200,Learn How to Describe Places and Events - Task 124 - Elaborate feedback,CLOSED,2025-11-27T20:58:47Z,2025-12-02T17:05:25Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86zrBgf,59929,Update Keyboard Shortcuts lesson to include multi line editing,CLOSED,2025-04-23T15:24:49Z,2025-12-02T17:01:51Z,huyenltnguyen;pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87bCNNy,64207,Request Support for 32-bit Systems for Exam Environment,CLOSED,2025-11-28T12:37:31Z,2025-12-02T15:02:58Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87bm1sO,64268,Minor typo in working with loops and sequence lesson,CLOSED,2025-12-02T07:01:20Z,2025-12-02T16:08:46Z,JayeshPatil163,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aMWJq,64108,"""Computer Basics"" block placement",CLOSED,2025-11-24T22:00:07Z,2025-12-02T15:52:31Z,a2937,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPE14,64121,Workshop – Artifact Provenance Auditor,OPEN,2025-11-25T03:44:42Z,,,freeCodeCamp,freeCodeCamp
@@ -39,7 +48,6 @@ I_kwDOAbI7X87SKf7B,62874,Daily Challenge: Email Validator,CLOSED,2025-10-17T12:2
 I_kwDOAbI7X87MRarR,62246,Horizontal bar looks like a footer on smaller devices,CLOSED,2025-09-17T17:06:58Z,2025-12-01T17:57:06Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87C_xnY,61553,scroll bar appearing on page,CLOSED,2025-07-28T23:06:39Z,2025-12-01T17:56:31Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPElK,64117,Workshop – Smart Campus Directory,OPEN,2025-11-25T03:43:53Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87P-HxN,62559,Reorganize Settings page with sidebar navigation,OPEN,2025-10-06T21:24:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87apEZR,64164,Feature Request: Provided feedback on areas to review on exam page,OPEN,2025-11-26T16:22:26Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87bNhO2,64229,`--fcc-expected--` and `--fcc-actual--` handle falsy values incorrecly,OPEN,2025-11-30T13:18:03Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87bTYIk,64237,Display moderation waiting period on exam pages,CLOSED,2025-12-01T05:22:12Z,2025-12-01T14:46:04Z,,freeCodeCamp,freeCodeCamp
@@ -54,7 +62,6 @@ I_kwDOAbI7X87bIrFi,64219,Mony,CLOSED,2025-11-29T07:52:43Z,2025-11-29T08:46:47Z,,
 I_kwDOAbI7X87aPFE7,64123,Workshop – Escape Room Code Runner,OPEN,2025-11-25T03:45:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87bBKXh,64205,Learn How to Talk About Past Experiences - Task 102 - Correct answer with feedback,CLOSED,2025-11-28T11:03:48Z,2025-11-28T22:18:02Z,majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87bFRDx,64213,Lecture questions with correct answer having feedback,CLOSED,2025-11-28T18:01:06Z,2025-11-28T22:16:57Z,majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87bFj9i,64218,CSSHelp issue with `getStyleAny`,OPEN,2025-11-28T18:46:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87auEQ2,64180,Enhancement: Add keyboard shortcuts guide to the learning platform,OPEN,2025-11-27T01:11:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87a5bLM,64198,additional test in create an rpg character?,OPEN,2025-11-27T17:18:11Z,,,freeCodeCamp,freeCodeCamp
 MDU6SXNzdWUyNjkzNTE4ODY=,16050,Alt attribute in img not recognized,CLOSED,2017-10-28T21:35:42Z,2017-12-21T16:35:03Z,angelfeliz,freeCodeCamp,freeCodeCamp
@@ -64,7 +71,6 @@ I_kwDOAbI7X87W21t5,63678,transition property not compatible with tests,OPEN,2025
 I_kwDOAbI7X87a6Dbf,64199,Insufficient color contrast for the Certification Project label in light theme,CLOSED,2025-11-27T18:19:26Z,2025-11-28T11:46:54Z,pulkitbajaj,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aAqlw,64090,is this missing backtick something that needs fixing?,CLOSED,2025-11-24T08:10:03Z,2025-11-27T22:54:56Z,Navadeep0007;gowtham1412-p,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WQ2H2,63590,Misaligned hero section text on mobile,OPEN,2025-11-06T08:42:59Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87XfyqO,63766,Middle div in action row conflicts with button,OPEN,2025-11-12T08:05:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Jx6Tt,62049,group of checkboxes in hotel form feedback workshop,OPEN,2025-09-04T20:12:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87a5ZIj,64195,Improve email sending instructions in workshop email simulator,OPEN,2025-11-27T17:15:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87azADe,64191,test passes with empty editor,CLOSED,2025-11-27T10:32:58Z,2025-11-27T13:30:18Z,Vincent-Stone,freeCodeCamp,freeCodeCamp
@@ -102,7 +108,6 @@ I_kwDOAbI7X866d2MW,60780,"""Build a Markdown to HTML converter"" -- unclear inst
 I_kwDOAbI7X86skN31,59129,Markdown to HTML Converter - JavaScript,CLOSED,2025-03-04T19:05:22Z,2025-11-25T17:06:26Z,majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JgXCn,62033,FSD intro variant changes on refresh,CLOSED,2025-09-03T17:38:32Z,2025-11-25T16:25:47Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aVNCL,64138,Dark mode readability issues in README.md (accessibility improvement),CLOSED,2025-11-25T13:03:41Z,2025-11-25T15:47:07Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ZXnVU,63995,[Challenge parser] Improve validation to catch missing `---` in MCQ challenges,OPEN,2025-11-20T11:31:03Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WLCQW,63583,Non-obvious use of em dash,CLOSED,2025-11-05T23:35:04Z,2025-11-25T14:08:40Z,garyeung,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPFOX,64125,Lab – Signal Pattern Detector,OPEN,2025-11-25T03:45:49Z,,,freeCodeCamp,freeCodeCamp
 MDU6SXNzdWU2MTEyNTc3MDA=,38711,Create a new Camperbot for the official discord server,CLOSED,2020-05-02T19:27:00Z,2021-07-27T14:20:57Z,,freeCodeCamp,freeCodeCamp
@@ -936,6 +941,3 @@ I_kwDOAbI7X87HBlaE,61897,/settings should redirect to auth if not signed in,OPEN
 I_kwDOAbI7X87GY4xv,61852,Missinformation in Python course,OPEN,2025-08-17T15:15:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JhPPI,62035,New curriculum structure breaks challenge editor,CLOSED,2025-09-03T19:01:20Z,2025-09-04T12:04:55Z,a2937,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JnFUs,62041,Hi,CLOSED,2025-09-04T07:11:35Z,2025-09-04T07:39:11Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X866aSMv,60776,Sprite / loading screen for dark mode?,CLOSED,2025-06-07T20:10:23Z,2025-09-03T16:34:46Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87JdYiD,62028,[Draft] New Issue - Additional Information Needed,CLOSED,2025-09-03T13:41:31Z,2025-09-03T13:51:54Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87IWBw0,61969,i18n: complete migration to i18next v25.4.2,OPEN,2025-08-27T23:54:01Z,,,freeCodeCamp,freeCodeCamp
