@@ -1,4 +1,19 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+b9906c3d76fb859003dac116a8297c0cbe48110f,fix(curriculum): fixed typo and added a comma in what-are-pseudo-elem…,2025-12-04T00:18:30Z,1,2,bdtripp,freeCodeCamp,freeCodeCamp
+9e03624bb06c221ca034675e0031e3c5b96f92b7,feat(client): add chapter icons for A1 Chinese and A1 Spanish chapter…,2025-12-03T22:32:04Z,2,45,Sembauke,freeCodeCamp,freeCodeCamp
+4ce039ce75130d1249d002143716a6c6336a3c37,fix(curriculum): capitalize 'You'll' in Touch Base explaination (#64306),2025-12-03T22:06:58Z,1,2,Surajnairx,freeCodeCamp,freeCodeCamp
+1bf90a0e860ba1c5f84b8f968a78af13ebae4705,fix(curriculum): change 'is agreeing' to 'agree' in Task 75 (#64304),2025-12-03T22:05:04Z,1,2,starboylive,freeCodeCamp,freeCodeCamp
+bc52de2fae4d10751f4d56c029b3fd38c2577a83,fix(curriculum): moved string inverter lab (#64288),2025-12-03T21:58:17Z,1,2,bdtripp,freeCodeCamp,freeCodeCamp
+e73e9e24165492a1c04a9af25354aac7e2f491e4,fix(client): rm unnecessary styling to resolve the conflict in action…,2025-12-03T21:46:05Z,2,42,garyeung,freeCodeCamp,freeCodeCamp
+cd076359977cd643a2b4917d30b053fbb0eb8351,fix(curriculum): change spelling from travelling to to traveling (#64…,2025-12-03T21:36:49Z,2,12,Giftea,freeCodeCamp,freeCodeCamp
+5e5048c75cff8a3f2fbe2cf6d55649d84803410a,"chore(i18n,learn): update i18n-curriculum submodule (#64305)",2025-12-03T20:00:56Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+3f7db2d26cff8d8e414bd2a1f31acfde4a179749,fix(curriculum): add missing feedback to Submit Events lecture MCQ (#…,2025-12-03T19:15:40Z,1,8,huyenltnguyen,freeCodeCamp,freeCodeCamp
+6aa1b0a113369951d20919403fb08db4bfddf33d,"chore(i18n,client): processed translations (#64297)",2025-12-03T17:09:05Z,20,154,camperbot,freeCodeCamp,freeCodeCamp
+9d8ed5e348da86cfd75415fbaf81fa52b08c87cb,fix(tools): improve video questions validation (#64176),2025-12-03T17:03:25Z,7,207,gikf,freeCodeCamp,freeCodeCamp
+4e765d07318fca45b66d72d5348f01d3b38a55e3,fix(curriculum): remove redundant 'each' in Lab - Feature selection (…,2025-12-03T15:36:48Z,1,2,Faust-Levity,freeCodeCamp,freeCodeCamp
+b8e32be3e488a6ebc875e12565df216e6413d61f,feat(curriculum): daily challenges 120-143 (#64173),2025-12-03T14:49:27Z,55,4319,moT01,freeCodeCamp,freeCodeCamp
+a6e5748b258c24ec8a0ee39f83c30b666e14ec1e,refactor(client): remove dataPlaywrightTestLabel prop from SectionHea…,2025-12-03T09:56:14Z,1,13,garyeung,freeCodeCamp,freeCodeCamp
+e056608d82a0e3f2a9606e736112d104837147c1,feat(client): add settings side nav (#63034),2025-12-03T09:28:20Z,12,681,Sembauke,freeCodeCamp,freeCodeCamp
 ebf5a8463e09e476a7d487f2b5561c48ca0c8f3e,refactor(client): clean up global.css (#64052),2025-12-02T18:58:28Z,1,54,pdtrang,freeCodeCamp,freeCodeCamp
 8675090e349c9ad18ba4f46b003005afa9db2fe4,fix(curriculum): revise feedback - Learn How to Describe Places and E…,2025-12-02T17:05:23Z,1,4,pdtrang,freeCodeCamp,freeCodeCamp
 94f2c710f239482f9a920a86777867aa20b2a0c3,feat(curriculum): update Keyboard Shortcuts lesson to include multi-l…,2025-12-02T17:01:50Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
@@ -1021,9 +1036,3 @@ cdffc8d8de6f89531a3692d379ffadaf38b75e3a,chore(curriculum): replace magazine lay
 b47bc04c97ed996812e0c5c5cd1f1f7bc9107ca0,test: only intercept the page-data for tested page (#62042),2025-09-04T12:03:31Z,1,8,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 ebd17c473bf38317945416fab7e046702155ec1d,fix(api): throw during exam generation if empty config (#62044),2025-09-04T10:49:07Z,1,4,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 00cc06f49c695295cbf29614840214f2e58ef1ea,"fix(curriculum): fix typo in Local Storage review (poses, not posses)…",2025-09-04T08:19:26Z,1,2,jihanurrahman33,freeCodeCamp,freeCodeCamp
-cf118c232506c8f1623ac1ac8f1ce3f3954eada9,feat: daily challenges 30-54 (#61991),2025-09-03T16:35:48Z,54,4328,moT01,freeCodeCamp,freeCodeCamp
-b6071ae692f9991a746ccaa322d7e70c603a9d4d,fix: validate tests exist if filtering for challenges (#62027),2025-09-03T15:23:51Z,1,12,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-63c19acfc3989fcab6eabe95f2e4c952c1587be6,test(e2e): mock quiz data in quiz-challenge.spec.ts (#62011),2025-09-03T13:45:19Z,2,91,huyenltnguyen,freeCodeCamp,freeCodeCamp
-041074b7bc54ebdb0b3bbb9e64a06cadf0639561,feat(curriculum): add Full Stack Open Skeleton (#61974),2025-09-03T13:43:45Z,9,316,Sembauke,freeCodeCamp,freeCodeCamp
-3aced6dc6af7c66cda11ef6a32ebc26cc5a1b0d2,chore: update deps (#62025),2025-09-03T13:19:36Z,1,5,raisedadead,freeCodeCamp,freeCodeCamp
-b64afd03e2753ae193e9ef3f5d3fc66c1dbc2ce1,fix(GHA): allow selective build and deploy (#62020),2025-09-03T06:40:48Z,1,105,raisedadead,freeCodeCamp,freeCodeCamp
