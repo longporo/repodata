@@ -1,4 +1,14 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+a28ff5d2cd0bc85d9b7f22eb452a33007845ce51,fix(client): correct placement of Interactive Editor button (#64350),2025-12-05T21:46:42Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
+b664cdb4c22d41759a02517565bd26a600f376b4,"chore(i18n,learn): update i18n-curriculum submodule (#64346)",2025-12-05T20:54:41Z,2,31,camperbot,freeCodeCamp,freeCodeCamp
+0a8f7a6ea16a7e305860a35570f94ff88260631b,feat(curriculum): update A1 professional Spanish description (#64344),2025-12-05T20:34:12Z,1,10,estefaniacn,freeCodeCamp,freeCodeCamp
+6949c963cc365bbef8a68f47b6e637bfb37a7d77,fix(curriculum): update email simulator tests (#63803),2025-12-05T19:36:11Z,1,31,Dario-DC,freeCodeCamp,freeCodeCamp
+29420e82148dfe1f1e99e0167beeac733c07a0a0,chore: remove validate-keys script (#64341),2025-12-05T19:26:05Z,2,106,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+bcacf747edd4035d7e8dc2ebec3b3e807c7c8b07,fix(client): hide console on JS-only interactive examples (#64210),2025-12-05T18:57:38Z,2,72,bengguankoay,freeCodeCamp,freeCodeCamp
+89a8bd2a8bd5bbc6f73ca2b787394172e0d1a990,fix(curriculum): typo in DC 142 seed code (#64331),2025-12-05T17:20:47Z,1,2,moT01,freeCodeCamp,freeCodeCamp
+dd2a6ed7fa8f2febe8ba3fb3d9b83215c7270604,"fix(Curriculum): Remove ""write the letter"" from sentence in A1 Spanis…",2025-12-05T15:16:04Z,23,46,nieldakarla,freeCodeCamp,freeCodeCamp
+10437c3d7d6d423677e55869ce3830519d1978b9,fix(curriculum): added indentation on editable region (#64334),2025-12-05T10:55:33Z,1,2,alifarooqi,freeCodeCamp,freeCodeCamp
+c0e1e13cc139d6375d39983548ad275226cacd3b,refactor: clean up usage of certTypes (#64322),2025-12-05T07:50:07Z,5,209,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 d9c81c35726643f643493850e89326a178077693,fix(curriculum): typo in Python Abstraction lesson (#64332),2025-12-05T00:15:50Z,1,2,XWWorks,freeCodeCamp,freeCodeCamp
 3a9c45f324f711eb7efc9730c0b028af1b9aad2b,fix(curriculum): remove extra spaces lab-game-character-stats (#64329),2025-12-04T20:03:15Z,1,8,pdtrang,freeCodeCamp,freeCodeCamp
 82a9b08c98d9692aae03cf48335a215048247d1d,fix(curriculum): remove redundancies in a passage for HTML abbreviati…,2025-12-04T18:33:47Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
@@ -1032,16 +1042,3 @@ fb854f255280463001839b74bf6415e59684978f,fix(curriculum): typo in Stand Up Meeti
 0f3c6a6b6d5cde3899c448a62007795552670e0f,fix(english for developers): remove backticks in challenges from Pyth…,2025-09-07T07:37:34Z,2,8,tejb96,freeCodeCamp,freeCodeCamp
 c027a8db1b81e3c563e37a3b7e15049ecd67c2d4,fix(curriculum): fixed typo in py and js challenge 38 (#62062),2025-09-06T09:46:49Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
 87cde2d1e8f105fb759ba6dd9dd42d20272b86aa,"refactor(tools, curriculum): use challenge type 31 for review pages (…",2025-09-06T05:07:48Z,76,164,huyenltnguyen,freeCodeCamp,freeCodeCamp
-e4144d145a5e4c5509d1b1866085fd4d5a615124,feat(curriculum): add lab for building a symmetric difference functio…,2025-09-05T19:04:05Z,5,118,Sembauke,freeCodeCamp,freeCodeCamp
-c2ff82ed9a42ed907fe02120bce166f422b34556,feat: add falsy bouncer to full stack (#61688),2025-09-05T18:56:01Z,5,112,majestic-owl448,freeCodeCamp,freeCodeCamp
-e17584f89e7f678780530360ebd279eb35b067a5,feat: add a1 spanish superblock outline (#62059),2025-09-05T18:51:45Z,16,82,moT01,freeCodeCamp,freeCodeCamp
-9f9b4cbfb8300fefecfeb2a448346e1c901f0214,"chore(curriculum): replace quotes with backticks, add backticks to wo…",2025-09-05T18:13:26Z,1,6,Supravisor,freeCodeCamp,freeCodeCamp
-2ca7798d3b84c6b53c1c9e1941a48f36d4234a82,"chore(i18n,client): processed translations (#61958)",2025-09-05T17:47:59Z,11,2116,camperbot,freeCodeCamp,freeCodeCamp
-3b6ce9c545cd60aaecb37186687bb6c694f8c315,fix(curriculum): improve test for profile card step 4 (#61992),2025-09-05T17:36:13Z,1,15,errantpianist,freeCodeCamp,freeCodeCamp
-34014f109992324bb3de46c1f2bd2b006b7ef484,"fix(curriculum): grammar errors in ""Build a Financial Calculator"" cha…",2025-09-05T17:24:24Z,1,2,dev-kas,freeCodeCamp,freeCodeCamp
-e257c2969e88b4c9c036be593bf1dead288e96c3,fix: rebuild challenge pages if source is updated (#62056),2025-09-05T13:22:38Z,5,120,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-49c64a14b39b702f9ff5394b0f1bb0b99836c0c8,fix(curriculum): fix typos in 'Working with Loops' lecture (#62054),2025-09-05T12:48:52Z,2,4,cp50,freeCodeCamp,freeCodeCamp
-902ba8bc8e136873de8e7cff78ade24207d01d81,fix(curriculum): follow W3C convention for radio and checkbox inputs …,2025-09-05T09:25:23Z,18,475,StuartMosquera,freeCodeCamp,freeCodeCamp
-15f9c18c279ee21f9dd9a9a2dd1cba675bc15310,chore: add redirect for magazine layout lab (#61870),2025-09-05T06:58:05Z,1,4,Dario-DC,freeCodeCamp,freeCodeCamp
-cdffc8d8de6f89531a3692d379ffadaf38b75e3a,chore(curriculum): replace magazine layout lab with newspaper layout …,2025-09-05T06:57:32Z,7,720,Dario-DC,freeCodeCamp,freeCodeCamp
-437f98ad3ee49b8b44739092a365201eac3305d4,fix: hide Build an Optional Arguments Sum Function (#62047),2025-09-05T06:08:13Z,1,2,majestic-owl448,freeCodeCamp,freeCodeCamp
