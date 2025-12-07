@@ -1,12 +1,14 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87PIe5G,62452,create-new-project extra metadata property with lectures,OPEN,2025-10-01T21:04:02Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87b1MLf,64290,Potentially missing explanation of nested object destructuring,OPEN,2025-12-03T01:55:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87cpPLA,64355,13731191173,CLOSED,2025-12-06T14:20:16Z,2025-12-06T15:14:40Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87aPDkQ,64109,Workshop – Space Mission Roster,OPEN,2025-11-25T03:40:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86rE54P,58939,freeCodeCamp logo lacks navigation to /learn homepage on login / sign up page,CLOSED,2025-02-21T23:02:30Z,2025-12-05T23:46:13Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87YYTMF,63874,more clear error message (challenge parser utils),OPEN,2025-11-14T06:59:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87cisLF,64349,Correct placement of Interactive Editor button,CLOSED,2025-12-05T19:14:55Z,2025-12-05T21:46:43Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aBeiR,64092,Calculate streaks correctly,OPEN,2025-11-24T09:00:57Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87PIe5G,62452,create-new-project extra metadata property with lectures,OPEN,2025-10-01T21:04:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87a5ZIj,64195,Improve email sending instructions in workshop email simulator,OPEN,2025-11-27T17:15:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Retaw,62796,Consider having console closed by default for interactive editor in JS only examples,CLOSED,2025-10-14T15:41:45Z,2025-12-05T18:57:40Z,bengguankoay,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87b1MLf,64290,Potentially missing explanation of nested object destructuring,OPEN,2025-12-03T01:55:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ceEFm,64342,missing node.js requirement in article,CLOSED,2025-12-05T12:47:33Z,2025-12-05T14:30:45Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87bCNNy,64207,Request Support for 32-bit Systems for Exam Environment,CLOSED,2025-11-28T12:37:31Z,2025-12-02T15:02:58Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87cW3pY,64333,Correct indentation of editable region in Recipe Tracker - Step 3,CLOSED,2025-12-04T23:43:40Z,2025-12-05T10:55:35Z,Ali Farooqi,freeCodeCamp,freeCodeCamp
@@ -33,7 +35,6 @@ I_kwDOAbI7X87bFj9i,64218,CSSHelp issue with `getStyleAny`,OPEN,2025-11-28T18:46:
 I_kwDOAbI7X87bzxOp,64287,Remove `dataPlaywrightTestLabel` from SectionHeader,CLOSED,2025-12-02T22:42:30Z,2025-12-03T09:56:15Z,garyeung,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87P-HxN,62559,Reorganize Settings page with sidebar navigation,CLOSED,2025-10-06T21:24:58Z,2025-12-03T09:28:22Z,Sembauke;ahmaxed;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Ze3CH,64003,Add more detailed explanation for keys in rending lists lesson,OPEN,2025-11-20T19:26:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87aPDkQ,64109,Workshop – Space Mission Roster,OPEN,2025-11-25T03:40:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPEGx,64112,Lab – Story Fragment Shuffler,OPEN,2025-11-25T03:42:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87bl-e9,64265,MathJax not rendering in Python v9 lab,OPEN,2025-12-02T05:51:54Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86vYBmW,59397,Clean up global.css,CLOSED,2025-03-24T07:40:43Z,2025-12-02T18:58:29Z,pdtrang,freeCodeCamp,freeCodeCamp
@@ -943,5 +944,3 @@ I_kwDOAbI7X87KlwBP,62107,forum API does not have correct structure,CLOSED,2025-0
 I_kwDOAbI7X87KGN3I,62065,Change to user story on counting card assistant,CLOSED,2025-09-06T18:01:23Z,2025-09-08T11:56:13Z,snehabichkunde,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87GRAPh,61838,Missing image in React lecture,CLOSED,2025-08-15T20:55:52Z,2025-09-08T11:31:18Z,errantpianist,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Hqyt3,61931,Remove backticks from Python,CLOSED,2025-08-24T20:35:11Z,2025-09-07T07:37:35Z,tejb96,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z5tF4,59969,Build an availability table issue,OPEN,2025-04-24T19:23:50Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87IZLyn,61971,[bug] cors + 403 when submitting challenges,CLOSED,2025-08-28T06:46:45Z,2025-09-02T14:20:49Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
