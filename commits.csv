@@ -1,4 +1,15 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+786f840f2b7c0c57946fb7c3902259a325ca24bb,fix(curriculum): typo in react basics review (#64386),2025-12-08T21:39:02Z,2,4,bdtripp,freeCodeCamp,freeCodeCamp
+75098c356ab0cb5401c9ffeb9a8fb31575a30f39,fix(curriculum): move checkbox input before label text (#64376),2025-12-08T18:46:31Z,1,2,DeveloperViraj,freeCodeCamp,freeCodeCamp
+815b9bbe06412f375290051841df1cd1c01c95f0,fix(curriculum): update text in lecture-working-with-loops-and-sequen…,2025-12-08T18:40:55Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
+ff83419f2f68af6e5205f89abe4b1fad78228db2,fix(curriculum): update examples in lecture-working-with-loops-and-se…,2025-12-08T17:32:21Z,1,14,pdtrang,freeCodeCamp,freeCodeCamp
+2fee689ea5706c23429e3f3bd7d3fc959dc8bb4b,"chore(i18n,client): processed translations (#64371)",2025-12-08T16:13:24Z,20,2412,camperbot,freeCodeCamp,freeCodeCamp
+7e067ff9207ee966683aa1e966f00ef754219af0,fix(curriculum): typo in Game Settings Panel workshop (#64356),2025-12-08T11:06:02Z,1,2,bdtripp,freeCodeCamp,freeCodeCamp
+95ad3c910b87c54db3c26563a8c79d50263e7480,fix: typo in What Are Common Issues When Styling Special Input Elemen…,2025-12-08T10:55:11Z,1,2,bdtripp,freeCodeCamp,freeCodeCamp
+6a54b7c43f974a968fd10556ced86aecfb95ddba,fix(client): change twitter to X and update twitter URL's (#64046),2025-12-08T10:49:23Z,11,40,moT01,freeCodeCamp,freeCodeCamp
+a09b4301def5d6ceae02fe6fff6310483697d6c9,"fix: Typos in lecture on Working with CSS Transforms, Overflow, and F…",2025-12-08T09:33:44Z,2,10,bdtripp,freeCodeCamp,freeCodeCamp
+cabddb74cb95566ae22db015e167400e2e401847,"feat(challenge-parser,client): display Chinese dialogue with ruby ann…",2025-12-08T09:00:05Z,6,206,huyenltnguyen,freeCodeCamp,freeCodeCamp
+39eb3e0f346dc61882888338bff02a63a7b4787f,fix(client): add beta back to a2-english (#64368),2025-12-08T08:36:39Z,6,12,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 a28ff5d2cd0bc85d9b7f22eb452a33007845ce51,fix(client): correct placement of Interactive Editor button (#64350),2025-12-05T21:46:42Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
 b664cdb4c22d41759a02517565bd26a600f376b4,"chore(i18n,learn): update i18n-curriculum submodule (#64346)",2025-12-05T20:54:41Z,2,31,camperbot,freeCodeCamp,freeCodeCamp
 0a8f7a6ea16a7e305860a35570f94ff88260631b,feat(curriculum): update A1 professional Spanish description (#64344),2025-12-05T20:34:12Z,1,10,estefaniacn,freeCodeCamp,freeCodeCamp
@@ -1032,10 +1043,3 @@ ed116264e4f4fa2f6cfde7905d4fc947db1badfc,fix(gha): disable i18n nodejs tests (#6
 bd2167c17694ca823d3bd6ece02a1619ca3e1770,fix(tools): adjust create language block helper script (#62090),2025-09-09T14:32:10Z,3,32,moT01,freeCodeCamp,freeCodeCamp
 ce9f1dd99a251d12b234d930c074cce2f8fe61d0,chore(curriculum): minor clean up to daily challenges (#62095),2025-09-09T11:47:45Z,114,962,moT01,freeCodeCamp,freeCodeCamp
 ec93db58fe3a9bcfebfbc62f2b6000e8c03d1ee3,"fix(i18n,client): add note for deployment issues (#62093)",2025-09-09T04:56:06Z,1,31,raisedadead,freeCodeCamp,freeCodeCamp
-f356d6b442894991519830e31c0da17505197211,"Revert ""chore: disable curriculum translation deletion (#61961)"" (#62…",2025-09-08T17:47:31Z,1,11,moT01,freeCodeCamp,freeCodeCamp
-2494c4f88705097d65ecd37d86e066be73d58da4,fix(curriculum): clarify counting cards decrease by 1 (#62072),2025-09-08T11:56:12Z,1,2,snehabichkunde,freeCodeCamp,freeCodeCamp
-4f8cf0f1d8bbfd7bd4f28a1f41ef308618790529,fix(curriculum): remove image placeholder from Vite lecture (#62076),2025-09-08T11:31:16Z,1,2,errantpianist,freeCodeCamp,freeCodeCamp
-74f9ec57357862aeb8687124702efce75381d500,fix(curriculum): spelling variant (#62073),2025-09-08T10:27:35Z,3,6,clarencepenz,freeCodeCamp,freeCodeCamp
-ab9ec31a04f524728f88ef3d849922cb84008bd3,refactor: various workspaces to vitest (#62058),2025-09-08T09:35:38Z,23,516,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-ab3bab0967279cf4f350a86afffc5f5da9d0d4b2,fix(gha): cleaner and working matrix (#62081),2025-09-08T06:40:41Z,1,121,raisedadead,freeCodeCamp,freeCodeCamp
-fb854f255280463001839b74bf6415e59684978f,fix(curriculum): typo in Stand Up Meetings (#62077),2025-09-08T06:05:05Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
