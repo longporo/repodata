@@ -1,4 +1,18 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+14932a9d38345dd306d706ea3a4b6cc6962504c0,fix(curriculum): correct challenge titles in es-a1-review-introducing…,2025-12-10T00:29:49Z,1,4,pdtrang,freeCodeCamp,freeCodeCamp
+f2c52bfb1bd33f907168d12080ce0d73b6029c9c,"feat(curriculum): add A1-M2 Practice, Review, and Quiz (#63985)",2025-12-09T22:45:29Z,14,1169,RafaelDavisH,freeCodeCamp,freeCodeCamp
+ff996ed9f752f7849a919c2c399f6c66f6a54a7d,feat(curriculum): add A1-M2 learn meet tasks (#63825),2025-12-09T22:02:09Z,29,2643,RafaelDavisH,freeCodeCamp,freeCodeCamp
+db6e9141ecb57615eceae870130c7ce87092c268,feat(curriculum): A1 Spanish fundamentals Module QA Review (#64415),2025-12-09T21:54:13Z,46,232,estefaniacn,freeCodeCamp,freeCodeCamp
+abcf06774642bcc5fadba244e70908550c5e21fc,fix(curriculum): add example for nested object destructuring (#64348),2025-12-09T20:23:12Z,1,28,huyenltnguyen,freeCodeCamp,freeCodeCamp
+d28fbdf0818e8f60e668064bd92efa0ecc81d309,feat: release rdb and python certs (#64253),2025-12-09T19:55:36Z,27,277,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+d9b5f4f8afbe657612d0017eee5114c6a3ae7618,fix(curriculum): Resolved grammar error in Email Simulator (#64411),2025-12-09T18:35:38Z,1,2,shrestha-das,freeCodeCamp,freeCodeCamp
+673e913b789ef9519e428679b14f9b53061c3598,refactor(client): remove aria-label from icons in ShareTemplate compo…,2025-12-09T17:30:46Z,1,21,AJTekniko,freeCodeCamp,freeCodeCamp
+39c41fde0d0dbec83bab247230bdbb43db482710,fix(curriculum): clarify JS functions quiz Q13 wording (#64401),2025-12-09T16:39:17Z,1,4,DeveloperViraj,freeCodeCamp,freeCodeCamp
+e746e5ff24349236dc9058c2ba1f868c9c263c08,feat(curriculum): Add A1 Spanish The First Ten Numbers Blocks (#64018),2025-12-09T16:36:18Z,33,2459,estefaniacn,freeCodeCamp,freeCodeCamp
+005af24bddf0914ab5d7560f8ff834df8c1452cf,fix: expand ownership to intros (#64407),2025-12-09T16:31:02Z,1,1,raisedadead,freeCodeCamp,freeCodeCamp
+96da10e8dd3d75e17c3f8336478772ac03d19484,feat: Add A1 Spanish Numbers 10 to 29 Module (#64080),2025-12-09T16:24:16Z,52,4432,estefaniacn,freeCodeCamp,freeCodeCamp
+7b88efe5c5d9f18604b5de6ad6cdb04cf81875ef,feat(curriculum): Add animations to Chapter 3 Module 2 Block 1 (#63876),2025-12-09T11:25:00Z,28,1426,miyaliu666,freeCodeCamp,freeCodeCamp
+f87bc2ec01c8eb7886c110ac4f0919a036420167,fix(curriculum): correct grammar in dictionaries lecture (#64393),2025-12-09T10:50:41Z,1,2,ananyapahwa,freeCodeCamp,freeCodeCamp
 786f840f2b7c0c57946fb7c3902259a325ca24bb,fix(curriculum): typo in react basics review (#64386),2025-12-08T21:39:02Z,2,4,bdtripp,freeCodeCamp,freeCodeCamp
 75098c356ab0cb5401c9ffeb9a8fb31575a30f39,fix(curriculum): move checkbox input before label text (#64376),2025-12-08T18:46:31Z,1,2,DeveloperViraj,freeCodeCamp,freeCodeCamp
 815b9bbe06412f375290051841df1cd1c01c95f0,fix(curriculum): update text in lecture-working-with-loops-and-sequen…,2025-12-08T18:40:55Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
@@ -1037,9 +1051,3 @@ d19e7ede11bb8b60c0ba8226eeeec40f6376aaf3,fix(gha): handle connections better (#6
 efe8114fc333fbe04ab978544f88c6c8b0415755,fix(curriculum): Regex should only allow == or === in equality check …,2025-09-10T13:23:12Z,1,2,janni1288,freeCodeCamp,freeCodeCamp
 84767614222bae2f7c2fdefe12346d9fa1a10fc6,fix(curriculum): corrected typo in hint text (#62124),2025-09-10T09:53:01Z,2,6,arizfaiyaz,freeCodeCamp,freeCodeCamp
 000b8f3d7a50bb37ff54fbc9174407dbca898a0a,"fix(Curriculum): Fixed typo in A2 English block from ""responsibilies""…",2025-09-10T02:25:25Z,130,28,nieldakarla,freeCodeCamp,freeCodeCamp
-6b486f08e27a1813a338a8a025257745ae8eb367,fix(curriculum): daily challenge typos (#62103),2025-09-09T19:52:27Z,10,20,moT01,freeCodeCamp,freeCodeCamp
-dbb51259fae51c7651f431a1ccd432fa90a339b4,fix: run all tests (#62111),2025-09-09T17:51:53Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-ed116264e4f4fa2f6cfde7905d4fc947db1badfc,fix(gha): disable i18n nodejs tests (#62106),2025-09-09T15:38:51Z,1,130,raisedadead,freeCodeCamp,freeCodeCamp
-bd2167c17694ca823d3bd6ece02a1619ca3e1770,fix(tools): adjust create language block helper script (#62090),2025-09-09T14:32:10Z,3,32,moT01,freeCodeCamp,freeCodeCamp
-ce9f1dd99a251d12b234d930c074cce2f8fe61d0,chore(curriculum): minor clean up to daily challenges (#62095),2025-09-09T11:47:45Z,114,962,moT01,freeCodeCamp,freeCodeCamp
-ec93db58fe3a9bcfebfbc62f2b6000e8c03d1ee3,"fix(i18n,client): add note for deployment issues (#62093)",2025-09-09T04:56:06Z,1,31,raisedadead,freeCodeCamp,freeCodeCamp
