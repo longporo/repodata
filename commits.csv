@@ -1,4 +1,26 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+51b6a310acdcd3fb5530d52a468e2845ba3d0e9e,test(client): add test for ü character conversion to PinyinToHanziInp…,2025-12-11T01:54:05Z,1,11,pdtrang,freeCodeCamp,freeCodeCamp
+3837cdc9cb57894512b5de9c5c8248415f5f99c5,"feat(curriculum): A1 Spanish ""Greetings and Farewells"" Module QA Revi…",2025-12-10T21:55:24Z,15,58,estefaniacn,freeCodeCamp,freeCodeCamp
+ea876f90bbc04e44037f240a83c4cf25e76dea46,"feat(i18n, learn): add 4 new Spanish characters (#64480)",2025-12-10T21:40:04Z,1,48,DanielRosa74,freeCodeCamp,freeCodeCamp
+6a81d5fcce85e563ee638ea8bdc942de194fd04f,fix(curriculum): correct caret name (#64478),2025-12-10T20:08:27Z,1,2,RDFearless,freeCodeCamp,freeCodeCamp
+f5ee8780bca4f61090e7dc2a81ff2de3cded48e8,fix(curriculum): replace smart quotes with straight quotes (#64471),2025-12-10T19:46:53Z,1,2,vikas-sharma123,freeCodeCamp,freeCodeCamp
+33d97f5ed748940e23e23b0935b3b53bd59c12fc,feat(curriculum): A1 Spanish Welcome Module QA Review (#64473),2025-12-10T19:34:37Z,4,111,estefaniacn,freeCodeCamp,freeCodeCamp
+a8901751a4e4611e577cb9f1b1a9de8c55676028,fix(curriculum): correct typo in grid-auto-flow description (#64468),2025-12-10T18:45:19Z,1,2,Sahitya0805,freeCodeCamp,freeCodeCamp
+fbef211027c17c36d0f7afb80fe64f1a5c51fa70,fix(curriculum): typo in What Are Effects in React (#64464),2025-12-10T18:11:57Z,1,2,bdtripp,freeCodeCamp,freeCodeCamp
+075375700f5f0c09e15439642510a89b4e031d4a,feat(tools): rename-block helper script (#64201),2025-12-10T17:45:18Z,5,205,gikf,freeCodeCamp,freeCodeCamp
+df7da4546a9222d9880f67654446f13561bbc617,fix(curriculum): fix typos and small adjustments in CSS chapter Revie…,2025-12-10T17:15:16Z,1,30,majestic-owl448,freeCodeCamp,freeCodeCamp
+02f28fd6c8bf17ee7b7ab93dcd4be7ad37f7d9b7,"chore(i18n,client): processed translations (#64454)",2025-12-10T15:34:53Z,20,280,camperbot,freeCodeCamp,freeCodeCamp
+7a0b7b8733034e315e53563cce7f736acc9b30ec,refactor(client): remove hasEditableBoundaries from learn wrapper (#6…,2025-12-10T15:26:12Z,4,18,huyenltnguyen,freeCodeCamp,freeCodeCamp
+2caed054bddcf0ec534ce811a0afdb57ef9d96ef,fix(curriculum): distractors and answer are changed to inline code bl…,2025-12-10T14:29:16Z,1,16,shrestha-das,freeCodeCamp,freeCodeCamp
+b643a826230494493283303b8578efbdd96f7857,fix(curriculum): fix typo in CSS review (#64457),2025-12-10T14:09:56Z,1,2,shraddhaarora,freeCodeCamp,freeCodeCamp
+c8395eb1db5f5a6c0331998f37c815e611d9eabd,fix(api): add 401 to non user for exam routes (#64396),2025-12-10T13:00:18Z,4,96,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+397928c5101c34c2aedfbf733caadd680e5b22eb,fix(client): render report user page for signed out users (#64399),2025-12-10T12:59:56Z,2,88,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+1b98725699efcd7be8a27eaca41ec74ee0e55413,feat(client): remove broken signout button from /update-email (#64400),2025-12-10T12:59:05Z,2,12,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+6246bb5151fc64343284bbb9f3a458645dd196de,fix(curriculum): Capitalisation in blank for How to Express Agreement…,2025-12-10T12:40:26Z,1,2,zho00,freeCodeCamp,freeCodeCamp
+a67abd3fbc8337f0c0525c1939a85107c7a6fd6a,feat(client): redirect from /settings + /update-email after sign out …,2025-12-10T11:13:41Z,2,60,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+c0b9aa2cb0f336c441b48b37fe56c7ed37c82f59,fix(curriculum): fix highlighting in python basics quiz (#64422),2025-12-10T10:51:57Z,1,16,pdtrang,freeCodeCamp,freeCodeCamp
+2beb6c8dc64aaa81c12347d28467ccd5b742bd93,fix(tools): update error message for hints without tests (#64354),2025-12-10T08:20:13Z,2,6,MeaslyDay,freeCodeCamp,freeCodeCamp
+6a8be7ca5026cc377d4444acdfbcf4c535eac527,fix(tools): display blocks despite of missing superblock title/intro …,2025-12-10T07:24:36Z,2,4,gikf,freeCodeCamp,freeCodeCamp
 14932a9d38345dd306d706ea3a4b6cc6962504c0,fix(curriculum): correct challenge titles in es-a1-review-introducing…,2025-12-10T00:29:49Z,1,4,pdtrang,freeCodeCamp,freeCodeCamp
 f2c52bfb1bd33f907168d12080ce0d73b6029c9c,"feat(curriculum): add A1-M2 Practice, Review, and Quiz (#63985)",2025-12-09T22:45:29Z,14,1169,RafaelDavisH,freeCodeCamp,freeCodeCamp
 ff996ed9f752f7849a919c2c399f6c66f6a54a7d,feat(curriculum): add A1-M2 learn meet tasks (#63825),2025-12-09T22:02:09Z,29,2643,RafaelDavisH,freeCodeCamp,freeCodeCamp
@@ -1038,16 +1060,3 @@ ded6b598d75eae5e1b46af87ff5639ceef36ca81,feat(client): add 25 dollar tier ab tes
 09dc696c29141eb00e3742d6ede302e47c5bc48f,feat: add email sign up alert (#61218),2025-09-11T08:14:00Z,27,732,ahmaxed,freeCodeCamp,freeCodeCamp
 29513a4d6dfd9393fc7df13c9921178dfcd4c623,refactor(curriculum): split html fundamentals lecture into two (#61962),2025-09-11T07:09:23Z,8,50,moT01,freeCodeCamp,freeCodeCamp
 415f0207f5352de9de72e2754823efa8350e251a,chore(deps): upgrade @freecodecamp/ui to v4.3.0 (#61996),2025-09-11T05:19:10Z,6,86,huyenltnguyen,freeCodeCamp,freeCodeCamp
-eb3baf2f4757eb0477b0e7f50d44dc1132a4c117,fix(curriculum): Improve hint for Caesar Cipher step 4 (#62069),2025-09-10T21:59:04Z,1,2,MPK2004,freeCodeCamp,freeCodeCamp
-26b415ed6562dd4a4592018877d3b59645cdf30b,fix(curriculum): Add 5 extra tests for lab-symmetric-difference (#62143),2025-09-10T21:48:59Z,1,54,arizfaiyaz,freeCodeCamp,freeCodeCamp
-a834414bc587d19bc3a1a81fe2cd284c9483d917,fix(curriculum): python daily challenge boolean tests (#62145),2025-09-10T19:37:57Z,11,180,moT01,freeCodeCamp,freeCodeCamp
-f70024eb39e3b34cf836df1c6da16f153a6c0fd6,fix(curriculum): JS daily challenge 31 test text (#62141),2025-09-10T16:41:12Z,1,2,moT01,freeCodeCamp,freeCodeCamp
-e8753a7c0d283f6800e598429b7786e9a637c871,fix: clarify hint and improve test flexibility in book catalog exerci…,2025-09-10T15:42:25Z,1,4,amritamishra01,freeCodeCamp,freeCodeCamp
-77f02ff75562585555cd43a4edc4184d4fcc276a,fix: remove forgotten file (fix CI failure) (#62142),2025-09-10T15:33:07Z,1,54,majestic-owl448,freeCodeCamp,freeCodeCamp
-89a6b1fcdabfc4afad7ab1257ecffd211c286a07,feat(curriculum): add redirects for the javascript object lectures (#…,2025-09-10T14:27:48Z,1,44,majestic-owl448,freeCodeCamp,freeCodeCamp
-383da6ebeb92d9c369b4eedd178e790f70ddf62a,refactor(curriculum): divide JavaScript objects lecture block into sm…,2025-09-10T14:27:37Z,20,132,majestic-owl448,freeCodeCamp,freeCodeCamp
-97f759a8b78c9486e9d27aff415db715e44a44b8,chore: validate block-superblock relationship (#62126),2025-09-10T14:18:07Z,2,42,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-d19e7ede11bb8b60c0ba8226eeeec40f6376aaf3,fix(gha): handle connections better (#62104),2025-09-10T13:40:12Z,2,131,raisedadead,freeCodeCamp,freeCodeCamp
-efe8114fc333fbe04ab978544f88c6c8b0415755,fix(curriculum): Regex should only allow == or === in equality check …,2025-09-10T13:23:12Z,1,2,janni1288,freeCodeCamp,freeCodeCamp
-84767614222bae2f7c2fdefe12346d9fa1a10fc6,fix(curriculum): corrected typo in hint text (#62124),2025-09-10T09:53:01Z,2,6,arizfaiyaz,freeCodeCamp,freeCodeCamp
-000b8f3d7a50bb37ff54fbc9174407dbca898a0a,"fix(Curriculum): Fixed typo in A2 English block from ""responsibilies""…",2025-09-10T02:25:25Z,130,28,nieldakarla,freeCodeCamp,freeCodeCamp
