@@ -1,4 +1,18 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+1146bc23f81aea82f388bd6effb684d2157dadac,fix: changed function name from cc to cardCounter (#64560),2025-12-12T16:24:13Z,1,94,bdtripp,freeCodeCamp,freeCodeCamp
+9a83e95a60f1ae90cc920099bae15d8ba6ba2348,fix(curriculum): Add backticks to @property (#64561),2025-12-12T16:22:12Z,1,4,clarencepenz,freeCodeCamp,freeCodeCamp
+79585ae485739602158a31e39a67509348874b25,fix(curriculum): Fixed a typo quiz-bash-commands question (#64538),2025-12-12T14:33:32Z,1,2,Roxicaro,freeCodeCamp,freeCodeCamp
+44f5cd6cfcdde55b9e605a9096315a035e377890,feat: add user flags for all certifications (#64338),2025-12-12T13:51:05Z,23,345,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+4558096cee8c6e3f181e4de546d241f149d4b3ee,"fix(client,curriculum): add lang property to Challenge type (#64552)",2025-12-12T12:51:07Z,2,2,huyenltnguyen,freeCodeCamp,freeCodeCamp
+c425156fc7e60a6259791ce2fbe90ae27f956c60,fix: use proper csharp codeblock (#64550),2025-12-12T11:26:55Z,3,6,simoncriado,freeCodeCamp,freeCodeCamp
+aff30db058ac4cd6abe04c161580be015381c8db,fix(curriculum): corrected Mismatch in names for CSS backgrounds and …,2025-12-12T10:45:45Z,4,8,SkvProgrammer,freeCodeCamp,freeCodeCamp
+e2add9fca35f54d88c49c9d66a8cda4d416f73ae,chore(curriculum): update help category to Chinese Curriculum for mul…,2025-12-12T10:41:32Z,39,78,Sembauke,freeCodeCamp,freeCodeCamp
+5c3dd55406fa041891517ef7b4de5918f547c595,fix(client): show more descriptive error message on fetchUserError (#…,2025-12-12T10:28:43Z,6,38,leputz,freeCodeCamp,freeCodeCamp
+9f16487a200b52c0d5c0837af885180c4324d3af,fix(curriculum): use C# highlighting in static typing discussion  (#6…,2025-12-12T10:01:16Z,3,20,a2937,freeCodeCamp,freeCodeCamp
+b47ece72c8e4b4748f42d9390b99c755650cb712,fix: allow implicit labels in checkout lab tests (#63789),2025-12-12T09:16:27Z,1,19,dimssu,freeCodeCamp,freeCodeCamp
+19c1ad409bfd6e0fa91152e4d6461cdf8b9a37e8,feat(curriculum): enhance explanation of React keys and reconciliatio…,2025-12-12T08:53:56Z,1,16,AldaniP,freeCodeCamp,freeCodeCamp
+fd8d0e0d3ffab762caa7226c06ab9b4f2c2506df,fix(curriculum): updated comprehension check question for python vari…,2025-12-12T08:38:51Z,1,10,bdtripp,freeCodeCamp,freeCodeCamp
+33b1967a25a2e6aea5f20e85f5079c24a10c8310,feat: save submission to db (#64450),2025-12-12T07:31:25Z,62,173,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 0a5f192370846c4dadb599652f1473df2cbe5051,"fix(curriculum): capitalize ""what"" in learn-how-to-use-conditionals (…",2025-12-12T00:35:05Z,1,2,section999,freeCodeCamp,freeCodeCamp
 76957f53a78cef0c0c94817afd4dcba30724d0cc,feat(client): add Chinese Curriculum and Spanish Curriculum to links.…,2025-12-11T23:22:25Z,1,2,huyenltnguyen,freeCodeCamp,freeCodeCamp
 f8bce825ca556fb6334a1bd87568d89ae351b606,fix(curriculum): QA First Questions module (#64543),2025-12-11T23:03:50Z,25,88,nieldakarla,freeCodeCamp,freeCodeCamp
@@ -1071,15 +1085,3 @@ d631c760875caf1655651efa01378fd551ce4965,feat: ab test for independent lowerjaw 
 8e8a813365408e6570ef48d6a703c23c37986b5c,fix(curriculum): typo in language feedback (#62214),2025-09-15T03:51:39Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 e3d68d5c528d6f488d51f402b346f53bebd094cf,fix(curriculum): changed theme switcher value (#62202),2025-09-14T07:18:04Z,1,14,clarencepenz,freeCodeCamp,freeCodeCamp
 a6596b8836ef506e1b195341eb31614158b70185,fix(curriculum): correct typo in symmetric difference challenge test …,2025-09-14T07:15:55Z,1,2,bisht0968,freeCodeCamp,freeCodeCamp
-fe3fac9eee851739b293981d6001a88b4a29d645,fix: remove placeholder text from english intro.json (#62185),2025-09-12T20:17:33Z,1,15,abhisek7154,freeCodeCamp,freeCodeCamp
-ee05b0d5da15a49a8c6a6b3338e3eefc71f23d25,feat(tools): allow tsx tabs (#61936),2025-09-12T18:16:37Z,8,31,a2937,freeCodeCamp,freeCodeCamp
-28411a2cece75d086b7c994ddf7ea7daf8a507e8,refactor: migrate challenge parser tests to vitest (#62186),2025-09-12T16:50:02Z,36,545,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-2590c1c8206b28d1bb377500c27d6a6ce0a03d7f,fix(curriculum): correct function name used in hints for base check d…,2025-09-12T15:06:13Z,1,2,dley18,freeCodeCamp,freeCodeCamp
-d0cfac8c42cc0bf26e2bb44c5e08fd08c1036064,feat: add sum all prime challenge lab (#62084),2025-09-12T13:28:35Z,5,120,larymak,freeCodeCamp,freeCodeCamp
-9237d61f89177d3fff6fa563dee01bd3e12749c2,fix(curriculum): Add select value example to step 9 (#62163),2025-09-12T11:20:06Z,1,9,Giftea,freeCodeCamp,freeCodeCamp
-a0ba2054841ebeb8ded3c7f4d6b7ae27cf254f07,refactor: use top-level await in challenge tests (#61398),2025-09-12T10:55:39Z,94,620,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-6e0493f918b3a69aff8d06660c3656c17fdc8ec7,chore(curriculum): redirects for intro to js lectures (#62137),2025-09-12T09:45:02Z,1,20,jdwilkin4,freeCodeCamp,freeCodeCamp
-3e5031d002d046259f17273515195589456f8ea7,refactor(curriculum): breaking down intro to JS lecture block into sm…,2025-09-12T09:44:44Z,12,98,jdwilkin4,freeCodeCamp,freeCodeCamp
-6a0ada8a4cf68e794a6011ea87c71bf24fa46541,fix(curriculum): change challengeType of Symmetric Difference lab to …,2025-09-12T08:27:48Z,1,2,mohamedmostafakhudari,freeCodeCamp,freeCodeCamp
-c96c7d113705023bffe16e7a5fa98b42f7d54078,fix(curriculum): missing assignment text for bash and sql review page…,2025-09-12T08:12:16Z,1,2,jdwilkin4,freeCodeCamp,freeCodeCamp
-af730bf58502d386f1354137ddf4bf3e8791954b,chore: migrate gitpod -> ona (#62046),2025-09-12T07:34:52Z,23,482,ShaunSHamilton,freeCodeCamp,freeCodeCamp
