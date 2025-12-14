@@ -1,6 +1,12 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87d9g2s,64558,Spanish version has wrong text in instructions.  Build a cat blog step 8,OPEN,2025-12-12T15:45:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87dZL-N,64440,extra punctuation in JavaScript Maps and Sets Quiz,CLOSED,2025-12-10T09:36:05Z,2025-12-11T20:51:20Z,Shivansh,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87eF_qH,64576,Missing section titles in the JavaScript Review,OPEN,2025-12-13T15:49:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87X6nqc,63812,Add new loops workshop before sentence analyser workshop,OPEN,2025-11-13T19:12:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87aPEGx,64112,Lab – Story Fragment Shuffler,OPEN,2025-11-25T03:42:25Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87d8n_t,64556,missing index.md file does not cause test failures,OPEN,2025-12-12T14:39:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87eCClH,64568,Ambiguous instructions on workshop,OPEN,2025-12-12T22:58:54Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87d9g2s,64558,Spanish version has wrong text in instructions.  Build a cat blog step 8,OPEN,2025-12-12T15:45:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87eDFTB,64571,"Wrong idea.: backward navigation is a UX feature, not an accessibility feature.",OPEN,2025-12-13T02:24:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87d_XVp,64564,Bitwise should be explained in Augmented Assignments lesson,OPEN,2025-12-12T18:16:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87dZLAx,64435,issue in How Can You Create Flexible Grids with the fr Unit?,OPEN,2025-12-10T09:34:54Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87d8IXz,64554,has situation changed for css @property support?,OPEN,2025-12-12T13:59:45Z,,,freeCodeCamp,freeCodeCamp
@@ -10,7 +16,6 @@ I_kwDOAbI7X87dzAQb,64542,Suggestion to change the name of function in lab,CLOSED
 I_kwDOAbI7X87d9Pey,64557,missing inline code block,CLOSED,2025-12-12T15:25:19Z,2025-12-12T16:22:13Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87dx5Rp,64537,Consider breaking up the python data types lesson into smaller lessons,OPEN,2025-12-11T20:26:03Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87d5dL2,64548,java code blocks should become csharp,OPEN,2025-12-12T10:09:19Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87d8n_t,64556,missing index.md file does not cause test failures,OPEN,2025-12-12T14:39:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87d8XNv,64555,Rotate back from /encoded endpoints,OPEN,2025-12-12T14:18:26Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87d5en1,64549,use proper `csharp` codeblock:,CLOSED,2025-12-12T10:10:52Z,2025-12-12T11:26:56Z,simoncriado,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87dzwze,64545,"rdb-v9 codespaces link should point to ""Your codespaces"" instead of rdb-alpha repo",OPEN,2025-12-11T23:39:06Z,,,freeCodeCamp,freeCodeCamp
@@ -26,7 +31,6 @@ I_kwDOAbI7X854BpFk,52440,Accessibility concerns for new fill-in-the-blank questi
 I_kwDOAbI7X87dY7IZ,64429,issues in html chapter review page,CLOSED,2025-12-10T09:17:18Z,2025-12-11T22:05:03Z,DeveloperViraj,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86rjsRa,58979,Progress Reset Issue and Suggestion for Points on Submission,CLOSED,2025-02-25T12:35:57Z,2025-12-11T22:04:21Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87c90bT,64378,Styling Forms Quiz question 3 doesn't make sense,CLOSED,2025-12-08T16:46:08Z,2025-12-11T21:50:48Z,zho00,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87dZL-N,64440,extra punctuation in JavaScript Maps and Sets Quiz,CLOSED,2025-12-10T09:36:05Z,2025-12-11T20:51:20Z,Shivansh,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87c5c5E,64370,Auto-focus the code editor on each new workshop step,CLOSED,2025-12-08T11:57:33Z,2025-12-11T20:11:09Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87dxulE,64534,Complex data type in python data types lesson,OPEN,2025-12-11T20:10:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87dxnCn,64533,Update data types python lesson,OPEN,2025-12-11T19:59:02Z,,,freeCodeCamp,freeCodeCamp
@@ -110,7 +114,6 @@ I_kwDOAbI7X86HQbQu,54572,Change share on Twitter to share on X,CLOSED,2024-04-29
 I_kwDOAbI7X87c1cOz,64367,Prova,CLOSED,2025-12-08T07:20:34Z,2025-12-08T08:00:53Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87cx0sc,64365,Test,CLOSED,2025-12-07T22:10:07Z,2025-12-08T08:00:42Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86kobjV,57818,Consider saving the code for labs,OPEN,2024-12-29T01:19:34Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87X6nqc,63812,Add new loops workshop before sentence analyser workshop,OPEN,2025-11-13T19:12:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87cv4mZ,64359,Issue 1,CLOSED,2025-12-07T14:15:22Z,2025-12-07T14:15:45Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87PIe5G,62452,create-new-project extra metadata property with lectures,OPEN,2025-10-01T21:04:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87cpPLA,64355,13731191173,CLOSED,2025-12-06T14:20:16Z,2025-12-06T15:14:40Z,,freeCodeCamp,freeCodeCamp
@@ -140,7 +143,6 @@ I_kwDOAbI7X87XfyqO,63766,Middle div in action row conflicts with button,CLOSED,2
 I_kwDOAbI7X87ZXnVU,63995,[Challenge parser] Improve validation to catch missing `---` in MCQ challenges,CLOSED,2025-11-20T11:31:03Z,2025-12-03T17:03:27Z,gikf,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87bzxOp,64287,Remove `dataPlaywrightTestLabel` from SectionHeader,CLOSED,2025-12-02T22:42:30Z,2025-12-03T09:56:15Z,garyeung,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87P-HxN,62559,Reorganize Settings page with sidebar navigation,CLOSED,2025-10-06T21:24:58Z,2025-12-03T09:28:22Z,Sembauke;ahmaxed;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87aPEGx,64112,Lab – Story Fragment Shuffler,OPEN,2025-11-25T03:42:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87bl-e9,64265,MathJax not rendering in Python v9 lab,OPEN,2025-12-02T05:51:54Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86vYBmW,59397,Clean up global.css,CLOSED,2025-03-24T07:40:43Z,2025-12-02T18:58:29Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87a7Vr7,64200,Learn How to Describe Places and Events - Task 124 - Elaborate feedback,CLOSED,2025-11-27T20:58:47Z,2025-12-02T17:05:25Z,pdtrang,freeCodeCamp,freeCodeCamp
