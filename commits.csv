@@ -1,4 +1,17 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+6836c5ded682e590536955c8b968b025608fb6b0,fix(curriculum): correct grammar in React state and hooks review (#64…,2025-12-15T00:08:19Z,1,4,CODEkuldeep,freeCodeCamp,freeCodeCamp
+0cd88a07f87ef08e184d31b4245d17b810edfd69,feat(curriculum): release A1 Spanish (#64519),2025-12-14T18:48:04Z,41,121,nieldakarla,freeCodeCamp,freeCodeCamp
+8c02cd8ed0b0e99372f431769ddfaf9eddc11912,"chore(i18n,learn): update i18n-curriculum submodule (#64570)",2025-12-14T18:31:37Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+1c57bd73e3c33a2cb7dcb5f2145fcde8f17f9872,feat(curriculum): Add A1 Chinese Chapter 3 Modules 2 Blocks 2-5 (#63777),2025-12-14T18:27:18Z,53,3967,miyaliu666,freeCodeCamp,freeCodeCamp
+ede24832362e2157cfb35f37da4ea9967372a45f,fix(curriculum): improve wording in medical data validator step 31 (#…,2025-12-14T16:40:37Z,1,2,tanishmundra-codes,freeCodeCamp,freeCodeCamp
+0cb93406a87e960cc3ff08848dc4ac1e9bd1cbc6,fix: added the missing quote for checkbox for issue (#64584),2025-12-14T15:42:27Z,2,8,Shakya47,freeCodeCamp,freeCodeCamp
+b5f7796c0673312cc215b6be12e423d63f2bfec6,fix: add missing quote in checkbox selector (#64585),2025-12-14T15:27:07Z,1,2,souparno-nag,freeCodeCamp,freeCodeCamp
+0233d77794f61456678c2dcbe7a41cc742d91630,fix(curriculum): update browser support for @property (#64559),2025-12-14T14:56:45Z,1,2,Upasana-610,freeCodeCamp,freeCodeCamp
+3c42fc858b5d7fe0b930415286043938bfcc7028,fix(curriculum): typo in CSS typography review (#64574),2025-12-14T11:15:20Z,1,2,bdtripp,freeCodeCamp,freeCodeCamp
+2ed1b5b86d8979a88d9a908be2769fc957e26583,fix(curriculum): add note for python 2 to python installation lesson …,2025-12-14T10:59:58Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
+795d7c596216b8a90a5565d0e566b4e5520b09ef,fix(curriculum): improve answer to how-can-you-create-flexible-grids-…,2025-12-14T10:57:01Z,1,2,garyeung,freeCodeCamp,freeCodeCamp
+04b7ba32b96c042715ce0b3c02753f70e71c54c4,chore(github): fix code ownership (#64562),2025-12-14T06:00:41Z,1,6,huyenltnguyen,freeCodeCamp,freeCodeCamp
+ac3a31e920f26b2e07572c3c583b06c3ead978b5,fix: redirect to api /signin from client /settings (#64398),2025-12-14T05:59:24Z,7,135,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 1146bc23f81aea82f388bd6effb684d2157dadac,fix: changed function name from cc to cardCounter (#64560),2025-12-12T16:24:13Z,1,94,bdtripp,freeCodeCamp,freeCodeCamp
 9a83e95a60f1ae90cc920099bae15d8ba6ba2348,fix(curriculum): Add backticks to @property (#64561),2025-12-12T16:22:12Z,1,4,clarencepenz,freeCodeCamp,freeCodeCamp
 79585ae485739602158a31e39a67509348874b25,fix(curriculum): Fixed a typo quiz-bash-commands question (#64538),2025-12-12T14:33:32Z,1,2,Roxicaro,freeCodeCamp,freeCodeCamp
@@ -1083,5 +1096,3 @@ df1c226cc608cbc69eb730b7a2a8fad186957f7f,feat(curriculum): add git and GitHub le
 eb2c74b4e6f29726a5c25deaae6ac0517deb74e9,"chore(i18n,client): processed translations (#62221)",2025-09-15T14:01:01Z,20,926,camperbot,freeCodeCamp,freeCodeCamp
 d631c760875caf1655651efa01378fd551ce4965,feat: ab test for independent lowerjaw under editor (#61269),2025-09-15T07:29:24Z,4,78,ahmaxed,freeCodeCamp,freeCodeCamp
 8e8a813365408e6570ef48d6a703c23c37986b5c,fix(curriculum): typo in language feedback (#62214),2025-09-15T03:51:39Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-e3d68d5c528d6f488d51f402b346f53bebd094cf,fix(curriculum): changed theme switcher value (#62202),2025-09-14T07:18:04Z,1,14,clarencepenz,freeCodeCamp,freeCodeCamp
-a6596b8836ef506e1b195341eb31614158b70185,fix(curriculum): correct typo in symmetric difference challenge test …,2025-09-14T07:15:55Z,1,2,bisht0968,freeCodeCamp,freeCodeCamp
