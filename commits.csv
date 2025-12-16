@@ -1,4 +1,30 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+142f6edc6b6e8ae1e75f72b1ff2b3e1990380c59,fix(curriculum): hanzi-pinyin format in Meeting New Teammates - task …,2025-12-15T23:45:36Z,2,6,huyenltnguyen,freeCodeCamp,freeCodeCamp
+a994fa054a124490bb7d1d25f024afe27a74d250,feat(curriculum): expand letter hint to mention Spanish keyboard (#64…,2025-12-15T22:38:24Z,1,2,estefaniacn,freeCodeCamp,freeCodeCamp
+7ca86fcb951c14650d48568f7523efefdc44b0df,fix(api): upsert moderation record on invalid attempt (#64635),2025-12-15T22:02:26Z,1,26,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+a102b19dcc805f5278442f0402210f0ee5dc1c0d,fix(client): Increased line height of quiz labels containing ruby (#6…,2025-12-15T20:52:11Z,1,4,laxitajain,freeCodeCamp,freeCodeCamp
+f411fc156a8f740c63e9e2b1f59dc6fc9ebfebeb,feat(curriculum): add Pinyin Practice block with placeholder task (#6…,2025-12-15T20:04:05Z,5,84,huyenltnguyen,freeCodeCamp,freeCodeCamp
+7e00d4c3628603cd80d641d4a78cb9b22cf2d1f4,"chore(i18n,learn): update i18n-curriculum submodule (#64617)",2025-12-15T18:48:26Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+b107734c31279de07c31876fff8573f503def902,feat(curriculum): add intro to NodeJS quiz (#63141),2025-12-15T18:24:57Z,5,266,zairahira,freeCodeCamp,freeCodeCamp
+cde8852f05e6f4f7fd5f55e921c26236218dda6f,fix(curriculum): fix double space in React forms description (#64605),2025-12-15T17:59:17Z,1,2,FlipTrick720,freeCodeCamp,freeCodeCamp
+94c2d812b419bacb648a5def6ec04861d1fac5fe,feat(api): reject exam submissions (#64607),2025-12-15T17:04:53Z,17,265,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+c06d35c95e6a03c98dfc710cd1570d600b2399b9,"chore(i18n,learn): update i18n-curriculum submodule (#64612)",2025-12-15T15:49:29Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+6e838b80822a318f9314f01c168c091670c1f10a,fix(curriculum): Update description in Shortest Path Algorithm Step 2…,2025-12-15T15:26:42Z,1,2,tanishmundra-codes,freeCodeCamp,freeCodeCamp
+eb82f97d03dbce91a84342b7c0077de7a4db8f0d,feat(curriculum): add html boilerplate to bookstore workshop (#63743),2025-12-15T15:19:52Z,20,739,shokuyansh,freeCodeCamp,freeCodeCamp
+83784763ff7efdfade1f6a93cdbe419bf7b42a22,fix(curriculum): add missing Pinyin to chapter 3 module 2 (#64596),2025-12-15T14:22:20Z,2,4,huyenltnguyen,freeCodeCamp,freeCodeCamp
+5ba10489723092707e1ba2257867821fe505cce3,feat(curriculum): Add A1 Chinese Chapter 3 Module 1 (#62780),2025-12-15T14:22:07Z,69,5862,miyaliu666,freeCodeCamp,freeCodeCamp
+78b430c19788897cccfc95195f20b727a5b4f8ee,refactor(client): simplify checks to see if a user has a certificatio…,2025-12-15T14:17:35Z,3,107,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+d828d5a076e558d16e280eb21957e5a1249c0f56,fix(curriculum): add data types explanation for python lesson (#64541),2025-12-15T14:00:21Z,1,14,pdtrang,freeCodeCamp,freeCodeCamp
+209b0f01d1c19cda569abd36ff9a68615756286f,fix(curriculum): remove ellipsis from Pinyin in zh-a1 challenge (#64602),2025-12-15T11:22:59Z,1,2,ItsYash1421,freeCodeCamp,freeCodeCamp
+001f884e214da144da7913049db478cc7afee071,fix(api): always use the same logic when saving challenges (#64553),2025-12-15T11:22:19Z,3,28,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+6fc07e356173fb7cc889cebf27c3d19930a0d587,refactor(client): manually generate webmanifest (#64529),2025-12-15T10:27:02Z,16,425,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+f3b6b60089861f0730dcced53bd5b8224e3e642a,fix(client): increase font size and spacing for Chinese text (#64388),2025-12-15T08:48:53Z,1,11,huyenltnguyen,freeCodeCamp,freeCodeCamp
+25e292901d946d4b94c3ac4a10d9ea3ef2144cca,fix(curriculum): remove average calculations from workshop-recipe-tra…,2025-12-15T04:43:40Z,15,894,l3onhard,freeCodeCamp,freeCodeCamp
+30f6f714c23d7f0e40b7804fae91d3bbc0d36884,fix(curriculum): updated undefined in empty arrays lesson (#64319),2025-12-15T03:07:54Z,1,63,carnegieJiang,freeCodeCamp,freeCodeCamp
+e2a0145189e2710fda6b68f6c8853211020bb16a,fix(curriculum): add explanation for double curlies syntax in React i…,2025-12-15T03:05:53Z,1,2,lijack04,freeCodeCamp,freeCodeCamp
+6d86b80cddb5f64633586308b5780cbb60fb8b53,fix(curriculum): update `What Is the Difference Between content-box a…,2025-12-15T03:02:29Z,1,53,pdtrang,freeCodeCamp,freeCodeCamp
+8e861141dd4bcaecb0ad7a437971fc215c24714f,fix(curriculum): improve explanation of chained pseudo-classes (#64489),2025-12-15T02:55:43Z,1,5,alifarooqi,freeCodeCamp,freeCodeCamp
+246368a086f61dd3d3d6fef3c18ee67f4f625640,fix(curriculum): add length check to Media Catalogue step 40 (#64594),2025-12-15T02:22:08Z,1,2,FlipTrick720,freeCodeCamp,freeCodeCamp
 6836c5ded682e590536955c8b968b025608fb6b0,fix(curriculum): correct grammar in React state and hooks review (#64…,2025-12-15T00:08:19Z,1,4,CODEkuldeep,freeCodeCamp,freeCodeCamp
 0cd88a07f87ef08e184d31b4245d17b810edfd69,feat(curriculum): release A1 Spanish (#64519),2025-12-14T18:48:04Z,41,121,nieldakarla,freeCodeCamp,freeCodeCamp
 8c02cd8ed0b0e99372f431769ddfaf9eddc11912,"chore(i18n,learn): update i18n-curriculum submodule (#64570)",2025-12-14T18:31:37Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
@@ -1091,8 +1117,3 @@ fbf6bf2bcddbe5b95fe02d8afb48f790cb0730ec,fix(curriculum): rework variable declar
 881dfd8f7890e72f2518f026a53cbd9f158d94a5,refactor: client jest -> vitest (#62177),2025-09-16T06:30:06Z,86,2048,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 c7354cff89e4e4f7a20d1732a2363568e190ed8d,feat(curriculum): daily challenges 55-62 - Oct 4-11 (#62225),2025-09-16T06:28:10Z,19,1554,moT01,freeCodeCamp,freeCodeCamp
 df1c226cc608cbc69eb730b7a2a8fad186957f7f,feat(curriculum): add git and GitHub lectures (#62116),2025-09-16T02:04:15Z,22,3127,moT01,freeCodeCamp,freeCodeCamp
-75e825d5fa2b6dc2d516a095cd6188567bac871e,Feat(Curriculum): Implement Chapter Based Layout to A1 Spanish (#62190),2025-09-15T19:39:48Z,24,647,nieldakarla,freeCodeCamp,freeCodeCamp
-954117ce5e951fa7e340b56525bce0e51261a5cd,chore(tools): display chapters in challenge editor (#62050),2025-09-15T14:30:13Z,21,680,a2937,freeCodeCamp,freeCodeCamp
-eb2c74b4e6f29726a5c25deaae6ac0517deb74e9,"chore(i18n,client): processed translations (#62221)",2025-09-15T14:01:01Z,20,926,camperbot,freeCodeCamp,freeCodeCamp
-d631c760875caf1655651efa01378fd551ce4965,feat: ab test for independent lowerjaw under editor (#61269),2025-09-15T07:29:24Z,4,78,ahmaxed,freeCodeCamp,freeCodeCamp
-8e8a813365408e6570ef48d6a703c23c37986b5c,fix(curriculum): typo in language feedback (#62214),2025-09-15T03:51:39Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
