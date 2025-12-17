@@ -1,4 +1,24 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+faf0fe5c78e35a1f2dd83bc9b1cc7f7c4201ebac,fix(curriculum): add missing pinyin to Understanding the Greetings an…,2025-12-16T23:24:15Z,3,8,ANKANJAGTAP,freeCodeCamp,freeCodeCamp
+d52f72ddc5ea4d2658c8ee1afd19171676aeed74,fix(curriculum): add Chinese full stop to example sentence (#64673),2025-12-16T23:13:19Z,1,2,damodarlokapure,freeCodeCamp,freeCodeCamp
+734e4a6a180acbdd88f3f370834450129b4f8830,refactor(curriculum): remove Pinyin Review and Pinyin Quiz blocks (#6…,2025-12-16T22:27:55Z,2,118,huyenltnguyen,freeCodeCamp,freeCodeCamp
+1610d30cf89409c3263b425264004a950c84c132,feat(curriculum): Add Chinese pinyin audio from the CDN and update au…,2025-12-16T21:50:58Z,95,205,miyaliu666,freeCodeCamp,freeCodeCamp
+e8acdca2dba9ec70888d7aa8f96d1a1252b8ca39,feat(curriculum): Add A1 Chinese Chapter 2 (#63505),2025-12-16T19:47:48Z,181,7080,miyaliu666,freeCodeCamp,freeCodeCamp
+6475180ab8d3aa972368c9ed543ead9439e7ae7c,"fix(curriculum,client): rename Chapter 1 of A1 Chinese (#64660)",2025-12-16T19:39:12Z,2,4,pdtrang,freeCodeCamp,freeCodeCamp
+ef834beffee095371440d605e7e94db18bc9c07c,"fix(curriculum): missing Chinese punctuation mark in ""Understanding t…",2025-12-16T19:24:17Z,1,2,EduardoRangelG,freeCodeCamp,freeCodeCamp
+be68b23dd1c09cbe36e47e60b407ac5794d4078b,fix(curriculum): typo in step 19 of superhero application form (#64651),2025-12-16T17:26:13Z,1,2,bdtripp,freeCodeCamp,freeCodeCamp
+970bed7aea4953c97bcf9424e55c68d51ac76864,test: more robust signed out detection (#64654),2025-12-16T15:00:06Z,1,4,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+5b9bdc0e932d9ed8ba0afd7b9dae30ab95d2bca5,fix(curriculum): remove English comparison from learn greetings (#64650),2025-12-16T13:27:25Z,1,2,estefaniacn,freeCodeCamp,freeCodeCamp
+7488b97743aea15c471c5bbda87fd94ac20d3ec3,"chore(i18n,learn): update i18n-curriculum submodule (#64642)",2025-12-16T13:24:12Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+4ad8101ae03d13313ea198ff8799d11fdb20e71e,feat(curriculum): add Working with npm Scripts theory block (#64221),2025-12-16T13:23:28Z,8,1154,majestic-owl448,freeCodeCamp,freeCodeCamp
+060a23f2d3f36232e8d83c68f17b9627be98944b,fix(curriculum): update A1 chinese blocknames (#64646),2025-12-16T12:42:02Z,70,136,Sembauke,freeCodeCamp,freeCodeCamp
+1cf69d61dab36ec20fca3f7ac16dcedceff987ee,test(e2e): stop checking no. of sign-in buttons (#64648),2025-12-16T12:15:23Z,1,6,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+50a85f6683e4894ee4e3cbc8955c52516d06be61,fix(api): stop redirecting after signout (#64616),2025-12-16T12:13:37Z,4,42,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+3bdf64b4e7ed653986827aa6646a80d98fa4bac9,fix: delete/reset modal - stop passing event payloads (#64618),2025-12-16T12:12:29Z,2,8,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+2f38e4d0235d154f689e86341f7b435b4d2e5119,chore(curriculum): remove Pinyin review and quiz blocks from curricul…,2025-12-16T11:06:54Z,6,52,Sembauke,freeCodeCamp,freeCodeCamp
+065a2dcfd146674658fc5c19b8f7e9a5d830ff0a,feat: release b1 exam (#64643),2025-12-16T09:35:31Z,7,65,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+58b0c551243ef2e095a8bc158620ec4eae4945ee,fix(curriculum): Update column count test in Book Inventory App (#64620),2025-12-16T08:48:27Z,1,6,tanishmundra-codes,freeCodeCamp,freeCodeCamp
+09148e0cd9aadefad05da0a5cd06f7ce54a71fd8,chore(deps): upgrade @freecodecamp/ui to 5.0.1 (#64611),2025-12-16T07:55:06Z,2,163,huyenltnguyen,freeCodeCamp,freeCodeCamp
 142f6edc6b6e8ae1e75f72b1ff2b3e1990380c59,fix(curriculum): hanzi-pinyin format in Meeting New Teammates - task …,2025-12-15T23:45:36Z,2,6,huyenltnguyen,freeCodeCamp,freeCodeCamp
 a994fa054a124490bb7d1d25f024afe27a74d250,feat(curriculum): expand letter hint to mention Spanish keyboard (#64…,2025-12-15T22:38:24Z,1,2,estefaniacn,freeCodeCamp,freeCodeCamp
 7ca86fcb951c14650d48568f7523efefdc44b0df,fix(api): upsert moderation record on invalid attempt (#64635),2025-12-15T22:02:26Z,1,26,ShaunSHamilton,freeCodeCamp,freeCodeCamp
@@ -1071,7 +1091,7 @@ aee89b025be221f7fea3d56eb78f47ca4832e982,feat(curriculum): convert title case ch
 0f0d91f50fb6c70c5b991a32c9cdd9480baee01b,chore(tests): migrate shared folder to Vitests (#62270),2025-09-22T12:50:41Z,11,30,Sembauke,freeCodeCamp,freeCodeCamp
 2eab3662f51f1bb183b6d070ed75f2203e249872,feat(curriculum): convert search and replace challenge to lab (#62129),2025-09-22T12:43:29Z,5,141,zairahira,freeCodeCamp,freeCodeCamp
 ae6357fe43d6e29500fe0e660af3c9497e160f5c,fix(curriculum): add guidance and tests for lowercase HTML tags (#61875),2025-09-22T11:16:41Z,12,82,errantpianist,freeCodeCamp,freeCodeCamp
-428918f9668d42de1e0858b52b055772f578d3e7,fix(curriculum): typo fix in JavaScript Fundamentals (#62302),2025-09-22T11:08:32Z,1,2,VivekKavala,freeCodeCamp,freeCodeCamp
+428918f9668d42de1e0858b52b055772f578d3e7,fix(curriculum): typo fix in JavaScript Fundamentals (#62302),2025-09-22T11:08:32Z,1,2,Vivek Kavala,freeCodeCamp,freeCodeCamp
 de6da1ba7b18bb110f0c844705b8a3a10de80a69,fix(curriculum): Clarifiy the explanation of Python’s `//` (floor div…,2025-09-22T10:22:11Z,1,4,tawfiqkhalilieh,freeCodeCamp,freeCodeCamp
 d78024cce2840718c2496906d3a9f6a3ed8082af,feat(curriculum): adding graphs and trees quiz questions (#62264),2025-09-22T09:58:14Z,1,200,jdwilkin4,freeCodeCamp,freeCodeCamp
 8d1b3a67dfebebf8893f32b60936cbf1b14bb4da,fix(curriculum): revise user stories of Checkout Page lab  (#61819),2025-09-22T09:54:43Z,1,99,huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -1107,13 +1127,3 @@ a6d186a73d3d9831253c390cc4f5070a9cfbd66c,feat(curriculum): add media catalogue w
 7e81540d2ed2ae461e1447d35810ce8dfc84057d,fix(curriculum): make Theme Switcher click events bubble (#62234),2025-09-17T19:27:26Z,1,4,janni1288,freeCodeCamp,freeCodeCamp
 0ec12631e9f841a733de2e6c1c36c308a8ecc451,test(test): migrate from Mocha to Vitest (#62085),2025-09-17T19:11:50Z,15,1310,Sembauke,freeCodeCamp,freeCodeCamp
 a0c1876e368467a3b3222cdc69d2b7bbd0caf71b,"chore(i18n,client): processed translations (#62242)",2025-09-17T15:21:32Z,10,520,camperbot,freeCodeCamp,freeCodeCamp
-4ad144fc67d325262093b8a5e73a950e1ee5432e,fix(dev): preserve step order during hot reload by reloading all chal…,2025-09-16T18:09:40Z,2,144,niyati34,freeCodeCamp,freeCodeCamp
-3931ed159d272e9b1e614dd0af66ba6f9f3ab857,feat(curriculum): add lectures for rest parameter syntax and argument…,2025-09-16T17:17:22Z,6,455,jdwilkin4,freeCodeCamp,freeCodeCamp
-91e4c05b9fba3ec1322eb9836a567376822a3eb6,fix(api): handle termination signals (#61171),2025-09-16T14:37:09Z,1,11,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-b80b849058e92ccd99d948903289938ecb601dfb,fix: indentation error reporting (#62182),2025-09-16T14:36:42Z,2,61,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-dc0d39c548a7bd9094f0d6096f16664332808765,fix(curriculum): Casing typo in JavaScript quiz (#62217),2025-09-16T10:30:00Z,2,8,Supravisor,freeCodeCamp,freeCodeCamp
-054d2448faa24c7b21e2f918c442700b83c1d296,fix(tools): insert step with appropriate challenge type (#62179),2025-09-16T07:50:25Z,5,69,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-fbf6bf2bcddbe5b95fe02d8afb48f790cb0730ec,fix(curriculum): rework variable declarations in Greeting Bot worksho…,2025-09-16T06:41:49Z,12,105,Supravisor,freeCodeCamp,freeCodeCamp
-881dfd8f7890e72f2518f026a53cbd9f158d94a5,refactor: client jest -> vitest (#62177),2025-09-16T06:30:06Z,86,2048,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-c7354cff89e4e4f7a20d1732a2363568e190ed8d,feat(curriculum): daily challenges 55-62 - Oct 4-11 (#62225),2025-09-16T06:28:10Z,19,1554,moT01,freeCodeCamp,freeCodeCamp
-df1c226cc608cbc69eb730b7a2a8fad186957f7f,feat(curriculum): add git and GitHub lectures (#62116),2025-09-16T02:04:15Z,22,3127,moT01,freeCodeCamp,freeCodeCamp
