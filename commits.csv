@@ -1,4 +1,25 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+408290e0fbf146267a9c456e6b1be32098ccf023,fix(curriculum): improve lang type in file-handler script (#64789),2025-12-19T21:42:31Z,1,7,pdtrang,freeCodeCamp,freeCodeCamp
+b53d715704503cc729f640cc499244b331567cde,fix(client): fix speaking-modal showing span tags (#64759),2025-12-19T20:42:51Z,3,51,DanielRosa74,freeCodeCamp,freeCodeCamp
+c147f726f53cfa0e78ff3d7a199df5108b83c367,fix(curriculum): update CSS Grid review summary to include missing co…,2025-12-19T19:18:35Z,1,2,alifarooqi,freeCodeCamp,freeCodeCamp
+b25ede0089f90827cef09be91aeb17c89c069a93,fix(curriculum): issues in chapter 3 (#64784),2025-12-19T18:53:10Z,4,10,huyenltnguyen,freeCodeCamp,freeCodeCamp
+07cf4d4c8f5ab1803e9ffc585fa401018415d8c5,fix(curriculum): Altered the structure of a sentence to make it grama…,2025-12-19T18:49:36Z,2,4,Roxicaro,freeCodeCamp,freeCodeCamp
+46711cdaa7af0c009548fd4c73cbd0d1d5e7094f,fix(curriculum): A1 professional Chinese simple finals QA review (#64…,2025-12-19T18:41:51Z,7,32,estefaniacn,freeCodeCamp,freeCodeCamp
+299c5995a5505ec2633340b8946ad00cbcb69c9d,fix(curriculum): improve explanation for Compound Finals - task 24 (#…,2025-12-19T18:18:50Z,1,2,huyenltnguyen,freeCodeCamp,freeCodeCamp
+e2fe4766866401fc60a53b774fc1f320b3a823b9,fix(curriculum): restructure python basics module (#64700),2025-12-19T17:23:26Z,28,1289,Dario-DC,freeCodeCamp,freeCodeCamp
+b8e09e3b9aaadf2d9995f2ab49357ca65c5b972d,fix(curriculum): Update greetings and introductions dashed name (#64779),2025-12-19T17:10:27Z,1,4,nieldakarla,freeCodeCamp,freeCodeCamp
+a8cf71f76b89ea3152bd36c852b59ace1c5c4e33,fix(curriculum): change the single finals block name to simple finals…,2025-12-19T16:56:26Z,18,16,miyaliu666,freeCodeCamp,freeCodeCamp
+bd60787df6590b7f63c853f6ef4624e73ff33435,fix(curriculum): change compound finals task scenes background (#64777),2025-12-19T16:16:50Z,39,78,estefaniacn,freeCodeCamp,freeCodeCamp
+86c56e7bb9722e0596df7b5052e9f7bbb6c57667,fix(curriculum): A1 professional Chinese initials QA updates (#64774),2025-12-19T16:04:31Z,7,18,estefaniacn,freeCodeCamp,freeCodeCamp
+655dde215b1342ae9056a5d78f625676980de739,fix(curriculum): A1 professional Chinese compound finals QA updates (…,2025-12-19T16:01:33Z,5,24,estefaniacn,freeCodeCamp,freeCodeCamp
+0aac9c28d21f85993d77fd3ec92428d62c90ca28,feat(curriculum): add pricing plan lab to FSD cert (#62562),2025-12-19T15:19:43Z,5,453,mtrivera,freeCodeCamp,freeCodeCamp
+49ff43bba65ff2a1d4c4746faded2a87b42094a9,fix(curriculum): typos in parent teacher conference form workshop (#6…,2025-12-19T14:11:09Z,3,6,bdtripp,freeCodeCamp,freeCodeCamp
+0dc64305b940605cadddd1e55ae77e867f4a6331,fix(curriculum): reorder heart icon workshop steps to show heart soon…,2025-12-19T14:05:59Z,4,174,lijack04,freeCodeCamp,freeCodeCamp
+bf952f4c04af33640faf8fd355b1b309a1d70a5c,fix(curriculum): update A1 Chinese pinyin chapter based on QA feedbac…,2025-12-19T13:59:22Z,44,123,miyaliu666,freeCodeCamp,freeCodeCamp
+fd6c9375417277cf5f88aaa62ef78b99b385f6af,fix: remove stray console.log from SpeakingModal (#64771),2025-12-19T13:24:31Z,1,2,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+dddbe85682ba10ef52424bfbdd654388d57cd553,feat(curriculum): Add interactive examples to to static properties an…,2025-12-19T11:23:17Z,1,79,clarencepenz,freeCodeCamp,freeCodeCamp
+fc361c3dfeaa1b99349d38fe970a3a8ad4f86598,test: ignore url after deleting account (#64750),2025-12-19T07:29:48Z,1,9,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+229e539c1bfd56cf00ed4743a71fc28ae16c4b0d,fix(curriculum): add validation test for filteredBooks release year (…,2025-12-19T02:46:58Z,1,22,kannan-ravi,freeCodeCamp,freeCodeCamp
 cb6669fb8eb2a1a3d12b35c1b2107d6afd3f3609,"fix(curriculum): QA A1 Chinese Ch 2 blocks Nasal Sounds, Special Char…",2025-12-18T22:01:47Z,3,58,nieldakarla,freeCodeCamp,freeCodeCamp
 b404883428f5eb9d99a2b3db4c3534ab04ac20e1,fix(curriculum): remove paragraph on bitwise operators in Augmented A…,2025-12-18T20:07:27Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
 8defca5b978716fce86d9a333d68ae809bab23da,feat(curriculum): Add A1 Chinese curriculum pinyin practice block (#6…,2025-12-18T17:57:08Z,10,977,miyaliu666,freeCodeCamp,freeCodeCamp
@@ -1153,22 +1174,3 @@ ad098e2fba2535aa8efec0341df928ca9251a753,feat(curriculum): add wherefore art tho
 ccfcca1f4670cf57965c36692c661d7b0057d509,fix(curriculum): typo in workshop description (#62295),2025-09-21T21:06:14Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 66e8c98867e91b9b5585620aa7268bc023b89f39,fix(curriculum):  typo in workshop media catalogue (#62283),2025-09-21T15:10:27Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
 3b756676c49c91ada07f5a7b363e54cdd3a29ee7,fix(curriculum): format code blocks in quiz answers (#62282),2025-09-20T17:53:34Z,1,8,JatinMehta007,freeCodeCamp,freeCodeCamp
-4af015a08ffe3aae6474eaa6ba1be6b8a36c14f6,fix(curriculum): typo in daily challenge (#62235),2025-09-20T00:15:20Z,2,6,moT01,freeCodeCamp,freeCodeCamp
-ee8e7504937a4cf2b2e27ce2fb830c7ff29b58ae,fix(tools): typo in error message (#62208),2025-09-20T00:13:39Z,2,4,nithya-kala,freeCodeCamp,freeCodeCamp
-9f410666e6b4200c2d69016387a4f3370d369723,fix(challenge-helper-scripts): make `create-language-block` support c…,2025-09-19T20:36:49Z,1,220,huyenltnguyen,freeCodeCamp,freeCodeCamp
-e9cf3b35be5dc35a54a3b47a960c429c8f67ae55,feat(curriculum): add Create a Deep Flattening Tool lab (#62216),2025-09-19T20:08:31Z,5,135,majestic-owl448,freeCodeCamp,freeCodeCamp
-57415e2a11b4021c5a2058f67c59a378edf8e53f,fix: skip upcoming superblocks in normal builds (#62263),2025-09-19T17:40:06Z,3,117,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-243678e4348ca59bc48f83edcc1e000cae0d9870,test: handle meta validation errors (#62274),2025-09-19T17:39:12Z,1,10,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-c6498cf0b428dea8df4da1f6a69a42a544a1d38d,refactor: remove invariant (#62275),2025-09-19T17:36:20Z,6,53,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-56c34a3bd6b988df8b1ef60ba9479bc9c71af14e,fix: change 'of' to 'or' in this Python lecture (#62277),2025-09-19T16:56:36Z,1,2,ENAwareness,freeCodeCamp,freeCodeCamp
-8672be653ab0cdcee45267e40f053738e5eed8ac,fix(curriculum): typo in daily coding challenges py (#62273),2025-09-19T16:13:47Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
-80f8b6ffcd07210e2be2d2d7dfe812985ffff43f,fix(curriculum): allow spaces in book catalog table lab inside elemen…,2025-09-19T12:47:09Z,1,10,majestic-owl448,freeCodeCamp,freeCodeCamp
-2e5d3e86e8049f56864e0a4684c03f83783b3293,fix(curriculum): allow spaces in travel agency page (#62259),2025-09-19T12:46:00Z,1,8,majestic-owl448,freeCodeCamp,freeCodeCamp
-74f663b8f1714c68f9a5828c7415c567c0d5d9c1,fix: allow spaces around text content of elements in workshop blog pa…,2025-09-19T12:45:29Z,5,14,majestic-owl448,freeCodeCamp,freeCodeCamp
-adf8b1644e33e0ae3777ee9c561f862a6579736d,fix: allow spaces around element content in workshop hotel feedback f…,2025-09-19T12:44:20Z,10,40,majestic-owl448,freeCodeCamp,freeCodeCamp
-dc5a75fbc38214c46bac768dccb611e9af07118f,fix(curriculum): add generate-btn click to sort-btn test (#62252),2025-09-19T10:09:33Z,1,2,happypepii,freeCodeCamp,freeCodeCamp
-39164ca87f2cbd28564a533d77de42d4553f22a2,fix: ensure daily challenge tests run (#62260),2025-09-19T08:48:29Z,1,87,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-3a41a6137a31a99141d24196a48cf4f93ed46f82,feat: find closest matching block and superblock for testing (#62089),2025-09-19T08:25:40Z,5,404,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-bdccefef08c4ac4e380919f9a944ea403db63d06,refactor(challenge-helper-scripts): remove superBlock field from base…,2025-09-19T08:00:36Z,1,2,huyenltnguyen,freeCodeCamp,freeCodeCamp
-bed3811952941059488dc19e803128a2b248065b,feat(api): migrate to esm (#61915),2025-09-19T07:58:06Z,240,1280,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-68614b43a98e98344c35914a783c357554e40018,chore(tools): migrate scripts/lint test to vitest (#62265),2025-09-19T07:46:06Z,6,98,huyenltnguyen,freeCodeCamp,freeCodeCamp
