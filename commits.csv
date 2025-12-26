@@ -1,4 +1,5 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+a55a0da50421aefa4e2de64a1b774f6da3824786,fix(curriculum): fix typo from choise to choice (#64892),2025-12-25T21:00:57Z,1,2,Giftea,freeCodeCamp,freeCodeCamp
 287d2b4e29e93dcbee16dcd0d4eacf771c12a3a8,fix(curriculum): convert numbers to strings in lecture-working-with-n…,2025-12-24T17:29:54Z,1,8,Kumari040,freeCodeCamp,freeCodeCamp
 a33b6898ed9cf2d2663921ad436dfa6ebbe2b24b,fix(curriculum): change amd to and in task 62 (#64884),2025-12-24T17:09:07Z,1,2,prashantsingh1122,freeCodeCamp,freeCodeCamp
 f7a3c0904d9529f8fd4c92a6fda872e040372da4,"chore(i18n,learn): update i18n-curriculum submodule (#64887)",2025-12-24T17:08:06Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
@@ -1153,15 +1154,3 @@ b6b2d8ad548a3dc745cac03e42b35a21205879ae,fix: updates to A2 english curriculum b
 c4a4abe487f3984eaedf87f9465c039f2a4fb710,fix(tools): allow more chapter based superblocks (#62203),2025-09-26T06:04:45Z,2,71,a2937,freeCodeCamp,freeCodeCamp
 047a268e383a577ad2d5aa79199670dd24f62a8c,fix(client): fake sign in after donating (#61710),2025-09-26T06:00:41Z,3,36,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 2923cf7331a5828c8d8cf74ac73d7fe2fb5c1864,fix(curriculum): correct casing of JavaScript (#62369),2025-09-26T04:19:42Z,2,4,pdtrang,freeCodeCamp,freeCodeCamp
-1f8acc6df57d5e4a0d48e28c619dd4e3d0ad58cd,feat (curriculum): add oop and encapsulation lectures (#62121),2025-09-25T20:00:31Z,7,1547,Ksound22,freeCodeCamp,freeCodeCamp
-35d05d2c0560c1f19ec98e0e189dbb13533b156b,feat(client): add exam attempts to exam-download page (#61361),2025-09-25T19:27:31Z,12,478,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-6c3bc14f52ebd7e0a895dba42915785c4a8b85bb,feat(curriculum): add Build an All-True Property Validator lab (#62198),2025-09-25T14:29:14Z,5,212,majestic-owl448,freeCodeCamp,freeCodeCamp
-57c515e230bcaa4a0ac5e438eb64ea00bff50e20,chore(curriculum): update rps-game instructions and hasPlayerWonTheRo…,2025-09-25T13:58:34Z,11,94,Giftea,freeCodeCamp,freeCodeCamp
-1a59985a51d60da19b22a225c0927ab8518273c5,fix(curriculum): Maintain getMode function consistency in steps 39 - …,2025-09-25T13:56:56Z,21,110,Giftea,freeCodeCamp,freeCodeCamp
-8a404bface758263f9f2a73160c7b5e1b47d8210,feat(curriculum): add musical instrument workshop (#61750),2025-09-25T13:45:46Z,17,777,zairahira,freeCodeCamp,freeCodeCamp
-6263791d2d558e74b33108bba0b0e2d337b5b102,fix(curriculum): update organises to organizes (#62359),2025-09-25T12:40:28Z,1,2,Giftea,freeCodeCamp,freeCodeCamp
-89bebfa39123de67a9c0dd5f39f7075b655b2155,fix(curriculum): add description for HTML snippet in Football Team Ca…,2025-09-25T10:18:38Z,1,2,ppl-call-me-tima,freeCodeCamp,freeCodeCamp
-bc58d9c40225cd706309bd00c5ff2dc7784d789a,fix(curriculum): rephrase the fillArrContainer description (#62356),2025-09-25T09:55:57Z,1,4,Ahm3rIjaz,freeCodeCamp,freeCodeCamp
-0bd86c02783523213b65237dbfd43a06f0f24596,fix(curriculum): correct formatting in Python print function lecture …,2025-09-25T08:33:39Z,1,6,ismaeeelxd,freeCodeCamp,freeCodeCamp
-c29dc53f1ac8145c10b2492d73afd97b406f5624,feat(curriculum): add odd Fibonacci sum calc challenge lab (#62271),2025-09-25T07:48:52Z,5,120,larymak,freeCodeCamp,freeCodeCamp
-945be2126f2b6e89297bd107f61b4fa7f2f3104a,"chore(i18n,client): processed translations (#62345)",2025-09-25T06:02:27Z,10,672,camperbot,freeCodeCamp,freeCodeCamp
