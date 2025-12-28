@@ -1,7 +1,13 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87dZHqP,64432,wrong question in CSS Variables Quiz,CLOSED,2025-12-10T09:30:58Z,2025-12-26T21:29:13Z,DeveloperViraj,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87gWoe_,64907,Build a Budget App has conflict between rounding requirement and test,OPEN,2025-12-26T21:27:17Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87bFj9i,64218,CSSHelp issue with `getStyleAny`,OPEN,2025-11-28T18:46:56Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87gZOO3,64913,CodeRoad terminal step does not advance despite correct command output,OPEN,2025-12-27T11:52:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X861ONli,60168,Lightbox Viewer lab tests,OPEN,2025-05-05T18:00:19Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87gYbtz,64910,"Is “+ modifier” correct in regex, or should it be called a “+ quantifier”?",OPEN,2025-12-27T07:10:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gWOor,64905,"Course content: Python, Understanding-object-oriented-programming-and-encapsulation/what-is-object-oriented-programming-and-how-does-encapsulation-work",OPEN,2025-12-26T19:46:41Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87gWoe_,64907,Build a Budget App has conflict between rounding requirement and test,OPEN,2025-12-26T21:27:17Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87gXYqQ,64908,Wrong Information about brightness in the CSS Layout and Effects Quiz,OPEN,2025-12-27T02:23:05Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87UWl1R,63169,"Add interactive examples to What Is JavaScript, and How Does It Work with HTML and CSS lesson",CLOSED,2025-10-28T17:46:10Z,2025-10-28T18:51:30Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87dZHqP,64432,wrong question in CSS Variables Quiz,CLOSED,2025-12-10T09:30:58Z,2025-12-26T21:29:13Z,DeveloperViraj,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gH8aX,64885,Unclear example of an absolute path,OPEN,2025-12-24T12:13:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gTcu8,64899,Trouble with FreeCodeCamp Exam Environment: EGL Display Issues,OPEN,2025-12-26T10:12:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87f97lO,64864,Quiz question wording is misleading in python certification - lecture-working-with-loops-and-sequences,OPEN,2025-12-23T14:24:28Z,,,freeCodeCamp,freeCodeCamp
@@ -229,7 +235,6 @@ I_kwDOAbI7X87dhRhS,64477,Steps for Setting up the Spanish Keyboard on Mobile Var
 I_kwDOAbI7X87dZLar,64436,typo in CSS Grid Review,CLOSED,2025-12-10T09:35:23Z,2025-12-10T18:45:20Z,Sahitya0805,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ZYmFt,63997,[Challenge helper scripts] Add script for renaming block,CLOSED,2025-11-20T12:37:23Z,2025-12-10T17:45:20Z,gikf,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87cu2tp,64358,color picker app (react) tests too strict,OPEN,2025-12-07T08:47:23Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87bFj9i,64218,CSSHelp issue with `getStyleAny`,OPEN,2025-11-28T18:46:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87arohm,64175,Balance sheet workshop uses 'magic' width settings with no explanation,OPEN,2025-11-26T19:56:12Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87PbyoU,62472,Reset button restores saved code from previous version of cert project,OPEN,2025-10-03T07:55:27Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87bKYrU,64224,Redundancies in a passage for HTML abbreviations lesson,CLOSED,2025-11-29T17:13:00Z,2025-12-04T18:33:48Z,pdtrang,freeCodeCamp,freeCodeCamp
@@ -404,7 +409,6 @@ I_kwDOAbI7X864GctH,60516,[Curriculum]- New Tool feature; chai-ify in challenge e
 I_kwDOAbI7X862tl3F,60366,Session Recordings Common UX issues.,CLOSED,2025-05-15T08:27:13Z,2025-11-21T21:25:09Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X862Guty,60282,Chromium's audio restrictions mess up Build a Drum Machine lab,CLOSED,2025-05-11T20:55:19Z,2025-11-21T21:21:37Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8619VF2,60257,Debugging Techniques: How Does the Debugger Statement Work?,CLOSED,2025-05-09T17:19:34Z,2025-11-21T21:19:23Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861ONli,60168,Lightbox Viewer lab tests,OPEN,2025-05-05T18:00:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861DFku,60142,"Add Search Suggestions for Articles, Tutorials, and Books",OPEN,2025-05-03T16:06:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85RXI65,47464,Add Per-Module Progress Reset,OPEN,2022-09-07T18:12:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86lM1S6,57972,Inconsistency in the `completedDate` value returned,CLOSED,2025-01-06T23:18:09Z,2025-11-21T20:36:54Z,,freeCodeCamp,freeCodeCamp
@@ -773,7 +777,6 @@ I_kwDOAbI7X87UXH7Y,63171,"Add interactive examples to What Are Variables, and Wh
 I_kwDOAbI7X87UVLVE,63148,Add interactive examples to How Can You Create Flexible Grids with the fr Unit? lesson,CLOSED,2025-10-28T16:12:20Z,2025-10-28T18:57:39Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UVFWr,63147,"Add interactive examples to What Is CSS Grid, and How Does It Differ from Flexbox? lesson",CLOSED,2025-10-28T16:06:32Z,2025-10-28T18:54:16Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UVOoZ,63150,Add interactive examples to How Can You Create Gaps Between Tracks in a Grid? lesson,CLOSED,2025-10-28T16:15:30Z,2025-10-28T18:52:53Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87UWl1R,63169,"Add interactive examples to What Is JavaScript, and How Does It Work with HTML and CSS lesson",CLOSED,2025-10-28T17:46:10Z,2025-10-28T18:51:30Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UVlen,63155,Add interactive examples to How Can You Position Items on the Grid Using the grid-template-areas Property? lesson,CLOSED,2025-10-28T16:38:22Z,2025-10-28T18:41:03Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UWQGk,63166,Update JS data types lesson,CLOSED,2025-10-28T17:23:20Z,2025-10-28T18:12:51Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UVj5I,63154,Add interactive examples to How Do the grid-column and grid-row Properties Work? lesson,CLOSED,2025-10-28T16:36:41Z,2025-10-28T18:08:35Z,clarencepenz,freeCodeCamp,freeCodeCamp
@@ -1035,5 +1038,3 @@ I_kwDOAbI7X87OxwZg,62419,Move Computer Basics to HTML instead of CSS,CLOSED,2025
 I_kwDOAbI7X87OoZdR,62415,beginner-friendly crypto tutorial,CLOSED,2025-09-29T21:35:06Z,2025-09-29T22:16:19Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87OggVb,62409,Preview of example code in lectures,CLOSED,2025-09-29T11:52:31Z,2025-09-29T13:49:02Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87N7H5F,62368,[bug] `GET /exam-environment/exam-challenge` with no query params returns collection,CLOSED,2025-09-25T19:26:35Z,2025-09-29T13:26:30Z,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86AOJ1V,53836,JavaScript Algorithms and Data Structures (Beta) - Certification Projects - Directing campers away from incorrect solution,CLOSED,2024-02-23T14:21:25Z,2025-09-27T06:59:58Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87OL-yw,62386,Minor typo fixes in Working with the DOM lecture,CLOSED,2025-09-26T22:10:07Z,2025-09-27T04:58:49Z,swdev33,freeCodeCamp,freeCodeCamp
