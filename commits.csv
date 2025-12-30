@@ -1126,11 +1126,3 @@ dbe38ede57924ea61e47c8ea3315558829a9f913,fix(curriculum): typo and missing word 
 b60dc22ea20cdba0bbefcdcea169485536e904e1,feat(curriculum): add iframe video workshop (#62053),2025-09-30T08:41:45Z,12,504,Ksound22,freeCodeCamp,freeCodeCamp
 d7505e9833faa134768b72071cd35c326e444683,chore(client): remove daily challenge env variables (#62105),2025-09-30T06:47:38Z,7,38,moT01,freeCodeCamp,freeCodeCamp
 6e01904ce6a99fa46ba460f76c59ef9282b85c33,feat(curriculum): daily challenges 63-79 (#62367),2025-09-30T03:24:17Z,39,3034,moT01,freeCodeCamp,freeCodeCamp
-f55140c8959a159b05cfd3332c90b1c228dd41a1,fix: updates to A2 english curriculum block 2 (#61667),2025-09-29T20:13:31Z,113,992,anastasiiauk,freeCodeCamp,freeCodeCamp
-2633178598f998d0a0838a08d5ef06dcfbe424d1,chore(curriculum): removing welcome block from FSD cert (#62412),2025-09-29T17:35:00Z,8,597,jdwilkin4,freeCodeCamp,freeCodeCamp
-d690ff13ab27147dc70149d89aea588f07d0a6f4,"chore(i18n,client): processed translations (#62410)",2025-09-29T14:10:09Z,20,540,camperbot,freeCodeCamp,freeCodeCamp
-c7a8b183d3cba3917482c40fce960b32bd95630a,fix(api): 400 for exam-challenge route with no params (#62404),2025-09-29T13:26:29Z,2,20,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-20a77c44d02378f0baf7b066da8ec048954cf671,fix: updates to A2 english curriculum block 5 (#62026),2025-09-29T12:55:28Z,105,1783,anastasiiauk,freeCodeCamp,freeCodeCamp
-a7c71569c0bce8d3c529c8e01dc76238872a942a,feat(curriculum): add smallest common multiple lab (#62407),2025-09-29T12:26:14Z,5,130,larymak,freeCodeCamp,freeCodeCamp
-a627116efdbcfd434338592ccb1d68df7fc5c18f,fix(curriculum): typo in top introduction to flexbox challenge type 1…,2025-09-29T11:09:40Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-c9626fc86fd5ed948497ca0ac508ab7fe65120c7,feat(curriculum): add implement a Unique Sorted Union lab (#62226),2025-09-29T09:47:44Z,5,115,majestic-owl448,freeCodeCamp,freeCodeCamp
