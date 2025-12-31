@@ -1,4 +1,6 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+7f479c6824d196acc08069dc0762dd9b88aabd8b,fix(curriculum): correct numbers in selection sort example (#64920),2025-12-30T21:25:42Z,1,2,h-ram,freeCodeCamp,freeCodeCamp
+11ec8d4a9e3681bc7f2b52fc069595425f165f90,fix(curriculum): typo in city skyline workshop (#64921),2025-12-30T05:08:08Z,1,2,bdtripp,freeCodeCamp,freeCodeCamp
 113dcd6c1d78656b993c05b6fe5fe7d41a469946,fix(curriculum): replace ambiguous CSS variables quiz question (#64475),2025-12-26T21:29:11Z,1,20,DeveloperViraj,freeCodeCamp,freeCodeCamp
 a55a0da50421aefa4e2de64a1b774f6da3824786,fix(curriculum): fix typo from choise to choice (#64892),2025-12-25T21:00:57Z,1,2,Giftea,freeCodeCamp,freeCodeCamp
 287d2b4e29e93dcbee16dcd0d4eacf771c12a3a8,fix(curriculum): convert numbers to strings in lecture-working-with-n…,2025-12-24T17:29:54Z,1,8,Kumari040,freeCodeCamp,freeCodeCamp
@@ -1116,13 +1118,3 @@ e5ee7c61097e1212e56464b32dc2a8d2bf93201d,"chore(i18n,client): processed translat
 ba31773fcd60cc8e052fc1e13df8182464a2ebe4,chore(deps): update curriculum-helpers to v6 (#61399),2025-10-01T12:05:16Z,6,61,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 97d5d89d03e35575fe1ca9e4dc0450099638ef58,feat(Curriculum): Add Block Structure in Spanish Greetings and Introd…,2025-10-01T10:32:41Z,39,1354,nieldakarla,freeCodeCamp,freeCodeCamp
 67fc60785a65034bba0e7905f699e645bb80eaad,fix(curriculum): update digit length in Phone Number Formatter (2025-…,2025-10-01T08:41:00Z,2,4,JeevaRamanathan,freeCodeCamp,freeCodeCamp
-8cca7db4a3e841b5bbae60ee5f061230b267ac5b,feat(Curriculum):add Certification Introduction- 4 articles (#62424),2025-09-30T20:04:50Z,6,263,RafaelDavisH,freeCodeCamp,freeCodeCamp
-23ec4003a9479addd9d15634351ed8f8da6f89ae,fix(curriculum): change 'lecture' to 'theory' and 'lesson' (#62414),2025-09-30T17:59:12Z,469,2636,moT01,freeCodeCamp,freeCodeCamp
-58802c81129a11a7735e2262068de4161f75f5a6,refactor: remove before after user code (#59204),2025-09-30T16:41:16Z,7,240,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-8eab57a5488561aac7989816aea055605ca283cd,feat(curriculum): add graphs and trees review page (#62355),2025-09-30T13:24:31Z,1,127,larymak,freeCodeCamp,freeCodeCamp
-7347511393b86ed6c6463efec967f4faabc8374f,refactor(curriculum): replace $.ajax with fetch (#61425),2025-09-30T13:05:05Z,69,3750,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-dbe38ede57924ea61e47c8ea3315558829a9f913,fix(curriculum): typo and missing word (#62416),2025-09-30T12:15:56Z,2,6,Supravisor,freeCodeCamp,freeCodeCamp
-086454dc7b64841b76ac34ab5c4af11e8425c8f9,feat(curriculum): add linked list workshop (#61424),2025-09-30T09:22:01Z,28,1615,ihechikara,freeCodeCamp,freeCodeCamp
-b60dc22ea20cdba0bbefcdcea169485536e904e1,feat(curriculum): add iframe video workshop (#62053),2025-09-30T08:41:45Z,12,504,Ksound22,freeCodeCamp,freeCodeCamp
-d7505e9833faa134768b72071cd35c326e444683,chore(client): remove daily challenge env variables (#62105),2025-09-30T06:47:38Z,7,38,moT01,freeCodeCamp,freeCodeCamp
-6e01904ce6a99fa46ba460f76c59ef9282b85c33,feat(curriculum): daily challenges 63-79 (#62367),2025-09-30T03:24:17Z,39,3034,moT01,freeCodeCamp,freeCodeCamp
