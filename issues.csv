@@ -1,4 +1,13 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87g14Ge,64941,Markdown Italic Parser test cases function name has a typo,OPEN,2025-12-31T07:51:53Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87g3RWy,64945,Theme resets to light and login session is lost when opening C# challenges in a new tab,OPEN,2025-12-31T11:21:32Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87fitO9,64814,step 4 caesar cipher,OPEN,2025-12-20T21:05:01Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87g66fz,64953,README Translation Integration Feature,OPEN,2025-12-31T19:57:38Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87g13Y9,64940,Remove meta viewport requirement in step 3 of bookstore page,OPEN,2025-12-31T07:49:43Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87g2Uo1,64943,Grammatical Error in One of the Lectures of the Front End Development Libraries Certification,OPEN,2025-12-31T08:57:56Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87g1bTz,64939,Campers are unable to claim certifications despite meeting qualifications,OPEN,2025-12-31T06:29:03Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87gQhaA,64895,B1 English cert is missing from settings page,OPEN,2025-12-25T23:03:38Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87f97lO,64864,Quiz question wording is misleading in python certification - lecture-working-with-loops-and-sequences,CLOSED,2025-12-23T14:24:28Z,2025-12-31T05:13:17Z,zho00,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87f-RTj,64869,Break down string methods workshop and add it to main,OPEN,2025-12-23T14:57:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gvxza,64936,jsv9 Crie um Bot Informativo em JavaScript,OPEN,2025-12-30T16:01:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gvQTI,64935,python Implement the Depth-First Search Algorithm,OPEN,2025-12-30T15:06:59Z,,,freeCodeCamp,freeCodeCamp
@@ -6,7 +15,6 @@ I_kwDOAbI7X87UZp4I,63210,Dependency Dashboard,OPEN,2025-10-28T21:48:33Z,,,freeCo
 I_kwDOAbI7X87guYTv,64934,Valid solution doesn't pass test in step 109 of city skyline workshop,OPEN,2025-12-30T13:46:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87glQZX,64930,key_set scope issue,OPEN,2025-12-29T16:47:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gd5JC,64923,Incomplete instructions in step 6 of the „Build a Shopping List“ workshop,OPEN,2025-12-28T19:20:28Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87gQhaA,64895,Claiming Language Certs,OPEN,2025-12-25T23:03:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fgeg-,64798,Mobile scrolling issue in JavaScript editor on Chrome Android,OPEN,2025-12-20T09:12:20Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gcTtt,64918,"Hyperlinks for courses under ""Recommended curriculum (still in beta):""  not working",OPEN,2025-12-28T09:55:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ggbIB,64924,Test case erroneously passes for Screaming Snake Case coding challenge,OPEN,2025-12-29T06:55:56Z,,,freeCodeCamp,freeCodeCamp
@@ -24,7 +32,6 @@ I_kwDOAbI7X87UWl1R,63169,"Add interactive examples to What Is JavaScript, and Ho
 I_kwDOAbI7X87dZHqP,64432,wrong question in CSS Variables Quiz,CLOSED,2025-12-10T09:30:58Z,2025-12-26T21:29:13Z,DeveloperViraj,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gH8aX,64885,Unclear example of an absolute path,OPEN,2025-12-24T12:13:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gTcu8,64899,Trouble with FreeCodeCamp Exam Environment: EGL Display Issues,OPEN,2025-12-26T10:12:09Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87f97lO,64864,Quiz question wording is misleading in python certification - lecture-working-with-loops-and-sequences,OPEN,2025-12-23T14:24:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gP3n2,64893,Wrong SQL query in Working with Relation Databases - How Do You Insert and View Data in a Table?,OPEN,2025-12-25T18:18:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gO32g,64891,Can't log into free code camp on my Mac,OPEN,2025-12-25T13:18:20Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87f8h9a,64860,Introduction to Python - Errors and Missing Info,OPEN,2025-12-23T12:16:19Z,,,freeCodeCamp,freeCodeCamp
@@ -60,7 +67,6 @@ I_kwDOAbI7X87fpDot,64830,Refactor tests to use fixtures instead of inline string
 I_kwDOAbI7X87e6xU8,64716,Create Count up Workshop,OPEN,2025-12-17T18:16:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87e6ypA,64717,Migrate Countdown Lab,OPEN,2025-12-17T18:17:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ea0MK,64627,Create a prototype for Python functions workshop,OPEN,2025-12-15T17:22:08Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87fitO9,64814,step 4 caesar cipher,OPEN,2025-12-20T21:05:01Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fuBLu,64837,Remove `basic-css.spec.ts`,CLOSED,2025-12-22T11:11:01Z,2025-12-22T12:19:27Z,zho00,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fuMYa,64838,Replace archived challenge links in `bread-crumb` test,CLOSED,2025-12-22T11:26:40Z,2025-12-22T12:08:27Z,zho00,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ft2wM,64835,Replace archived challenge links in Playwright tests,OPEN,2025-12-22T10:57:59Z,,,freeCodeCamp,freeCodeCamp
