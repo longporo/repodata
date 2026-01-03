@@ -1,4 +1,18 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+7d58ef2062b457d9370a7f730fc875f92ad28a80,fix(curriculum): remove meta viewport requirement from bookstore page…,2026-01-02T14:24:24Z,17,32,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+706d62864150f0e5590c9cc905e4f03547018a45,fix(curriculum): refer to + as a quantifier in step 32 of Calorie Cou…,2026-01-02T14:15:43Z,1,6,lakshay122007,freeCodeCamp,freeCodeCamp
+5772ad6a12a8ea3df4c0aa29c20b82120393b77e,feat(curriculum): add HTML video player project to FSD cert (#62866),2026-01-02T13:06:41Z,17,850,mtrivera,freeCodeCamp,freeCodeCamp
+cbb51972a923bb012b7c0e839859d5fe286cd249,"chore(i18n,learn): update i18n-curriculum submodule (#64947)",2026-01-02T11:22:41Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+2ee7c05544ea208acfac0730ece64823535f152d,fix(curriculum): correct attribute mismatch in step 109 of City Skyli…,2026-01-02T11:19:13Z,1,2,lakshay122007,freeCodeCamp,freeCodeCamp
+710c793c7b3e09b4a002ccae6a6f1f719fddd23a,"chore(i18n,client): processed translations (#64927)",2026-01-02T11:17:58Z,10,60,camperbot,freeCodeCamp,freeCodeCamp
+05785aec7fcffa827f69bf64b4ee9602bd59bdc6,fix(curriculum): clarify email confirmation message (#64867),2026-01-02T10:49:51Z,1,2,DeveloperViraj,freeCodeCamp,freeCodeCamp
+3a95f9833511f2b47bf9180d30e668b7463d0cad,fix(curriculum): Fix incorrect test assertion in SCREAMING_SNAKE_CASE…,2026-01-02T10:35:49Z,1,2,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+09dff5b433cabd81dee710bc28eccf80fb30c7c8,fix(curriculum): typo in what is memoization and how does the useMemo…,2026-01-02T10:16:39Z,1,2,bdtripp,freeCodeCamp,freeCodeCamp
+bffbdcd90a2aa15c70ac5f45d92bb8c79fca99c8,"fix(curriculum): typo in react forms, data fetching and routing revie…",2026-01-02T10:16:07Z,2,4,bdtripp,freeCodeCamp,freeCodeCamp
+679ba978a18667e3ee8f8ffc0935fc7241aebbed,fix: Grammatical error in one of the lecture of Front End Development…,2026-01-02T10:12:28Z,1,2,shaszz,freeCodeCamp,freeCodeCamp
+d1dca406a3f3b250c9ef2dfcb28b863fc5df1d28,fix(curriculum): missing b1 cert from settings page (#64938),2026-01-02T10:12:04Z,9,20,jdwilkin4,freeCodeCamp,freeCodeCamp
+d39e4d29f4efe27b50cb7c0ad6ab1380f082da17,fix(curriculum): fix typo from indentified to identified (#64957),2026-01-02T09:53:22Z,1,2,Giftea,freeCodeCamp,freeCodeCamp
+fe1256b2d67a1b5d17d25736cf13cb9238c2b24a,fix(curriculum): specify which rounding in Budget App (#64917),2026-01-02T07:58:28Z,1,2,shivansh31414,freeCodeCamp,freeCodeCamp
 6ec4ac52c39ea04f8c827cf7c4ff29f42c9fd374,fix: typo in Markdown Italic Parser (#64942),2026-01-01T16:15:45Z,1,10,WongYC-66,freeCodeCamp,freeCodeCamp
 a58cad8e0d81cbb348896cb92ae2f18dc8bb49bc,fix(curriculum): misleading question wording (#64873),2025-12-31T05:13:16Z,1,2,zho00,freeCodeCamp,freeCodeCamp
 7f479c6824d196acc08069dc0762dd9b88aabd8b,fix(curriculum): correct numbers in selection sort example (#64920),2025-12-30T21:25:42Z,1,2,h-ram,freeCodeCamp,freeCodeCamp
@@ -1104,12 +1118,3 @@ eac87fb5ac750ab04a6644f66ea93f63ea1c279f,feat(curriculum): add dynamic programmi
 06ef7746c80145eaff991692c1e088e82c19b24d,fix(curriculum): block title typo in es a1 review introducing yoursel…,2025-10-03T08:31:23Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
 3a5a409f8ed17649631484f9f81751fe6c9a5470,feat(curriculum): add salary tracker workshop (#62253),2025-10-03T07:50:08Z,39,2818,Dario-DC,freeCodeCamp,freeCodeCamp
 80026e26c41b6cdc19b095765a8e5f171b7a1560,fix(a11y): replace Alert with Callout for non-critical messages (#62466),2025-10-03T04:22:12Z,12,94,huyenltnguyen,freeCodeCamp,freeCodeCamp
-0b71e8779dba264064d9a696eba9dfb61924f593,feat(client): archive page (#62450),2025-10-02T19:30:33Z,13,331,moT01,freeCodeCamp,freeCodeCamp
-8704883aeb44ebc461fe31891ecbe08b0bd29c3d,refactor: improve description of DNA Pair Generator (#62393),2025-10-02T16:14:19Z,1,11,majestic-owl448,freeCodeCamp,freeCodeCamp
-517b9f05760ae4bf55062d9c9eb5a46bb202fb98,fix(client): handle builds without all challenges (#61040),2025-10-02T14:44:27Z,5,117,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-568840b8d8a7b2023ac666eae840196ca4c36440,feat(api): exam date use + split prisma files (#62344),2025-10-02T12:28:36Z,16,1558,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-3dc1e8b9d82b6b2709986fcf1a40ebe3beaca5fd,feat(curriculum): adding relational DB chapter review page (#62266),2025-10-02T11:57:44Z,5,1622,jdwilkin4,freeCodeCamp,freeCodeCamp
-3e3c843cc35e3ec242fdb442b6fc93b9d2c7e46e,feat(curriculum): adding data visualization module (#62448),2025-10-02T10:12:14Z,2,12,jdwilkin4,freeCodeCamp,freeCodeCamp
-1b82d617e6142b31f0782021528dc7b4144405de,fix(curriculum): typo in es a1 learn certification introduction (#62439),2025-10-02T10:10:53Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-5f35c61a04e5e6603b696ad0de300e75c36b0061,fix(curriculum): clarify instructions and update tests for Step 27  (…,2025-10-02T07:17:40Z,35,180,bisht0968,freeCodeCamp,freeCodeCamp
-b77f36f58f1b0dc67dcd2f54d7ffe18cfbe40308,fix(challenge-editor): use chapterBasedSuperBlocks from config (#62457),2025-10-02T04:24:23Z,1,4,huyenltnguyen,freeCodeCamp,freeCodeCamp
