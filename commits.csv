@@ -1104,17 +1104,3 @@ a6cdf5ca92e3958060c79229a4c35a0840f781e5,fix(curriculum): improve instructions o
 1548b7ec2a4592fcea9d4861c1848ecb21310e4a,fix(curriculum): clarify expected input (#62493),2025-10-04T18:33:36Z,1,2,dragon-slayer27,freeCodeCamp,freeCodeCamp
 299e1771feaafeb9f329a27dfcef2541d3263a8a,fix(curriculum): remove duplicate tests in daily coding challenge 202…,2025-10-04T16:40:32Z,2,30,l3onhard,freeCodeCamp,freeCodeCamp
 d230b45f5d947462ea2c5094a878e12b34c572e5,fix(curriculum): Clarify OS as operating system in Python intro lesso…,2025-10-04T16:38:12Z,1,2,alifa-ara-heya,freeCodeCamp,freeCodeCamp
-ef610dd36c1ce2ef429d0e9d513ccb0a957212e4,fix(tools): s/MailHog/Mailpit/g (#62481),2025-10-03T20:25:33Z,10,55,raisedadead,freeCodeCamp,freeCodeCamp
-034d6b1569f9175f8733eb6b9320e40f174041e2,feat(curriculum): JS checkpoint cert (#62188),2025-10-03T17:50:59Z,15,1515,huyenltnguyen,freeCodeCamp,freeCodeCamp
-1a6fdad624d15ef96021e6996f9dd76d36667852,feat(curriculum): add Build an HTML Audio and Video Player lab (#62460),2025-10-03T16:21:52Z,5,245,majestic-owl448,freeCodeCamp,freeCodeCamp
-1a3dbe46d885b9e2bbe10b9a0269ddd1dfa48a44,feat(curriculum): add lab feature selection to full stack (#62289),2025-10-03T16:16:45Z,5,373,majestic-owl448,freeCodeCamp,freeCodeCamp
-0a9e3a8360ab2f51fd0abaa4ea164ceff2121b69,fix: add seeding script to root,2025-10-03T16:05:27Z,1,1,raisedadead,freeCodeCamp,freeCodeCamp
-7ff864149c0447179a083f58c73130ba80e056b5,fix(client): update CTA for daily challenges,2025-10-03T16:05:27Z,5,23,raisedadead,freeCodeCamp,freeCodeCamp
-d7f1da61e4b34ca35371d26b4cf4d4b26446795c,fix(curriculum): correct capitalization inconsistency in MCQ section …,2025-10-03T15:47:16Z,1,8,sajid19,freeCodeCamp,freeCodeCamp
-179d92b1903e167a92ec3b49128811ca8c6b8515,chore(api): remove vitest import from mock (#62478),2025-10-03T14:12:25Z,1,3,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-eac87fb5ac750ab04a6644f66ea93f63ea1c279f,feat(curriculum): add dynamic programming lab (#62462),2025-10-03T13:47:17Z,5,223,zairahira,freeCodeCamp,freeCodeCamp
-972e6449347b5fe0c13615757cbd2cafcff26d0c,fix(curriculum): remove trailing periods from answer options  (#62473),2025-10-03T11:16:08Z,1,8,Hritik-sharmaa,freeCodeCamp,freeCodeCamp
-5516d22c4db8d06536a0f4c581c042670ece6f57,fix(scripts): add hasEditableBoundaries property for workshop metadat…,2025-10-03T10:36:10Z,1,3,majestic-owl448,freeCodeCamp,freeCodeCamp
-06ef7746c80145eaff991692c1e088e82c19b24d,fix(curriculum): block title typo in es a1 review introducing yoursel…,2025-10-03T08:31:23Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-3a5a409f8ed17649631484f9f81751fe6c9a5470,feat(curriculum): add salary tracker workshop (#62253),2025-10-03T07:50:08Z,39,2818,Dario-DC,freeCodeCamp,freeCodeCamp
-80026e26c41b6cdc19b095765a8e5f171b7a1560,fix(a11y): replace Alert with Callout for non-critical messages (#62466),2025-10-03T04:22:12Z,12,94,huyenltnguyen,freeCodeCamp,freeCodeCamp
