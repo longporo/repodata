@@ -1,9 +1,14 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
 I_kwDOAbI7X87g1bTz,64939,Campers are unable to claim certifications despite meeting qualifications,OPEN,2025-12-31T06:29:03Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87hNnk5,64981,Incorrect radial-gradient() size keywords: contain and cover are not valid CSS,OPEN,2026-01-03T20:00:07Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87hLwJZ,64979,Need to refactor catch block of all routes in daily coding challenge to use reusable server error helper for sending response,OPEN,2026-01-03T10:53:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87fhbxo,64803,Rewording explanation of font width,OPEN,2025-12-20T14:00:21Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87glQZX,64930,key_set scope issue,OPEN,2025-12-29T16:47:47Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87hCThk,64961,Incorrect Information: TPGi Colour Contrast Analyzer is desktop based and not a webpage.,OPEN,2026-01-02T02:41:54Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87fh9Dk,64809,How Do You Create a Newline in Strings and Escape Strings? - question with two correct answers,OPEN,2025-12-20T16:53:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fitO9,64814,step 4 caesar cipher,OPEN,2025-12-20T21:05:01Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87f-chf,64871,Interactive Editor not working,CLOSED,2025-12-23T15:13:13Z,2026-01-02T15:13:54Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87hGUsl,64971,Update blog post lab requirements to test for different background color in body element,OPEN,2026-01-02T14:54:46Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87glQZX,64930,key_set scope issue,OPEN,2025-12-29T16:47:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gH8aX,64885,Unclear example of an absolute path,OPEN,2025-12-24T12:13:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87X_byf,63826,JS Trivia Bot Lab - Failing Test 15 Results in Erroneous Additional Failed Tests,CLOSED,2025-11-14T03:29:22Z,2025-11-17T18:48:36Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87g13Y9,64940,Remove meta viewport requirement in step 3 of bookstore page,CLOSED,2025-12-31T07:49:43Z,2026-01-02T14:24:25Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
@@ -17,8 +22,6 @@ I_kwDOAbI7X87ggbIB,64924,Test case erroneously passes for Screaming Snake Case c
 I_kwDOAbI7X87g2Uo1,64943,Grammatical Error in One of the Lectures of the Front End Development Libraries Certification,CLOSED,2025-12-31T08:57:56Z,2026-01-02T10:12:30Z,shaszz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gQhaA,64895,B1 English cert is missing from settings page,CLOSED,2025-12-25T23:03:38Z,2026-01-02T10:12:05Z,ShaunSHamilton;jdwilkin4,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gO32g,64891,Can't log into free code camp on my Mac,OPEN,2025-12-25T13:18:20Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87fh9Dk,64809,How Do You Create a Newline in Strings and Escape Strings? - question with two correct answers,OPEN,2025-12-20T16:53:59Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87hCThk,64961,Incorrect Information: TPGi Colour Contrast Analyzer is desktop based and not a webpage.,OPEN,2026-01-02T02:41:54Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87UWl1R,63169,"Add interactive examples to What Is JavaScript, and How Does It Work with HTML and CSS lesson",CLOSED,2025-10-28T17:46:10Z,2025-10-28T18:51:30Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gvQTI,64935,python Implement the Depth-First Search Algorithm,OPEN,2025-12-30T15:06:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87bFj9i,64218,CSSHelp issue with `getStyleAny`,OPEN,2025-11-28T18:46:56Z,,,freeCodeCamp,freeCodeCamp
@@ -87,7 +90,6 @@ I_kwDOAbI7X87fjiU4,64815,Holiday Schedule 2025,OPEN,2025-12-21T02:01:57Z,,,freeC
 I_kwDOAbI7X87fewyu,64793,Sign-in with ATProto/Bsky,OPEN,2025-12-20T01:37:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fh5e1,64805,Repeated text in lecture - `working with loops and sequences` in Python Certification,CLOSED,2025-12-20T16:34:51Z,2025-12-20T17:23:09Z,ayvkma,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fdi_l,64792,Typo in CSS Grid review,CLOSED,2025-12-19T22:11:33Z,2025-12-20T15:02:30Z,subhankarkr,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87fhbxo,64803,Rewording explanation of font width,OPEN,2025-12-20T14:00:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87d8XNv,64555,Rotate back from /encoded endpoints,OPEN,2025-12-12T14:18:26Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TasFt,63013,Add interactive examples to css reset lesson,CLOSED,2025-10-23T23:38:13Z,2025-10-24T08:28:18Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fcakD,64788,Improve `lang` type in file-handler script,CLOSED,2025-12-19T20:30:30Z,2025-12-19T21:42:32Z,pdtrang,freeCodeCamp,freeCodeCamp
@@ -1035,7 +1037,3 @@ I_kwDOAbI7X87PhDaD,62484,Build a Missing Letter Detector,CLOSED,2025-10-03T15:28
 I_kwDOAbI7X87PqQgF,62515,Typo in `step-9` of Tailwind Pricing Component Workshop – Extra Space in `mt-8` Class Name,CLOSED,2025-10-04T17:00:05Z,2025-10-04T17:26:10Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Pl7QQ,62497,"Challenge Contains Duplicate Test Case: Daily Coding Challenge October 3, 2025",CLOSED,2025-10-03T23:10:52Z,2025-10-04T16:40:33Z,l3onhard,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Ph-v1,62486,Specify what OS means in intro python lesson,CLOSED,2025-10-03T16:54:21Z,2025-10-04T16:38:13Z,alifa-ara-heya,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87PbhEs,62470,inconsistent capitalization,CLOSED,2025-10-03T07:26:11Z,2025-10-03T16:27:55Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87PfFy8,62480,fix: improve header spacing and search bar styling,CLOSED,2025-10-03T13:03:10Z,2025-10-03T13:29:07Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87PbyFv,62471,inconsistent use of punctuation,CLOSED,2025-10-03T07:54:33Z,2025-10-03T11:16:10Z,Hritik-sharmaa,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Oi2qu,62411,Missing data when using `pnpm run create-new-project`,CLOSED,2025-09-29T14:17:48Z,2025-10-03T10:36:11Z,majestic-owl448,freeCodeCamp,freeCodeCamp
