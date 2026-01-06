@@ -1,4 +1,15 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+073a20d69782406a8793699d63f5a3e29aeab032,fix(curriculum): replace meta.json with proper filename (#64972),2026-01-05T19:43:37Z,1,4,majestic-owl448,freeCodeCamp,freeCodeCamp
+10eb58bec1eab98fb574311d4d2a494612835cf7,fix(curriculum): correct syntax issue in What Is an Object in JavaScr…,2026-01-05T16:45:49Z,1,2,marietta-a,freeCodeCamp,freeCodeCamp
+e5955101cb4968da4fbd28480a2645d24a31801d,feat(curriculum): add countdown lab (#64878),2026-01-05T16:43:06Z,5,134,femincan,freeCodeCamp,freeCodeCamp
+1c3759414066d6a865d507cc397357eec975799e,fix(curriculum): add test for number input min value in lab event RSV…,2026-01-05T15:30:25Z,1,13,miyaliu666,freeCodeCamp,freeCodeCamp
+f351466836e19314554e919bb888461c3377df05,fix(curriculum): clarify quotes question to remove ambiguity (#64977),2026-01-05T15:24:41Z,1,2,JorgeOteiza,freeCodeCamp,freeCodeCamp
+15c98b0db9a6e4b6de9756a1ebd7dd8471f0ef05,refactor: move playwright config into e2e folder (#64741),2026-01-05T15:00:02Z,38,162,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+eff230799ee11485bb0d865c72a47bfb3f6f33bc,"chore(i18n,client): processed translations (#64995)",2026-01-05T13:28:01Z,10,130,camperbot,freeCodeCamp,freeCodeCamp
+be4b2e830766713608ed1b68fe8064073ece705f,fix(curriculum): allow any node order in python depth-first search te…,2026-01-05T12:36:29Z,1,24,Dario-DC,freeCodeCamp,freeCodeCamp
+8112a82104945f6e264af40d6bd9568d11d16ee4,fix(curriculum): clarify TPGi Colour Contrast Analyzer description in…,2026-01-05T12:09:14Z,1,2,YashhCanCode,freeCodeCamp,freeCodeCamp
+0e9f97c5812379fc730ed415a4eb2591ee17176e,fix(curriculum): correct validation example in encapsulation lesson (…,2026-01-05T09:26:23Z,1,12,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+8c0f9bf50080dd6a696a84cc6441372d5cd3e4f3,feat(curriculum): add debug donation form lab (#63632),2026-01-05T06:49:58Z,5,217,zairahira,freeCodeCamp,freeCodeCamp
 7d58ef2062b457d9370a7f730fc875f92ad28a80,fix(curriculum): remove meta viewport requirement from bookstore page…,2026-01-02T14:24:24Z,17,32,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 706d62864150f0e5590c9cc905e4f03547018a45,fix(curriculum): refer to + as a quantifier in step 32 of Calorie Cou…,2026-01-02T14:15:43Z,1,6,lakshay122007,freeCodeCamp,freeCodeCamp
 5772ad6a12a8ea3df4c0aa29c20b82120393b77e,feat(curriculum): add HTML video player project to FSD cert (#62866),2026-01-02T13:06:41Z,17,850,mtrivera,freeCodeCamp,freeCodeCamp
@@ -1069,7 +1080,7 @@ a9fab953611926c0abb1229e9e134cc4c208c92c,feat(curriculum): RWD checkpoint certif
 4a1d74304488628a813beefb393784cca0fe0532,fix(curriculum): add empty space to code example Toggle Text - step 1…,2025-10-08T17:30:37Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
 dd43d979249bff0b06044ad856e34fb9a1367b70,fix(client): update 25 tier ab test (#62553),2025-10-08T17:00:20Z,1,6,ahmaxed,freeCodeCamp,freeCodeCamp
 d282d0aa64a647ec0af307ae9260260770f57b8b,"chore(i18n,client): processed translations (#62595)",2025-10-08T16:45:49Z,20,320,camperbot,freeCodeCamp,freeCodeCamp
-863e79a21e0dd42ad9410d2353efa1bdab5032ca,"fix(curriculum): test case improvement for CSS Lab ""Build a moon orbi…",2025-10-08T07:37:47Z,1,4,Shubh-Srivastava-5911,freeCodeCamp,freeCodeCamp
+863e79a21e0dd42ad9410d2353efa1bdab5032ca,"fix(curriculum): test case improvement for CSS Lab ""Build a moon orbi…",2025-10-08T07:37:47Z,1,4,kpv-gov1-in,freeCodeCamp,freeCodeCamp
 8b8e27bf37631ff6bca4d9d313b61ab1dd69c0d0,fix(curriculum): test for unique characters (#62544),2025-10-08T07:26:48Z,1,9,Supravisor,freeCodeCamp,freeCodeCamp
 8238495c8b3e6f88a22f5781798164dd5e3dd0fb,fix(client): add challenge title to exam download page (#62584),2025-10-08T06:31:59Z,1,147,huyenltnguyen,freeCodeCamp,freeCodeCamp
 677ca70eedf0dd82703ac1fd0243b9a2a6bf43ef,feat(client): add 3 disclosure cde for rdb (#62178),2025-10-07T21:27:57Z,8,809,ShaunSHamilton,freeCodeCamp,freeCodeCamp
@@ -1099,5 +1110,3 @@ e7c939985780198fe48ae8b78750aa70abf2da11,fix(curriculum): remove unnecessary pun
 8a6ae7a8ba6fccb372e3bf92a30b3fb7b70545b8,fix: update pnpm,2025-10-06T09:00:45Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
 c0fa2ca4249e6bc6da4e9f438ca40b6e85598e13,fix(curriculum): updates to A2 english curriculum block 8 (#62364),2025-10-06T05:57:00Z,113,1348,anastasiiauk,freeCodeCamp,freeCodeCamp
 fe848a071d16fa915656bd2ad356359ccb7565e3,feat(curriculum): add content to python chapter review (#62440),2025-10-06T05:23:02Z,4,2929,majestic-owl448,freeCodeCamp,freeCodeCamp
-9d5580128d664c26f5c79c5252d483aa9bb10b79,fix(curriculum): correct typo in step-9 of Tailwind Pricing Component…,2025-10-05T09:05:18Z,1,2,mriduldoeswork,freeCodeCamp,freeCodeCamp
-a6cdf5ca92e3958060c79229a4c35a0840f781e5,fix(curriculum): improve instructions of  Library Manager step 5 and …,2025-10-05T08:05:16Z,2,4,pdtrang,freeCodeCamp,freeCodeCamp
