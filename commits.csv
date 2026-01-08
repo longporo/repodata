@@ -1,4 +1,9 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+05aeca4a4c4383d0183f413e4beda3827ba10814,fix(curriculum): clarify source element usage with video element (#65…,2026-01-07T23:19:41Z,1,20,Pratyush378,freeCodeCamp,freeCodeCamp
+0c97491d26168041a829db2f94a1d52b58d40fe9,feat(curriculum): caesar cipher step 4 directly use variables (#64955),2026-01-07T18:49:31Z,1,12,a2937,freeCodeCamp,freeCodeCamp
+7548f237bc559afbd87eba3b68ecca4ef60c0f07,fix(curriculum): Fixed a couple sentences/typos in the Relational Dat…,2026-01-07T16:34:19Z,2,6,Roxicaro,freeCodeCamp,freeCodeCamp
+0753137726a5d88a796a0214ccc2cd77bc28d518,fix: replace asset with assert in project euler hints (#65020),2026-01-07T09:48:16Z,4,8,harshentau-spec,freeCodeCamp,freeCodeCamp
+1ed4803a2e22baa65d48cde9571e2e3d5cc9e4f8,fix(curriculum): make visited pseudo-class in example open in new tab…,2026-01-07T08:31:27Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
 efa64c6390cb2a148ad55e7abcac6d2b92a233a3,fix(curriculum): Fixed formatting for consistency in Relational Datab…,2026-01-06T20:18:15Z,1,4,Platykin,freeCodeCamp,freeCodeCamp
 35198625185207e0cec6e5923b122ec36578816f,"fix(learn, tools/scripts): replace archived challenge links in challe…",2026-01-06T19:56:17Z,2,86,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 4eb0c7f750e448082a44bffca24ee3ab59d3f155,fix(curriculum): require non-white body background in blog post card …,2026-01-06T17:12:35Z,1,20,DeveloperViraj,freeCodeCamp,freeCodeCamp
@@ -1088,16 +1093,3 @@ d282d0aa64a647ec0af307ae9260260770f57b8b,"chore(i18n,client): processed translat
 863e79a21e0dd42ad9410d2353efa1bdab5032ca,"fix(curriculum): test case improvement for CSS Lab ""Build a moon orbi…",2025-10-08T07:37:47Z,1,4,Shubh-Srivastava-5911,freeCodeCamp,freeCodeCamp
 8b8e27bf37631ff6bca4d9d313b61ab1dd69c0d0,fix(curriculum): test for unique characters (#62544),2025-10-08T07:26:48Z,1,9,Supravisor,freeCodeCamp,freeCodeCamp
 8238495c8b3e6f88a22f5781798164dd5e3dd0fb,fix(client): add challenge title to exam download page (#62584),2025-10-08T06:31:59Z,1,147,huyenltnguyen,freeCodeCamp,freeCodeCamp
-677ca70eedf0dd82703ac1fd0243b9a2a6bf43ef,feat(client): add 3 disclosure cde for rdb (#62178),2025-10-07T21:27:57Z,8,809,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-940a38127b0ceb71cc09d23e48c57caf3c92c8ae,fix(curriculum): add missing ')' to Build a User Configuration Manage…,2025-10-07T17:33:57Z,1,2,rpgjarman,freeCodeCamp,freeCodeCamp
-1b4dbd19569f063ba9fe3bee5cb33ece00cb960b,feat(Curriculum) Add A1 Spanish Module 1 (#62201),2025-10-07T17:18:00Z,51,4566,nieldakarla,freeCodeCamp,freeCodeCamp
-9e3fcde50dd657e472a6d93c0170a119d4760f02,fix(curriculum): fix typo in lab-user-config-manager (#62576),2025-10-07T16:52:07Z,1,2,abiramcodes,freeCodeCamp,freeCodeCamp
-1343692a361fd1abd8c5f99ee0110198e1697028,fix(curriculum): Python OOP lessons order (#62575),2025-10-07T16:05:54Z,9,308,Dario-DC,freeCodeCamp,freeCodeCamp
-cf6dbc02182583ed9f09934919fc385a8020853a,fix(api): can take exam if attempt not expired (#62543),2025-10-07T14:46:52Z,2,21,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-5228e6818c95703eb0f054b33fb333d1d56e307e,fix(curriculum): specify min and max restrictions for House Painting …,2025-10-07T13:43:20Z,1,26,Supravisor,freeCodeCamp,freeCodeCamp
-4d4418f1583a053d0d334b6e078a2fc254d485d3,fix(curriculum): spacing and backticks (#62565),2025-10-07T13:02:28Z,2,4,Supravisor,freeCodeCamp,freeCodeCamp
-f184da462b5e76622ff73e888bac6fa5b3524642,fix(ci): upload client without compression (#62570),2025-10-07T11:26:07Z,1,20,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-806be69c887c30190ebac0f4d947b4b16fb93e09,chore: initiate replica with defined host (#62477),2025-10-07T09:43:27Z,2,13,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-c8aeac5ce86b126ac989b83b282543507bb41a40,feat(curriculum):  add accessibility table workshop (#62161),2025-10-07T08:12:47Z,18,1278,jdwilkin4,freeCodeCamp,freeCodeCamp
-d488e7cbde399ff8b5aa8db75633fdba91c11d21,chore: simplify lintstaged config (#62550),2025-10-07T08:07:45Z,1,58,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-3cbe2ab8b1dc514a82310a2f9bc267a4ae1be1e6,fix(tools): consolidate docker compose setup (#62525),2025-10-07T05:19:41Z,11,150,raisedadead,freeCodeCamp,freeCodeCamp
