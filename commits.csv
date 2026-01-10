@@ -1,4 +1,12 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+6eed6f081c1e7ebefca014903b544d1d6d2b512f,feat(curriculum): add stub quizzes to B1 English (#65050),2026-01-09T20:41:26Z,74,6306,huyenltnguyen,freeCodeCamp,freeCodeCamp
+a0abb9df134eb5bdda67957550f7cd7523dcd942,feat(curriculum): add stub quizzes to A2 English (#65049),2026-01-09T20:40:41Z,83,7116,huyenltnguyen,freeCodeCamp,freeCodeCamp
+75d3cd0f7b01407bcf2a4a64d6a45a65ed3cef75,fix(curriculum): incorrect number of join operations listed (#65038),2026-01-09T20:17:03Z,1,4,zho00,freeCodeCamp,freeCodeCamp
+0a5551d3029ea10b54124aeb052e2cec5b60147e,"fix(curriculum,schema): allow A2 and B1 English to have block label (…",2026-01-09T13:50:58Z,8,20,huyenltnguyen,freeCodeCamp,freeCodeCamp
+78a1993095652782dc6cdac3183bb0dfe85ba005,fix(curriculum): fixes to Chinese curriculum (#65024),2026-01-09T12:23:45Z,35,86,anastasiiauk,freeCodeCamp,freeCodeCamp
+1827e2e78bffb78a7f2734b6c4e6a047af7015e7,feat: supply scene-assets to external curriculum v2 (#65055),2026-01-09T10:23:52Z,2,29,Sembauke,freeCodeCamp,freeCodeCamp
+e0eddbb3084839955510f6dfc69003033981f684,"chore(i18n,learn): update i18n-curriculum submodule (#65053)",2026-01-09T08:39:08Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+86372515300d691ed7ae3482b288741bf29a5921,fix(curriculum): explain props.children (#64916),2026-01-09T07:07:40Z,1,28,sagi0312,freeCodeCamp,freeCodeCamp
 c07592303e28b9c4f39b38452a209b161f9742f4,fix(curriculum): Add a tone explanation task in the A1 Chinese simple…,2026-01-09T01:09:06Z,14,204,miyaliu666,freeCodeCamp,freeCodeCamp
 aa5665f8b3ac09165b39acbd81e1c5f07b666bd7,fix(tools): allow quizzes for block-based super blocks (#65044),2026-01-08T19:54:34Z,1,4,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 38ba5f58ebf0e84703ebb58b6b2cdd45bde6284a,"chore(i18n,learn): update i18n-curriculum submodule (#65042)",2026-01-08T19:30:15Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
@@ -1071,25 +1079,3 @@ f5361f4341141b0d0f7eeb58603a7229ff4ac9a5,fix(client): apply i18n prefix to test-
 f6db89fdbcea323a3cb227558ac1d69838523285,feat: relax challenge auditor (#62601),2025-10-10T03:04:34Z,1,45,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 4fc3277aef55cadd95fb29aec259d704309db5b1,fix(curriculum): removed a misplaced comma (#62660),2025-10-10T02:29:17Z,1,2,minjo70,freeCodeCamp,freeCodeCamp
 3746ab841310d8499af5f27031e4211363f35bf6,fix(curriculum): add cert projects to RWD checkpoint cert (#62640),2025-10-10T02:03:53Z,2,30,huyenltnguyen,freeCodeCamp,freeCodeCamp
-c808f7aab529cc16332493cc4aea11504686e239,fix(config): change LinkedIn ID of JS checkpoint cert (#62636),2025-10-10T01:58:17Z,1,2,huyenltnguyen,freeCodeCamp,freeCodeCamp
-613f55e3ea28894fbf206f80262594087a2470b6,feat(curriculum): Add interactive examples to replaced elements lesso…,2025-10-09T23:03:57Z,1,33,Giftea,freeCodeCamp,freeCodeCamp
-63ef93a1db211dfd919c43447374b9fb9902d5cb,feat(curriculum): Add interactive examples to svg lesson (#62651),2025-10-09T21:59:25Z,1,33,Giftea,freeCodeCamp,freeCodeCamp
-d960b48c0ef65aab967633766aa28d138eb39e3d,feat(curriculum): Add interactive examples to the HTML audio & video …,2025-10-09T21:58:51Z,1,55,Giftea,freeCodeCamp,freeCodeCamp
-eb59d7e3e268970e505921b9299294e8847c47b3,feat(curriculum): Add interactive example to script element lesson (#…,2025-10-09T21:58:12Z,1,12,Giftea,freeCodeCamp,freeCodeCamp
-d584d64929ee6aa8d3848965536b585a080aac16,feat(curriculum): Add interactive examples to HTML entities lesson (#…,2025-10-09T21:57:38Z,1,44,Giftea,freeCodeCamp,freeCodeCamp
-4660bcd793c67bb1e1a34d12cd430ea8e1c843db,feat(curriculum): Add interactive examples to ids and classes lesson …,2025-10-09T20:55:23Z,1,87,Giftea,freeCodeCamp,freeCodeCamp
-02e4292f90b7f07a8eafabfc9014f521068e3970,feat(curriculum): Add interactive examples to div lesson (#62634),2025-10-09T16:36:19Z,1,41,Giftea,freeCodeCamp,freeCodeCamp
-b4ccd9db62572cf08b998029fd8fba7c56bf5c6b,fix(curriculum): Add interactive examples to what are attributes less…,2025-10-09T16:36:11Z,1,58,Giftea,freeCodeCamp,freeCodeCamp
-f14934c3266bd9191eb474ca04dc0c0f1172f0d3,feat(curriculum): Add interactive examples to intro HTML lesson (#62627),2025-10-09T16:35:55Z,1,58,Giftea,freeCodeCamp,freeCodeCamp
-4afd65e683fa6a88104b56b79be8aef46fc2feae,feat(curriculum): add remaining new superblocks (4 of them) (#62611),2025-10-09T15:54:56Z,30,538,moT01,freeCodeCamp,freeCodeCamp
-2cb3baba7f843f67fd9ad19f355d2ca40abe8ae2,fix(gha): use updated test command in submodule CI (#62633),2025-10-09T15:12:47Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-3f4a399aa05004e1c356e3aeed58a8bf4527a410,fix(curriculum): correct spelling from begining to beginning (#62628),2025-10-09T13:04:22Z,1,2,Giftea,freeCodeCamp,freeCodeCamp
-ee86bccdc7723820ce4036b1d1cb084c47eb132c,fix(curriculum): .trim() to textContent for workshop-accessibility-qu…,2025-10-09T10:54:10Z,12,54,Giftea,freeCodeCamp,freeCodeCamp
-e1e2292b698484d2bc1f8fe67e0cba89625f0f9d,fix(curriculum): filter by challengeId when building blocks (#62622),2025-10-09T10:42:09Z,2,14,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-9c31ffdf8de1fef29933259436dc2bc020fa9649,fix(curriculum): add .trim() to  textContent for workshop-cafe-menu (…,2025-10-09T10:35:59Z,5,10,Giftea,freeCodeCamp,freeCodeCamp
-fa80f066ad81b9707ea5db30318be13d977d3d93,fix(curriculum): add .trim() to textContent for workshop-final-exams-…,2025-10-09T07:16:40Z,5,36,Giftea,freeCodeCamp,freeCodeCamp
-b707f80d63196ba28ac9167c7a82c5498a3fa941,"feat(client, api): bluesky profile link (#62400)",2025-10-09T07:07:12Z,20,169,swdev33,freeCodeCamp,freeCodeCamp
-137b371b34c2cf0bede71930c51794ea4fbefb27,fix(curriculum): remove unnecessary punctuation from Computer Basics …,2025-10-09T06:59:49Z,1,92,a-mamal,freeCodeCamp,freeCodeCamp
-d8f3dc4dec20ed7307aa32f2378cc8c8ad564dfc,fix(curriculum): punctuation and formatting issues in English tasks (…,2025-10-09T06:48:50Z,35,74,huyenltnguyen,freeCodeCamp,freeCodeCamp
-082bff570bfebba2b2180c7f414544f3147bbda6,feat(api): add moderation schema challengesAwarded field (#62490),2025-10-09T04:05:44Z,1,7,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-7c20027732976f31e08319660ac5caa236ea7cd6,feat(client): add challenge interactive editor (#61805),2025-10-09T04:04:03Z,24,862,ShaunSHamilton,freeCodeCamp,freeCodeCamp
