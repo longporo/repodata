@@ -1,4 +1,5 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+5baa63b300843fc215de59544c02ae1d9a8c954c,fix(.github): correct curriculum structure path in CODEOWNERS (#65062),2026-01-10T06:53:23Z,1,2,huyenltnguyen,freeCodeCamp,freeCodeCamp
 6eed6f081c1e7ebefca014903b544d1d6d2b512f,feat(curriculum): add stub quizzes to B1 English (#65050),2026-01-09T20:41:26Z,74,6306,huyenltnguyen,freeCodeCamp,freeCodeCamp
 a0abb9df134eb5bdda67957550f7cd7523dcd942,feat(curriculum): add stub quizzes to A2 English (#65049),2026-01-09T20:40:41Z,83,7116,huyenltnguyen,freeCodeCamp,freeCodeCamp
 75d3cd0f7b01407bcf2a4a64d6a45a65ed3cef75,fix(curriculum): incorrect number of join operations listed (#65038),2026-01-09T20:17:03Z,1,4,zho00,freeCodeCamp,freeCodeCamp
@@ -1054,28 +1055,3 @@ e8cb2eb04b4d63885fc4a8b7ad5efdf8c7729fe5,docs(contributing): remove broken path 
 7709d3d78648a0e97dc050dd34a92aa1f5371874,fix(curriculum): add .trim() to business card lab tests (#62732),2025-10-11T23:50:21Z,1,16,KoolDrip,freeCodeCamp,freeCodeCamp
 7b333597466b07e6172f21f298f0377c3612ef25,chore: use active contributions badge,2025-10-11T14:28:44Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
 69a0d1d8c8239d92907e39cad95328df253f1a14,chore: cleanup badges,2025-10-11T14:24:53Z,1,3,raisedadead,freeCodeCamp,freeCodeCamp
-9932f6ea721e70352fd76fd5a5f49d9815fb5ff0,feat(curriculum): add interactive examples to target attribute lesson…,2025-10-10T22:59:16Z,1,10,minjo70,freeCodeCamp,freeCodeCamp
-fbcd965f1554814a1708f6f45fa8d292189f7c8a,feat(curriculum): Add interactive examples to description lists lesso…,2025-10-10T22:07:56Z,1,22,Giftea,freeCodeCamp,freeCodeCamp
-d3b35ed0f6c762bc33d747f42d0abff89301014d,feat(curriculum): Add interactive examples to link states lesson (#62…,2025-10-10T22:07:18Z,1,102,Giftea,freeCodeCamp,freeCodeCamp
-b81d4252a3c5f605ab960669f89aba5d2dda01af,feat(curriculum): Add interactive examples to types of buttons lesson…,2025-10-10T21:11:10Z,1,56,Giftea,freeCodeCamp,freeCodeCamp
-b83c0cd5b5610c92fe550b39c6e12bc98a115855,feat(curriculum): Add interactive examples for form elements lesson (…,2025-10-10T21:09:53Z,1,38,Giftea,freeCodeCamp,freeCodeCamp
-db55392e615a3a62310d786127b79e55ddc975dc,"feat(curriculum): Add interactive examples for u,s, ruby elements les…",2025-10-10T21:09:06Z,1,14,Giftea,freeCodeCamp,freeCodeCamp
-e0c0b86020949b0f2c5c3b86123dc42fbb51bf21,feat(curriculum): Add interactive examples to code element lesson (#6…,2025-10-10T21:08:34Z,1,10,Giftea,freeCodeCamp,freeCodeCamp
-a124dd0aea24ecb4396fa340089cb036f0d4177e,feat(curriculum): Add interactive examples to sup & sub elements less…,2025-10-10T21:08:08Z,1,16,Giftea,freeCodeCamp,freeCodeCamp
-747b1ebebd08fbd84d55947d1cdf86ed4d63729b,feat(curriculum): Add interactive examples to date/time lesson (#62699),2025-10-10T21:07:35Z,1,10,Giftea,freeCodeCamp,freeCodeCamp
-b6588b005ca8908e46efb6cc3be34eb3c7a2c740,feat(curriculum):  Add interactive example to address element lesson …,2025-10-10T21:06:04Z,1,6,Giftea,freeCodeCamp,freeCodeCamp
-feffa6ef35b02d679ed8c08cc573738516e9168d,feat(curriculum): Add interactive examples to abbreviations lesson (#…,2025-10-10T19:28:47Z,1,10,Giftea,freeCodeCamp,freeCodeCamp
-ebf8c688f7efaec307739ea98e5ed35d02daacdf,feat(curriculum): Add interactive examples to quotes lesson (#62690),2025-10-10T19:28:20Z,1,18,Giftea,freeCodeCamp,freeCodeCamp
-d2c76cf0db9257ee3a049ee7379ff6138129e0e6,feat(curriculum): Add interactive examples to strong element lesson (…,2025-10-10T19:25:55Z,1,10,Giftea,freeCodeCamp,freeCodeCamp
-3e22711499a3c18bb87615b1e34ded80d734a0de,feat(curriculum): Add interactive examples to em element lesson (#62684),2025-10-10T19:25:11Z,1,14,Giftea,freeCodeCamp,freeCodeCamp
-f0ca02978ffecfbaf457e29f5b89a39f5a1f1e29,feat(curriculum): Add interactive examples to presentational html les…,2025-10-10T19:24:21Z,1,41,Giftea,freeCodeCamp,freeCodeCamp
-85db5401a333c4d7529b3009903df312815fd039,feat(curriculum): Add interactive example to Good Structural Hierarch…,2025-10-10T19:21:58Z,1,14,Giftea,freeCodeCamp,freeCodeCamp
-ea11f2e12d1dab347ef7468102b5d48519e92a49,fix(tools): adjust challenge editor terminal path to match new curric…,2025-10-10T15:38:55Z,2,16,Sembauke,freeCodeCamp,freeCodeCamp
-899351436141b1a06f62f4adfd1f3fa3d09aecc6,fix(curriculum): add a description and examples of array flattening (…,2025-10-10T12:51:31Z,1,12,ppl-call-me-tima,freeCodeCamp,freeCodeCamp
-f3239ffc2260efb0f286a38d3c79ebef8a36e4f8,fix(client): non-serializable-payload error (#62664),2025-10-10T12:46:49Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-7f89b11e4e86e85ba427855c6b1be3223a89ef20,feat(curriculum): Add interactive examples to iframe element lesson (…,2025-10-10T10:20:49Z,1,56,clarencepenz,freeCodeCamp,freeCodeCamp
-6fc368404985a197095db80c8c67761e493483a0,fix(tools): prevent create-new-x overwriting old projects (#62621),2025-10-10T09:58:26Z,5,622,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-f5361f4341141b0d0f7eeb58603a7229ff4ac9a5,fix(client): apply i18n prefix to test-runner (#62523),2025-10-10T05:48:27Z,3,12,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-f6db89fdbcea323a3cb227558ac1d69838523285,feat: relax challenge auditor (#62601),2025-10-10T03:04:34Z,1,45,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-4fc3277aef55cadd95fb29aec259d704309db5b1,fix(curriculum): removed a misplaced comma (#62660),2025-10-10T02:29:17Z,1,2,minjo70,freeCodeCamp,freeCodeCamp
-3746ab841310d8499af5f27031e4211363f35bf6,fix(curriculum): add cert projects to RWD checkpoint cert (#62640),2025-10-10T02:03:53Z,2,30,huyenltnguyen,freeCodeCamp,freeCodeCamp
