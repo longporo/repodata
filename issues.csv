@@ -1,12 +1,19 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87ihsDU,65079,Remove plural from Learn How to Express Decisions Based on Comparisons,OPEN,2026-01-10T23:18:44Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ihqJL,65078,Improve flow in Express Decisions Based on Comparisons,OPEN,2026-01-10T23:08:04Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87io6x9,65085,Plural form in Learn How to Express Disagreement,OPEN,2026-01-12T00:35:09Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X864wrks,60589,Make editor easier to use,OPEN,2025-05-29T09:41:32Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87iliLL,65083,i18n french,OPEN,2026-01-11T15:50:13Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87hkUvn,65007,delete unused files,OPEN,2026-01-06T09:21:14Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ihsDU,65079,Remove plural from Learn How to Express Decisions Based on Comparisons,CLOSED,2026-01-10T23:18:44Z,2026-01-11T09:02:33Z,builtbykabir,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ifHsR,65075,Python Certification setter example issue,OPEN,2026-01-10T14:37:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87idmVi,65070,Daily Coding Challenge: Tic-Tac-Toe has confusing test case,OPEN,2026-01-10T09:20:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87glQZX,64930,key_set scope issue,OPEN,2025-12-29T16:47:47Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87idU_p,65069,Confetti effect triggers after resuming workshop instead of completing entire workshop.,OPEN,2026-01-10T08:32:30Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87h6JzW,65028,Longest Word Finder: Add test where first word is longest,CLOSED,2026-01-07T19:45:48Z,2026-01-11T05:49:16Z,achf01,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87h4JE4,65027,rwd-v9 Build a Bookstore Page step-18,CLOSED,2026-01-07T17:10:29Z,2026-01-11T05:46:24Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ihqJL,65078,Improve flow in Express Decisions Based on Comparisons,OPEN,2026-01-10T23:08:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87N4dBX,62366,[challenge parser] enhance file validation for workshops,OPEN,2025-09-25T15:26:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86kobjV,57818,Consider saving the code for labs,OPEN,2024-12-29T01:19:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85Sx5qD,47646,The user's code should be transformed alongside the injected code,OPEN,2022-09-28T06:38:13Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ifHsR,65075,Python Certification setter example issue,OPEN,2026-01-10T14:37:11Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87idU_p,65069,Confetti effect triggers after resuming workshop instead of completing entire workshop.,OPEN,2026-01-10T08:32:30Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gXYqQ,64908,Wrong Information about brightness in the CSS Layout and Effects Quiz,OPEN,2025-12-27T02:23:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87hfQcC,65002,Number of JOIN operations is incorrect,CLOSED,2026-01-05T22:39:42Z,2026-01-09T20:17:05Z,huyenltnguyen;zho00,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ea8JB,64630,Audit and update prototype for d3 Dashboard project,OPEN,2025-10-01T15:23:56Z,,,freeCodeCamp,freeCodeCamp
@@ -24,7 +31,6 @@ I_kwDOAbI7X87hBuiN,64960,Portuguese - Build an Event Lab - Language mixing in us
 I_kwDOAbI7X87gvxza,64936,jsv9 Crie um Bot Informativo em JavaScript,CLOSED,2025-12-30T16:01:50Z,2026-01-08T19:30:16Z,camperbot,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87iIuwP,65045,Replace archived challenge links in `challenge-title.spec.ts`,OPEN,2026-01-08T18:28:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TjZxe,63033,Accessibility issues in the demo of Drum Machine,CLOSED,2025-10-24T12:34:45Z,2026-01-08T17:33:53Z,Om7035;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87h6JzW,65028,Longest Word Finder: Add test where first word is longest,OPEN,2026-01-07T19:45:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87h9Lce,65031,Mismatch in ID names in the instructions for the LAB - Build an fCC Authors Page,CLOSED,2026-01-08T01:38:15Z,2026-01-08T15:14:03Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Qyltv,62666,Something about AI-generated pull requests,OPEN,2025-10-10T13:26:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TTMoi,62971,[ui] exam token info is not pretty in day mode.,CLOSED,2025-10-23T14:46:07Z,2026-01-08T11:48:11Z,,freeCodeCamp,freeCodeCamp
@@ -34,12 +40,10 @@ I_kwDOAbI7X87K_RsU,62152,Updating Our Payment Provider Integration,CLOSED,2025-0
 I_kwDOAbI7X87hg2JD,65004,'Build a Voting System' [ unclear test conditions: test 17 ],CLOSED,2026-01-06T02:20:09Z,2026-01-08T08:43:53Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87h8S3S,65030,how to save my script,CLOSED,2026-01-07T23:20:45Z,2026-01-07T23:23:33Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87hWyVu,64989,about `source` element,CLOSED,2026-01-05T09:47:04Z,2026-01-07T23:19:42Z,Pratyush378,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87h4JE4,65027,rwd-v9 Build a Bookstore Page step-18,OPEN,2026-01-07T17:10:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aBeiR,64092,Calculate streaks correctly,OPEN,2025-11-24T09:00:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fitO9,64814,step 4 caesar cipher,CLOSED,2025-12-20T21:05:01Z,2026-01-07T18:49:33Z,a2937,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87hLwJZ,64979,Need to refactor catch block of all routes in daily coding challenge to use reusable server error helper for sending response,CLOSED,2026-01-03T10:53:39Z,2026-01-07T17:48:47Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87hPgWd,64983,Adding Hindi (hi-IN) localization support,CLOSED,2026-01-04T07:14:28Z,2026-01-07T17:43:22Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87hkUvn,65007,delete unused files,OPEN,2026-01-06T09:21:14Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87hg0Jm,65003,Open Exam Environment Application Download not using user agent,OPEN,2026-01-06T02:14:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87h1UnL,65022,"Instructions unclear about using checked attribute, example code doesnt mention its usage ",CLOSED,2026-01-07T13:48:42Z,2026-01-07T13:58:15Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87hxf7y,65019,let's add a test to verify the global object is not changed,OPEN,2026-01-07T08:39:49Z,,,freeCodeCamp,freeCodeCamp
@@ -63,7 +67,6 @@ I_kwDOAbI7X87fjiU4,64815,Holiday Schedule 2025,CLOSED,2025-12-21T02:01:57Z,2026-
 I_kwDOAbI7X87hWc-6,64988,"syntax issue in What Is an Object in JavaScript, and How Can You Access Properties from an Object?",CLOSED,2026-01-05T09:22:48Z,2026-01-05T16:45:51Z,AKUMBOM,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87e6ypA,64717,Migrate Countdown Lab,CLOSED,2025-12-17T18:17:55Z,2026-01-05T16:43:08Z,femincan,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87g3RWy,64945,Theme resets to light and login session is lost when opening C# challenges in a new tab,OPEN,2025-12-31T11:21:32Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87glQZX,64930,key_set scope issue,OPEN,2025-12-29T16:47:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fh9Dk,64809,How Do You Create a Newline in Strings and Escape Strings? - question with two correct answers,CLOSED,2025-12-20T16:53:59Z,2026-01-05T15:24:43Z,JorgeOteiza,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gvQTI,64935,python Implement the Depth-First Search Algorithm,CLOSED,2025-12-30T15:06:59Z,2026-01-05T12:36:31Z,Dario-DC,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87hCThk,64961,Incorrect Information: TPGi Colour Contrast Analyzer is desktop based and not a webpage.,CLOSED,2026-01-02T02:41:54Z,2026-01-05T12:09:16Z,YashhCanCode,freeCodeCamp,freeCodeCamp
@@ -498,7 +501,6 @@ I_kwDOAbI7X87Zo9CH,64032,Correct `blockLayout` of Certification Introduction blo
 I_kwDOAbI7X87Zop0S,64028,Sentence can be made more cleaner and polished in [What Is Python and What Are Some Common Uses in the Industry?] - Introduction to Python lesson,CLOSED,2025-11-21T11:32:30Z,2025-11-21T12:11:57Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Zo0-2,64030,Syntax highlighting is missing,CLOSED,2025-11-21T11:47:58Z,2025-11-21T11:54:29Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WqMcL,63638,Use consistent editor layout for workshops in full stack cert,CLOSED,2025-11-07T17:53:47Z,2025-11-21T11:44:41Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864wrks,60589,Make editor easier to use,OPEN,2025-05-29T09:41:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SgQV7,62905,Redirect users who sign in from the landing page to /learn,CLOSED,2025-10-20T09:13:31Z,2025-11-21T11:03:57Z,Jamesren64;ahmaxed;ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87YhsXB,63903,wrong definition of callback,CLOSED,2025-11-17T10:32:18Z,2025-11-21T09:03:28Z,huyenltnguyen;shokuyansh,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SO95T,62885,missing topic from review,CLOSED,2025-10-17T18:36:46Z,2025-11-21T08:38:56Z,Vardhu32;huyenltnguyen;vardhu032,freeCodeCamp,freeCodeCamp
@@ -997,5 +999,3 @@ I_kwDOAbI7X87RB1zX,62740,docs(readme/license): copyright statement spelling erro
 I_kwDOAbI7X87RBmkx,62737,docs(contributing): broken link to editing doc site,CLOSED,2025-10-12T09:12:36Z,2025-10-13T08:24:40Z,R055A,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87RCZLU,62743,frontend is not well organize,CLOSED,2025-10-12T12:09:39Z,2025-10-13T02:32:59Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87RDCu-,62744,Quiz + Game = A Fun Way to Refresh Your Mind,CLOSED,2025-10-12T13:55:54Z,2025-10-12T16:10:50Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Q89PY,62731,spaces and new lines related test issues in lab-business-card,CLOSED,2025-10-11T10:59:35Z,2025-10-11T23:50:22Z,KoolDrip,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Q8Gx_,62729,UI/UX Feedback: Soften Sharp Edges and Improve Profile Page Navigation/Display,CLOSED,2025-10-11T08:16:50Z,2025-10-11T11:26:25Z,,freeCodeCamp,freeCodeCamp
