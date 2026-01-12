@@ -1,4 +1,8 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+112f46f20e25b040ab6acc244600c84f2dd8f05f,fix(curriculum): correct verb agreement in comparison lesson (#65080),2026-01-11T09:02:31Z,1,2,builtbykabir,freeCodeCamp,freeCodeCamp
+44a1ea97d30ebed1eb58df5c7f9eb615fed64e4c,fix(curriculum): ensure solution passes when longest word is first in…,2026-01-11T05:49:15Z,1,6,achf01,freeCodeCamp,freeCodeCamp
+bf2742787bf31735a79ad3a1ccf8bd807ccc0c98,fix(curriculum): add HTML element syntax for better clarification (#6…,2026-01-11T05:46:22Z,1,8,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+a87f9424f6b95d30ff0e766b4e6d9061a5b772a3,chore(readme): update readme to point to certifications (#65066),2026-01-11T04:00:06Z,1,24,Ksound22,freeCodeCamp,freeCodeCamp
 5baa63b300843fc215de59544c02ae1d9a8c954c,fix(.github): correct curriculum structure path in CODEOWNERS (#65062),2026-01-10T06:53:23Z,1,2,huyenltnguyen,freeCodeCamp,freeCodeCamp
 6eed6f081c1e7ebefca014903b544d1d6d2b512f,feat(curriculum): add stub quizzes to B1 English (#65050),2026-01-09T20:41:26Z,74,6306,huyenltnguyen,freeCodeCamp,freeCodeCamp
 a0abb9df134eb5bdda67957550f7cd7523dcd942,feat(curriculum): add stub quizzes to A2 English (#65049),2026-01-09T20:40:41Z,83,7116,huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -1052,6 +1056,3 @@ c005816748dcd5dd37cdfe6e21f6315a0d6ec2e2,fix(api): handle invalid picture URLs f
 a3150ee44c1d6b4a941f98a652ad53b10b5742df,docs: fallback to org .github files,2025-10-13T08:26:21Z,2,3,raisedadead,freeCodeCamp,freeCodeCamp
 e8cb2eb04b4d63885fc4a8b7ad5efdf8c7729fe5,docs(contributing): remove broken path link to editing the doc site (…,2025-10-13T08:24:38Z,1,1,R055A,freeCodeCamp,freeCodeCamp
 7cbd1d79b9c68267ee7fed1f77aed681b8ee2359,"feat(api): add DELETE ""/account"" endpoint to API (#61745)",2025-10-12T15:59:42Z,4,239,Sembauke,freeCodeCamp,freeCodeCamp
-7709d3d78648a0e97dc050dd34a92aa1f5371874,fix(curriculum): add .trim() to business card lab tests (#62732),2025-10-11T23:50:21Z,1,16,KoolDrip,freeCodeCamp,freeCodeCamp
-7b333597466b07e6172f21f298f0377c3612ef25,chore: use active contributions badge,2025-10-11T14:28:44Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
-69a0d1d8c8239d92907e39cad95328df253f1a14,chore: cleanup badges,2025-10-11T14:24:53Z,1,3,raisedadead,freeCodeCamp,freeCodeCamp
