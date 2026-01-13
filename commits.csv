@@ -1,4 +1,10 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+43cf9f59213ffbe7843816472762098253535072,fix(curriculum): improve sentence flow in task 13 explanation (#65092),2026-01-12T19:15:57Z,1,2,DeveloperViraj,freeCodeCamp,freeCodeCamp
+30835c882b1476a03b6d1b8b2b784d9fb4a20b63,fix(curriculum): add missing 'does not' to augmented assignment descr…,2026-01-12T19:12:47Z,1,2,remy-baastin,freeCodeCamp,freeCodeCamp
+6df66051dddaf33b06f5a9a064a176ea3d9d82c3,"fix(curriculum): replacing regex with loop in ""Build a Sentence Analy…",2026-01-12T14:15:44Z,1,24,its-cutie-valerie,freeCodeCamp,freeCodeCamp
+b2ddf571b816df8d6df5cb945af9a86e498dfeaf,fix:(curriculum) missing backtick (#65088),2026-01-12T08:25:49Z,1,2,mjskraju,freeCodeCamp,freeCodeCamp
+c92477fa5cf370eeb832fcb01fcacaecf7b5b0bb,feat(curriculum): add intro to npm lessons (#64993),2026-01-12T08:00:31Z,11,1636,majestic-owl448,freeCodeCamp,freeCodeCamp
+12940f49056413cce00656ec3af65201127ea9c5,fix(curriculum): test that contacts array is not modified in lab prof…,2026-01-12T04:53:12Z,1,11,a2937,freeCodeCamp,freeCodeCamp
 112f46f20e25b040ab6acc244600c84f2dd8f05f,fix(curriculum): correct verb agreement in comparison lesson (#65080),2026-01-11T09:02:31Z,1,2,builtbykabir,freeCodeCamp,freeCodeCamp
 44a1ea97d30ebed1eb58df5c7f9eb615fed64e4c,fix(curriculum): ensure solution passes when longest word is first in…,2026-01-11T05:49:15Z,1,6,achf01,freeCodeCamp,freeCodeCamp
 bf2742787bf31735a79ad3a1ccf8bd807ccc0c98,fix(curriculum): add HTML element syntax for better clarification (#6…,2026-01-11T05:46:22Z,1,8,AdityaSingh-18,freeCodeCamp,freeCodeCamp
@@ -1055,4 +1061,3 @@ c005816748dcd5dd37cdfe6e21f6315a0d6ec2e2,fix(api): handle invalid picture URLs f
 31cd5d7508fb0e3c8222f747e909e932db1c7230,docs(readme): fix copyright statement spelling error (#62741),2025-10-13T08:31:47Z,1,2,R055A,freeCodeCamp,freeCodeCamp
 a3150ee44c1d6b4a941f98a652ad53b10b5742df,docs: fallback to org .github files,2025-10-13T08:26:21Z,2,3,raisedadead,freeCodeCamp,freeCodeCamp
 e8cb2eb04b4d63885fc4a8b7ad5efdf8c7729fe5,docs(contributing): remove broken path link to editing the doc site (…,2025-10-13T08:24:38Z,1,1,R055A,freeCodeCamp,freeCodeCamp
-7cbd1d79b9c68267ee7fed1f77aed681b8ee2359,"feat(api): add DELETE ""/account"" endpoint to API (#61745)",2025-10-12T15:59:42Z,4,239,Sembauke,freeCodeCamp,freeCodeCamp
