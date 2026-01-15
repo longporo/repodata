@@ -1,4 +1,25 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+93c85b51678acfd3ccacd22f1c37ffb9e76d3ff7,fix(deps): update dependency @fastify/swagger-ui to v5.2.4 (#65168),2026-01-14T21:51:49Z,2,102,renovate[bot],freeCodeCamp,freeCodeCamp
+4f394fdd949d41d1909ed7f52725db045dcd9531,"fix(curriculum): correct typo in  Lists, Links, CSS backgrounds and b…",2026-01-14T17:30:23Z,2,4,YaelSeror-dev,freeCodeCamp,freeCodeCamp
+3fef165de563101a9c3e08df78dce2d52b060f21,"chore(i18n,learn): update i18n-curriculum submodule (#65159)",2026-01-14T16:49:19Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+126621dce1e7b12d5ff2db6bd0bbe00a99abaa50,"chore(i18n,client): processed translations (#65155)",2026-01-14T15:16:13Z,10,360,camperbot,freeCodeCamp,freeCodeCamp
+52622055405a394d8a09467ef168c8f99ac9dcf8,feat(curriculum): daily challenges 161-170 (#65140),2026-01-14T15:05:49Z,23,1800,moT01,freeCodeCamp,freeCodeCamp
+bc040eed1214f2e3f4962d3bf05a2d30f16061b5,fix(curriculum): fix test assertions in step7 of recipe tracker works…,2026-01-14T13:54:08Z,1,40,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+521c583c66d30698970595a286a142638dca6bad,Merge commit from fork,2026-01-14T12:50:43Z,2,60,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+0b0b03296cc8d145ae34bfc3766abc87e3a616de,fix(deps): update dependency @fastify/cookie to v11.0.2 (#65151),2026-01-14T11:30:53Z,2,14,renovate[bot],freeCodeCamp,freeCodeCamp
+4f0231c6bcdf199bf16661ee47697af55eff796f,fix: replace values with vowels (#65147),2026-01-14T10:48:17Z,1,2,pratheek-81,freeCodeCamp,freeCodeCamp
+7e70a10163a5b987e0a7d6944b9e376ce3d82767,fix(curriculum): Updated field label for better readability (#65104),2026-01-14T10:46:19Z,29,64,rizwan-rizu,freeCodeCamp,freeCodeCamp
+071374ca02ef5ea6b0a3f4c0b8734a4811041412,fix(curriculum): clarify error when inserting without columns (#65133),2026-01-14T10:20:02Z,1,6,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+f66ec56ab69c60a5facae76984cd6b56f95a7193,fix(curriculum): change 'property' to 'attribute' (#65127),2026-01-14T10:05:30Z,1,15,octavio-js,freeCodeCamp,freeCodeCamp
+bc0a84426d3780bc8fd7245e98bc718a2f0cce27,fix(curriculum): remove incorrect article in RWD curriculum (#65129),2026-01-14T09:27:02Z,1,2,matanatkhalil,freeCodeCamp,freeCodeCamp
+0e1443f361a6268f4857067142cc5e1230caf945,fix(api): skip picture validation when unchanged (#64868),2026-01-14T08:05:35Z,2,84,steven-the-qa,freeCodeCamp,freeCodeCamp
+0d9c47672724bc6401f2788ee71181f8cddd8725,fix(deps): update dependency @fastify/accepts to v5.0.4 (#65146),2026-01-14T07:38:45Z,2,16,renovate[bot],freeCodeCamp,freeCodeCamp
+1c6c268cd685e0d9642a8f38ff2f1f62f5fc7384,chore(deps): update tailscale/github-action digest to 53acf82 (#65141),2026-01-14T06:43:32Z,2,4,renovate[bot],freeCodeCamp,freeCodeCamp
+fb7bfdd587f307152d965492fe479900f96637c2,feat(curriculum): add more validation of table structure to Book Inve…,2026-01-14T06:00:47Z,1,46,majestic-owl448,freeCodeCamp,freeCodeCamp
+f7f6e9d3ac00f139f8a71aa691481cb0a541813b,fix(curriculum): correct typo in recipe tracker step 6 (#65123),2026-01-14T05:35:30Z,1,4,Vipeen-Kumar,freeCodeCamp,freeCodeCamp
+24fa7a1b99bd0258d1b2109e6b14c8dbd37129a2,chore(deps): update dependency eslint to v9.39.2 (#65142),2026-01-14T05:13:40Z,1,801,renovate[bot],freeCodeCamp,freeCodeCamp
+0bc2cd4a9be1460ccd14377de501a56d4c2d6498,fix(gha): allow renovate - create PRs after checks,2026-01-14T04:39:53Z,1,1,raisedadead,freeCodeCamp,freeCodeCamp
+c0e60fd355c97c555a2b139a7096bc8d0604fdc1,fix(renovate): dont catch other than API (#65124),2026-01-14T04:31:00Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
 fafd1c5e1fe410f0a31f597b2798aef8d2095816,feat(curriculum): EN-A2 quiz for block 1 (#65112),2026-01-13T19:27:35Z,1,325,anastasiiauk,freeCodeCamp,freeCodeCamp
 42e4238cf1987c76072e088434815e8621705cb4,fix(curriculum): clarify discount percentage in step 17 instruction (…,2026-01-13T18:18:01Z,1,2,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 9f0f7155e5d5743752276dc6fe774763485d5e95,"fix(curriculum): add missing space between ""a"" and ""required"" (#65114)",2026-01-13T17:09:48Z,1,2,nageetaw,freeCodeCamp,freeCodeCamp
@@ -1029,29 +1050,3 @@ c2d5d8c974197c3834996b64352c87e36d3edb92,feat(curriculum): add element skipper l
 d1d3d36ea4e0f8787a9f3e8066ca7cbd0ec31ca6,fix(curriculum): add .trim() to innerText assertions (#62806),2025-10-15T09:33:33Z,1,14,Giftea,freeCodeCamp,freeCodeCamp
 d86703fce35a1397ffb543de1cf6d7570b5a1a56,"chore(i18n,learn): update i18n-curriculum submodule (#62812)",2025-10-15T02:58:47Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 361207680c8001ddb454948f96e66b63baf26430,fix(client): add list of cert projects to RWD and JS intro (#62822),2025-10-15T02:55:38Z,1,22,huyenltnguyen,freeCodeCamp,freeCodeCamp
-72d80f0f524e7561c370864c37511a52afe3e8ed,feat(curriculum): added interactive examples to specificity lesson (#…,2025-10-15T00:50:03Z,1,153,sanskriti2005,freeCodeCamp,freeCodeCamp
-f2e8d52e21016a1b434c92d6c51b884f6a30c35c,feat(curriculum): add interactive examples - intro css lesson (#62777),2025-10-15T00:43:13Z,1,204,shayla11,freeCodeCamp,freeCodeCamp
-598ecbe2cc68b9a7f3f48980d93be5f29ed3309e,feat(curriculum): update interactive examples in CSS specificity less…,2025-10-15T00:28:05Z,1,28,arizfaiyaz,freeCodeCamp,freeCodeCamp
-5c116f0972c302c2e6087441d3613f5ede6c18df,feat(curriculum): Add interactive examples to id selectors lesson (#6…,2025-10-15T00:25:45Z,1,13,arizfaiyaz,freeCodeCamp,freeCodeCamp
-cef48ce2e8e8e08ee5510b769cbc26a27a8d4e80,feat(curriculum): update interactive sections in CSS `!important` exp…,2025-10-15T00:23:39Z,1,30,arizfaiyaz,freeCodeCamp,freeCodeCamp
-d8a398453bb97553e7b8120ec1b6207221970b0a,feat(curriculum): Add interactive examples to cascade algorithm lesso…,2025-10-15T00:22:25Z,1,12,arizfaiyaz,freeCodeCamp,freeCodeCamp
-3a4872de3a20530b4cd629ba8cd5ae717c04e82e,feat(curriculum): Add interactive examples to CSS inheritance lesson …,2025-10-15T00:18:27Z,1,10,arizfaiyaz,freeCodeCamp,freeCodeCamp
-20e832c4e5c12e147f445554efe124fa69e47572,feat(curriculum): Add interactive examples to list items & line-heigh…,2025-10-14T22:40:06Z,1,34,Giftea,freeCodeCamp,freeCodeCamp
-d263e487e3d84aece5826c9eb62366a05f0e52a3,feat(curriculum): add interactive examples to default styling links l…,2025-10-14T22:38:52Z,1,36,Giftea,freeCodeCamp,freeCodeCamp
-c5600735bfdc1c96f1833fa01d89b00a100088f1,feat(curriculum): Add interactive examples to styling link states les…,2025-10-14T22:37:28Z,1,56,Giftea,freeCodeCamp,freeCodeCamp
-895fe011071c979866d4079c0e004d368ff05b77,feat(curriculum): Add interactive examples to list-style property les…,2025-10-14T22:19:48Z,1,24,Giftea,freeCodeCamp,freeCodeCamp
-594ebd066be9d761d5dab6f150aa9b99a07ac9fd,feat(curriculum): Add interactive examples to background images lesso…,2025-10-14T20:48:21Z,1,168,Giftea,freeCodeCamp,freeCodeCamp
-63d186649d989fae62ef1788d221b6832584941f,feat(curriculum): Add interactive examples to background gradient les…,2025-10-14T20:47:42Z,1,20,Giftea,freeCodeCamp,freeCodeCamp
-1f3a9b747a581c3e0270070c6acccaadace28336,feat(curriculum): Add interactive examples to accessible backgrounds …,2025-10-14T20:47:16Z,1,27,Giftea,freeCodeCamp,freeCodeCamp
-0d5101689c0b66bbeb8cca5e7db84bf8d3e671e5,feat(curriculum): Add interactive examples for borders and images les…,2025-10-14T20:46:41Z,1,50,Giftea,freeCodeCamp,freeCodeCamp
-8460ccf15c094cc50c925a76888cdf72bff3ac2d,fix(curriculum): clarify what terminal is in Python installation less…,2025-10-14T19:38:33Z,1,2,alifa-ara-heya,freeCodeCamp,freeCodeCamp
-00ca2b1c7e15513a403fe474d68f631508eb82d4,fix: i18n node tests (#62785),2025-10-14T16:32:49Z,1,131,moT01,freeCodeCamp,freeCodeCamp
-b35ec9ef114dbc036147e8efe1f685c8df944c6e,fix(curriculum): fix word from statememt to statement (#62781),2025-10-14T16:08:49Z,1,2,Giftea,freeCodeCamp,freeCodeCamp
-e018e2e61af09b7d020029be6fe19790ecc9163e,"chore(i18n,client): processed translations (#62749)",2025-10-14T15:24:18Z,10,10390,camperbot,freeCodeCamp,freeCodeCamp
-254b4a08aa01dbc3fd03bca1549921bd58753bcb,fix(curriculum): add missing 'to' in favicon description in Basic HTM…,2025-10-14T14:21:01Z,1,2,Danielchinasa,freeCodeCamp,freeCodeCamp
-df1c1a3f3f3c42510e1e904cecebb7e08a6bbd25,refactor: modularize typescript worker (#62668),2025-10-14T09:44:52Z,3,180,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-e8f8b044cd9d8e6671d82859f23e31cda3364440,fix(client): allow transcript expanded state to not persist (#62492),2025-10-14T05:18:44Z,2,43,huyenltnguyen,freeCodeCamp,freeCodeCamp
-f4531901221307e6fbae92bb7e94971aea83fed2,feat(client): redirect renamed prime number sum calculator lab (#62391),2025-10-14T04:43:53Z,1,4,majestic-owl448,freeCodeCamp,freeCodeCamp
-d1106e928b871b0bc89db7e2c05d104dbce65e04,feat(curriculum): rename prime numbers sum calculator (#62392),2025-10-14T04:43:35Z,6,34,majestic-owl448,freeCodeCamp,freeCodeCamp
-9993661bd2cdd5883f6f8fc0af7a3d67b983838b,fix(learn): Fix navigation issues with block hover on the Odin Projec…,2025-10-14T04:41:00Z,1,41,azad12614,freeCodeCamp,freeCodeCamp
-c2dac680bbd35aea60c96395dccb565e87f411b8,fix(curriculum): remove punctuation from example phrase in backticks …,2025-10-14T03:34:11Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
