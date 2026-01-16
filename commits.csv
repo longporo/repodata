@@ -1,4 +1,22 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+88dfe52210540f551eb962b8277c5379f5d0841c,fix(deps): update dependency @aws-sdk/client-ses to v3.965.0 (#65242),2026-01-16T01:10:20Z,2,1465,renovate[bot],freeCodeCamp,freeCodeCamp
+d76c1596c4e315dbdd1fc5fe6ad33e55ed6cc88c,fix(curriculum): Corrected a small typo in the RWD curriculum (#65200),2026-01-15T23:02:03Z,1,2,Roxicaro,freeCodeCamp,freeCodeCamp
+1b118a3c804662c98ce33a373f9e07dadb67ba6b,feat(curriculum): add A1 Spanish audio for numbers 30 to 100 practice…,2026-01-15T22:16:49Z,1,1,estefaniacn,freeCodeCamp,freeCodeCamp
+0a08631fef75465323845d3b90ea9d27307b6ffe,chore(deps): update dependency tsx to v4.21.0 (#65190),2026-01-15T20:33:03Z,2,96,renovate[bot],freeCodeCamp,freeCodeCamp
+2b5331e80dcb50471906176db76c9b6ad811d680,chore(deps): update dependency msw to v2.12.7 (#65188),2026-01-15T19:55:14Z,1,401,renovate[bot],freeCodeCamp,freeCodeCamp
+f5364864ee11db706c3f3f1b1dd2e14225f9e524,fix(curriculum): ensure setters run during object initialization (#65…,2026-01-15T19:07:04Z,1,6,lakshay122007,freeCodeCamp,freeCodeCamp
+bdb6c39fc96e741b145c1c30a51d9bc38dc9698e,fix: changes 'is a' to 'are' for plural form in task-68 (#65182),2026-01-15T18:13:26Z,1,2,07mastermind,freeCodeCamp,freeCodeCamp
+38fa6735662528ad0480c5e102a7f7e0c4ca68f3,chore(deps): update dependency dotenv-cli to v7.4.4 (#65186),2026-01-15T17:46:56Z,2,14,renovate[bot],freeCodeCamp,freeCodeCamp
+61b43da03d5586441c80faa5ceaef66fcf663aee,fix(deps): update dependency validator to v13.15.26 (#65183),2026-01-15T16:59:17Z,2,23,renovate[bot],freeCodeCamp,freeCodeCamp
+e4f1e611b8a92d2bc2ab17fbf076deda184a8809,chore(deps): update github actions (major) (#65179),2026-01-15T16:07:37Z,12,66,renovate[bot],freeCodeCamp,freeCodeCamp
+1b5713401ca21ca578163e70b739a83c5a6c944b,fix(curriculum): Fixed a small typo in the RWD curriculum (#65180),2026-01-15T15:35:12Z,1,2,Roxicaro,freeCodeCamp,freeCodeCamp
+553de18238dd830edfdff7d0f429584af50ae91d,chore(deps): update dependency eslint-plugin-jsdoc to v48.11.0 (#65178),2026-01-15T15:01:47Z,2,223,renovate[bot],freeCodeCamp,freeCodeCamp
+996cdec2522815477953b7b33a6f3eafd020219c,fix(curriculum): A2-EN typo fix (#65173),2026-01-15T14:19:41Z,1,2,anastasiiauk,freeCodeCamp,freeCodeCamp
+59efcd409a335c6f02dd89496dadd5e9b8906df5,chore(deps): update dependency @total-typescript/ts-reset to v0.6.1 (…,2026-01-15T13:50:35Z,2,6,renovate[bot],freeCodeCamp,freeCodeCamp
+457e9d979981317868f5ff76dc46d8d2d7e4a11e,fix(deps): update dependency typebox to v1.0.76 (#65176),2026-01-15T12:59:19Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
+afb15303b69fcaf24371088d8f421ac16d5fb195,chore(deps): update actions/setup-node digest to 6044e13 (#65175),2026-01-15T11:14:40Z,6,22,renovate[bot],freeCodeCamp,freeCodeCamp
+a4e9bc08f7ff65698f0595b357a52101be6be3d5,fix(deps): update dependency typebox to v1.0.75 (#65171),2026-01-15T05:51:17Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
+12162c400369d645f08367da66790ad815b60ea8,fix(deps): update dependency lodash-es to v4.17.22 (#65169),2026-01-15T02:54:37Z,2,11,renovate[bot],freeCodeCamp,freeCodeCamp
 93c85b51678acfd3ccacd22f1c37ffb9e76d3ff7,fix(deps): update dependency @fastify/swagger-ui to v5.2.4 (#65168),2026-01-14T21:51:49Z,2,102,renovate[bot],freeCodeCamp,freeCodeCamp
 4f394fdd949d41d1909ed7f52725db045dcd9531,"fix(curriculum): correct typo in  Lists, Links, CSS backgrounds and b…",2026-01-14T17:30:23Z,2,4,YaelSeror-dev,freeCodeCamp,freeCodeCamp
 3fef165de563101a9c3e08df78dce2d52b060f21,"chore(i18n,learn): update i18n-curriculum submodule (#65159)",2026-01-14T16:49:19Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
@@ -388,7 +406,7 @@ bcacf747edd4035d7e8dc2ebec3b3e807c7c8b07,fix(client): hide console on JS-only in
 dd2a6ed7fa8f2febe8ba3fb3d9b83215c7270604,"fix(Curriculum): Remove ""write the letter"" from sentence in A1 Spanis…",2025-12-05T15:16:04Z,23,46,nieldakarla,freeCodeCamp,freeCodeCamp
 10437c3d7d6d423677e55869ce3830519d1978b9,fix(curriculum): added indentation on editable region (#64334),2025-12-05T10:55:33Z,1,2,alifarooqi,freeCodeCamp,freeCodeCamp
 c0e1e13cc139d6375d39983548ad275226cacd3b,refactor: clean up usage of certTypes (#64322),2025-12-05T07:50:07Z,5,209,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-d9c81c35726643f643493850e89326a178077693,fix(curriculum): typo in Python Abstraction lesson (#64332),2025-12-05T00:15:50Z,1,2,XWWorks,freeCodeCamp,freeCodeCamp
+d9c81c35726643f643493850e89326a178077693,fix(curriculum): typo in Python Abstraction lesson (#64332),2025-12-05T00:15:50Z,1,2,maxw2025,freeCodeCamp,freeCodeCamp
 3a9c45f324f711eb7efc9730c0b028af1b9aad2b,fix(curriculum): remove extra spaces lab-game-character-stats (#64329),2025-12-04T20:03:15Z,1,8,pdtrang,freeCodeCamp,freeCodeCamp
 82a9b08c98d9692aae03cf48335a215048247d1d,fix(curriculum): remove redundancies in a passage for HTML abbreviati…,2025-12-04T18:33:47Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
 93816c737b21c3020eb54b4014476ce2edd4969b,fix(curriculum): minor enhancement in few code examples (#64320),2025-12-04T17:58:39Z,3,6,SkvProgrammer,freeCodeCamp,freeCodeCamp
@@ -1031,22 +1049,3 @@ ed568658c13d43908cc5334c3345ab8007b23a85,feat: add a2-english cert and exam (#62
 652684e8de6905d643356de6b0fc5b2b94582c49,fix(challenge-editor): superblock names in link to challenge (#62669),2025-10-16T07:39:17Z,2,61,moT01,freeCodeCamp,freeCodeCamp
 c91ff309f0dc67115233373126841eacf0d704f1,feat(curriculum): add string transformer workshop to FSD cert (#62557),2025-10-16T06:35:56Z,15,765,jdwilkin4,freeCodeCamp,freeCodeCamp
 bf4088992091281f0edf00c36b684fd31652d47a,refactor(client): remove unused styles in help-modal.css (#62846),2025-10-16T03:32:41Z,1,9,huyenltnguyen,freeCodeCamp,freeCodeCamp
-0c8fc66fbf189455e7078e4f6ac2974f68f55180,feat(curriculum): Add interactive examples to alignment lesson (#62842),2025-10-15T23:27:28Z,1,217,Giftea,freeCodeCamp,freeCodeCamp
-12a39223e5fa4c2e8a601839bd736ded90b1900b,feat(curriculum): Add interactive examples to visual hierarchy lesson…,2025-10-15T23:20:51Z,1,189,Giftea,freeCodeCamp,freeCodeCamp
-4c62cb643d823cb0c90b8db2833accbd9b1993c2,chore: @freecodecamp/curriculum-helpers@7.0.0 (#62826),2025-10-15T23:17:53Z,2,144,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-2bee3596119160bfd02824c9cd010de3e7baaaf0,feat(curriculum): Add interactive examples to color contrast lesson (…,2025-10-15T23:02:02Z,1,372,Giftea,freeCodeCamp,freeCodeCamp
-46357a279654040b5404b55ff9a40b763e4c9ce4,feat(curriculum): Add interactive examples to working with strings le…,2025-10-15T22:59:38Z,1,59,Giftea,freeCodeCamp,freeCodeCamp
-dc985408e9245ec2aa9e85de28bcdf198fec7368,feat(curriculum): Add interactive examples to common design terms les…,2025-10-15T22:58:22Z,1,584,Giftea,freeCodeCamp,freeCodeCamp
-42e578099d9fb880dfbc0355d2d734a863d69022,feat(curriculum): Add interactive examples to scale lesson (#62839),2025-10-15T22:57:42Z,1,148,Giftea,freeCodeCamp,freeCodeCamp
-04447d25b59692611a31842e16a895a0fa97166e,feat(curriculum): Add interactive examples to images and design lesso…,2025-10-15T22:51:53Z,1,233,Giftea,freeCodeCamp,freeCodeCamp
-f6a4c486368e3ef0c595f994e0627f4acfdb3473,fix(curriculum): add .trim() to innerText  and textContent assertions…,2025-10-15T22:11:54Z,13,114,Giftea,freeCodeCamp,freeCodeCamp
-a4da6d288246c41760350a2e6d8b9ffa88c081e1,"revert(i18n,client): add note for deployment issues (#62827)",2025-10-15T21:56:46Z,1,31,raisedadead,freeCodeCamp,freeCodeCamp
-76984837ea7e89a6d4347005c12bbb7a62761cc0,fix(curriculum): add test to ensure typeAttr matches srcAttr media ty…,2025-10-15T20:40:36Z,1,19,l3onhard,freeCodeCamp,freeCodeCamp
-836134b3273d721ebaf3caee6d0f901f04e0a4a7,fix(curriculum): fix typos in lab-boolean-check (#62844),2025-10-15T20:05:47Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
-2f9057158359338dbbe4829d39a9504edebb598a,"chore(i18n,client): processed translations (#62825)",2025-10-15T16:44:32Z,10,322,camperbot,freeCodeCamp,freeCodeCamp
-ca02bcb7ee8761cb8bf9a8d61e097134766bbf9d,"feat(api,client): add rwd and js v9 certs (#62458)",2025-10-15T16:06:42Z,26,129,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-c2d5d8c974197c3834996b64352c87e36d3edb92,feat(curriculum): add element skipper lab (#62779),2025-10-15T15:12:15Z,5,203,larymak,freeCodeCamp,freeCodeCamp
-41b6aea6ebe5bd6f593211b90aece5e5074349cb,fix(curriculum): typo in Understanding the HTML boilerplate lesson (#…,2025-10-15T14:16:18Z,1,2,Ansh-Kathil,freeCodeCamp,freeCodeCamp
-d1d3d36ea4e0f8787a9f3e8066ca7cbd0ec31ca6,fix(curriculum): add .trim() to innerText assertions (#62806),2025-10-15T09:33:33Z,1,14,Giftea,freeCodeCamp,freeCodeCamp
-d86703fce35a1397ffb543de1cf6d7570b5a1a56,"chore(i18n,learn): update i18n-curriculum submodule (#62812)",2025-10-15T02:58:47Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-361207680c8001ddb454948f96e66b63baf26430,fix(client): add list of cert projects to RWD and JS intro (#62822),2025-10-15T02:55:38Z,1,22,huyenltnguyen,freeCodeCamp,freeCodeCamp
