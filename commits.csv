@@ -1,4 +1,23 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+be7593463babb9204f647bac2ec7bfd25da0690a,fix(deps): update dependency fastify to v5.6.2 (#65261),2026-01-16T17:44:43Z,2,80,renovate[bot],freeCodeCamp,freeCodeCamp
+076ca122439ae8b98f93a7a24c259227a98425e0,fix(deps): update prisma monorepo to v6.19.1 (#65267),2026-01-16T17:44:32Z,2,92,renovate[bot],freeCodeCamp,freeCodeCamp
+a5f661d1e730b68e263f440091a57a42b3a67bb0,fix(deps): update dependency stripe to v16.12.0 (#65266),2026-01-16T17:44:25Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
+ea0f77d1855b24435b86532b3682ea278c9a8ee5,fix(deps): update dependency pino-pretty to v10.3.1 (#65264),2026-01-16T16:51:45Z,2,23,renovate[bot],freeCodeCamp,freeCodeCamp
+869a270d3984ac6a77969df7e746e82cc7e4506b,fix(deps): update dependency nodemailer to v6.10.1 (#65263),2026-01-16T16:51:39Z,2,63,renovate[bot],freeCodeCamp,freeCodeCamp
+085b319187626e1929a781b4f7e95a7ba150c342,fix(curriculum): add hyphen in sub-problems (#65260),2026-01-16T14:57:35Z,1,2,Yogesh-ai3,freeCodeCamp,freeCodeCamp
+20d3983560b44c196098da5b2dfed84b6e12cb65,fix(curriculum): corrected dict() example value types (#65255),2026-01-16T14:37:12Z,1,20,lakshay122007,freeCodeCamp,freeCodeCamp
+ea13e7fe1c442b86df18337c792a8a2de520c6ff,fix(deps): update dependency joi to v17.13.3 (#65262),2026-01-16T14:31:50Z,2,14,renovate[bot],freeCodeCamp,freeCodeCamp
+a8fc3ba58603aa83486c0cbad4c9120625bb7460,feat: option to create a new chapter/module when creating new blocks …,2026-01-16T14:30:40Z,3,173,Sembauke,freeCodeCamp,freeCodeCamp
+a49913fff21b9833b7fc4476ccbc110ddacdaaa8,fix(deps): update dependency mongodb to v6.21.0 (#65259),2026-01-16T12:45:27Z,2,65,renovate[bot],freeCodeCamp,freeCodeCamp
+c429d771c542b3d1486327749f122306bd3b2e24,fix(deps): update dependency fastify-plugin to v5.1.0 (#65257),2026-01-16T12:01:30Z,2,26,renovate[bot],freeCodeCamp,freeCodeCamp
+4020f202fc6803ad8a03c1fa3ddbca998776819c,fix(deps): update dependency fast-uri to v2.4.0 (#65256),2026-01-16T11:59:53Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
+651fccad41c6ecfa4052ef69ccf95c4cc90b8f27,fix(curriculum): Made better tests for fortune teller lab (#62677),2026-01-16T07:58:25Z,1,35,Bharath314,freeCodeCamp,freeCodeCamp
+3478772455fedcda6add2e288af6bad141024f18,fix(deps): update dependency dotenv to v16.6.1 (#65249),2026-01-16T07:19:12Z,2,10,renovate[bot],freeCodeCamp,freeCodeCamp
+7cc3cc465872bc29ce027ebd4bf0e10caa7e483a,fix(deps): update dependency @sentry/node to v9.47.1 (#65248),2026-01-16T07:18:41Z,2,405,renovate[bot],freeCodeCamp,freeCodeCamp
+7f3d4d1182273c31807006c4b66aabc17ccf7c41,fix: correct typos in lecture-working-with-file-systems block. (#64811),2026-01-16T07:16:50Z,1,6,heidi37,freeCodeCamp,freeCodeCamp
+191f4b1b24b9397703b1918721500f812120b0e2,fix(deps): update dependency @growthbook/growthbook to v1.6.2 (#65245),2026-01-16T04:17:22Z,2,22,renovate[bot],freeCodeCamp,freeCodeCamp
+83dab6512350f533b0fd6e3200768ff209c08d0d,chore(deps): update actions/setup-node action to v6.2.0 (#65244),2026-01-16T04:17:21Z,1,4,renovate[bot],freeCodeCamp,freeCodeCamp
+9915e2d45b637680aa115ff948bddcce36216188,fix(deps): update dependency @fastify/swagger to v9.6.1 (#65243),2026-01-16T03:08:48Z,2,41,renovate[bot],freeCodeCamp,freeCodeCamp
 88dfe52210540f551eb962b8277c5379f5d0841c,fix(deps): update dependency @aws-sdk/client-ses to v3.965.0 (#65242),2026-01-16T01:10:20Z,2,1465,renovate[bot],freeCodeCamp,freeCodeCamp
 d76c1596c4e315dbdd1fc5fe6ad33e55ed6cc88c,fix(curriculum): Corrected a small typo in the RWD curriculum (#65200),2026-01-15T23:02:03Z,1,2,Roxicaro,freeCodeCamp,freeCodeCamp
 1b118a3c804662c98ce33a373f9e07dadb67ba6b,feat(curriculum): add A1 Spanish audio for numbers 30 to 100 practice…,2026-01-15T22:16:49Z,1,1,estefaniacn,freeCodeCamp,freeCodeCamp
@@ -1041,11 +1060,3 @@ a9b37de5a2a26879fa455217e90f7980499b2897,feat(curriculum): make relational datab
 3f7ad26a00a97f9b0b72f4fbc9727d8aaaa07137,chore(client): remove note for Project Euler and Rosetta Code (#62871),2025-10-17T10:48:12Z,1,1,Sembauke,freeCodeCamp,freeCodeCamp
 78b9cff3e844f7b572a0453df7e6c40ac0a311ba,fix(curriculum): typo in curriculum review-javascript-strings (#62867),2025-10-17T06:01:19Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
 c29d161a7573e787320b8f31280784df3095ed4b,fix(client): source super block structure in graphql and store in red…,2025-10-17T03:19:19Z,8,271,huyenltnguyen,freeCodeCamp,freeCodeCamp
-ed568658c13d43908cc5334c3345ab8007b23a85,feat: add a2-english cert and exam (#62855),2025-10-16T20:52:37Z,24,65,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-59cab66cf24db5826bb5dad7a108d5bc7bc65e02,feat: remove deprecated exam fields (#62852),2025-10-16T16:54:58Z,11,171,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-5add4262bd24c7cb37b7969944834d497b5d9bd6,refactor(client): use different challenges component in different blo…,2025-10-16T16:25:53Z,2,238,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-8965cf31807558c3a5cc7d59a1dcc0fc8ca00d49,fix(a11y): color contrast in interactive editor (#62848),2025-10-16T13:01:42Z,1,18,huyenltnguyen,freeCodeCamp,freeCodeCamp
-33cff927e00bbd0fcde1095714b5b3f9ad548010,fix(curriculum): remove unnecessary comma in JS variable lecture (#62…,2025-10-16T08:19:17Z,1,2,Aditya-jaiswal07972,freeCodeCamp,freeCodeCamp
-652684e8de6905d643356de6b0fc5b2b94582c49,fix(challenge-editor): superblock names in link to challenge (#62669),2025-10-16T07:39:17Z,2,61,moT01,freeCodeCamp,freeCodeCamp
-c91ff309f0dc67115233373126841eacf0d704f1,feat(curriculum): add string transformer workshop to FSD cert (#62557),2025-10-16T06:35:56Z,15,765,jdwilkin4,freeCodeCamp,freeCodeCamp
-bf4088992091281f0edf00c36b684fd31652d47a,refactor(client): remove unused styles in help-modal.css (#62846),2025-10-16T03:32:41Z,1,9,huyenltnguyen,freeCodeCamp,freeCodeCamp
