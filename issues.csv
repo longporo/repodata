@@ -1,10 +1,17 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87j5kkg,65268,Audit Workshops: Ensure Editable Regions Only Include Required Lines,OPEN,2026-01-16T20:14:43Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87JQzEc,62018,Daily challenge solutions are saved as `undefined.txt`,OPEN,2025-09-02T15:57:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jqRQ3,65239,Add interactive examples to JavaScript Functional Programming Review page,OPEN,2026-01-15T22:43:24Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jqZIL,65241,Review pages don't support interactive examples,OPEN,2026-01-15T22:55:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87j7SRv,65269,Codespaces Contribution Journey - how to contribute on codespaces?,OPEN,2026-01-16T23:10:03Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87j3bxR,65265,tighten editable region in caesar cipher workshop,OPEN,2026-01-16T17:35:51Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87gd5JC,64923,Incomplete instructions in step 6 of the „Build a Shopping List“ workshop,OPEN,2025-12-28T19:20:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCsh7,65121,Add code sandboxes to review sections,OPEN,2026-01-13T14:33:18Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jP5VV,65150,Issues with flex in Colored Boxes lab,OPEN,2026-01-14T10:36:38Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87LeJDl,62199,Spread operator (...) behaves incorrectly on array empty slots,OPEN,2025-09-13T15:17:30Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87bNhO2,64229,`--fcc-expected--` and `--fcc-actual--` handle falsy values incorrecly,OPEN,2025-11-30T13:18:03Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87idmVi,65070,Daily Coding Challenge: Tic-Tac-Toe has confusing test case,CLOSED,2026-01-10T09:20:23Z,2026-01-17T10:04:34Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87j5kkg,65268,Audit Workshops: Ensure Editable Regions Only Include Required Lines,OPEN,2026-01-16T20:14:43Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87j3bxR,65265,tighten editable region in caesar cipher workshop,OPEN,2026-01-16T17:35:51Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87JQzEc,62018,Daily challenge solutions are saved as `undefined.txt`,OPEN,2025-09-02T15:57:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jvIYp,65250,promise chaining fails tests,OPEN,2026-01-16T07:27:52Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jvtKr,65252,adding dash in compound word,CLOSED,2026-01-16T08:18:18Z,2026-01-16T14:57:36Z,Yogesh-ai3,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jwGgW,65254,Python Certification Hash Maps dictionary example typos,CLOSED,2026-01-16T08:52:13Z,2026-01-16T14:37:15Z,lakshay122007,freeCodeCamp,freeCodeCamp
@@ -17,8 +24,6 @@ I_kwDOAbI7X86xSpqy,59607,Build a Fortune Teller - Incorrect code passing,CLOSED,
 I_kwDOAbI7X87jt68v,65247,Missing bigint in list of JavaScript primitive types,OPEN,2026-01-16T05:38:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87flXvy,64818,"Incorrect location of where to create new files/folders on Windows, File menu on Mac and incorrect menu name",CLOSED,2025-12-21T12:51:37Z,2026-01-16T07:16:51Z,heidi37,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87i1tcs,65101,Make it easier for returning campers to resume where they left off,OPEN,2026-01-12T19:39:58Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jqZIL,65241,Review pages don't support interactive examples,OPEN,2026-01-15T22:55:53Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jqRQ3,65239,Add interactive examples to JavaScript Functional Programming Review page,OPEN,2026-01-15T22:43:24Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jqQaz,65238,Add interactive examples to JavaScript Classes Review page,OPEN,2026-01-15T22:41:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jqPkv,65237,Add interactive examples to JavaScript Maps and Sets Review,OPEN,2026-01-15T22:40:24Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jqLpC,65236,Add interactive examples to JavaScript Audio and Video Review,OPEN,2026-01-15T22:34:27Z,,,freeCodeCamp,freeCodeCamp
@@ -66,10 +71,8 @@ I_kwDOAbI7X86kobjV,57818,Consider saving the code for labs,OPEN,2024-12-29T01:19
 I_kwDOAbI7X87jVJkk,65163,ask for lang attribute in step 1 of bookstore page,OPEN,2026-01-14T16:39:52Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jAxjS,65115,"Grammatical Mistake in the ""Lists, Links, CSS Background and Borders Review"" Section of Responsive Web Design Certification",CLOSED,2026-01-13T12:27:23Z,2026-01-14T17:30:25Z,YaelSeror-dev,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gO32g,64891,Can't log into free code camp on my Mac,CLOSED,2025-12-25T13:18:20Z,2026-01-14T17:09:07Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87idmVi,65070,Daily Coding Challenge: Tic-Tac-Toe has confusing test case,OPEN,2026-01-10T09:20:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87idU_p,65069,Confetti effect triggers after resuming workshop instead of completing entire workshop.,OPEN,2026-01-10T08:32:30Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jG-JW,65134,Mismatch between description and tests in Build a Recipe Tracker - Step 7,CLOSED,2026-01-13T19:27:37Z,2026-01-14T13:54:10Z,AdityaSingh-18;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jP5VV,65150,Issues with flex in Colored Boxes lab,OPEN,2026-01-14T10:36:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jKq1Q,65139,"Mistyped word in Python Certification Working with Loops and Sequences, How Do Loops Work?",CLOSED,2026-01-14T02:05:19Z,2026-01-14T10:48:19Z,pratheek-81,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87iS2DT,65057,Parent Guardian Name label is same as the legend.,CLOSED,2026-01-09T11:26:45Z,2026-01-14T10:46:21Z,Muhammad R,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gP3n2,64893,Wrong SQL query in Working with Relation Databases - How Do You Insert and View Data in a Table?,CLOSED,2025-12-25T18:18:02Z,2026-01-14T10:20:04Z,Jeevankumar-S,freeCodeCamp,freeCodeCamp
@@ -85,7 +88,6 @@ I_kwDOAbI7X87gH8aX,64885,Unclear example of an absolute path,OPEN,2025-12-24T12:
 I_kwDOAbI7X87iwM6x,65091,Python Certification Build a Media Catalogue docstring example issues,CLOSED,2026-01-12T13:17:01Z,2026-01-13T09:31:34Z,Jeevankumar-S,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87glQZX,64930,key_set scope issue,CLOSED,2025-12-29T16:47:47Z,2026-01-13T08:56:17Z,wesleyhmartin,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85fQ8lG,49492,Show warning to users when they try to source the wrong files,OPEN,2023-02-24T09:45:10Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87gd5JC,64923,Incomplete instructions in step 6 of the „Build a Shopping List“ workshop,OPEN,2025-12-28T19:20:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPElK,64117,Workshop – Smart Campus Directory,OPEN,2025-11-25T03:43:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87iWvYm,65059,Build a Book Inventory App Uppercase issue,CLOSED,2026-01-09T16:40:21Z,2026-01-13T08:06:53Z,YashhCanCode,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gXYqQ,64908,Wrong Information about brightness in the CSS Layout and Effects Quiz,CLOSED,2025-12-27T02:23:05Z,2026-01-13T08:03:46Z,Prashant,freeCodeCamp,freeCodeCamp
@@ -404,7 +406,6 @@ I_kwDOAbI7X87Retaw,62796,Consider having console closed by default for interacti
 I_kwDOAbI7X87ceEFm,64342,missing node.js requirement in article,CLOSED,2025-12-05T12:47:33Z,2025-12-05T14:30:45Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87bCNNy,64207,Request Support for 32-bit Systems for Exam Environment,CLOSED,2025-11-28T12:37:31Z,2025-12-02T15:02:58Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87cW3pY,64333,Correct indentation of editable region in Recipe Tracker - Step 3,CLOSED,2025-12-04T23:43:40Z,2025-12-05T10:55:35Z,Ali Farooqi,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87bNhO2,64229,`--fcc-expected--` and `--fcc-actual--` handle falsy values incorrecly,OPEN,2025-11-30T13:18:03Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87cS7jH,64328,Typo in Python Abstraction lesson,CLOSED,2025-12-04T18:33:55Z,2025-12-05T00:15:51Z,maxw2025,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87cSF4-,64325,python-v9/lab-game-character-stats extra spaces,CLOSED,2025-12-04T17:41:13Z,2025-12-04T20:03:17Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87cGujd,64317,Minor enhancement needed in Workings with dictionaries and set lesson,CLOSED,2025-12-04T03:51:33Z,2025-12-04T18:14:30Z,,freeCodeCamp,freeCodeCamp
@@ -998,17 +999,5 @@ I_kwDOAbI7X87Sa9P_,62899,Inconsistent text in message,CLOSED,2025-10-19T17:41:16
 I_kwDOAbI7X87Q-b0C,62733,Python visualization tool 'memory_graph',OPEN,2025-10-11T15:50:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87RNdss,62751,Add interactive examples to anatomy of css lesson,CLOSED,2025-10-13T12:55:12Z,2025-10-19T15:27:25Z,likhith5697,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87NPoNp,62320,"Bug: Tracking possible deprecated challenge IDs, FCC Classroom Integration Questions",CLOSED,2025-09-23T02:48:12Z,2025-10-18T13:38:56Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87LeJDl,62199,Spread operator (...) behaves incorrectly on array empty slots,OPEN,2025-09-13T15:17:30Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LKvav,62164,Missing content related to example site and inspector tools,CLOSED,2025-09-12T02:12:56Z,2025-10-18T13:34:28Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87RCQAS,62742,Login page not responsive below 400px width,CLOSED,2025-10-12T11:43:30Z,2025-10-18T07:12:04Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Q5q5J,62721,Add interactive examples to aria-describedby lesson,CLOSED,2025-10-10T23:39:17Z,2025-10-17T22:58:26Z,huyenltnguyen;pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87RNDwG,62748,Add interactive examples to accessible keyboards lesson,CLOSED,2025-10-13T12:25:26Z,2025-10-17T22:57:49Z,huyenltnguyen;pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87SOBzE,62881,Add interactive examples for dark mode lesson,CLOSED,2025-10-17T17:08:21Z,2025-10-17T22:57:00Z,arizfaiyaz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87SO79s,62884,Add interactive examples to breadcrumbs lesson,CLOSED,2025-10-17T18:34:07Z,2025-10-17T22:56:20Z,huyenltnguyen;pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87JgtJo,62034,Remove placeholder intros for released modules,CLOSED,2025-09-03T18:11:50Z,2025-10-17T22:53:00Z,huyenltnguyen;pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X868kw2e,60953,Build a Superhero Application Form step 21 too strict,CLOSED,2025-06-20T15:48:55Z,2025-10-17T16:31:34Z,Ajay-2005,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87SBj3M,62865,Remove `strong` color override,CLOSED,2025-10-16T21:50:48Z,2025-10-17T16:08:46Z,Sembauke,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87GQwS_,61836,Fill-in-the-blank feedback gives away the answer,CLOSED,2025-08-15T20:32:31Z,2025-10-17T11:56:35Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87SG81M,62872,Typo in viewport meta tag example - Extra slash in HTML5,CLOSED,2025-10-17T08:25:10Z,2025-10-17T08:42:15Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87SEhxq,62869,Translation error in coding challenge,CLOSED,2025-10-17T04:04:09Z,2025-10-17T10:50:55Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87SEIen,62868,"How Can You Find the Position of a Substring in a String? One of the questions has an incorrect answer, unless I am missing something",CLOSED,2025-10-17T03:21:21Z,2025-10-17T03:29:14Z,,freeCodeCamp,freeCodeCamp
