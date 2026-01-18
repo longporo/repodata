@@ -1,4 +1,8 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+8b2707d9a88c7b9ef36223eff0080aa960e1afd7,fix(curriculum): fix DC 153 testcase 2 to remove ambiguity (#65097),2026-01-17T10:04:32Z,2,8,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+05815a81a4dfccdbfb06a12296ce1bc18bae3314,fix(deps): update dependency @aws-sdk/client-ses to v3.966.0 (#65270),2026-01-17T08:15:29Z,2,174,renovate[bot],freeCodeCamp,freeCodeCamp
+ff8d7f2ed604249bc8a324c85d006cc445b7a34a,fix(deps): update dependency typebox to v1.0.77 (#65277),2026-01-17T08:13:19Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
+b65db0d216c1159d2e5fc219c915d9131ccdef38,revert: temporarily revert fastify 5.6.2 update (#65276),2026-01-17T07:38:25Z,2,80,raisedadead,freeCodeCamp,freeCodeCamp
 be7593463babb9204f647bac2ec7bfd25da0690a,fix(deps): update dependency fastify to v5.6.2 (#65261),2026-01-16T17:44:43Z,2,80,renovate[bot],freeCodeCamp,freeCodeCamp
 076ca122439ae8b98f93a7a24c259227a98425e0,fix(deps): update prisma monorepo to v6.19.1 (#65267),2026-01-16T17:44:32Z,2,92,renovate[bot],freeCodeCamp,freeCodeCamp
 a5f661d1e730b68e263f440091a57a42b3a67bb0,fix(deps): update dependency stripe to v16.12.0 (#65266),2026-01-16T17:44:25Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
@@ -1047,16 +1051,3 @@ c7fe5d915f3f8e6aae5cff17880be55d5503234a,feat(curriculum): add Understanding the
 54ccb1d71ca8a1c16d71244e8057a2d4301afa1c,feat(curriculum): add interactive examples to anatomy of CSS lesson (…,2025-10-19T15:27:24Z,1,28,likhith5697,freeCodeCamp,freeCodeCamp
 3c407ee8d133ec564689763c35cf21920aa746a3,feat(curriculum): added data structure quiz (#62786),2025-10-19T15:02:08Z,1,200,fhsinchy,freeCodeCamp,freeCodeCamp
 d53e88ac1497fd6df4c974c8b7a610fce39920dd,fix(client): c# cert id (#62858),2025-10-18T16:56:19Z,4,118,moT01,freeCodeCamp,freeCodeCamp
-05d61044ef7bd074663de6d526430c7664a71838,feat(curriculum): add interactive examples to aria-describedby lesson…,2025-10-17T22:58:25Z,1,36,pdtrang,freeCodeCamp,freeCodeCamp
-62fbac11118221ee3288f85a8d351e51a9ebaf4f,feat(curriculum): add interactive examples to accessible keyboards le…,2025-10-17T22:57:48Z,1,76,pdtrang,freeCodeCamp,freeCodeCamp
-43ca857727d4ee3d26d5e04767300424839699f4,feat(curriculum): Add interactive examples for dark mode lesson (#62883),2025-10-17T22:56:59Z,1,209,arizfaiyaz,freeCodeCamp,freeCodeCamp
-eb7844d6f040a702279f24375b1da5974395a90c,feat(curriculum): add interactive examples to breadcrumbs lesson (#62…,2025-10-17T22:56:19Z,1,104,pdtrang,freeCodeCamp,freeCodeCamp
-c217ed4e36b32bc6c26e30e496b8f095f189726c,refactor(client): remove placeholder intros for released modules (#62…,2025-10-17T22:52:59Z,1,36,pdtrang,freeCodeCamp,freeCodeCamp
-a624894564afaabd411e17e8a4a5cd4e0db6d1ec,fix(curriculum):allow logical expression for disable button (#62032),2025-10-17T16:31:33Z,1,38,Ajay-2005,freeCodeCamp,freeCodeCamp
-f740765d1119593c2abaa3efce513dbdb303ba14,fix(styles): strong inheritance from global.css (#62870),2025-10-17T16:08:44Z,3,11,Sembauke,freeCodeCamp,freeCodeCamp
-16cbb4c24da7bc71014c12dd1c9067721ac20575,dev(client): disable webpack console warnings (#62873),2025-10-17T16:05:42Z,2,16,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-ed2013e8082216956554542a0148d486cf1bf512,chore: replace file name to one that does not have spaces (#62877),2025-10-17T16:00:27Z,3,10,majestic-owl448,freeCodeCamp,freeCodeCamp
-a9b37de5a2a26879fa455217e90f7980499b2897,feat(curriculum): make relational database chapter live (#62464),2025-10-17T15:40:23Z,42,181,jdwilkin4,freeCodeCamp,freeCodeCamp
-3f7ad26a00a97f9b0b72f4fbc9727d8aaaa07137,chore(client): remove note for Project Euler and Rosetta Code (#62871),2025-10-17T10:48:12Z,1,1,Sembauke,freeCodeCamp,freeCodeCamp
-78b9cff3e844f7b572a0453df7e6c40ac0a311ba,fix(curriculum): typo in curriculum review-javascript-strings (#62867),2025-10-17T06:01:19Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
-c29d161a7573e787320b8f31280784df3095ed4b,fix(client): source super block structure in graphql and store in red…,2025-10-17T03:19:19Z,8,271,huyenltnguyen,freeCodeCamp,freeCodeCamp
