@@ -1,4 +1,15 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+e30017b169376372711c1a33421da23a2458d48c,fix(curriculum): remove implicit requirement (#65177),2026-01-19T23:12:23Z,1,4,majestic-owl448,freeCodeCamp,freeCodeCamp
+6d66a00366747d5fb48fa330e41e68a53f5688f8,feat(curriculum): EN-A2 quiz for block 2 (#65156),2026-01-19T22:01:46Z,1,325,anastasiiauk,freeCodeCamp,freeCodeCamp
+24190b95aefbf03ecd50cc2245ed7a5c610e2892,fix(curriculum): fix the tests that should pass when code is correct …,2026-01-19T19:56:48Z,1,5,octavio-js,freeCodeCamp,freeCodeCamp
+6668692afbc4be4a61d8c41de01d4988e9b119ac,fix(curriculum): delay asserts for promise chaining (#65323),2026-01-19T17:03:40Z,1,10,gikf,freeCodeCamp,freeCodeCamp
+608afa8a397d2e3310d65776577b34f0cbb16a1e,chore: use turborepo for type checking (#64455),2026-01-19T13:35:27Z,17,688,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+2ce0ff1560f4db01a88a29de5b6ea8ac08b884e8,fix(tooling): use turbo lint to run task deps (#65307),2026-01-19T13:14:36Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+f03ad05e84022eaf886c3eb21a40a0bddd2bfe3c,refactor: bundle shared so each consumer can require/import without h…,2026-01-19T09:45:40Z,190,1490,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+ddfd598eb42c74df7b8f7812400b4370420f617b,chore(deps): migrate client vitest to 4.0.15 (#64819),2026-01-19T09:01:43Z,5,428,kannan-ravi,freeCodeCamp,freeCodeCamp
+1d963204803748cf5bee0ec98db82a27ba2b779c,chore: pnpm self-update,2026-01-19T08:43:17Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
+31b07ce03b4bd93361b426688e74736c8ec89a84,"fix: allow interactive in review challenges, require that or descript…",2026-01-19T08:26:48Z,1,3,naomi-freecodecamp,freeCodeCamp,freeCodeCamp
+f908382e9491e532ede923c4903f7b9f80aaa7da,fix(api): linting issues with fastify (#65278),2026-01-19T08:23:35Z,6,96,raisedadead,freeCodeCamp,freeCodeCamp
 3c5ef03e6f204c7a7c00ec9d59dc86501f5489bf,fix(curriculum): correct grammar in JavaScript review comment (#65292),2026-01-18T20:34:01Z,1,2,anirudhxmishra,freeCodeCamp,freeCodeCamp
 8b2707d9a88c7b9ef36223eff0080aa960e1afd7,fix(curriculum): fix DC 153 testcase 2 to remove ambiguity (#65097),2026-01-17T10:04:32Z,2,8,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 05815a81a4dfccdbfb06a12296ce1bc18bae3314,fix(deps): update dependency @aws-sdk/client-ses to v3.966.0 (#65270),2026-01-17T08:15:29Z,2,174,renovate[bot],freeCodeCamp,freeCodeCamp
@@ -1048,6 +1059,3 @@ d8d217685df7136c8bb5f13c93c90a09dd707655,"chore(i18n,client): processed translat
 1c894307933d7da2f1e350e13ebc74e9b06adf1b,chore: hide interactive editor from screenreaders (#62901),2025-10-20T14:42:25Z,1,2,a2937,freeCodeCamp,freeCodeCamp
 303c2c689ff7d2728bf65631b7d973556eb9994f,fix: update history and amounts,2025-10-20T12:22:50Z,1,26,raisedadead,freeCodeCamp,freeCodeCamp
 ef513a531ec15e223ae3c4db6e8b222f31c5cbb4,fix(curriculum): unify checklist message text in steps 46–50 (#62900),2025-10-20T08:33:53Z,4,8,Akash9541,freeCodeCamp,freeCodeCamp
-c7fe5d915f3f8e6aae5cff17880be55d5503234a,feat(curriculum): add Understanding the HTTP request-response model T…,2025-10-19T23:46:41Z,7,624,majestic-owl448,freeCodeCamp,freeCodeCamp
-54ccb1d71ca8a1c16d71244e8057a2d4301afa1c,feat(curriculum): add interactive examples to anatomy of CSS lesson (…,2025-10-19T15:27:24Z,1,28,likhith5697,freeCodeCamp,freeCodeCamp
-3c407ee8d133ec564689763c35cf21920aa746a3,feat(curriculum): added data structure quiz (#62786),2025-10-19T15:02:08Z,1,200,fhsinchy,freeCodeCamp,freeCodeCamp
