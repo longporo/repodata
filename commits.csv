@@ -1,4 +1,44 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+f81448bfe87f9ca90c7726d2825cc60575ac10aa,fix(challenge-helper-scripts): add stub module intro when creating a …,2026-01-20T19:57:01Z,1,11,huyenltnguyen,freeCodeCamp,freeCodeCamp
+028844450c38084dc50da507d2a11b88cccd0208,feat(curriculum): add steps for report card printer workshop (#64801),2026-01-20T15:01:02Z,13,475,Psst02,freeCodeCamp,freeCodeCamp
+7fe7e8e1d445b696b848a8c333026eaf34ba5c46,fix: Streak Calculation Logic by add 1-day grace period  (#64351),2026-01-20T14:59:32Z,2,26,ItsYash1421,freeCodeCamp,freeCodeCamp
+6b5a74433be4c3426007e27a9c7426aff38fac99,feat(curriculum): EN-A2 quiz for block 5 (#65353),2026-01-20T14:56:09Z,1,325,anastasiiauk,freeCodeCamp,freeCodeCamp
+4d0979bfa3737e7f9d44f5127a0c48cee71e1a51,feat(curriculum): EN-A2 quiz for block 3 (#65181),2026-01-20T14:31:19Z,1,325,anastasiiauk,freeCodeCamp,freeCodeCamp
+4b948ad554861327c2eb414d2dc867552d2b83bd,fix(curriculum): move lang attribute to step1 in bookstore page works…,2026-01-20T14:28:06Z,3,22,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+67d7fa17ffa0e7f78acc88ee8b810861801a469a,feat(api): add drip campaign (#65148),2026-01-20T12:44:26Z,8,238,ahmaxed,freeCodeCamp,freeCodeCamp
+214c5a32407fad7c1caec359b156ffd18d5754a0,fix(deps): update prisma monorepo to v6.19.2 (#65350),2026-01-20T12:19:29Z,2,72,renovate[bot],freeCodeCamp,freeCodeCamp
+4fb660a55cac871f9e58214deade3298f60441b5,feat(curriculum): add interactive editors for JS Variables and Dataty…,2026-01-20T12:12:34Z,1,35,octavio-js,freeCodeCamp,freeCodeCamp
+c6f8234433dbe865a2dde99bfa3e567e1532c920,feat(curriculum): add interactive examples to JS functional programmi…,2026-01-20T12:12:26Z,1,14,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+e0db4fa20f341f8de18ab38a2e1be6bd73451dba,feat(curriculum): add interactive examples to javascript classes (#65…,2026-01-20T12:06:48Z,1,25,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+fecda22bbe89d866d4304d09e7bf724f416be14a,feat(curriculum): add interactive examples to javascript comparisons …,2026-01-20T11:55:29Z,1,22,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+8fcacaef36e4baa4fa84cb6b59be44536639f70b,feat(curriculum): add interactive examples to JavaScript Functions (#…,2026-01-20T11:50:32Z,1,26,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+fa5cddc8ee1945d690515d9ce3e229a6f427e66f,fix(curriculum): remove extra dash B1 English content (#65299),2026-01-20T11:39:18Z,1,2,eshantharjun9-hub,freeCodeCamp,freeCodeCamp
+c2cb1eb43d8c960a2ef3dff929b8f54fbd40631b,feat(curriculum): add interactive examples to javascript loops (#65329),2026-01-20T11:37:00Z,1,22,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+e2a20536c5f81e5286a7e76f733a5265a97adc96,fix(learn): correct editable regions workshop-flexbox-photo-gallery (…,2026-01-20T11:08:59Z,13,66,hbar1st,freeCodeCamp,freeCodeCamp
+cdb161068206ca854b59f85a33b3dbd65abccb4d,feat(curriculum): add interactive examples to JS Maps and Sets Review…,2026-01-20T11:04:08Z,1,10,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+1fc9a057f4124e2bb1585d3f2e5b27ff47a99d62,feat(curriculum): add interactive examples to JavaScript Regular Expr…,2026-01-20T11:03:53Z,1,51,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+b86d4e800dd8bbd7b9ca004baa4a99eb754b9b4b,feat(curriculum): add interactive examples to JavaScript strings (#65…,2026-01-20T11:03:36Z,1,79,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+7349639dcbaa2a287b9bda851f09f3aeff9b322c,feat(curriculum): add interactive examples to JavaScript math (#65317),2026-01-20T11:03:08Z,1,67,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+4aea7c73034c4a4fd6773c62f4840b84ada6cc3e,feat(curriculum): add interactive examples to arrays (#65318),2026-01-20T10:55:58Z,1,86,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+be23ef6c78c27b6fedf3d50a69c5c5505946bde0,feat(curriculum): add interactive examples to javascript debugging (#…,2026-01-20T10:45:37Z,1,24,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+4a4017ad6370ba90172faa221e450e2b15c25fff,feat(curriculum): add interactive examples to javascript fundamentals…,2026-01-20T10:39:37Z,1,44,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+18af3624891711604c8fc1a0e16d46963fc83b92,feat(curriculum): add interactive examples to HTML Accessibility Revi…,2026-01-20T10:32:54Z,1,22,pdtrang,freeCodeCamp,freeCodeCamp
+4f2b170f5749a07cf6db59b9120166413233321d,feat(curriculum): add interactive examples to JavaScript Objects (#65…,2026-01-20T10:31:27Z,1,46,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+180f4524189e04d800098ea470925e55e22d07f6,feat(curriculum): add interactive examples basic CSS review page (#65…,2026-01-20T10:19:22Z,1,27,pdtrang,freeCodeCamp,freeCodeCamp
+bf5f7eba80300cd35a3e2708594f3c10f83be197,fix(curriculum): Remove spacing error in Tower Of Hanoi Hints (#65346),2026-01-20T10:12:35Z,1,3,kultaran-Singh,freeCodeCamp,freeCodeCamp
+ed7cca69e1f16df4d093e3fd216487f04ab5afa1,fix(review): add interactive play and pause audio example (#65337),2026-01-20T10:10:07Z,1,54,fullstacksam23,freeCodeCamp,freeCodeCamp
+5802eba7b9e55830609f6876b5a29574af86e0d6,fix(client): better architecture detection for exam downloads (#65040),2026-01-20T09:49:09Z,4,389,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+b0608bae23b2e5e492243f40b486076ac0df1979,fix(learn): fix editable region workshop-logic-checker-app (#65274),2026-01-20T09:04:44Z,9,22,hbar1st,freeCodeCamp,freeCodeCamp
+3c83f2fb9bf3231ef85ce94583deafb9a6d565fe,fix(learn): fix editable region workshop-string-transformer (#65273),2026-01-20T08:56:43Z,1,2,hbar1st,freeCodeCamp,freeCodeCamp
+33b72c5a4ba3c444d09c8c31b33374c04db47f0a,fix(learn): correct editable region in workshop-calculator (#65293),2026-01-20T08:53:05Z,4,13,hbar1st,freeCodeCamp,freeCodeCamp
+5dc499d9c5213cb6bbcd93aec1f2449d87235fee,fix(curriculum): refine editable regions in iframe video display work…,2026-01-20T08:46:10Z,8,38,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+0217956141e0b251f6e3ffb8e4e88c9648dd45af,fix(learn): fix workshop-string-formatter editable-region (#65272),2026-01-20T08:42:04Z,3,6,hbar1st,freeCodeCamp,freeCodeCamp
+b8b68ce74907e1aa0055024bc53776395ccbfadc,fix: adjust codeowners file (#64795),2026-01-20T08:38:40Z,1,34,raisedadead,freeCodeCamp,freeCodeCamp
+94d383815fc7d64c5e617c4aabe02d01ba2de742,"chore(i18n,learn): update i18n-curriculum submodule (#65324)",2026-01-20T08:37:35Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+47b2d2064e8f5710a8144faec09758dcf703b861,feat(curriculum): EN-A2 quiz for block 4 (#65322),2026-01-20T07:52:23Z,1,325,anastasiiauk,freeCodeCamp,freeCodeCamp
+85f717dde182a559056ed9a2b2ee99fb86190a84,chore: pnpm self-update,2026-01-20T05:42:31Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
+8c3ad466ac565278a870378b23490ca34dab4580,fix(deps): update dependency @aws-sdk/client-ses to v3.967.0 (#65341),2026-01-20T05:41:14Z,2,195,renovate[bot],freeCodeCamp,freeCodeCamp
+dfe5b5680fdbbbb44e761df11e36b745fc3db7ce,fix(curriculum): refine editable regions in build a heart icon (#65302),2026-01-20T02:16:55Z,5,18,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 e30017b169376372711c1a33421da23a2458d48c,fix(curriculum): remove implicit requirement (#65177),2026-01-19T23:12:23Z,1,4,majestic-owl448,freeCodeCamp,freeCodeCamp
 6d66a00366747d5fb48fa330e41e68a53f5688f8,feat(curriculum): EN-A2 quiz for block 2 (#65156),2026-01-19T22:01:46Z,1,325,anastasiiauk,freeCodeCamp,freeCodeCamp
 24190b95aefbf03ecd50cc2245ed7a5c610e2892,fix(curriculum): fix the tests that should pass when code is correct …,2026-01-19T19:56:48Z,1,5,octavio-js,freeCodeCamp,freeCodeCamp
@@ -1055,7 +1095,3 @@ f3d2511f22e6b9bb5ed5760eeb4d3eb13d8f2017,feat(curriculum): daily challenges 80-8
 b36060bc28a9b9362894694a9307ba8152b7f9ce,feat(tools): add prettier formatting to CSS files in lint-staged conf…,2025-10-21T04:11:57Z,1,6,huyenltnguyen,freeCodeCamp,freeCodeCamp
 a301cd1146154258fc1d7ca0e69e89ef26c21f7e,fix(curriculum): Misleading hint in HTML curriculum (#62914),2025-10-21T03:55:44Z,1,6,pardeshiaryan,freeCodeCamp,freeCodeCamp
 7e0d90bc4dbc3e11c200146bc718790bee474c35,fix(curriculum): correct language identifier for Java code block (#62…,2025-10-21T03:54:17Z,3,6,pdtrang,freeCodeCamp,freeCodeCamp
-d8d217685df7136c8bb5f13c93c90a09dd707655,"chore(i18n,client): processed translations (#62909)",2025-10-20T15:30:56Z,20,750,camperbot,freeCodeCamp,freeCodeCamp
-1c894307933d7da2f1e350e13ebc74e9b06adf1b,chore: hide interactive editor from screenreaders (#62901),2025-10-20T14:42:25Z,1,2,a2937,freeCodeCamp,freeCodeCamp
-303c2c689ff7d2728bf65631b7d973556eb9994f,fix: update history and amounts,2025-10-20T12:22:50Z,1,26,raisedadead,freeCodeCamp,freeCodeCamp
-ef513a531ec15e223ae3c4db6e8b222f31c5cbb4,fix(curriculum): unify checklist message text in steps 46–50 (#62900),2025-10-20T08:33:53Z,4,8,Akash9541,freeCodeCamp,freeCodeCamp
