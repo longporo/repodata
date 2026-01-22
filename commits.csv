@@ -1,4 +1,22 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+e188981333f18bf695eca2ac2032f62d8024fbbe,fix(ci): update i18n submodule test to use new command (#65404),2026-01-21T16:32:39Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+6770ee4c26060456a53727531cc8a4328c43443f,refactor(client): use schema snapshot to avoid costly inference (#65360),2026-01-21T16:22:20Z,6,698,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+ec56d7a74ec3a08437353198bd45085ef01b88f3,fix(curriculum): fix editable region in caesar cipher workshop (#65283),2026-01-21T15:50:15Z,22,64,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+21dc6673ec541c867b51557e0638546527e32a01,docs: set copyright to earliest work,2026-01-21T14:35:34Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
+d062ddb31d56e8419530f348f7a834b13a5e0c9c,fix(curriculum): fix editable region in workshop quincys job tips (#6…,2026-01-21T14:12:12Z,11,42,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+09fdfb78b6433004df217f6a598a57df8cef3b57,"chore(i18n,client): processed translations (#65398)",2026-01-21T13:46:54Z,10,60,camperbot,freeCodeCamp,freeCodeCamp
+6d966d1edcd4d73825370ccc4d0df2c58755d0bd,feat(curriculum): add interactive examples to HTML chapter review pag…,2026-01-21T13:32:09Z,1,26,pdtrang,freeCodeCamp,freeCodeCamp
+cb63e8790aa689a0481bf856d144950ddc909e34,feat(curriculum): add interactive editor to HOF review (#65345),2026-01-21T13:26:12Z,1,40,harshentau-spec,freeCodeCamp,freeCodeCamp
+0e730cb1947297468612690de11248597cae0a66,fix(deps): update dependency typebox to v1.0.78 (#65395),2026-01-21T13:23:54Z,2,34,renovate[bot],freeCodeCamp,freeCodeCamp
+d43254af0548a63603d4a4a5382d2841126fffc8,fix(curriculum): Add interactive example for CSS Pseudo-classes Revie…,2026-01-21T12:44:03Z,1,8,papidb,freeCodeCamp,freeCodeCamp
+3d4062193c28885f674d19246e8fe84d9b03f9eb,fix(curriculum): minor en-b1 errors (#65065),2026-01-21T12:29:01Z,5,10,matheus4lves,freeCodeCamp,freeCodeCamp
+d6e2e7ed3dc48f42b0f391f888c9d8f21c6cf5e2,refactor(tools): remove extraneous env var (#65392),2026-01-21T11:28:32Z,6,56,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+d54608a6f70dd6f780c733fce0427698f8a03aaf,fix(curriculum): hash table lab tests and hints (#65374),2026-01-21T08:50:31Z,1,22,Dario-DC,freeCodeCamp,freeCodeCamp
+f867807edd480c6e8305223c82ac8c55e28d9168,feat(client): using monaco editor in interactive editor (#64601),2026-01-21T07:51:37Z,4,195,garyeung,freeCodeCamp,freeCodeCamp
+e65064a8eac4d3b6f4b95be4c9667a8971ffe37c,fix(curriculum): fix the health setter test (#65385),2026-01-21T07:23:54Z,1,4,octavio-js,freeCodeCamp,freeCodeCamp
+3c4a1588e8aad4eab27d9fdd5c006f01d0bcb3fb,fix(deps): update dependency @aws-sdk/client-ses to v3.968.0 (#65379),2026-01-21T04:50:52Z,2,356,renovate[bot],freeCodeCamp,freeCodeCamp
+bdcb727f894843967b9b7930ddfe7340b0f205ff,fix: use correct tsconfig for helper scripts (#65382),2026-01-21T04:50:00Z,1,28,naomi-freecodecamp,freeCodeCamp,freeCodeCamp
+631a679b8ffc9ff3364757c93353dca4a7dd131e,feat: use turbo to orchestrate tests (#65351),2026-01-21T04:47:06Z,9,49,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 f81448bfe87f9ca90c7726d2825cc60575ac10aa,fix(challenge-helper-scripts): add stub module intro when creating a …,2026-01-20T19:57:01Z,1,11,huyenltnguyen,freeCodeCamp,freeCodeCamp
 028844450c38084dc50da507d2a11b88cccd0208,feat(curriculum): add steps for report card printer workshop (#64801),2026-01-20T15:01:02Z,13,475,Psst02,freeCodeCamp,freeCodeCamp
 7fe7e8e1d445b696b848a8c333026eaf34ba5c46,fix: Streak Calculation Logic by add 1-day grace period  (#64351),2026-01-20T14:59:32Z,2,26,ItsYash1421,freeCodeCamp,freeCodeCamp
@@ -1087,11 +1105,3 @@ e42a864e1228ece91c06f77d7d721fafb647eee5,fix: direct import from curriculum (#62
 b8f089810f0e63c683485e32f2a360d50c4971cd,chore: @freecodecamp/curriculum-helpers@7.0.1 (#62927),2025-10-22T08:54:50Z,2,12,Dario-DC,freeCodeCamp,freeCodeCamp
 7136537e454f4f11e9f15e015ebe52b7295f844d,fix(curriculum): correction of grammar (#62924),2025-10-22T05:05:18Z,1,2,Aditya-jaiswal07972,freeCodeCamp,freeCodeCamp
 51c24f67e1284365fa54828922c9a6fbd9c8b177,"fix(gha): allowlist staff, and revert commits (#62894)",2025-10-22T05:04:18Z,1,28,raisedadead,freeCodeCamp,freeCodeCamp
-33839b291e03ee48b27c6bd6e36a00f1a9829e56,fix(curriculum): add missing question mark in lecture title (#62923),2025-10-21T21:00:46Z,2,4,AyushSharma72,freeCodeCamp,freeCodeCamp
-97302e88864a1e23843fc74da4ee56847d5a9e3b,fix(docker): consistently use DB everywhere (#62569),2025-10-21T15:23:59Z,5,79,raisedadead,freeCodeCamp,freeCodeCamp
-f3d2511f22e6b9bb5ed5760eeb4d3eb13d8f2017,feat(curriculum): daily challenges 80-89 (#62910),2025-10-21T12:53:43Z,23,1733,moT01,freeCodeCamp,freeCodeCamp
-5fd86514e6a43979ffce8a14654392caf638ad66,feat(curriculum): add n-queens lab (#62420),2025-10-21T10:02:58Z,5,210,zairahira,freeCodeCamp,freeCodeCamp
-7abb9275141e3bce3504b2ee1b8d815b0e7f6a55,feat(curriculum): add bfs workshop (#62517),2025-10-21T09:59:30Z,18,843,Dario-DC,freeCodeCamp,freeCodeCamp
-b36060bc28a9b9362894694a9307ba8152b7f9ce,feat(tools): add prettier formatting to CSS files in lint-staged conf…,2025-10-21T04:11:57Z,1,6,huyenltnguyen,freeCodeCamp,freeCodeCamp
-a301cd1146154258fc1d7ca0e69e89ef26c21f7e,fix(curriculum): Misleading hint in HTML curriculum (#62914),2025-10-21T03:55:44Z,1,6,pardeshiaryan,freeCodeCamp,freeCodeCamp
-7e0d90bc4dbc3e11c200146bc718790bee474c35,fix(curriculum): correct language identifier for Java code block (#62…,2025-10-21T03:54:17Z,3,6,pdtrang,freeCodeCamp,freeCodeCamp
