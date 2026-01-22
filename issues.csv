@@ -1,18 +1,38 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87i-U8p,65108,"Restore social share option after completing workshops, labs, and certification projects",OPEN,2026-01-13T09:34:04Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87k7Vf2,65415,Information about Canva is outdated,OPEN,2026-01-22T01:21:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87kpXtG,65378,URL Shortener Microservice - Bug Report,OPEN,2026-01-21T00:40:05Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87kpVpR,65377,File Metadata Microservice - Bug Report,OPEN,2026-01-21T00:35:34Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87kpRup,65376,American British Translator – Bug Report,OPEN,2026-01-21T00:27:51Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87k4PzC,65411,`defer` attribute does nothing,OPEN,2026-01-21T20:40:28Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jphyW,65214,Add interactive examples for CSS chapter review page,OPEN,2026-01-15T21:48:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87j5kkg,65268,Audit Workshops: Ensure Editable Regions Only Include Required Lines,OPEN,2026-01-16T20:14:43Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87klN3T,65367,Build a Game Character Stats Tracker,OPEN,2026-01-20T18:40:40Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jo3Uz,65197,"Add interactive examples to Lists, Links, Background and Borders Review page",OPEN,2026-01-15T20:59:13Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87kGDGD,65290,Python Certification Hash Table project broken tests and incorrect method usage examples,OPEN,2026-01-18T13:33:46Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87kiA31,65357,Missing script: compile:ts in packages.json or Documentation problem.,OPEN,2026-01-20T15:02:45Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87krh08,65383,Double punctuation,OPEN,2026-01-21T05:14:00Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jqFLK,65234,Add interactive examples to Form Validation with JavaScript Review page,OPEN,2026-01-15T22:26:47Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jo6Mh,65198,Add interactive examples to CSS Relative and Absolute Units Review page,OPEN,2026-01-15T21:03:34Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87j3bxR,65265,tighten editable region in caesar cipher workshop,CLOSED,2026-01-16T17:35:51Z,2026-01-21T15:50:17Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+MDU6SXNzdWU1MjgzNDAyNg==,1,Facebook registration is not working ,CLOSED,2014-12-24T19:37:16Z,2014-12-26T14:42:39Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jornj,65195,Add interactive code examples to HTML chapter review page,CLOSED,2026-01-15T20:42:28Z,2026-01-21T13:32:11Z,pdtrang,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jp7-s,65228,Add interactive examples to JavaScript Higher Order Functions Review page,CLOSED,2026-01-15T22:16:46Z,2026-01-21T13:26:14Z,harshentau-spec,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jo8xX,65199,Add interactive example for CSS Pseudo-classes Review,CLOSED,2026-01-15T21:07:05Z,2026-01-21T12:44:05Z,huyenltnguyen;papidb,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87kjlMN,65362,"URL Shortener test fails: dom-test-evaluator ""redirected is not implemented yet""",OPEN,2026-01-20T16:43:44Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87kpXtG,65378,URL Shortener Microservice - Bug Report,OPEN,2026-01-21T00:40:05Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87kpRup,65376,American British Translator – Bug Report,OPEN,2026-01-21T00:27:51Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87fewyu,64793,Sign-in with ATProto/Bsky,CLOSED,2025-12-20T01:37:53Z,2026-01-21T08:56:01Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87kGDGD,65290,Python Certification Hash Table project broken tests and incorrect method usage examples,CLOSED,2026-01-18T13:33:46Z,2026-01-21T08:50:32Z,Dario-DC,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87kk93d,65365,challenge editor does not have v9 superblocks,OPEN,2026-01-20T18:20:48Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jo3Uz,65197,"Add interactive examples to Lists, Links, Background and Borders Review page",OPEN,2026-01-15T20:59:13Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87klN3T,65367,Build a Game Character Stats Tracker,CLOSED,2026-01-20T18:40:40Z,2026-01-21T07:23:56Z,octavio-js,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87TPPXE,62967,Using monaco for better a11y support in interactive editor,CLOSED,2025-10-23T09:59:12Z,2026-01-21T07:51:38Z,ShaunSHamilton;garyeung,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jpTyW,65210,Add interactive examples to Responsive Web Design Review page,OPEN,2026-01-15T21:33:09Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jpP6w,65209,Add interactive examples to CSS Attribute Selectors Review page,OPEN,2026-01-15T21:28:32Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jpNPq,65207,Add interactive examples to CSS Positioning Review page,OPEN,2026-01-15T21:25:47Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ksclC,65386,coding an mt5 indicator,CLOSED,2026-01-21T06:51:44Z,2026-01-21T07:26:42Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87kiA31,65357,Missing script: compile:ts in packages.json or Documentation problem.,OPEN,2026-01-20T15:02:45Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jqSR7,65240,Add interactive examples to chapter JS review page,OPEN,2026-01-15T22:45:20Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87kp9FI,65381,Get Data from Post Requests,OPEN,2026-01-21T01:55:55Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87kpVpR,65377,File Metadata Microservice - Bug Report,OPEN,2026-01-21T00:35:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87klbtL,65368,Certificate Page - no project links,OPEN,2026-01-20T18:57:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86qG_r-,58807,Navbar style breaks in high contrast mode due to transparency/white background,OPEN,2025-02-14T15:09:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jqLpC,65236,Add interactive examples to JavaScript Audio and Video Review,CLOSED,2026-01-15T22:34:27Z,2026-01-20T10:10:09Z,fullstacksam23,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87kjlMN,65362,"URL Shortener test fails: dom-test-evaluator ""redirected is not implemented yet""",OPEN,2026-01-20T16:43:44Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87kiEVW,65358,Invalid Test Cases in Daily Challenge Tic-Tac-Toe,OPEN,2026-01-20T15:05:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87eazP2,64623,Create a prototype for Python data types workshop,CLOSED,2025-12-15T16:44:13Z,2026-01-20T15:01:04Z,Dario-DC;Psst02,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aBeiR,64092,Calculate streaks correctly,CLOSED,2025-11-24T09:00:57Z,2026-01-20T14:59:34Z,YashKumarMeena001,freeCodeCamp,freeCodeCamp
@@ -37,42 +57,30 @@ I_kwDOAbI7X87jp4lX,65225,Add interactive examples to JavaScript Objects Review p
 I_kwDOAbI7X87jo1al,65196,Add interactive examples basic CSS review page,CLOSED,2026-01-15T20:56:30Z,2026-01-20T10:19:24Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87kWHR-,65334,extra space in code output,CLOSED,2026-01-19T19:51:15Z,2026-01-20T10:12:38Z,kultaran-Singh,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87hg0Jm,65003,Open Exam Environment Application Download not using user agent,CLOSED,2026-01-06T02:14:53Z,2026-01-20T09:49:11Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jqFLK,65234,Add interactive examples to Form Validation with JavaScript Review page,OPEN,2026-01-15T22:26:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87kaFGY,65343,Add Run / Reset controls for :::interactive_editor to prevent auto-execution of input-based code,OPEN,2026-01-20T04:52:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87kZwl0,65342,[Suggestion] - Add look up information button to challenge ,OPEN,2026-01-20T04:05:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87kPlH3,65311,Build a Real Time Counter,CLOSED,2026-01-19T11:32:10Z,2026-01-19T19:56:50Z,octavio-js,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87kUxBC,65331,em dash issue in workshop-quincys-job-tips,OPEN,2026-01-19T17:34:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jvIYp,65250,promise chaining fails tests,CLOSED,2026-01-16T07:27:52Z,2026-01-19T17:03:42Z,gikf,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jqSR7,65240,Add interactive examples to chapter JS review page,OPEN,2026-01-15T22:45:20Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fgeg-,64798,Mobile scrolling issue in JavaScript editor on Chrome Android,OPEN,2025-12-20T09:12:20Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jpAJV,65201,Add interactive examples to CSS colors review page,OPEN,2026-01-15T21:11:32Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jornj,65195,Add interactive code examples to HTML chapter review page,OPEN,2026-01-15T20:42:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jooVn,65193,Add interactive examples for HTML tables and forms review page,OPEN,2026-01-15T20:37:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jonGK,65192,Add interactive examples to semantic HTML review page,OPEN,2026-01-15T20:36:27Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jolWX,65191,Add interactive examples to basic HTML review page,OPEN,2026-01-15T20:34:00Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jphyW,65214,Add interactive examples for CSS chapter review page,OPEN,2026-01-15T21:48:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jpc9k,65213,Add interactive examples to CSS animations review page,OPEN,2026-01-15T21:43:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jpZAb,65212,Add interactive  examples to CSS grid review page,OPEN,2026-01-15T21:38:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jpV-7,65211,Add interactive examples for CSS Variables Review page,OPEN,2026-01-15T21:35:20Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jpTyW,65210,Add interactive examples to Responsive Web Design Review page,OPEN,2026-01-15T21:33:09Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jpP6w,65209,Add interactive examples to CSS Attribute Selectors Review page,OPEN,2026-01-15T21:28:32Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jpNPq,65207,Add interactive examples to CSS Positioning Review page,OPEN,2026-01-15T21:25:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jpLhQ,65206,Add interactive examples to CSS Accessibility Review page,OPEN,2026-01-15T21:24:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jpHlb,65205,Add interactive examples to CSS Typography review page,OPEN,2026-01-15T21:19:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jpFCl,65204,Add interactive examples for Flexbox review page,OPEN,2026-01-15T21:16:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jpDNc,65203,Add interactive examples for CSS layouts and effects review page,OPEN,2026-01-15T21:14:56Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jo8xX,65199,Add interactive example for CSS Pseudo-classes Review,OPEN,2026-01-15T21:07:05Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jo6Mh,65198,Add interactive examples to CSS Relative and Absolute Units Review page,OPEN,2026-01-15T21:03:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jqGI2,65235,Add interactive examples to JavaScript Dates Review page,OPEN,2026-01-15T22:27:45Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jqBax,65231,Add interactive examples to JavaScript and Accessibility Review page,OPEN,2026-01-15T22:22:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jqAFr,65230,Add interactive examples to DOM review page,OPEN,2026-01-15T22:21:16Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jp7-s,65228,Add interactive examples to JavaScript Higher Order Functions Review page,OPEN,2026-01-15T22:16:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87kNGlq,65301,Build a Superhero Form Step 3,OPEN,2026-01-19T08:46:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jqZIL,65241,Review pages don't support interactive examples,CLOSED,2026-01-15T22:55:53Z,2026-01-19T08:26:50Z,naomi-freecodecamp,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87kHMXu,65294,workshop-flexbox-photo-gallery step 1 check too permisive,OPEN,2026-01-18T18:07:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87kFADB,65288,"Grammar error in JavaScript review conditional example (""an B"" → ""a B"")",CLOSED,2026-01-18T08:41:25Z,2026-01-18T20:34:03Z,anirudhxmishra,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87j3bxR,65265,tighten editable region in caesar cipher workshop,OPEN,2026-01-16T17:35:51Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87i-U8p,65108,"Restore social share option after completing workshops, labs, and certification projects",OPEN,2026-01-13T09:34:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gd5JC,64923,Incomplete instructions in step 6 of the „Build a Shopping List“ workshop,OPEN,2025-12-28T19:20:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jP5VV,65150,Issues with flex in Colored Boxes lab,OPEN,2026-01-14T10:36:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87j7SRv,65269,Codespaces Contribution Journey - how to contribute on codespaces?,CLOSED,2026-01-16T23:10:03Z,2026-01-18T09:57:16Z,,freeCodeCamp,freeCodeCamp
@@ -232,7 +240,6 @@ I_kwDOAbI7X851UZ9u,52174,Create a Minimal freeCodeCamp Discourse theme,CLOSED,20
 I_kwDOAbI7X87dZL32,64439,still issues with callback lesson,CLOSED,2025-12-10T09:35:58Z,2025-12-22T05:25:51Z,majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fikFC,64813,Add new beginner challenge: Check if a number is prime,CLOSED,2025-12-20T20:25:19Z,2025-12-21T21:05:20Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fkrOW,64816,typo in Build an RPG Character title,CLOSED,2025-12-21T08:59:35Z,2025-12-21T14:59:55Z,gawandeom,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87fewyu,64793,Sign-in with ATProto/Bsky,OPEN,2025-12-20T01:37:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fh5e1,64805,Repeated text in lecture - `working with loops and sequences` in Python Certification,CLOSED,2025-12-20T16:34:51Z,2025-12-20T17:23:09Z,ayvkma,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fdi_l,64792,Typo in CSS Grid review,CLOSED,2025-12-19T22:11:33Z,2025-12-20T15:02:30Z,subhankarkr,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87d8XNv,64555,Rotate back from /encoded endpoints,OPEN,2025-12-12T14:18:26Z,,,freeCodeCamp,freeCodeCamp
@@ -988,7 +995,6 @@ I_kwDOAbI7X87R9rAf,62857,[bug] `attempt.result.percent` does not exist,CLOSED,20
 I_kwDOAbI7X87Pd85n,62479,"[feat] add ""copy"" and ""generate"" user token button to exam pages",CLOSED,2025-10-03T11:20:13Z,2025-10-24T08:22:16Z,ShaunSHamilton;moT01,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TVSzN,62973,Issue in the full-stack web-dev course,CLOSED,2025-10-23T16:37:14Z,2025-10-24T04:33:38Z,Preytorkamen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TWt-j,62982,Minor edit to add a missing word,CLOSED,2025-10-23T18:07:45Z,2025-10-23T20:48:11Z,cuongpham24,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TPPXE,62967,Using monaco for better a11y support in interactive editor,OPEN,2025-10-23T09:59:12Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87R-352,62862,"When Is the alt Attribute Needed, and What Are Some Examples of Good Alt Text? referes to something not shown",CLOSED,2025-10-16T17:57:22Z,2025-10-23T17:06:02Z,AyushSharma72,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TJr8m,62957,Add interactive examples to pseudo classes lesson,CLOSED,2025-10-22T22:17:29Z,2025-10-23T15:03:09Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TJPsc,62952,Add interactive example for `calc` lesson,CLOSED,2025-10-22T21:18:57Z,2025-10-23T15:02:33Z,cuongpham24,freeCodeCamp,freeCodeCamp
@@ -1006,11 +1012,3 @@ I_kwDOAbI7X87TGW-L,62939,Add interactive examples to modal design lesson,CLOSED,
 I_kwDOAbI7X87TGjLz,62940,Add interactive examples to progress indication lesson,CLOSED,2025-10-22T17:27:14Z,2025-10-22T22:22:57Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TG5IE,62941,Add interactive examples for shopping cart design lessons,CLOSED,2025-10-22T17:57:26Z,2025-10-22T22:21:29Z,huyenltnguyen;pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87RoNm-,62823,"maybe grammar issue in What Is the Purpose of WAI-ARIA, and How Does It Work?",CLOSED,2025-10-15T08:36:50Z,2025-10-22T05:05:20Z,Aditya-jaiswal07972,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87SfxZF,62904,missing punctuation,CLOSED,2025-10-20T08:34:10Z,2025-10-21T21:00:47Z,AyushSharma72,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87RhgfZ,62821,Incorrect Math in the Launch Fuel Challenge (Oct. 10th),CLOSED,2025-10-14T19:39:57Z,2025-10-21T20:51:28Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86m51GA,58252,Fix DEP0170 - DeprecationWarning with MongoDB URL,CLOSED,2025-01-20T19:50:10Z,2025-10-21T05:38:50Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87MbVpW,62254,[Speaking Modal] Set the initial focus on the Play button,OPEN,2025-09-18T10:30:57Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861cUE_,60201,Update react fundamentals and chapter review pages for import/export udpates,OPEN,2025-05-06T21:48:42Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X85B-CwW,44818,Trailing `/` in i18n Redirects to `/learn`,OPEN,2022-01-18T11:21:08Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87SWGsq,62896,Misleading hint in HTML curriculum,CLOSED,2025-10-18T17:13:30Z,2025-10-21T03:55:45Z,pardeshiaryan,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Snhxx,62915,Correct language identifier for Java code blocks,CLOSED,2025-10-20T19:03:40Z,2025-10-21T03:54:18Z,pdtrang,freeCodeCamp,freeCodeCamp
