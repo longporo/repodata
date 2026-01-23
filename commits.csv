@@ -1,4 +1,28 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+4f30bdec9aa095ca6a1b6ac04acceba959ad002a,fix(curriculum): replace unicode minus with dash in challenge 165 (#6…,2026-01-22T21:52:55Z,2,4,vikas0k,freeCodeCamp,freeCodeCamp
+8865fcb2426c68188cbafaf041366b3021b405c4,"chore(i18n,learn): update i18n-curriculum submodule (#65437)",2026-01-22T21:05:45Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+08a51184935c406d92bb24a01b07fb3f41f70578,fix(curriculum): fix the issue with code blocks not displaying correc…,2026-01-22T17:28:49Z,1,2,octavio-js,freeCodeCamp,freeCodeCamp
+2045bf80c302db2c2a84212aa2f850e8b0e09177,fix(deps): update dependency fastify to v5.7.0 (#65423),2026-01-22T17:13:18Z,3,38,renovate[bot],freeCodeCamp,freeCodeCamp
+c10e8bb55107deea8904359f9083e1998df0b0c7,fix(curriculum): editable region in pin extractor workshop and typos …,2026-01-22T17:04:56Z,18,103,majestic-owl448,freeCodeCamp,freeCodeCamp
+16acad2264fa735d341a56afbba6a7e8722d8bbe,feat(curriculum): add searching and sorting algos lessons (#65184),2026-01-22T16:59:24Z,6,446,majestic-owl448,freeCodeCamp,freeCodeCamp
+ccd070dd3142d41ad21d4c4f7d670d655cb2d270,fix: delete turbo cache when cleaning (#65424),2026-01-22T16:11:54Z,1,1,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+4bdd93c5e648695639e3960c5940ecbde5656710,feat(curriculum): add Spanish A1 chapter 4 and modules (#65340),2026-01-22T15:45:33Z,56,2093,estefaniacn,freeCodeCamp,freeCodeCamp
+05e35e0bb70509c77ae3bc5adbbd8acafbc002ce,refactor: remove unused client Dockerfile + related config (#65426),2026-01-22T14:34:15Z,4,531,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+4ea52e26392ada0ab23225210aaaef519f3780e3,chore: update to node 24 (#65416),2026-01-22T13:59:48Z,24,487,raisedadead,freeCodeCamp,freeCodeCamp
+9b3bea4d4d52baede852fa0105c84cb61ba706b0,"fix(curriculum) added interactive examples to Lists, Links, Backgroun…",2026-01-22T13:41:35Z,1,363,rizwan-rizu,freeCodeCamp,freeCodeCamp
+2b76f1e5685dc84230a0fb1f91ab6e9bb023799d,feat(curriculum): add interactive examples for HTML tables and forms …,2026-01-22T13:38:39Z,1,26,pdtrang,freeCodeCamp,freeCodeCamp
+77ea55e0c0d128c6a4bcd727132ec558f1a2e3cd,feat(curriculum): add interactive examples to semantic HTML review pa…,2026-01-22T13:37:39Z,1,90,pdtrang,freeCodeCamp,freeCodeCamp
+5c6fd67bd21696842889dcbdbf336426579ce142,feat(curriculum): convert code examples to interactive editors where …,2026-01-22T13:34:20Z,1,86,octavio-js,freeCodeCamp,freeCodeCamp
+c93d16bf9407f02b1123b45332382512971dc139,"fix(curriculum): small typo in the ""Basic Anatomy of a CSS Rule"" page…",2026-01-22T10:27:18Z,1,2,Roxicaro,freeCodeCamp,freeCodeCamp
+f68b471d6d3fe074d3271b5a8e9bd9c628ea6d39,feat(client): add job experience widget to profile (#63503),2026-01-22T08:30:50Z,36,1303,Sembauke,freeCodeCamp,freeCodeCamp
+59a54b504018bddbade9df53a7103e839079ced6,fix(curriculum): adjust editable-regions workshop-final-exams-table (…,2026-01-22T08:16:02Z,6,12,hbar1st,freeCodeCamp,freeCodeCamp
+3521e967ce57b984b47652ad7834fa7e45af64e3,feat(curriculum): EN-A2 quiz for block 6 (#65393),2026-01-22T08:02:54Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
+35599e96249f11712ef0560e4d79989953e1d7ff,"feat(curriculum): add localStorage inspection step to ""Build a Todo A…",2026-01-22T07:53:31Z,16,501,bengguankoay,freeCodeCamp,freeCodeCamp
+9c796821ad6bac3773061175cb6f8f42b89beb74,feat(curriculum): add interactive examples to css relative and absolu…,2026-01-22T07:37:56Z,1,148,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+52d64b7c86f4abc40e0bc2cdf3dd64df192fa236,feat(curriculum): add interactive examples to css Attribute selectors…,2026-01-22T07:28:36Z,1,109,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+7f66d36d303ef70514b9ac8734a923c3b97b2f0b,fix(curriculum): change the first answer and its feedback (#65410),2026-01-22T07:24:12Z,1,4,octavio-js,freeCodeCamp,freeCodeCamp
+2306095191c9344180f4d41092fe3ae981941fa4,"chore(i18n,learn): update i18n-curriculum submodule (#65402)",2026-01-22T05:14:15Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+30740c656c94acacfb2c56d23618d26e998f7498,fix(deps): update dependency @aws-sdk/client-ses to v3.969.0 (#65414),2026-01-22T02:27:42Z,2,320,renovate[bot],freeCodeCamp,freeCodeCamp
 e188981333f18bf695eca2ac2032f62d8024fbbe,fix(ci): update i18n submodule test to use new command (#65404),2026-01-21T16:32:39Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 6770ee4c26060456a53727531cc8a4328c43443f,refactor(client): use schema snapshot to avoid costly inference (#65360),2026-01-21T16:22:20Z,6,698,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 ec56d7a74ec3a08437353198bd45085ef01b88f3,fix(curriculum): fix editable region in caesar cipher workshop (#65283),2026-01-21T15:50:15Z,22,64,AdityaSingh-18,freeCodeCamp,freeCodeCamp
@@ -1088,20 +1112,3 @@ e6bb589b5ff1c127124cfe4cfeb4e7dee2e6c198,feat(curriculum): Add interactive examp
 0c04e1a9ed2bbe7873bfd5a4ee9d6b747b0fd1f1,test: use expect for clearer errors (#62965),2025-10-23T10:02:40Z,3,45,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 8380c7c01fac3f01dc0ba1f981749268ca40da6b,chore: ignore dist folders when linting (#62966),2025-10-23T09:55:48Z,2,3,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 4a635c1b3274c5f1ab6a0371e40615046c4af69b,refactor: migrate (some) curriculum files to TypeScript (#62228),2025-10-23T05:24:57Z,62,1505,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-0d44fff1ff7d22d5ed69ee0a5237f249f35e83ff,feat(curriculum): add interactive examples to em and rem lesson (#62955),2025-10-22T23:42:29Z,1,25,pdtrang,freeCodeCamp,freeCodeCamp
-99d91a1219f61584f94e48b4517e573cda981cb5,feat(curriculum): add interactive examples to percentages lesson (#62…,2025-10-22T23:38:17Z,1,106,pdtrang,freeCodeCamp,freeCodeCamp
-a70fb3a2e94899c4314058fff383b79bf508bd9a,feat(curriculum): add interactive examples to vh and vw lesson (#62953),2025-10-22T23:31:17Z,1,46,pdtrang,freeCodeCamp,freeCodeCamp
-b99f643757379abd8de7845d2096697f84815aa9,chore: @freecodecamp/curriculum-helpers@7.1.0 (#62954),2025-10-22T22:26:08Z,2,14,Dario-DC,freeCodeCamp,freeCodeCamp
-f22cafcf38cb8ad533fd6232c2a87a86b71821df,feat(curriculum): add interactive examples to designing cards lesson …,2025-10-22T22:25:09Z,1,197,pdtrang,freeCodeCamp,freeCodeCamp
-8b8327aac19e4b935c8221a84687a99a481e28af,feat(curriculum): add interactive examples to infinite scroll lesson …,2025-10-22T22:24:29Z,1,299,pdtrang,freeCodeCamp,freeCodeCamp
-8959ce8187928ef548050e5231b5cd70d20a2e6b,feat(curriculum): add interactive examples to modal design lesson (#6…,2025-10-22T22:23:38Z,1,129,pdtrang,freeCodeCamp,freeCodeCamp
-90e0bd974f3caf3acf789219f397c0b3337ea2d8,feat(curriculum): add interactive examples to progress indication les…,2025-10-22T22:22:55Z,1,479,pdtrang,freeCodeCamp,freeCodeCamp
-cf25e1faeeaa5f7d8b7a6747b44311dff168f3e4,feat(curriculum): add interactive examples for shopping cart design l…,2025-10-22T22:21:27Z,1,432,pdtrang,freeCodeCamp,freeCodeCamp
-bffb74f1d49d9f0234de9d750f926c578681ec5d,"chore(i18n,learn): update i18n-curriculum submodule (#62935)",2025-10-22T18:01:15Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-88f6d600a09610d97ab8f8b77ca8b1245cc4f760,"chore(i18n,client): processed translations (#62932)",2025-10-22T14:29:15Z,10,120,camperbot,freeCodeCamp,freeCodeCamp
-806031d5aa73c0406d90d115e275253371748fb4,fix(curriculum): rework daily challenge 75 to something more friendly…,2025-10-22T14:28:21Z,4,116,moT01,freeCodeCamp,freeCodeCamp
-b84cd339c92609ff4adba664bd499bbc919dd5ac,feat(curriculum): add dynamic programming quiz questions (#62418),2025-10-22T13:42:24Z,1,323,zairahira,freeCodeCamp,freeCodeCamp
-e42a864e1228ece91c06f77d7d721fafb647eee5,fix: direct import from curriculum (#62931),2025-10-22T13:07:59Z,1,19,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-b8f089810f0e63c683485e32f2a360d50c4971cd,chore: @freecodecamp/curriculum-helpers@7.0.1 (#62927),2025-10-22T08:54:50Z,2,12,Dario-DC,freeCodeCamp,freeCodeCamp
-7136537e454f4f11e9f15e015ebe52b7295f844d,fix(curriculum): correction of grammar (#62924),2025-10-22T05:05:18Z,1,2,Aditya-jaiswal07972,freeCodeCamp,freeCodeCamp
-51c24f67e1284365fa54828922c9a6fbd9c8b177,"fix(gha): allowlist staff, and revert commits (#62894)",2025-10-22T05:04:18Z,1,28,raisedadead,freeCodeCamp,freeCodeCamp
