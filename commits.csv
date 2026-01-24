@@ -1,4 +1,15 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+517a61b7d9e20eaae225a2627cd76310129566ff,fix(curriculum): check for imports in tests (#65463),2026-01-23T18:57:07Z,2,19,Dario-DC,freeCodeCamp,freeCodeCamp
+a7f3b97cbe0514a54f185ef7be86805f6463cfa1,fix(curriculum): Add interactive examples for CSS chapter review page…,2026-01-23T14:17:19Z,1,6,papidb,freeCodeCamp,freeCodeCamp
+c86004188fe14dfedeebe4328ded83278ed47afd,feat(curriculum): implement more specific tests for step one of the f…,2026-01-23T13:08:10Z,1,13,octavio-js,freeCodeCamp,freeCodeCamp
+f3f0cd02363a6660ec990626321a41b817eafb3b,fix(client): remove redundant warning text from archive content notic…,2026-01-23T12:36:27Z,2,5,CKofficial-1797,freeCodeCamp,freeCodeCamp
+540d6e169c48a4bef03d1832cf24fba4aa53d008,feat(curriculum): add interactive examples to css grid (#65372),2026-01-23T10:32:58Z,1,8,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+cbf8723e2a78cc216d9facddc97087da845af250,fix(deps): update dependency fastify to v5.7.1 (#65454),2026-01-23T10:32:20Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
+b1836efbce70246411aefea72274676c0eb582ae,fix(curriculum): correct editable region cafe-menu (#65364),2026-01-23T08:57:48Z,58,243,hbar1st,freeCodeCamp,freeCodeCamp
+9b09a1cbfc564554dd89077361171661f0e3c03f,fix(curriculum): correct pronoun typo in modal verbs lesson (#65449),2026-01-23T08:30:23Z,1,2,Sunita-lab,freeCodeCamp,freeCodeCamp
+31616d68857ea5568c336394be6b677bdf69c515,chore(deps): update actions/checkout action to v6.0.2 (#65434),2026-01-23T02:29:59Z,5,16,renovate[bot],freeCodeCamp,freeCodeCamp
+2338ab93222c8fe7f2a9364c693c7e1125343e7c,fix(tools): let prettier ignore dirs starting with `.` (#65432),2026-01-23T02:28:36Z,1,1,raisedadead,freeCodeCamp,freeCodeCamp
+2d243f3e47aa93ba6a24e2ae421f4f9c4cdc04a3,fix(deps): update dependency @aws-sdk/client-ses to v3.970.0 (#65442),2026-01-23T02:28:18Z,2,188,renovate[bot],freeCodeCamp,freeCodeCamp
 4f30bdec9aa095ca6a1b6ac04acceba959ad002a,fix(curriculum): replace unicode minus with dash in challenge 165 (#6…,2026-01-22T21:52:55Z,2,4,vikas0k,freeCodeCamp,freeCodeCamp
 8865fcb2426c68188cbafaf041366b3021b405c4,"chore(i18n,learn): update i18n-curriculum submodule (#65437)",2026-01-22T21:05:45Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 08a51184935c406d92bb24a01b07fb3f41f70578,fix(curriculum): fix the issue with code blocks not displaying correc…,2026-01-22T17:28:49Z,1,2,octavio-js,freeCodeCamp,freeCodeCamp
@@ -1101,14 +1112,3 @@ c2c6ca37b835443766f9653bb1009457dda4009e,feat: copy and generate exam token (#62
 556abb4b9fdd890d50e89c5cb82bacbf4d21d26f,fix(curriculum): replace blockType with blockLabel in planet lab (#63…,2025-10-24T07:46:01Z,1,2,Dario-DC,freeCodeCamp,freeCodeCamp
 f8b815458d1b673a1b6c8c112d9e608206301721,feat(curriculum): add build a planet class lab (#62625),2025-10-24T05:28:46Z,5,368,majestic-owl448,freeCodeCamp,freeCodeCamp
 5d105ed25db4f9ac06f8f6c6824b594ae562c521,fix (curriculum): fixed __blank typo (#63022),2025-10-24T04:33:36Z,1,4,Preytorkamen,freeCodeCamp,freeCodeCamp
-dd08d1ae1c596c1e3e90e81c443e9a6af8ff23d3,chore(api): upgrade typebox to 1.0 (#62969),2025-10-24T01:52:35Z,4,211,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-02e1e1c33180cd11591208ece5d021544699c8cb,fix(curriculum): missing word in String Transformer step 3 (#63000),2025-10-23T20:48:10Z,1,2,cuongpham24,freeCodeCamp,freeCodeCamp
-27a54624c3ab724e64038727be0744138a9080f4,refactor: blockType -> blockLabel (#62548),2025-10-23T17:50:15Z,530,1215,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-808d0d0d7411f64eb24c97604b92ad251e124cf7,fix(curriculum) : Added missing cute puppy and tropical-resort images…,2025-10-23T17:06:01Z,1,8,AyushSharma72,freeCodeCamp,freeCodeCamp
-62e0170cc3baeff615de5c4958a5a65f51a4e5cf,feat(curriculum): add interactive examples to pseudo classes lesson (…,2025-10-23T15:03:08Z,1,62,pdtrang,freeCodeCamp,freeCodeCamp
-e6bb589b5ff1c127124cfe4cfeb4e7dee2e6c198,feat(curriculum): Add interactive example for calc lesson (#62959),2025-10-23T15:02:32Z,1,13,cuongpham24,freeCodeCamp,freeCodeCamp
-59edf1571e365990c49ecf26974b98ebc0054144,feat(curriculum): Add interactive examples for absolute units lesson …,2025-10-23T15:02:05Z,1,23,cuongpham24,freeCodeCamp,freeCodeCamp
-68465070a31c8c6f02094104688275d622109988,feat(curriculum): Add interactive examples to progressive disclosure …,2025-10-23T15:01:33Z,1,397,cuongpham24,freeCodeCamp,freeCodeCamp
-0c04e1a9ed2bbe7873bfd5a4ee9d6b747b0fd1f1,test: use expect for clearer errors (#62965),2025-10-23T10:02:40Z,3,45,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-8380c7c01fac3f01dc0ba1f981749268ca40da6b,chore: ignore dist folders when linting (#62966),2025-10-23T09:55:48Z,2,3,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-4a635c1b3274c5f1ab6a0371e40615046c4af69b,refactor: migrate (some) curriculum files to TypeScript (#62228),2025-10-23T05:24:57Z,62,1505,ojeytonwilliams,freeCodeCamp,freeCodeCamp
