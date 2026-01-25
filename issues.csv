@@ -1,12 +1,20 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ldeOL,65467,failing command for (possibly very small number of) codespaces users - request docs tweak,OPEN,2026-01-24T00:04:13Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87k4PzC,65411,`defer` attribute does nothing,OPEN,2026-01-21T20:40:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87j5kkg,65268,Audit Workshops: Ensure Editable Regions Only Include Required Lines,OPEN,2026-01-16T20:14:43Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87lGeH2,65431,Using built-in `sorted` function in quick short and selection sort labs,CLOSED,2026-01-22T16:21:06Z,2026-01-23T18:57:09Z,Dario-DC,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87JQzEc,62018,Daily challenge solutions are saved as `undefined.txt`,OPEN,2025-09-02T15:57:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87lmpyY,65482,Proxy Python execution errors to the main platform console,OPEN,2026-01-24T21:31:15Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87llY1i,65479,Exam Environment Application white screen on Arch and Distrobox,CLOSED,2026-01-24T18:30:34Z,2026-01-24T19:33:26Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87lgegx,65470,Challenge 167: Bingo! Letter typo in Test 5 description,CLOSED,2026-01-24T07:18:46Z,2026-01-24T18:25:29Z,advait122,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ljRBl,65476,pythonv9 Build a Medical Data Validator Step 44,OPEN,2026-01-24T13:53:54Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87lidRt,65474,Information about property syntax type is referenced under property name,OPEN,2026-01-24T11:56:27Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86z5tF4,59969,Build an availability table issue,OPEN,2025-04-24T19:23:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Qyltv,62666,Creating pull requests with AI-generated or AI-assisted code,OPEN,2025-10-10T13:26:53Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87lik0X,65475,Spanish challenge - Construir un Creador de Oraciones,OPEN,2026-01-24T12:23:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lCuES,65420,[Bug Report]: In the #41 in the Media Catalogue,OPEN,2026-01-22T12:23:12Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lWUiO,65461,Typo in step 19 of medical data validator workshop,OPEN,2026-01-23T15:01:33Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ldeOL,65467,failing command for (possibly very small number of) codespaces users - request docs tweak,OPEN,2026-01-24T00:04:13Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87k4PzC,65411,`defer` attribute does nothing,OPEN,2026-01-21T20:40:28Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87lGeH2,65431,Using built-in `sorted` function in quick short and selection sort labs,CLOSED,2026-01-22T16:21:06Z,2026-01-23T18:57:09Z,Dario-DC,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87JQzEc,62018,Daily challenge solutions are saved as `undefined.txt`,OPEN,2025-09-02T15:57:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86kobjV,57818,Consider saving the code for labs,OPEN,2024-12-29T01:19:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jphyW,65214,Add interactive examples for CSS chapter review page,CLOSED,2026-01-15T21:48:22Z,2026-01-23T14:17:21Z,papidb,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lFC6u,65429,Build Quincy’s Job Tips Page - Step 12 numbered list,OPEN,2026-01-22T14:52:09Z,,,freeCodeCamp,freeCodeCamp
@@ -167,7 +175,6 @@ I_kwDOAbI7X87gvxza,64936,jsv9 Crie um Bot Informativo em JavaScript,CLOSED,2025-
 I_kwDOAbI7X87iIuwP,65045,Replace archived challenge links in `challenge-title.spec.ts`,OPEN,2026-01-08T18:28:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TjZxe,63033,Accessibility issues in the demo of Drum Machine,CLOSED,2025-10-24T12:34:45Z,2026-01-08T17:33:53Z,Om7035;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87h9Lce,65031,Mismatch in ID names in the instructions for the LAB - Build an fCC Authors Page,CLOSED,2026-01-08T01:38:15Z,2026-01-08T15:14:03Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Qyltv,62666,Something about AI-generated pull requests,OPEN,2025-10-10T13:26:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TTMoi,62971,[ui] exam token info is not pretty in day mode.,CLOSED,2025-10-23T14:46:07Z,2026-01-08T11:48:11Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ShGJC,62907,UX: Breadcrumbs with better navigation levels,CLOSED,2025-10-20T10:17:42Z,2026-01-08T11:48:00Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SLNmN,62875,Move block descriptions from intro.json to the block's meta file due to frequent merge conflicts,CLOSED,2025-10-17T13:17:37Z,2026-01-08T11:47:53Z,,freeCodeCamp,freeCodeCamp
@@ -980,30 +987,3 @@ I_kwDOAbI7X87To0ZR,63040,Minor edit in DOM Manipulation Review,CLOSED,2025-10-24
 I_kwDOAbI7X87Pq92X,62519,Provide short explanation on ES6 for isNan lesson,CLOSED,2025-10-04T21:23:15Z,2025-10-25T04:08:52Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ToeVP,63039,Remove unused playwright test labels,CLOSED,2025-10-24T18:45:58Z,2025-10-25T04:03:00Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TZzOM,63008,Remove references of quiz from RBD review intro?,CLOSED,2025-10-23T22:00:05Z,2025-10-25T04:02:44Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87SWDDs,62895,New interactive editor in lesson is not accessible for those using screen readers,CLOSED,2025-10-18T16:54:07Z,2025-10-24T13:12:02Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TiG5X,63032,"Bug Report: Toast notifications don’t auto-dismiss after actions (e.g., login, theme change)",CLOSED,2025-10-24T11:17:15Z,2025-10-24T13:10:29Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TTAhA,62970,Build a Curriculum Outline - Second submitting doesn't work in `IndependentLowerJaw`,CLOSED,2025-10-23T14:33:48Z,2025-10-24T11:50:04Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ThMV2,63030,October 24 Daily Coding Challenge,CLOSED,2025-10-24T10:17:07Z,2025-10-24T10:25:58Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TWZYE,62981,Add interactive examples to Pseudo-elements lesson,CLOSED,2025-10-23T17:44:26Z,2025-10-24T09:26:57Z,cuongpham24,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TWUO2,62980,Add interactive examples to Functional Pseudo-classes lesson,CLOSED,2025-10-23T17:39:39Z,2025-10-24T09:26:28Z,cuongpham24,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Taw6g,63014,Add interactive examples to css filter lesson,CLOSED,2025-10-23T23:47:28Z,2025-10-24T09:26:04Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TaqU3,63012,Add interactive examples to css reset lesson,CLOSED,2025-10-23T23:35:28Z,2025-10-24T09:25:40Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TaGMB,63011,Add interactive examples to box sizing lesson,CLOSED,2025-10-23T22:32:00Z,2025-10-24T09:25:14Z,cuongpham24,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TZ5tq,63010,Add interactive examples to margin collapsing lesson,CLOSED,2025-10-23T22:08:58Z,2025-10-24T09:24:00Z,cuongpham24,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TZ2uf,63009,Add interactive examples to css transforms lesson,CLOSED,2025-10-23T22:04:45Z,2025-10-24T09:23:30Z,cuongpham24,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TZxku,63007,Add interactive examples to css overflow lesson,CLOSED,2025-10-23T21:57:41Z,2025-10-24T09:22:40Z,cuongpham24,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TWLyJ,62979,Add interactive examples to Tree-structural Pseudo-classes lessons,CLOSED,2025-10-23T17:31:51Z,2025-10-24T09:21:56Z,cuongpham24,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TXsay,63002,Add interactive examples to `appearance:none;` lesson,CLOSED,2025-10-23T19:17:08Z,2025-10-24T09:19:54Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TV-Mj,62977,Add interactive examples Location Pseudo-classes lesson,CLOSED,2025-10-23T17:18:21Z,2025-10-24T09:13:37Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TVx8V,62975,Add interactive examples to Input Pseudo-classes lesson,CLOSED,2025-10-23T17:07:16Z,2025-10-24T09:10:05Z,AyushSharma72,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TXoLM,62999,Add interactive examples to styling text input lesson,CLOSED,2025-10-23T19:11:50Z,2025-10-24T09:07:38Z,huyenltnguyen;pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TW1Mr,62984,Add interactive examples to rgb color model lesson,CLOSED,2025-10-23T18:15:21Z,2025-10-24T09:01:28Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TVmY-,62974,Add interactive examples to User Action Pseudo-classes lesson,CLOSED,2025-10-23T16:56:54Z,2025-10-24T08:58:29Z,AyushSharma72,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TWvL7,62983,Add interactive examples to named colors lesson,CLOSED,2025-10-23T18:09:12Z,2025-10-24T08:56:56Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TW6RK,62987,Add interactive examples to hsl color model lesson,CLOSED,2025-10-23T18:20:43Z,2025-10-24T08:54:39Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TW_YQ,62989,Add interactive examples to hex code lesson,CLOSED,2025-10-23T18:26:26Z,2025-10-24T08:53:16Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TXC5Y,62992,Add interactive examples to linear and radial gradient lesson,CLOSED,2025-10-23T18:30:44Z,2025-10-24T08:49:02Z,cuongpham24,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TX89z,63005,Add interactive examples to Styling Special Input Elements lesson,CLOSED,2025-10-23T19:37:29Z,2025-10-24T08:46:17Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87R9rAf,62857,[bug] `attempt.result.percent` does not exist,CLOSED,2025-10-16T16:25:38Z,2025-10-24T08:22:17Z,ShaunSHamilton;moT01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Pd85n,62479,"[feat] add ""copy"" and ""generate"" user token button to exam pages",CLOSED,2025-10-03T11:20:13Z,2025-10-24T08:22:16Z,ShaunSHamilton;moT01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TVSzN,62973,Issue in the full-stack web-dev course,CLOSED,2025-10-23T16:37:14Z,2025-10-24T04:33:38Z,Preytorkamen,freeCodeCamp,freeCodeCamp
