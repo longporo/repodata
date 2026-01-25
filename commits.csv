@@ -1,4 +1,12 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+df3c26089ae35d3165e90cfd1b81acd81763448a,fix(curriculum): refine editable regions in loan qualification checke…,2026-01-24T23:12:12Z,4,12,NewSmoke38,freeCodeCamp,freeCodeCamp
+def9dbaf94acb3a4e1d660f6385450e72f0e3e2e,fix (curriculum) : Bug fixes - get_bingo_letter(11) returns B (#65473),2026-01-24T18:25:28Z,2,4,advait122,freeCodeCamp,freeCodeCamp
+6c417e4d35398ecfcc14d949a8d1d81d121c6184,feat(curriculum): add Working with Node Core Modules lessons (#65008),2026-01-24T10:25:09Z,11,1857,Ksound22,freeCodeCamp,freeCodeCamp
+0b048016d25eeeec3b1db1612d75d6dcf9511e40,"refactor(tools): simplify turbo tasks, include outputs (#65462)",2026-01-24T04:45:15Z,5,52,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+78456b1ccf895866ddb6d09381433bcfff7a1d76,"chore(i18n,learn): update i18n-curriculum submodule (#65466)",2026-01-24T03:26:37Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+f64cfa21844543895177dd38f2ee74f3d8df1a58,chore(deps): update actions/cache action to v5.0.2 (#65465),2026-01-24T03:25:53Z,1,2,renovate[bot],freeCodeCamp,freeCodeCamp
+8c5e7e34c567eb2f5542848c9ddd3b5e4d735fed,fix(deps): update dependency @aws-sdk/client-ses to v3.971.0 (#65469),2026-01-24T03:25:37Z,2,100,renovate[bot],freeCodeCamp,freeCodeCamp
+f83d7858b9659d465c51ea79c682bc6fffe7672c,fix(gha): skip PR events for renovate (#65455),2026-01-24T03:24:34Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
 517a61b7d9e20eaae225a2627cd76310129566ff,fix(curriculum): check for imports in tests (#65463),2026-01-23T18:57:07Z,2,19,Dario-DC,freeCodeCamp,freeCodeCamp
 a7f3b97cbe0514a54f185ef7be86805f6463cfa1,fix(curriculum): Add interactive examples for CSS chapter review page…,2026-01-23T14:17:19Z,1,6,papidb,freeCodeCamp,freeCodeCamp
 c86004188fe14dfedeebe4328ded83278ed47afd,feat(curriculum): implement more specific tests for step one of the f…,2026-01-23T13:08:10Z,1,13,octavio-js,freeCodeCamp,freeCodeCamp
@@ -1084,31 +1092,3 @@ a04eeaa9f2285ce6ee00746bd32c13a2c8e91235,"fix(learn): Rename ""Preview"" button 
 a8bbe93fa678c28c96db12939f49106af00a6559,refactor(client): remove unused playwright test labels (#63042),2025-10-25T04:02:58Z,2,6,pdtrang,freeCodeCamp,freeCodeCamp
 7348d346449a36174a264eb7a08158004687a348,fix(client): remove references of quiz from RDB review intro (#63046),2025-10-25T04:02:43Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
 72544f2b92c88d3b6b5e7c4e03b87559427d0772,test(e2e): scroll functionality for certification sections on /settin…,2025-10-25T03:50:51Z,1,21,huyenltnguyen,freeCodeCamp,freeCodeCamp
-380003c142285be31cdd278412bd538e1d9af23f,fix: reinstate i18n curriculum (#63036),2025-10-24T14:25:16Z,1,1,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-ae8417a467cef0828f403fd5c782d137874ed2ce,feat(client): add action row with interactive editor toggle to lectur…,2025-10-24T13:12:00Z,15,458,huyenltnguyen,freeCodeCamp,freeCodeCamp
-389353263470abfcb8c23a505db75a30b2d037ca,fix(client): completion epic missing structure bug (#63028),2025-10-24T11:50:03Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-b28f2c3f6b56e0631ecd363de8ac55e090147640,refactor(client): move to react-scroll (#62921),2025-10-24T11:48:54Z,9,131,Sembauke,freeCodeCamp,freeCodeCamp
-f881d63de51384363be5656fd4ad4f32f71d9382,feat(curriculum): Add interactive examples to Pseudo-elements lesson …,2025-10-24T09:26:56Z,1,47,cuongpham24,freeCodeCamp,freeCodeCamp
-12927cdb15ae1d3bf81fbd52120a92cdafa7ae32,feat(curriculum): Add interactive examples to Functional Pseudo-class…,2025-10-24T09:26:27Z,1,78,cuongpham24,freeCodeCamp,freeCodeCamp
-11b93bb17e5477ef7b644209ad1cff12dd0c901e,feat(curriculum): add interactive examples to css filter lesson (#63015),2025-10-24T09:26:03Z,1,68,pdtrang,freeCodeCamp,freeCodeCamp
-72eb4fffc5a680294e78a5d18ec4b4df943ad000,feat(curriculum): add interactive examples to css reset lesson (#63016),2025-10-24T09:25:38Z,1,12,pdtrang,freeCodeCamp,freeCodeCamp
-1cae0cde38e09154bdfa3d13cf35df16bdc4b439,feat(curriculum): Add interactive examples to box sizing lesson (#63018),2025-10-24T09:25:12Z,1,44,cuongpham24,freeCodeCamp,freeCodeCamp
-3cd5a6d1c4ec5d0aa59369bb27935010b28972c2,feat(curriculum): Add interactive examples to margin collapsing lesso…,2025-10-24T09:23:58Z,1,18,cuongpham24,freeCodeCamp,freeCodeCamp
-8e36602c17f2b76b7ef80895c3dab55c286b7818,feat(curriculum): Add interactive examples to css transforms lesson (…,2025-10-24T09:23:29Z,1,52,cuongpham24,freeCodeCamp,freeCodeCamp
-62d4518b8fc1f4f0cc689af02af132b8bc215660,feat(curriculum): Add interactive examples to css overflow lesson (#6…,2025-10-24T09:22:38Z,1,36,cuongpham24,freeCodeCamp,freeCodeCamp
-5c6ab034e4cf115ac457c4f47d4d15868c92fa6c,feat(curriculum): Add interactive examples to Tree-structural Pseudo-…,2025-10-24T09:21:54Z,1,103,cuongpham24,freeCodeCamp,freeCodeCamp
-bf35ce2a2981e73d5d8affc44bafc77537c4ddae,feat(curriculum): add interactive examples to appearance:none; lesson…,2025-10-24T09:19:52Z,1,60,pdtrang,freeCodeCamp,freeCodeCamp
-51af1e6e983f1a2835f050f1510ab840b6f0bee4,feat(curriculum): add interactive examples Location Pseudo-classes le…,2025-10-24T09:13:36Z,1,38,pdtrang,freeCodeCamp,freeCodeCamp
-0e4a85cb1bad3aa8e341dd2b964554668dad1fc3,feat(curriculum): Added interactive examples to Input Pseudo-classes …,2025-10-24T09:10:04Z,1,128,AyushSharma72,freeCodeCamp,freeCodeCamp
-e62064708fdababbab4211509d1d061db7c9b6e6,feat(curriculum): add interactive examples to styling text input less…,2025-10-24T09:07:36Z,1,403,pdtrang,freeCodeCamp,freeCodeCamp
-04801b044d9f0c0e94c182d32697c00624b1efd4,feat(curriculum): add interactive examples to rgb color model lesson …,2025-10-24T09:01:26Z,1,20,pdtrang,freeCodeCamp,freeCodeCamp
-5ce7e15ed7ad3e77c38e78d84948ba115474f521,feat(curriculum): Added interactive examples to User Action Pseudo-cl…,2025-10-24T08:58:27Z,1,92,AyushSharma72,freeCodeCamp,freeCodeCamp
-2771771408011c5c4db8021eb0e2361bb294f9f0,feat(curriculum): add interactive examples to named colors lesson (#6…,2025-10-24T08:56:54Z,1,20,pdtrang,freeCodeCamp,freeCodeCamp
-c4ae39851e231e3f5d40afc4c206bceee7b16977,feat(curriculum): add interactive examples to hsl color model lesson …,2025-10-24T08:54:37Z,1,35,pdtrang,freeCodeCamp,freeCodeCamp
-0231f8973e272a4c365c533e5990c9a5fa8cf661,feat(curriculum): add interactive examples to hex code lesson (#62993),2025-10-24T08:53:15Z,1,35,pdtrang,freeCodeCamp,freeCodeCamp
-0c7d42ab4dce6d78fd7ad9010c1c36a852187f7e,feat(curriculum): Add interactive examples to linear and radial gradi…,2025-10-24T08:49:01Z,1,47,cuongpham24,freeCodeCamp,freeCodeCamp
-963bf0ef4c11ef92c7fc2176b69ffbb905f5982a,feat(curriculum): add interactive examples to Styling Special Input E…,2025-10-24T08:46:16Z,1,76,pdtrang,freeCodeCamp,freeCodeCamp
-c2c6ca37b835443766f9653bb1009457dda4009e,feat: copy and generate exam token (#62623),2025-10-24T08:22:15Z,11,288,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-556abb4b9fdd890d50e89c5cb82bacbf4d21d26f,fix(curriculum): replace blockType with blockLabel in planet lab (#63…,2025-10-24T07:46:01Z,1,2,Dario-DC,freeCodeCamp,freeCodeCamp
-f8b815458d1b673a1b6c8c112d9e608206301721,feat(curriculum): add build a planet class lab (#62625),2025-10-24T05:28:46Z,5,368,majestic-owl448,freeCodeCamp,freeCodeCamp
-5d105ed25db4f9ac06f8f6c6824b594ae562c521,fix (curriculum): fixed __blank typo (#63022),2025-10-24T04:33:36Z,1,4,Preytorkamen,freeCodeCamp,freeCodeCamp
