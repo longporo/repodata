@@ -1,4 +1,5 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+f2397729bfad4edae55fd38d1b088df04a3ae82b,"feat(curriculum): add Understanding how HTTP, DNS and TCP/IP lesson b…",2026-01-25T17:11:11Z,8,857,zairahira,freeCodeCamp,freeCodeCamp
 df3c26089ae35d3165e90cfd1b81acd81763448a,fix(curriculum): refine editable regions in loan qualification checke…,2026-01-24T23:12:12Z,4,12,NewSmoke38,freeCodeCamp,freeCodeCamp
 def9dbaf94acb3a4e1d660f6385450e72f0e3e2e,fix (curriculum) : Bug fixes - get_bingo_letter(11) returns B (#65473),2026-01-24T18:25:28Z,2,4,advait122,freeCodeCamp,freeCodeCamp
 6c417e4d35398ecfcc14d949a8d1d81d121c6184,feat(curriculum): add Working with Node Core Modules lessons (#65008),2026-01-24T10:25:09Z,11,1857,Ksound22,freeCodeCamp,freeCodeCamp
@@ -1085,10 +1086,3 @@ c0d983d538e1af39a26b60c6c1b3617db51d9b51,"feat(curriculum): add interactive exam
 2e26c997d7d0e88631837b74aa3059feae9e43a2,fix(curriculum): improve default width behavior explanation (#63063),2025-10-27T10:24:53Z,3,6,jmferreirab,freeCodeCamp,freeCodeCamp
 a04eeaa9f2285ce6ee00746bd32c13a2c8e91235,"fix(learn): Rename ""Preview"" button to ""Terminal"" for Python lessons …",2025-10-27T09:32:56Z,3,19,JatinMehta007,freeCodeCamp,freeCodeCamp
 418fd7525cb9515d3862b26ceb361f70436337a4,fix(curriculum): typo in css specificity (#63067),2025-10-26T11:31:08Z,1,2,jmferreirab,freeCodeCamp,freeCodeCamp
-5ff2e3816f980719126d37660d433e588913ee90,fix(curriculum): typo number_patter -> number_pattern (#63056),2025-10-25T18:22:51Z,1,2,st3lll4,freeCodeCamp,freeCodeCamp
-6e33189f3b6f8dfd08b7735e5b8acd84272c7c76,test(e2e): add tests for interactive editor toggle (#63043),2025-10-25T05:38:51Z,3,191,huyenltnguyen,freeCodeCamp,freeCodeCamp
-8b44491cc4e04a90fb9ec0c3e7ab046919d1d658,fix(curriculum): move parentheses inside the backticks (#63045),2025-10-25T04:09:04Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
-79c06257ac84c4d637e66324e240e6aa591e749d,feat(curriculum): added a short explanation on ES6 for isNan lesson (…,2025-10-25T04:08:51Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-a8bbe93fa678c28c96db12939f49106af00a6559,refactor(client): remove unused playwright test labels (#63042),2025-10-25T04:02:58Z,2,6,pdtrang,freeCodeCamp,freeCodeCamp
-7348d346449a36174a264eb7a08158004687a348,fix(client): remove references of quiz from RDB review intro (#63046),2025-10-25T04:02:43Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
-72544f2b92c88d3b6b5e7c4e03b87559427d0772,test(e2e): scroll functionality for certification sections on /settin…,2025-10-25T03:50:51Z,1,21,huyenltnguyen,freeCodeCamp,freeCodeCamp
