@@ -1,23 +1,26 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87lspT-,65490,Javascript Build a string inspection,CLOSED,2026-01-25T18:40:32Z,2026-01-25T21:03:12Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ltNJe,65491,DOM manipulation quiz - too easy question,OPEN,2026-01-25T20:44:38Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87lmpyY,65482,Proxy Python execution errors to the main platform console,OPEN,2026-01-24T21:31:15Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87lFC6u,65429,Build Quincy’s Job Tips Page - Step 12 numbered list,OPEN,2026-01-22T14:52:09Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87lsXJi,65489,javaScript interactive editor not loading,CLOSED,2026-01-25T17:46:02Z,2026-01-25T19:05:14Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ljRBl,65476,pythonv9 Build a Medical Data Validator Step 44,OPEN,2026-01-24T13:53:54Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87lWUiO,65461,Typo in step 19 of medical data validator workshop,OPEN,2026-01-23T15:01:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87j5kkg,65268,Audit Workshops: Ensure Editable Regions Only Include Required Lines,OPEN,2026-01-16T20:14:43Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87lmpyY,65482,Proxy Python execution errors to the main platform console,OPEN,2026-01-24T21:31:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87llY1i,65479,Exam Environment Application white screen on Arch and Distrobox,CLOSED,2026-01-24T18:30:34Z,2026-01-24T19:33:26Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lgegx,65470,Challenge 167: Bingo! Letter typo in Test 5 description,CLOSED,2026-01-24T07:18:46Z,2026-01-24T18:25:29Z,advait122,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ljRBl,65476,pythonv9 Build a Medical Data Validator Step 44,OPEN,2026-01-24T13:53:54Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lidRt,65474,Information about property syntax type is referenced under property name,OPEN,2026-01-24T11:56:27Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86z5tF4,59969,Build an availability table issue,OPEN,2025-04-24T19:23:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Qyltv,62666,Creating pull requests with AI-generated or AI-assisted code,OPEN,2025-10-10T13:26:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lik0X,65475,Spanish challenge - Construir un Creador de Oraciones,OPEN,2026-01-24T12:23:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lCuES,65420,[Bug Report]: In the #41 in the Media Catalogue,OPEN,2026-01-22T12:23:12Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87lWUiO,65461,Typo in step 19 of medical data validator workshop,OPEN,2026-01-23T15:01:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ldeOL,65467,failing command for (possibly very small number of) codespaces users - request docs tweak,OPEN,2026-01-24T00:04:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87k4PzC,65411,`defer` attribute does nothing,OPEN,2026-01-21T20:40:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lGeH2,65431,Using built-in `sorted` function in quick short and selection sort labs,CLOSED,2026-01-22T16:21:06Z,2026-01-23T18:57:09Z,Dario-DC,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JQzEc,62018,Daily challenge solutions are saved as `undefined.txt`,OPEN,2025-09-02T15:57:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86kobjV,57818,Consider saving the code for labs,OPEN,2024-12-29T01:19:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jphyW,65214,Add interactive examples for CSS chapter review page,CLOSED,2026-01-15T21:48:22Z,2026-01-23T14:17:21Z,papidb,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87lFC6u,65429,Build Quincy’s Job Tips Page - Step 12 numbered list,OPEN,2026-01-22T14:52:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lJXdD,65438,Using recursion in Build an Nth Fibonacci Number Calculator,OPEN,2026-01-22T19:32:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87kHMXu,65294,workshop-flexbox-photo-gallery step 1 check too permisive,CLOSED,2026-01-18T18:07:34Z,2026-01-23T13:08:12Z,octavio-js,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lIH7P,65436,Hardcoding answers in lab-depth-first-search,OPEN,2026-01-22T18:06:02Z,,,freeCodeCamp,freeCodeCamp
@@ -981,9 +984,3 @@ I_kwDOAbI7X87Rv_nX,62837,"Suggestion: Add edge case tests for ""Implement a Sort
 I_kwDOAbI7X87TwqF1,63057,Misleading explanation of default width behavior in CSS Basics,CLOSED,2025-10-25T17:25:55Z,2025-10-27T10:24:54Z,jmferreirab,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87T3alI,63075,Danielofosu.com,CLOSED,2025-10-26T22:40:15Z,2025-10-26T23:00:46Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TwNzw,63052,Typo in the Full Curriculum text,CLOSED,2025-10-25T15:30:38Z,2025-10-26T11:31:09Z,jmferreirab,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TwEys,63051,"""Build a Number Pattern Generator"" lab test hint typo",CLOSED,2025-10-25T14:50:27Z,2025-10-25T18:22:52Z,st3lll4,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Tp2vO,63044,infinte scroll example with load more not working,CLOSED,2025-10-24T20:45:29Z,2025-10-25T14:57:00Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87To0ZR,63040,Minor edit in DOM Manipulation Review,CLOSED,2025-10-24T19:12:46Z,2025-10-25T04:09:05Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Pq92X,62519,Provide short explanation on ES6 for isNan lesson,CLOSED,2025-10-04T21:23:15Z,2025-10-25T04:08:52Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ToeVP,63039,Remove unused playwright test labels,CLOSED,2025-10-24T18:45:58Z,2025-10-25T04:03:00Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TZzOM,63008,Remove references of quiz from RBD review intro?,CLOSED,2025-10-23T22:00:05Z,2025-10-25T04:02:44Z,pdtrang,freeCodeCamp,freeCodeCamp
