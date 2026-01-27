@@ -1,4 +1,18 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+e84c07be1c90f6bfc1a01e4e0e3d193fbd90ba8f,feat(curriculum): add A1 Spanish describing a company audios (#65518),2026-01-26T22:10:27Z,1,8,estefaniacn,freeCodeCamp,freeCodeCamp
+7830b448be1291682499a4cc8d77e8622ff63b65,"chore(i18n,client): processed translations (#65502)",2026-01-26T17:28:24Z,20,1450,camperbot,freeCodeCamp,freeCodeCamp
+b6ccf0aed608a4fc8e9064e38be27c111f3258ce,"chore(i18n,learn): update i18n-curriculum submodule (#65510)",2026-01-26T16:48:15Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+e08adce1d2fe76213f11540f8ee30762624d439b,feat(curriculum): add interactive examples to javascript dates (#65352),2026-01-26T15:11:58Z,1,55,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+50567984df28af74ca050b88cbca83c6f8246e54,feat(curriculum): add interactive examples to javascript ARIA Accessi…,2026-01-26T15:08:06Z,1,230,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+e12308bf703abbb6d83a22a7e7873c954b4a2477,feat(curriculum): add interactive examples to css typography (#65355),2026-01-26T15:01:15Z,1,50,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+6f5af619c38af19afe3efa1ec4e5bd84f80096f2,feat(curriculum): add interactive examples to CSS Flexbox review (#65…,2026-01-26T14:59:43Z,1,112,harshentau-spec,freeCodeCamp,freeCodeCamp
+cc1413d57bd7345951aeda815ea901be6926dda1,fix(curriculum): Add interactive examples to DOM review page (#65387),2026-01-26T14:11:31Z,1,164,papidb,freeCodeCamp,freeCodeCamp
+a9e0412165f8c4f6c8b0214ad0653a4082ec9051,fix(curriculum): replace ordered list with unordered list in Quincy j…,2026-01-26T13:29:31Z,1,8,kshitiz510,freeCodeCamp,freeCodeCamp
+e5cae6909c5825f70a290ffead2aa05c112f937c,feat(tools): modularize browser-scripts (#65399),2026-01-26T12:21:20Z,15,112,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+3152bff893275d887b44c60901b12213f1af5115,chore: update lockfile (#65500),2026-01-26T12:00:59Z,1,520,raisedadead,freeCodeCamp,freeCodeCamp
+0cf1d86ceff61d0948681ae82c5b814758c5aec8,fix(curriculum): fix editable regions in medical data validator works…,2026-01-26T11:32:08Z,39,208,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+79087ca9fd352c67c92dd04566baf08d4a0c801d,refactor(tools): replace challenge-editor with submodule (#65459),2026-01-26T11:27:08Z,75,2126,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+7efcd891f2e157196aa28f46c706e3ef2222a68d,fix(curriculum): replace fizzBuzzMini with fizz_buzz_mini in Python c…,2026-01-26T10:29:14Z,1,6,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 f2397729bfad4edae55fd38d1b088df04a3ae82b,"feat(curriculum): add Understanding how HTTP, DNS and TCP/IP lesson b…",2026-01-25T17:11:11Z,8,857,zairahira,freeCodeCamp,freeCodeCamp
 df3c26089ae35d3165e90cfd1b81acd81763448a,fix(curriculum): refine editable regions in loan qualification checke…,2026-01-24T23:12:12Z,4,12,NewSmoke38,freeCodeCamp,freeCodeCamp
 def9dbaf94acb3a4e1d660f6385450e72f0e3e2e,fix (curriculum) : Bug fixes - get_bingo_letter(11) returns B (#65473),2026-01-24T18:25:28Z,2,4,advait122,freeCodeCamp,freeCodeCamp
@@ -1085,4 +1099,3 @@ c0d983d538e1af39a26b60c6c1b3617db51d9b51,"feat(curriculum): add interactive exam
 6bab524f2c6ea356ae16675d84e7349774c7a576,"chore(i18n,client): processed translations (#63082)",2025-10-27T12:58:12Z,20,270,camperbot,freeCodeCamp,freeCodeCamp
 2e26c997d7d0e88631837b74aa3059feae9e43a2,fix(curriculum): improve default width behavior explanation (#63063),2025-10-27T10:24:53Z,3,6,jmferreirab,freeCodeCamp,freeCodeCamp
 a04eeaa9f2285ce6ee00746bd32c13a2c8e91235,"fix(learn): Rename ""Preview"" button to ""Terminal"" for Python lessons …",2025-10-27T09:32:56Z,3,19,JatinMehta007,freeCodeCamp,freeCodeCamp
-418fd7525cb9515d3862b26ceb361f70436337a4,fix(curriculum): typo in css specificity (#63067),2025-10-26T11:31:08Z,1,2,jmferreirab,freeCodeCamp,freeCodeCamp
