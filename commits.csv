@@ -1,4 +1,13 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+3e961fb9c448dfb18c46c03068841c85027cc649,fix(curriculum): Medical Data Validator Workshop Typo (#65567),2026-01-29T17:06:58Z,1,2,NotchArrow,freeCodeCamp,freeCodeCamp
+e83a71ec1703b530a9a5d00b04d35a729038ac41,fix(curriculum): correct editable region for workshop-rothko-painting…,2026-01-29T14:20:10Z,35,77,hbar1st,freeCodeCamp,freeCodeCamp
+3a57b773cb5906635fe34ff988a34a763944c254,fix(curriculum):add a dot in the comments to reflect python output (#…,2026-01-29T13:43:42Z,2,4,ashwin-athappan,freeCodeCamp,freeCodeCamp
+ea155bea9b5f79758e7374e93fd0447c5477cffa,fix(curriculum): correct Python tests for DCC 172 (#65559),2026-01-29T13:37:49Z,2,10,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+c5f9248b871338c1cd897e9c48cb6b94c28d0d18,feat(curriculum): EN-A2 quiz for block 9 (#65524),2026-01-29T08:50:32Z,1,325,anastasiiauk,freeCodeCamp,freeCodeCamp
+ef3c9191a493f065ca099ea76ba98d466b0b99fc,feat(curriculum): EN-A2 quiz for block 8 (#65497),2026-01-29T08:49:34Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
+5d5c2a1786866fcacdfc0f320c0351afbe8f8b1b,feat(curriculum): EN-A2 quiz for block 7 (#65406),2026-01-29T08:49:13Z,1,325,anastasiiauk,freeCodeCamp,freeCodeCamp
+582261f70b91c5ae32cef54778b5dce6f960909b,test(challenge-parser): add test for 'highlighted-text' class (#65546),2026-01-29T03:36:36Z,1,14,huyenltnguyen,freeCodeCamp,freeCodeCamp
+dfffe86a82b44225cd69727ad65ab2a61ad37617,fix(deps): update lodash monorepo to v4.17.23 (#65548),2026-01-29T03:35:48Z,2,80,renovate[bot],freeCodeCamp,freeCodeCamp
 efcc7a7ad47da5ae5382a5f2b32c6ad553ffc341,fix(curriculum): add a test to Build a Flappy Penguin - step 103 (#65…,2026-01-28T22:30:04Z,1,6,pdtrang,freeCodeCamp,freeCodeCamp
 7012e8cd358b07349a0ab3a79d9bd0b0f52aa895,fix(curriculum): fix definition of custom property (#65533),2026-01-28T18:30:35Z,3,12,garyeung,freeCodeCamp,freeCodeCamp
 a86be68b2b398ac045c41ca9ca5d48717e6c7ad4,"chore(i18n,client): processed translations (#65537)",2026-01-28T18:23:25Z,10,60,camperbot,freeCodeCamp,freeCodeCamp
@@ -1020,39 +1029,3 @@ ba1a8e7ace60cce1a835b565f4161eba505d77b7,feat(curriculum): Add interactive examp
 ce6c4114e717481561677a696eb1338f901c0ab3,feat(curriculum): add interactive examples to What Is Scope in Progra…,2025-10-30T09:27:13Z,1,18,pdtrang,freeCodeCamp,freeCodeCamp
 62d1e14f19eea0e9f10c1463e75cbc947f58f691,feat(curriculum): Add interactive examples  to How Does isNaN Work? (…,2025-10-30T02:51:10Z,1,42,clarencepenz,freeCodeCamp,freeCodeCamp
 a9e847591ee874de4aaf5f5ba5664f9f89c3b7d1,feat(curriculum): Add interactive examples  to  How Do the parseFloat…,2025-10-30T02:49:07Z,1,42,clarencepenz,freeCodeCamp,freeCodeCamp
-f49e321bd998498f65d14e60085a52077f534bf9,fix(curriculum): add blockLabel to game settings workshop (#63291),2025-10-29T21:22:29Z,1,2,moT01,freeCodeCamp,freeCodeCamp
-3bf7ab6fed63c5bd0ea5e067225b51aca2ab466c,feat(curriculum): styling checkboxes workshop (#62607),2025-10-29T19:33:57Z,21,1783,Timiro,freeCodeCamp,freeCodeCamp
-7a2c79955cba49b68cab8178c004015ee195b1ef,feat(curriculum): add accessible audio controller workshop to FSD cer…,2025-10-29T19:28:25Z,11,563,dragon-slayer27,freeCodeCamp,freeCodeCamp
-fc3eac4cf4c28c644a551d787d09187314bc6c84,feat(curriculum): Add interactive examples  to What Is the Math Objec…,2025-10-29T19:21:45Z,1,57,clarencepenz,freeCodeCamp,freeCodeCamp
-26546710ba6e51e0e4d05f9f5d3d7bae43f977bb,feat(curriculum): Add interactive examples  to What Are Binary Logica…,2025-10-29T19:16:51Z,1,30,clarencepenz,freeCodeCamp,freeCodeCamp
-040d4c7fa38a0be88a6bc75e98f011a0c78d17c1,feat(curriculum): Add interactive examples  to What Are Conditional S…,2025-10-29T19:08:49Z,1,27,clarencepenz,freeCodeCamp,freeCodeCamp
-038c1f4314c82c6a1855db123e2273f6904dd9cf,fix(a11y): add aria-label to mathematical formulas (#63251),2025-10-29T18:51:28Z,1,8,majestic-owl448,freeCodeCamp,freeCodeCamp
-47f85184360cfa23c98f9bfa41f1f7df3323a5a5,feat(curriculum): Add interactive examples  to What Are Comparison Op…,2025-10-29T18:31:11Z,1,18,clarencepenz,freeCodeCamp,freeCodeCamp
-691b9c2ee8e7d1d190a3eb14b51a77ea5383200a,"feat(curriculum): Add interactive examples  to What Are Booleans, and…",2025-10-29T18:24:34Z,1,26,clarencepenz,freeCodeCamp,freeCodeCamp
-da2ef67f13412c7aab3e7b6d8595cd08c37e6fa9,feat(curriculum): Add interactive examples  to  What Are Compound Ass…,2025-10-29T18:23:37Z,1,30,clarencepenz,freeCodeCamp,freeCodeCamp
-26bc0b2b3ddac653c7aa7fc1be96035a5e41231d,feat(curriculum): Add interactive examples  to  How Do the Increment …,2025-10-29T18:22:39Z,1,18,clarencepenz,freeCodeCamp,freeCodeCamp
-371d14256ea1deccc26e462ea02a9e745faba849,feat(curriculum): Add interactive examples  to  How Does Operator Pre…,2025-10-29T18:21:35Z,1,26,clarencepenz,freeCodeCamp,freeCodeCamp
-3115d38faf14b490ea19709dc5de076d50130841,feat(curriculum): Add interactive examples  to  What Happens When You…,2025-10-29T18:20:25Z,1,26,clarencepenz,freeCodeCamp,freeCodeCamp
-624ead6752a2a1cbaa9a1249bbd623a1e0920284,feat(curriculum): Add interactive examples  to What Are Bitwise Opera…,2025-10-29T18:19:45Z,1,48,clarencepenz,freeCodeCamp,freeCodeCamp
-f81ca655232545bbcf3c8089a74efdb4267f40fe,feat(curriculum): Add interactive examples  to  What Are the Differen…,2025-10-29T18:19:21Z,1,42,clarencepenz,freeCodeCamp,freeCodeCamp
-bd40b32c22a71b982bef77c400f13e413db34f26,feat(curriculum): Add interactive examples  to What Are Unary Operato…,2025-10-29T18:18:20Z,1,26,clarencepenz,freeCodeCamp,freeCodeCamp
-55f3631cd94ec91162a02243092dc69dc5f2b8e4,feat(curriculum): Add interactive examples  to  number types lesson (…,2025-10-29T18:18:01Z,1,26,clarencepenz,freeCodeCamp,freeCodeCamp
-d002589aa493013539d84b35cd9b22884060d4ac,feat(curriculum): Add interactive examples  to How Can You Repeat a S…,2025-10-29T18:15:36Z,1,20,clarencepenz,freeCodeCamp,freeCodeCamp
-3b0c6c517269ea96e76c7a699b9fbf1a25e95422,feat(curriculum): Add interactive examples  to How Can You Replace Pa…,2025-10-29T18:14:34Z,1,26,clarencepenz,freeCodeCamp,freeCodeCamp
-f3631ac6486119e1f5f47d19fb88b04a27467d55,feat(curriculum): Add interactive examples  to How Can You Trim White…,2025-10-29T18:13:30Z,1,25,clarencepenz,freeCodeCamp,freeCodeCamp
-4464c123a50484ded5cf20be121b4d4b2ac747d5,feat(curriculum): Add interactive examples  to How Can You Change the…,2025-10-29T18:10:15Z,1,14,clarencepenz,freeCodeCamp,freeCodeCamp
-fdbd33a9a7fb5fea0570f307c4df15b3e56ab018,feat(curriculum): add string inspector workshop to FSD cert (#62574),2025-10-29T17:59:47Z,16,831,Teklez,freeCodeCamp,freeCodeCamp
-ce109e5dff86d71ff62c43ec69445f12abbf164b,feat(client): flash when can claim cert (#62594),2025-10-29T17:26:52Z,7,96,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-d4e6f3ac8d06aba8510288bdc0dd846fcff10719,"chore(i18n,learn): update i18n-curriculum submodule (#63222)",2025-10-29T17:13:23Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-e85aeb770464f8fbb03c189b1001819aeadc21ac,feat(curriculum): add Blockquotes and Quote Workshop to FSD cert (#62…,2025-10-29T17:05:27Z,17,1107,l3onhard,freeCodeCamp,freeCodeCamp
-fdb74bea05676058e0db9d0928d8b6079e3c5fe5,feat(curriculum): add attribute selector recap to CSS review (#62524),2025-10-29T16:59:06Z,1,46,DipakHalkude,freeCodeCamp,freeCodeCamp
-9231224b2249aa17a01edfdf87f75aee213aee41,fix(curriculum): Corrected question and its solution (#62876),2025-10-29T16:20:26Z,1,51,Ansh-Kathil,freeCodeCamp,freeCodeCamp
-26ca8fee4b1ef4484773e2476aa1bb656224077f,feat: add attempt statuses (#63035),2025-10-29T14:20:02Z,6,155,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-03c775ac2dd23498189ab029d8de3ecce90d7b55,feat/ab test landing google auth (#62538),2025-10-29T13:55:08Z,14,704,ahmaxed,freeCodeCamp,freeCodeCamp
-2bd3ec1db88a96b9d984bdb1c4a94075b60ff6f5,fix(curriculum) : Fixed Wrong Comment of Backreferences Example (#63219),2025-10-29T13:10:47Z,1,2,hiteshdotdev,freeCodeCamp,freeCodeCamp
-41ddf7eff0eceaaccae18ac160b6d5a69a0e9f80,"chore(i18n,client): processed translations (#63220)",2025-10-29T12:58:40Z,20,18238,camperbot,freeCodeCamp,freeCodeCamp
-36947395b4f66b5b70c5fcf67061a51ffd354329,feat(curriculum): add game character stats lab (#62243),2025-10-29T11:41:43Z,5,608,ihechikara,freeCodeCamp,freeCodeCamp
-c503861b6839fcf9bb87c1ff7a6f4a9d2689fced,feat(curriculum): add example to element skipper lab (#63079),2025-10-29T10:20:35Z,1,4,majestic-owl448,freeCodeCamp,freeCodeCamp
-d7268ed64a07986483c4514bfd68d473ce71d24a,feat(client): icons for Chinese and Spanish super blocks (#63205),2025-10-29T03:09:27Z,8,497,huyenltnguyen,freeCodeCamp,freeCodeCamp
-02995191f7a7f754b07e8138bbbe85e76309ca94,fix(curriculum): use more recent target for TS compilation (#63144),2025-10-29T03:08:57Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-3b0a6a022b33423e9b2b5a19b0ec0eb037c4933b,test(client): add unit tests for theme initialization logic (#63212),2025-10-29T03:08:31Z,2,121,huyenltnguyen,freeCodeCamp,freeCodeCamp
