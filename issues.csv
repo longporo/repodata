@@ -1,32 +1,47 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87j5kkg,65268,Audit Workshops: Ensure Editable Regions Only Include Required Lines,OPEN,2026-01-16T20:14:43Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87nF4vr,65602,Inconsistent feedback style in Greetings and Farewell Practice - Task 1,CLOSED,2026-01-30T19:33:50Z,2026-01-30T23:31:43Z,AlexanderJGreen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87nHjfO,65607,"Incorrect description for ternary operator in ""What Are Conditional Statements, and How Do If/Else If/Else Statements Work?""",OPEN,2026-01-30T21:53:01Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87mwlXN,65570,TS file content is hidden after closing another file,OPEN,2026-01-29T16:17:51Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87nF7Py,65603,Inconsistent feedback style in Introducing Yourself Practice - Task 1,OPEN,2026-01-30T19:36:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ljRBl,65476,pythonv9 Build a Medical Data Validator Step 44,CLOSED,2026-01-24T13:53:54Z,2026-01-30T19:39:49Z,DeveloperViraj,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87miSQl,65549,"JS Certification (v9), Working with Audio and Video, MIME types",CLOSED,2026-01-28T22:37:23Z,2026-01-30T19:17:35Z,astrophileAqsa123,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87nE-qn,65601,remove or restore index.md?,OPEN,2026-01-30T18:19:14Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87iIuwP,65045,Replace archived challenge links in `challenge-title.spec.ts`,CLOSED,2026-01-08T18:28:48Z,2026-01-30T18:56:08Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87msV0U,65558,Python Certification elif explanation could be clearer,CLOSED,2026-01-29T12:22:29Z,2026-01-30T18:27:41Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87nEqVa,65600,impossible to update user profile,OPEN,2026-01-30T17:54:32Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87bl-e9,64265,MathJax not rendering in Python v9 lab,CLOSED,2025-12-02T05:51:54Z,2026-01-30T17:44:42Z,moT01,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87munUc,65564,Stray text bug in console (WWW...),OPEN,2026-01-29T14:25:51Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86kobjV,57818,Consider saving the code for labs,OPEN,2024-12-29T01:19:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87muU8F,65562,Python Basics theory missing how to run your code,OPEN,2026-01-29T14:09:47Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87m1Trz,65581,Sticky navbar elements scroll and overlap page content,OPEN,2026-01-29T21:46:51Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87m7E3s,65590,CI i18n validation failing for italian and portuguese locales on main branch,CLOSED,2026-01-30T06:38:50Z,2026-01-30T11:41:35Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jpV-7,65211,Add interactive examples for CSS Variables Review page,CLOSED,2026-01-15T21:35:20Z,2026-01-30T10:16:54Z,Jeevankumar-S;zairahira,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jpc9k,65213,Add interactive examples to CSS animations review page,CLOSED,2026-01-15T21:43:11Z,2026-01-30T10:16:19Z,Jeevankumar-S;zairahira,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87mdx3q,65544,Add Note on settings page about how to update profile,OPEN,2026-01-28T17:34:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87m1Trz,65581,Navbar elements scroll and overlap page content on Discord servers,CLOSED,2026-01-29T21:46:51Z,2026-01-30T09:03:09Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87mI5ur,65528,Construye un Bot de Saludos - Paso 10 - translation issue,CLOSED,2026-01-27T15:18:22Z,2026-01-30T08:39:24Z,camperbot,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87lik0X,65475,Spanish challenge - Construir un Creador de Oraciones,CLOSED,2026-01-24T12:23:17Z,2026-01-30T08:39:23Z,camperbot,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87mzkvf,65575,spaces around text in element make tests fail,CLOSED,2026-01-29T19:39:26Z,2026-01-30T08:18:43Z,YashhCanCode,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87e6ze-,64718,Migrate Range of Numbers Lab,CLOSED,2025-12-17T18:18:55Z,2026-01-30T07:46:50Z,NewSmoke38;zairahira,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ea0Xz,64628,Create a prototype for Python functions lab,CLOSED,2025-12-15T17:26:07Z,2026-01-30T07:46:27Z,Ali Farooqi;alifarooqi,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87myAdo,65573,[feature request] delete wip code saved in database,OPEN,2026-01-29T17:45:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPFOX,64125,Lab – Signal Pattern Detector,OPEN,2025-11-25T03:45:49Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87mzkvf,65575,spaces around text in element make tests fail,OPEN,2026-01-29T19:39:26Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jp7-s,65228,Add interactive examples to JavaScript Higher Order Functions Review page,CLOSED,2026-01-15T22:16:46Z,2026-01-21T13:26:14Z,harshentau-spec,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87kpXtG,65378,URL Shortener Microservice - Bug Report,OPEN,2026-01-21T00:40:05Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87myAdo,65573,[feature request] delete wip code saved in database,OPEN,2026-01-29T17:45:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lWUiO,65461,Typo in step 19 of medical data validator workshop,CLOSED,2026-01-23T15:01:33Z,2026-01-29T17:06:59Z,NotchArrow,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87mwlXN,65570,TS file content is hidden after closing another file,OPEN,2026-01-29T16:17:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X857i6kL,53073,MSLearn C# Course - Timeline - View button - User is shown a JSON object instead of the appropriate achievement page,OPEN,2024-01-09T16:41:34Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87munUc,65564,Stray text bug in console WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW,OPEN,2026-01-29T14:25:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87mYxRa,65538,Python Certification Dynamic Programming ambiguous text,OPEN,2026-01-28T12:38:05Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87mI5ur,65528,Construye un Bot de Saludos - Paso 10 - translation issue,OPEN,2026-01-27T15:18:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87mCQ5S,65521,Challenge 170: Odd or Even Day Test 3 issue,OPEN,2026-01-27T08:09:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87mo7Lu,65554,Daily Coding Challenge 172: Letters-Numbers - typo in Tests description,CLOSED,2026-01-29T08:36:31Z,2026-01-29T13:37:51Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87msV0U,65558,Python Certification elif explanation could be clearer,OPEN,2026-01-29T12:22:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lCuES,65420,[Bug Report]: In the #41 in the Media Catalogue,CLOSED,2026-01-22T12:23:12Z,2026-01-29T13:44:52Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87mf37w,65547,A dot is missing at the end of one of the comments.,CLOSED,2026-01-28T19:51:24Z,2026-01-29T13:43:44Z,ashwin-athappan,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87kiA31,65357,Missing script: compile:ts in packages.json or Documentation problem.,OPEN,2026-01-20T15:02:45Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87miSQl,65549,"JS Certification (v9), Working with Audio and Video, MIME types",OPEN,2026-01-28T22:37:23Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87mdx3q,65544,Add Note on settings page about how to update profile,OPEN,2026-01-28T17:34:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lu-S-,65492,Wrong syntax passed a coding challenge (Build a Flappy Penguin Step 103),CLOSED,2026-01-26T02:41:34Z,2026-01-28T22:30:06Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lidRt,65474,Information about property syntax type is referenced under property name,CLOSED,2026-01-24T11:56:27Z,2026-01-28T18:30:37Z,garyeung,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87mM-LE,65531,Audio Tag on Safari does not display Volume by Default,OPEN,2026-01-27T19:44:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87klbtL,65368,Certificate Page - no project links,OPEN,2026-01-20T18:57:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87krh08,65383,Double punctuation,OPEN,2026-01-21T05:14:00Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ljRBl,65476,pythonv9 Build a Medical Data Validator Step 44,OPEN,2026-01-24T13:53:54Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jqFLK,65234,Add interactive examples to Form Validation with JavaScript Review page,CLOSED,2026-01-15T22:26:47Z,2026-01-28T09:33:55Z,Jeevankumar-S;zairahira,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jpAJV,65201,Add interactive examples to CSS colors review page,CLOSED,2026-01-15T21:11:32Z,2026-01-28T09:33:27Z,Jeevankumar-S;zairahira,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jpLhQ,65206,Add interactive examples to CSS Accessibility Review page,CLOSED,2026-01-15T21:24:08Z,2026-01-28T09:31:56Z,fullstacksam23;zairahira,freeCodeCamp,freeCodeCamp
@@ -63,15 +78,12 @@ I_kwDOAbI7X87d8n_t,64556,missing index.md file does not cause test failures,CLOS
 I_kwDOAbI7X87lySB1,65498,Daily coding challenge FizzBuzz Mini - Typo in name for call function in tests for Python,CLOSED,2026-01-26T09:26:17Z,2026-01-26T10:29:16Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lspT-,65490,Javascript Build a string inspection,CLOSED,2026-01-25T18:40:32Z,2026-01-25T21:03:12Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lsXJi,65489,javaScript interactive editor not loading,CLOSED,2026-01-25T17:46:02Z,2026-01-25T19:05:14Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87j5kkg,65268,Audit Workshops: Ensure Editable Regions Only Include Required Lines,OPEN,2026-01-16T20:14:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87llY1i,65479,Exam Environment Application white screen on Arch and Distrobox,CLOSED,2026-01-24T18:30:34Z,2026-01-24T19:33:26Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lgegx,65470,Challenge 167: Bingo! Letter typo in Test 5 description,CLOSED,2026-01-24T07:18:46Z,2026-01-24T18:25:29Z,advait122,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86z5tF4,59969,Build an availability table issue,OPEN,2025-04-24T19:23:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Qyltv,62666,Creating pull requests with AI-generated or AI-assisted code,OPEN,2025-10-10T13:26:53Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87lik0X,65475,Spanish challenge - Construir un Creador de Oraciones,OPEN,2026-01-24T12:23:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lGeH2,65431,Using built-in `sorted` function in quick short and selection sort labs,CLOSED,2026-01-22T16:21:06Z,2026-01-23T18:57:09Z,Dario-DC,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JQzEc,62018,Daily challenge solutions are saved as `undefined.txt`,OPEN,2025-09-02T15:57:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86kobjV,57818,Consider saving the code for labs,OPEN,2024-12-29T01:19:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jphyW,65214,Add interactive examples for CSS chapter review page,CLOSED,2026-01-15T21:48:22Z,2026-01-23T14:17:21Z,papidb,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87kHMXu,65294,workshop-flexbox-photo-gallery step 1 check too permisive,CLOSED,2026-01-18T18:07:34Z,2026-01-23T13:08:12Z,octavio-js,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lK_dJ,65439,Remove redundant text from archive content warning,CLOSED,2026-01-22T21:41:47Z,2026-01-23T12:36:28Z,CKofficial-1797;huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -133,8 +145,6 @@ I_kwDOAbI7X87hg0Jm,65003,Open Exam Environment Application Download not using us
 I_kwDOAbI7X87kPlH3,65311,Build a Real Time Counter,CLOSED,2026-01-19T11:32:10Z,2026-01-19T19:56:50Z,octavio-js,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jvIYp,65250,promise chaining fails tests,CLOSED,2026-01-16T07:27:52Z,2026-01-19T17:03:42Z,gikf,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fgeg-,64798,Mobile scrolling issue in JavaScript editor on Chrome Android,OPEN,2025-12-20T09:12:20Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jpc9k,65213,Add interactive examples to CSS animations review page,OPEN,2026-01-15T21:43:11Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jpV-7,65211,Add interactive examples for CSS Variables Review page,OPEN,2026-01-15T21:35:20Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jpDNc,65203,Add interactive examples for CSS layouts and effects review page,OPEN,2026-01-15T21:14:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jqZIL,65241,Review pages don't support interactive examples,CLOSED,2026-01-15T22:55:53Z,2026-01-19T08:26:50Z,naomi-freecodecamp,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87kFADB,65288,"Grammar error in JavaScript review conditional example (""an B"" → ""a B"")",CLOSED,2026-01-18T08:41:25Z,2026-01-18T20:34:03Z,anirudhxmishra,freeCodeCamp,freeCodeCamp
@@ -201,7 +211,6 @@ I_kwDOAbI7X87ejmVR,64645,"Missing special prop ""children"" in article on React"
 I_kwDOAbI7X87iH5qd,65043,Allow block-based super blocks to have quizzes,CLOSED,2026-01-08T17:18:49Z,2026-01-08T19:54:35Z,Jeevankumar-S,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87hBuiN,64960,Portuguese - Build an Event Lab - Language mixing in user stories,CLOSED,2026-01-01T23:01:39Z,2026-01-08T19:30:17Z,camperbot,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gvxza,64936,jsv9 Crie um Bot Informativo em JavaScript,CLOSED,2025-12-30T16:01:50Z,2026-01-08T19:30:16Z,camperbot,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87iIuwP,65045,Replace archived challenge links in `challenge-title.spec.ts`,OPEN,2026-01-08T18:28:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TjZxe,63033,Accessibility issues in the demo of Drum Machine,CLOSED,2025-10-24T12:34:45Z,2026-01-08T17:33:53Z,Om7035;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87h9Lce,65031,Mismatch in ID names in the instructions for the LAB - Build an fCC Authors Page,CLOSED,2026-01-08T01:38:15Z,2026-01-08T15:14:03Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TTMoi,62971,[ui] exam token info is not pretty in day mode.,CLOSED,2025-10-23T14:46:07Z,2026-01-08T11:48:11Z,,freeCodeCamp,freeCodeCamp
@@ -221,7 +230,6 @@ I_kwDOAbI7X87hov9N,65011,Python Exam typos,CLOSED,2026-01-06T15:36:09Z,2026-01-0
 I_kwDOAbI7X87eazYQ,64624,Create a prototype for Python strings workshop,OPEN,2025-12-15T16:52:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ea0MK,64627,Create a prototype for Python functions workshop,OPEN,2025-12-15T17:22:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87e8yf5,64724,Create a prototype for Python numbers and math operations workshop,OPEN,2025-12-17T21:06:41Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ea0Xz,64628,Create a prototype for Python functions lab,OPEN,2025-12-15T17:26:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fz50e,64848,Replace archived challenge links in `challenge-reset-modal` test,CLOSED,2025-12-22T19:18:08Z,2026-01-06T19:56:18Z,Jeevankumar;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87hGUsl,64971,Update blog post lab requirements to test for different background color in body element,CLOSED,2026-01-02T14:54:46Z,2026-01-06T17:12:36Z,DeveloperViraj;majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87hVrXS,64987,Implement a Spinal Case Converter user story issue,CLOSED,2026-01-05T08:07:59Z,2026-01-06T15:26:08Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
@@ -331,7 +339,6 @@ I_kwDOAbI7X87e1mHW,64698,proposal to expand recursion section,OPEN,2025-12-17T11
 I_kwDOAbI7X87Yyo8J,63943,Hovering blocks should not add to browser history,CLOSED,2025-11-18T09:48:11Z,2025-12-17T19:36:25Z,Sembauke;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863pUiQ,60472,Refactor shopping cart workshop,OPEN,2025-05-21T18:17:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863ocO_,60469,Todo App using Local Storage — formInputValuesUpdated,OPEN,2025-05-21T16:36:14Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87e6ze-,64718,Migrate Range of Numbers Lab,OPEN,2025-12-17T18:18:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87erhd6,64667,Audio seems cutoff for Task 10 in angela and basti lessons,CLOSED,2025-12-16T18:51:06Z,2025-12-17T19:18:59Z,RafaelDavisH;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87erLTu,64665,Issue with question 3 of introduce yourself quiz,CLOSED,2025-12-16T18:20:28Z,2025-12-17T19:18:59Z,RafaelDavisH;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87P6-rG,62555,Make curriculum subject headings anchor linkable for direct sharing,OPEN,2025-10-06T17:34:23Z,,,freeCodeCamp,freeCodeCamp
@@ -491,7 +498,6 @@ I_kwDOAbI7X87XfyqO,63766,Middle div in action row conflicts with button,CLOSED,2
 I_kwDOAbI7X87ZXnVU,63995,[Challenge parser] Improve validation to catch missing `---` in MCQ challenges,CLOSED,2025-11-20T11:31:03Z,2025-12-03T17:03:27Z,gikf,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87bzxOp,64287,Remove `dataPlaywrightTestLabel` from SectionHeader,CLOSED,2025-12-02T22:42:30Z,2025-12-03T09:56:15Z,garyeung,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87P-HxN,62559,Reorganize Settings page with sidebar navigation,CLOSED,2025-10-06T21:24:58Z,2025-12-03T09:28:22Z,Sembauke;ahmaxed;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87bl-e9,64265,MathJax not rendering in Python v9 lab,OPEN,2025-12-02T05:51:54Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86vYBmW,59397,Clean up global.css,CLOSED,2025-03-24T07:40:43Z,2025-12-02T18:58:29Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87a7Vr7,64200,Learn How to Describe Places and Events - Task 124 - Elaborate feedback,CLOSED,2025-11-27T20:58:47Z,2025-12-02T17:05:25Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86zrBgf,59929,Update Keyboard Shortcuts lesson to include multi line editing,CLOSED,2025-04-23T15:24:49Z,2025-12-02T17:01:51Z,huyenltnguyen;pdtrang,freeCodeCamp,freeCodeCamp
@@ -898,29 +904,3 @@ I_kwDOAbI7X87U8TGm,63339,"Add interactive examples to What Is a While Loop, and 
 I_kwDOAbI7X87U8UFe,63340,"Add interactive examples to How Does the For...of Loop Work, and When Should You Use It lesson",CLOSED,2025-10-30T21:31:19Z,2025-10-31T09:11:35Z,clarencepenz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87U8Uru,63342,Add interactive examples to How Do Loops and Iteration Work in JavaScript lesson,CLOSED,2025-10-30T21:32:37Z,2025-10-31T09:09:06Z,Giftea,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87U8VnB,63345,"Add interactive examples to What Is Object Destructuring, and How Does It Work lesson",CLOSED,2025-10-30T21:34:35Z,2025-10-31T09:07:48Z,Giftea,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Uc49n,63214,CSS Layout and Effects Quiz - Same answer for two questions regarding properties with different behavior.,CLOSED,2025-10-29T04:54:39Z,2025-10-30T17:45:50Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Up4VT,63292,Add interactive examples to How Do You Add and Remove Elements from the Middle of an Array lesson,CLOSED,2025-10-29T20:28:31Z,2025-10-30T11:29:51Z,clarencepenz;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87UqGb1,63303,Add interactive examples to How Do You Work with Accessing Properties from Nested Objects and Arrays in Objects lesson,CLOSED,2025-10-29T20:44:25Z,2025-10-30T11:22:17Z,clarencepenz;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Ups9a,63285,Add interactive examples to How Can You Use String and Array Methods to Reverse a String lesson,CLOSED,2025-10-29T20:16:50Z,2025-10-30T11:21:16Z,clarencepenz;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87UqD3s,63299,Add interactive examples to How Can You Remove Properties from an Object lesson,CLOSED,2025-10-29T20:40:41Z,2025-10-30T11:19:43Z,clarencepenz;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87UppK6,63280,Add interactive examples to How Do You Add and Remove Elements from the Beginning and End of an Array lesson,CLOSED,2025-10-29T20:11:48Z,2025-10-30T11:17:15Z,clarencepenz;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87UqJFZ,63307,Add interactive examples to What Is the Difference Between Functions and Object Methods lesson,CLOSED,2025-10-29T20:47:35Z,2025-10-30T11:16:01Z,clarencepenz;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87UqH-u,63305,Add interactive examples to What Is the Difference Between Primitive and Non-Primitive Data Types lesson,CLOSED,2025-10-29T20:46:24Z,2025-10-30T11:12:01Z,clarencepenz;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Upnh_,63278,Add interactive examples to How Do You Access and Update Elements in an Array lesson,CLOSED,2025-10-29T20:09:50Z,2025-10-30T11:10:11Z,clarencepenz;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Upr7k,63283,"Add interactive examples to What Is Array Destructuring, and How Does It Work lesson",CLOSED,2025-10-29T20:15:29Z,2025-10-30T11:05:27Z,clarencepenz;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87UpqSJ,63281,Add interactive examples to What Is the Difference Between One-Dimensional and Two-Dimensional Arrays lesson,CLOSED,2025-10-29T20:13:19Z,2025-10-30T11:02:05Z,clarencepenz;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Up7Lk,63295,Add interactive examples to What Is a Shallow Copy of an Array lesson,CLOSED,2025-10-29T20:31:17Z,2025-10-30T10:57:22Z,clarencepenz;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87UqC48,63298,"Add interactive examples to What Is an Object in JavaScript, and How Can You Access Properties from an Object lesson",CLOSED,2025-10-29T20:39:23Z,2025-10-30T10:54:05Z,clarencepenz;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Uplo0,63277,Add interactive examples to What Are the Key Characteristics of JavaScript Arrays lesson,CLOSED,2025-10-29T20:07:28Z,2025-10-30T10:49:54Z,clarencepenz;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87UqFXX,63301,Add interactive examples to How to Check If an Object Has a Property lesson,CLOSED,2025-10-29T20:42:54Z,2025-10-30T10:49:37Z,clarencepenz;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87UpzrX,63289,Add interactive examples to How Do You Get the Index for an Element in an Array Using the indexOf Method lesson,CLOSED,2025-10-29T20:23:59Z,2025-10-30T10:48:13Z,clarencepenz;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Up59H,63293,Add interactive examples to How Can You Check if an Array Contains a Certain Value lesson,CLOSED,2025-10-29T20:30:07Z,2025-10-30T10:42:05Z,clarencepenz;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87UpNiT,63269,"Add interactive examples to What Is the Purpose of Functions, and How Do They Work lesson",CLOSED,2025-10-29T19:39:08Z,2025-10-30T10:41:31Z,clarencepenz;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87UpGv3,63266,Add interactive examples to What Are Switch Statements and How Do They Differ from If/Else Chains lesson,CLOSED,2025-10-29T19:31:01Z,2025-10-30T10:36:46Z,clarencepenz;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87UpS0u,63271,"Add interactive examples to What Are Arrow Functions, and How Do They Work lesson",CLOSED,2025-10-29T19:45:20Z,2025-10-30T10:23:39Z,clarencepenz;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Uo6Fr,63261,"Add interactive examples to What Is the toFixed() Method, and How Does It Work lesson",CLOSED,2025-10-29T19:18:12Z,2025-10-30T10:16:37Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87UpEA_,63265,Add interactive examples to How Do Comparisons Work with Null and Undefined Data Types lesson,CLOSED,2025-10-29T19:27:59Z,2025-10-30T10:15:44Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87UqKbt,63309,"Add interactive examples to What Is the Object() Constructor, and When Should You Use It lesson",CLOSED,2025-10-29T20:49:09Z,2025-10-30T09:58:15Z,clarencepenz;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87UpVoL,63272,"Add interactive examples to What Is Scope in Programming, and How Does Global, Local, and Block Scope Work lesson",CLOSED,2025-10-29T19:47:54Z,2025-10-30T09:27:15Z,huyenltnguyen;pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Uo3Ry,63259,Add interactive examples to How Does isNaN Work lesson,CLOSED,2025-10-29T19:15:10Z,2025-10-30T02:51:11Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Uo48a,63260,Add interactive examples to How Do the parseFloat() and parseInt() Methods Work lesson,CLOSED,2025-10-29T19:17:02Z,2025-10-30T02:49:08Z,clarencepenz,freeCodeCamp,freeCodeCamp
