@@ -1,4 +1,31 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+0dc31fc1dbaaff887ac9cf654acfbc5c0a2291c9,"fix(curriculum): remove ""Please"" from Spanish to Task 1 feedback (#65…",2026-01-30T23:31:42Z,1,6,AlexanderJGreen,freeCodeCamp,freeCodeCamp
+b060f05b13695e2fe45c715d42326b4f3f504d05,feat(curriculum): EN-A2 quiz for block 11 (#65597),2026-01-30T20:13:33Z,1,325,anastasiiauk,freeCodeCamp,freeCodeCamp
+274c5290bfbeb39b3fa3328c957b432af73a8227,fix(curriculum): clarify instructions for step 44 (#65484),2026-01-30T19:39:47Z,1,10,DeveloperViraj,freeCodeCamp,freeCodeCamp
+6289e138736df5ec72ec2869cdc611b7501e6f5d,fix(curriculum): correct MP3 MIME type (#65576),2026-01-30T19:17:33Z,3,34,astrophileAqsa123,freeCodeCamp,freeCodeCamp
+c83dca7ba5327c7014dd0b214e7e956a70753159,refactor(e2e): replace archived challenge links (#65592),2026-01-30T18:56:07Z,1,48,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+014826acd41745f519af3cca730c06cfa0c25848,fix(curriculum): refine editable regions in workshop greeting card (#…,2026-01-30T18:29:38Z,27,505,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+95aa78408f0d19c3914efd75bbcdceefdcb31abb,fix(curriculum): clarify elif evaluation order (#65563),2026-01-30T18:27:39Z,3,10,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+0035e1778494419d38133f2a935a0cb0b96fe3c7,chore(curriculum/client): remove old fsd superblock (#64283),2026-01-30T17:44:41Z,510,8829,moT01,freeCodeCamp,freeCodeCamp
+92e508ad72cec20a189facb239c9be1d96f0c85e,fix: enable filtered tests/development (#65542),2026-01-30T16:46:25Z,6,22,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+cbb803d4798f235c323f89637bd16d0426dfec20,feat(curriculum): EN-A2 quiz for block 10 (#65561),2026-01-30T16:16:12Z,1,325,anastasiiauk,freeCodeCamp,freeCodeCamp
+9219b2f85c8b36268b786c734c04e2c847a66762,fix(curriculum): correct editable regions workshop-colored-markers (#…,2026-01-30T14:39:17Z,74,303,hbar1st,freeCodeCamp,freeCodeCamp
+19c77d9c160ac638e7e1b340c7dae60d2ac825fa,feat: add test experience for get user profile endpoint (#65593),2026-01-30T14:20:42Z,1,22,Sembauke,freeCodeCamp,freeCodeCamp
+d61ecc789d1dbed70c987b7cc4078b50838a5fc7,fix(tools): ignore files that should not be linted (#65594),2026-01-30T14:19:55Z,2,57,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+15f9844270f7c637316ba200a693b179508b3204,fix(curriculum): fix editable regions in workshop major browsers list…,2026-01-30T13:36:21Z,7,18,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+faba5bc7dbedefc9dd74d28e8b3d203f603d3e45,fix(curriculum): correct editable region indentation workshop-game-se…,2026-01-30T13:22:47Z,7,16,hbar1st,freeCodeCamp,freeCodeCamp
+e70c651d2c26f57b65d750384462b29bfb9e4c10,fix(curriculum): adjust editable regions in workshop-cat-photo-app (#…,2026-01-30T12:56:07Z,30,100,rosacabrerac,freeCodeCamp,freeCodeCamp
+680a8c2a474ce0b5d95eece4f627713d43f26f8d,fix(client): a11y and styling issues in challenge transcript (#65580),2026-01-30T11:28:26Z,5,122,huyenltnguyen,freeCodeCamp,freeCodeCamp
+f3d1df4ce564e274f374ae515f95c9eb69987f01,feat(curriculum): add interactive examples to css variables (#65373),2026-01-30T10:16:53Z,1,8,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+13f18b83d08966eba013fee935184a3baf67daaf,feat(curriculum): add interactive examples to css animations (#65370),2026-01-30T10:16:18Z,1,37,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+0c0c6a97bee47c2c2fa266834acbe103b68da4ee,"chore(i18n,learn): update i18n-curriculum submodule (#65582)",2026-01-30T08:39:22Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+f684537edbe81b38d4d87af7de1fb6593c731179,fix(curriculum): allow whitespace in Camper Cafe test (#65586),2026-01-30T08:18:41Z,1,2,YashhCanCode,freeCodeCamp,freeCodeCamp
+c99662fb2f3e5432f38a41cdf096a1a433f28796,feat(curriculum): add range of numbers lab to js v9 (#65061),2026-01-30T07:46:48Z,5,159,NewSmoke38,freeCodeCamp,freeCodeCamp
+0f7f816f436593747d0e58c8cc94a8da45f3f15c,feat(curriculum): adding discount calculator lab (#64991),2026-01-30T07:46:25Z,5,227,alifarooqi,freeCodeCamp,freeCodeCamp
+1cd81b347b9123a0db0934cd11856a75fb5d76b8,fix(copilot): eliminate verbose review summaries and restrict to staf…,2026-01-30T04:30:29Z,2,124,Copilot,freeCodeCamp,freeCodeCamp
+16bc86bf97a60f862bfbbb3534345a3c544816a2,fix(deps): update dependency @aws-sdk/client-ses to v3.974.0 (#65583),2026-01-30T03:41:27Z,2,415,renovate[bot],freeCodeCamp,freeCodeCamp
+8bed26f5994830692ed8c31074294bc6046ed112,fix(deps): update dependency @growthbook/growthbook to v1.6.3 (#65584),2026-01-30T03:40:55Z,2,14,renovate[bot],freeCodeCamp,freeCodeCamp
+e74a3f31b57cb2949510fb74061826b7d8c11316,fix(api): setup experience correctly + return it if public (#65574),2026-01-30T02:52:51Z,5,28,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 3e961fb9c448dfb18c46c03068841c85027cc649,fix(curriculum): Medical Data Validator Workshop Typo (#65567),2026-01-29T17:06:58Z,1,2,NotchArrow,freeCodeCamp,freeCodeCamp
 e83a71ec1703b530a9a5d00b04d35a729038ac41,fix(curriculum): correct editable region for workshop-rothko-painting…,2026-01-29T14:20:10Z,35,77,hbar1st,freeCodeCamp,freeCodeCamp
 3a57b773cb5906635fe34ff988a34a763944c254,fix(curriculum):add a dot in the comments to reflect python output (#…,2026-01-29T13:43:42Z,2,4,ashwin-athappan,freeCodeCamp,freeCodeCamp
@@ -992,40 +1019,3 @@ f5aec47e4cf2bc90f2cc260e7e6bfcbfc80e8e52,"feat(curriculum): Add interactive exam
 f0abd7cb7bceb3b66fb8f42dfa63a58a63867645,feat(curriculum): Add interactive examples to How Do Loops and Iterat…,2025-10-31T09:09:05Z,1,6,Giftea,freeCodeCamp,freeCodeCamp
 bcc863ab454afe299405909d2de5055cac276eea,feat(curriculum): Add interactive examples to What Is Object Destruct…,2025-10-31T09:07:46Z,1,22,Giftea,freeCodeCamp,freeCodeCamp
 afeab1889ea609366578c8031c85a5c73c4ce145,fix(client): minor improvements to exam download page (#62847),2025-10-31T06:57:54Z,2,153,huyenltnguyen,freeCodeCamp,freeCodeCamp
-222d0bdfd75a2cb3c13b6fb06ffe520507f287f4,feat(curriculum): Add new Spanish audios from the CDN (#63353),2025-10-30T23:47:06Z,1,9,nieldakarla,freeCodeCamp,freeCodeCamp
-92ea792fc2d5a8bf6353f973bacba8657faae69a,chore(curriculum): update content (#63325),2025-10-30T21:59:00Z,4,49,moT01,freeCodeCamp,freeCodeCamp
-3c240e89c286b5fe12891ead38c2731484e2e15f,feat(client): add disabled blocks growthbook feature (#63322),2025-10-30T17:52:15Z,2,45,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-ab8d2c1ab14ef1a2b91e047e300117a35753aeb1,fix(curriculum): Update Quiz option in CSS Layout and Effects Quiz (#…,2025-10-30T17:45:49Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-86e733e09b762499fc17695aeeecc182ea5abf52,fix(curriculum): fsd exam coming soon (#63321),2025-10-30T17:27:48Z,2,6,moT01,freeCodeCamp,freeCodeCamp
-5834d300f3bdd61bef0171fe8a6966541876af2c,fix(curriculum): make v9 exams their own chapter (#63326),2025-10-30T17:21:07Z,6,76,moT01,freeCodeCamp,freeCodeCamp
-81e7ecf22cf7a1143fd2d96ec3395dfbd6c538b7,"chore(i18n,learn): update i18n-curriculum submodule (#63276)",2025-10-30T16:57:15Z,3,27,camperbot,freeCodeCamp,freeCodeCamp
-3f855583b300824238745ee2fd629d17c4fe880c,fix(curriculum): correct spelling and added punctuation mark (#63324),2025-10-30T16:35:19Z,1,2,Giftea,freeCodeCamp,freeCodeCamp
-8248cd638c8aa04b1881492c06beb028beaba3f2,feat(client):update accordion map (#63053),2025-10-30T13:31:28Z,7,581,ahmaxed,freeCodeCamp,freeCodeCamp
-c527dcff3d765eafa0f4d0310e595debeb8d89f3,fix: sign-in e2e (#63320),2025-10-30T13:02:51Z,1,6,ahmaxed,freeCodeCamp,freeCodeCamp
-e004ef326eeca941dd0fd25b9e916379ca9ba894,feat(curriculum): add language field to challenge schema (#63318),2025-10-30T12:51:21Z,1,1,Sembauke,freeCodeCamp,freeCodeCamp
-037cac399165b363cee25003fad7f9172225e7e1,fix: account for expired attempt without mod record (#63317),2025-10-30T11:38:51Z,5,77,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-5668f3f7701933efc50b10aa6190797fc2facb5b,feat(curriculum): Add interactive examples  to How Do You Add and Rem…,2025-10-30T11:29:50Z,1,26,clarencepenz,freeCodeCamp,freeCodeCamp
-eebf55a3fc9445ecba523b15433a456d43d2b8b8,feat(curriculum): Add interactive examples  to How Do You Work with A…,2025-10-30T11:22:15Z,1,47,clarencepenz,freeCodeCamp,freeCodeCamp
-47d00794849b30675762c2ffcf3dbd146bd22bd6,feat(curriculum): Add interactive examples  to How Can You Use String…,2025-10-30T11:21:14Z,1,16,clarencepenz,freeCodeCamp,freeCodeCamp
-c228f6d1dcc2b0abcf548c9036f76737e08e2127,feat(curriculum): Add interactive examples  to How Can You Remove Pro…,2025-10-30T11:19:42Z,1,10,clarencepenz,freeCodeCamp,freeCodeCamp
-bcd2740fc89278fd8caf8b4fd6f0c522a0c63c80,feat(curriculum): Add interactive examples  to How Do You Add and Rem…,2025-10-30T11:17:13Z,1,18,clarencepenz,freeCodeCamp,freeCodeCamp
-3efacddb00a0cf3f1b2bbdfeb825d8fdf2d3c63c,feat(curriculum): Add interactive examples  to What Is the Difference…,2025-10-30T11:16:00Z,1,10,clarencepenz,freeCodeCamp,freeCodeCamp
-c7c11fa09aa6e8d5ee74873c1a13032a714ed5ee,feat(curriculum): Add interactive examples  to What Is the Difference…,2025-10-30T11:12:00Z,1,10,clarencepenz,freeCodeCamp,freeCodeCamp
-1a8e023021ebf67fb945e4c33657f8b2ec8f04a3,feat(curriculum): Add interactive examples  to How Do You Access and …,2025-10-30T11:10:09Z,1,20,clarencepenz,freeCodeCamp,freeCodeCamp
-fff30399b575e4988b2f2c9f9dc249686cb67f50,feat(curriculum): Add interactive examples  to What Is Array Destruct…,2025-10-30T11:05:26Z,1,26,clarencepenz,freeCodeCamp,freeCodeCamp
-ba6dd5241874a505c7ac88de3b58d9611490df69,feat(curriculum): Add interactive examples  to What Is the Difference…,2025-10-30T11:02:04Z,1,14,clarencepenz,freeCodeCamp,freeCodeCamp
-680437cb11edc78ba637407bc215f2969e09c388,feat(curriculum): Add interactive examples to What Is a Shallow Copy …,2025-10-30T10:57:20Z,1,18,clarencepenz,freeCodeCamp,freeCodeCamp
-b9419f4e7c5166fd205d9530de1fe7fbd38ca728,feat(curriculum): Add interactive examples  to What Is an Object in J…,2025-10-30T10:54:04Z,1,18,clarencepenz,freeCodeCamp,freeCodeCamp
-5d67399cad7fc822da6f920e194d53bcab18abad,feat(curriculum): Add interactive examples  to What Are the Key Chara…,2025-10-30T10:49:52Z,1,10,clarencepenz,freeCodeCamp,freeCodeCamp
-de7ad9fa1c7260448fce59575aa71c6b25503ab5,feat(curriculum): Add interactive examples  to How to Check If an Obj…,2025-10-30T10:49:35Z,1,14,clarencepenz,freeCodeCamp,freeCodeCamp
-4e3de7f781b7f6d363af06c17dc2780d5d9201d3,feat(curriculum): Add interactive examples  to How Do You Get the Ind…,2025-10-30T10:48:11Z,1,14,clarencepenz,freeCodeCamp,freeCodeCamp
-6a9f66c64affb27d2f3c5e7a821fac489457d80a,feat(curriculum): Add interactive examples  to How Can You Check if a…,2025-10-30T10:42:03Z,1,18,clarencepenz,freeCodeCamp,freeCodeCamp
-39bf947ac14e572bddcf62d2fb803f9cb5dd3710,feat(curriculum): Add interactive examples  to What Is the Purpose of…,2025-10-30T10:41:29Z,1,28,clarencepenz,freeCodeCamp,freeCodeCamp
-2207144cbcbec94386a9d9909516e7ed770b1b81,feat(curriculum): Add interactive examples  to What Are Switch Statem…,2025-10-30T10:36:45Z,1,10,clarencepenz,freeCodeCamp,freeCodeCamp
-4fffd22107625126fe6a1ecbd98d34d951f37df1,feat(curriculum): Add interactive examples  to What Are Arrow Functio…,2025-10-30T10:23:38Z,1,12,clarencepenz,freeCodeCamp,freeCodeCamp
-c6faceb485142d616096f39b5a4f784bf26a9097,feat(curriculum): Add interactive examples  to What Is the toFixed() …,2025-10-30T10:16:35Z,1,30,clarencepenz,freeCodeCamp,freeCodeCamp
-b2bd868b5af43948b34883a06b87838ec03eb27a,feat(curriculum): Add interactive examples  to How Do Comparisons Wor…,2025-10-30T10:15:42Z,1,22,clarencepenz,freeCodeCamp,freeCodeCamp
-ba1a8e7ace60cce1a835b565f4161eba505d77b7,feat(curriculum): Add interactive examples  to What Is the Object() C…,2025-10-30T09:58:13Z,1,14,clarencepenz,freeCodeCamp,freeCodeCamp
-ce6c4114e717481561677a696eb1338f901c0ab3,feat(curriculum): add interactive examples to What Is Scope in Progra…,2025-10-30T09:27:13Z,1,18,pdtrang,freeCodeCamp,freeCodeCamp
-62d1e14f19eea0e9f10c1463e75cbc947f58f691,feat(curriculum): Add interactive examples  to How Does isNaN Work? (…,2025-10-30T02:51:10Z,1,42,clarencepenz,freeCodeCamp,freeCodeCamp
-a9e847591ee874de4aaf5f5ba5664f9f89c3b7d1,feat(curriculum): Add interactive examples  to  How Do the parseFloat…,2025-10-30T02:49:07Z,1,42,clarencepenz,freeCodeCamp,freeCodeCamp
