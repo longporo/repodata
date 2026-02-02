@@ -1,4 +1,12 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+e0f59ec7b79e1534ccda68b60f57dad7fa72ca2d,fix(GHA): add critical vars to turbo (#65640),2026-02-01T19:17:18Z,2,79,raisedadead,freeCodeCamp,freeCodeCamp
+ee717a8f275b92b3f8d0b79152ec0d6de2b5e717,fix(curriculum): correct formatting in question about superscript usa…,2026-02-01T18:32:48Z,1,2,ragini-pandey,freeCodeCamp,freeCodeCamp
+fceaebf884d72ac4874cd255b31ee65f5762f75d,chore(api): update dependencies - patch (#65636),2026-02-01T15:49:54Z,2,179,raisedadead,freeCodeCamp,freeCodeCamp
+73fac90a254eae6cc3e88f7938cb3c4b09a04d68,fix(curriculum): update Canva platform availability (#65452),2026-02-01T09:26:31Z,1,2,Rushitha-Reddy-0202,freeCodeCamp,freeCodeCamp
+0a344a0351d68c3a82feb9effae899526bc46732,feat(curriculum) : Created a count up workshop for Javascript certifi…,2026-02-01T09:25:05Z,8,242,Habeetech,freeCodeCamp,freeCodeCamp
+f197d13fc1c6c0666c1758cadedf26337a87ffae,fix: remove null/undefined check for isAuditedSuperBlock (#65624),2026-02-01T04:54:45Z,1,5,Sembauke,freeCodeCamp,freeCodeCamp
+5fa0ccfd8eece0033be6784f07900e585056847c,fix(learn): multiple portfolio issues (#65427),2026-02-01T04:53:55Z,3,176,Sembauke,freeCodeCamp,freeCodeCamp
+2b9427737fa2029d0e37d76493461d60faa5f1e9,fix(curriculum): change wording of question from HTML quiz (#65628),2026-02-01T03:40:06Z,1,2,AlexanderJGreen,freeCodeCamp,freeCodeCamp
 08a7e1781c82e616090e37e4c9eb727a75adfa4d,chore(deps): organise deps for browser-scripts (#65569),2026-01-31T18:16:07Z,8,157,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 c63b7603be3f0a217a5c8ee67b0e6cb87a24b775,fix(curriculum): correct editable regions workshop-hotel-feedback-for…,2026-01-31T18:09:28Z,15,44,hbar1st,freeCodeCamp,freeCodeCamp
 83f9040673a6d3e6e93be7a5d034820ae696c5a3,fix: remove index.md (#65615),2026-01-31T17:56:37Z,382,4590,majestic-owl448,freeCodeCamp,freeCodeCamp
@@ -332,7 +340,7 @@ cbb51972a923bb012b7c0e839859d5fe286cd249,"chore(i18n,learn): update i18n-curricu
 3a95f9833511f2b47bf9180d30e668b7463d0cad,fix(curriculum): Fix incorrect test assertion in SCREAMING_SNAKE_CASE…,2026-01-02T10:35:49Z,1,2,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 09dff5b433cabd81dee710bc28eccf80fb30c7c8,fix(curriculum): typo in what is memoization and how does the useMemo…,2026-01-02T10:16:39Z,1,2,bdtripp,freeCodeCamp,freeCodeCamp
 bffbdcd90a2aa15c70ac5f45d92bb8c79fca99c8,"fix(curriculum): typo in react forms, data fetching and routing revie…",2026-01-02T10:16:07Z,2,4,bdtripp,freeCodeCamp,freeCodeCamp
-679ba978a18667e3ee8f8ffc0935fc7241aebbed,fix: Grammatical error in one of the lecture of Front End Development…,2026-01-02T10:12:28Z,1,2,shaszz,freeCodeCamp,freeCodeCamp
+679ba978a18667e3ee8f8ffc0935fc7241aebbed,fix: Grammatical error in one of the lecture of Front End Development…,2026-01-02T10:12:28Z,1,2,ShashwathNayak06,freeCodeCamp,freeCodeCamp
 d1dca406a3f3b250c9ef2dfcb28b863fc5df1d28,fix(curriculum): missing b1 cert from settings page (#64938),2026-01-02T10:12:04Z,9,20,jdwilkin4,freeCodeCamp,freeCodeCamp
 d39e4d29f4efe27b50cb7c0ad6ab1380f082da17,fix(curriculum): fix typo from indentified to identified (#64957),2026-01-02T09:53:22Z,1,2,Giftea,freeCodeCamp,freeCodeCamp
 fe1256b2d67a1b5d17d25736cf13cb9238c2b24a,fix(curriculum): specify which rounding in Budget App (#64917),2026-01-02T07:58:28Z,1,2,shivansh31414,freeCodeCamp,freeCodeCamp
@@ -986,6 +994,3 @@ c0dc4d59aec95c5aa35819d97add4372bb1a39c8,chore(deps): update github actions (maj
 6b12b01a7ee2092ecfeb0285631e16dbf981b6ca,feat(curriculum): add description list workshop to FSD cert (#62597),2025-11-03T00:07:54Z,11,567,Allan70,freeCodeCamp,freeCodeCamp
 6b4ea540d4e3e68af2868c7959e2c89badf5adfe,fix(curriculum): correct sentence about the nullish coalesing operato…,2025-11-02T19:47:01Z,1,2,l3onhard,freeCodeCamp,freeCodeCamp
 982d0fb29055a01b464baece7119df13273d61b3,feat(GHA): configurable SHOW_UPCOMING_CHANGES (#63395),2025-11-02T13:15:47Z,4,46,raisedadead,freeCodeCamp,freeCodeCamp
-2d65f11e0f7ebf14d898ec881233c3423e67b6a6,fix(curriculum): rename Basic CSS Review and Quiz to CSS Fundamentals…,2025-11-01T16:15:05Z,5,22,Marv5e,freeCodeCamp,freeCodeCamp
-6c440e2f785f39ce34f1fa152436192f35ef4bdf,feat(curriculum): Add A1 Chinese Chapter 3 Module 2 Block 1 (#63078),2025-11-01T14:33:10Z,35,1763,miyaliu666,freeCodeCamp,freeCodeCamp
-4d4cdca1e687a2372a82399ef95e6aad764ee9b5,Fix(curriculum): Correct code block language in loops lecture (#63411),2025-11-01T08:44:22Z,1,8,shlok3640,freeCodeCamp,freeCodeCamp
