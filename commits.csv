@@ -1,4 +1,17 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+6a348335eeb437ec25d46980ce9085a17b98a5f0,fix: supply env vars when building (#65669),2026-02-03T01:46:39Z,1,21,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+e149e0385da943d30f38b1df3bc8d4ae66676014,feat(curriculum): add A1 Spanish Chp4 md3 audios (#65629),2026-02-02T18:59:18Z,1,32,RafaelDavisH,freeCodeCamp,freeCodeCamp
+fd5b3d53d10d3e9ede13ced21806803ba10de064,fix(ui): display username validation (#65662),2026-02-02T16:21:11Z,1,2,a2937,freeCodeCamp,freeCodeCamp
+9a7514d9a0a533f88407d0c29eb5b5abf0bbe440,fix(curriculum): use &mdash; consistently in workshop-quincys-job-tip…,2026-02-02T16:17:26Z,4,12,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+23b62d6f326e67b8ae32f7061dbf6c2b6cb37cfb,"chore(i18n,learn): update i18n-curriculum submodule (#65663)",2026-02-02T16:16:12Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+ab323914b028ae7844c43a7a0b624139c3d05d88,refactor: use eslint directly in lint-staged (#65660),2026-02-02T15:06:28Z,1,5,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+00d84fece9a033994552b0dd1ec7867e9849a64a,fix(learn): restore file that should not have been deleted (#65655),2026-02-02T13:31:35Z,1,9,majestic-owl448,freeCodeCamp,freeCodeCamp
+632440d28d20d2f4720a278fb9eb733e4cf718d4,feat: change blockType to blockLabel in external curriculum data (#65…,2026-02-02T13:27:07Z,2,9,Sembauke,freeCodeCamp,freeCodeCamp
+f1a8fe12bc7fd79687428c710fa93b2eada84cba,fix(curriculum): correct typo in depth first search lesson (#65649),2026-02-02T12:35:36Z,1,2,Shashikant2005,freeCodeCamp,freeCodeCamp
+904dd9b871b3992248d978704f74b82365ea0ddd,fix: ignore generated test files (#65656),2026-02-02T12:08:35Z,1,33,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+0dc6f39584bf7af8ac711460848f215ca9a0dccd,feat(curriculum): add lessons on graphs and trees in JS (#65617),2026-02-02T09:41:06Z,8,1441,majestic-owl448,freeCodeCamp,freeCodeCamp
+5da8fdea0ffd42b0c3906cdd1aa38ae2ea858c26,fix(curriculum): note Safari audio volume behavior (#65543),2026-02-02T07:14:41Z,1,4,DeveloperViraj,freeCodeCamp,freeCodeCamp
+4f29ac70ac73917d438e5fa83fb09231f86025a7,chore: update turbo repo (#65645),2026-02-02T06:27:16Z,5,72,raisedadead,freeCodeCamp,freeCodeCamp
 e0f59ec7b79e1534ccda68b60f57dad7fa72ca2d,fix(GHA): add critical vars to turbo (#65640),2026-02-01T19:17:18Z,2,79,raisedadead,freeCodeCamp,freeCodeCamp
 ee717a8f275b92b3f8d0b79152ec0d6de2b5e717,fix(curriculum): correct formatting in question about superscript usa…,2026-02-01T18:32:48Z,1,2,ragini-pandey,freeCodeCamp,freeCodeCamp
 fceaebf884d72ac4874cd255b31ee65f5762f75d,chore(api): update dependencies - patch (#65636),2026-02-01T15:49:54Z,2,179,raisedadead,freeCodeCamp,freeCodeCamp
@@ -991,6 +1004,3 @@ c70b880ad8ec5e7c0ce19fe95d7c444bc63a5f32,fix(gha): labeler config (#63437),2025-
 e6f0872708d62f804b94b46193f73638958e4b02,feat(curriculum): add language tag for A1 and A2 Chinese (#63314),2025-11-03T08:39:33Z,70,70,Sembauke,freeCodeCamp,freeCodeCamp
 206c992321fcec2c1cd96102e42923ecb4071c4f,feat(curriculum): add debug increment/decrement operator lab (#63134),2025-11-03T06:56:31Z,5,175,larymak,freeCodeCamp,freeCodeCamp
 c0dc4d59aec95c5aa35819d97add4372bb1a39c8,chore(deps): update github actions (major) (#63420),2025-11-03T04:16:55Z,18,172,renovate[bot],freeCodeCamp,freeCodeCamp
-6b12b01a7ee2092ecfeb0285631e16dbf981b6ca,feat(curriculum): add description list workshop to FSD cert (#62597),2025-11-03T00:07:54Z,11,567,Allan70,freeCodeCamp,freeCodeCamp
-6b4ea540d4e3e68af2868c7959e2c89badf5adfe,fix(curriculum): correct sentence about the nullish coalesing operato…,2025-11-02T19:47:01Z,1,2,l3onhard,freeCodeCamp,freeCodeCamp
-982d0fb29055a01b464baece7119df13273d61b3,feat(GHA): configurable SHOW_UPCOMING_CHANGES (#63395),2025-11-02T13:15:47Z,4,46,raisedadead,freeCodeCamp,freeCodeCamp
