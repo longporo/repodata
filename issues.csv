@@ -1,8 +1,13 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87oG3Lv,65690,RWD What are attributes? lesson,OPEN,2026-02-04T01:54:52Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87oL5SA,65697,"unneeded horizontal scroll at the bottom of the browser, inside block page",OPEN,2026-02-04T09:00:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87nzogm,65673,User able to scroll webpage when overlay displays (Mobile),OPEN,2026-02-03T04:34:10Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87oNvTo,65702,Misleading explanation about Compound Assignment Operators.,OPEN,2026-02-04T10:53:52Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87oLPVy,65693,Build a Report Card Printer - Step 9,OPEN,2026-02-04T08:15:33Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87oLuwr,65696,some superblocks still not available in challenge-editor,CLOSED,2026-02-04T08:51:07Z,2026-02-04T09:59:20Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87oG3Lv,65690,RWD What are attributes? lesson,OPEN,2026-02-04T01:54:52Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87n27Ab,65677,hotel feedback form missing `value` on radio buttons,CLOSED,2026-02-03T08:31:27Z,2026-02-04T08:38:44Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87oDPVo,65688,"python certification, build a pin extractor",CLOSED,2026-02-03T20:49:53Z,2026-02-03T21:58:25Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87n27Ab,65677,hotel feedback form missing `value` on radio buttons,OPEN,2026-02-03T08:31:27Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87nztRs,65674,Scrollbars are injected into the page when opening modals,OPEN,2026-02-03T04:42:03Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87munUc,65564,Stray text bug in console (WWW...),OPEN,2026-01-29T14:25:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87nQD7N,65625,Subscription banner content not properly aligned,OPEN,2026-01-31T18:19:35Z,,,freeCodeCamp,freeCodeCamp
@@ -10,7 +15,6 @@ I_kwDOAbI7X87nntS_,65658,Clarify Linux terminal examples (GNOME Terminal / Konso
 I_kwDOAbI7X87jpDNc,65203,Add interactive examples for CSS layouts and effects review page,CLOSED,2026-01-15T21:14:56Z,2026-02-03T08:23:49Z,Jeevankumar-S;zairahira,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jpNPq,65207,Add interactive examples to CSS Positioning Review page,CLOSED,2026-01-15T21:25:47Z,2026-02-03T07:53:38Z,Jeevankumar-S,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87njgI1,65648,Missing string length property in strings review lesson,OPEN,2026-02-02T09:18:04Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87nzogm,65673,User able to scroll webpage when overlay displays (Mobile),OPEN,2026-02-03T04:34:10Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87nsN95,65668,i18n builds are in English,CLOSED,2026-02-02T17:29:33Z,2026-02-03T01:46:41Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87mCQ5S,65521,Challenge 170: Odd or Even Day Test 3 issue,OPEN,2026-01-27T08:09:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87nQICs,65626,Username field does not display allowed character rules before validation,CLOSED,2026-01-31T18:26:18Z,2026-02-02T16:21:14Z,a2937,freeCodeCamp,freeCodeCamp
@@ -120,7 +124,7 @@ I_kwDOAbI7X87k-fYL,65418,Challenge 165: Class Average odd character in descripti
 I_kwDOAbI7X87kp9FI,65381,Get Data from Post Requests,CLOSED,2026-01-21T01:55:55Z,2026-01-22T21:34:50Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87kpVpR,65377,File Metadata Microservice - Bug Report,OPEN,2026-01-21T00:35:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lDkD_,65421,JavaScript Higher Order Functions Review not displaying code blocks correctly,CLOSED,2026-01-22T13:17:00Z,2026-01-22T17:28:51Z,octavio-js,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jo3Uz,65197,"Add interactive examples to Lists, Links, Background and Borders Review page",CLOSED,2026-01-15T20:59:13Z,2026-01-22T13:41:37Z,Muhammad R,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jo3Uz,65197,"Add interactive examples to Lists, Links, Background and Borders Review page",CLOSED,2026-01-15T20:59:13Z,2026-01-22T13:41:37Z,rizwan-rizu,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jooVn,65193,Add interactive examples for HTML tables and forms review page,CLOSED,2026-01-15T20:37:47Z,2026-01-22T13:38:41Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jonGK,65192,Add interactive examples to semantic HTML review page,CLOSED,2026-01-15T20:36:27Z,2026-01-22T13:37:41Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jolWX,65191,Add interactive examples to basic HTML review page,CLOSED,2026-01-15T20:34:00Z,2026-01-22T13:34:22Z,octavio-js,freeCodeCamp,freeCodeCamp
@@ -193,7 +197,7 @@ I_kwDOAbI7X87jAxjS,65115,"Grammatical Mistake in the ""Lists, Links, CSS Backgro
 I_kwDOAbI7X87gO32g,64891,Can't log into free code camp on my Mac,CLOSED,2025-12-25T13:18:20Z,2026-01-14T17:09:07Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jG-JW,65134,Mismatch between description and tests in Build a Recipe Tracker - Step 7,CLOSED,2026-01-13T19:27:37Z,2026-01-14T13:54:10Z,AdityaSingh-18;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jKq1Q,65139,"Mistyped word in Python Certification Working with Loops and Sequences, How Do Loops Work?",CLOSED,2026-01-14T02:05:19Z,2026-01-14T10:48:19Z,pratheek-81,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87iS2DT,65057,Parent Guardian Name label is same as the legend.,CLOSED,2026-01-09T11:26:45Z,2026-01-14T10:46:21Z,Muhammad R,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87iS2DT,65057,Parent Guardian Name label is same as the legend.,CLOSED,2026-01-09T11:26:45Z,2026-01-14T10:46:21Z,rizwan-rizu,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gP3n2,64893,Wrong SQL query in Working with Relation Databases - How Do You Insert and View Data in a Table?,CLOSED,2025-12-25T18:18:02Z,2026-01-14T10:20:04Z,Jeevankumar-S,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCeXm,65120,Python Certification OOP Quiz properties instead of attributes in multiple questions,CLOSED,2026-01-13T14:20:36Z,2026-01-14T10:05:32Z,octavio-js,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87hNnk5,64981,Incorrect radial-gradient() size keywords: contain and cover are not valid CSS,OPEN,2026-01-03T20:00:07Z,,,freeCodeCamp,freeCodeCamp
@@ -695,7 +699,7 @@ I_kwDOAbI7X87X6phO,63814,Workshop for refactoring?,OPEN,2025-11-13T19:14:45Z,,,f
 I_kwDOAbI7X87YpuW0,63922,Add block completion status for new certs,OPEN,2025-11-17T19:53:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87YtbsV,63935,Clarify ambiguous instructions in Tribute Page project,OPEN,2025-11-18T02:23:27Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87X0nII,63801,Broken old FSD links,CLOSED,2025-11-13T11:52:50Z,2025-11-20T15:59:29Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87YKVFe,63839,Loss of Screen Reader functionality,CLOSED,2025-11-14T17:48:53Z,2025-11-20T09:52:44Z,arorakanav,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87YKVFe,63839,Loss of Screen Reader functionality,CLOSED,2025-11-14T17:48:53Z,2025-11-20T09:52:44Z,Kanav Arora,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ZEtlV,63973,Performance issue on mobile for https://www.freecodecamp.org/learn/ page,CLOSED,2025-11-19T09:38:34Z,2025-11-20T03:08:36Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ZIGJz,63980,Book Inventory tests 48 and 49 are too strict,CLOSED,2025-11-19T13:37:04Z,2025-11-20T08:04:59Z,DeveloperViraj,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Y7ESg,63955,Missing MCQ option in Meeting New Teammates - Task 6,CLOSED,2025-11-18T17:59:48Z,2025-11-20T03:54:14Z,pdtrang,freeCodeCamp,freeCodeCamp
@@ -846,21 +850,3 @@ I_kwDOAbI7X87VdDAm,63432,workshop greeting card uses colors of insufficient cont
 I_kwDOAbI7X87V2V_i,63516,issue in step 9 of string formatter workshop,CLOSED,2025-11-04T18:37:23Z,2025-11-05T09:09:30Z,ArshpreetS,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87V2Ye7,63517,issue in step 1 of string formatter workshop,CLOSED,2025-11-04T18:41:33Z,2025-11-05T09:09:00Z,nirdesho6o,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87V0SS1,63507,Cannot read properties of undefined error shows up when you click on the Variables and strings module,CLOSED,2025-11-04T16:10:29Z,2025-11-05T05:59:22Z,moT01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87V4zO_,63527,Recently closed grammar issue with PR that does not include full text update,CLOSED,2025-11-04T23:27:51Z,2025-11-05T00:47:32Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87V32PM,63524,typo and grammar in bash commands quiz question,CLOSED,2025-11-04T21:21:45Z,2025-11-04T23:19:14Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87V3S8U,63522,Notification misaligned after toggling Night Mode,CLOSED,2025-11-04T20:20:27Z,2025-11-04T21:01:06Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Qq4cL,62658,Content Request: Creating Shapes in HTML and CSS,OPEN,2025-10-09T23:32:14Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87V015o,63508,Monoissue for white screen bug,CLOSED,2025-11-04T16:46:59Z,2025-11-04T17:06:45Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87RuGhR,62829,Inconsistency between Build a book inventory page and Tech Conference Schedule Table,CLOSED,2025-10-15T15:20:09Z,2025-11-04T18:30:58Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Ui9xr,63221,Suggestion for Python Workshops,CLOSED,2025-10-29T13:16:37Z,2025-11-04T18:13:06Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87V1Uzy,63510,[A1 Chinese] Change block layout of review and quiz blocks to `link`,CLOSED,2025-11-04T17:20:27Z,2025-11-04T18:06:17Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Vxa71,63501,There are problems with the Traditional Chinese translation.,OPEN,2025-11-04T13:01:38Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Vm62J,63483,is this a grammar error?,CLOSED,2025-11-03T21:04:47Z,2025-11-04T16:52:35Z,AntonioFigueiredo,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87VpgRL,63490,"Relational Databases ""Build a Periodic Table Database"" CodeRoad automatically solves everything when clicking run.",CLOSED,2025-11-04T02:06:42Z,2025-11-04T16:47:08Z,,freeCodeCamp,freeCodeCamp
-MDU6SXNzdWUxMTAyNjMwNjg=,3638,MEAN stack fails to install on C9.io,CLOSED,2015-10-07T16:19:45Z,2015-10-12T17:14:50Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87UIgtT,63121,"Instructions for ""Build an Inventory Management Program"" are unclear",CLOSED,2025-10-27T23:13:04Z,2025-11-04T12:21:11Z,huyenltnguyen;vishal-singh-web,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Vm9hx,63484,"corrections needed in What Is the CSS Filter Property, and What Are Common Examples?",CLOSED,2025-11-03T21:08:29Z,2025-11-04T12:15:09Z,Sembauke;Vardhu32;vardhu032,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87VZneH,63428,Missing pronoun in transcript,CLOSED,2025-11-03T01:35:42Z,2025-11-04T12:13:45Z,Vardhu32,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Vo-Ka,63487,Expand help categories in create-language-block script,CLOSED,2025-11-04T00:57:41Z,2025-11-04T08:52:31Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87VqIVM,63491,Env tests broken in local development setup,CLOSED,2025-11-04T03:42:45Z,2025-11-04T04:42:54Z,raisedadead,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87VnFoK,63485,typo in Challenge 99: Fingerprint Test,CLOSED,2025-11-03T21:19:30Z,2025-11-04T02:42:53Z,Teku-Guy,freeCodeCamp,freeCodeCamp
