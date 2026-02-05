@@ -1,4 +1,18 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+7cfc8bafe70031480835317564fe692fffe9fb8a,"chore(i18n,learn): update i18n-curriculum submodule (#65706)",2026-02-04T22:37:15Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+c4f88f6705fb3eec00971f6205c28403a02c08e0,"Revert ""chore(deps): remove eslint-plugin-flowtype (#65670)"" (#65707)",2026-02-04T19:24:06Z,2,55,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+2c98ffd3b3bd7da2b980c41b840794cabc2b20df,feat(curriculum): daily challenges 180-196 (#65687),2026-02-04T15:16:26Z,37,5027,moT01,freeCodeCamp,freeCodeCamp
+f176afee3438a8528136492846363a9be1cdd95c,"chore(i18n,client): processed translations (#65657)",2026-02-04T13:46:18Z,20,33784,camperbot,freeCodeCamp,freeCodeCamp
+56683d9a3698e089f3bfac0c0f4964fb63519a83,chore(deps): remove eslint-plugin-flowtype (#65670),2026-02-04T12:20:36Z,2,55,huyenltnguyen,freeCodeCamp,freeCodeCamp
+20e48dd846a69f5a8be3fc49f02862b8bfad7131,"refactor: lint challenges as part of curriculum, not root (#65665)",2026-02-04T10:42:21Z,30,458,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+5fa67063f510e1a0b17891c373007aa45bea0f20,fix(api): update attempt with created moderation record (#64812),2026-02-04T10:19:28Z,1,13,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+455813545a189d841d3484ab62e292d410627206,chore(tools): update challenge-editor (#65701),2026-02-04T09:59:18Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+06f9ffdc273cdc25ffce0d80d185932549d4d692,fix: cache locales (#65698),2026-02-04T09:30:14Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+e774e83b38eae72045bc927b96b846b23924cee2,fix(client): remove restructure note (#65695),2026-02-04T09:29:25Z,2,4,ahmaxed,freeCodeCamp,freeCodeCamp
+e457f00b13063a48acf811bca64bd6a9918d5ac4,fix(client): remove beta from certifications label (#65694),2026-02-04T08:49:36Z,1,2,ahmaxed,freeCodeCamp,freeCodeCamp
+91b9c93c238ca252f020f447face1d887351b82e,fix(curriculum): add value attribute instruction for hotel feedback r…,2026-02-04T08:38:41Z,18,92,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+632289c7f0ac1c2876cec3bcb89c57cc522237d4,fix(turbo): try remote caching (#65692),2026-02-04T07:47:02Z,6,132,raisedadead,freeCodeCamp,freeCodeCamp
+72b22ae2bce4cbabaced2f1444b720300b1f6354,chore(deps): update actions/checkout digest to de0fac2 (#65685),2026-02-04T03:32:36Z,7,28,renovate[bot],freeCodeCamp,freeCodeCamp
 77cd933939cb9b084e8c4ac3d6cfc0df1e6196c3,test: check nothing unexpected appears in python terminal (#65572),2026-02-03T16:14:07Z,2,46,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 db604bece73aceb37d3022edbc7c4e0018f92eef,chore(deps): update challenge-editor (#65680),2026-02-03T13:49:52Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 48138e98df36ff4c87f22f83235c9128426d21d5,refactor: delete external curriculum v1 (#65650),2026-02-03T11:35:16Z,5,440,Sembauke,freeCodeCamp,freeCodeCamp
@@ -964,17 +978,3 @@ b89d8588f447b1eea7492ca7a477fa6800ae2984,fix(curriculum): fix error in step 1 st
 3b9b72e13013370c79f35aef52b7c790a5685f25,fix(curriculum/client): runtime error (#63509),2025-11-05T05:59:21Z,2,4,moT01,freeCodeCamp,freeCodeCamp
 050fc60685a8c95ba162203c4518182e92a4b558,fix(curriculum): pronunciation of Chinese phrase (#63498),2025-11-05T02:42:07Z,2,14,huyenltnguyen,freeCodeCamp,freeCodeCamp
 0561a2a223151574ccb3ec05d70a46c2f2353543,fix(client): exam token widget (#63526),2025-11-05T02:33:29Z,1,2,moT01,freeCodeCamp,freeCodeCamp
-b060233b5055264dfcdab08ec689aefcf79e41bb,fix(curriculum): fix typo and grammar in quiz-bash-commands question …,2025-11-04T23:19:12Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
-4ec50cb688c7614070930d159df3d6c8da1e50ee,feat(curriculum): add new lesson How to Handle Object Attributes Dyna…,2025-11-04T18:28:27Z,2,320,majestic-owl448,freeCodeCamp,freeCodeCamp
-4afe2dac07eaaf72595aff4de785d40eab9698ab,feat(curriculum): add discount calculator workshop (#62644),2025-11-04T18:27:27Z,36,2975,zairahira,freeCodeCamp,freeCodeCamp
-5199ced01c0800f6570034cf82b28263c6e24c8e,fix(curriculum): Change blockLayout of zh-a1-quiz and zh-a1-review to…,2025-11-04T18:06:16Z,14,28,pdtrang,freeCodeCamp,freeCodeCamp
-d9abc21e81720307a3882c74fd68bfae00c7b94a,fix(curriculum): correct grammar in Web Animations API lesson (#63506),2025-11-04T16:52:33Z,1,2,AntonioFigueiredo,freeCodeCamp,freeCodeCamp
-1ffd4568c4bda861d3a65ffaf1c39cb435b82648,fix(curriculum): make tests work again (#63504),2025-11-04T16:44:21Z,8,16,majestic-owl448,freeCodeCamp,freeCodeCamp
-d819fefc61a5f96b4702d2b713f9688c59851df6,fix: correct grammar in Fingerprint Test description (#63493),2025-11-04T12:55:15Z,2,4,Teku-Guy,freeCodeCamp,freeCodeCamp
-9da851bc9adf0ca55b2a0b07ba0a282d9996bf48,fix(curriculum): clarify addProduct behavior in inventory lab (#63132),2025-11-04T12:21:09Z,1,2,vishal-singh-web,freeCodeCamp,freeCodeCamp
-9ac6fbf27c4483a622ee5e64e1f651c2da525757,fix(curriculum): grammar and punctuations in CSS filter lesson (#63496),2025-11-04T12:15:07Z,1,12,vardhu032,freeCodeCamp,freeCodeCamp
-abbb52a3fddebbb2daa424edbffe3b9dab132dce,fix(curriculum): add missing 'you' in transcript for dialogue 3 (#63499),2025-11-04T12:13:43Z,1,2,vardhu032,freeCodeCamp,freeCodeCamp
-22e346ddc957d1a5f6bc89db33f2cfa9e7b44504,feat(curriculum): add `inputType` property to challenge schema (#63405),2025-11-04T09:49:15Z,1,12,huyenltnguyen,freeCodeCamp,freeCodeCamp
-0770db7c861b2ad781c0250b937d78e5f89dbad0,feat(tools): add 'Chinese Curriculum' and 'Spanish Curriculum' to hel…,2025-11-04T08:52:30Z,1,6,pdtrang,freeCodeCamp,freeCodeCamp
-d5ad4d41447e37041e4e9c2a8ca7eddc01681a4e,revert: add 100% branch coverage for env.ts (#63492),2025-11-04T04:42:53Z,1,232,raisedadead,freeCodeCamp,freeCodeCamp
-b33a01963f6f8857d60faed2874343d8fc90d6b4,"fix(curriculum): fix typo ""exceded"" -> ""exceeded"" in Challenge 99 (#6…",2025-11-04T02:42:51Z,2,4,Teku-Guy,freeCodeCamp,freeCodeCamp
