@@ -1,4 +1,15 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+ff162dce2e3ecc8dd77810c9b6bb2cf53086610e,chore(ci): upload turbo summaries (#65715),2026-02-05T20:49:13Z,2,30,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+d83de6b5b443d68228c851151bbc14f5fd106c88,fix(curriculum): add missing periods in variables lecture (#65719),2026-02-05T20:35:29Z,1,6,jeeva-004,freeCodeCamp,freeCodeCamp
+ea35e40d5aafe34404248f9b21fcd8a580e82d6f,feat(curriculum): EN-A2 quiz for block 17 (#65705),2026-02-05T11:58:35Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
+d232abea2e0a006278fb05770c7103ec560e4976,feat(curriculum): EN-A2 quiz for block 13 (#65678),2026-02-05T11:50:12Z,1,325,anastasiiauk,freeCodeCamp,freeCodeCamp
+eea0620a87d3c6b91c8cbca543349ecfffe0ab54,feat(curriculum): EN-A2 quiz for block 16 (#65704),2026-02-05T11:47:51Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
+fc3b88e4f2a62294df427bed844995370349a459,chore(deps): update actions/cache action to v5.0.3 (#65720),2026-02-05T11:43:07Z,1,2,renovate[bot],freeCodeCamp,freeCodeCamp
+5d8418c8a9de7ad1aef78263d4dec7485f513ea9,feat(curriculum): EN-A2 quiz for block 18 (#65718),2026-02-05T11:38:32Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
+e65a656ebb12da3bce0972fcf2619e95c372488e,fix(curriculum): remove seed code and format nested list in React lab…,2026-02-05T07:55:14Z,1,8,Dario-DC,freeCodeCamp,freeCodeCamp
+4d8a6e2608dc927495e35b620b6c000555db8def,"fix(curriculum): fixed grammar by changing ""remove"" to ""removing"" in …",2026-02-05T07:52:17Z,1,2,TheGreatAdil,freeCodeCamp,freeCodeCamp
+b383a90a95d234660033b51db36e06f92142de7f,feat(curriculum): EN-A2 quiz for block 15 (#65703),2026-02-05T07:34:54Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
+ff2983822b01a9e90d48f06b4aee9e25a10f9146,feat(curriculum): EN-A2 quiz for block 14 (#65681),2026-02-05T07:30:40Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
 7cfc8bafe70031480835317564fe692fffe9fb8a,"chore(i18n,learn): update i18n-curriculum submodule (#65706)",2026-02-04T22:37:15Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 c4f88f6705fb3eec00971f6205c28403a02c08e0,"Revert ""chore(deps): remove eslint-plugin-flowtype (#65670)"" (#65707)",2026-02-04T19:24:06Z,2,55,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 2c98ffd3b3bd7da2b980c41b840794cabc2b20df,feat(curriculum): daily challenges 180-196 (#65687),2026-02-04T15:16:26Z,37,5027,moT01,freeCodeCamp,freeCodeCamp
@@ -960,21 +971,3 @@ c7a4138c181c8526d764ac03cb4aca6dd04c6932,feat(curriculum): add shortest path alg
 ea42bfc6e5437c5d6ed0d78dff23f94f37583ef1,feat(curriculum): Add interactive examples to aria-expanded attribute…,2025-11-06T11:04:04Z,1,123,shivanissingh,freeCodeCamp,freeCodeCamp
 447325818960ced6391361452fffd075813bb7e2,fix(client): new chapter icons for v9 certs (#63587),2025-11-06T11:02:32Z,2,35,moT01,freeCodeCamp,freeCodeCamp
 5c4812dcf4b475cb8ed874c4ba6feea0bd1e2e31,fix(client): exam prerequisites list (#63582),2025-11-06T09:27:04Z,1,10,moT01,freeCodeCamp,freeCodeCamp
-309b021815a07b3f4985aefda1691485b9103161,"fix(client): removed ""Build a Discount Calculator"" from intro text in…",2025-11-05T23:43:24Z,1,1,rosettaJoy,freeCodeCamp,freeCodeCamp
-fd038e80c07b8ab0ee627b54165129d1775e83fa,fix(curriculum): fix typos in es-a1-practice-greetings-and-farewells …,2025-11-05T22:22:30Z,2,4,pdtrang,freeCodeCamp,freeCodeCamp
-8a5dc7d28fcaac38d9899ee6c6c45a6af0255ae5,feat(curriculum): Add interactive examples to try…catch…finally lesso…,2025-11-05T21:12:06Z,1,6,ishaanpgujaran,freeCodeCamp,freeCodeCamp
-cecb373f0ec3ebb4b08212d9de544bd2b9d3f65d,fix(curriculum): use challenge-list layout for all A1 Spanish review …,2025-11-05T21:01:00Z,3,6,huyenltnguyen,freeCodeCamp,freeCodeCamp
-4c07a4e21973de5c917004e9a7196faa4978764c,feat(curriculum): daily challenges 100-109 (#63406),2025-11-05T20:58:25Z,23,1735,moT01,freeCodeCamp,freeCodeCamp
-4043c6e1ffd7de9e4be09af4b01927e017b0f3da,fix(client): fix daily challenge left breadcrumb (#63523),2025-11-05T16:58:23Z,2,23,pdtrang,freeCodeCamp,freeCodeCamp
-f5053b24cf94c79b08e484210bda790f070847f6,"chore(api,client): move most certs to legacy (#63140)",2025-11-05T16:51:12Z,13,230,Sembauke,freeCodeCamp,freeCodeCamp
-ae9b5e45de5af6832348e4f43405f9c3a3601fc7,fix(client): use same store in dev and prod (#63521),2025-11-05T16:49:49Z,1,58,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-067110d83694a52eb04742c54219b940ae52e5aa,"fix(curriculum): update ""The setattr() method"" to ""The setattr() func…",2025-11-05T15:22:43Z,1,2,Rudronha,freeCodeCamp,freeCodeCamp
-a190ef3059865471788b2a177f56c23d61c1c90f,"chore(i18n,client): processed translations (#63541)",2025-11-05T14:47:14Z,11,270,camperbot,freeCodeCamp,freeCodeCamp
-b9a3e82f4ed1dff49106dbc9c006311e10cc8fc7,feat(curriculum): Add A1 Spanish Module The Alphabet and Special Char…,2025-11-05T14:41:30Z,70,5601,estefaniacn,freeCodeCamp,freeCodeCamp
-2ea7ab004f51814fbe11d87c09840e3a3281f86f,fix(curriculum): Remove decorators section in Python functions lesson…,2025-11-05T13:53:17Z,1,58,clarencepenz,freeCodeCamp,freeCodeCamp
-67922ffd165795a0fda8d2d6c5f8d796c42019f8,"fix(a11y, curriculum): Removed gray color text in workshop-greeting-c…",2025-11-05T12:51:29Z,11,18,ArshpreetS,freeCodeCamp,freeCodeCamp
-905d59bc5cf0fd74b3efad51525756768c4a7664,fix(curriculum): Updated step 9 in string formatter workshop (#63529),2025-11-05T09:09:28Z,1,2,ArshpreetS,freeCodeCamp,freeCodeCamp
-b89d8588f447b1eea7492ca7a477fa6800ae2984,fix(curriculum): fix error in step 1 string formatter workshop (#63528),2025-11-05T09:08:58Z,1,2,nirdesho6o,freeCodeCamp,freeCodeCamp
-3b9b72e13013370c79f35aef52b7c790a5685f25,fix(curriculum/client): runtime error (#63509),2025-11-05T05:59:21Z,2,4,moT01,freeCodeCamp,freeCodeCamp
-050fc60685a8c95ba162203c4518182e92a4b558,fix(curriculum): pronunciation of Chinese phrase (#63498),2025-11-05T02:42:07Z,2,14,huyenltnguyen,freeCodeCamp,freeCodeCamp
-0561a2a223151574ccb3ec05d70a46c2f2353543,fix(client): exam token widget (#63526),2025-11-05T02:33:29Z,1,2,moT01,freeCodeCamp,freeCodeCamp
