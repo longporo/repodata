@@ -1,11 +1,13 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87oL5SA,65697,"unneeded horizontal scroll at the bottom of the browser, inside block page",OPEN,2026-02-04T09:00:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87oeyS9,65714,missing period,CLOSED,2026-02-05T08:43:26Z,2026-02-05T20:35:32Z,jeeva-004,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87nzogm,65673,User able to scroll webpage when overlay displays (Mobile),OPEN,2026-02-03T04:34:10Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87oL5SA,65697,"unneeded horizontal scroll at the bottom of the browser, inside block page",OPEN,2026-02-04T09:00:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87j5kkg,65268,Audit Workshops: Ensure Editable Regions Only Include Required Lines,OPEN,2026-01-16T20:14:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87oNvTo,65702,Misleading explanation about Compound Assignment Operators.,OPEN,2026-02-04T10:53:52Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87oG3Lv,65690,RWD What are attributes? lesson,CLOSED,2026-02-04T01:54:52Z,2026-02-05T07:52:19Z,TheGreatAdil,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87oLPVy,65693,Build a Report Card Printer - Step 9,OPEN,2026-02-04T08:15:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87oLuwr,65696,some superblocks still not available in challenge-editor,CLOSED,2026-02-04T08:51:07Z,2026-02-04T09:59:20Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87oG3Lv,65690,RWD What are attributes? lesson,OPEN,2026-02-04T01:54:52Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87n27Ab,65677,hotel feedback form missing `value` on radio buttons,CLOSED,2026-02-03T08:31:27Z,2026-02-04T08:38:44Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87oDPVo,65688,"python certification, build a pin extractor",CLOSED,2026-02-03T20:49:53Z,2026-02-03T21:58:25Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87nztRs,65674,Scrollbars are injected into the page when opening modals,OPEN,2026-02-03T04:42:03Z,,,freeCodeCamp,freeCodeCamp
@@ -44,7 +46,6 @@ I_kwDOAbI7X87lmpyY,65482,Proxy Python execution errors to the main platform cons
 I_kwDOAbI7X87nMgHI,65616,Daily Coding Challenges - the terminal window view is broken,CLOSED,2026-01-31T09:25:11Z,2026-01-31T09:29:50Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lySB1,65498,Daily coding challenge FizzBuzz Mini - Typo in name for call function in tests for Python,CLOSED,2026-01-26T09:26:17Z,2026-01-26T10:29:16Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 MDU6SXNzdWU5NzgxNTg0MjA=,43289,Block pages should be fleshed out,CLOSED,2021-08-24T14:24:18Z,2026-01-31T08:31:57Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87j5kkg,65268,Audit Workshops: Ensure Editable Regions Only Include Required Lines,OPEN,2026-01-16T20:14:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87nF4vr,65602,Inconsistent feedback style in Greetings and Farewell Practice - Task 1,CLOSED,2026-01-30T19:33:50Z,2026-01-30T23:31:43Z,AlexanderJGreen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87mwlXN,65570,TS file content is hidden after closing another file,OPEN,2026-01-29T16:17:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ljRBl,65476,pythonv9 Build a Medical Data Validator Step 44,CLOSED,2026-01-24T13:53:54Z,2026-01-30T19:39:49Z,DeveloperViraj,freeCodeCamp,freeCodeCamp
@@ -839,14 +840,3 @@ I_kwDOAbI7X87WJASX,63571,Fix seed code for job tips page,CLOSED,2025-11-05T20:30
 I_kwDOAbI7X87PimYp,62489,Audit print function lesson and consider simplifying it for beginners,CLOSED,2025-10-03T17:39:16Z,2025-11-06T14:33:20Z,mriduldoeswork,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WVj0I,63595,Incorrect closing tag in HTML example for <q> element,CLOSED,2025-11-06T14:06:15Z,2025-11-06T14:29:58Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87WGPHI,63546,Add interactive examples to aria-expanded attribute lesson,CLOSED,2025-11-05T16:50:56Z,2025-11-06T11:04:05Z,shivanissingh,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87V-gBZ,63530,fix needed in intro.json,CLOSED,2025-11-05T08:44:07Z,2025-11-05T23:43:25Z,rosettaJoy,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87WFw7F,63545,Add interactive examples to try…catch…finally lesson,CLOSED,2025-11-05T16:21:52Z,2025-11-05T21:12:08Z,ishaanpgujaran,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87WIXYI,63562,جده,CLOSED,2025-11-05T19:36:06Z,2025-11-05T19:40:44Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TD1rP,62933,Daily Challenge breadcrumb doesn't work,CLOSED,2025-10-22T13:58:49Z,2025-11-05T16:58:25Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87V3M71,63520,production redux store broken with rtk,CLOSED,2025-11-04T20:09:56Z,2025-11-05T16:49:50Z,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87V-p15,63532,fix needed in new classes and objects lecture,CLOSED,2025-11-05T08:56:29Z,2025-11-05T15:22:45Z,Rudronha,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87V2nKA,63518,Remove decorators section in Python functions lesson,CLOSED,2025-11-04T19:06:20Z,2025-11-05T13:53:18Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87VdDAm,63432,workshop greeting card uses colors of insufficient contrast,CLOSED,2025-11-03T09:01:05Z,2025-11-05T12:51:31Z,ArshpreetS,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87V2V_i,63516,issue in step 9 of string formatter workshop,CLOSED,2025-11-04T18:37:23Z,2025-11-05T09:09:30Z,ArshpreetS,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87V2Ye7,63517,issue in step 1 of string formatter workshop,CLOSED,2025-11-04T18:41:33Z,2025-11-05T09:09:00Z,nirdesho6o,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87V0SS1,63507,Cannot read properties of undefined error shows up when you click on the Variables and strings module,CLOSED,2025-11-04T16:10:29Z,2025-11-05T05:59:22Z,moT01,freeCodeCamp,freeCodeCamp
