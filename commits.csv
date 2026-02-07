@@ -1,4 +1,10 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+b321f075fd1c59f57b5cb48311a62ea0ea43871c,feat(curriculum): convert bubble sort challenge into js lab (#65708),2026-02-06T19:04:27Z,4,158,Dario-DC,freeCodeCamp,freeCodeCamp
+b519b6231aae042cc434b40a9651d3ef3c83affb,fix(curriculum): clarify Step 9 instructions for adding second print …,2026-02-06T17:53:30Z,3,88,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+ae50644091495991e410c203f76476fcd0d37741,refactor(tooling): add turbo eslint plugin (#65734),2026-02-06T12:03:05Z,18,121,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+f054de20fde156c08114472a2ca0ed30cccb3c60,feat(curriculum): add python conditionals lab (#65700),2026-02-06T11:04:00Z,4,670,Dario-DC,freeCodeCamp,freeCodeCamp
+ebda6dcefdb25f199c623988374917a3ee2e6605,"Revert ""chore(ci): upload turbo summaries (#65715)"" (#65731)",2026-02-06T09:18:54Z,2,30,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+727a3122296d504fa1e3d383891bc998304813b5,fix(curriculum): adjust editable regions in workshop-registration-for…,2026-02-06T09:07:10Z,61,3859,kiruthikadev-r,freeCodeCamp,freeCodeCamp
 ff162dce2e3ecc8dd77810c9b6bb2cf53086610e,chore(ci): upload turbo summaries (#65715),2026-02-05T20:49:13Z,2,30,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 d83de6b5b443d68228c851151bbc14f5fd106c88,fix(curriculum): add missing periods in variables lecture (#65719),2026-02-05T20:35:29Z,1,6,jeeva-004,freeCodeCamp,freeCodeCamp
 ea35e40d5aafe34404248f9b21fcd8a580e82d6f,feat(curriculum): EN-A2 quiz for block 17 (#65705),2026-02-05T11:58:35Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
@@ -953,21 +959,3 @@ bcdc314eb037cfbaf2684765a3680ecac1234b89,chore(learn): add Chinese characters to
 92cf2228eeb4974d1c7bad5bad52a711fb97f622,feat(curriculum): add Chinese and Spanish help categories to challeng…,2025-11-07T03:08:50Z,1,4,huyenltnguyen,freeCodeCamp,freeCodeCamp
 38567a6b7b4685ffe53e9fb7621886303e1b36eb,fix(client): uncheck chapter checkmarks when no challenges (#63560),2025-11-07T03:08:08Z,5,48,moT01,freeCodeCamp,freeCodeCamp
 ced358eb5b06f958fdc4de2ed5e4602365f1c97a,"refactor(client,curriculum): remove isComingSoon property (#63615)",2025-11-07T03:07:49Z,4,4,huyenltnguyen,freeCodeCamp,freeCodeCamp
-64da68fdfd87aae69e9c7bfae1c182c68453c310,fix(curriculum): fixed typo in class and object lecture (#63585),2025-11-06T21:53:27Z,1,2,reybozo,freeCodeCamp,freeCodeCamp
-3c2505556779f2c1a8004ed65e0abcfba5f753fa,fix(curriculum): fix typos in some zh-a1 and es-a1 files (#63608),2025-11-06T21:31:01Z,7,14,pdtrang,freeCodeCamp,freeCodeCamp
-ab69cbb61c3e34a8e9ddff15685c0e75224fda37,fix(curriculum): v9 fsd intro and add notes to superblocks (#63606),2025-11-06T20:56:26Z,1,18,moT01,freeCodeCamp,freeCodeCamp
-8213267f0b76d5de70fdc564537cb49f1918eaba,feat(client): add alert if qualified for exam (#63607),2025-11-06T19:46:13Z,2,11,moT01,freeCodeCamp,freeCodeCamp
-ec86ed5212e97e6d1493abf2264454f502706e19,feat(curriculum): update class lesson with interactive example  (#63572),2025-11-06T17:38:30Z,1,42,het2576,freeCodeCamp,freeCodeCamp
-1bacf09dd559ca59db28e8e08a1fee0856f7f321,fix(client): use Link component for block links (#63559),2025-11-06T17:37:42Z,2,245,moT01,freeCodeCamp,freeCodeCamp
-9bc0f8478c530c9dce65ab0acf8206ed95066574,feat(curriculum): add interactive examples to regex lesson (#63598),2025-11-06T17:26:07Z,1,22,saitejx08,freeCodeCamp,freeCodeCamp
-b3939372112b333cc6b9088cdddc4731058eaaac,feat(client): add exam project tag (#63584),2025-11-06T17:04:01Z,10,88,moT01,freeCodeCamp,freeCodeCamp
-17d7339a8e1364b47ebf697ccfd37087757ecb30,feat(curriculum): update aria-live lesson with interactive code examp…,2025-11-06T16:11:22Z,1,118,VSrimukh,freeCodeCamp,freeCodeCamp
-37ce12aa69b35a81de9eb0f7ead00edde45d8c0c,fix(curriculum): added the new version and fixed typos in lec-working…,2025-11-06T15:46:38Z,1,28,Hrishik03,freeCodeCamp,freeCodeCamp
-af13a79f4ad41dd8fe9609327e8c5c382f58739b,feat(curriculum): add Build a Bookstore Page Workshop to FSD cert  (#…,2025-11-06T15:31:11Z,20,918,alaa-yahia,freeCodeCamp,freeCodeCamp
-930b09a32877d59247635b887239be9cc96092f8,feat(curriculum): release remaining python modules (#63494),2025-11-06T14:39:24Z,47,106,Dario-DC,freeCodeCamp,freeCodeCamp
-02787ab1bf52f0a172f96931e5e38b10a85e10f2,fix(curriculum): correct malformed q closing tag in workshop-quincys-…,2025-11-06T14:34:54Z,11,52,l3onhard,freeCodeCamp,freeCodeCamp
-2be0a9a3f26b681407973d6fc49e7af4a93b7c93,fix(curriculum): simplify print() lesson for beginners (#62680),2025-11-06T14:33:19Z,1,185,mriduldoeswork,freeCodeCamp,freeCodeCamp
-c7a4138c181c8526d764ac03cb4aca6dd04c6932,feat(curriculum): add shortest path algorithm workshop (#61147),2025-11-06T12:25:59Z,31,2369,larymak,freeCodeCamp,freeCodeCamp
-ea42bfc6e5437c5d6ed0d78dff23f94f37583ef1,feat(curriculum): Add interactive examples to aria-expanded attribute…,2025-11-06T11:04:04Z,1,123,shivanissingh,freeCodeCamp,freeCodeCamp
-447325818960ced6391361452fffd075813bb7e2,fix(client): new chapter icons for v9 certs (#63587),2025-11-06T11:02:32Z,2,35,moT01,freeCodeCamp,freeCodeCamp
-5c4812dcf4b475cb8ed874c4ba6feea0bd1e2e31,fix(client): exam prerequisites list (#63582),2025-11-06T09:27:04Z,1,10,moT01,freeCodeCamp,freeCodeCamp
