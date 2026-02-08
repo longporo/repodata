@@ -946,16 +946,3 @@ f9942d0c3f42eeee09be7b9a9cc0c09e40e8e293,fix(curriculum): replace second compreh
 843457665eae04483b5ae300bf02d9430c01822d,"feat(curriculum): Improve example in ""Working with Regular Expression…",2025-11-08T15:59:39Z,1,32,akshith30388,freeCodeCamp,freeCodeCamp
 94c53c6144a6fa264801aeff9724c52b082b3461,fix: add missing question mark (#63656),2025-11-08T08:33:28Z,1,2,lasyareddipatlolla71415-wq,freeCodeCamp,freeCodeCamp
 c7dd3c422154e6c7c3af06fdd9a779f7d294de6d,"fix(curriculum): Change ""Pey"" to ""Pay"" in learn-conversation-starters…",2025-11-08T08:26:14Z,1,2,MohammedKhalidMahmoud,freeCodeCamp,freeCodeCamp
-7cbab4902a3ad15ecb61ac436afdc7bc118e3380,chore: pnpm self-update,2025-11-08T01:58:57Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
-2432f5e9e40cec150a9525df4f33a3ad5f8e8b5e,"feat(tools, client): add speaking tasks logic (#61906)",2025-11-07T19:29:21Z,24,1470,DanielRosa74,freeCodeCamp,freeCodeCamp
-e32bad05c3586984ac8d8ae63f6a24cd0e1c3161,feat(curriculum): add new Spanish audio from the CDN (#63635),2025-11-07T16:45:01Z,1,1,estefaniacn,freeCodeCamp,freeCodeCamp
-e9516faca48322f4ffb34228bce26c6a42ff836b,"fix(curriculum): Typo in daily challenges 103, 104, 107 (#63609)",2025-11-07T16:33:38Z,6,12,moT01,freeCodeCamp,freeCodeCamp
-f8dbb50b7e9d06d3fe4f85adb85f9bf66f4277f4,refactor: modularize curriculum tooling (#63623),2025-11-07T15:12:37Z,13,824,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-74dd292cc18dedc2ca026b81fea86c9395e2ee30,feat(curriculum): add interactive examples to regex methods lesson (#…,2025-11-07T15:05:15Z,1,37,M-Vamshidhar-Reddy01,freeCodeCamp,freeCodeCamp
-b6c4346747a416f129a655a554972509e53ce4e1,feat(curriculum): add interactive examples to date formatting lesson …,2025-11-07T14:36:47Z,1,30,narendra-s19,freeCodeCamp,freeCodeCamp
-bcdc314eb037cfbaf2684765a3680ecac1234b89,chore(learn): add Chinese characters to assets (#63627),2025-11-07T14:25:17Z,2,97,DanielRosa74,freeCodeCamp,freeCodeCamp
-93c9dd515841a7f8f9ef669c093db77625ca06ed,fix(curriculum): update blockLayout for zh-a1-review-* to use challen…,2025-11-07T14:24:41Z,7,14,pdtrang,freeCodeCamp,freeCodeCamp
-52aa25b99100dcef439d4324e20f40f64facc550,feat(curriculum): implement selective build mode for curriculum proce…,2025-11-07T11:24:11Z,3,58,Sembauke,freeCodeCamp,freeCodeCamp
-92cf2228eeb4974d1c7bad5bad52a711fb97f622,feat(curriculum): add Chinese and Spanish help categories to challeng…,2025-11-07T03:08:50Z,1,4,huyenltnguyen,freeCodeCamp,freeCodeCamp
-38567a6b7b4685ffe53e9fb7621886303e1b36eb,fix(client): uncheck chapter checkmarks when no challenges (#63560),2025-11-07T03:08:08Z,5,48,moT01,freeCodeCamp,freeCodeCamp
-ced358eb5b06f958fdc4de2ed5e4602365f1c97a,"refactor(client,curriculum): remove isComingSoon property (#63615)",2025-11-07T03:07:49Z,4,4,huyenltnguyen,freeCodeCamp,freeCodeCamp
