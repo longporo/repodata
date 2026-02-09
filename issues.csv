@@ -1,12 +1,15 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87nztRs,65674,Scrollbars are injected into the page when opening modals,OPEN,2026-02-03T04:42:03Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87f-RTj,64869,Break down string methods workshop and add it to main,OPEN,2025-12-23T14:57:17Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87pN71h,65769,"'null' text should be used instead of 'Guest' in Working with Strings in JavaScript - What Is the prompt() Method, and How Does It Work?",OPEN,2026-02-08T13:39:07Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87pCz28,65755,Remove unused ::: interactive marker from lesson content,CLOSED,2026-02-07T08:55:22Z,2026-02-08T08:28:51Z,Sukruthr,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87nzogm,65673,User able to scroll webpage when overlay displays (Mobile),CLOSED,2026-02-03T04:34:10Z,2026-02-08T08:12:43Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87mYxRa,65538,Python Certification Dynamic Programming ambiguous text,OPEN,2026-01-28T12:38:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87pDIOP,65756,Currency Converter 7 & 8 tests not passing,OPEN,2026-02-07T09:49:57Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87pCz28,65755,Remove unused ::: interactive marker from lesson content,OPEN,2026-02-07T08:55:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87o55bE,65743,wrong dashedName for lab-n-queens-problem (python),OPEN,2026-02-06T16:26:26Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87o4-LS,65741,Improve README clarity in Getting Started section,CLOSED,2026-02-06T15:22:03Z,2026-02-07T06:35:59Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87nztRs,65674,Scrollbars are injected into the page when opening modals,OPEN,2026-02-03T04:42:03Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ae7vr,64151,interactive editor is overly eager,OPEN,2025-11-26T03:21:49Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87mYxRa,65538,Python Certification Dynamic Programming ambiguous text,OPEN,2026-01-28T12:38:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87njgI1,65648,Missing string length property in strings review lesson,OPEN,2026-02-02T09:18:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87oNvTo,65702,Misleading explanation about Compound Assignment Operators.,OPEN,2026-02-04T10:53:52Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JQzEc,62018,Daily challenge solutions are saved as `undefined.txt`,OPEN,2025-09-02T15:57:39Z,,,freeCodeCamp,freeCodeCamp
@@ -17,7 +20,6 @@ I_kwDOAbI7X87eazrb,64626,Create a prototype for Python Booleans and Conditionals
 I_kwDOAbI7X87j5kkg,65268,Audit Workshops: Ensure Editable Regions Only Include Required Lines,OPEN,2026-01-16T20:14:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87oL5SA,65697,"unneeded horizontal scroll at the bottom of the browser, inside block page",OPEN,2026-02-04T09:00:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87oeyS9,65714,missing period,CLOSED,2026-02-05T08:43:26Z,2026-02-05T20:35:32Z,jeeva-004,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87nzogm,65673,User able to scroll webpage when overlay displays (Mobile),OPEN,2026-02-03T04:34:10Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87oG3Lv,65690,RWD What are attributes? lesson,CLOSED,2026-02-04T01:54:52Z,2026-02-05T07:52:19Z,TheGreatAdil,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87oLuwr,65696,some superblocks still not available in challenge-editor,CLOSED,2026-02-04T08:51:07Z,2026-02-04T09:59:20Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87n27Ab,65677,hotel feedback form missing `value` on radio buttons,CLOSED,2026-02-03T08:31:27Z,2026-02-04T08:38:44Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
@@ -294,7 +296,6 @@ I_kwDOAbI7X87g66fz,64953,README Translation Integration Feature,CLOSED,2025-12-3
 I_kwDOAbI7X87gWoe_,64907,Build a Budget App has conflict between rounding requirement and test,CLOSED,2025-12-26T21:27:17Z,2026-01-02T07:58:29Z,Shivansh,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87g14Ge,64941,Markdown Italic Parser test cases function name has a typo,CLOSED,2025-12-31T07:51:53Z,2026-01-01T16:15:47Z,WongYC-66,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87f97lO,64864,Quiz question wording is misleading in python certification - lecture-working-with-loops-and-sequences,CLOSED,2025-12-23T14:24:28Z,2025-12-31T05:13:17Z,zho00,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87f-RTj,64869,Break down string methods workshop and add it to main,OPEN,2025-12-23T14:57:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gc7aw,64922,Typo in code example,CLOSED,2025-12-28T13:45:17Z,2025-12-28T13:48:18Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gZOO3,64913,CodeRoad terminal step does not advance despite correct command output,CLOSED,2025-12-27T11:52:46Z,2025-12-28T05:28:01Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861ONli,60168,Lightbox Viewer lab tests,OPEN,2025-05-05T18:00:19Z,,,freeCodeCamp,freeCodeCamp
@@ -824,7 +825,3 @@ I_kwDOAbI7X87WzX9L,63668,Update lunch picker lab to remove quotes in user storie
 I_kwDOAbI7X87W2e-W,63675,Certifications in the same place as the curriculum,CLOSED,2025-11-09T08:24:18Z,2025-11-09T09:39:15Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Wrz8H,63643,Replace second comprehension check question in `div` element lesson,CLOSED,2025-11-07T19:58:06Z,2025-11-09T07:56:57Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Wp8oK,63637,Update What Is the Object() Constructor lesson,CLOSED,2025-11-07T17:35:27Z,2025-11-09T07:54:09Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87WKCnJ,63580,Add interactive examples to capturing groups lesson,CLOSED,2025-11-05T21:58:25Z,2025-11-08T15:59:41Z,akshith30388,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Wy9-P,63667,[bug] api serialization failure for error response,OPEN,2025-11-08T15:42:57Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Ws8Wy,63649,Add missing punctuation for html audio and video lab solution,CLOSED,2025-11-07T21:36:40Z,2025-11-08T08:33:29Z,sainischalvarma,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87WsLuR,63644,Typo in learn-conversation-starters-in-the-break-room - task 46,CLOSED,2025-11-07T20:27:35Z,2025-11-08T08:26:15Z,MohammedKhalidMahmoud,freeCodeCamp,freeCodeCamp
