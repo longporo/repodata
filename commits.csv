@@ -1,4 +1,7 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+f9b5cf48838b9d88b1ea53aae9789f1b0d74f4d1,fix(curriculum): remove unused ::: interactive marker from lesson con…,2026-02-08T08:28:49Z,1,2,Sukruthr,freeCodeCamp,freeCodeCamp
+9037682c2c8c6c2acee13bbdf2b1e2d335fd80ec,chore: restore i18n submodule (#65765),2026-02-08T08:17:39Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
+46b607d84a365d11dadb77bcadca206bdff53756,feat(tools): unified container dev setup (#65589),2026-02-08T06:50:52Z,10,485,raisedadead,freeCodeCamp,freeCodeCamp
 b321f075fd1c59f57b5cb48311a62ea0ea43871c,feat(curriculum): convert bubble sort challenge into js lab (#65708),2026-02-06T19:04:27Z,4,158,Dario-DC,freeCodeCamp,freeCodeCamp
 b519b6231aae042cc434b40a9651d3ef3c83affb,fix(curriculum): clarify Step 9 instructions for adding second print …,2026-02-06T17:53:30Z,3,88,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 ae50644091495991e410c203f76476fcd0d37741,refactor(tooling): add turbo eslint plugin (#65734),2026-02-06T12:03:05Z,18,121,ojeytonwilliams,freeCodeCamp,freeCodeCamp
@@ -943,6 +946,3 @@ d8f5c6aca734bd8b51def51e3c8631b6fe07bdd4,feat(curriculum): add interactive examp
 b0d94ee4fb33529ba3855c56963c0d6c73338a8b,fix(curriculum): remove extra quotes from lunch picker user stories (…,2025-11-09T09:50:21Z,1,14,rainwithcode,freeCodeCamp,freeCodeCamp
 f9942d0c3f42eeee09be7b9a9cc0c09e40e8e293,fix(curriculum): replace second comprehensive check quesion in div el…,2025-11-09T07:56:56Z,1,24,pdtrang,freeCodeCamp,freeCodeCamp
 15d6b0b488c9b5d86a05c2c6a2081a2da1e4f9eb,fix(curriculum): update What Is the Object() Constructor lesson (#63657),2025-11-09T07:54:07Z,1,4,pdtrang,freeCodeCamp,freeCodeCamp
-843457665eae04483b5ae300bf02d9430c01822d,"feat(curriculum): Improve example in ""Working with Regular Expression…",2025-11-08T15:59:39Z,1,32,akshith30388,freeCodeCamp,freeCodeCamp
-94c53c6144a6fa264801aeff9724c52b082b3461,fix: add missing question mark (#63656),2025-11-08T08:33:28Z,1,2,lasyareddipatlolla71415-wq,freeCodeCamp,freeCodeCamp
-c7dd3c422154e6c7c3af06fdd9a779f7d294de6d,"fix(curriculum): Change ""Pey"" to ""Pay"" in learn-conversation-starters…",2025-11-08T08:26:14Z,1,2,MohammedKhalidMahmoud,freeCodeCamp,freeCodeCamp
