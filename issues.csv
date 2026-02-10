@@ -1,10 +1,20 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87pmJp-,65797,[Feature] - Translatable tokens in language files,OPEN,2026-02-10T02:25:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87plyvs,65796,[Curriculum] - Shopping List Step 5 test doesn't accept valid input,OPEN,2026-02-10T01:44:01Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87pUQps,65774,Text alignment issue in mobile app – A1 Professional Spanish Certification,OPEN,2026-02-09T04:37:26Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87pdKM8,65791,Responsive Web Design exam locked despite all projects completed,OPEN,2026-02-09T14:40:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87pfAt_,65793,"target=""_blank"" is added automatically without being introduced in the instructions",CLOSED,2026-02-09T16:39:31Z,2026-02-09T16:55:42Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87eazYQ,64624,Create a prototype for Python strings workshop,CLOSED,2025-12-15T16:52:47Z,2026-02-09T16:48:05Z,Dario-DC;Ritam Pal;RitamPal26,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87peyM8,65792,Alt attribute is auto-changed after submitting “Add Images to Your Website” challenge,CLOSED,2026-02-09T16:15:46Z,2026-02-09T16:43:41Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87pWfqh,65777,"[Bug] POST /name challenge: req.body.last has trailing \n in key, causing ""undefined"" in response",OPEN,2026-02-09T07:55:37Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87pN71h,65769,"'null' text should be used instead of 'Guest' in Working with Strings in JavaScript - What Is the prompt() Method, and How Does It Work?",CLOSED,2026-02-08T13:39:07Z,2026-02-09T13:24:05Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87hNnk5,64981,Incorrect radial-gradient() size keywords: contain and cover are not valid CSS,CLOSED,2026-01-03T20:00:07Z,2026-02-09T10:46:44Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86z5tF4,59969,Build an availability table issue,CLOSED,2025-04-24T19:23:50Z,2026-02-09T09:16:03Z,bengguankoay,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87nztRs,65674,Scrollbars are injected into the page when opening modals,OPEN,2026-02-03T04:42:03Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87f-RTj,64869,Break down string methods workshop and add it to main,OPEN,2025-12-23T14:57:17Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87pN71h,65769,"'null' text should be used instead of 'Guest' in Working with Strings in JavaScript - What Is the prompt() Method, and How Does It Work?",OPEN,2026-02-08T13:39:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87pCz28,65755,Remove unused ::: interactive marker from lesson content,CLOSED,2026-02-07T08:55:22Z,2026-02-08T08:28:51Z,Sukruthr,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87nzogm,65673,User able to scroll webpage when overlay displays (Mobile),CLOSED,2026-02-03T04:34:10Z,2026-02-08T08:12:43Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87mYxRa,65538,Python Certification Dynamic Programming ambiguous text,OPEN,2026-01-28T12:38:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87pDIOP,65756,Currency Converter 7 & 8 tests not passing,OPEN,2026-02-07T09:49:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87o55bE,65743,wrong dashedName for lab-n-queens-problem (python),OPEN,2026-02-06T16:26:26Z,,,freeCodeCamp,freeCodeCamp
@@ -123,7 +133,6 @@ I_kwDOAbI7X87lspT-,65490,Javascript Build a string inspection,CLOSED,2026-01-25T
 I_kwDOAbI7X87lsXJi,65489,javaScript interactive editor not loading,CLOSED,2026-01-25T17:46:02Z,2026-01-25T19:05:14Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87llY1i,65479,Exam Environment Application white screen on Arch and Distrobox,CLOSED,2026-01-24T18:30:34Z,2026-01-24T19:33:26Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lgegx,65470,Challenge 167: Bingo! Letter typo in Test 5 description,CLOSED,2026-01-24T07:18:46Z,2026-01-24T18:25:29Z,advait122,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z5tF4,59969,Build an availability table issue,OPEN,2025-04-24T19:23:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lGeH2,65431,Using built-in `sorted` function in quick short and selection sort labs,CLOSED,2026-01-22T16:21:06Z,2026-01-23T18:57:09Z,Dario-DC,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jphyW,65214,Add interactive examples for CSS chapter review page,CLOSED,2026-01-15T21:48:22Z,2026-01-23T14:17:21Z,papidb,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87kHMXu,65294,workshop-flexbox-photo-gallery step 1 check too permisive,CLOSED,2026-01-18T18:07:34Z,2026-01-23T13:08:12Z,octavio-js,freeCodeCamp,freeCodeCamp
@@ -211,7 +220,6 @@ I_kwDOAbI7X87jKq1Q,65139,"Mistyped word in Python Certification Working with Loo
 I_kwDOAbI7X87iS2DT,65057,Parent Guardian Name label is same as the legend.,CLOSED,2026-01-09T11:26:45Z,2026-01-14T10:46:21Z,rizwan-rizu,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gP3n2,64893,Wrong SQL query in Working with Relation Databases - How Do You Insert and View Data in a Table?,CLOSED,2025-12-25T18:18:02Z,2026-01-14T10:20:04Z,Jeevankumar-S,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCeXm,65120,Python Certification OOP Quiz properties instead of attributes in multiple questions,CLOSED,2026-01-13T14:20:36Z,2026-01-14T10:05:32Z,octavio-js,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87hNnk5,64981,Incorrect radial-gradient() size keywords: contain and cover are not valid CSS,OPEN,2026-01-03T20:00:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87iw1rn,65094,"Build a recipe tracker - step 6: Typo, finialy where finally was meant?",CLOSED,2026-01-12T14:00:22Z,2026-01-14T05:35:31Z,Vipeen-Kumar;gikf,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87i1W6I,65100,Should we teach Virtual environments and pip even though fcc Python environment doesn't support it?,CLOSED,2026-01-12T19:14:08Z,2026-01-14T02:34:55Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87i-3sk,65111,Python Certification Build a Discount Calculator Step 17 typo in instruction,CLOSED,2026-01-13T10:09:31Z,2026-01-13T18:18:02Z,Jeevankumar-S,freeCodeCamp,freeCodeCamp
@@ -265,7 +273,6 @@ I_kwDOAbI7X87h1UnL,65022,"Instructions unclear about using checked attribute, ex
 I_kwDOAbI7X87hxRT1,65018,typo in test,CLOSED,2026-01-07T08:17:05Z,2026-01-07T09:48:18Z,harshentau-spec,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87hmL0g,65009,Visited pseudo-class example should open in new tab,CLOSED,2026-01-06T11:53:10Z,2026-01-07T08:31:29Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87hov9N,65011,Python Exam typos,CLOSED,2026-01-06T15:36:09Z,2026-01-07T08:20:50Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87eazYQ,64624,Create a prototype for Python strings workshop,OPEN,2025-12-15T16:52:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ea0MK,64627,Create a prototype for Python functions workshop,OPEN,2025-12-15T17:22:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87e8yf5,64724,Create a prototype for Python numbers and math operations workshop,OPEN,2025-12-17T21:06:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fz50e,64848,Replace archived challenge links in `challenge-reset-modal` test,CLOSED,2025-12-22T19:18:08Z,2026-01-06T19:56:18Z,Jeevankumar;huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -819,9 +826,3 @@ I_kwDOAbI7X87Vc3qQ,63431,blank lines in seed code give weird effect,CLOSED,2025-
 I_kwDOAbI7X87WIji0,63566,Add interactive examples to recursion and call stack lesson,CLOSED,2025-11-05T19:53:32Z,2025-11-10T08:25:09Z,Armankb2;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Wkrel,63624,Typo in Learn How to Clarify Misunderstandings - Task 27,CLOSED,2025-11-07T11:36:50Z,2025-11-10T08:21:19Z,jvodlz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87U3t-N,63323,Donate note has extra space at the bottom,CLOSED,2025-10-30T15:40:11Z,2025-11-10T08:17:53Z,garyeung,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87W54ks,63686,spam issue,CLOSED,2025-11-09T21:14:35Z,2025-11-09T21:52:03Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Wsb6l,63646,Remove last sentence from step 16 of bookstore page,CLOSED,2025-11-07T20:48:38Z,2025-11-09T12:22:21Z,simoncriado,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87WzX9L,63668,Update lunch picker lab to remove quotes in user stories,CLOSED,2025-11-08T17:41:34Z,2025-11-09T09:50:22Z,rainwithcode,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87W2e-W,63675,Certifications in the same place as the curriculum,CLOSED,2025-11-09T08:24:18Z,2025-11-09T09:39:15Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Wrz8H,63643,Replace second comprehension check question in `div` element lesson,CLOSED,2025-11-07T19:58:06Z,2025-11-09T07:56:57Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Wp8oK,63637,Update What Is the Object() Constructor lesson,CLOSED,2025-11-07T17:35:27Z,2025-11-09T07:54:09Z,pdtrang,freeCodeCamp,freeCodeCamp
