@@ -1,4 +1,18 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+d8dbe19a64706f2e3f82b5ba0f132245125a29d6,feat(curriculum): update Spanish character assets (#65813),2026-02-10T23:13:27Z,1,12,estefaniacn,freeCodeCamp,freeCodeCamp
+c409063e03dd6a8d91c961c2208b2dfe06fda438,Feat(Curriculum): Add 6 new Spanish Characters  (#65812),2026-02-10T20:38:53Z,1,60,nieldakarla,freeCodeCamp,freeCodeCamp
+ac655eaae79aaba41949c7c1fc86a6d008f02346,fix(client): update css selector for soundbar styling (#65808),2026-02-10T18:45:25Z,1,9,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+cb6a17716cf672272d705a58307ee25c267ed7b1,fix: remove outdated Jest Dom v5 typing (#65722),2026-02-10T15:31:38Z,3,186,Sembauke,freeCodeCamp,freeCodeCamp
+506f8d6fef02503a2d8dde1e300cca992c299b29,fix(deps): update dependency @aws-sdk/client-ses to v3.981.0 (#65712),2026-02-10T14:05:10Z,2,460,renovate[bot],freeCodeCamp,freeCodeCamp
+507a3b05886a86263356cff495a1832c808e37ed,refactor(client): restructure editor state into logical sub-interface…,2026-02-10T13:50:05Z,1,181,Sembauke,freeCodeCamp,freeCodeCamp
+6c002b454aae3e0c1b891eff3b8dcda4dcd9d0d5,chore(deps): update dependency @types/node to v24.10.10 (#65804),2026-02-10T13:10:56Z,1,570,renovate[bot],freeCodeCamp,freeCodeCamp
+e6eb338fe65718ce23b890f3ae97b9007dee96af,refactor(client): speed up client updates (#65025),2026-02-10T12:39:55Z,6,364,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+d6d452dfaccc6f50fb14f977caa46d398acd1f9d,fix: specify which trademark symbol is used in html entities lecture …,2026-02-10T11:23:31Z,1,2,scissorsneedfoodtoo,freeCodeCamp,freeCodeCamp
+4613efa921a631100a0e177dd7910f37e08dac87,"refactor: use environment, not .env, in ci (#65736)",2026-02-10T10:04:59Z,9,79,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+d453de6fdac0b235f7f321a5f32592817baec58b,fix(curriculum): misleading explanation of compound assignment operat…,2026-02-10T09:23:49Z,1,4,SilentDeath53,freeCodeCamp,freeCodeCamp
+41a1c78e84f3d335e1fdde8a485bacd93ff5c8b0,fix: typos in blog page workshop description (#65799),2026-02-10T09:03:30Z,1,2,scissorsneedfoodtoo,freeCodeCamp,freeCodeCamp
+b842f29841a2756e5fbef6c78910c71aa1fa2b8d,fix(deps): update dependency fastify to v5.7.4 (#65794),2026-02-10T03:36:03Z,2,26,renovate[bot],freeCodeCamp,freeCodeCamp
+558f980cd4a5e9055f04d47d96ec96ae932e5054,chore(deps): upgrade @freecodecamp/ui to v5.2.1 (#65786),2026-02-10T03:34:15Z,2,12,huyenltnguyen,freeCodeCamp,freeCodeCamp
 26459487269e94a0721092c8671ad0b77a72b4e6,fix(curriculum): typo in Introducing Yourself practice - task 4 (#65753),2026-02-09T21:27:49Z,1,2,FBID10,freeCodeCamp,freeCodeCamp
 701d4cf8da1ea083cf2f9158b09a0b408cbecaf8,"chore(i18n,client): processed translations (#65788)",2026-02-09T20:21:11Z,20,150,camperbot,freeCodeCamp,freeCodeCamp
 229635e880708a409a19899648dfb87609e02dd5,feat(curriculum): add steps for employee profile generator workshop (…,2026-02-09T16:48:03Z,21,1027,RitamPal26,freeCodeCamp,freeCodeCamp
@@ -932,20 +946,3 @@ ff881eea27a696a80956ebe45bcb36af34e31cfa,feat: add interactive examples for e.pr
 bbfcf91fdb7c85f07d1ee4afaa7e2470accf60b6,"fix(curriculum): removes duplicated ""title"" in UTF lesson (#63731)",2025-11-11T16:01:48Z,1,2,daczarne,freeCodeCamp,freeCodeCamp
 8b4fba6c3135d72f0540f04806586647a18c6290,fix(curriculum): capitalize 'You' in Step 3 hint (#63725),2025-11-11T15:59:36Z,1,2,Chiranthdv,freeCodeCamp,freeCodeCamp
 ee911d7eac41bf26204afc8f5c8a742a987c7695,refactor: simplify sourcing of challenge nodes into gatsby (#63697),2025-11-11T08:34:24Z,18,8309,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-6fe97d310553dadbff9e30caf3d3cdd566f39459,feat: release a2-english exam (#63136),2025-11-11T02:20:03Z,8,109,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-c722fcdd9de690c9738891426679fa618a99607f,fix(curriculum): update tests for step 41 of cat photo app workshop (…,2025-11-10T23:19:13Z,1,4,pdtrang,freeCodeCamp,freeCodeCamp
-c56a9448f40267abba5e51ff4a2005110baca5d9,fix(curriculum): allow multiple trailing spaces in factorial calculat…,2025-11-10T23:12:20Z,1,2,Armankb2,freeCodeCamp,freeCodeCamp
-69eb4e400340073ccabeec26b3eb87d2fde56ac3,fix(curriculum): guide users to enable the interactive editor (#63328),2025-11-10T19:30:25Z,34,150,st3lll4,freeCodeCamp,freeCodeCamp
-0c844ab007ea91843b449b0219ea9703d1ba7b10,"feat(client,challenge-parser): render Chinese as ruby markup (#63424)",2025-11-10T19:25:57Z,13,729,huyenltnguyen,freeCodeCamp,freeCodeCamp
-14dd3c6b2772b29a8226ba3c6bf3abfaf9f0ef91,chore(curriculum): update v9 content (#63650),2025-11-10T17:24:50Z,7,75,moT01,freeCodeCamp,freeCodeCamp
-13ec0d5a9053e7db01218f2a2a3cb33c5c1e46bb,fix(curriculum): clarify performance.now() precision and update quiz …,2025-11-10T16:19:58Z,1,4,ketanpatil29,freeCodeCamp,freeCodeCamp
-2bbb66a8549b180fb2f1771a9f6e9badccb84464,"chore(i18n,learn): update i18n-curriculum submodule (#63695)",2025-11-10T15:09:05Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-e8a145b3a2341ff23f3a22ca1782db23a3d30b28,feat(curriculum): Add Chinese audios from the CDN (#63682),2025-11-10T14:56:40Z,1,6,miyaliu666,freeCodeCamp,freeCodeCamp
-3549056b34b4598834f119e9c66117d18d0b28f4,"chore(i18n,client): processed translations (#63693)",2025-11-10T14:55:15Z,20,1210,camperbot,freeCodeCamp,freeCodeCamp
-7616926f3f5092bef003fef669e322253186d3bd,refactor(e2e): consolidate tests in preview.spec.ts (#63652),2025-11-10T13:29:42Z,1,15,huyenltnguyen,freeCodeCamp,freeCodeCamp
-dff61e6af7b81e70a40a175e68d31b9bf73763a3,fix(curriculum): fix misleading question in grid section (#63648),2025-11-10T12:03:16Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
-4ec96c1a0cec3e3e59a37f26ca6b47cf3ef5d465,feat: allow filtering by block and challengeId (#63640),2025-11-10T11:29:21Z,5,47,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-8de1289fa81ae7a59dff2e313e22413828e53fc9,fix(curriculum): correct spacing in CSS editable region (#63433),2025-11-10T08:26:00Z,20,24,shashankdangi,freeCodeCamp,freeCodeCamp
-d8f5c6aca734bd8b51def51e3c8631b6fe07bdd4,feat(curriculum): add interactive examples to recursion and call stac…,2025-11-10T08:25:08Z,1,68,Armankb2,freeCodeCamp,freeCodeCamp
-2d15487f26362dc30cd1730af5241197e44d867e,fix(curriculum): fix typo (#63687),2025-11-10T08:21:17Z,1,2,jvodlz,freeCodeCamp,freeCodeCamp
-9509811a7317ddd85b4cca8b472c2b0354b599e5,fix(client): remove extra margin inside the donate alert (#63413),2025-11-10T08:17:51Z,1,4,garyeung,freeCodeCamp,freeCodeCamp
