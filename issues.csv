@@ -1,9 +1,12 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87pmJp-,65797,[Feature] - Translatable tokens in language files,OPEN,2026-02-10T02:25:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87plyvs,65796,[Curriculum] - Shopping List Step 5 test doesn't accept valid input,OPEN,2026-02-10T01:44:01Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87pUQps,65774,Text alignment issue in mobile app – A1 Professional Spanish Certification,OPEN,2026-02-09T04:37:26Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87pySsf,65810,Curriculum: Correct background-size example and add missing border-style example,OPEN,2026-02-10T16:01:04Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ptxYX,65805,Update CSS selectors for soundbar styling,CLOSED,2026-02-10T12:07:14Z,2026-02-10T18:45:27Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87oNvTo,65702,Misleading explanation about Compound Assignment Operators.,CLOSED,2026-02-04T10:53:52Z,2026-02-10T09:23:51Z,SilentDeath53,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87plyvs,65796,Shopping List Step 5 test doesn't accept valid input,OPEN,2026-02-10T01:44:01Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87pmJp-,65797,Translatable tokens in language files,OPEN,2026-02-10T02:25:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87pdKM8,65791,Responsive Web Design exam locked despite all projects completed,OPEN,2026-02-09T14:40:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87nztRs,65674,Scrollbars are injected into the page when opening modals,CLOSED,2026-02-03T04:42:03Z,2026-02-10T03:34:16Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87pfAt_,65793,"target=""_blank"" is added automatically without being introduced in the instructions",CLOSED,2026-02-09T16:39:31Z,2026-02-09T16:55:42Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87eazYQ,64624,Create a prototype for Python strings workshop,CLOSED,2025-12-15T16:52:47Z,2026-02-09T16:48:05Z,Dario-DC;Ritam Pal;RitamPal26,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87peyM8,65792,Alt attribute is auto-changed after submitting “Add Images to Your Website” challenge,CLOSED,2026-02-09T16:15:46Z,2026-02-09T16:43:41Z,,freeCodeCamp,freeCodeCamp
@@ -11,7 +14,6 @@ I_kwDOAbI7X87pWfqh,65777,"[Bug] POST /name challenge: req.body.last has trailing
 I_kwDOAbI7X87pN71h,65769,"'null' text should be used instead of 'Guest' in Working with Strings in JavaScript - What Is the prompt() Method, and How Does It Work?",CLOSED,2026-02-08T13:39:07Z,2026-02-09T13:24:05Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87hNnk5,64981,Incorrect radial-gradient() size keywords: contain and cover are not valid CSS,CLOSED,2026-01-03T20:00:07Z,2026-02-09T10:46:44Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86z5tF4,59969,Build an availability table issue,CLOSED,2025-04-24T19:23:50Z,2026-02-09T09:16:03Z,bengguankoay,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87nztRs,65674,Scrollbars are injected into the page when opening modals,OPEN,2026-02-03T04:42:03Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87f-RTj,64869,Break down string methods workshop and add it to main,OPEN,2025-12-23T14:57:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87pCz28,65755,Remove unused ::: interactive marker from lesson content,CLOSED,2026-02-07T08:55:22Z,2026-02-08T08:28:51Z,Sukruthr,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87nzogm,65673,User able to scroll webpage when overlay displays (Mobile),CLOSED,2026-02-03T04:34:10Z,2026-02-08T08:12:43Z,,freeCodeCamp,freeCodeCamp
@@ -21,7 +23,6 @@ I_kwDOAbI7X87o55bE,65743,wrong dashedName for lab-n-queens-problem (python),OPEN
 I_kwDOAbI7X87o4-LS,65741,Improve README clarity in Getting Started section,CLOSED,2026-02-06T15:22:03Z,2026-02-07T06:35:59Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ae7vr,64151,interactive editor is overly eager,OPEN,2025-11-26T03:21:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87njgI1,65648,Missing string length property in strings review lesson,OPEN,2026-02-02T09:18:04Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87oNvTo,65702,Misleading explanation about Compound Assignment Operators.,OPEN,2026-02-04T10:53:52Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JQzEc,62018,Daily challenge solutions are saved as `undefined.txt`,OPEN,2025-09-02T15:57:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87oLPVy,65693,Build a Report Card Printer - Step 9,CLOSED,2026-02-04T08:15:33Z,2026-02-06T17:53:32Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87o5neX,65742,step 18 building a movie ticket booking calculator,OPEN,2026-02-06T16:07:25Z,,,freeCodeCamp,freeCodeCamp
@@ -817,12 +818,3 @@ I_kwDOAbI7X87XH9AO,63704,Update good structural hierarchy lesson,CLOSED,2025-11-
 I_kwDOAbI7X87WqnyA,63641,Remove duplicate title inside UTF-8  lesson,CLOSED,2025-11-07T18:23:34Z,2025-11-11T16:01:50Z,daczarne,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87XRN9D,63720,wrong capitalization in step 3 of quincy's job tips page,CLOSED,2025-11-11T10:10:31Z,2025-11-11T15:59:38Z,Chiranthdv,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85r2t8z,50999,POST /challenge/coderoad-challenge-completed,CLOSED,2023-07-18T09:09:26Z,2023-08-24T15:53:06Z,Sembauke;moT01;ojeytonwilliams,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87WrbJT,63642,Update tests for step 41 of cat photo app workshop,CLOSED,2025-11-07T19:22:52Z,2025-11-10T23:19:14Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87XG_62,63701,factorial calculator fails for some spaces,CLOSED,2025-11-10T17:07:45Z,2025-11-10T23:12:21Z,Armankb2,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TTQI5,62972,Update lessons that mention interacting with the interactive editor,CLOSED,2025-10-23T14:49:23Z,2025-11-10T19:30:27Z,st3lll4,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87W2hCS,63676,Precise information on Understanding Performance in Web Applications,CLOSED,2025-11-09T08:32:44Z,2025-11-10T16:20:00Z,ketanpatil29,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87WsTGh,63645,Misleading Question in Grid Section,CLOSED,2025-11-07T20:35:56Z,2025-11-10T12:03:18Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Vc3qQ,63431,blank lines in seed code give weird effect,CLOSED,2025-11-03T08:48:30Z,2025-11-10T08:26:01Z,shashankdangi,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87WIji0,63566,Add interactive examples to recursion and call stack lesson,CLOSED,2025-11-05T19:53:32Z,2025-11-10T08:25:09Z,Armankb2;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Wkrel,63624,Typo in Learn How to Clarify Misunderstandings - Task 27,CLOSED,2025-11-07T11:36:50Z,2025-11-10T08:21:19Z,jvodlz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87U3t-N,63323,Donate note has extra space at the bottom,CLOSED,2025-10-30T15:40:11Z,2025-11-10T08:17:53Z,garyeung,freeCodeCamp,freeCodeCamp
