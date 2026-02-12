@@ -1,4 +1,25 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+c27964de84f0b463b05fc35bf9703de0ae771153,feat(curriculum): EN-A2 quiz for block 27 (#65830),2026-02-11T21:23:43Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
+8826ef667b822cd39e98e24360f31bf6fff56c23,feat(curriculum): EN-A2 quiz for block 26 (#65821),2026-02-11T21:01:59Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
+960eab3333be4616919aa7978950366a3a19c0d3,feat(curriculum): EN-A2 quiz for block 25 (#65807),2026-02-11T20:55:13Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
+6e1018db2b0ac67474557b708261fd374f3387f0,feat(curriculum): EN-A2 quiz for block 24 (#65803),2026-02-11T20:50:03Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
+476a735dc359f7c2e956bc152033c0f08cecc002,feat(curriculum): EN-A2 quiz for block 23 (#65782),2026-02-11T20:44:50Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
+fbc7ade1217878980ffb547c25f493d632cab482,feat(curriculum): EN-A2 quiz for block 22 (#65779),2026-02-11T20:37:02Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
+0e82793e93c1ba2d6349f83c0be7e811be2c4509,feat(curriculum): EN-A2 quiz for block 21 (#65737),2026-02-11T20:30:40Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
+debf01eeba97b26df929c5bac06926c67e5e19e0,feat(curriculum): EN-A2 quiz for block 20 (#65735),2026-02-11T20:26:22Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
+9e7093719b1cf4b8b94e9b2914e3e6b515c7e7b5,feat(curriculum): EN-A2 quiz for block 19 (#65732),2026-02-11T20:20:47Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
+ff86ea2cb1926874253d0114a4b768663e13c1ee,fix(client): clean client if env changed (#65835),2026-02-11T20:05:13Z,1,8,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+e8dc9de8d7102be8197a8c2cc5958396fdefe884,chore: add script to seed a user who is donating (#65837),2026-02-11T19:01:35Z,1,1,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+30bcf40381fc955f2af9f8a4d2414d60025d8eea,feat(client): migrate to Gatsby v5 and React 18  (#65729),2026-02-11T18:15:32Z,65,9844,Sembauke,freeCodeCamp,freeCodeCamp
+1ecd36c440d8d067aca0d3421d51095b97c92451, fix(curriculum): preventing hardcoding answers in lab-depth-first-se…,2026-02-11T17:44:44Z,1,30,its-cutie-valerie,freeCodeCamp,freeCodeCamp
+330da92060eb5f1c82d5b1076b5e979c35281e98,"chore(i18n,learn): update i18n-curriculum submodule (#65834)",2026-02-11T16:42:32Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+5ac38cd700171ac5b9cf258ee8505d25321fa4e6,feat(curriculum): Add A1 Spanish Numbers 30 to 100 Module (#65440),2026-02-11T16:19:12Z,52,5524,estefaniacn,freeCodeCamp,freeCodeCamp
+e24f3c48f783933d9b15cd1953caf810f1039dce,fix(curriculum): correct element name in step 9 hint (#65831),2026-02-11T13:38:55Z,1,2,Raam751,freeCodeCamp,freeCodeCamp
+f5ae3b3abcadf5924d42b91162832909c1abb216,fix(curriculum): wrap video element in backticks (#65827),2026-02-11T13:36:12Z,1,2,nguyenduybao1,freeCodeCamp,freeCodeCamp
+9e771dab561284bc4519785f64f79ed05d076aab,"chore(i18n,client): processed translations (#65829)",2026-02-11T13:22:51Z,12,636,camperbot,freeCodeCamp,freeCodeCamp
+e37faff9e6722af66c15f275509e0bf38f3e9b92,feat(learn): add catalog (#65596),2026-02-11T12:04:30Z,132,5595,ahmaxed,freeCodeCamp,freeCodeCamp
+0ed5f0d7f1149698de6bf67739e11652a3f0359b,fix(curriculum): improve lightbox display tests and allow vw/vh units…,2026-02-11T09:30:40Z,1,32,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+9b5a7f064dc75acf89426f08444d897b114e713e,"chore(i18n,learn): update i18n-curriculum submodule (#65814)",2026-02-11T05:16:18Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 d8dbe19a64706f2e3f82b5ba0f132245125a29d6,feat(curriculum): update Spanish character assets (#65813),2026-02-10T23:13:27Z,1,12,estefaniacn,freeCodeCamp,freeCodeCamp
 c409063e03dd6a8d91c961c2208b2dfe06fda438,Feat(Curriculum): Add 6 new Spanish Characters  (#65812),2026-02-10T20:38:53Z,1,60,nieldakarla,freeCodeCamp,freeCodeCamp
 ac655eaae79aaba41949c7c1fc86a6d008f02346,fix(client): update css selector for soundbar styling (#65808),2026-02-10T18:45:25Z,1,9,AdityaSingh-18,freeCodeCamp,freeCodeCamp
@@ -934,15 +955,3 @@ e43155908114d8e1875f894c1cd029e558a22bc5,fix(curriculum): Add missing space in e
 e7a35e14f550670240f1cf47fd4569019264e1b9,fix(curriculum): correct typo in es-a1-learn-consonants-and-special-c…,2025-11-12T08:00:24Z,1,2,ThisIsMubashir,freeCodeCamp,freeCodeCamp
 069ccd361b215e6f33fe5c58db4a99528405c88e,feat(curriculum): add interactive examples to regex modifiers lesson …,2025-11-12T07:50:58Z,1,52,Almee98,freeCodeCamp,freeCodeCamp
 89884f4de26534c057d0cb0dfb63dec7deccd4ec,fix: removed punctuation from screen reader lesson (#63764),2025-11-12T07:28:09Z,1,32,alofty645,freeCodeCamp,freeCodeCamp
-3dc5cb6f43e232054ebf4ab2f94e5499daabfbff,feat(curriculum): add new Spanish numbers audio from the CDN (#63760),2025-11-11T22:44:35Z,1,1,estefaniacn,freeCodeCamp,freeCodeCamp
-3d7dea735baa070c3e36af7c87d2c8e1eb849c74,fix(curriculum): remove async wrapper around lab-weather-app tests (#…,2025-11-11T19:23:05Z,1,70,pdtrang,freeCodeCamp,freeCodeCamp
-25b1397d665f74dd56598e03e3e3c7b4a96010c8,fix(curriculum): improve step 3 description and add example in build-…,2025-11-11T19:18:46Z,1,15,ketanpatil29,freeCodeCamp,freeCodeCamp
-e9e5347ccca67efda03ccb83701f3e052a0b3002,fix(client): remove unused test label in components preview (#63745),2025-11-11T19:13:18Z,1,5,pdtrang,freeCodeCamp,freeCodeCamp
-92bafa49c7686172b11eae1699b076dc7d9f849b,fix(client): improve FormFields type safety and accessibility (#62849),2025-11-11T19:12:25Z,1,13,shawukie4them,freeCodeCamp,freeCodeCamp
-52a942fae9abd5b8f575d4c441a59e5daf92d72d,fix(client): same font size for equivalent superblock headers (#63722),2025-11-11T17:16:09Z,1,1,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-2ac117f186140786e4bc18aa072b21ff548a92da,fix: add code examples to semantic HTML review page (#63723),2025-11-11T16:39:11Z,1,245,dimssu,freeCodeCamp,freeCodeCamp
-ff881eea27a696a80956ebe45bcb36af34e31cfa,feat: add interactive examples for e.preventDefault lesson (#63733),2025-11-11T16:29:30Z,1,196,farchettiensis,freeCodeCamp,freeCodeCamp
-666108c9a58a2e50ed963e8d3611c68e1f14d8fc,fix(curriculum): Update good structural hierarchy lesson (#63706),2025-11-11T16:14:57Z,1,28,pdtrang,freeCodeCamp,freeCodeCamp
-bbfcf91fdb7c85f07d1ee4afaa7e2470accf60b6,"fix(curriculum): removes duplicated ""title"" in UTF lesson (#63731)",2025-11-11T16:01:48Z,1,2,daczarne,freeCodeCamp,freeCodeCamp
-8b4fba6c3135d72f0540f04806586647a18c6290,fix(curriculum): capitalize 'You' in Step 3 hint (#63725),2025-11-11T15:59:36Z,1,2,Chiranthdv,freeCodeCamp,freeCodeCamp
-ee911d7eac41bf26204afc8f5c8a742a987c7695,refactor: simplify sourcing of challenge nodes into gatsby (#63697),2025-11-11T08:34:24Z,18,8309,ojeytonwilliams,freeCodeCamp,freeCodeCamp
