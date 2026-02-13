@@ -1,4 +1,20 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+67eff731c26ed957c59165290f767dc36dbfb7d7,fix(curriculum): implement A1 Spanish numbers 30 to 100 review sugges…,2026-02-12T16:50:31Z,11,42,estefaniacn,freeCodeCamp,freeCodeCamp
+c7d54338531f3c4f82d38a532aeaf20131e95e54,fix(curriculum): remove implicit precedence requirement from lab test…,2026-02-12T16:00:43Z,1,3,majestic-owl448,freeCodeCamp,freeCodeCamp
+0682169e46e30b12b2fa1ef5478bd368f8b336b6,fix(curriculum): allow spaces to join list in workshop shopping list …,2026-02-12T15:27:50Z,1,8,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+48e0f760a0ecbadbcfd3fb4b8b22cd59224a3c9f,fix(curriculum): remove double punctuation marks at the end of senten…,2026-02-12T15:16:45Z,58,178,farchettiensis,freeCodeCamp,freeCodeCamp
+7f27d8e005f16cb3fac853b95cd22a2ec138b3dd,fix(curriculum): enforce heroName and realName initial state value in…,2026-02-12T13:15:25Z,1,4,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+9b7a08bafbb833b01cff089e69d9c5839b92913d,fix(curriculum): update test to assert valid year value lab leap year…,2026-02-12T12:45:29Z,1,3,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+3caf686de62709ae8b91cbe16a4fbee981bc5c48,fix(learn): make explicit where the button is (#65557),2026-02-12T12:22:22Z,1,4,majestic-owl448,freeCodeCamp,freeCodeCamp
+860716427729674a23a44a3ec9402e32defc8676,fix(client): use new sorting syntax for graphql in gatsby-node.js (#6…,2026-02-12T11:35:46Z,1,12,Sembauke,freeCodeCamp,freeCodeCamp
+906344f5671331824ed5901bd3fd487a3826c487,fix(curriculum): remove step-style dashedName from N-Queens lab (#65750),2026-02-12T11:28:29Z,1,2,SilentDeath53,freeCodeCamp,freeCodeCamp
+fe9d40a70bfe3b9674e48c2bbac4b7360efe3148,fix(curriculum): enforce powerSource initial state value in step 3 (#…,2026-02-12T11:06:52Z,1,2,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+35db9055a6d640e75fac21a82381bac13b61ef0f,fix(curriculum): add audioData to challenge schema (#65854),2026-02-12T10:39:01Z,1,15,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+fa731e394b9c954bd9fedb22dd7c556f26a622d6,fix(curriculum): correct hint and tests to target button inside third…,2026-02-12T10:09:21Z,1,14,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+b1f3aa5c324811cc62291caca0e4ce7b1cca2b42,fix(curriculum): replace ambiguous regex in HTML structure tests (#65…,2026-02-12T08:17:01Z,2,4,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+1108d25883ed81342d48a2f864cb6ff59126800e,"feat(client,challenge-parser): support audio and transcript in quiz q…",2026-02-12T07:52:49Z,20,776,huyenltnguyen,freeCodeCamp,freeCodeCamp
+5202f95af495d1a9d02520715393c7c154dbfaad,fix(ci): test upcoming changes (#65838),2026-02-12T03:15:22Z,1,3,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+f201212332219567e2fa13a7fccddde1077c8451,fix(curriculum): typos in cafe menu project (#65817),2026-02-12T03:15:01Z,2,4,scissorsneedfoodtoo,freeCodeCamp,freeCodeCamp
 c27964de84f0b463b05fc35bf9703de0ae771153,feat(curriculum): EN-A2 quiz for block 27 (#65830),2026-02-11T21:23:43Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
 8826ef667b822cd39e98e24360f31bf6fff56c23,feat(curriculum): EN-A2 quiz for block 26 (#65821),2026-02-11T21:01:59Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
 960eab3333be4616919aa7978950366a3a19c0d3,feat(curriculum): EN-A2 quiz for block 25 (#65807),2026-02-11T20:55:13Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
@@ -939,19 +955,3 @@ ff05967043a384ef9e36ee210c436524baab502f,feat(curriculum): add interactive examp
 e1af98e5d97f29d12c0a2daa8a1a32a7a6877ca3,fix(curriculum): remove product column in 2NF lesson (#63786),2025-11-13T09:06:52Z,1,8,pdtrang,freeCodeCamp,freeCodeCamp
 958fb2b1553bea20120f1aa6061b776d49638808,feat(curriculum): Add interactive examples to aria roles lesson (#63790),2025-11-13T08:42:30Z,1,349,KarthikPaka,freeCodeCamp,freeCodeCamp
 dfe7279d83e789448816efc15c072ca3e8e20170,fix: missing redirects for fsd cert main page (#63793),2025-11-13T08:30:16Z,1,4,jdwilkin4,freeCodeCamp,freeCodeCamp
-bebd570a22098b381b0b35c76c729de5e1e838cc,fix(curriculum): add punctuation to accessibility auditing tools comp…,2025-11-13T00:08:34Z,1,8,krishna-medapati,freeCodeCamp,freeCodeCamp
-d1be12b869af227f76e57b0a261dabdbee663857,fix: hot reloading lessons (#63781),2025-11-12T23:44:35Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-7f8bf854e847cc21d29a9a7220f57275fa0b8674,fix(client): increase touch target size for super block accordion gri…,2025-11-12T22:23:13Z,1,7,pdtrang,freeCodeCamp,freeCodeCamp
-298085932cf6d0f3305a70feaa0e2a106f83a22c,fix(curriculum): fix some typos/grammar in lessons (#63784),2025-11-12T20:51:30Z,15,32,pdtrang,freeCodeCamp,freeCodeCamp
-60c55628ba94b71595681d853a16c0c6b6060d3d,"chore(i18n,client): processed translations (#63771)",2025-11-12T20:28:53Z,10,530,camperbot,freeCodeCamp,freeCodeCamp
-8ec4053a05df19a3229ddf74bdd997f4d7d98bf6,"feat(client/curriculum): release new superblocks, certs coming soon (…",2025-11-12T18:50:49Z,25,621,moT01,freeCodeCamp,freeCodeCamp
-4352a5b62891c6533ea576c0efbc9823bc549a5a,fix(curriculum): remove boilerplate steps 1-4 in cat blog page (#63717),2025-11-12T18:45:09Z,24,431,pdtrang,freeCodeCamp,freeCodeCamp
-28db49e684adf52a1f72fe5e0933b722c743c882,fix(curriculum): remove boilerplate steps 1-2 from final exams table …,2025-11-12T18:43:20Z,13,289,pdtrang,freeCodeCamp,freeCodeCamp
-628484c5dbaca4ed94982e917c7359b295287efb,fix(curriculum): remove boilerplate steps 1-3 from hotel feedback for…,2025-11-12T18:41:38Z,37,525,pdtrang,freeCodeCamp,freeCodeCamp
-e43155908114d8e1875f894c1cd029e558a22bc5,fix(curriculum): Add missing space in expected test result (#63770),2025-11-12T18:16:50Z,1,2,cherylli,freeCodeCamp,freeCodeCamp
-9e5813259e4796b6deacef6e524dde94617ac31c,fix(curriculum): capitalization error in What Is Accessibility lesson…,2025-11-12T14:20:38Z,1,6,utk-avi,freeCodeCamp,freeCodeCamp
-9d68b5a6a25a7eae576284f7824981cd26b1d358,chore(deps): update supercharge/mongodb-github-action action to v1.12…,2025-11-12T12:32:38Z,1,2,renovate[bot],freeCodeCamp,freeCodeCamp
-22d77f6b1d540e94a036ef04a561e5fa6245c2ef,chore(client): remove stray ns.json (#63762),2025-11-12T09:24:59Z,1,1,huyenltnguyen,freeCodeCamp,freeCodeCamp
-e7a35e14f550670240f1cf47fd4569019264e1b9,fix(curriculum): correct typo in es-a1-learn-consonants-and-special-c…,2025-11-12T08:00:24Z,1,2,ThisIsMubashir,freeCodeCamp,freeCodeCamp
-069ccd361b215e6f33fe5c58db4a99528405c88e,feat(curriculum): add interactive examples to regex modifiers lesson …,2025-11-12T07:50:58Z,1,52,Almee98,freeCodeCamp,freeCodeCamp
-89884f4de26534c057d0cb0dfb63dec7deccd4ec,fix: removed punctuation from screen reader lesson (#63764),2025-11-12T07:28:09Z,1,32,alofty645,freeCodeCamp,freeCodeCamp
