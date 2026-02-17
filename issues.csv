@@ -1,18 +1,22 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87rYegR,65898,mismatch in budget app,OPEN,2026-02-16T18:32:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ldeOL,65467,failing command for (possibly very small number of) codespaces users - request docs tweak,OPEN,2026-01-24T00:04:13Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87rW2EY,65896,Add comprehensive guide for local setup and running freeCodeCamp locally,OPEN,2026-02-16T16:47:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87qDQq0,65832,"Outdated information - How Can You Effectively Work With Your Keyboard, Mouse, and Other Pointing Devices?",OPEN,2026-02-11T14:01:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87q8hvb,65883,Rewrite of music player workshop,OPEN,2026-02-14T16:30:27Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87qQFNq,65847,Daily Coding Challenge Title text overlapping with completion checkmark icon and break line,OPEN,2026-02-12T06:22:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87YzE22,63944,The new coding challenge archive UI is less usable,OPEN,2025-11-18T10:10:53Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87q-Cf9,65887,Improve solution download format to ZIP project structure,OPEN,2026-02-14T19:37:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87MRi-r,62247,"Standardize use of ""Front End"" VS ""Frontend"" in /learn and cert names",OPEN,2025-09-17T17:18:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87rJ3E0,65891,Missing verb in Learn How to Manage a Conversation,OPEN,2026-02-15T23:52:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Wnckx,63633,Add a progress bar to visually track completion percentage in each certification section,OPEN,2025-11-07T14:43:32Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87YzE22,63944,The new coding challenge archive UI is less usable,OPEN,2025-11-18T10:10:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87rJJ9e,65890,JavaScript Scope,CLOSED,2026-02-15T22:19:49Z,2026-02-15T22:24:56Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87p-IVk,65820,Claim Certification on settings page.,OPEN,2026-02-11T08:41:01Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87qQFNq,65847,Daily Coding Challenge Title text overlapping with completion checkmark icon and break line,OPEN,2026-02-12T06:22:23Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87q-Cf9,65887,Improve solution download format to ZIP project structure,OPEN,2026-02-14T19:37:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87RJyTi,62747,add brief explanation for decorators in getters and setters lesson,OPEN,2025-10-13T08:30:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85xHUSK,51554,Color Coding New Content,CLOSED,2023-09-15T05:42:19Z,2026-02-15T07:38:55Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86kobjV,57818,Consider saving the code for labs,CLOSED,2024-12-29T01:19:34Z,2026-02-15T07:33:19Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87MRi-r,62247,"Standardize use of ""Front End"" VS ""Frontend"" in /learn and cert names",OPEN,2025-09-17T17:18:33Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87mCQ5S,65521,Challenge 170: Odd or Even Day Test 3 issue,CLOSED,2026-01-27T08:09:49Z,2026-02-14T18:38:02Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87q8hvb,65883,Rewrite of music player workshop,OPEN,2026-02-14T16:30:27Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87q4zVX,65880,Unclear Instruction for Python Selection Sort Lab,OPEN,2026-02-14T08:10:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87TQDmD,62968,[discussion] move more curriculum into growthbook,OPEN,2025-10-23T11:03:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87NcA7Z,62335,Allow code blocks in test text,OPEN,2025-09-23T21:10:59Z,,,freeCodeCamp,freeCodeCamp
@@ -54,7 +58,6 @@ I_kwDOAbI7X87nNZoq,65621,Incorrect code passes test in Step 3 Build a Superhero 
 I_kwDOAbI7X87qIBUM,65840,wrong element indicated in hint,CLOSED,2026-02-11T18:17:20Z,2026-02-12T10:09:22Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87QlVy4,62635,Clarify and simplify regex used to assert HTML tag order in tests,CLOSED,2025-10-09T14:31:39Z,2026-02-12T08:17:02Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lIH7P,65436,Hardcoding answers in lab-depth-first-search,CLOSED,2026-01-22T18:06:02Z,2026-02-11T17:44:46Z,its-cutie-valerie;zairahira,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87qDQq0,65832,"Outdated information - How Can You Effectively Work With Your Keyboard, Mouse, and Other Pointing Devices?",OPEN,2026-02-11T14:01:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87mdx3q,65544,Add Note on settings page about how to update profile,OPEN,2026-01-28T17:34:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jP5VV,65150,Issues with flex in Colored Boxes lab,OPEN,2026-01-14T10:36:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87p_MS9,65823,wrong element mentioned in step 9 of workshop-html-video-player,CLOSED,2026-02-11T09:53:53Z,2026-02-11T13:38:57Z,Raam751,freeCodeCamp,freeCodeCamp
@@ -167,7 +170,6 @@ I_kwDOAbI7X87jpFCl,65204,Add interactive examples for Flexbox review page,CLOSED
 I_kwDOAbI7X87k4PzC,65411,`defer` attribute does nothing,OPEN,2026-01-21T20:40:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jqAFr,65230,Add interactive examples to DOM review page,CLOSED,2026-01-15T22:21:16Z,2026-01-26T14:11:33Z,papidb,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lFC6u,65429,Build Quincy’s Job Tips Page - Step 12 numbered list,CLOSED,2026-01-22T14:52:09Z,2026-01-26T13:29:32Z,kshitiz510,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ldeOL,65467,failing command for (possibly very small number of) codespaces users - request docs tweak,OPEN,2026-01-24T00:04:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lJXdD,65438,Using recursion in Build an Nth Fibonacci Number Calculator,CLOSED,2026-01-22T19:32:23Z,2026-01-26T10:47:04Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87kZwl0,65342,[Suggestion] - Add look up information button to challenge ,OPEN,2026-01-20T04:05:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jt68v,65247,Missing bigint in list of JavaScript primitive types,OPEN,2026-01-16T05:38:36Z,,,freeCodeCamp,freeCodeCamp
@@ -790,5 +792,3 @@ I_kwDOAbI7X87SMU7z,62878,Progress Checkmarks not Visible in Dark Mode on Samsung
 I_kwDOAbI7X87YNDrj,63849,Remove HTML boilerplate steps for cafe menu workshop,CLOSED,2025-11-14T21:51:50Z,2025-11-17T09:38:22Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Ya1FB,63886,"Update sentence in What Is a String Object, and How Does It Differ from String Primitive?",CLOSED,2025-11-16T17:55:41Z,2025-11-17T07:37:36Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87YZvwO,63880,Spotted a wrong commented output on python course.,CLOSED,2025-11-16T14:23:13Z,2025-11-17T03:31:39Z,BhavikOstwal,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87YVGAA,63870,Sentence Analyzer uses regular expressions,CLOSED,2025-11-15T23:09:26Z,2025-11-16T11:47:30Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87WHH_x,63556,Add interactive examples to functional programming lesson,CLOSED,2025-11-05T17:53:57Z,2025-11-16T10:45:39Z,Paila009,freeCodeCamp,freeCodeCamp
