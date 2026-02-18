@@ -1,4 +1,18 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+6aff62439c8cb6bc60f9849ca6973b0df74ccc39,fix(learn): restore share button on workshop completion (#65289),2026-02-17T17:43:11Z,6,165,nnyouung,freeCodeCamp,freeCodeCamp
+f0a251478386493484e2ddf563088bea86899b46,fix(curriculum): update posture guidance to reflect modern ergonomics…,2026-02-17T17:41:02Z,1,4,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+b68fec83274cd25cf81b6fe2c0733a8f08cb666c,chore(deps): update dependency @types/node to v24.10.10 (#65842),2026-02-17T17:35:43Z,1,547,renovate[bot],freeCodeCamp,freeCodeCamp
+52e9bd83db3076c20e8adb33e5b88a99152eae23,chore: remove unused intro code (#65855),2026-02-17T17:22:22Z,8,268,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+3a3b5e9395af8ef6195d3b290635d76e3ff73d5e,fix(curriculum): clarify that postgres is the default database (#65924),2026-02-17T17:11:17Z,1,4,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+cabe5396f291aa18778f6128b50c3c16bc68b893,chore(deps): update API and related (#65923),2026-02-17T16:54:27Z,4,598,raisedadead,freeCodeCamp,freeCodeCamp
+f8de1e2ce858ea8a3292604445ca29f2c93dc3e2,chore: update react-monaco-editor to version 0.59.0 (#65850),2026-02-17T16:06:18Z,2,21,Sembauke,freeCodeCamp,freeCodeCamp
+050280705d390700b7564a8897c2c80570844080,"fix(learn): Standardazie frontend, backend, full-stack (#65911)",2026-02-17T15:56:33Z,206,1522,majestic-owl448,freeCodeCamp,freeCodeCamp
+9d9f0ddc121107e70ac561a19a812978d99629a4,fix(curriculum): add missing backtick formatting for Eligible in bobs…,2026-02-17T14:44:07Z,2,4,tarant28,freeCodeCamp,freeCodeCamp
+4a11c4fdf5aaee1fe7cce96af6cf2ef3e4946e61,fix:(api): send full stack email for v9 (#64751),2026-02-17T14:24:32Z,3,73,ahmaxed,freeCodeCamp,freeCodeCamp
+8e7edb9f3d471ee25ddf4fc8e9efc3c66e3e937b,fix(curriculum): correct example output in budget app lab (#65914),2026-02-17T12:27:58Z,1,2,AnanthuNarashimman,freeCodeCamp,freeCodeCamp
+95075822fb5c2c2e0edffafbc8082e1d66b51985,fix(curriculum): clarify selection sort lab swap requirement (#65885),2026-02-17T12:16:56Z,1,5,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+a372fb6a1ad08c5c01b49673a43f14c50b4606a6,"chore(i18n,client): processed translations (#65895)",2026-02-17T12:15:32Z,20,12758,camperbot,freeCodeCamp,freeCodeCamp
+d1df11fe1e5093cc083064c8f0ed74c91aae7a95,feat(curriculum): add quicksort lab to jsv9 (#65866),2026-02-17T07:49:33Z,4,127,majestic-owl448,freeCodeCamp,freeCodeCamp
 c11b4dd4d24ab1b69006ec6860bb7ec7eaa7915d,fix(curriculum): catch lessons without challenge files (#65871),2026-02-14T18:42:35Z,1,7,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 ff277a82dcb46293396c249655f4f4f10e9f0572,fix(curriculum): add UTC clarification note to odd or even day challe…,2026-02-14T18:38:01Z,2,4,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 6affb2b19c70fb7e5456d44dbf78bb2a10702516,fix: gatsby develop (#65877),2026-02-14T02:06:40Z,2,284,ojeytonwilliams,freeCodeCamp,freeCodeCamp
@@ -918,22 +932,3 @@ a605462f6fda63ac84029332d5dd93ee2d6e3003,fix: handle NaN percentage completion f
 73f74045ca55e948956eeff1dafdbd6435253b01,fix(curriculum): adjust sentence in steps 2-14 in workshop-mathbot (#…,2025-11-18T07:56:59Z,13,32,farchettiensis,freeCodeCamp,freeCodeCamp
 9339da9283a7a57edf024a23574825d1f184906e,"chore(i18n,client): processed translations (#63911)",2025-11-18T07:53:04Z,20,540,camperbot,freeCodeCamp,freeCodeCamp
 f764b4249503df3045d9bc3cc7be9fee7512de3b,chore(deps): update github actions (#63915),2025-11-18T05:08:10Z,12,44,renovate[bot],freeCodeCamp,freeCodeCamp
-b9f47f8c9dad992f2d8d74e1753270393c2592db,fix(curriculum): remove backticks around console (#63927),2025-11-18T00:53:49Z,1,4,ssam18,freeCodeCamp,freeCodeCamp
-30e76f9bc3ecf74ff2d6626bddeed9a81732c062,feat(curriculum): add interactive examples to JS Date object lesson (…,2025-11-18T00:45:12Z,1,34,nancytwwongutoronto,freeCodeCamp,freeCodeCamp
-bc46ae9bbf267641160e62b1156fbd5397b9333f,test(client): add tests to build transcript function (#63822),2025-11-18T00:22:45Z,4,241,farchettiensis,freeCodeCamp,freeCodeCamp
-36be0f75bf63bfa5e826e9e94791a4ffe0f010c6,fix(tools): inccorect quiz challenge location when running create-new…,2025-11-18T00:21:27Z,1,9,pdtrang,freeCodeCamp,freeCodeCamp
-c91913fbef3d1a22f5e67b2b68b6c4cde49c14ff,fix(curriculum): fixed fill-in-the-blank sentence to match dialogue (…,2025-11-17T21:49:40Z,1,2,jbiersdo,freeCodeCamp,freeCodeCamp
-93ceb61b7c0985c6ea077bf40e4cd61695c32b2e,feat(curriculum): add interactive examples to common aria states less…,2025-11-17T21:32:57Z,1,294,Unknownmaster0,freeCodeCamp,freeCodeCamp
-3f226362f267e0ee365261a456a626eb70f72134,feat(curriculum): add numbers audio files from CDN (#63920),2025-11-17T19:42:25Z,1,3,estefaniacn,freeCodeCamp,freeCodeCamp
-3356ab7caba0838a22cd8b3207dc0661acf589ad,feat(curriculum): add new blocks and rename a couple things in Spanis…,2025-11-17T19:24:27Z,19,281,huyenltnguyen,freeCodeCamp,freeCodeCamp
-88a607ce1fc7edcf9f5c602e26cbd331258b2059,fix(curriculum): wrap method name in backticks (#63904),2025-11-17T15:59:36Z,1,2,ThalaPravin,freeCodeCamp,freeCodeCamp
-872ad4746617f0eefa60f7d1f801b614ed690603,feat(curriculum): scaffold Basic Personal Details chapter (#63888),2025-11-17T15:55:47Z,35,1311,huyenltnguyen,freeCodeCamp,freeCodeCamp
-99adb08d0b45e57415d88d65229894c5d245838f,fix(curriculum): adjust editable region indentation in workshop-libra…,2025-11-17T11:52:25Z,10,20,majestic-owl448,freeCodeCamp,freeCodeCamp
-07b9a80cabd0113abf4ac2475240edd2a13b60a8,fix(curriculum): fix incorrect apostrophe mark (#63907),2025-11-17T11:51:25Z,2,6,Giftea,freeCodeCamp,freeCodeCamp
-f64f895ab62159b41cf28fdfe43512c432f3d2c5,refactor: start using turborepo (#63734),2025-11-17T10:37:09Z,9,1699,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-0029c51a9a19fe8e802440cb908fab9ee937888a,fix(curriculum): add missing content replaceAll() in JS strings revie…,2025-11-17T09:51:48Z,1,7,pdtrang,freeCodeCamp,freeCodeCamp
-e0d21f30c998b213995726ae7054bc34b6e6c332,"feat(curriculum,schema): add Chinese and Spanish help categories to m…",2025-11-17T09:49:40Z,1,4,huyenltnguyen,freeCodeCamp,freeCodeCamp
-ca77691ed832d3b98bb2d26e32036232e6bfd18e,fix(curriculum): remove HTML boilerplate steps 1-4 for cafe menu work…,2025-11-17T09:38:21Z,94,1031,pdtrang,freeCodeCamp,freeCodeCamp
-981c6024f69b85854a0335ce71f22e15f73069f0,feat(client): add details to daily challenges calendar (#63003),2025-11-17T07:42:00Z,6,371,moT01,freeCodeCamp,freeCodeCamp
-3653717d9a4803b57ee979ec3ad0f944ff65bb73,"fix(curriculum): update sentence in What Is a String Object, and How …",2025-11-17T07:37:35Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
-33a0604c044e204851d0c526ab94749dce1fc50b,fix(curriculum): print command output for tuples lesson (#63889),2025-11-17T03:31:37Z,1,2,BhavikOstwal,freeCodeCamp,freeCodeCamp
