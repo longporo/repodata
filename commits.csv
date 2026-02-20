@@ -1,4 +1,14 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+303bdffc7ac988505633befb757aa0ddcbd625c8,fix(curriculum): refine editable region workshop bookstore page (#65965),2026-02-19T17:22:23Z,18,122,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+60ab523cb1524645c707ce8cc837aa75eb400787,fix(GHA): pin actions and concurrency (#65960),2026-02-19T16:13:18Z,4,12,raisedadead,freeCodeCamp,freeCodeCamp
+babe7c9d505420588fab2a0d5592ef76eb45aaf3,fix(curriculum): update React import/export lesson to cover default a…,2026-02-19T16:10:04Z,2,133,StephenMuya,freeCodeCamp,freeCodeCamp
+eab9cd388c159b9f6587d185da82e050f9bbb7e0,fix(GHA): use Docker Buildx and GHA caching (#65962),2026-02-19T15:42:26Z,1,26,raisedadead,freeCodeCamp,freeCodeCamp
+de0a28518f532ccc4541ea37fef667e12e730b76,fix(curriculum): add rounding errors explanation to float lesson (#65…,2026-02-19T15:12:51Z,1,6,Dario-DC,freeCodeCamp,freeCodeCamp
+1a4708773dedb0c3b18d6f15fd6a3a71b130e67e,feat(curriculum): remove Chinese superblocks from notAuditedSuperbloc…,2026-02-19T12:26:57Z,1,46,DanielRosa74,freeCodeCamp,freeCodeCamp
+c0e17a9d512df48266424db4643f94096663373a,fix(curriculum): correct wording in explanation section (#65938),2026-02-19T09:00:33Z,1,2,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+990b64d229012da214d02fe749a9299139484cc1,refactor: use pre-built curriculum when starting client (#65878),2026-02-19T07:55:33Z,10,73,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+052416e5bf64fae15dd7f44b6860d39cdf942161,"chore(i18n,learn): update i18n-curriculum submodule (#65954)",2026-02-19T04:50:13Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+e51eca6d188e26fc5538ad4525e4e9a6a51905d5,fix(client): redirect /challenges/** correctly (#65947),2026-02-19T03:47:40Z,3,11,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 10d160b36019e1776966be11cdb5627b911d4d32,fix(client): daily-coding-challenge routing (#65942),2026-02-18T20:09:30Z,3,46,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 497431072927c41602a4661b223f57ca97147ffe,fix(curriculum): Controlled element isn’t hidden by default when aria…,2026-02-18T18:21:59Z,1,2,CaliYost,freeCodeCamp,freeCodeCamp
 eb5fe07b67a98df1743f15d6dd83071f859528f5,fix(curriculum): remove duplicated 'represented' in Python certificat…,2026-02-18T18:11:31Z,1,2,shubham-t-rai,freeCodeCamp,freeCodeCamp
@@ -914,18 +924,3 @@ ec0c34eb401653ab864031fbbe54b8ead6e06e17,docs(README): remove legacy certs and l
 6e17ea7e60e35600e44ac425322b8e2dea1eb730,fix(curriculum): add missing selector variations for tests 48 and 49 …,2025-11-20T08:04:58Z,1,4,DeveloperViraj,freeCodeCamp,freeCodeCamp
 a556ec7c1d18847fd03f828efd8cc635ad8a6cc6,fix(curriculum): fix format zh-a1-warm-up-meeting-new-teammates  task…,2025-11-20T03:54:13Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
 f750cb2ad1c7daf75c062df1fa423ed869f9e330,fix(client): remove completion message from pop up modal for certific…,2025-11-20T02:48:32Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
-02928e10cb2b0cdcbf43354a3e98b7cb437d2207,fix(client): fetch non-prod exam links on deploymentEnv (#63978),2025-11-19T19:55:54Z,1,83,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-0367c2ddb152f5ede1575cbc1d92134c35de2957,fix(client): put token widget behind email check (#63910),2025-11-19T19:48:09Z,5,66,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-9157a25ef443fa9367b3fb0e75be1381594474bc,feat(curriculum): add images to color theory lesson (#63975),2025-11-19T17:42:36Z,1,34,majestic-owl448,freeCodeCamp,freeCodeCamp
-aee389803f93c8b615bf5def627b1892413da9eb,fix(curriculum): remove periods from answers in audio/video apis chal…,2025-11-19T16:35:42Z,1,8,FerSuaiden,freeCodeCamp,freeCodeCamp
-971134863d29031bc01b8218c2000416b4060547,fix(client): retry failed rtk queries (#63976),2025-11-19T16:30:34Z,1,40,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-e1cf5c265048616395f2a8bf4dcafe9c63b8121f,fix(curriculum): Allow use of semicolons in iframe lecture (#62670),2025-11-19T16:03:09Z,3,20,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
-a2c81caae6b89a6c6430a9b6691abb495090648a,"fix(curriculum, tools): remove duplicated words (#63981)",2025-11-19T15:49:58Z,12,26,gikf,freeCodeCamp,freeCodeCamp
-cce4f57022c13c7c58dcc80901ed587627214933,fix(curriculum): clarify RangeError example in debugging lecture (#63…,2025-11-19T14:13:22Z,1,6,saimanoharigodavarty,freeCodeCamp,freeCodeCamp
-014882c92d820e8643e73aed96a5c497117ddd96,"chore(i18n,client): processed translations (#63977)",2025-11-19T14:11:06Z,10,810,camperbot,freeCodeCamp,freeCodeCamp
-a728840a007a79ccd21904158c496a2ef4b903a4,refactor: workshop game settings panel step order (#63884),2025-11-19T13:52:44Z,3,169,farchettiensis,freeCodeCamp,freeCodeCamp
-a202702795b0f38fd0f13ad9d3ada92d85659001,"fix(curriculum): Fixed the repetition of ""other"" (#63972)",2025-11-19T11:27:35Z,1,2,Bhupi1306,freeCodeCamp,freeCodeCamp
-960fd9e072d4d5011138252e934e2414e28d9cc2,refactor: split curriculum build in two (#63639),2025-11-19T11:00:32Z,20,227,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-1212c7872733264d5df7bf02b52111f6088f59b3,fix(curriculum): move nested div explanation to step 5 (#63932),2025-11-19T07:44:15Z,2,4,ssam18,freeCodeCamp,freeCodeCamp
-77a13bb5b2c28219deaa8e49b8caa91d0f1c769e,fix(curriculum): update feedback for second and third questions in fo…,2025-11-19T07:43:04Z,1,12,pdtrang,freeCodeCamp,freeCodeCamp
-17ea34e0845f415ed5f1b394a543fcabba240e87,fix(curriculum): trim spaces in Build a Storytelling App (#63951),2025-11-19T07:30:37Z,2,20,pdtrang,freeCodeCamp,freeCodeCamp
