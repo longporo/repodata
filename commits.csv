@@ -1,4 +1,12 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+c397879ce2f311317fc4c2e43e54bb35395532ab,feat(curriculum): add insertion sort lab to jsv9 (#65872),2026-02-20T23:11:11Z,4,114,majestic-owl448,freeCodeCamp,freeCodeCamp
+5177bce6266ca9b0cad84cdd2a09281340458912,feat(curriculum): expand and reorganize initial typescript lessons (#…,2026-02-20T23:04:12Z,12,1753,jdwilkin4,freeCodeCamp,freeCodeCamp
+120c5aa583d3a3afe94a220344ec54adc46e9d22,fix(curriculum): remove hidden tests in N queens lab (#65949),2026-02-20T17:54:36Z,1,15,Dario-DC,freeCodeCamp,freeCodeCamp
+eabfb7fcf9eddb019a65d62157bd936c2980e67e,fix(curriculum): update step 6 instruction in workshop shopping list …,2026-02-20T17:40:24Z,6,12,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+59abe4c35d4f868a87cd18c9423037d8128e8f0b,fix(client): sidebar font & profile placeholders (#65974),2026-02-20T16:52:18Z,2,28,raisedadead,freeCodeCamp,freeCodeCamp
+e0209396828be0ae838161e493f9be9b0a59a775,feat(curriculum): daily challenges 197-212 (#65864),2026-02-20T15:34:38Z,37,3140,moT01,freeCodeCamp,freeCodeCamp
+941e965e8bb6d56a65b0217bf3c19e9ce28d3202,fix(GHA): cleanup trap in API deploy (#65959),2026-02-20T03:56:23Z,1,1,raisedadead,freeCodeCamp,freeCodeCamp
+43ba11550620a4009f82ba260e5194afc5d9a0a8,fix(tooling): stop api crashing during seed (#65969),2026-02-20T03:56:04Z,1,8,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 303bdffc7ac988505633befb757aa0ddcbd625c8,fix(curriculum): refine editable region workshop bookstore page (#65965),2026-02-19T17:22:23Z,18,122,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 60ab523cb1524645c707ce8cc837aa75eb400787,fix(GHA): pin actions and concurrency (#65960),2026-02-19T16:13:18Z,4,12,raisedadead,freeCodeCamp,freeCodeCamp
 babe7c9d505420588fab2a0d5592ef76eb45aaf3,fix(curriculum): update React import/export lesson to cover default a…,2026-02-19T16:10:04Z,2,133,StephenMuya,freeCodeCamp,freeCodeCamp
@@ -902,25 +910,3 @@ dc8b75ba3f0819855ad1857302b279b12e26332d,fix(curriculum): updated callback funct
 35f3f4bd5bfd5affee6c483f1f7472ae3d947dc7,fix(curriculum): add internal links using href and id to review pages…,2025-11-21T08:38:55Z,2,12,vardhu032,freeCodeCamp,freeCodeCamp
 8a9035a774466cbcb45b7b60bc96f8b18bfe4269,fix(curriculum): expand on null in javascript comparisons and conditi…,2025-11-21T08:27:57Z,2,42,l3onhard,freeCodeCamp,freeCodeCamp
 edbdc415e239bfdf857d0cf073b54a831321142b,fix(curriculum): clarify HSLA alpha can be a percentage in HSL lesson…,2025-11-21T08:13:34Z,1,2,BakshiSuhas,freeCodeCamp,freeCodeCamp
-8eda3b3a1967b000000c84abf88ba7133ef715e1,fix(curriculum): add `inputType` to frontmatter of zh-a1 fill-in-the-…,2025-11-21T02:19:56Z,6,6,pdtrang,freeCodeCamp,freeCodeCamp
-45bd3c7a5a90b1f216a16b82948dba620b47259c,feat(curriculum): daily challenges 110-119 (#63852),2025-11-21T01:59:29Z,23,1799,moT01,freeCodeCamp,freeCodeCamp
-7eddc11733799a80ab86006d9f1920dda15d48b3,fix(client): typo in FSD v9 note (#64017),2025-11-21T01:57:16Z,1,2,huyenltnguyen,freeCodeCamp,freeCodeCamp
-563992ad5fb1ccd57d83f82946056c5872bf98c5,fix(curriculum): correct console.log numbering in build a calculator …,2025-11-20T23:15:57Z,1,4,fortii2,freeCodeCamp,freeCodeCamp
-f5befd012075545bbbd5de833a043f0ff88e8fdd,fix(curriculum): fix minor typos/grammar in es-a1 (#64019),2025-11-20T23:08:14Z,4,10,pdtrang,freeCodeCamp,freeCodeCamp
-aa45127e49b4a8058672593e0d1872a3a9f9d2de,feat(curriculum): Add Basic Personal Details audios from CDN (#64020),2025-11-20T22:56:18Z,1,7,estefaniacn,freeCodeCamp,freeCodeCamp
-da77b2249560e5881636e48cba06748865eccae3,refactor(client): refactor fill-in-the-blank input change handler (#6…,2025-11-20T22:24:23Z,2,13,pdtrang,freeCodeCamp,freeCodeCamp
-cf250739bf343ebd3dd87a2dbe7aeb3a3a9cd3e3,fix(curriculum): update examples for inline-block lesson (#63853),2025-11-20T20:37:16Z,1,8,an3dree,freeCodeCamp,freeCodeCamp
-7fd3fc2f4ea7960b0cf02cb637de2b4af0b2feb9,feat(curriculum): Add A1 Spanish Module First Questions (#63672),2025-11-20T20:26:39Z,84,8359,estefaniacn,freeCodeCamp,freeCodeCamp
-f90905fbfe1f8a6ae2a968dffaef55a536382bd8,fix(curriculum): improve getResults test to prevent TypeError in lab-…,2025-11-20T19:26:07Z,1,13,bengguankoay,freeCodeCamp,freeCodeCamp
-719c93c7db045843e8623375442161091804396c,fix(curriculum): fixes typo (#64000),2025-11-20T18:12:45Z,1,2,laurascotelari,freeCodeCamp,freeCodeCamp
-bb6de25eb6388de754f4c0cc43624e6e13d8d20d,feat(curriculum): add interactive examples to IndexedDB lesson (#63992),2025-11-20T17:23:25Z,1,8,ulquix,freeCodeCamp,freeCodeCamp
-03b4a861272fcb0212db0ac60f4b4a993b422e76,feat(client): add start/continue superblock buttons (#63495),2025-11-20T16:59:26Z,5,670,ahmaxed,freeCodeCamp,freeCodeCamp
-14fc33950204d1a4355a2b21a11cd4b7ed0c8a65,feat(curriculum): Add Spanish characters to assets (#64001),2025-11-20T16:54:43Z,2,63,DanielRosa74,freeCodeCamp,freeCodeCamp
-cf4290894c184e7b4118c627beede243044a6df6,feat(curriculum): Add Chinese Chapter 1 audio from the CDN (#63999),2025-11-20T14:51:22Z,1,3,miyaliu666,freeCodeCamp,freeCodeCamp
-9c6001169fbb8063a9c42884189eca1aff1796b4,feat(curriculum): Add new characters to Chinese curriculum (#63998),2025-11-20T13:41:01Z,2,52,DanielRosa74,freeCodeCamp,freeCodeCamp
-97d812bd5da0da795ab8cd84aa12d4c99046120f,feat(curriculum): add logic checker workshop (#63666),2025-11-20T11:02:47Z,17,637,Dario-DC,freeCodeCamp,freeCodeCamp
-68156f8f000bc97cd6e5bc4e0495e82a116f83e5,feat(client): module based progress (#63966),2025-11-20T09:52:43Z,2,11,arorakanav,freeCodeCamp,freeCodeCamp
-ec0c34eb401653ab864031fbbe54b8ead6e06e17,docs(README): remove legacy certs and links (#63987),2025-11-20T08:24:12Z,1,194,raisedadead,freeCodeCamp,freeCodeCamp
-6e17ea7e60e35600e44ac425322b8e2dea1eb730,fix(curriculum): add missing selector variations for tests 48 and 49 …,2025-11-20T08:04:58Z,1,4,DeveloperViraj,freeCodeCamp,freeCodeCamp
-a556ec7c1d18847fd03f828efd8cc635ad8a6cc6,fix(curriculum): fix format zh-a1-warm-up-meeting-new-teammates  task…,2025-11-20T03:54:13Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
-f750cb2ad1c7daf75c062df1fa423ed869f9e330,fix(client): remove completion message from pop up modal for certific…,2025-11-20T02:48:32Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
