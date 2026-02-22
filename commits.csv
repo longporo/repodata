@@ -1,4 +1,10 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+7305969701c73d34ce068a582503f99781b93de9,chore(deps): cleanup postinstall stuff (#65989),2026-02-21T12:40:03Z,1,7,raisedadead,freeCodeCamp,freeCodeCamp
+7a7cccc8632c9c9235c8cb7222c37eef9a260903,chore(tools/challenge-helper-scripts): migrate tests to Vitest v4 (#6…,2026-02-21T05:43:19Z,3,18,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+81748f8241baaffef0cc476402ac103f4af01770,chore(tools/challenge-parser): migrate tests to Vitest v4 (#65961),2026-02-21T05:42:51Z,2,6,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+ed873a69ac65935b389dfebb8a652e0375711893,chore(shared): migrate to Vitest v4 (#65958),2026-02-21T05:42:31Z,2,12,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+eb44f8b43c049af5e13f67ce17e8ed09f126cebf,chore(api): migrate tests to Vitest v4 (#65950),2026-02-21T03:13:50Z,9,282,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+b249098466d1625cf13a91dabf08cf6828c68828,"fix(learn): standardize use of front-end, full-stack, back-end (#65976)",2026-02-21T03:08:16Z,260,1573,majestic-owl448,freeCodeCamp,freeCodeCamp
 c397879ce2f311317fc4c2e43e54bb35395532ab,feat(curriculum): add insertion sort lab to jsv9 (#65872),2026-02-20T23:11:11Z,4,114,majestic-owl448,freeCodeCamp,freeCodeCamp
 5177bce6266ca9b0cad84cdd2a09281340458912,feat(curriculum): expand and reorganize initial typescript lessons (#…,2026-02-20T23:04:12Z,12,1753,jdwilkin4,freeCodeCamp,freeCodeCamp
 120c5aa583d3a3afe94a220344ec54adc46e9d22,fix(curriculum): remove hidden tests in N queens lab (#65949),2026-02-20T17:54:36Z,1,15,Dario-DC,freeCodeCamp,freeCodeCamp
@@ -901,12 +907,3 @@ aa3656b74b9e8231fef83dd6da4f37c1c233199a,fix(curriculum): reword the opening sta
 5a9b36790e45f6f3caa99428a64d209a19af6494,fix(curriculum): updated the optional chaining questions (#63971),2025-11-22T17:32:12Z,1,89,Unknownmaster0,freeCodeCamp,freeCodeCamp
 5c28fbffa82ad7d3b5f53c49f5608d81463d1770,fix: update lint-staged config to format markdown files correctly (#6…,2025-11-22T11:48:07Z,3,15,huyenltnguyen,freeCodeCamp,freeCodeCamp
 fa92f0eeeb418de0460d7c6e829fd545ee4bd3d1,fix(curriculum): fix typos/grammar in lessons (#64051),2025-11-22T10:57:57Z,19,71,pdtrang,freeCodeCamp,freeCodeCamp
-b85cbc0fdf2f42f463b45f51923eb84c4b3d513e,fix(curriculum): typo in Safe Ways to Sign Into Your Computer lesson …,2025-11-21T21:35:31Z,1,2,leputz,freeCodeCamp,freeCodeCamp
-c3f4ffd2e57c49135cdcbf5bc1436436de956c21,feat(curriculum): release rwd and js exams and certs (#63783),2025-11-21T14:57:50Z,7,40,moT01,freeCodeCamp,freeCodeCamp
-1e0805fd72a4f7ca780664515ea0b4213d15de78,refactor: one eslint task per workspace (#63835),2025-11-21T13:51:46Z,74,4082,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-c9e83c5c6a7793abb388c9b7ff33a4a98342c094,fix(curriculum): Corrected blockLayout of Certification Introduction …,2025-11-21T13:36:33Z,1,2,SkvProgrammer,freeCodeCamp,freeCodeCamp
-c5676e3145c62bbb000d47984fff95de019f8f1c,fix(auth): redirect users signing in from landing page to /learn (#63…,2025-11-21T11:03:55Z,2,24,Jamesren64,freeCodeCamp,freeCodeCamp
-dc8b75ba3f0819855ad1857302b279b12e26332d,fix(curriculum): updated callback function definition and comprehensi…,2025-11-21T09:03:26Z,1,4,shokuyansh,freeCodeCamp,freeCodeCamp
-35f3f4bd5bfd5affee6c483f1f7472ae3d947dc7,fix(curriculum): add internal links using href and id to review pages…,2025-11-21T08:38:55Z,2,12,vardhu032,freeCodeCamp,freeCodeCamp
-8a9035a774466cbcb45b7b60bc96f8b18bfe4269,fix(curriculum): expand on null in javascript comparisons and conditi…,2025-11-21T08:27:57Z,2,42,l3onhard,freeCodeCamp,freeCodeCamp
-edbdc415e239bfdf857d0cf073b54a831321142b,fix(curriculum): clarify HSLA alpha can be a percentage in HSL lesson…,2025-11-21T08:13:34Z,1,2,BakshiSuhas,freeCodeCamp,freeCodeCamp
