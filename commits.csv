@@ -1,4 +1,5 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+deeb998a89d01301c61a887096513fd528698a77,fix(curriculum): clarifying absolute path vs absolute url (#65081),2026-02-22T09:12:24Z,1,42,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 7305969701c73d34ce068a582503f99781b93de9,chore(deps): cleanup postinstall stuff (#65989),2026-02-21T12:40:03Z,1,7,raisedadead,freeCodeCamp,freeCodeCamp
 7a7cccc8632c9c9235c8cb7222c37eef9a260903,chore(tools/challenge-helper-scripts): migrate tests to Vitest v4 (#6…,2026-02-21T05:43:19Z,3,18,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 81748f8241baaffef0cc476402ac103f4af01770,chore(tools/challenge-parser): migrate tests to Vitest v4 (#65961),2026-02-21T05:42:51Z,2,6,Jeevankumar-s,freeCodeCamp,freeCodeCamp
@@ -903,7 +904,3 @@ b72a3982e543faef4cf4bb64213a03a66f944d55,fix(curriculum): correct hint formattin
 2f7772b716c168f13d5f68d8976f6a47b51793e3,feat(curriculum): add interactive examples to Proper Heading Level St…,2025-11-23T15:06:53Z,1,32,abhirammanikantareddymallidi,freeCodeCamp,freeCodeCamp
 6df2f92de458cad6750ebdcbedf28ddb7f01feee,feat(curriculum): add interactive examples to currying lesson (#64074),2025-11-23T10:21:00Z,1,28,manuuuskp,freeCodeCamp,freeCodeCamp
 62cb14d509c66c032abb13399419e64803594266,fix(curriculam): minor grammatical error in python installation instr…,2025-11-23T09:12:33Z,1,2,ramprasad-13,freeCodeCamp,freeCodeCamp
-aa3656b74b9e8231fef83dd6da4f37c1c233199a,fix(curriculum): reword the opening statement of method chaining (#64…,2025-11-22T18:58:56Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
-5a9b36790e45f6f3caa99428a64d209a19af6494,fix(curriculum): updated the optional chaining questions (#63971),2025-11-22T17:32:12Z,1,89,Unknownmaster0,freeCodeCamp,freeCodeCamp
-5c28fbffa82ad7d3b5f53c49f5608d81463d1770,fix: update lint-staged config to format markdown files correctly (#6…,2025-11-22T11:48:07Z,3,15,huyenltnguyen,freeCodeCamp,freeCodeCamp
-fa92f0eeeb418de0460d7c6e829fd545ee4bd3d1,fix(curriculum): fix typos/grammar in lessons (#64051),2025-11-22T10:57:57Z,19,71,pdtrang,freeCodeCamp,freeCodeCamp
