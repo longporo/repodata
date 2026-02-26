@@ -1,4 +1,14 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+e4b3e720f2d99b0f96585e7cff2c77e79e7f64d7,feat(curriculum): add chp3 md2 sharing personal details (#64546),2026-02-25T20:56:35Z,110,11677,RafaelDavisH,freeCodeCamp,freeCodeCamp
+52e5d242a7dd6e10027668abf253fd097001ac7a,fix(curriculum): clarify sorted() is a built-in function with example…,2026-02-25T20:07:24Z,2,20,ragini-pandey,freeCodeCamp,freeCodeCamp
+ef8bc8a225e8e0c5492b1af9475283810c6a6f65,refactor: create middleware for each redux store (#66060),2026-02-25T17:31:22Z,1,29,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+67d26dd1d94d0b6b5a97115da471eb551582eb81,fix(curriculum): typos in lecture absolute and relative paths (#66030),2026-02-25T13:55:39Z,1,6,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+8b43b30b95f99aed9015da0cd32fb6a99143fa6e,fix(client): add message about accepting ahp (#65675),2026-02-25T11:25:33Z,2,163,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+07d3bd9a745a45dffb8fd20687abeb020704895e,fix: update copyright to be start year (#66044),2026-02-25T09:16:40Z,2,4,majestic-owl448,freeCodeCamp,freeCodeCamp
+46b300120fcd8bf237b6c60570b70bbe303772ac,fix(curriculum): clarify constant wording in workshop (#66039),2026-02-25T08:39:40Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+7d3467b26e8a45d7e4368a5f8fab3735400d5c49,fix(curriculum): return false from has() mock in plant nursery step 1…,2026-02-25T08:37:30Z,1,2,farchettiensis,freeCodeCamp,freeCodeCamp
+90caa8abfe7ec013a9e091c61cc1b069bc10d9ba,feat(curriculum): add interactive examples to Responsive Web Design r…,2026-02-25T08:31:14Z,1,106,Vipeen-Kumar,freeCodeCamp,freeCodeCamp
+5c9c7907841e2ed7be3072b0e289eba82e16511b,fix(deps): update dependency @aws-sdk/client-ses to v3.992.0 (#66041),2026-02-25T02:56:14Z,2,360,renovate[bot],freeCodeCamp,freeCodeCamp
 8ba3fbfd1ba0649bf926d0f84f68535259d4ecbf,feat(curriculum): add Adjacency List to Matrix Converter lab to JSv9 …,2026-02-24T21:54:23Z,4,204,majestic-owl448,freeCodeCamp,freeCodeCamp
 46e54e0f3893211452fae8f0faf7a937187f5d84,fix(curriculum): use code instead of editableContents for cafe menu C…,2026-02-24T21:40:42Z,2,8,ragini-pandey,freeCodeCamp,freeCodeCamp
 5586a718fe870abe4eda7c076216a36118b5303d,fix(curriculum): use backtick to avoid syntax highlighting (#66032),2026-02-24T18:11:36Z,1,16,AdityaSingh-18,freeCodeCamp,freeCodeCamp
@@ -902,12 +912,3 @@ f20d8a7a702e6d0c67f090fedd27600015408d7f,fix(tools): wrong throw causes test to 
 9531c9d20cb81b78131aeaa574088fb92a93965d,feat(curriculum): Add A1 Chinese Chapter 1 (#64023),2025-11-26T13:37:39Z,7,432,miyaliu666,freeCodeCamp,freeCodeCamp
 1e28b76bf5c457c704491b56d39a24dbf078abe4,feat(curriculum): added 2 new steps to mathbot project for random int…,2025-11-26T10:15:16Z,11,282,shokuyansh,freeCodeCamp,freeCodeCamp
 a89054d9db8c17f7661d5dae1b5cd80cfab1a550,fix(curriculum): add/fix an example link in user stories (#64153),2025-11-26T08:23:00Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
-33325b9002533d6bc3abb94e876dfce8818dfc73,"feat(client,challenge-parser): update fill-in-the-blank to support Ch…",2025-11-25T19:02:22Z,24,1140,huyenltnguyen,freeCodeCamp,freeCodeCamp
-b6fff6e2b7dc7dbe48e40c5afc0367cc7f432554,fix(curriculum): avoid passing currency converter lab with wrong impl…,2025-11-25T19:01:59Z,1,71,vic-fb,freeCodeCamp,freeCodeCamp
-583555e9b7f1162fd8cdd427cc59bd8813d89a46,feat(curriculum): add interactive examples to async/await lesson (#64…,2025-11-25T18:33:36Z,1,6,pdtrang,freeCodeCamp,freeCodeCamp
-4f82fafbef39f987467e481ab9ad7a56250f7187,fix(curriculum): make markdown to html converter more clear in events…,2025-11-25T17:06:24Z,1,6,majestic-owl448,freeCodeCamp,freeCodeCamp
-e8d28b1f1b28a939ca48875862c6e5d091972c65,"chore(i18n,learn): update i18n-curriculum submodule (#64140)",2025-11-25T16:38:24Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-b11a297a2a5839322161148f10c90a4ab7291f9b,test: use ts compiler in cli tests (#62783),2025-11-25T15:26:54Z,6,216,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-c3dcec1ac7da8724542664ea964810a64f369476,fix(curriculum): em dash adjusting (#63901),2025-11-25T14:08:39Z,11,60,garyeung,freeCodeCamp,freeCodeCamp
-685ab392cfcf557c390bc53884d0a1e180d18463,fix(curriculum): typos in DC 111 & 117 (#64053),2025-11-25T14:00:16Z,3,6,moT01,freeCodeCamp,freeCodeCamp
-f893969a3b1e7a0a3ec372baddc3029e65ae4504,fix(i18n): Capitalize title for RPG character lab in English locale (…,2025-11-25T09:18:31Z,1,2,bigfatbird,freeCodeCamp,freeCodeCamp
