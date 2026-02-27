@@ -1,4 +1,15 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+f507f600b1a2d554d520a8b0177f3f663be87593,fix(curriculum): review A1 Spanish sharing your personal details bloc…,2026-02-26T16:56:57Z,69,537,estefaniacn,freeCodeCamp,freeCodeCamp
+e6341ac798b3037cb264ed6391cd4c86333e12a3,feat: add requested chapter icon for Spanish (#66024),2026-02-26T16:03:48Z,2,7,Sembauke,freeCodeCamp,freeCodeCamp
+b904a2a74c06a966636f4e7892318c9bfd24792a,fix(curriculum): use correct indentation and fix comment (#66112),2026-02-26T15:46:53Z,2,28,thefool309,freeCodeCamp,freeCodeCamp
+46a209ecdd208010ab6855d6d832a147886a4d77,"chore(i18n,learn): update i18n-curriculum submodule (#66111)",2026-02-26T14:20:48Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+e0c0fdd738d667930b95dfec863ac441b52030ad,feat: allow caller to audit specific languages (#66110),2026-02-26T13:42:47Z,1,12,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+0e8c6d5d6ace608e6c68dc02227ea492511a45a1,fix(client): adjust cert heading (#65552),2026-02-26T11:35:02Z,2,29,garyeung,freeCodeCamp,freeCodeCamp
+1d41b61f95d5cc63ee6adff6ccd5566ceab0dbc3,refactor: remove proxy console TODO (#66091),2026-02-26T08:27:47Z,1,1,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+2ccef21368500fa24abbe3e21bde4bb2d5bdad2c,fix(curriculum): typos in python review and others (#66059),2026-02-26T08:20:30Z,10,58,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+4d3f6b72b98673c8780f9066368ac43ea7b57532,fix(curriculum): Copy tweaks - calling methods on objects (#66080),2026-02-26T08:04:58Z,2,12,jordantrent,freeCodeCamp,freeCodeCamp
+0b414c7b50a47371a6bfae13a8e6cdc7c2e1b0cd,fix(curriculum): Resolved quotes issue in python review test (#66082),2026-02-26T08:04:20Z,2,8,Aryankpoor,freeCodeCamp,freeCodeCamp
+e8580015fc41bde142ece87ada829148bee702a3,"chore(i18n,learn): update i18n-curriculum submodule (#66088)",2026-02-26T08:02:11Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 e4b3e720f2d99b0f96585e7cff2c77e79e7f64d7,feat(curriculum): add chp3 md2 sharing personal details (#64546),2026-02-25T20:56:35Z,110,11677,RafaelDavisH,freeCodeCamp,freeCodeCamp
 52e5d242a7dd6e10027668abf253fd097001ac7a,fix(curriculum): clarify sorted() is a built-in function with example…,2026-02-25T20:07:24Z,2,20,ragini-pandey,freeCodeCamp,freeCodeCamp
 ef8bc8a225e8e0c5492b1af9475283810c6a6f65,refactor: create middleware for each redux store (#66060),2026-02-25T17:31:22Z,1,29,ojeytonwilliams,freeCodeCamp,freeCodeCamp
@@ -906,9 +917,3 @@ b51290d0093a3b6ec35df025ccef3dd87bec5247,fix(curriculum): add assert to prevent 
 c1b98390634e88a987a89d06d122480f687238f4,"chore(i18n,client): processed translations (#64161)",2025-11-27T09:12:37Z,10,20,camperbot,freeCodeCamp,freeCodeCamp
 d921d1de2bed37920f50cd216d00a082b2716564,chore(curriculum): update JS data type lesson (#64132),2025-11-27T08:48:08Z,1,94,jdwilkin4,freeCodeCamp,freeCodeCamp
 d823ae310276a65313535821f6db4080118da30b,fix(curriculum): clarify moon phase day numbering in Daily Coding Cha…,2025-11-27T08:31:50Z,2,4,VeerendraSD,freeCodeCamp,freeCodeCamp
-8f480d8cdfdd0ff8ad5be602e0d0d0ddc9ca4c4b,fix(challenge-helper-scripts): create quiz project challenges in corr…,2025-11-26T22:04:49Z,4,58,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-35c73a1503eb25e07ae1bffc025d0331071b272b,fix(curriculum): move lab-optional-arguments-sum-function to function…,2025-11-26T16:03:00Z,2,4,pdtrang,freeCodeCamp,freeCodeCamp
-f20d8a7a702e6d0c67f090fedd27600015408d7f,fix(tools): wrong throw causes test to pass (#64159),2025-11-26T15:43:08Z,2,6,gikf,freeCodeCamp,freeCodeCamp
-9531c9d20cb81b78131aeaa574088fb92a93965d,feat(curriculum): Add A1 Chinese Chapter 1 (#64023),2025-11-26T13:37:39Z,7,432,miyaliu666,freeCodeCamp,freeCodeCamp
-1e28b76bf5c457c704491b56d39a24dbf078abe4,feat(curriculum): added 2 new steps to mathbot project for random int…,2025-11-26T10:15:16Z,11,282,shokuyansh,freeCodeCamp,freeCodeCamp
-a89054d9db8c17f7661d5dae1b5cd80cfab1a550,fix(curriculum): add/fix an example link in user stories (#64153),2025-11-26T08:23:00Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
