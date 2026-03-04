@@ -1,4 +1,20 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+58e76dca0c68425c714830f700f66f996ea64377,feat(curriculum): add dsa lessons to js v9 cert (#66008),2026-03-03T21:56:05Z,8,1195,Ksound22,freeCodeCamp,freeCodeCamp
+8a4c565bf74ff6ff300f162f5ea0b845ff04eae7,fix(curriculum): update JS fundamentals quiz Number object question (…,2026-03-03T21:22:04Z,1,10,abhishekDeshmukh74,freeCodeCamp,freeCodeCamp
+cb65db51e702c0b9d67e6541a0dc5f677fca3e27,feat(curriculum): daily challenges 213-222 (#66191),2026-03-03T20:52:51Z,25,1987,moT01,freeCodeCamp,freeCodeCamp
+4bbc74f5d42abd42c20d17a18567198c521fba35,fix(curriculum): use textContent instead of innerText (#66208),2026-03-03T19:47:56Z,1,2,thor8126,freeCodeCamp,freeCodeCamp
+c15bf70bedd18e032371ffc4e08b52bd2b04b6b1,feat(curriculum): add Object.hasOwn() to JS object property checking …,2026-03-03T17:52:21Z,3,138,BalamuruganT006,freeCodeCamp,freeCodeCamp
+a391dc0664f406a63c7c92627bdc3bc5aa3b594d,fix(api): cleaner exits before respawn (#66135),2026-03-03T15:13:13Z,2,22,raisedadead,freeCodeCamp,freeCodeCamp
+b5e3a94693aae0661cab8efab4d4e125578817da,fix(curriculum): add interactive examples and fixings in js review pa…,2026-03-03T14:48:32Z,1,1102,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+fa988a38b966081f83a560ef5443acdcd0dbee70,chore: update pnpm,2026-03-03T14:16:05Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
+c77b49d61313f38db3c03249572bb906e86d383f,fix(client): remove notes from certifications (#66210),2026-03-03T13:46:00Z,1,3,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+5d10ce3fb4168a14e130588bfe798671c2869332,fix(client): daily challenge calendar (#66202),2026-03-03T13:28:54Z,4,216,moT01,freeCodeCamp,freeCodeCamp
+b9307e19b6d78d7551b7b627a20bf0542f6c9098,feat(curriculum): add second flexbox workshop to FSD cert (#62735),2026-03-03T10:24:05Z,46,4463,sebacodes,freeCodeCamp,freeCodeCamp
+6d74eaacce72c764d68ec200acb066eb86159dfd,fix(curriculum): fix test to avoid incorrect code passing lab bookmar…,2026-03-03T09:53:40Z,1,11,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+e902fd270f8fbdcab84ee17774af6d600cc8bc93,"refactor: update gatsby schema, remove customization + use inferrable…",2026-03-03T09:48:53Z,11,923,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+3250669a2b98d708be98a716d73a8ec81b6b543e,feat(curriculum): add rest api and web services theory (#65634),2026-03-03T08:29:48Z,6,579,majestic-owl448,freeCodeCamp,freeCodeCamp
+dcddc3ecc359c55c5aaf18c1a91b3ad8a27d144c,feat(curriculum): EN-B1 quiz for block 4 (#66182),2026-03-03T08:09:11Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
+e1e5a7898295e2c34efd02bef34f27ad8c294abd,feat(curriculum): EN-B1 quiz for block 3 (#66010),2026-03-03T08:05:57Z,1,361,anastasiiauk,freeCodeCamp,freeCodeCamp
 e0ca86a0208b7e520e187c32fc71efded6fcc46f,fix(curriculum): clarify DP function calls vs unique subproblems (#65…,2026-03-02T22:20:28Z,1,4,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 4fa56fb02bc9f7dce572f4647839a8a69afd3419,fix(curriculum): improve tests for useState management of color input…,2026-03-02T21:41:46Z,1,30,farchettiensis,freeCodeCamp,freeCodeCamp
 3a3872d252fa8a5e3f3eec1aae22d97cf077ecd7,fix(curriculum): replace stack question in data structures quiz (#66090),2026-03-02T21:11:49Z,1,6,AdityaSingh-18,freeCodeCamp,freeCodeCamp
@@ -912,18 +928,3 @@ ff66ae89df30ce4e11831269d2b989f0dbf02338,fix(tools): allow position 0 in create-
 c5f47956416c7bf62c30b0c63f4d06258b92f2a6,fix: allow api to find tests for all certifications (#64295),2025-12-04T10:32:19Z,7,180,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 9d8cbcff5ab067370d6db548d55a3e219f76d85c,refactor: use cert as key (#64293),2025-12-04T09:21:03Z,6,109,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 73ad631dfd8128554622a94082c3d01029bf6c1c,feat(client): add pinyin tone input to fill-in-the-blank challenge (#…,2025-12-04T08:25:18Z,6,449,huyenltnguyen,freeCodeCamp,freeCodeCamp
-b9906c3d76fb859003dac116a8297c0cbe48110f,fix(curriculum): fixed typo and added a comma in what-are-pseudo-elem…,2025-12-04T00:18:30Z,1,2,bdtripp,freeCodeCamp,freeCodeCamp
-9e03624bb06c221ca034675e0031e3c5b96f92b7,feat(client): add chapter icons for A1 Chinese and A1 Spanish chapter…,2025-12-03T22:32:04Z,2,45,Sembauke,freeCodeCamp,freeCodeCamp
-4ce039ce75130d1249d002143716a6c6336a3c37,fix(curriculum): capitalize 'You'll' in Touch Base explaination (#64306),2025-12-03T22:06:58Z,1,2,Surajnairx,freeCodeCamp,freeCodeCamp
-1bf90a0e860ba1c5f84b8f968a78af13ebae4705,fix(curriculum): change 'is agreeing' to 'agree' in Task 75 (#64304),2025-12-03T22:05:04Z,1,2,starboylive,freeCodeCamp,freeCodeCamp
-bc52de2fae4d10751f4d56c029b3fd38c2577a83,fix(curriculum): moved string inverter lab (#64288),2025-12-03T21:58:17Z,1,2,bdtripp,freeCodeCamp,freeCodeCamp
-e73e9e24165492a1c04a9af25354aac7e2f491e4,fix(client): rm unnecessary styling to resolve the conflict in action…,2025-12-03T21:46:05Z,2,42,garyeung,freeCodeCamp,freeCodeCamp
-cd076359977cd643a2b4917d30b053fbb0eb8351,fix(curriculum): change spelling from travelling to to traveling (#64…,2025-12-03T21:36:49Z,2,12,Giftea,freeCodeCamp,freeCodeCamp
-5e5048c75cff8a3f2fbe2cf6d55649d84803410a,"chore(i18n,learn): update i18n-curriculum submodule (#64305)",2025-12-03T20:00:56Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-3f7db2d26cff8d8e414bd2a1f31acfde4a179749,fix(curriculum): add missing feedback to Submit Events lecture MCQ (#…,2025-12-03T19:15:40Z,1,8,huyenltnguyen,freeCodeCamp,freeCodeCamp
-6aa1b0a113369951d20919403fb08db4bfddf33d,"chore(i18n,client): processed translations (#64297)",2025-12-03T17:09:05Z,20,154,camperbot,freeCodeCamp,freeCodeCamp
-9d8ed5e348da86cfd75415fbaf81fa52b08c87cb,fix(tools): improve video questions validation (#64176),2025-12-03T17:03:25Z,7,207,gikf,freeCodeCamp,freeCodeCamp
-4e765d07318fca45b66d72d5348f01d3b38a55e3,fix(curriculum): remove redundant 'each' in Lab - Feature selection (…,2025-12-03T15:36:48Z,1,2,Faust-Levity,freeCodeCamp,freeCodeCamp
-b8e32be3e488a6ebc875e12565df216e6413d61f,feat(curriculum): daily challenges 120-143 (#64173),2025-12-03T14:49:27Z,55,4319,moT01,freeCodeCamp,freeCodeCamp
-a6e5748b258c24ec8a0ee39f83c30b666e14ec1e,refactor(client): remove dataPlaywrightTestLabel prop from SectionHea…,2025-12-03T09:56:14Z,1,13,garyeung,freeCodeCamp,freeCodeCamp
-e056608d82a0e3f2a9606e736112d104837147c1,feat(client): add settings side nav (#63034),2025-12-03T09:28:20Z,12,681,Sembauke,freeCodeCamp,freeCodeCamp
