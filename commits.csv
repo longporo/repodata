@@ -1,4 +1,18 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+da0298f39b8e4bd83bad85a7ad72ead67a973f74,feat(curriculum): add dynamic programming js lesson (#65987),2026-03-04T21:46:41Z,4,491,Ksound22,freeCodeCamp,freeCodeCamp
+520d5dc32a7b8356b895e80381950674a34b23e9,fix(tooling): return all superblocks containing a filtered block (#65…,2026-03-04T20:00:37Z,3,47,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+a6b34d01b754d6bb849f45ba04d7fd7d038f11ac,feat(curriculum): Add N-Queens problem lab to javascript-v9 (#65740),2026-03-04T18:43:43Z,4,189,majestic-owl448,freeCodeCamp,freeCodeCamp
+16e13a272524adb6f6d631f2f93fe7b6039dcf4f,"chore(i18n,client): processed translations (#66237)",2026-03-04T15:07:04Z,10,538,camperbot,freeCodeCamp,freeCodeCamp
+8f43f47fc0aa02f2e35b3d8f36b9ee9b6edcd1c4,feat(curriculum): add dsa quiz to js v9 cert (#66019),2026-03-04T13:38:47Z,4,476,Ksound22,freeCodeCamp,freeCodeCamp
+4760d3514ed7ed5adad923978a99cc0352b98fb5,feat(curriculum): add dynamic programming review for JS cert (#65991),2026-03-04T11:52:39Z,4,106,Ksound22,freeCodeCamp,freeCodeCamp
+5a8b7336c95de200aed4d321bcf3ee8bd6464f45,fix(curriculum): change helpCategory from HTML-CSS to JavaScript in l…,2026-03-04T11:19:20Z,1,2,Anshit-Sony,freeCodeCamp,freeCodeCamp
+53b4806fc6ad57fc2a662492de7534eafcb47df5,chore(deps): update actions/setup-node digest to 53b8394 (#66231),2026-03-04T10:55:11Z,6,22,renovate[bot],freeCodeCamp,freeCodeCamp
+b8ae304f7660522be4878e221990c5bd941366f3,fix(curriculum): update string method lesson to include variable usag…,2026-03-04T10:29:21Z,1,15,timmy471,freeCodeCamp,freeCodeCamp
+3888a601ade26c83d0e81f5ee1f80db3905aeab6,fix(curriculum): typos and grammar errors (#65951),2026-03-04T09:34:19Z,4,12,umutKaracelebi,freeCodeCamp,freeCodeCamp
+3e94ae65c8e435e79def419f5e8fc1974cada778,fix(challenge-parser): display hanzi-pinyin pairs properly in quiz au…,2026-03-04T09:32:20Z,3,45,huyenltnguyen,freeCodeCamp,freeCodeCamp
+2a8bfd78b89b18b8b861414cd923b091d0b2ded2,fix(curriculum): update explanation text for task-45 (#66232),2026-03-04T08:52:48Z,1,4,phoenix66666,freeCodeCamp,freeCodeCamp
+5d6860f4c4c226547cbbeae659ab53fc713fe9cb,fix(curriculum): clarify step 4 instructions and update tests (#66047),2026-03-04T07:37:42Z,5,24,nguyenduybao1,freeCodeCamp,freeCodeCamp
+1bfc65a7d143d0cd2fd0b727870b25b8483b56d4,fix(deps): update dependency @aws-sdk/client-ses to v3.997.0 (#66221),2026-03-04T04:28:33Z,2,1247,renovate[bot],freeCodeCamp,freeCodeCamp
 58e76dca0c68425c714830f700f66f996ea64377,feat(curriculum): add dsa lessons to js v9 cert (#66008),2026-03-03T21:56:05Z,8,1195,Ksound22,freeCodeCamp,freeCodeCamp
 8a4c565bf74ff6ff300f162f5ea0b845ff04eae7,fix(curriculum): update JS fundamentals quiz Number object question (…,2026-03-03T21:22:04Z,1,10,abhishekDeshmukh74,freeCodeCamp,freeCodeCamp
 cb65db51e702c0b9d67e6541a0dc5f677fca3e27,feat(curriculum): daily challenges 213-222 (#66191),2026-03-03T20:52:51Z,25,1987,moT01,freeCodeCamp,freeCodeCamp
@@ -914,17 +928,3 @@ bcacf747edd4035d7e8dc2ebec3b3e807c7c8b07,fix(client): hide console on JS-only in
 dd2a6ed7fa8f2febe8ba3fb3d9b83215c7270604,"fix(Curriculum): Remove ""write the letter"" from sentence in A1 Spanis…",2025-12-05T15:16:04Z,23,46,nieldakarla,freeCodeCamp,freeCodeCamp
 10437c3d7d6d423677e55869ce3830519d1978b9,fix(curriculum): added indentation on editable region (#64334),2025-12-05T10:55:33Z,1,2,alifarooqi,freeCodeCamp,freeCodeCamp
 c0e1e13cc139d6375d39983548ad275226cacd3b,refactor: clean up usage of certTypes (#64322),2025-12-05T07:50:07Z,5,209,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-d9c81c35726643f643493850e89326a178077693,fix(curriculum): typo in Python Abstraction lesson (#64332),2025-12-05T00:15:50Z,1,2,maxw2025,freeCodeCamp,freeCodeCamp
-3a9c45f324f711eb7efc9730c0b028af1b9aad2b,fix(curriculum): remove extra spaces lab-game-character-stats (#64329),2025-12-04T20:03:15Z,1,8,pdtrang,freeCodeCamp,freeCodeCamp
-82a9b08c98d9692aae03cf48335a215048247d1d,fix(curriculum): remove redundancies in a passage for HTML abbreviati…,2025-12-04T18:33:47Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
-93816c737b21c3020eb54b4014476ce2edd4969b,fix(curriculum): minor enhancement in few code examples (#64320),2025-12-04T17:58:39Z,3,6,SkvProgrammer,freeCodeCamp,freeCodeCamp
-777a06c5b0b3d61564b7289914512ea461ad578c,fix(curriculum): typo in CSS review (#64323),2025-12-04T17:58:03Z,1,2,bdtripp,freeCodeCamp,freeCodeCamp
-52d5b3c3e53f10460baf5bef19e7005e6ccb28da,fix(curriculum): fixed typo in CSS Pseudo-classes Review (#64310),2025-12-04T17:33:10Z,2,4,bdtripp,freeCodeCamp,freeCodeCamp
-0fd9f06c6cfa3ae1539f312c6452dd8226682795,feat(api): add moderation id to attempt (#64286),2025-12-04T14:18:16Z,5,27,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-a38caeca391c058e49c01088a3d7b70b3c0d3449,refactor: remove certIds and the associated map (#64299),2025-12-04T13:01:27Z,8,309,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-ff66ae89df30ce4e11831269d2b989f0dbf02338,fix(tools): allow position 0 in create-project script (#64247),2025-12-04T10:42:04Z,1,3,bigfatbird,freeCodeCamp,freeCodeCamp
-680a2020d891da36f9d66b834eb8ff0b82ad1f07,fix(client): increase chapter icon size (#64312),2025-12-04T10:40:56Z,1,2,AdarshPatil04,freeCodeCamp,freeCodeCamp
-5c568d770e32bd38d994a2bb0be35105a04d6d39,fix(curriculum): fix typo in Dictionary and set review lesson (#64311),2025-12-04T10:40:14Z,2,4,pdtrang,freeCodeCamp,freeCodeCamp
-c5f47956416c7bf62c30b0c63f4d06258b92f2a6,fix: allow api to find tests for all certifications (#64295),2025-12-04T10:32:19Z,7,180,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-9d8cbcff5ab067370d6db548d55a3e219f76d85c,refactor: use cert as key (#64293),2025-12-04T09:21:03Z,6,109,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-73ad631dfd8128554622a94082c3d01029bf6c1c,feat(client): add pinyin tone input to fill-in-the-blank challenge (#…,2025-12-04T08:25:18Z,6,449,huyenltnguyen,freeCodeCamp,freeCodeCamp
