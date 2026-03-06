@@ -1,4 +1,23 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+fa555f34297c3639f59498cdd6f4e198c119a352,fix(curriculum): add Node.js installation note before Vite setup comm…,2026-03-05T18:23:21Z,1,2,Venkat-Entropik,freeCodeCamp,freeCodeCamp
+0ee6075afeaf4cd1630157d3651802f487130a32,feat: Add prompt course to catalog (#66228),2026-03-05T18:09:21Z,33,635,jdwilkin4,freeCodeCamp,freeCodeCamp
+dd571f965b699e168de53a215ebf106e1b66e82a,chore(deps): update @freecodecamp/curriculum helpers to v8.0.0 (#66240),2026-03-05T17:03:25Z,3,52,Dario-DC,freeCodeCamp,freeCodeCamp
+e72a5dc1bb0ad18246e6c7e3b951e1872837a74a,refactor(tools) : migrate inquirer prompts (#66139),2026-03-05T12:04:01Z,15,1922,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+80cace6f06deb61a4475565214bd225752581389,feat(curriculum): EN-B1 quiz for block 5 (#66211),2026-03-05T11:45:15Z,1,361,anastasiiauk,freeCodeCamp,freeCodeCamp
+08bb7452c34d67544dfac178a059d00ba036a816,feat(curriculum): EN-B1 quiz for block 6 (#66239),2026-03-05T11:00:49Z,1,361,anastasiiauk,freeCodeCamp,freeCodeCamp
+3ab093b7b3b9d9b16018f02dc7700f2c7349291a,fix(curriculum): change some example codes to non-interactive (#66161),2026-03-05T10:38:05Z,2,52,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+da100863797294821e8ed3dbf59f5ac2dd95d03b,fix(curriculum): add CSS property checks for width and height in Colo…,2026-03-05T10:04:20Z,1,24,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+c646fc6a0258fd476326806ba6d86510f957f7c2,fix(curriculum): update custom exception example in Python review (#6…,2026-03-05T09:50:48Z,2,12,nguyenduybao1,freeCodeCamp,freeCodeCamp
+b25f03e8a164120c740afc82c343c20bff98421c,refactor(challenge-helper-scripts): update challengeLang type to Chal…,2026-03-05T08:35:46Z,7,41,huyenltnguyen,freeCodeCamp,freeCodeCamp
+1d15d65230d7e7629d13c3025e62565cc3527a05,feat(curriculum): EN-B1 quiz for block 2 (#65956),2026-03-05T07:41:30Z,1,361,anastasiiauk,freeCodeCamp,freeCodeCamp
+a1606493e1d8cf953b2ead8c45f93bb58f0c00ff,feat(curriculum): EN-B1 quiz for block 1 (#65919),2026-03-05T07:40:57Z,1,361,anastasiiauk,freeCodeCamp,freeCodeCamp
+c37d6797b3696b2a0c713d1ece0c36d74469b334,chore(deps): update dependency @types/node to v24.10.14 (#66249),2026-03-05T06:34:12Z,1,305,renovate[bot],freeCodeCamp,freeCodeCamp
+695419bfb27a105334765b291911b9b3d18812ee,fix(client): update text container for fsd lessons (#65889),2026-03-05T05:40:20Z,1,26,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+2972485a8774d636abb60866e683516b535f3127,feat: allow configuration of the typescript-compiler (#66241),2026-03-05T04:18:18Z,5,45,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+c94fe2d40e217e562275e3f6dbce808deb865ff3,feat(challenge-helper-scripts): add example of quiz with audio to qui…,2026-03-05T04:17:47Z,1,68,huyenltnguyen,freeCodeCamp,freeCodeCamp
+4ece1e457798d58d6a62b320b1a94e1d9144835a,fix(client): remove ms trophy solution links on timeline (#66223),2026-03-05T04:16:36Z,1,13,moT01,freeCodeCamp,freeCodeCamp
+62fe68df9efa58be539a90ee3c9b866420886347,fix(deps): update dependency @aws-sdk/client-ses to v3.998.0 (#66246),2026-03-05T04:15:08Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
+15304750713f9bbae69863574ee2a525bba13b22,chore(deps): update dependency supertest to v6.3.4 (#66245),2026-03-05T04:14:49Z,2,298,renovate[bot],freeCodeCamp,freeCodeCamp
 da0298f39b8e4bd83bad85a7ad72ead67a973f74,feat(curriculum): add dynamic programming js lesson (#65987),2026-03-04T21:46:41Z,4,491,Ksound22,freeCodeCamp,freeCodeCamp
 520d5dc32a7b8356b895e80381950674a34b23e9,fix(tooling): return all superblocks containing a filtered block (#65…,2026-03-04T20:00:37Z,3,47,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 a6b34d01b754d6bb849f45ba04d7fd7d038f11ac,feat(curriculum): Add N-Queens problem lab to javascript-v9 (#65740),2026-03-04T18:43:43Z,4,189,majestic-owl448,freeCodeCamp,freeCodeCamp
@@ -918,13 +937,3 @@ ff83419f2f68af6e5205f89abe4b1fad78228db2,fix(curriculum): update examples in lec
 a09b4301def5d6ceae02fe6fff6310483697d6c9,"fix: Typos in lecture on Working with CSS Transforms, Overflow, and F…",2025-12-08T09:33:44Z,2,10,bdtripp,freeCodeCamp,freeCodeCamp
 cabddb74cb95566ae22db015e167400e2e401847,"feat(challenge-parser,client): display Chinese dialogue with ruby ann…",2025-12-08T09:00:05Z,6,206,huyenltnguyen,freeCodeCamp,freeCodeCamp
 39eb3e0f346dc61882888338bff02a63a7b4787f,fix(client): add beta back to a2-english (#64368),2025-12-08T08:36:39Z,6,12,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-a28ff5d2cd0bc85d9b7f22eb452a33007845ce51,fix(client): correct placement of Interactive Editor button (#64350),2025-12-05T21:46:42Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
-b664cdb4c22d41759a02517565bd26a600f376b4,"chore(i18n,learn): update i18n-curriculum submodule (#64346)",2025-12-05T20:54:41Z,2,31,camperbot,freeCodeCamp,freeCodeCamp
-0a8f7a6ea16a7e305860a35570f94ff88260631b,feat(curriculum): update A1 professional Spanish description (#64344),2025-12-05T20:34:12Z,1,10,estefaniacn,freeCodeCamp,freeCodeCamp
-6949c963cc365bbef8a68f47b6e637bfb37a7d77,fix(curriculum): update email simulator tests (#63803),2025-12-05T19:36:11Z,1,31,Dario-DC,freeCodeCamp,freeCodeCamp
-29420e82148dfe1f1e99e0167beeac733c07a0a0,chore: remove validate-keys script (#64341),2025-12-05T19:26:05Z,2,106,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-bcacf747edd4035d7e8dc2ebec3b3e807c7c8b07,fix(client): hide console on JS-only interactive examples (#64210),2025-12-05T18:57:38Z,2,72,bengguankoay,freeCodeCamp,freeCodeCamp
-89a8bd2a8bd5bbc6f73ca2b787394172e0d1a990,fix(curriculum): typo in DC 142 seed code (#64331),2025-12-05T17:20:47Z,1,2,moT01,freeCodeCamp,freeCodeCamp
-dd2a6ed7fa8f2febe8ba3fb3d9b83215c7270604,"fix(Curriculum): Remove ""write the letter"" from sentence in A1 Spanis…",2025-12-05T15:16:04Z,23,46,nieldakarla,freeCodeCamp,freeCodeCamp
-10437c3d7d6d423677e55869ce3830519d1978b9,fix(curriculum): added indentation on editable region (#64334),2025-12-05T10:55:33Z,1,2,alifarooqi,freeCodeCamp,freeCodeCamp
-c0e1e13cc139d6375d39983548ad275226cacd3b,refactor: clean up usage of certTypes (#64322),2025-12-05T07:50:07Z,5,209,ojeytonwilliams,freeCodeCamp,freeCodeCamp
