@@ -1,4 +1,13 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+ac6973f0018fe38a1510624edcd086e5c1a24d6a,feat(curriculum): add html music player workshop (#65825),2026-03-06T18:15:08Z,12,650,majestic-owl448,freeCodeCamp,freeCodeCamp
+344c3fa699d03c1fb38f03d5b1c65245377e6334,feat(curriculum): EN-B1 quiz for block 8 (#66270),2026-03-06T15:12:45Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
+cff6065df2c9e56d122df4192413a531f32611a4,"chore(i18n,learn): update i18n-curriculum submodule (#66272)",2026-03-06T14:53:22Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+5b64ff3c7cf4cb95e4ed8dbba29a16e550e273cf,"chore(i18n,learn): update i18n-curriculum submodule (#66271)",2026-03-06T13:28:35Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+84ba45ec6ee14e7eeb349071d8796e108c567861,fix(curriculum): improve test for step-75 workshop city skyline (#66001),2026-03-06T13:04:07Z,1,36,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+fe85713b0976e73892a18d8d5ea65e112e2c4dab,fix(curriculum): add bigint type and correct the primitive types list…,2026-03-06T10:39:36Z,1,2,hbzzll,freeCodeCamp,freeCodeCamp
+c73a809870c1e7c6c54a7292f140159fc3506c5f,fix(client): stop ts editor getting hidden (#66267),2026-03-06T10:34:31Z,1,43,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+9b940a002f73b043e77a49c452494d21460faa5e,fix(curriculum): added space between base text and annotation (#66265),2026-03-06T08:54:02Z,1,2,ekwak47,freeCodeCamp,freeCodeCamp
+abbde71d7e475d7102d7398d97df0ce121ca3330,feat(curriculum): EN-B1 quiz for block 7 (#66257),2026-03-06T08:04:35Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
 fa555f34297c3639f59498cdd6f4e198c119a352,fix(curriculum): add Node.js installation note before Vite setup comm…,2026-03-05T18:23:21Z,1,2,Venkat-Entropik,freeCodeCamp,freeCodeCamp
 0ee6075afeaf4cd1630157d3651802f487130a32,feat: Add prompt course to catalog (#66228),2026-03-05T18:09:21Z,33,635,jdwilkin4,freeCodeCamp,freeCodeCamp
 dd571f965b699e168de53a215ebf106e1b66e82a,chore(deps): update @freecodecamp/curriculum helpers to v8.0.0 (#66240),2026-03-05T17:03:25Z,3,52,Dario-DC,freeCodeCamp,freeCodeCamp
