@@ -1,9 +1,16 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87wf-Qx,66275,Add link/reference to markdown file for challenges/workshops,OPEN,2026-03-06T15:54:12Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X85im3hi,49949,FCC help page,OPEN,2023-04-04T18:20:40Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87wfTg8,66274,Closed by author,CLOSED,2026-03-06T15:15:37Z,2026-03-06T16:01:34Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X860p-l5,60083,Build a City Skyline Checks are Funky,CLOSED,2025-04-30T10:49:05Z,2026-03-06T13:04:09Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jt68v,65247,Missing bigint in list of JavaScript primitive types,CLOSED,2026-01-16T05:38:36Z,2026-03-06T10:39:38Z,hbzzll,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87mwlXN,65570,TS file content is hidden after closing another file,CLOSED,2026-01-29T16:17:51Z,2026-03-06T10:34:33Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87wYF9f,66268,[Suggestion]: Remove top margin in Interactive editor,OPEN,2026-03-06T08:04:19Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87wEEbt,66253,Add a space between base text and annotation,CLOSED,2026-03-05T11:18:37Z,2026-03-06T08:54:04Z,ekwak47,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87wL17Q,66261,Build a Countdown should use recursion,OPEN,2026-03-05T17:32:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87vujbF,66238,"In Introduction to React, there aren't instructions for Node.js install or redirect to official page.",CLOSED,2026-03-04T13:15:39Z,2026-03-05T18:23:23Z,Venkat,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86zBplS,59797,Consider updating to @inquirer/prompts instead of outdated inquirer library,CLOSED,2025-04-17T22:20:40Z,2026-03-05T12:04:02Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87wEEbt,66253,Add a space between base text and annotation,OPEN,2026-03-05T11:18:37Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87wDHKj,66252,Clarification needed in Python List description,OPEN,2026-03-05T10:30:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87uzGxA,66150,Change code block in JS Regex Review,CLOSED,2026-03-01T05:50:56Z,2026-03-05T10:38:07Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jP5VV,65150,Issues with flex in Colored Boxes lab,CLOSED,2026-01-14T10:36:38Z,2026-03-05T10:04:22Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
@@ -84,7 +91,6 @@ I_kwDOAbI7X87t2Lou,66061,shopping cart step 18,CLOSED,2026-02-25T16:19:26Z,2026-
 I_kwDOAbI7X87t4GVW,66067,fix code snippet,CLOSED,2026-02-25T18:01:23Z,2026-02-26T15:46:55Z,thefool309,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863pUiQ,60472,Refactor shopping cart workshop,OPEN,2025-05-21T18:17:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87klbtL,65368,Certificate Page - no project links,CLOSED,2026-01-20T18:57:13Z,2026-02-26T11:35:04Z,garyeung,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87mwlXN,65570,TS file content is hidden after closing another file,OPEN,2026-01-29T16:17:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87k4PzC,65411,`defer` attribute does nothing,OPEN,2026-01-21T20:40:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87txVYc,66048,Python Certification typos throughout the course,CLOSED,2026-02-25T12:16:57Z,2026-02-26T08:20:32Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lmpyY,65482,Proxy Python execution errors to the main platform console,CLOSED,2026-01-24T21:31:15Z,2026-02-26T08:14:11Z,,freeCodeCamp,freeCodeCamp
@@ -284,7 +290,6 @@ I_kwDOAbI7X87jpFCl,65204,Add interactive examples for Flexbox review page,CLOSED
 I_kwDOAbI7X87jqAFr,65230,Add interactive examples to DOM review page,CLOSED,2026-01-15T22:21:16Z,2026-01-26T14:11:33Z,papidb,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lFC6u,65429,Build Quincy’s Job Tips Page - Step 12 numbered list,CLOSED,2026-01-22T14:52:09Z,2026-01-26T13:29:32Z,kshitiz510,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lJXdD,65438,Using recursion in Build an Nth Fibonacci Number Calculator,CLOSED,2026-01-22T19:32:23Z,2026-01-26T10:47:04Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jt68v,65247,Missing bigint in list of JavaScript primitive types,OPEN,2026-01-16T05:38:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87g3RWy,64945,Theme resets to light and login session is lost when opening C# challenges in a new tab,OPEN,2025-12-31T11:21:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87et9jO,64680,Consider adding Pinyin and tones FITB tasks to Chapter 3,OPEN,2025-12-16T22:39:37Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87d8n_t,64556,missing index.md file does not cause test failures,CLOSED,2025-12-12T14:39:09Z,2026-01-26T10:31:35Z,,freeCodeCamp,freeCodeCamp
@@ -635,5 +640,3 @@ I_kwDOAbI7X86HQbQu,54572,Change share on Twitter to share on X,CLOSED,2024-04-29
 I_kwDOAbI7X87c1cOz,64367,Prova,CLOSED,2025-12-08T07:20:34Z,2025-12-08T08:00:53Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87cx0sc,64365,Test,CLOSED,2025-12-07T22:10:07Z,2025-12-08T08:00:42Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87cv4mZ,64359,Issue 1,CLOSED,2025-12-07T14:15:22Z,2025-12-07T14:15:45Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87PIe5G,62452,create-new-project extra metadata property with lectures,OPEN,2025-10-01T21:04:02Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87cpPLA,64355,13731191173,CLOSED,2025-12-06T14:20:16Z,2025-12-06T15:14:40Z,,freeCodeCamp,freeCodeCamp
