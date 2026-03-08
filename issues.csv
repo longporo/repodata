@@ -1,6 +1,9 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
 I_kwDOAbI7X87wf-Qx,66275,Add link/reference to markdown file for challenges/workshops,OPEN,2026-03-06T15:54:12Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863jX9t,60461,Inconvenient discovery of challenges in Full Stack Developer Curriculum,OPEN,2025-05-21T09:08:10Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87wDHKj,66252,Clarification needed in Python List description,CLOSED,2026-03-05T10:30:34Z,2026-03-07T11:52:29Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87RJyTi,62747,add brief explanation for decorators in getters and setters lesson,CLOSED,2025-10-13T08:30:22Z,2026-03-07T10:19:09Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85im3hi,49949,FCC help page,OPEN,2023-04-04T18:20:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87wfTg8,66274,Closed by author,CLOSED,2026-03-06T15:15:37Z,2026-03-06T16:01:34Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X860p-l5,60083,Build a City Skyline Checks are Funky,CLOSED,2025-04-30T10:49:05Z,2026-03-06T13:04:09Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
@@ -11,7 +14,6 @@ I_kwDOAbI7X87wEEbt,66253,Add a space between base text and annotation,CLOSED,202
 I_kwDOAbI7X87wL17Q,66261,Build a Countdown should use recursion,OPEN,2026-03-05T17:32:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87vujbF,66238,"In Introduction to React, there aren't instructions for Node.js install or redirect to official page.",CLOSED,2026-03-04T13:15:39Z,2026-03-05T18:23:23Z,Venkat,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86zBplS,59797,Consider updating to @inquirer/prompts instead of outdated inquirer library,CLOSED,2025-04-17T22:20:40Z,2026-03-05T12:04:02Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87wDHKj,66252,Clarification needed in Python List description,OPEN,2026-03-05T10:30:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87uzGxA,66150,Change code block in JS Regex Review,CLOSED,2026-03-01T05:50:56Z,2026-03-05T10:38:07Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jP5VV,65150,Issues with flex in Colored Boxes lab,CLOSED,2026-01-14T10:36:38Z,2026-03-05T10:04:22Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87vaJcI,66213,Seemingly ambiguous quiz question on JPG compression,OPEN,2026-03-03T13:13:08Z,,,freeCodeCamp,freeCodeCamp
@@ -164,7 +166,6 @@ I_kwDOAbI7X87q-Cf9,65887,Improve solution download format to ZIP project structu
 I_kwDOAbI7X87Wnckx,63633,Add a progress bar to visually track completion percentage in each certification section,OPEN,2025-11-07T14:43:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87rJJ9e,65890,JavaScript Scope,CLOSED,2026-02-15T22:19:49Z,2026-02-15T22:24:56Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87p-IVk,65820,Claim Certification on settings page.,OPEN,2026-02-11T08:41:01Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87RJyTi,62747,add brief explanation for decorators in getters and setters lesson,OPEN,2025-10-13T08:30:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85xHUSK,51554,Color Coding New Content,CLOSED,2023-09-15T05:42:19Z,2026-02-15T07:38:55Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86kobjV,57818,Consider saving the code for labs,CLOSED,2024-12-29T01:19:34Z,2026-02-15T07:33:19Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87mCQ5S,65521,Challenge 170: Odd or Even Day Test 3 issue,CLOSED,2026-01-27T08:09:49Z,2026-02-14T18:38:02Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
@@ -639,4 +640,3 @@ I_kwDOAbI7X87auEQ2,64180,Enhancement: Add keyboard shortcuts guide to the learni
 I_kwDOAbI7X86HQbQu,54572,Change share on Twitter to share on X,CLOSED,2024-04-29T14:40:41Z,2025-12-08T10:49:25Z,moT01,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87c1cOz,64367,Prova,CLOSED,2025-12-08T07:20:34Z,2025-12-08T08:00:53Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87cx0sc,64365,Test,CLOSED,2025-12-07T22:10:07Z,2025-12-08T08:00:42Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87cv4mZ,64359,Issue 1,CLOSED,2025-12-07T14:15:22Z,2025-12-07T14:15:45Z,,freeCodeCamp,freeCodeCamp
