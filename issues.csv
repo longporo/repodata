@@ -1,4 +1,11 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87j5kkg,65268,Audit Workshops: Ensure Editable Regions Only Include Required Lines,CLOSED,2026-01-16T20:14:43Z,2026-02-19T17:22:25Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87uzK54,66152,Incomplete example codes in JS Classes Review,CLOSED,2026-03-01T06:00:40Z,2026-03-08T18:46:22Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87w6Spt,66304,Learn Bash Scripting by Building Five Programs -> 1260.1 not working,OPEN,2026-03-08T17:47:48Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87w5ZBs,66302,Interactive editor shows extra constructor metadata in JS classes lecture,OPEN,2026-03-08T15:58:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87w3yVi,66301,Add new lesson for creating/copying objects in JavaScript Objects module,OPEN,2026-03-08T11:59:47Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87wL17Q,66261,Build a Countdown should use recursion,OPEN,2026-03-05T17:32:13Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87wYF9f,66268,[Suggestion]: Remove top margin in Interactive editor,OPEN,2026-03-06T08:04:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87wf-Qx,66275,Add link/reference to markdown file for challenges/workshops,OPEN,2026-03-06T15:54:12Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863jX9t,60461,Inconvenient discovery of challenges in Full Stack Developer Curriculum,OPEN,2025-05-21T09:08:10Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87wDHKj,66252,Clarification needed in Python List description,CLOSED,2026-03-05T10:30:34Z,2026-03-07T11:52:29Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
@@ -9,9 +16,7 @@ I_kwDOAbI7X87wfTg8,66274,Closed by author,CLOSED,2026-03-06T15:15:37Z,2026-03-06
 I_kwDOAbI7X860p-l5,60083,Build a City Skyline Checks are Funky,CLOSED,2025-04-30T10:49:05Z,2026-03-06T13:04:09Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jt68v,65247,Missing bigint in list of JavaScript primitive types,CLOSED,2026-01-16T05:38:36Z,2026-03-06T10:39:38Z,hbzzll,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87mwlXN,65570,TS file content is hidden after closing another file,CLOSED,2026-01-29T16:17:51Z,2026-03-06T10:34:33Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87wYF9f,66268,[Suggestion]: Remove top margin in Interactive editor,OPEN,2026-03-06T08:04:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87wEEbt,66253,Add a space between base text and annotation,CLOSED,2026-03-05T11:18:37Z,2026-03-06T08:54:04Z,ekwak47,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87wL17Q,66261,Build a Countdown should use recursion,OPEN,2026-03-05T17:32:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87vujbF,66238,"In Introduction to React, there aren't instructions for Node.js install or redirect to official page.",CLOSED,2026-03-04T13:15:39Z,2026-03-05T18:23:23Z,Venkat,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86zBplS,59797,Consider updating to @inquirer/prompts instead of outdated inquirer library,CLOSED,2025-04-17T22:20:40Z,2026-03-05T12:04:02Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87uzGxA,66150,Change code block in JS Regex Review,CLOSED,2026-03-01T05:50:56Z,2026-03-05T10:38:07Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
@@ -53,7 +58,6 @@ I_kwDOAbI7X87mYxRa,65538,Python Certification Dynamic Programming ambiguous text
 I_kwDOAbI7X87cu2tp,64358,color picker app (react) tests too strict,CLOSED,2025-12-07T08:47:23Z,2026-03-02T21:41:48Z,farchettiensis,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87t3qk8,66065,replace quiz question,CLOSED,2026-02-25T17:40:13Z,2026-03-02T21:11:50Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87vD4OU,66178,more name update for Build a Discount Calculator,CLOSED,2026-03-02T11:31:55Z,2026-03-02T21:05:40Z,MalakGdaea,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87uzK54,66152,Incomplete example codes in JS Classes Review,OPEN,2026-03-01T06:00:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87uzV1j,66153,Missinge backticks in Python Basic Review,CLOSED,2026-03-01T06:21:02Z,2026-03-02T19:33:07Z,renyapeter,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Qq4cL,62658,Content Request: Creating Shapes in HTML and CSS,CLOSED,2025-10-09T23:32:14Z,2026-03-02T16:20:37Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87YpuW0,63922,Add block completion status for new certs,CLOSED,2025-11-17T19:53:19Z,2026-03-02T16:19:35Z,,freeCodeCamp,freeCodeCamp
@@ -139,7 +143,6 @@ I_kwDOAbI7X87r3rNM,65935,hidden tests of n-queens problems are confusing,CLOSED,
 I_kwDOAbI7X87gd5JC,64923,Incomplete instructions in step 6 of the „Build a Shopping List“ workshop,CLOSED,2025-12-28T19:20:28Z,2026-02-20T17:40:25Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87e1mHW,64698,proposal to expand recursion section,CLOSED,2025-12-17T11:57:07Z,2026-02-20T13:53:20Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87MRi-r,62247,"Standardize use of ""Front End"" VS ""Frontend"" in /learn and cert names",CLOSED,2025-09-17T17:18:33Z,2026-02-17T15:56:35Z,majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87j5kkg,65268,Audit Workshops: Ensure Editable Regions Only Include Required Lines,CLOSED,2026-01-16T20:14:43Z,2026-02-19T17:22:25Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8603Drm,60106,Update import/export lesson to teach both default exports and named import/exports,CLOSED,2025-05-01T17:30:10Z,2026-02-19T16:10:06Z,StephenMuya;majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865qfJu,60691,Adding popular auth options directly in the lading page,CLOSED,2025-06-03T18:00:37Z,2026-02-19T12:17:16Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87PU2dm,62463,fCC website's dark mode has legibility issues for me,OPEN,2025-10-02T17:35:53Z,,,freeCodeCamp,freeCodeCamp
@@ -632,11 +635,3 @@ I_kwDOAbI7X87dMnq9,64403,Grammar error in Email Simulator - Step 15,CLOSED,2025-
 I_kwDOAbI7X87c6d8U,64372,Remove `aria-label` from icons in `ShareTemplate` component,CLOSED,2025-12-08T13:04:41Z,2025-12-09T17:30:47Z,AJTekniko;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87dCcwP,64390,Question 13 in JS functions quiz misses correct answer and accepts wrong answer,CLOSED,2025-12-08T23:20:11Z,2025-12-09T16:39:19Z,DeveloperViraj,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87dC-Kp,64391,python Working with Dictionaries and Sets typo,CLOSED,2025-12-09T00:13:35Z,2025-12-09T10:50:42Z,ananyapahwa,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87dA63G,64387,Horizontal rule in donor box,CLOSED,2025-12-08T21:02:05Z,2025-12-08T21:41:54Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87c87Ks,64374,Label Should be After Checkbox,CLOSED,2025-12-08T15:47:01Z,2025-12-08T18:46:32Z,DeveloperViraj,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87cxNym,64363,python Working with Loops and Sequences js arrays,CLOSED,2025-12-07T19:45:11Z,2025-12-08T18:40:56Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87cxWQk,64364,python Working with Loops and Sequences remove(),CLOSED,2025-12-07T20:17:48Z,2025-12-08T17:32:22Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87auEQ2,64180,Enhancement: Add keyboard shortcuts guide to the learning platform,CLOSED,2025-11-27T01:11:38Z,2025-12-08T11:58:50Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86HQbQu,54572,Change share on Twitter to share on X,CLOSED,2024-04-29T14:40:41Z,2025-12-08T10:49:25Z,moT01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87c1cOz,64367,Prova,CLOSED,2025-12-08T07:20:34Z,2025-12-08T08:00:53Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87cx0sc,64365,Test,CLOSED,2025-12-07T22:10:07Z,2025-12-08T08:00:42Z,,freeCodeCamp,freeCodeCamp
