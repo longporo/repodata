@@ -1,4 +1,9 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+9970e4dacbf67c355bd4588d0c6ac6dc0c5ef032,"chore(i18n,learn): update i18n-curriculum submodule (#66314)",2026-03-09T16:35:23Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+072cc4bdab2f22848098cedf698df02eac609411,"chore(i18n,client): processed translations (#66312)",2026-03-09T15:51:49Z,20,670,camperbot,freeCodeCamp,freeCodeCamp
+87edde16fe79bfb9be2818f7597a6f095e59e8b3,feat(curriculum): add dsa review to js v9 cert (#66009),2026-03-09T12:59:46Z,4,242,Ksound22,freeCodeCamp,freeCodeCamp
+08954857c764b16d45ee1bb77021812ceba71f16,feat(curriculum): add queue data structure lab (#66269),2026-03-09T11:43:41Z,4,257,larymak,freeCodeCamp,freeCodeCamp
+4ea5ae56cb1e4f65328d49011f5bae142148a6b7,feat: add independent lowerjaw in labs (#65785),2026-03-09T11:38:31Z,24,607,ahmaxed,freeCodeCamp,freeCodeCamp
 7510f608c3154e440eee955c5ddf93c6d64dfd2a,fix(curriculum): update example codes in js classes review (#66158),2026-03-08T18:46:21Z,3,96,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 f1717edae54586d40df7bb722cef26f55a9913b4,refactor: move static curriculum data out of redux (#66214),2026-03-07T15:41:46Z,11,247,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 0480bb91b7bec1063c37769acc26859191f0287d,fix(curriculum): update example codes for set and tuple (#66282),2026-03-07T11:52:27Z,1,16,AdityaSingh-18,freeCodeCamp,freeCodeCamp
@@ -929,17 +934,3 @@ a67abd3fbc8337f0c0525c1939a85107c7a6fd6a,feat(client): redirect from /settings +
 c0b9aa2cb0f336c441b48b37fe56c7ed37c82f59,fix(curriculum): fix highlighting in python basics quiz (#64422),2025-12-10T10:51:57Z,1,16,pdtrang,freeCodeCamp,freeCodeCamp
 2beb6c8dc64aaa81c12347d28467ccd5b742bd93,fix(tools): update error message for hints without tests (#64354),2025-12-10T08:20:13Z,2,6,MeaslyDay,freeCodeCamp,freeCodeCamp
 6a8be7ca5026cc377d4444acdfbcf4c535eac527,fix(tools): display blocks despite of missing superblock title/intro …,2025-12-10T07:24:36Z,2,4,gikf,freeCodeCamp,freeCodeCamp
-14932a9d38345dd306d706ea3a4b6cc6962504c0,fix(curriculum): correct challenge titles in es-a1-review-introducing…,2025-12-10T00:29:49Z,1,4,pdtrang,freeCodeCamp,freeCodeCamp
-f2c52bfb1bd33f907168d12080ce0d73b6029c9c,"feat(curriculum): add A1-M2 Practice, Review, and Quiz (#63985)",2025-12-09T22:45:29Z,14,1169,RafaelDavisH,freeCodeCamp,freeCodeCamp
-ff996ed9f752f7849a919c2c399f6c66f6a54a7d,feat(curriculum): add A1-M2 learn meet tasks (#63825),2025-12-09T22:02:09Z,29,2643,RafaelDavisH,freeCodeCamp,freeCodeCamp
-db6e9141ecb57615eceae870130c7ce87092c268,feat(curriculum): A1 Spanish fundamentals Module QA Review (#64415),2025-12-09T21:54:13Z,46,232,estefaniacn,freeCodeCamp,freeCodeCamp
-abcf06774642bcc5fadba244e70908550c5e21fc,fix(curriculum): add example for nested object destructuring (#64348),2025-12-09T20:23:12Z,1,28,huyenltnguyen,freeCodeCamp,freeCodeCamp
-d28fbdf0818e8f60e668064bd92efa0ecc81d309,feat: release rdb and python certs (#64253),2025-12-09T19:55:36Z,27,277,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-d9b5f4f8afbe657612d0017eee5114c6a3ae7618,fix(curriculum): Resolved grammar error in Email Simulator (#64411),2025-12-09T18:35:38Z,1,2,shrestha-das,freeCodeCamp,freeCodeCamp
-673e913b789ef9519e428679b14f9b53061c3598,refactor(client): remove aria-label from icons in ShareTemplate compo…,2025-12-09T17:30:46Z,1,21,AJTekniko,freeCodeCamp,freeCodeCamp
-39c41fde0d0dbec83bab247230bdbb43db482710,fix(curriculum): clarify JS functions quiz Q13 wording (#64401),2025-12-09T16:39:17Z,1,4,DeveloperViraj,freeCodeCamp,freeCodeCamp
-e746e5ff24349236dc9058c2ba1f868c9c263c08,feat(curriculum): Add A1 Spanish The First Ten Numbers Blocks (#64018),2025-12-09T16:36:18Z,33,2459,estefaniacn,freeCodeCamp,freeCodeCamp
-005af24bddf0914ab5d7560f8ff834df8c1452cf,fix: expand ownership to intros (#64407),2025-12-09T16:31:02Z,1,1,raisedadead,freeCodeCamp,freeCodeCamp
-96da10e8dd3d75e17c3f8336478772ac03d19484,feat: Add A1 Spanish Numbers 10 to 29 Module (#64080),2025-12-09T16:24:16Z,52,4432,estefaniacn,freeCodeCamp,freeCodeCamp
-7b88efe5c5d9f18604b5de6ad6cdb04cf81875ef,feat(curriculum): Add animations to Chapter 3 Module 2 Block 1 (#63876),2025-12-09T11:25:00Z,28,1426,miyaliu666,freeCodeCamp,freeCodeCamp
-f87bc2ec01c8eb7886c110ac4f0919a036420167,fix(curriculum): correct grammar in dictionaries lecture (#64393),2025-12-09T10:50:41Z,1,2,ananyapahwa,freeCodeCamp,freeCodeCamp
