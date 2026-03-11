@@ -1,4 +1,27 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+a1c5e08728a9102dd2fd2130b25908e651703e52,fix(tests): disable dc e2e tests (#66357),2026-03-10T22:31:53Z,1,79,moT01,freeCodeCamp,freeCodeCamp
+9362039fce67d2738d5f03fc5c518165500776f3,feat: Added mp3 audio file name for what each department does (#66353),2026-03-10T21:16:57Z,2,2,RafaelDavisH,freeCodeCamp,freeCodeCamp
+bac47051e416fd8043b948823b5de8fe4c40d6d9,fix(curriculum): updated verb tense (#66351),2026-03-10T17:33:54Z,1,2,Julien-Desbard,freeCodeCamp,freeCodeCamp
+29979ca3a4cf64b45207eda32257ca6741dea980,feat(curriculum): add linked list operations lab (#65448),2026-03-10T17:01:55Z,4,500,larymak,freeCodeCamp,freeCodeCamp
+521c2212768a31f977a8eb4af74f65bae8f9003e,fix: incomplete html and css course names for catalog (#66316),2026-03-10T16:29:30Z,22,136,jdwilkin4,freeCodeCamp,freeCodeCamp
+d444cc0cb73f8ea6c14279bd132c2aadf3a15110,fix(curriculum): add opposite parameter validation tests (#66296),2026-03-10T15:33:23Z,1,82,majestic-owl448,freeCodeCamp,freeCodeCamp
+66c9c7913f8a48f8577037edc4abf0bff56fe410,"Revert ""fix(client): avoid redundant updateFile dispatch on load when…",2026-03-10T15:19:29Z,1,13,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+bd767988e42fba084459a02aaa82545553c03f24,fix(curriculum): reorder intros for superblock responsive-web-design-…,2026-03-10T14:48:17Z,1,83,majestic-owl448,freeCodeCamp,freeCodeCamp
+7302c9b96569b752fb303bfa2facc5c9a89dc6b3,fix(curriculum): reorder intros for superblock relational-databases-v…,2026-03-10T14:47:10Z,1,64,majestic-owl448,freeCodeCamp,freeCodeCamp
+86f34c557af1239de2c0dd5a62857341edd94159,fix(curriculum): reorder intros for superblock python-v9 (#66293),2026-03-10T14:45:54Z,1,74,majestic-owl448,freeCodeCamp,freeCodeCamp
+1ad17425aa7182567eebd4dc5cf8c273f018a431,fix(curriculum): reorder intros for superblock back-end-development-a…,2026-03-10T14:45:01Z,1,42,majestic-owl448,freeCodeCamp,freeCodeCamp
+40a1339b8c11d4dec0ac12b542a82021c1bc8e67,fix(curriculum): reorder intros for superblock front-end-development-…,2026-03-10T14:43:23Z,1,28,majestic-owl448,freeCodeCamp,freeCodeCamp
+512172de1e534ded375ea8120f8dc8c82fc41062,fix(curriculum): reorder intros for superblock javascript-v9 (#66290),2026-03-10T14:40:46Z,1,140,majestic-owl448,freeCodeCamp,freeCodeCamp
+d4161819cc950c27c48aa38720e6f51ad6e18a23,fix(client) downloaded daily code challenge solution with filename (#…,2026-03-10T14:15:37Z,4,52,leputz,freeCodeCamp,freeCodeCamp
+8c3a89113a83563d2d4cb0423ee0a0a63cec0f9c,fix(client): avoid redundant updateFile dispatch on load when files a…,2026-03-10T13:51:26Z,1,13,Sembauke,freeCodeCamp,freeCodeCamp
+0e25761399963538516539065fb0bf3356c152f4,fix(curriculum): enforce recursion in Build a Countdown challenge (#6…,2026-03-10T12:30:24Z,2,26,harirs139-ui,freeCodeCamp,freeCodeCamp
+316b3b02ce14756c563c9198266fff6eff5bd8f3,refactor(curriculum): remove challenge caching (#66297),2026-03-10T08:49:51Z,1,30,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+fcdf03fe33f602efe679564024dfb3c2f86e89b4,"fix(tools): improve curriculum build, but with correct caching (#66323)",2026-03-10T08:32:50Z,2,6,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+ecceedbbb648a09d1f7f1ab8d1976aabe6d11008,feat: Add interactive rdbs courses to catalog (#66218),2026-03-10T07:14:40Z,22,455,jdwilkin4,freeCodeCamp,freeCodeCamp
+fba37af181aac52a1e9dd92b66501e09fc55a9c2,revert: remove unnecessary tsc call (#66322),2026-03-10T05:43:14Z,1,3,raisedadead,freeCodeCamp,freeCodeCamp
+5eea0731aa2c250b10696ba76e7bf745fd6f4b68,fix(curriculum): guaranteed typo in daily challenge (#66307),2026-03-10T05:25:51Z,2,4,Supravisor,freeCodeCamp,freeCodeCamp
+96f80a6493a8a627073fd6859e055606230ebeb8,perf: remove unnecessary tsc call (#66311),2026-03-10T04:15:04Z,1,3,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+eb30d67f1a12a910a50c29c8bcba1548fb39d36f,chore(deps): update actions/setup-node action to v6.3.0 (#66318),2026-03-10T03:07:05Z,1,4,renovate[bot],freeCodeCamp,freeCodeCamp
 9970e4dacbf67c355bd4588d0c6ac6dc0c5ef032,"chore(i18n,learn): update i18n-curriculum submodule (#66314)",2026-03-09T16:35:23Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 072cc4bdab2f22848098cedf698df02eac609411,"chore(i18n,client): processed translations (#66312)",2026-03-09T15:51:49Z,20,670,camperbot,freeCodeCamp,freeCodeCamp
 87edde16fe79bfb9be2818f7597a6f095e59e8b3,feat(curriculum): add dsa review to js v9 cert (#66009),2026-03-09T12:59:46Z,4,242,Ksound22,freeCodeCamp,freeCodeCamp
@@ -912,25 +935,3 @@ f61fd749276b67306509a26625c8c77002f64d05,chore(curriculum): update help category
 43aa311d044258ba1e1fe8a0525dac2af448e527,fix(curriculum): update email sending instructions in workshop-email-…,2025-12-11T07:32:48Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
 43781bf6e19745c5c26300523d4d07f8f7b8b6ba,chore(client): update component library to v5 (#64279),2025-12-11T04:02:18Z,20,142,Sembauke,freeCodeCamp,freeCodeCamp
 dbc5dd4f4accf1c3fbc1446bec9841cc28379baf,fix(client): .app.tar.gz exam bin is macos (#64095),2025-12-11T02:29:20Z,1,134,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-51b6a310acdcd3fb5530d52a468e2845ba3d0e9e,test(client): add test for ü character conversion to PinyinToHanziInp…,2025-12-11T01:54:05Z,1,11,pdtrang,freeCodeCamp,freeCodeCamp
-3837cdc9cb57894512b5de9c5c8248415f5f99c5,"feat(curriculum): A1 Spanish ""Greetings and Farewells"" Module QA Revi…",2025-12-10T21:55:24Z,15,58,estefaniacn,freeCodeCamp,freeCodeCamp
-ea876f90bbc04e44037f240a83c4cf25e76dea46,"feat(i18n, learn): add 4 new Spanish characters (#64480)",2025-12-10T21:40:04Z,1,48,DanielRosa74,freeCodeCamp,freeCodeCamp
-6a81d5fcce85e563ee638ea8bdc942de194fd04f,fix(curriculum): correct caret name (#64478),2025-12-10T20:08:27Z,1,2,RDFearless,freeCodeCamp,freeCodeCamp
-f5ee8780bca4f61090e7dc2a81ff2de3cded48e8,fix(curriculum): replace smart quotes with straight quotes (#64471),2025-12-10T19:46:53Z,1,2,Vikas Sharma,freeCodeCamp,freeCodeCamp
-33d97f5ed748940e23e23b0935b3b53bd59c12fc,feat(curriculum): A1 Spanish Welcome Module QA Review (#64473),2025-12-10T19:34:37Z,4,111,estefaniacn,freeCodeCamp,freeCodeCamp
-a8901751a4e4611e577cb9f1b1a9de8c55676028,fix(curriculum): correct typo in grid-auto-flow description (#64468),2025-12-10T18:45:19Z,1,2,Sahitya0805,freeCodeCamp,freeCodeCamp
-fbef211027c17c36d0f7afb80fe64f1a5c51fa70,fix(curriculum): typo in What Are Effects in React (#64464),2025-12-10T18:11:57Z,1,2,bdtripp,freeCodeCamp,freeCodeCamp
-075375700f5f0c09e15439642510a89b4e031d4a,feat(tools): rename-block helper script (#64201),2025-12-10T17:45:18Z,5,205,gikf,freeCodeCamp,freeCodeCamp
-df7da4546a9222d9880f67654446f13561bbc617,fix(curriculum): fix typos and small adjustments in CSS chapter Revie…,2025-12-10T17:15:16Z,1,30,majestic-owl448,freeCodeCamp,freeCodeCamp
-02f28fd6c8bf17ee7b7ab93dcd4be7ad37f7d9b7,"chore(i18n,client): processed translations (#64454)",2025-12-10T15:34:53Z,20,280,camperbot,freeCodeCamp,freeCodeCamp
-7a0b7b8733034e315e53563cce7f736acc9b30ec,refactor(client): remove hasEditableBoundaries from learn wrapper (#6…,2025-12-10T15:26:12Z,4,18,huyenltnguyen,freeCodeCamp,freeCodeCamp
-2caed054bddcf0ec534ce811a0afdb57ef9d96ef,fix(curriculum): distractors and answer are changed to inline code bl…,2025-12-10T14:29:16Z,1,16,shrestha-das,freeCodeCamp,freeCodeCamp
-b643a826230494493283303b8578efbdd96f7857,fix(curriculum): fix typo in CSS review (#64457),2025-12-10T14:09:56Z,1,2,shraddhaarora,freeCodeCamp,freeCodeCamp
-c8395eb1db5f5a6c0331998f37c815e611d9eabd,fix(api): add 401 to non user for exam routes (#64396),2025-12-10T13:00:18Z,4,96,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-397928c5101c34c2aedfbf733caadd680e5b22eb,fix(client): render report user page for signed out users (#64399),2025-12-10T12:59:56Z,2,88,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-1b98725699efcd7be8a27eaca41ec74ee0e55413,feat(client): remove broken signout button from /update-email (#64400),2025-12-10T12:59:05Z,2,12,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-6246bb5151fc64343284bbb9f3a458645dd196de,fix(curriculum): Capitalisation in blank for How to Express Agreement…,2025-12-10T12:40:26Z,1,2,zho00,freeCodeCamp,freeCodeCamp
-a67abd3fbc8337f0c0525c1939a85107c7a6fd6a,feat(client): redirect from /settings + /update-email after sign out …,2025-12-10T11:13:41Z,2,60,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-c0b9aa2cb0f336c441b48b37fe56c7ed37c82f59,fix(curriculum): fix highlighting in python basics quiz (#64422),2025-12-10T10:51:57Z,1,16,pdtrang,freeCodeCamp,freeCodeCamp
-2beb6c8dc64aaa81c12347d28467ccd5b742bd93,fix(tools): update error message for hints without tests (#64354),2025-12-10T08:20:13Z,2,6,MeaslyDay,freeCodeCamp,freeCodeCamp
-6a8be7ca5026cc377d4444acdfbcf4c535eac527,fix(tools): display blocks despite of missing superblock title/intro …,2025-12-10T07:24:36Z,2,4,gikf,freeCodeCamp,freeCodeCamp
