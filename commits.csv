@@ -1,4 +1,25 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+91f266030fadba5d179db4a31a3ce21f21084c67,fix(curriculum): clarify step descriptions in movie ticket booking ca…,2026-03-12T21:53:58Z,8,24,majestic-owl448,freeCodeCamp,freeCodeCamp
+bc978ac65774a99a4cd670d194cead2bd3e39437,feat(curriculum): clarify instructions for theme switcher lab (#66404),2026-03-12T21:50:21Z,1,4,jtrang,freeCodeCamp,freeCodeCamp
+ce2520d9a60ef6ae446b191a62be2f5d67d1b0d2,fix(curriculum): remove before/after-user-code from rosetta challenge…,2026-03-12T19:59:54Z,5,235,Sembauke,freeCodeCamp,freeCodeCamp
+20f88de5408b6efb0f9982ea378d2b918a7ae901,fix(curriculum): Clarify what a `space-around` value of `align-conten…,2026-03-12T19:26:18Z,1,2,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
+b5b35d02c2bd679d933d478a2eb6c7339eba0e85,fix(tools): use ObjectId filename in create-next-challenge and insert…,2026-03-12T18:37:34Z,3,13,ragini-pandey,freeCodeCamp,freeCodeCamp
+a135c4589b84c8f7c1ad7cbca00541f647d70e6f,feat(curriculum): EN-B1 quiz for block 9 (#66325),2026-03-12T18:29:46Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
+3656e24289415aad7edfab10c5016c40dde2d124,feat(curriculum): EN-B1 quiz for block 11 (#66371),2026-03-12T18:28:38Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
+faa10d981966952ed1f0d7397375e6000f24824d,fix(curriculum): remove before/after-user-code from rosetta challenge…,2026-03-12T18:26:08Z,5,190,Sembauke,freeCodeCamp,freeCodeCamp
+4015c354b91ba927050ac84d1e9d1cba24a5c4d3,feat: Add precalculus course to catalog (#66089),2026-03-12T17:55:17Z,56,1763,jdwilkin4,freeCodeCamp,freeCodeCamp
+ab14a6a9b15fefe3bbe47861fbb1a7979ccbd405,fix(client): handle navbar style in high contrast mode (#66303),2026-03-12T15:26:33Z,1,62,Harshithk951,freeCodeCamp,freeCodeCamp
+692db3dc70bfd9e319d7e340d476815fee7b7257,feat(curriculum): EN-B1 quiz for block 12 (#66392),2026-03-12T15:19:52Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
+8a603365a8499cc1656803f17790151d4dc3e84c,fix: add max failures for unique PW tests to unclog CI (#66368),2026-03-12T15:12:08Z,1,2,Sembauke,freeCodeCamp,freeCodeCamp
+96b8af5e0f5b3c39dfc4f274745daa542e4e87d9,fix(curriculum): replace 'method' with 'function' for module calls in…,2026-03-12T14:58:53Z,3,12,nguyenduybao1,freeCodeCamp,freeCodeCamp
+42ca533939b96ac5072f4826884d7d9cbf346f31,refactor(client): have a single place to edit sounds url (#66381),2026-03-12T14:20:11Z,2,8,DanielRosa74,freeCodeCamp,freeCodeCamp
+046d707dd880fb9b8cd95d09a858731228836c0d,"chore(i18n,learn): update i18n-curriculum submodule (#66383)",2026-03-12T13:14:54Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+6b926149d893e3da67399c672f1223a2bb4d59ac,fix(deps): update dependency fastify to v5.8.1 (#66394),2026-03-12T13:06:13Z,2,47,renovate[bot],freeCodeCamp,freeCodeCamp
+131b285c31edfb02aa3dd04898952670c61cf410,fix(deps): update dependency typebox to v1.1.6 (#66393),2026-03-12T13:06:02Z,2,535,renovate[bot],freeCodeCamp,freeCodeCamp
+8e70e4a63142e16b4c8e879d3f0bdded193f540a,feat(curriculum): EN-B1 quiz for block 10 (#66337),2026-03-12T12:23:14Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
+72dfef22e568343cc2ea2016d5491668887e48f2,fix: typo in challenge instructions of workshop-colorful-boxes step 1…,2026-03-12T11:47:28Z,1,2,jphizon-dev,freeCodeCamp,freeCodeCamp
+f79e7ecc383891682269175ab8c7a791bfdc6af7,fix(curriculum): correct challengeType for lab-tower-of-hanoi from 23…,2026-03-12T07:49:25Z,1,2,majestic-owl448,freeCodeCamp,freeCodeCamp
+c543dfbc4d2c453362e2eb65041be6f1194f0cd5,chore(deps): update github actions (#66375),2026-03-12T04:03:15Z,7,26,renovate[bot],freeCodeCamp,freeCodeCamp
 f4ddbb97bc26f324e72759f134f72d9c37edbb87,"chore(i18n,learn): update i18n-curriculum submodule (#66374)",2026-03-11T23:21:21Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 581a488bc84ee83e3e51ecbe81be76e3060c0687,feat(curriculum): Add speaking practices to B1 English (#66376),2026-03-11T20:36:22Z,247,2204,DanielRosa74,freeCodeCamp,freeCodeCamp
 9aa6f05fa14f217d10ea37230f8a701f3503f4ac,fix(client): duplicate console output (#66350),2026-03-11T20:15:50Z,3,116,ojeytonwilliams,freeCodeCamp,freeCodeCamp
@@ -893,17 +914,3 @@ b5f7796c0673312cc215b6be12e423d63f2bfec6,fix: add missing quote in checkbox sele
 795d7c596216b8a90a5565d0e566b4e5520b09ef,fix(curriculum): improve answer to how-can-you-create-flexible-grids-…,2025-12-14T10:57:01Z,1,2,garyeung,freeCodeCamp,freeCodeCamp
 04b7ba32b96c042715ce0b3c02753f70e71c54c4,chore(github): fix code ownership (#64562),2025-12-14T06:00:41Z,1,6,huyenltnguyen,freeCodeCamp,freeCodeCamp
 ac3a31e920f26b2e07572c3c583b06c3ead978b5,fix: redirect to api /signin from client /settings (#64398),2025-12-14T05:59:24Z,7,135,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-1146bc23f81aea82f388bd6effb684d2157dadac,fix: changed function name from cc to cardCounter (#64560),2025-12-12T16:24:13Z,1,94,bdtripp,freeCodeCamp,freeCodeCamp
-9a83e95a60f1ae90cc920099bae15d8ba6ba2348,fix(curriculum): Add backticks to @property (#64561),2025-12-12T16:22:12Z,1,4,clarencepenz,freeCodeCamp,freeCodeCamp
-79585ae485739602158a31e39a67509348874b25,fix(curriculum): Fixed a typo quiz-bash-commands question (#64538),2025-12-12T14:33:32Z,1,2,Roxicaro,freeCodeCamp,freeCodeCamp
-44f5cd6cfcdde55b9e605a9096315a035e377890,feat: add user flags for all certifications (#64338),2025-12-12T13:51:05Z,23,345,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-4558096cee8c6e3f181e4de546d241f149d4b3ee,"fix(client,curriculum): add lang property to Challenge type (#64552)",2025-12-12T12:51:07Z,2,2,huyenltnguyen,freeCodeCamp,freeCodeCamp
-c425156fc7e60a6259791ce2fbe90ae27f956c60,fix: use proper csharp codeblock (#64550),2025-12-12T11:26:55Z,3,6,simoncriado,freeCodeCamp,freeCodeCamp
-aff30db058ac4cd6abe04c161580be015381c8db,fix(curriculum): corrected Mismatch in names for CSS backgrounds and …,2025-12-12T10:45:45Z,4,8,SkvProgrammer,freeCodeCamp,freeCodeCamp
-e2add9fca35f54d88c49c9d66a8cda4d416f73ae,chore(curriculum): update help category to Chinese Curriculum for mul…,2025-12-12T10:41:32Z,39,78,Sembauke,freeCodeCamp,freeCodeCamp
-5c3dd55406fa041891517ef7b4de5918f547c595,fix(client): show more descriptive error message on fetchUserError (#…,2025-12-12T10:28:43Z,6,38,leputz,freeCodeCamp,freeCodeCamp
-9f16487a200b52c0d5c0837af885180c4324d3af,fix(curriculum): use C# highlighting in static typing discussion  (#6…,2025-12-12T10:01:16Z,3,20,a2937,freeCodeCamp,freeCodeCamp
-b47ece72c8e4b4748f42d9390b99c755650cb712,fix: allow implicit labels in checkout lab tests (#63789),2025-12-12T09:16:27Z,1,19,dimssu,freeCodeCamp,freeCodeCamp
-19c1ad409bfd6e0fa91152e4d6461cdf8b9a37e8,feat(curriculum): enhance explanation of React keys and reconciliatio…,2025-12-12T08:53:56Z,1,16,AldaniP,freeCodeCamp,freeCodeCamp
-fd8d0e0d3ffab762caa7226c06ab9b4f2c2506df,fix(curriculum): updated comprehension check question for python vari…,2025-12-12T08:38:51Z,1,10,bdtripp,freeCodeCamp,freeCodeCamp
-33b1967a25a2e6aea5f20e85f5079c24a10c8310,feat: save submission to db (#64450),2025-12-12T07:31:25Z,62,173,ShaunSHamilton,freeCodeCamp,freeCodeCamp
