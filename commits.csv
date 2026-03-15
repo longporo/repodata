@@ -1,4 +1,23 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+612e291f5103f2a5408c03a53b6f0164e1bf7f94,fix(curriculum): remove before/after-user-code from basic javascript …,2026-03-14T18:27:44Z,4,57,Sembauke,freeCodeCamp,freeCodeCamp
+a36daa512bf7fe50714349fe1820ec5c2e18ec33,fix(curriculum): remove before/after-user-code from basic javascript …,2026-03-14T18:27:40Z,4,36,Sembauke,freeCodeCamp,freeCodeCamp
+b1867c4899668a91bbfc7ed645087e3a366d0f8d,fix(curriculum): remove before/after-user-code from basic javascript …,2026-03-14T18:27:24Z,4,26,Sembauke,freeCodeCamp,freeCodeCamp
+3be00dacda0e4dd1b1ea61097f29d1df44f683d9,fix(curriculum): remove before/after-user-code from basic javascript …,2026-03-14T18:26:22Z,4,24,Sembauke,freeCodeCamp,freeCodeCamp
+f426690248a1973d8f5f221c80522d33c952055f,chore(deps): update dependency @types/node to v24.12.0 (#66412),2026-03-14T14:19:04Z,1,334,renovate[bot],freeCodeCamp,freeCodeCamp
+3a64c4b245e88a4cd65c73985701329721e7cf60,fix(curriculum): remove before/after-user-code from project euler cha…,2026-03-14T13:45:46Z,4,126,Sembauke,freeCodeCamp,freeCodeCamp
+5e8b8088aaf7f2f5f6f2d7a50aa8068174f4ddf8,fix(curriculum): remove before/after-user-code from project euler cha…,2026-03-14T13:45:44Z,4,124,Sembauke,freeCodeCamp,freeCodeCamp
+e2284a7d28806fa86fb572c19b531b93fd9817fb,fix(curriculum): remove before/after-user-code from project euler cha…,2026-03-14T13:45:20Z,4,104,Sembauke,freeCodeCamp,freeCodeCamp
+6cb710438075d68c1be2c1991879ca446060f401,fix(curriculum): remove before/after-user-code from project euler cha…,2026-03-14T13:44:58Z,4,114,Sembauke,freeCodeCamp,freeCodeCamp
+9a21bd76cd9eb37720e228cfc39fac41afbab609,chore(deps): update pnpm/action-setup digest to fc06bc1 (#66423),2026-03-14T12:37:02Z,6,22,renovate[bot],freeCodeCamp,freeCodeCamp
+a8ce580f2220bac652cb6a6ae411406b83672572,fix(deps): update dependency fastify to v5.8.2 (#66450),2026-03-14T12:35:47Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
+1c30e353a49f5574371443b3d69046cd2f7b756f,chore(deps): update dependency eslint to v9.39.4 (#66445),2026-03-14T12:35:37Z,1,837,renovate[bot],freeCodeCamp,freeCodeCamp
+81685bcbbb8b7e72b16000807e1532e187a044e5,feat(curriculum): add Space Mission Roster Workshop - JavaScript v9 (…,2026-03-14T12:28:45Z,35,3899,LGH831,freeCodeCamp,freeCodeCamp
+f61cd9fbf8ec992a5b54750f354f5ffe5c9ed29c,feat(curriculum): add background and border example (#66398),2026-03-14T11:08:46Z,1,25,octavio-js,freeCodeCamp,freeCodeCamp
+2d75967c3770d4da2170ff057a50208b9abbbe18,fix(curriculum): update test for lab currency converter (#66403),2026-03-14T10:29:12Z,1,20,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+1bfdfcb8cd34a04764fe83d89c0120b9e6c96420,fix: truncate search input placeholder on mobile viewports (#66449),2026-03-14T09:26:11Z,1,2,Venkat-Entropik,freeCodeCamp,freeCodeCamp
+efa59cb7187444de8253f1599b5a1169e008b900,"refactor(client,curriculum): remove showSpeakingButton from challenge…",2026-03-14T09:23:08Z,248,250,huyenltnguyen,freeCodeCamp,freeCodeCamp
+e39731313283e6dbcb7c75ca53620dafb9dc785e,fix(client): reduce gap between action row and breadcrumbs (#66317),2026-03-14T09:21:38Z,3,14,huyenltnguyen,freeCodeCamp,freeCodeCamp
+96fa06b1014d575dd20fa40bab771044a3d9bf8f,fix(curriculum): make test consistent with lowercase storage (#66420),2026-03-14T09:13:18Z,1,6,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 854f619472dba79ed988585b079b70bd804660bb,fix(curriculum): fix lab-scatterplot-graph not passing test-curriculu…,2026-03-14T01:37:16Z,1,2,DanielRosa74,freeCodeCamp,freeCodeCamp
 b8c6ce977ce87a285ffa9c8e13a2d5fc78629b53,fix(curriculum): remove before/after-user-code from rosetta challenge…,2026-03-13T18:34:38Z,3,548,Sembauke,freeCodeCamp,freeCodeCamp
 975706e5e35aa87a5f0d8bffd8f7d15c5b8229c3,fix(curriculum): remove before/after-user-code from rosetta challenge…,2026-03-13T17:55:17Z,5,95,Sembauke,freeCodeCamp,freeCodeCamp
@@ -923,17 +942,3 @@ f3b6b60089861f0730dcced53bd5b8224e3e642a,fix(client): increase font size and spa
 e2a0145189e2710fda6b68f6c8853211020bb16a,fix(curriculum): add explanation for double curlies syntax in React i…,2025-12-15T03:05:53Z,1,2,lijack04,freeCodeCamp,freeCodeCamp
 6d86b80cddb5f64633586308b5780cbb60fb8b53,fix(curriculum): update `What Is the Difference Between content-box a…,2025-12-15T03:02:29Z,1,53,pdtrang,freeCodeCamp,freeCodeCamp
 8e861141dd4bcaecb0ad7a437971fc215c24714f,fix(curriculum): improve explanation of chained pseudo-classes (#64489),2025-12-15T02:55:43Z,1,5,alifarooqi,freeCodeCamp,freeCodeCamp
-246368a086f61dd3d3d6fef3c18ee67f4f625640,fix(curriculum): add length check to Media Catalogue step 40 (#64594),2025-12-15T02:22:08Z,1,2,FlipTrick720,freeCodeCamp,freeCodeCamp
-6836c5ded682e590536955c8b968b025608fb6b0,fix(curriculum): correct grammar in React state and hooks review (#64…,2025-12-15T00:08:19Z,1,4,CODEkuldeep,freeCodeCamp,freeCodeCamp
-0cd88a07f87ef08e184d31b4245d17b810edfd69,feat(curriculum): release A1 Spanish (#64519),2025-12-14T18:48:04Z,41,121,nieldakarla,freeCodeCamp,freeCodeCamp
-8c02cd8ed0b0e99372f431769ddfaf9eddc11912,"chore(i18n,learn): update i18n-curriculum submodule (#64570)",2025-12-14T18:31:37Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-1c57bd73e3c33a2cb7dcb5f2145fcde8f17f9872,feat(curriculum): Add A1 Chinese Chapter 3 Modules 2 Blocks 2-5 (#63777),2025-12-14T18:27:18Z,53,3967,miyaliu666,freeCodeCamp,freeCodeCamp
-ede24832362e2157cfb35f37da4ea9967372a45f,fix(curriculum): improve wording in medical data validator step 31 (#…,2025-12-14T16:40:37Z,1,2,tanishmundra-codes,freeCodeCamp,freeCodeCamp
-0cb93406a87e960cc3ff08848dc4ac1e9bd1cbc6,fix: added the missing quote for checkbox for issue (#64584),2025-12-14T15:42:27Z,2,8,Shakya47,freeCodeCamp,freeCodeCamp
-b5f7796c0673312cc215b6be12e423d63f2bfec6,fix: add missing quote in checkbox selector (#64585),2025-12-14T15:27:07Z,1,2,souparno-nag,freeCodeCamp,freeCodeCamp
-0233d77794f61456678c2dcbe7a41cc742d91630,fix(curriculum): update browser support for @property (#64559),2025-12-14T14:56:45Z,1,2,Upasana-610,freeCodeCamp,freeCodeCamp
-3c42fc858b5d7fe0b930415286043938bfcc7028,fix(curriculum): typo in CSS typography review (#64574),2025-12-14T11:15:20Z,1,2,bdtripp,freeCodeCamp,freeCodeCamp
-2ed1b5b86d8979a88d9a908be2769fc957e26583,fix(curriculum): add note for python 2 to python installation lesson …,2025-12-14T10:59:58Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
-795d7c596216b8a90a5565d0e566b4e5520b09ef,fix(curriculum): improve answer to how-can-you-create-flexible-grids-…,2025-12-14T10:57:01Z,1,2,garyeung,freeCodeCamp,freeCodeCamp
-04b7ba32b96c042715ce0b3c02753f70e71c54c4,chore(github): fix code ownership (#64562),2025-12-14T06:00:41Z,1,6,huyenltnguyen,freeCodeCamp,freeCodeCamp
-ac3a31e920f26b2e07572c3c583b06c3ead978b5,fix: redirect to api /signin from client /settings (#64398),2025-12-14T05:59:24Z,7,135,ojeytonwilliams,freeCodeCamp,freeCodeCamp
