@@ -1,4 +1,17 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+0fc80621fb857d33697f583a04aaae3353cdb470,fix: add missing test case and fix double semicolon in screaming snak…,2026-03-15T19:04:52Z,2,17,Harshithk951,freeCodeCamp,freeCodeCamp
+da0eea689e118c746313f106360dfd251ef7f399,fix(curriculum): Updated 'How Do You Access and Update Elements in an…,2026-03-15T18:13:15Z,1,2,p-rhodes,freeCodeCamp,freeCodeCamp
+5d6a286837da43c9abb30d8e03457cb67b7abae4,fix(curriculum): remove before/after-user-code from basic javascript …,2026-03-15T17:30:40Z,2,57,Sembauke,freeCodeCamp,freeCodeCamp
+f853374e4dd828c40552ab578ec77a74c482d18e,fix(curriculum): remove before/after-user-code from basic javascript …,2026-03-15T17:30:36Z,3,18,Sembauke,freeCodeCamp,freeCodeCamp
+be81d120338fdd44fe90c164051452d0e7e70afe,fix(curriculum): remove before/after-user-code from basic javascript …,2026-03-15T17:29:18Z,2,12,Sembauke,freeCodeCamp,freeCodeCamp
+877f36aed4136b4403f28f2d06dfb6e4928986c6,fix(curriculum): remove before/after-user-code from basic javascript …,2026-03-15T17:21:26Z,3,18,Sembauke,freeCodeCamp,freeCodeCamp
+db2ced37a7307a9a0a7ee5c57059e7100c4d3a05,fix(curriculum): remove before/after-user-code from basic javascript …,2026-03-15T17:19:24Z,3,18,Sembauke,freeCodeCamp,freeCodeCamp
+981a971028b849064e0dea5aacd779c5d897305a,fix(curriculum): remove before/after-user-code from basic javascript …,2026-03-15T16:02:35Z,5,30,Sembauke,freeCodeCamp,freeCodeCamp
+2d810c98a5bc6a0b71c168b58c2514623aa0e5d6,fix(curriculum): remove before/after-user-code from basic javascript …,2026-03-15T16:02:28Z,5,30,Sembauke,freeCodeCamp,freeCodeCamp
+7bffeff2fd2c6ca752c26ec0f2fe2c2c4a20baca,fix(curriculum): remove before/after-user-code from basic javascript …,2026-03-15T16:02:24Z,5,78,Sembauke,freeCodeCamp,freeCodeCamp
+d7ea28341ea34bcedd9821dcff71e4847f559cda,fix(curriculum): remove before/after-user-code from basic javascript …,2026-03-15T16:02:02Z,5,30,Sembauke,freeCodeCamp,freeCodeCamp
+4ab140121c4629f248f6633859d1b43107095e03,fix(curriculum): remove before/after-user-code from basic javascript …,2026-03-15T15:44:33Z,5,63,Sembauke,freeCodeCamp,freeCodeCamp
+b69f941bc5c1c28ef53b96b25d0234a581ce9f13,feat(github): add workflow for PR contribution guidelines (#66380),2026-03-15T11:09:32Z,6,478,huyenltnguyen,freeCodeCamp,freeCodeCamp
 612e291f5103f2a5408c03a53b6f0164e1bf7f94,fix(curriculum): remove before/after-user-code from basic javascript …,2026-03-14T18:27:44Z,4,57,Sembauke,freeCodeCamp,freeCodeCamp
 a36daa512bf7fe50714349fe1820ec5c2e18ec33,fix(curriculum): remove before/after-user-code from basic javascript …,2026-03-14T18:27:40Z,4,36,Sembauke,freeCodeCamp,freeCodeCamp
 b1867c4899668a91bbfc7ed645087e3a366d0f8d,fix(curriculum): remove before/after-user-code from basic javascript …,2026-03-14T18:27:24Z,4,26,Sembauke,freeCodeCamp,freeCodeCamp
@@ -917,28 +930,3 @@ be68b23dd1c09cbe36e47e60b407ac5794d4078b,fix(curriculum): typo in step 19 of sup
 065a2dcfd146674658fc5c19b8f7e9a5d830ff0a,feat: release b1 exam (#64643),2025-12-16T09:35:31Z,7,65,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 58b0c551243ef2e095a8bc158620ec4eae4945ee,fix(curriculum): Update column count test in Book Inventory App (#64620),2025-12-16T08:48:27Z,1,6,tanishmundra-codes,freeCodeCamp,freeCodeCamp
 09148e0cd9aadefad05da0a5cd06f7ce54a71fd8,chore(deps): upgrade @freecodecamp/ui to 5.0.1 (#64611),2025-12-16T07:55:06Z,2,163,huyenltnguyen,freeCodeCamp,freeCodeCamp
-142f6edc6b6e8ae1e75f72b1ff2b3e1990380c59,fix(curriculum): hanzi-pinyin format in Meeting New Teammates - task …,2025-12-15T23:45:36Z,2,6,huyenltnguyen,freeCodeCamp,freeCodeCamp
-a994fa054a124490bb7d1d25f024afe27a74d250,feat(curriculum): expand letter hint to mention Spanish keyboard (#64…,2025-12-15T22:38:24Z,1,2,estefaniacn,freeCodeCamp,freeCodeCamp
-7ca86fcb951c14650d48568f7523efefdc44b0df,fix(api): upsert moderation record on invalid attempt (#64635),2025-12-15T22:02:26Z,1,26,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-a102b19dcc805f5278442f0402210f0ee5dc1c0d,fix(client): Increased line height of quiz labels containing ruby (#6…,2025-12-15T20:52:11Z,1,4,laxitajain,freeCodeCamp,freeCodeCamp
-f411fc156a8f740c63e9e2b1f59dc6fc9ebfebeb,feat(curriculum): add Pinyin Practice block with placeholder task (#6…,2025-12-15T20:04:05Z,5,84,huyenltnguyen,freeCodeCamp,freeCodeCamp
-7e00d4c3628603cd80d641d4a78cb9b22cf2d1f4,"chore(i18n,learn): update i18n-curriculum submodule (#64617)",2025-12-15T18:48:26Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-b107734c31279de07c31876fff8573f503def902,feat(curriculum): add intro to NodeJS quiz (#63141),2025-12-15T18:24:57Z,5,266,zairahira,freeCodeCamp,freeCodeCamp
-cde8852f05e6f4f7fd5f55e921c26236218dda6f,fix(curriculum): fix double space in React forms description (#64605),2025-12-15T17:59:17Z,1,2,FlipTrick720,freeCodeCamp,freeCodeCamp
-94c2d812b419bacb648a5def6ec04861d1fac5fe,feat(api): reject exam submissions (#64607),2025-12-15T17:04:53Z,17,265,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-c06d35c95e6a03c98dfc710cd1570d600b2399b9,"chore(i18n,learn): update i18n-curriculum submodule (#64612)",2025-12-15T15:49:29Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-6e838b80822a318f9314f01c168c091670c1f10a,fix(curriculum): Update description in Shortest Path Algorithm Step 2…,2025-12-15T15:26:42Z,1,2,tanishmundra-codes,freeCodeCamp,freeCodeCamp
-eb82f97d03dbce91a84342b7c0077de7a4db8f0d,feat(curriculum): add html boilerplate to bookstore workshop (#63743),2025-12-15T15:19:52Z,20,739,shokuyansh,freeCodeCamp,freeCodeCamp
-83784763ff7efdfade1f6a93cdbe419bf7b42a22,fix(curriculum): add missing Pinyin to chapter 3 module 2 (#64596),2025-12-15T14:22:20Z,2,4,huyenltnguyen,freeCodeCamp,freeCodeCamp
-5ba10489723092707e1ba2257867821fe505cce3,feat(curriculum): Add A1 Chinese Chapter 3 Module 1 (#62780),2025-12-15T14:22:07Z,69,5862,miyaliu666,freeCodeCamp,freeCodeCamp
-78b430c19788897cccfc95195f20b727a5b4f8ee,refactor(client): simplify checks to see if a user has a certificatio…,2025-12-15T14:17:35Z,3,107,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-d828d5a076e558d16e280eb21957e5a1249c0f56,fix(curriculum): add data types explanation for python lesson (#64541),2025-12-15T14:00:21Z,1,14,pdtrang,freeCodeCamp,freeCodeCamp
-209b0f01d1c19cda569abd36ff9a68615756286f,fix(curriculum): remove ellipsis from Pinyin in zh-a1 challenge (#64602),2025-12-15T11:22:59Z,1,2,ItsYash1421,freeCodeCamp,freeCodeCamp
-001f884e214da144da7913049db478cc7afee071,fix(api): always use the same logic when saving challenges (#64553),2025-12-15T11:22:19Z,3,28,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-6fc07e356173fb7cc889cebf27c3d19930a0d587,refactor(client): manually generate webmanifest (#64529),2025-12-15T10:27:02Z,16,425,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-f3b6b60089861f0730dcced53bd5b8224e3e642a,fix(client): increase font size and spacing for Chinese text (#64388),2025-12-15T08:48:53Z,1,11,huyenltnguyen,freeCodeCamp,freeCodeCamp
-25e292901d946d4b94c3ac4a10d9ea3ef2144cca,fix(curriculum): remove average calculations from workshop-recipe-tra…,2025-12-15T04:43:40Z,15,894,l3onhard,freeCodeCamp,freeCodeCamp
-30f6f714c23d7f0e40b7804fae91d3bbc0d36884,fix(curriculum): updated undefined in empty arrays lesson (#64319),2025-12-15T03:07:54Z,1,63,carnegieJiang,freeCodeCamp,freeCodeCamp
-e2a0145189e2710fda6b68f6c8853211020bb16a,fix(curriculum): add explanation for double curlies syntax in React i…,2025-12-15T03:05:53Z,1,2,lijack04,freeCodeCamp,freeCodeCamp
-6d86b80cddb5f64633586308b5780cbb60fb8b53,fix(curriculum): update `What Is the Difference Between content-box a…,2025-12-15T03:02:29Z,1,53,pdtrang,freeCodeCamp,freeCodeCamp
-8e861141dd4bcaecb0ad7a437971fc215c24714f,fix(curriculum): improve explanation of chained pseudo-classes (#64489),2025-12-15T02:55:43Z,1,5,alifarooqi,freeCodeCamp,freeCodeCamp
