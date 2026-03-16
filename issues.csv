@@ -1,12 +1,14 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87zBTxG,66460,"Error in the text of the lesson, How Do You Access and Update Elements in an Array?",OPEN,2026-03-15T00:45:44Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87y7Ijj,66451,Cannot complete build a database of video game characters,OPEN,2026-03-14T11:27:31Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87X6nqc,63812,Add new loops workshop before sentence analyser workshop,OPEN,2025-11-13T19:12:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87zBTxG,66460,"Error in the text of the lesson, How Do You Access and Update Elements in an Array?",CLOSED,2026-03-15T00:45:44Z,2026-03-15T18:13:18Z,p-rhodes,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87zHgnZ,66475,Debug a Pet Adoption Page,CLOSED,2026-03-15T17:39:20Z,2026-03-15T18:06:12Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87fbU-4,64786,lab job application form user story has result not visible,OPEN,2025-12-19T18:57:44Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87pySsf,65810,Curriculum: Correct background-size example and add missing border-style example,CLOSED,2026-02-10T16:01:04Z,2026-03-14T11:08:47Z,octavio-js,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87y7Ijj,66451,Cannot complete build a database of video game characters,CLOSED,2026-03-14T11:27:31Z,2026-03-15T11:31:51Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87X6nqc,63812,Add new loops workshop before sentence analyser workshop,OPEN,2025-11-13T19:12:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87u1gR6,66156,code examples accessibility issue,OPEN,2026-03-01T11:46:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87LeJDl,62199,Spread operator (...) behaves incorrectly on array empty slots,CLOSED,2025-09-13T15:17:30Z,2026-03-11T11:44:15Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPDkQ,64109,Workshop – Space Mission Roster,CLOSED,2025-11-25T03:40:49Z,2026-03-14T12:28:47Z,LGH831;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87pySsf,65810,Curriculum: Correct background-size example and add missing border-style example,CLOSED,2026-02-10T16:01:04Z,2026-03-14T11:08:47Z,octavio-js,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPFTT,64126,Lab – Data Sanitizer Sweep,OPEN,2025-11-25T03:46:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86s68qe,59167,Customer Complaint Form - undefined edge case,OPEN,2025-03-06T18:29:01Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861cUE_,60201,Update react fundamentals and chapter review pages for import/export udpates,OPEN,2025-05-06T21:48:42Z,,,freeCodeCamp,freeCodeCamp
@@ -528,7 +530,6 @@ I_kwDOAbI7X87d8XNv,64555,Rotate back from /encoded endpoints,OPEN,2025-12-12T14:
 I_kwDOAbI7X87TasFt,63013,Add interactive examples to css reset lesson,CLOSED,2025-10-23T23:38:13Z,2025-10-24T08:28:18Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fcakD,64788,Improve `lang` type in file-handler script,CLOSED,2025-12-19T20:30:30Z,2025-12-19T21:42:32Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87dgZl7,64470,Missing information about CSS Grid in CSS chapter review page,CLOSED,2025-12-10T18:05:44Z,2025-12-19T19:18:36Z,Ali Farooqi,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87fbU-4,64786,lab job application form user story has result not visible,OPEN,2025-12-19T18:57:44Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fWGuj,64769,Grammar mistakes in Introduction Questions Review,CLOSED,2025-12-19T11:07:21Z,2025-12-19T18:53:12Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fV3pF,64768,Wrong case in Meeting New Teammates Warm Up audios - Tasks 21 and 22,CLOSED,2025-12-19T10:47:54Z,2025-12-19T18:53:12Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87dx5Rp,64537,Consider breaking up the python data types lesson into smaller lessons,CLOSED,2025-12-11T20:26:03Z,2025-12-19T17:23:28Z,Dario-DC,freeCodeCamp,freeCodeCamp
@@ -585,17 +586,3 @@ I_kwDOAbI7X87emo9o,64649,Rename Chapter 1 of A1 Chinese,CLOSED,2025-12-16T12:52:
 I_kwDOAbI7X87eqGCj,64658,Missing punctuation mark in Understanding the Greetings and Introductions - Task 22,CLOSED,2025-12-16T16:52:17Z,2025-12-16T19:24:19Z,EduardoRangelG,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ecFY6,64634,"Stable hooks for curriculum lesson text (e.g., semantic tags or data attributes) for a lecturer script",CLOSED,2025-12-15T19:57:57Z,2025-12-16T15:25:55Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87eeFgH,64641,Comparison to English in Greetings During the Day - Task 21,CLOSED,2025-12-15T22:54:22Z,2025-12-16T13:27:27Z,estefaniacn,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87eQ60m,64599,Answers are given in explanations in vowels lessons for spanish curriculum,CLOSED,2025-12-15T06:38:38Z,2025-12-16T01:40:10Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87eRJUv,64600,Consider making closed captioning the default in alphabet lesson(spanish curriculum),CLOSED,2025-12-15T06:59:08Z,2025-12-16T01:35:21Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87easza,64622,Increase line height of quiz labels containing `ruby`,CLOSED,2025-12-15T18:00:39Z,2025-12-15T20:52:13Z,laxitajain,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86rjsRa,58979,Progress Reset Issue and Suggestion for Points on Submission,CLOSED,2025-02-25T12:35:57Z,2025-12-11T22:04:21Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87eJy9J,64581,shortest path step 20,CLOSED,2025-12-14T10:33:24Z,2025-12-15T15:26:43Z,tanishmundra-codes,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Wzagt,63669,workshop-bookstore-page missing html boilerplate,CLOSED,2025-11-08T17:54:15Z,2025-12-15T15:19:53Z,majestic-owl448;shokuyansh,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87dxnCn,64533,Update data types python lesson,CLOSED,2025-12-11T19:59:02Z,2025-12-15T14:00:22Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87eM7Qc,64595,Remove ellipsis from Pinyin,CLOSED,2025-12-14T19:58:39Z,2025-12-15T11:23:01Z,ItsYash1421,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87eCClH,64568,Ambiguous instructions on workshop,CLOSED,2025-12-12T22:58:54Z,2025-12-15T11:12:49Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87W52rz,63685,Update recipe tracker,CLOSED,2025-11-09T21:06:01Z,2025-12-15T04:43:41Z,l3onhard,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ZUMxO,63990,Update empty arrays lesson,CLOSED,2025-11-20T07:52:24Z,2025-12-15T03:07:55Z,carnegieJiang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Zel62,64002,Add explanation for inline styles syntax for react lesson,CLOSED,2025-11-20T19:07:11Z,2025-12-15T03:05:54Z,lijack04,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87c-W_N,64383,Modifications to What Is the Difference Between content-box and border-box? page,CLOSED,2025-12-08T17:25:30Z,2025-12-15T03:02:30Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87c9TCO,64375,Confusing Explanation of ::after and :checked,CLOSED,2025-12-08T16:12:45Z,2025-12-15T02:55:44Z,Ali Farooqi;alifarooqi;huyenltnguyen,freeCodeCamp,freeCodeCamp
