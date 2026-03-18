@@ -1,14 +1,24 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87zgfgI,66515,Success message after logging out,OPEN,2026-03-16T23:47:35Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863jX9t,60461,Inconvenient discovery of challenges in Full Stack Developer Curriculum,OPEN,2025-05-21T09:08:10Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87z22LS,66530,Suggestion: split the JavaScript certification into two separate certifications,OPEN,2026-03-17T21:14:54Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87z4e-K,66531,Inaccuracy in learn Prompting fundamentals language model video,OPEN,2026-03-17T23:06:47Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87z4-j6,66532,Bad example in Prompt Engineering useful video,OPEN,2026-03-17T23:41:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86do2Ms,57107,"Removal of --before-user-code--, --after-user-code--",CLOSED,2024-11-08T17:42:51Z,2026-03-17T16:59:18Z,Sembauke,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87zk4_i,66520,Wrong answer in Python quiz,CLOSED,2026-03-17T06:36:37Z,2026-03-17T16:32:08Z,PrasadK1015,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X865WfJn,60660,Add test to ensure block name in `meta.json` and in `intro.json` match,CLOSED,2025-06-02T11:01:43Z,2026-03-17T15:43:16Z,Sembauke;ojeytonwilliams,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86sPbBd,59089,Full Stack build-a-sorting-visualizer Test 18,CLOSED,2025-03-02T18:55:53Z,2025-03-05T20:11:56Z,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87zUVfi,66501,Interactive editor console panel displays live array references instead of snapshots,OPEN,2026-03-16T12:29:52Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87zgfgI,66515,Success message after logging out,OPEN,2026-03-16T23:47:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87tkmFt,66036,JavaScript certification - Build a Theme Switcher - Idea for extra user story,OPEN,2026-02-24T20:58:51Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87eca6R,64636,Lesson explanations for greetings and farewells module,OPEN,2025-12-15T20:26:22Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86N2qYZ,55363,[api]: handling concurrent user record writes,OPEN,2024-06-28T08:46:00Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87zZ_Ne,66508,Donate button should always be visible,OPEN,2026-03-16T16:59:54Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X863jX9t,60461,Inconvenient discovery of challenges in Full Stack Developer Curriculum,OPEN,2025-05-21T09:08:10Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87i1tcs,65101,Make it easier for returning campers to resume where they left off,OPEN,2026-01-12T19:39:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPEQC,64114,Workshop – Sensor Burst Analyzer,OPEN,2025-11-25T03:42:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPD_P,64111,Workshop – Delivery Route Merger,OPEN,2025-11-25T03:42:04Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87zZ_Ne,66508,Donate button should always be visible,OPEN,2026-03-16T16:59:54Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPE9T,64122,Lab – Traffic Light Sequencer,OPEN,2025-11-25T03:45:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87xrDN_,66361,No language selector on small window of daily challenge,OPEN,2026-03-10T22:38:06Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87zUVfi,66501,Interactive editor console panel displays live array references instead of snapshots,OPEN,2026-03-16T12:29:52Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ae7vr,64151,interactive editor is overly eager,OPEN,2025-11-26T03:21:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87u1gR6,66156,code examples accessibility issue,CLOSED,2026-03-01T11:46:23Z,2026-03-16T13:00:30Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Xq1cH,63788,Escaping HTML entities,OPEN,2025-11-12T21:42:22Z,,,freeCodeCamp,freeCodeCamp
@@ -81,7 +91,6 @@ I_kwDOAbI7X87xq_gL,66360,Independent Jaw doesn't have an option to download code
 I_kwDOAbI7X87xlzlO,66352,Failing Playwright test for daily challenges,CLOSED,2026-03-10T17:33:40Z,2026-03-10T22:31:56Z,moT01,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87sEy-J,65952,Better use of verb in Learn How to Manage a Conversation,CLOSED,2026-02-19T02:33:29Z,2026-03-10T17:33:57Z,Julien-Desbard,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87xWbpS,66319,Unable to log in,CLOSED,2026-03-10T03:41:54Z,2026-03-10T15:28:16Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86do2Ms,57107,"Removal of --before-user-code--, --after-user-code--",OPEN,2024-11-08T17:42:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87q-Cf9,65887,Improve solution download format to ZIP project structure,OPEN,2026-02-14T19:37:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87JQzEc,62018,Daily challenge solutions are saved as `undefined.txt`,CLOSED,2025-09-02T15:57:39Z,2026-03-10T14:15:40Z,leputz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861vbc0,60231,Code evaluated twice after saving,CLOSED,2025-05-08T14:02:29Z,2026-03-10T13:51:28Z,Sembauke,freeCodeCamp,freeCodeCamp
@@ -196,7 +205,6 @@ I_kwDOAbI7X87tLa5Q,66017,Build a string formatter issue,CLOSED,2026-02-23T16:58:
 I_kwDOAbI7X87tkdIN,66035,Bug: Testing Presence of has() Method in Step 17 of Build a Plant Nursery Catalog Workshop,CLOSED,2026-02-24T20:50:11Z,2026-02-25T08:37:32Z,farchettiensis,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jpTyW,65210,Add interactive examples to Responsive Web Design Review page,CLOSED,2026-01-15T21:33:09Z,2026-02-25T08:31:15Z,Vipeen-Kumar,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87tXE9f,66025,cafe menu step 10 passes only if code is inside editable region,CLOSED,2026-02-24T08:26:01Z,2026-02-24T21:40:44Z,ragini-pandey,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87tkmFt,66036,JavaScript certification - Build a Theme Switcher - Idea for extra user story,OPEN,2026-02-24T20:58:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87tg2Bf,66029,Quiz 'DOM Manipulation and...' quest. 15 reveals answer via syntax highlighting,CLOSED,2026-02-24T17:02:30Z,2026-02-24T18:11:38Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87idU_p,65069,Confetti effect triggers after resuming workshop instead of completing entire workshop.,CLOSED,2026-01-10T08:32:30Z,2026-02-24T13:38:48Z,rizwan-rizu,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87squlO,65982,Curriculum tags (theory/lab/etc) aren't centered vertically,CLOSED,2026-02-20T22:25:23Z,2026-02-24T07:32:19Z,moT01,freeCodeCamp,freeCodeCamp
@@ -205,7 +213,6 @@ I_kwDOAbI7X87e8yf5,64724,Create a prototype for Python numbers and math operatio
 I_kwDOAbI7X87aPE14,64121,Workshop – Artifact Provenance Auditor,OPEN,2025-11-25T03:44:42Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPEw0,64119,Lab – Guild Loot Tracker,OPEN,2025-11-25T03:44:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87sqD0u,65981,Travel Weather Planner is missing a test for User Story #4,CLOSED,2026-02-20T21:28:23Z,2026-02-23T16:45:56Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87eca6R,64636,Lesson explanations for greetings and farewells module,OPEN,2025-12-15T20:26:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87s5lUw,66002,Typos in text on Python Certification - Python Basics Review page,CLOSED,2026-02-22T13:22:56Z,2026-02-23T10:47:56Z,Mostafa,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87bFj9i,64218,CSSHelp issue with `getStyleAny`,OPEN,2025-11-28T18:46:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87s3dw9,66000,Misleading message in Build a MathBot workshop of JavaScript certification,CLOSED,2026-02-22T08:54:38Z,2026-02-22T09:03:40Z,,freeCodeCamp,freeCodeCamp
@@ -240,7 +247,6 @@ I_kwDOAbI7X87rJJ9e,65890,JavaScript Scope,CLOSED,2026-02-15T22:19:49Z,2026-02-15
 I_kwDOAbI7X85xHUSK,51554,Color Coding New Content,CLOSED,2023-09-15T05:42:19Z,2026-02-15T07:38:55Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86kobjV,57818,Consider saving the code for labs,CLOSED,2024-12-29T01:19:34Z,2026-02-15T07:33:19Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87mCQ5S,65521,Challenge 170: Odd or Even Day Test 3 issue,CLOSED,2026-01-27T08:09:49Z,2026-02-14T18:38:02Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86N2qYZ,55363,[api]: handling concurrent user record writes,OPEN,2024-06-28T08:46:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87YtbsV,63935,Clarify ambiguous instructions in Tribute Page project,CLOSED,2025-11-18T02:23:27Z,2026-02-14T17:36:37Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Y7cum,63959,confusing way to talk about type of a css variable,CLOSED,2025-11-18T18:24:02Z,2026-02-14T17:34:33Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87qtbLn,65874,CSS Chapter review missing box-shadow,CLOSED,2026-02-13T15:38:58Z,2026-02-13T19:22:59Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
@@ -565,27 +571,3 @@ I_kwDOAbI7X87fC_Es,64737,curriculum @ojeytonwilliams,CLOSED,2025-12-18T08:52:28Z
 I_kwDOAbI7X87djBwq,64486,Python Dictionaries and Sets Review Quiz typo,CLOSED,2025-12-10T22:08:53Z,2025-12-18T09:45:32Z,geetxnshgoyal;majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87e9FPH,64726,Fix incorrect code blocks for css example in minmax function lesson,CLOSED,2025-12-17T21:25:22Z,2025-12-18T08:41:47Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fAirf,64733,Responsive web development Course,CLOSED,2025-12-18T04:57:10Z,2025-12-18T05:36:57Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87eZ-uZ,64619,Update hint for ñ character lesson,CLOSED,2025-12-15T17:05:55Z,2025-12-15T22:38:26Z,estefaniacn,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87e4AwY,64707,python what-is-an-algorithm-and-how-does-big-o-notation-work typo,CLOSED,2025-12-17T14:51:21Z,2025-12-17T21:40:56Z,aditya-baniya-ai;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87eyrJ1,64688,Wrong punctuation mark in Greeting New Colleagues Warm Up,CLOSED,2025-12-17T08:11:41Z,2025-12-17T21:08:07Z,Dafterfly;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87e5djI,64713,Including optional parenthesis causes test to fail,CLOSED,2025-12-17T16:31:25Z,2025-12-17T20:35:28Z,ItsYash1421,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Yyo8J,63943,Hovering blocks should not add to browser history,CLOSED,2025-11-18T09:48:11Z,2025-12-17T19:36:25Z,Sembauke;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87erhd6,64667,Audio seems cutoff for Task 10 in angela and basti lessons,CLOSED,2025-12-16T18:51:06Z,2025-12-17T19:18:59Z,RafaelDavisH;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87erLTu,64665,Issue with question 3 of introduce yourself quiz,CLOSED,2025-12-16T18:20:28Z,2025-12-17T19:18:59Z,RafaelDavisH;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87P6-rG,62555,Make curriculum subject headings anchor linkable for direct sharing,OPEN,2025-10-06T17:34:23Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Yv5um,63939,Certification menu course navigation history does not update for individual labs/reviews/quizzes/projects,CLOSED,2025-11-18T06:48:52Z,2025-12-17T19:10:07Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87aPEGx,64112,Lab – Story Fragment Shuffler,OPEN,2025-11-25T03:42:25Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87e2S3U,64701,The Build A Magazine Workshop breaks Structural Hierarchy,CLOSED,2025-12-17T12:50:14Z,2025-12-17T18:14:14Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87e2j5a,64702,Title and coming soon note for Intro to NodeJS module are missing,CLOSED,2025-12-17T13:09:35Z,2025-12-17T16:55:23Z,majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ey0RI,64689,Typo in Greeting New Colleagues Warm Up - Task 16,CLOSED,2025-12-17T08:24:36Z,2025-12-17T16:29:01Z,rahul24salunke,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X867heXg,60874,backend test runner does not set origin on fetch,CLOSED,2025-06-14T12:41:21Z,2025-12-17T16:02:08Z,ShaunSHamilton;ojeytonwilliams,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87dZIdn,64434,topic not taught in CSS Variables Quiz,CLOSED,2025-12-10T09:31:55Z,2025-12-17T14:05:00Z,zho00,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87cv5jx,64360,Python Selection Sort Algorithm pass without swap,CLOSED,2025-12-07T14:18:05Z,2025-12-17T12:29:04Z,gikf,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87eDFTB,64571,"Wrong idea.: backward navigation is a UX feature, not an accessibility feature.",CLOSED,2025-12-13T02:24:31Z,2025-12-17T11:50:15Z,ftoucch,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87dOJgg,64406,"Grammar fixes and rewording in Working with CSS Transforms, Overflow, and Filters lecture",CLOSED,2025-12-09T15:33:31Z,2025-12-17T11:46:26Z,majestic-owl448;zho00,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865WfJn,60660,Add test to ensure block name in `meta.json` and in `intro.json` match,OPEN,2025-06-02T11:01:43Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87eJ7K5,64583,Build a sentence maker line break issue,CLOSED,2025-12-14T11:03:38Z,2025-12-17T11:23:04Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87eF_qH,64576,Missing section titles in the JavaScript Review,CLOSED,2025-12-13T15:49:39Z,2025-12-17T11:00:49Z,Jeevankumar,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87erMVV,64666,A typo in Building Your Self-Introduction - Task 6,CLOSED,2025-12-16T18:21:40Z,2025-12-17T10:59:35Z,BilalGhazal,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87dgYf1,64469,Misaligned block labels on mobile view,CLOSED,2025-12-10T18:04:13Z,2025-12-17T10:14:31Z,garyeung,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ersC3,64669,Typos in Review Greetings and Introductions,CLOSED,2025-12-16T19:07:35Z,2025-12-17T09:45:05Z,EvanPerezJ,freeCodeCamp,freeCodeCamp
