@@ -1,4 +1,13 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+0ee85d6390a83e408c1178f512b2d85fc4e0dc26,"chore(i18n,learn): update i18n-curriculum submodule (#66549)",2026-03-18T22:36:04Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+b6d0663704b0306b6f6567457c39aa57e24cde00,feat(Curriculum): add 1 Spanish character and 2 Chinese (#66550),2026-03-18T19:29:10Z,4,49,nieldakarla,freeCodeCamp,freeCodeCamp
+660f39d6f53a99bdbbf39fb12676d4a048d3cd4f,chore: remove prompting course (#66553),2026-03-18T19:16:34Z,25,584,jdwilkin4,freeCodeCamp,freeCodeCamp
+7815cb635f3d42cc8467333940b8b062a66195ba,feat(curriculum): Add A1 Chinese Numbers below 100 (#65773),2026-03-18T19:08:45Z,108,8591,miyaliu666,freeCodeCamp,freeCodeCamp
+85c29457afda09be5fb54e7c00e0f7a39d045bfd,"fix(client, curriculum): prompting course URL names (#66528)",2026-03-18T16:37:47Z,17,44,jdwilkin4,freeCodeCamp,freeCodeCamp
+1a505276945e3c3985599e8b3123fd714ab50eca,"chore(i18n,client): processed translations (#66548)",2026-03-18T13:19:23Z,20,22596,camperbot,freeCodeCamp,freeCodeCamp
+32f20a1ba99f49c8fb158a3aef0e2ca813c59ccb,feat(curriculum): add Cargo Manifest Validator Lab to JavaScript v9 (…,2026-03-18T13:16:53Z,4,882,LGH831,freeCodeCamp,freeCodeCamp
+64697945303cd264a0d4946a32f61a09848087bf,fix: skip 'help wanted' on linked issue check for Naomi's Sprints ass…,2026-03-18T10:41:30Z,1,17,majestic-owl448,freeCodeCamp,freeCodeCamp
+3baf4610121bd17a85fc72e6c929696d9878b04d,fix: make PR template checklist header check case-insensitive (#66543),2026-03-18T10:40:37Z,1,16,majestic-owl448,freeCodeCamp,freeCodeCamp
 a74e55ee4b209b8cdc55ccd40af21c6f94b0a65b,feat(curriculum): daily challenges 230-245 (#66511),2026-03-17T19:14:32Z,35,3150,moT01,freeCodeCamp,freeCodeCamp
 e66bf09dce6de0275750dbdc6d82a6e8253efcf2,"refactor(tools,client): remove head and tail logic (#66524)",2026-03-17T16:59:16Z,34,1022,Sembauke,freeCodeCamp,freeCodeCamp
 1990ba67948d789b852fbf28a5917f1cba761946,fix: incorrect answer in quiz-graphs-and-trees question (#66526),2026-03-17T16:32:06Z,1,2,KadamPrasad01,freeCodeCamp,freeCodeCamp
@@ -897,28 +906,3 @@ fd6c9375417277cf5f88aaa62ef78b99b385f6af,fix: remove stray console.log from Spea
 dddbe85682ba10ef52424bfbdd654388d57cd553,feat(curriculum): Add interactive examples to to static properties an…,2025-12-19T11:23:17Z,1,79,clarencepenz,freeCodeCamp,freeCodeCamp
 fc361c3dfeaa1b99349d38fe970a3a8ad4f86598,test: ignore url after deleting account (#64750),2025-12-19T07:29:48Z,1,9,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 229e539c1bfd56cf00ed4743a71fc28ae16c4b0d,fix(curriculum): add validation test for filteredBooks release year (…,2025-12-19T02:46:58Z,1,22,kannan-ravi,freeCodeCamp,freeCodeCamp
-cb6669fb8eb2a1a3d12b35c1b2107d6afd3f3609,"fix(curriculum): QA A1 Chinese Ch 2 blocks Nasal Sounds, Special Char…",2025-12-18T22:01:47Z,3,58,nieldakarla,freeCodeCamp,freeCodeCamp
-b404883428f5eb9d99a2b3db4c3534ab04ac20e1,fix(curriculum): remove paragraph on bitwise operators in Augmented A…,2025-12-18T20:07:27Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
-8defca5b978716fce86d9a333d68ae809bab23da,feat(curriculum): Add A1 Chinese curriculum pinyin practice block (#6…,2025-12-18T17:57:08Z,10,977,miyaliu666,freeCodeCamp,freeCodeCamp
-c71e83831f81ae048520f5304897a7864f4665c0,feat(curriculum): daily challenges 144-160 (#64530),2025-12-18T17:55:50Z,37,3063,moT01,freeCodeCamp,freeCodeCamp
-de75200db707ed79e2042920e47b17166272161f,fix(curriculum): simplify section headings in Chinese review pages (#…,2025-12-18T17:55:05Z,2,24,huyenltnguyen,freeCodeCamp,freeCodeCamp
-58d675824ae295670003b4d75f7b14050dd07333,fix(curriculum): add reminder for neutral tone syllables in FITB feed…,2025-12-18T17:54:28Z,7,18,huyenltnguyen,freeCodeCamp,freeCodeCamp
-ca41e4224c7d0159fccc48236c9a7329c4b78f39,fix(curriculum): An introduction of Chinese characters in the pinyin …,2025-12-18T17:53:17Z,2,4,miyaliu666,freeCodeCamp,freeCodeCamp
-4484e86746712ca94e16f00dafde84997772c05a,feat(curriculum): Add animations to A1 Chinese Pinyin initials block …,2025-12-18T17:47:34Z,56,4193,miyaliu666,freeCodeCamp,freeCodeCamp
-31cf00d7513f93e50b416befaba136b79e8cf0ae,feat(curriculum): add A1 Chinese nasal finals task scenes (#64725),2025-12-18T17:46:49Z,42,3365,estefaniacn,freeCodeCamp,freeCodeCamp
-01fefb14b492f1cd4e53e4c38716652dcba74bf3,feat(curriculum): Add animations to A1 Chinese Pinyin special spellin…,2025-12-18T17:23:12Z,17,1286,DanielRosa74,freeCodeCamp,freeCodeCamp
-fa6220d5e102c61c101c1c31f9901b9dcf4bf53e,fix(curriculum): change A1 Chinese introducing yourself audio timesta…,2025-12-18T17:09:54Z,1,2,estefaniacn,freeCodeCamp,freeCodeCamp
-14dd16ab80449141fec3df4d52a2148a7df47b74,fix(curriculum): improve understanding questions and answers explanat…,2025-12-18T16:13:56Z,1,2,estefaniacn,freeCodeCamp,freeCodeCamp
-65aeee2f28f6241b5f48dab79bb20d8cbd3cd0a1,fix(curriculum): improve explanation of A1 Chinese greetings and intr…,2025-12-18T15:46:55Z,1,3,estefaniacn,freeCodeCamp,freeCodeCamp
-4e715befdc3cabdb767d0eda94ef427ced32b705,fix(curriculum): corrected tone mark placement in compound finals - t…,2025-12-18T15:29:12Z,1,4,bdtripp,freeCodeCamp,freeCodeCamp
-3b68f329b770ddf56f2899a069e4a19bf4622f42,fix(curriculum): Update java code blocks to become csharp (#64551),2025-12-18T15:28:08Z,2,12,clarencepenz,freeCodeCamp,freeCodeCamp
-2938bac2a3c08ba9f79baa9ae8441e168579d1fc,improve permutation generator description (#64723),2025-12-18T14:47:00Z,1,10,majestic-owl448,freeCodeCamp,freeCodeCamp
-e40e8b9e7532155c4351881b58b5ebeece5eda61,fix(curriculum): clarify pronunciation wording in Chinese glossary (#…,2025-12-18T14:12:17Z,1,2,kiruthikadev-r,freeCodeCamp,freeCodeCamp
-3bd8958a0248158e943d39b25f63e1faa80d3c4d,feat(curriculum): add A1 Chinese compound finals scenes (#64730),2025-12-18T14:05:58Z,39,3087,estefaniacn,freeCodeCamp,freeCodeCamp
-49bb07991858f71fe66cc2518dc3786fef05f07e,fix(curriculum): animations for single finals adjusted (#64732),2025-12-18T13:32:37Z,9,323,DanielRosa74,freeCodeCamp,freeCodeCamp
-7ab6691f6441a7e52b3084802a400887e2d56270,fix(curriculum): Corrected case in 'My name is' in Task-3 (#64744),2025-12-18T12:14:29Z,1,2,veyrix-Tr,freeCodeCamp,freeCodeCamp
-a08aeb52425ea12ab4e2f522b6612baa344a54a4,fix(curriculum): fix grammar in greetings review (#64739),2025-12-18T12:11:24Z,2,6,amit-kr-ghosh,freeCodeCamp,freeCodeCamp
-033ad7b592e005b96a1703a111f7c077e6bd19fb,chore(deps): update vitest to 4.0.15 (#64736),2025-12-18T10:50:28Z,2,1359,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-1a61e476966f8559b34af294f5fcfb920e08a5fd,fix(curriculum): correct symmetric difference wording and examples (#…,2025-12-18T09:45:31Z,4,48,geetxnshgoyal,freeCodeCamp,freeCodeCamp
-75f3021c7752942574f892360aaa98f01a414f5c,feat(curriculum): add intro to NodeJS review page (#63139),2025-12-18T08:43:54Z,5,458,zairahira,freeCodeCamp,freeCodeCamp
-67704b6c4f307d6485e9f2448dc9015591b65338,fix(curriculum): fix code blocks for css example in minmax function l…,2025-12-18T08:41:46Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
