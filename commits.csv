@@ -1,4 +1,12 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+ac69d0a4c76f8f291f46fbb38d5b7bbb8d3f808b,fix: correct Back-End Development and APIs cert name (#66566),2026-03-20T01:22:49Z,1,2,AsmaAouiti,freeCodeCamp,freeCodeCamp
+fc4c2bff39b2724829c5a885c73c834a2f5e8cd1,chore(deps): update crowdin/github-action action to v2.15.1 (#66561),2026-03-19T17:20:24Z,3,22,renovate[bot],freeCodeCamp,freeCodeCamp
+e314ca7be6149c72c8b83cc9c59c89af2f83a7eb,fix: remove duplicate the in Odin Project reference (#65971),2026-03-19T15:13:28Z,3,6,realMelTuc,freeCodeCamp,freeCodeCamp
+e84ccfe12a9c4e1358b562873742d70f175c2258,chore(deps): update curriculum-helpers to v9.0.0 (#66421),2026-03-19T15:05:32Z,2,513,Dario-DC,freeCodeCamp,freeCodeCamp
+3e0f86fbbd0d9a4d330f0cf7b9e61f8606a7480c,feat(curriculum): add working with express theory block (#66215),2026-03-19T14:44:11Z,5,411,majestic-owl448,freeCodeCamp,freeCodeCamp
+0e9a06b4838513a0d75b88e8caff82444d22e3f1,fix(client): add missing translation string (#66558),2026-03-19T14:15:00Z,1,1,huyenltnguyen,freeCodeCamp,freeCodeCamp
+5baa3e8093a6f4dcc5870c71b5b1029b58574409,chore(deps): update pnpm/action-setup action to v4.3.0 (#66554),2026-03-19T14:12:05Z,1,4,renovate[bot],freeCodeCamp,freeCodeCamp
+3c77e8b2d48aa0ec18e38d00829d000775ef2589,fix(client): add Beta to English cert titles (#66547),2026-03-19T11:37:02Z,3,40,huyenltnguyen,freeCodeCamp,freeCodeCamp
 0ee85d6390a83e408c1178f512b2d85fc4e0dc26,"chore(i18n,learn): update i18n-curriculum submodule (#66549)",2026-03-18T22:36:04Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 b6d0663704b0306b6f6567457c39aa57e24cde00,feat(Curriculum): add 1 Spanish character and 2 Chinese (#66550),2026-03-18T19:29:10Z,4,49,nieldakarla,freeCodeCamp,freeCodeCamp
 660f39d6f53a99bdbbf39fb12676d4a048d3cd4f,chore: remove prompting course (#66553),2026-03-18T19:16:34Z,25,584,jdwilkin4,freeCodeCamp,freeCodeCamp
@@ -885,24 +893,3 @@ b23c3dc1646b7f6487210aa3e0c02fbed90ee71b,fix(curriculum): replace the tones audi
 32007bc5ac16b6e2793e6f02162fca2a1c85c6c1,fix(curriculum): hyphenate auto-placed items in CSS Grid review (#64799),2025-12-20T15:02:29Z,1,2,subhankarkr,freeCodeCamp,freeCodeCamp
 66e782815da837a53ecccf254c18b425a2e800c6,"chore(i18n,learn): update i18n-curriculum submodule (#64794)",2025-12-20T15:00:37Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 ead661acdc6644b2746d935c6de6afb01d5b741e,fix(curriculum): changes to Chinese chapter 3 module 2 (#64802),2025-12-20T13:56:32Z,17,53,anastasiiauk,freeCodeCamp,freeCodeCamp
-408290e0fbf146267a9c456e6b1be32098ccf023,fix(curriculum): improve lang type in file-handler script (#64789),2025-12-19T21:42:31Z,1,7,pdtrang,freeCodeCamp,freeCodeCamp
-b53d715704503cc729f640cc499244b331567cde,fix(client): fix speaking-modal showing span tags (#64759),2025-12-19T20:42:51Z,3,51,DanielRosa74,freeCodeCamp,freeCodeCamp
-c147f726f53cfa0e78ff3d7a199df5108b83c367,fix(curriculum): update CSS Grid review summary to include missing co…,2025-12-19T19:18:35Z,1,2,alifarooqi,freeCodeCamp,freeCodeCamp
-b25ede0089f90827cef09be91aeb17c89c069a93,fix(curriculum): issues in chapter 3 (#64784),2025-12-19T18:53:10Z,4,10,huyenltnguyen,freeCodeCamp,freeCodeCamp
-07cf4d4c8f5ab1803e9ffc585fa401018415d8c5,fix(curriculum): Altered the structure of a sentence to make it grama…,2025-12-19T18:49:36Z,2,4,Roxicaro,freeCodeCamp,freeCodeCamp
-46711cdaa7af0c009548fd4c73cbd0d1d5e7094f,fix(curriculum): A1 professional Chinese simple finals QA review (#64…,2025-12-19T18:41:51Z,7,32,estefaniacn,freeCodeCamp,freeCodeCamp
-299c5995a5505ec2633340b8946ad00cbcb69c9d,fix(curriculum): improve explanation for Compound Finals - task 24 (#…,2025-12-19T18:18:50Z,1,2,huyenltnguyen,freeCodeCamp,freeCodeCamp
-e2fe4766866401fc60a53b774fc1f320b3a823b9,fix(curriculum): restructure python basics module (#64700),2025-12-19T17:23:26Z,28,1289,Dario-DC,freeCodeCamp,freeCodeCamp
-b8e09e3b9aaadf2d9995f2ab49357ca65c5b972d,fix(curriculum): Update greetings and introductions dashed name (#64779),2025-12-19T17:10:27Z,1,4,nieldakarla,freeCodeCamp,freeCodeCamp
-a8cf71f76b89ea3152bd36c852b59ace1c5c4e33,fix(curriculum): change the single finals block name to simple finals…,2025-12-19T16:56:26Z,18,16,miyaliu666,freeCodeCamp,freeCodeCamp
-bd60787df6590b7f63c853f6ef4624e73ff33435,fix(curriculum): change compound finals task scenes background (#64777),2025-12-19T16:16:50Z,39,78,estefaniacn,freeCodeCamp,freeCodeCamp
-86c56e7bb9722e0596df7b5052e9f7bbb6c57667,fix(curriculum): A1 professional Chinese initials QA updates (#64774),2025-12-19T16:04:31Z,7,18,estefaniacn,freeCodeCamp,freeCodeCamp
-655dde215b1342ae9056a5d78f625676980de739,fix(curriculum): A1 professional Chinese compound finals QA updates (…,2025-12-19T16:01:33Z,5,24,estefaniacn,freeCodeCamp,freeCodeCamp
-0aac9c28d21f85993d77fd3ec92428d62c90ca28,feat(curriculum): add pricing plan lab to FSD cert (#62562),2025-12-19T15:19:43Z,5,453,mtrivera,freeCodeCamp,freeCodeCamp
-49ff43bba65ff2a1d4c4746faded2a87b42094a9,fix(curriculum): typos in parent teacher conference form workshop (#6…,2025-12-19T14:11:09Z,3,6,bdtripp,freeCodeCamp,freeCodeCamp
-0dc64305b940605cadddd1e55ae77e867f4a6331,fix(curriculum): reorder heart icon workshop steps to show heart soon…,2025-12-19T14:05:59Z,4,174,lijack04,freeCodeCamp,freeCodeCamp
-bf952f4c04af33640faf8fd355b1b309a1d70a5c,fix(curriculum): update A1 Chinese pinyin chapter based on QA feedbac…,2025-12-19T13:59:22Z,44,123,miyaliu666,freeCodeCamp,freeCodeCamp
-fd6c9375417277cf5f88aaa62ef78b99b385f6af,fix: remove stray console.log from SpeakingModal (#64771),2025-12-19T13:24:31Z,1,2,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-dddbe85682ba10ef52424bfbdd654388d57cd553,feat(curriculum): Add interactive examples to to static properties an…,2025-12-19T11:23:17Z,1,79,clarencepenz,freeCodeCamp,freeCodeCamp
-fc361c3dfeaa1b99349d38fe970a3a8ad4f86598,test: ignore url after deleting account (#64750),2025-12-19T07:29:48Z,1,9,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-229e539c1bfd56cf00ed4743a71fc28ae16c4b0d,fix(curriculum): add validation test for filteredBooks release year (…,2025-12-19T02:46:58Z,1,22,kannan-ravi,freeCodeCamp,freeCodeCamp
