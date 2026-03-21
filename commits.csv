@@ -1,4 +1,6 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+32b84dc9266b9b79818d7cb0ab574e1efa724ff0,fix(curriculum): en-B1-quiz 1-12 audio timestamp fixes and general su…,2026-03-20T06:10:25Z,10,46,DanielRosa74,freeCodeCamp,freeCodeCamp
+922e1330130faf69800bed445224f46cc23aea8a,fix(e2e): stabilize editor test (#66565),2026-03-20T02:59:57Z,1,15,huyenltnguyen,freeCodeCamp,freeCodeCamp
 ac69d0a4c76f8f291f46fbb38d5b7bbb8d3f808b,fix: correct Back-End Development and APIs cert name (#66566),2026-03-20T01:22:49Z,1,2,AsmaAouiti,freeCodeCamp,freeCodeCamp
 fc4c2bff39b2724829c5a885c73c834a2f5e8cd1,chore(deps): update crowdin/github-action action to v2.15.1 (#66561),2026-03-19T17:20:24Z,3,22,renovate[bot],freeCodeCamp,freeCodeCamp
 e314ca7be6149c72c8b83cc9c59c89af2f83a7eb,fix: remove duplicate the in Odin Project reference (#65971),2026-03-19T15:13:28Z,3,6,realMelTuc,freeCodeCamp,freeCodeCamp
@@ -889,7 +891,3 @@ b23c3dc1646b7f6487210aa3e0c02fbed90ee71b,fix(curriculum): replace the tones audi
 9b15ce53af7f7cd9a474d62d4cca50ed26b1582d,refactor: skip curriculum import to save compile time (#64742),2025-12-21T04:42:09Z,1,19,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 0a6206725615af6025860ebb1cbb347cf0c64053,feat(client): add locale date to attempt (#64766),2025-12-21T04:36:57Z,1,2,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 35c126e73383681bf3279718a973047b17c35d38,chore(deps): update github actions (#64807),2025-12-21T04:36:10Z,8,28,renovate[bot],freeCodeCamp,freeCodeCamp
-5680103086b67b6c5e17313d35f94b1a6c66a522,fix(curriculum): remove duplicated text in lecture-working-with-loops…,2025-12-20T17:23:07Z,1,2,ayvkma,freeCodeCamp,freeCodeCamp
-32007bc5ac16b6e2793e6f02162fca2a1c85c6c1,fix(curriculum): hyphenate auto-placed items in CSS Grid review (#64799),2025-12-20T15:02:29Z,1,2,subhankarkr,freeCodeCamp,freeCodeCamp
-66e782815da837a53ecccf254c18b425a2e800c6,"chore(i18n,learn): update i18n-curriculum submodule (#64794)",2025-12-20T15:00:37Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-ead661acdc6644b2746d935c6de6afb01d5b741e,fix(curriculum): changes to Chinese chapter 3 module 2 (#64802),2025-12-20T13:56:32Z,17,53,anastasiiauk,freeCodeCamp,freeCodeCamp
