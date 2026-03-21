@@ -1,9 +1,17 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X870_6pv,66576,Add flash message on sign out,OPEN,2026-03-20T22:27:32Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87zZ_Ne,66508,Donate button should always be visible,OPEN,2026-03-16T16:59:54Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87u9ILP,66173,Add Build a Zoo Animal Scatterplot workshop to frontend cert,OPEN,2026-03-02T03:01:09Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87v8CgD,66248,Unclear instructions in coding workshops,CLOSED,2026-03-05T03:37:19Z,2026-03-20T16:15:16Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X870aDM-,66557,Unclear instructions in workshops,CLOSED,2026-03-19T09:34:22Z,2026-03-20T16:15:01Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X855gjCI,52532,Meet accessibility standards checked by common benchmarks,CLOSED,2023-12-12T21:27:55Z,2026-03-20T14:16:56Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ebYl8,64632,Question about quizzes and future Spanish exams,CLOSED,2025-12-15T18:59:19Z,2026-03-20T14:13:12Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X8700FHo,66570,Add Facebook share button after workshops,OPEN,2026-03-20T11:16:30Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X870mMf_,66563,add module on how to use AI/LLMs in learning,OPEN,2026-03-19T19:04:44Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87zgfgI,66515,Success message after logging out,OPEN,2026-03-16T23:47:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X870p4Sn,66567,Fix typo in README: Back-End developer → Back-End Development,CLOSED,2026-03-19T22:44:33Z,2026-03-20T01:22:52Z,AsmaAouiti,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87z_Yfw,66541,accessiblity issue with quizzes,OPEN,2026-03-18T08:11:25Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X870mMf_,66563,add module on how to use AI/LLMs in learning,OPEN,2026-03-19T19:04:44Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X870aDM-,66557,Unclear instructions in workshops,OPEN,2026-03-19T09:34:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87x0qOq,66369,Cursor Focus on Editor Doesn't Work on Firefox,CLOSED,2026-03-11T09:48:05Z,2026-03-13T12:34:43Z,ragini-pandey,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87w5ZBs,66302,Interactive editor shows extra constructor metadata in JS classes lecture,OPEN,2026-03-08T15:58:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87IWBw0,61969,i18n: complete migration to i18next v25.4.2,CLOSED,2025-08-27T23:54:01Z,2026-03-19T12:31:25Z,,freeCodeCamp,freeCodeCamp
@@ -18,12 +26,10 @@ I_kwDOAbI7X87z4-j6,66532,Bad example in Prompt Engineering useful video,CLOSED,2
 I_kwDOAbI7X87z22LS,66530,Split the JavaScript certification into two separate certifications,CLOSED,2026-03-17T21:14:54Z,2026-03-18T16:09:38Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X870ESrX,66546,Improve explanation of closures in JavaScript curriculum,CLOSED,2026-03-18T12:18:27Z,2026-03-18T13:31:28Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPEf-,64116,Lab – Cargo Manifest Parser,CLOSED,2025-11-25T03:43:36Z,2026-03-18T13:16:55Z,LGH831;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87zZ_Ne,66508,Donate button should always be visible,OPEN,2026-03-16T16:59:54Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87y7Ijj,66451,Cannot complete build a database of video game characters,CLOSED,2026-03-14T11:27:31Z,2026-03-15T11:31:51Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87zUVfi,66501,Interactive editor console panel displays live array references instead of snapshots,OPEN,2026-03-16T12:29:52Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87xrDN_,66361,No language selector on small window of daily challenge,OPEN,2026-03-10T22:38:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85Sx5qD,47646,The user's code should be transformed alongside the injected code,CLOSED,2022-09-28T06:38:13Z,2026-03-18T08:30:29Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87zgfgI,66515,Success message after logging out,OPEN,2026-03-16T23:47:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86do2Ms,57107,"Removal of --before-user-code--, --after-user-code--",CLOSED,2024-11-08T17:42:51Z,2026-03-17T16:59:18Z,Sembauke,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87zk4_i,66520,Wrong answer in Python quiz,CLOSED,2026-03-17T06:36:37Z,2026-03-17T16:32:08Z,PrasadK1015,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X865WfJn,60660,Add test to ensure block name in `meta.json` and in `intro.json` match,CLOSED,2025-06-02T11:01:43Z,2026-03-17T15:43:16Z,Sembauke;ojeytonwilliams,freeCodeCamp,freeCodeCamp
@@ -96,7 +102,6 @@ I_kwDOAbI7X87aPEaC,64115,Workshop – Heritage Library Catalog,OPEN,2025-11-25T0
 I_kwDOAbI7X87aPElK,64117,Workshop – Smart Campus Directory,OPEN,2025-11-25T03:43:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85fQ8lG,49492,Show warning to users when they try to source the wrong files,OPEN,2023-02-24T09:45:10Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87xjHMX,66346,"Misleading descriptions of ""Internal CSS Specificity"" and ""External CSS Specificity""",CLOSED,2026-03-10T15:20:10Z,2026-03-11T10:54:03Z,farchettiensis,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ebYl8,64632,Question about quizzes and future Spanish exams,OPEN,2025-12-15T18:59:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87xg25H,66338,Download my solution button,OPEN,2026-03-10T13:45:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87xq_gL,66360,Independent Jaw doesn't have an option to download code,CLOSED,2026-03-10T22:33:51Z,2026-03-10T22:42:50Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87xlzlO,66352,Failing Playwright test for daily challenges,CLOSED,2026-03-10T17:33:40Z,2026-03-10T22:31:56Z,moT01,freeCodeCamp,freeCodeCamp
@@ -142,9 +147,7 @@ I_kwDOAbI7X87jP5VV,65150,Issues with flex in Colored Boxes lab,CLOSED,2026-01-14
 I_kwDOAbI7X87txtke,66054,Python Certification custom exception example typo and strange usage,CLOSED,2026-02-25T12:36:50Z,2026-03-05T09:50:49Z,nguyenduybao1,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87XGNjo,63699,Update text container width for fsd lessons,CLOSED,2025-11-10T16:11:41Z,2026-03-05T05:40:21Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X857i6kL,53073,MSLearn C# Course - Timeline - View button - User is shown a JSON object instead of the appropriate achievement page,CLOSED,2024-01-09T16:41:34Z,2026-03-05T04:16:37Z,moT01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87v8CgD,66248,Unclear instructions in coding workshops,CLOSED,2026-03-05T03:37:19Z,2026-03-05T03:44:04Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87vk4v7,66224,String method lesson doesn't teach that variables can be used as arguments; later lab requires this skill,CLOSED,2026-03-04T00:49:07Z,2026-03-04T10:29:23Z,timmy471,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87u9ILP,66173,Add Build a Zoo Animal Scatterplot workshop to frontend cert,OPEN,2026-03-02T03:01:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPD3u,64110,Lab – Smart Pantry Restocker,OPEN,2025-11-25T03:41:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87vqRZe,66234,js lab has wrong help category,CLOSED,2026-03-04T08:51:04Z,2026-03-04T11:19:24Z,Anshit-Sony,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863ocO_,60469,Todo App using Local Storage — formInputValuesUpdated,OPEN,2025-05-21T16:36:14Z,,,freeCodeCamp,freeCodeCamp
@@ -550,7 +553,3 @@ I_kwDOAbI7X851UZ9u,52174,Create a Minimal freeCodeCamp Discourse theme,CLOSED,20
 I_kwDOAbI7X87dZL32,64439,still issues with callback lesson,CLOSED,2025-12-10T09:35:58Z,2025-12-22T05:25:51Z,majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fikFC,64813,Add new beginner challenge: Check if a number is prime,CLOSED,2025-12-20T20:25:19Z,2025-12-21T21:05:20Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fkrOW,64816,typo in Build an RPG Character title,CLOSED,2025-12-21T08:59:35Z,2025-12-21T14:59:55Z,gawandeom,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87fh5e1,64805,Repeated text in lecture - `working with loops and sequences` in Python Certification,CLOSED,2025-12-20T16:34:51Z,2025-12-20T17:23:09Z,ayvkma,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87fdi_l,64792,Typo in CSS Grid review,CLOSED,2025-12-19T22:11:33Z,2025-12-20T15:02:30Z,subhankarkr,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87d8XNv,64555,Rotate back from /encoded endpoints,OPEN,2025-12-12T14:18:26Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TasFt,63013,Add interactive examples to css reset lesson,CLOSED,2025-10-23T23:38:13Z,2025-10-24T08:28:18Z,,freeCodeCamp,freeCodeCamp
