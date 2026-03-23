@@ -1,4 +1,6 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+eda285189bf47a71aa298890eeee5bd436cde708,fix(curriculum): emphasize double negatives in user stories (#66582),2026-03-22T08:43:00Z,3,26,hbar1st,freeCodeCamp,freeCodeCamp
+81fe118aed88d2e7bec10c86c85db9e39b71a81e,chore(deps): upgrade freecodecamp/ui to v6.0.0 (#66443),2026-03-22T03:53:26Z,5,64,huyenltnguyen,freeCodeCamp,freeCodeCamp
 ff1d3683b567933999c3c795dfb74d4a22893c16,fix(deps): update dependency @aws-sdk/client-ses to v3.1009.0 (#66569),2026-03-21T15:29:37Z,2,1007,renovate[bot],freeCodeCamp,freeCodeCamp
 f04c56cf3ade02eba39a41942f5241d3e4687e96,chore(deps): update github actions (#66573),2026-03-21T15:29:10Z,4,26,renovate[bot],freeCodeCamp,freeCodeCamp
 51c03a58cabf042123664ee65bdd438877758df8,"chore(i18n,learn): update i18n-curriculum submodule (#66577)",2026-03-21T03:38:23Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
@@ -873,14 +875,3 @@ c9eafdc626b1d0a464a73f161f044c78a695608e,"chore(i18n,learn): update i18n-curricu
 5b8d14dedc0f33d2369cdf82bb1045b354bbd913,fix(client): improve landing page layout consistency (#64136),2025-12-23T13:56:06Z,2,16,bigfatbird,freeCodeCamp,freeCodeCamp
 0c0622b41bb3b2016ec6a8bfd7799e8238167c57,"fix(curriculum): typos in DC 148,156 + test in 132 (#64852)",2025-12-23T11:00:37Z,8,27,moT01,freeCodeCamp,freeCodeCamp
 3838a5f2811672d85c0ed2a4190f6ecb897d1459,fix(curriculum): improve validation of questions object in quiz lab (…,2025-12-23T10:52:14Z,1,19,majestic-owl448,freeCodeCamp,freeCodeCamp
-abe9412d74b8772ef474f855f988eea341af79b0,fix(curriculum): A1 Spanish simplify review heading structure (#64853),2025-12-22T21:52:59Z,5,56,estefaniacn,freeCodeCamp,freeCodeCamp
-d5e855906adfa2103f2c1582f692ed404341e1e9,feat(client): add isDialogue prop to ChallengeTranscript component (#…,2025-12-22T19:18:42Z,4,85,YueZheng-Sea-angle,freeCodeCamp,freeCodeCamp
-a34fad01ca5c8247d2543bce97edd8e32be1f818,fix(tools/scripts): Replace archived challenge links in action-row te…,2025-12-22T18:14:24Z,2,14,zho00,freeCodeCamp,freeCodeCamp
-39194f5496b9f1edf4be452d5fbbbfcc73e85517,feat(curriculum): NodeJS core modules quiz (#64105),2025-12-22T14:21:01Z,5,485,zairahira,freeCodeCamp,freeCodeCamp
-3ec65eeee3ce8b0543a95d5f6a1dcbf23ad5cce8,"chore(i18n,client): processed translations (#64844)",2025-12-22T12:53:35Z,20,5620,camperbot,freeCodeCamp,freeCodeCamp
-563e487654e20b51381539245b7bf85e42579589,fix(tools/scripts): removed basic-css.spec.ts (#64842),2025-12-22T12:19:26Z,1,69,zho00,freeCodeCamp,freeCodeCamp
-9b9daa91d6d7375a9c571d381d64a150a88a2821,fix(curriculum): replaced archive challenge links (#64839),2025-12-22T12:08:26Z,1,6,zho00,freeCodeCamp,freeCodeCamp
-8190dd2cecd8ea2468ba9d41019f0a36a336ff5c,fix(curriculum): removed decorators section from python review (#64800),2025-12-22T10:09:51Z,2,42,zho00,freeCodeCamp,freeCodeCamp
-1459c85678f8f9e26d0109b19184e296c1487c17,fix(curriculum): fixed failed to converge instruction by removing 'th…,2025-12-22T09:58:10Z,1,2,zho00,freeCodeCamp,freeCodeCamp
-8dbccaa8ac9664cbfb8dda565f42fef0be37d830,"chore(i18n,learn): update i18n-curriculum submodule (#64827)",2025-12-22T09:24:55Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-7d322451c32a3cd317aeccde5b04c419e4b39416,fix(curriculum): adjust callback explanation (#64758),2025-12-22T05:25:50Z,2,4,majestic-owl448,freeCodeCamp,freeCodeCamp
