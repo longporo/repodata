@@ -1,4 +1,15 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+a859acae662ac22c236bad9b4909aaf565af62b9,"chore(i18n,learn): update i18n-curriculum submodule (#66600)",2026-03-24T00:06:12Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+dc51170f8c5541031232373a7d73389d4d30760c,fix(client): override custom button restyling (#66608),2026-03-23T23:33:13Z,1,1,danzolotov,freeCodeCamp,freeCodeCamp
+cd82a29acaf670398fcbc00fb42f4511cc1ebc66,chore(deps): update Font Awesome dependencies to latest (#66572),2026-03-23T20:02:40Z,3,431,Sembauke,freeCodeCamp,freeCodeCamp
+74bc88f3cb14d3a684a5069932cdd0bf8eb0f6e3,"chore(i18n,client): processed translations (#66598)",2026-03-23T20:02:09Z,20,2702,camperbot,freeCodeCamp,freeCodeCamp
+0a41253681ac4f44579c4fa13eb8a47f9a92e187,fix(curriculum): update step description for Caesar cipher challenge …,2026-03-23T17:09:16Z,1,4,okorie2,freeCodeCamp,freeCodeCamp
+80ad151900a72afb95ccc85477703139eceb4ac8,fix(curriculum): correct example for ochenta y uno gender rule (#66544),2026-03-23T15:09:22Z,1,2,apoorvdarshan,freeCodeCamp,freeCodeCamp
+f30459a750086dd7acaa4050584b87f1c65dc010,fix(curriculum): add names and roles to examples (#66571),2026-03-23T13:31:09Z,107,508,anastasiiauk,freeCodeCamp,freeCodeCamp
+08db6f8258072e42d988cc042b1630948a820c3d,refactor(client): migrate Gatsby setup files to TypeScript (#66367),2026-03-23T09:28:04Z,6,103,Sembauke,freeCodeCamp,freeCodeCamp
+fe421a03c68ba45c0f8acd7b0e187a501538d820,feat(client): mobile advert for small screen sizes (#66212),2026-03-23T07:01:58Z,9,443,Sembauke,freeCodeCamp,freeCodeCamp
+fb6e30d34a48ec78a7d05cfe1ac23a61b918b3d2,chore(deps): update dependency msw to v2.12.11 (#66593),2026-03-23T06:04:32Z,1,312,renovate[bot],freeCodeCamp,freeCodeCamp
+aa083b9a0127f1cdb43a9bd6fcf11c11842bae77,fix: correct typos in README.md (#66592),2026-03-23T05:10:22Z,1,6,Nouhaaouiti,freeCodeCamp,freeCodeCamp
 eda285189bf47a71aa298890eeee5bd436cde708,fix(curriculum): emphasize double negatives in user stories (#66582),2026-03-22T08:43:00Z,3,26,hbar1st,freeCodeCamp,freeCodeCamp
 81fe118aed88d2e7bec10c86c85db9e39b71a81e,chore(deps): upgrade freecodecamp/ui to v6.0.0 (#66443),2026-03-22T03:53:26Z,5,64,huyenltnguyen,freeCodeCamp,freeCodeCamp
 ff1d3683b567933999c3c795dfb74d4a22893c16,fix(deps): update dependency @aws-sdk/client-ses to v3.1009.0 (#66569),2026-03-21T15:29:37Z,2,1007,renovate[bot],freeCodeCamp,freeCodeCamp
@@ -865,13 +876,3 @@ f7a3c0904d9529f8fd4c92a6fda872e040372da4,"chore(i18n,learn): update i18n-curricu
 66f3571257cb8ecb29cf74b65152875fb72d6163,fix(curriculum): remove complex data type in python data types lesson…,2025-12-24T13:16:49Z,2,14,pdtrang,freeCodeCamp,freeCodeCamp
 bc3196b49c36c61be88082a57e5249c4d164f8f1,fix: correct enumerate function description grammar (#64879),2025-12-24T09:15:48Z,1,2,dhruvac29,freeCodeCamp,freeCodeCamp
 2ef4efb9636082b6188744aea2d90b318968b944,feat(curriculum): add node js core review page (#64104),2025-12-24T09:02:43Z,5,390,zairahira,freeCodeCamp,freeCodeCamp
-6bed696970a1d4317e89aa2d0966848c1be393ea,fix(curriculum): update startTime to render transcript for Task 49 (#…,2025-12-23T19:04:00Z,1,2,rahulkumar971,freeCodeCamp,freeCodeCamp
-517c2dd9e9b6d53f309f4c3d0671c3fbceb90874,fix(curriculum): fix typo from comparisions to comparisons (#64874),2025-12-23T17:31:11Z,2,4,Giftea,freeCodeCamp,freeCodeCamp
-a8698abb2f32001913eb11c86c7e40276abef244,fix(curriculum): update todo list lab user stories 4 and 5 (#63423),2025-12-23T17:14:10Z,1,16,l3onhard,freeCodeCamp,freeCodeCamp
-9d67d2e6a522840d8e9c832e6e95af56ab2f36ab,fix(curriculum): enhance how to install python lecture. (#64870),2025-12-23T16:00:19Z,1,2,lucasdelellis,freeCodeCamp,freeCodeCamp
-c9eafdc626b1d0a464a73f161f044c78a695608e,"chore(i18n,learn): update i18n-curriculum submodule (#64861)",2025-12-23T14:55:04Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-85500131d195853b5af881ad2347aa4d3deb6028,"chore(i18n,client): processed translations (#64863)",2025-12-23T14:50:10Z,11,78,camperbot,freeCodeCamp,freeCodeCamp
-1d1d76896a507ecc5b98256ddfc0fb257f7ab022,fix(curriculum): fix wording in user stories in Pricing Plans lab (#6…,2025-12-23T14:34:09Z,1,6,majestic-owl448,freeCodeCamp,freeCodeCamp
-5b8d14dedc0f33d2369cdf82bb1045b354bbd913,fix(client): improve landing page layout consistency (#64136),2025-12-23T13:56:06Z,2,16,bigfatbird,freeCodeCamp,freeCodeCamp
-0c0622b41bb3b2016ec6a8bfd7799e8238167c57,"fix(curriculum): typos in DC 148,156 + test in 132 (#64852)",2025-12-23T11:00:37Z,8,27,moT01,freeCodeCamp,freeCodeCamp
-3838a5f2811672d85c0ed2a4190f6ecb897d1459,fix(curriculum): improve validation of questions object in quiz lab (…,2025-12-23T10:52:14Z,1,19,majestic-owl448,freeCodeCamp,freeCodeCamp
