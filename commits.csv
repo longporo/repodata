@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+623e49bf83d9de4e2674985681663baf8159b97f,chore: reorder catalog items (#66616),2026-03-24T23:55:29Z,18,338,jdwilkin4,freeCodeCamp,freeCodeCamp
+1a884b745a7a9bbbd33bec581ce614b4ed94fbf4,fix(curriculum): correct module/function and elif terminology in Pyth…,2026-03-24T14:40:09Z,5,14,majestic-owl448,freeCodeCamp,freeCodeCamp
+54af69349ebe823f02f9c25da509603d73c8e3fa,feat(curriculum): create Wildlife Tracker workshop (#65980),2026-03-24T14:07:58Z,15,1239,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+c1ae6b6ea9b842c4b813632ff5dd6416d9aceeeb,feat(curriculum): EN-B1 quiz for block 14 (#66611),2026-03-24T12:16:06Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
+a1bd3bf6297b544f597d9a2f0535b27f98474487,feat(curriculum): EN-B1 quiz for block 13 (#66597),2026-03-24T12:06:50Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
+a0f37ae0091a1f799df5db07b030706503104de4,fix(a11y): add initial focus to play button in speaking modal (#66419),2026-03-24T10:44:54Z,2,19,huyenltnguyen,freeCodeCamp,freeCodeCamp
+ca05f09f304090ff8e574a0696d5124d0e62cd95,chore(deps): update dependency msw to v2.12.12 (#66605),2026-03-24T06:25:44Z,1,312,renovate[bot],freeCodeCamp,freeCodeCamp
 a859acae662ac22c236bad9b4909aaf565af62b9,"chore(i18n,learn): update i18n-curriculum submodule (#66600)",2026-03-24T00:06:12Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 dc51170f8c5541031232373a7d73389d4d30760c,fix(client): override custom button restyling (#66608),2026-03-23T23:33:13Z,1,1,danzolotov,freeCodeCamp,freeCodeCamp
 cd82a29acaf670398fcbc00fb42f4511cc1ebc66,chore(deps): update Font Awesome dependencies to latest (#66572),2026-03-23T20:02:40Z,3,431,Sembauke,freeCodeCamp,freeCodeCamp
@@ -869,10 +876,3 @@ a58cad8e0d81cbb348896cb92ae2f18dc8bb49bc,fix(curriculum): misleading question wo
 11ec8d4a9e3681bc7f2b52fc069595425f165f90,fix(curriculum): typo in city skyline workshop (#64921),2025-12-30T05:08:08Z,1,2,bdtripp,freeCodeCamp,freeCodeCamp
 113dcd6c1d78656b993c05b6fe5fe7d41a469946,fix(curriculum): replace ambiguous CSS variables quiz question (#64475),2025-12-26T21:29:11Z,1,20,DeveloperViraj,freeCodeCamp,freeCodeCamp
 a55a0da50421aefa4e2de64a1b774f6da3824786,fix(curriculum): fix typo from choise to choice (#64892),2025-12-25T21:00:57Z,1,2,Giftea,freeCodeCamp,freeCodeCamp
-287d2b4e29e93dcbee16dcd0d4eacf771c12a3a8,fix(curriculum): convert numbers to strings in lecture-working-with-n…,2025-12-24T17:29:54Z,1,8,Kumari040,freeCodeCamp,freeCodeCamp
-a33b6898ed9cf2d2663921ad436dfa6ebbe2b24b,fix(curriculum): change amd to and in task 62 (#64884),2025-12-24T17:09:07Z,1,2,prashantsingh1122,freeCodeCamp,freeCodeCamp
-f7a3c0904d9529f8fd4c92a6fda872e040372da4,"chore(i18n,learn): update i18n-curriculum submodule (#64887)",2025-12-24T17:08:06Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-0dd35f8a0434d40a6787b0898d8c3090ea0c0c1e,fix(curriculum): typo in what are react server components (#64888),2025-12-24T17:02:52Z,1,2,bdtripp,freeCodeCamp,freeCodeCamp
-66f3571257cb8ecb29cf74b65152875fb72d6163,fix(curriculum): remove complex data type in python data types lesson…,2025-12-24T13:16:49Z,2,14,pdtrang,freeCodeCamp,freeCodeCamp
-bc3196b49c36c61be88082a57e5249c4d164f8f1,fix: correct enumerate function description grammar (#64879),2025-12-24T09:15:48Z,1,2,dhruvac29,freeCodeCamp,freeCodeCamp
-2ef4efb9636082b6188744aea2d90b318968b944,feat(curriculum): add node js core review page (#64104),2025-12-24T09:02:43Z,5,390,zairahira,freeCodeCamp,freeCodeCamp
