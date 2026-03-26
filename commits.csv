@@ -1,4 +1,7 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+40796a80c3c5a58912feae6dd2c6b0a996b8d55b,"chore(i18n,learn): update i18n-curriculum submodule (#66620)",2026-03-25T20:36:25Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+0b4ffeb3ee8e9494cc757b0b90b15b4da7fe0782,"chore(i18n,client): processed translations (#66618)",2026-03-25T18:54:18Z,11,1260,camperbot,freeCodeCamp,freeCodeCamp
+067aef76460d6b01078496b5b23761527de81f68,fix(curriculum): add missing closing backticks to a block in review-j…,2026-03-25T10:54:40Z,3,6,DanielRosa74,freeCodeCamp,freeCodeCamp
 623e49bf83d9de4e2674985681663baf8159b97f,chore: reorder catalog items (#66616),2026-03-24T23:55:29Z,18,338,jdwilkin4,freeCodeCamp,freeCodeCamp
 1a884b745a7a9bbbd33bec581ce614b4ed94fbf4,fix(curriculum): correct module/function and elif terminology in Pyth…,2026-03-24T14:40:09Z,5,14,majestic-owl448,freeCodeCamp,freeCodeCamp
 54af69349ebe823f02f9c25da509603d73c8e3fa,feat(curriculum): create Wildlife Tracker workshop (#65980),2026-03-24T14:07:58Z,15,1239,Jeevankumar-s,freeCodeCamp,freeCodeCamp
@@ -875,4 +878,3 @@ a58cad8e0d81cbb348896cb92ae2f18dc8bb49bc,fix(curriculum): misleading question wo
 7f479c6824d196acc08069dc0762dd9b88aabd8b,fix(curriculum): correct numbers in selection sort example (#64920),2025-12-30T21:25:42Z,1,2,h-ram,freeCodeCamp,freeCodeCamp
 11ec8d4a9e3681bc7f2b52fc069595425f165f90,fix(curriculum): typo in city skyline workshop (#64921),2025-12-30T05:08:08Z,1,2,bdtripp,freeCodeCamp,freeCodeCamp
 113dcd6c1d78656b993c05b6fe5fe7d41a469946,fix(curriculum): replace ambiguous CSS variables quiz question (#64475),2025-12-26T21:29:11Z,1,20,DeveloperViraj,freeCodeCamp,freeCodeCamp
-a55a0da50421aefa4e2de64a1b774f6da3824786,fix(curriculum): fix typo from choise to choice (#64892),2025-12-25T21:00:57Z,1,2,Giftea,freeCodeCamp,freeCodeCamp
