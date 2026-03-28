@@ -1,4 +1,10 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+3f3509244c41e93d09bd22fea4c77d10a003db1f,feat(curriculum): release js v9 algorithms module (#66654),2026-03-27T18:47:58Z,10,19,Ksound22,freeCodeCamp,freeCodeCamp
+0130f6ffb1e822bdb914b3ef5f6be524bce824a4,feat(curriculum): add merge sort workshop JSV9 (#66416),2026-03-27T17:04:04Z,28,1530,zairahira,freeCodeCamp,freeCodeCamp
+431c77820e2a189a285bb7eff53aa0a34e0dd37d,feat(curriculum): add binary search workshop JSV9 (#65964),2026-03-27T14:15:35Z,19,890,zairahira,freeCodeCamp,freeCodeCamp
+72f5d67f6a0823b26930d7e33acb71dbb5bb73df,fix(curriculum): align two A2 quiz dashed names with chapter planning…,2026-03-27T11:24:17Z,44,180,Sembauke,freeCodeCamp,freeCodeCamp
+4a0365a0b58ec21e5889472f7ce69f4ce3e9217d,fix: handle GraphQL errors in createPages (#66642),2026-03-27T10:09:37Z,1,26,Riddhi8077,freeCodeCamp,freeCodeCamp
+05365931cd093637e24c5c2dafb73f8ea2e2d652,fix(Curriculum): add note explaining anchor tag in HTML attributes le…,2026-03-27T07:43:29Z,1,2,Kows3002,freeCodeCamp,freeCodeCamp
 af112a439f4d4a38178e3dbd892917858663e07a,feat(curriculum): EN-B1 quiz for block 16 (#66628),2026-03-26T22:15:01Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
 f4ce4e4eaafa2427589e31280fc92d94add6196c,feat(curriculum): EN-B1 quiz for block 15 (#66619),2026-03-26T22:12:27Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
 dcb56b77f77dcb23cf5829b32225c3e83a00789e,fix(curriculum): update tests for Build a House Painting lab (#66634),2026-03-26T20:48:41Z,1,9,jtrang,freeCodeCamp,freeCodeCamp
