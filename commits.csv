@@ -1,4 +1,5 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+dd75c7e0dbf1df03becceef03efe13781219460a,"chore(i18n,learn): update i18n-curriculum submodule (#66664)",2026-03-28T15:32:16Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 3f3509244c41e93d09bd22fea4c77d10a003db1f,feat(curriculum): release js v9 algorithms module (#66654),2026-03-27T18:47:58Z,10,19,Ksound22,freeCodeCamp,freeCodeCamp
 0130f6ffb1e822bdb914b3ef5f6be524bce824a4,feat(curriculum): add merge sort workshop JSV9 (#66416),2026-03-27T17:04:04Z,28,1530,zairahira,freeCodeCamp,freeCodeCamp
 431c77820e2a189a285bb7eff53aa0a34e0dd37d,feat(curriculum): add binary search workshop JSV9 (#65964),2026-03-27T14:15:35Z,19,890,zairahira,freeCodeCamp,freeCodeCamp
