@@ -1,6 +1,12 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X873_Kus,66666,Fix JSDoc typo and replace console.log with Fastify logger in redirection utility,OPEN,2026-03-28T15:52:19Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87aPEQC,64114,Workshop – Sensor Burst Analyzer,OPEN,2025-11-25T03:42:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X873VKj4,66639,Random Blue Line Appearing on Page (Possible Focus Border),OPEN,2026-03-27T05:26:09Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87txZ_p,66049,Python Certification setter example modification,OPEN,2026-02-25T12:20:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X873tdPY,66656,No correct answer for the final question within the provided options,OPEN,2026-03-27T20:58:32Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X8733nKh,66660,Missing introduction for figure and figcaption elements before usage in Travel Agency Page Lab,OPEN,2026-03-28T08:14:36Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X8730eSN,66659,Missing introduction for button element before usage in Bookstore Page Step 12,OPEN,2026-03-28T05:14:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87q-Cf9,65887,Improve solution download format to ZIP project structure,OPEN,2026-02-14T19:37:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X873fM_s,66647,Quiz Accessibility,OPEN,2026-03-27T12:20:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X873cQNZ,66646,Coding Challenge 229: Truncate the Text 2 - typo in description and test result,OPEN,2026-03-27T10:28:31Z,,,freeCodeCamp,freeCodeCamp
@@ -11,7 +17,6 @@ I_kwDOAbI7X87GY4xv,61852,Missinformation in Python course,CLOSED,2025-08-17T15:1
 I_kwDOAbI7X872H_K_,66615,Clarification: Should GraphQL query errors be explicitly handled in createPages?,CLOSED,2026-03-24T16:50:17Z,2026-03-27T10:09:39Z,Riddhi8077,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X873UriX,66638,"Missing explanation of <a> tag in ""Understanding HTML Attributes"" lesson",CLOSED,2026-03-27T05:05:29Z,2026-03-27T07:43:30Z,Kows3002,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X873VXkZ,66641,Improve wording in HTML challenge instructions,CLOSED,2026-03-27T05:35:27Z,2026-03-27T07:31:46Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X873VKj4,66639,Random Blue Line Appearing on Page (Possible Focus Border),OPEN,2026-03-27T05:26:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X871vF_w,66603,Last sample code is incorrect in this article.,CLOSED,2026-03-23T18:18:24Z,2026-03-26T09:26:19Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861UGwZ,60180,Handle log statements in redirection.ts,OPEN,2025-05-06T08:17:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87NcA7Z,62335,Allow code blocks in test text,CLOSED,2025-09-23T21:10:59Z,2026-03-26T21:23:54Z,,freeCodeCamp,freeCodeCamp
@@ -79,7 +84,6 @@ I_kwDOAbI7X87eca6R,64636,Lesson explanations for greetings and farewells module,
 I_kwDOAbI7X86N2qYZ,55363,[api]: handling concurrent user record writes,OPEN,2024-06-28T08:46:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863jX9t,60461,Inconvenient discovery of challenges in Full Stack Developer Curriculum,OPEN,2025-05-21T09:08:10Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87i1tcs,65101,Make it easier for returning campers to resume where they left off,OPEN,2026-01-12T19:39:58Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87aPEQC,64114,Workshop – Sensor Burst Analyzer,OPEN,2025-11-25T03:42:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPD_P,64111,Workshop – Delivery Route Merger,OPEN,2025-11-25T03:42:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPE9T,64122,Lab – Traffic Light Sequencer,OPEN,2025-11-25T03:45:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ae7vr,64151,interactive editor is overly eager,OPEN,2025-11-26T03:21:49Z,,,freeCodeCamp,freeCodeCamp
@@ -217,7 +221,6 @@ I_kwDOAbI7X87uqyKK,66134,wrong use of append,CLOSED,2026-02-28T08:13:21Z,2026-02
 I_kwDOAbI7X87txdK9,66050,Python Certification Breadth-First Search Workshop issue,CLOSED,2026-02-25T12:23:36Z,2026-02-28T08:23:13Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87uGmJD,66101,`super` definition,CLOSED,2026-02-26T10:37:03Z,2026-02-28T08:09:39Z,imsanupm,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87uGi83,66100,reorder unpacking lists review,CLOSED,2026-02-26T10:34:22Z,2026-02-28T00:55:47Z,ash-win19,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87txZ_p,66049,Python Certification setter example modification,OPEN,2026-02-25T12:20:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86M4mje,55234,Send 200 status for get-session-user,CLOSED,2024-06-20T06:42:26Z,2026-02-27T20:25:57Z,Sembauke,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPFOX,64125,Lab – Proofreading Tool,OPEN,2025-11-25T03:45:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87pdKM8,65791,Responsive Web Design exam locked despite all projects completed,CLOSED,2026-02-09T14:40:08Z,2026-02-27T19:11:46Z,,freeCodeCamp,freeCodeCamp
@@ -553,5 +556,3 @@ I_kwDOAbI7X87g66fz,64953,README Translation Integration Feature,CLOSED,2025-12-3
 I_kwDOAbI7X87gWoe_,64907,Build a Budget App has conflict between rounding requirement and test,CLOSED,2025-12-26T21:27:17Z,2026-01-02T07:58:29Z,Shivansh,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87g14Ge,64941,Markdown Italic Parser test cases function name has a typo,CLOSED,2025-12-31T07:51:53Z,2026-01-01T16:15:47Z,WongYC-66,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87f97lO,64864,Quiz question wording is misleading in python certification - lecture-working-with-loops-and-sequences,CLOSED,2025-12-23T14:24:28Z,2025-12-31T05:13:17Z,zho00,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87gc7aw,64922,Typo in code example,CLOSED,2025-12-28T13:45:17Z,2025-12-28T13:48:18Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87gZOO3,64913,CodeRoad terminal step does not advance despite correct command output,CLOSED,2025-12-27T11:52:46Z,2025-12-28T05:28:01Z,,freeCodeCamp,freeCodeCamp
