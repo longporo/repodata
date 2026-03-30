@@ -1,7 +1,12 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X874QaHh,66674,Cargo Manifest Validator needs test for null values,OPEN,2026-03-29T16:45:12Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87fgeg-,64798,Mobile scrolling issue in JavaScript editor on Chrome Android,OPEN,2025-12-20T09:12:20Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87oL5SA,65697,"unneeded horizontal scroll at the bottom of the browser, inside block page",OPEN,2026-02-04T09:00:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87i1tcs,65101,Make it easier for returning campers to resume where they left off,OPEN,2026-01-12T19:39:58Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X874Lsc0,66671,New Curriculum Path: Deep Learning with Python,OPEN,2026-03-29T11:03:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X873_Kus,66666,Fix JSDoc typo and replace console.log with Fastify logger in redirection utility,OPEN,2026-03-28T15:52:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPEQC,64114,Workshop – Sensor Burst Analyzer,OPEN,2025-11-25T03:42:53Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X873VKj4,66639,Random Blue Line Appearing on Page (Possible Focus Border),OPEN,2026-03-27T05:26:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87txZ_p,66049,Python Certification setter example modification,OPEN,2026-02-25T12:20:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X873tdPY,66656,No correct answer for the final question within the provided options,OPEN,2026-03-27T20:58:32Z,,,freeCodeCamp,freeCodeCamp
@@ -83,7 +88,6 @@ I_kwDOAbI7X86sPbBd,59089,Full Stack build-a-sorting-visualizer Test 18,CLOSED,20
 I_kwDOAbI7X87eca6R,64636,Lesson explanations for greetings and farewells module,OPEN,2025-12-15T20:26:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86N2qYZ,55363,[api]: handling concurrent user record writes,OPEN,2024-06-28T08:46:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863jX9t,60461,Inconvenient discovery of challenges in Full Stack Developer Curriculum,OPEN,2025-05-21T09:08:10Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87i1tcs,65101,Make it easier for returning campers to resume where they left off,OPEN,2026-01-12T19:39:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPD_P,64111,Workshop – Delivery Route Merger,OPEN,2025-11-25T03:42:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPE9T,64122,Lab – Traffic Light Sequencer,OPEN,2025-11-25T03:45:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ae7vr,64151,interactive editor is overly eager,OPEN,2025-11-26T03:21:49Z,,,freeCodeCamp,freeCodeCamp
@@ -333,7 +337,6 @@ I_kwDOAbI7X87o4-LS,65741,Improve README clarity in Getting Started section,CLOSE
 I_kwDOAbI7X87oLPVy,65693,Build a Report Card Printer - Step 9,CLOSED,2026-02-04T08:15:33Z,2026-02-06T17:53:32Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87o4fyV,65738,superhero application form step 3 duplicate test,CLOSED,2026-02-06T14:49:39Z,2026-02-06T14:50:32Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87eazrb,64626,Create a prototype for Python Booleans and Conditionals Lab,CLOSED,2025-12-15T17:13:22Z,2026-02-06T11:04:02Z,Dafterfly;Dario-DC,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87oL5SA,65697,"unneeded horizontal scroll at the bottom of the browser, inside block page",OPEN,2026-02-04T09:00:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87oeyS9,65714,missing period,CLOSED,2026-02-05T08:43:26Z,2026-02-05T20:35:32Z,jeeva-004,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87oG3Lv,65690,RWD What are attributes? lesson,CLOSED,2026-02-04T01:54:52Z,2026-02-05T07:52:19Z,TheGreatAdil,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87oLuwr,65696,some superblocks still not available in challenge-editor,CLOSED,2026-02-04T08:51:07Z,2026-02-04T09:59:20Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
@@ -461,7 +464,6 @@ I_kwDOAbI7X87kWHR-,65334,extra space in code output,CLOSED,2026-01-19T19:51:15Z,
 I_kwDOAbI7X87hg0Jm,65003,Open Exam Environment Application Download not using user agent,CLOSED,2026-01-06T02:14:53Z,2026-01-20T09:49:11Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87kPlH3,65311,Build a Real Time Counter,CLOSED,2026-01-19T11:32:10Z,2026-01-19T19:56:50Z,octavio-js,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jvIYp,65250,promise chaining fails tests,CLOSED,2026-01-16T07:27:52Z,2026-01-19T17:03:42Z,gikf,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87fgeg-,64798,Mobile scrolling issue in JavaScript editor on Chrome Android,OPEN,2025-12-20T09:12:20Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jqZIL,65241,Review pages don't support interactive examples,CLOSED,2026-01-15T22:55:53Z,2026-01-19T08:26:50Z,naomi-freecodecamp,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87kFADB,65288,"Grammar error in JavaScript review conditional example (""an B"" → ""a B"")",CLOSED,2026-01-18T08:41:25Z,2026-01-18T20:34:03Z,anirudhxmishra,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87j7SRv,65269,Codespaces Contribution Journey - how to contribute on codespaces?,CLOSED,2026-01-16T23:10:03Z,2026-01-18T09:57:16Z,,freeCodeCamp,freeCodeCamp
