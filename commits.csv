@@ -1,4 +1,13 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+9a0086e2a605c575d307f69ba4e0ae30b9743331,feat: add catalog (#66680),2026-03-30T19:12:07Z,8,116,ahmaxed,freeCodeCamp,freeCodeCamp
+d94a4ef671df363218693d24a416a41f6825390f,fix(deps): update dependency fastify to v5.8.4 (#66685),2026-03-30T12:50:49Z,2,26,renovate[bot],freeCodeCamp,freeCodeCamp
+77dd3bf333e91de7928e47b626a7ff32ea9e5223,feat(curriculum): EN-B1 quiz for block 17 (#66682),2026-03-30T12:22:49Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
+1ee4062fda730dee023f936fef52b2c5f4c39898,fix(curriculm): add user story and test for theme switcher (#66636),2026-03-30T11:56:18Z,1,24,Supravisor,freeCodeCamp,freeCodeCamp
+55607ea015dd363d6abcf18112365ed508b06a91,fix(curriculum): do not pass parameter to function (#66635),2026-03-30T11:16:32Z,1,6,Supravisor,freeCodeCamp,freeCodeCamp
+508aaf22ec4b6270bbc1f0d340d4e78e93a9ca05,fix: Enhancement: Add test case for null containerId validation in ca…,2026-03-30T10:36:50Z,1,22,shikharyadav16,freeCodeCamp,freeCodeCamp
+f4bd4781e81ad4cb405113d3dcb2b4a39c1770e4,chore(deps): update pnpm/action-setup digest to b906aff (#66637),2026-03-30T08:00:49Z,6,22,renovate[bot],freeCodeCamp,freeCodeCamp
+044f75107652b14b919426b95caefce8a07c4413,chore(deps): update dependency msw to v2.12.14 (#66614),2026-03-30T08:00:46Z,1,82,renovate[bot],freeCodeCamp,freeCodeCamp
+b3072d3324964e2e9f4b1db7ef6cc2f0d64439b4,feat(curriculum): add Build a Bar Chart lab (#62913),2026-03-30T07:54:35Z,4,1960,majestic-owl448,freeCodeCamp,freeCodeCamp
 dd75c7e0dbf1df03becceef03efe13781219460a,"chore(i18n,learn): update i18n-curriculum submodule (#66664)",2026-03-28T15:32:16Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 3f3509244c41e93d09bd22fea4c77d10a003db1f,feat(curriculum): release js v9 algorithms module (#66654),2026-03-27T18:47:58Z,10,19,Ksound22,freeCodeCamp,freeCodeCamp
 0130f6ffb1e822bdb914b3ef5f6be524bce824a4,feat(curriculum): add merge sort workshop JSV9 (#66416),2026-03-27T17:04:04Z,28,1530,zairahira,freeCodeCamp,freeCodeCamp
@@ -894,5 +903,3 @@ d39e4d29f4efe27b50cb7c0ad6ab1380f082da17,fix(curriculum): fix typo from indentif
 fe1256b2d67a1b5d17d25736cf13cb9238c2b24a,fix(curriculum): specify which rounding in Budget App (#64917),2026-01-02T07:58:28Z,1,2,shivansh31414,freeCodeCamp,freeCodeCamp
 6ec4ac52c39ea04f8c827cf7c4ff29f42c9fd374,fix: typo in Markdown Italic Parser (#64942),2026-01-01T16:15:45Z,1,10,WongYC-66,freeCodeCamp,freeCodeCamp
 a58cad8e0d81cbb348896cb92ae2f18dc8bb49bc,fix(curriculum): misleading question wording (#64873),2025-12-31T05:13:16Z,1,2,zho00,freeCodeCamp,freeCodeCamp
-7f479c6824d196acc08069dc0762dd9b88aabd8b,fix(curriculum): correct numbers in selection sort example (#64920),2025-12-30T21:25:42Z,1,2,h-ram,freeCodeCamp,freeCodeCamp
-11ec8d4a9e3681bc7f2b52fc069595425f165f90,fix(curriculum): typo in city skyline workshop (#64921),2025-12-30T05:08:08Z,1,2,bdtripp,freeCodeCamp,freeCodeCamp
