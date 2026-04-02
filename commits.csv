@@ -1,4 +1,15 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+9d9306f8c4dd6f8e323ceb56656c1a39a3c5eaa7,refactor: add session-user endpoint (#66330),2026-04-01T16:59:02Z,6,405,Sembauke,freeCodeCamp,freeCodeCamp
+b2d33b7d6844acf6f0b1b19602cb0b895db874fb,feat(curriculum): release dynamic programming module js v9 cert (#66728),2026-04-01T15:23:18Z,5,9,Ksound22,freeCodeCamp,freeCodeCamp
+2db06f745d77d1336d2e27ee0c3f67c5991ebfdd,feat(curriculum): release graphs and trees module js v9 cert (#66727),2026-04-01T15:22:28Z,9,17,Ksound22,freeCodeCamp,freeCodeCamp
+83c766f5d26582c5ea4bb747233b4212fe328f36,feat(curriculum): EN-B1 quiz for block 19 (#66712),2026-04-01T14:01:35Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
+2657f66f550c6844004859473c22b40f621630d2,"chore(i18n,client): processed translations (#66688)",2026-04-01T13:35:34Z,20,1272,camperbot,freeCodeCamp,freeCodeCamp
+d586b5900bfc25f32e1cf8514ef6dd0b260e9842,fix(curriculum): wrong letter in basic personal info (#66724),2026-04-01T12:32:34Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+10ae07730713b60e99dcb23b244968a7dd1040f9,fix: correct typo in documentation and localization files  (#66704),2026-04-01T10:12:37Z,6,34,afsuyadi,freeCodeCamp,freeCodeCamp
+8580ba0ace87ad584e60d46cf91bfaddfa606cf3, feat(client): ensure donate button is always visible (#66706),2026-04-01T08:05:18Z,5,251,Venkat-Entropik,freeCodeCamp,freeCodeCamp
+9721f9c59f25629840be32ba67248e5a5d2c27c5,feat(curriculum): add shortest path algo to js v9 cert (#66681),2026-04-01T06:24:12Z,29,1971,Ksound22,freeCodeCamp,freeCodeCamp
+35fccf241525d6b9202b7fa21ec02c97311afee4,feat(curriculum): add nth fibonacci number lab js v9 cert (#66720),2026-04-01T06:21:40Z,4,135,Ksound22,freeCodeCamp,freeCodeCamp
+60d744d75c8c8705ce1576c9982686ba0ece5814,fix(deps): update dependency @aws-sdk/client-ses to v3.1016.0 (#66716),2026-04-01T04:06:46Z,2,553,renovate[bot],freeCodeCamp,freeCodeCamp
 cead3cc698590918a053c48a6418ca9a12759183,fix(lint): more memory for bigger curriculum (#66714),2026-03-31T14:31:27Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 e4b45891a62812c6530bf0532c96aad3aaf54b71,fix(deps): update dependency @aws-sdk/client-ses to v3.1015.0 (#66606),2026-03-31T12:35:51Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
 799455f6254cc6113388a8e81d713362064a4b0a,fix(client): typo in hashtag constant (#66698),2026-03-31T12:34:06Z,2,16,Misrilal-Sah,freeCodeCamp,freeCodeCamp
@@ -909,4 +920,3 @@ bffbdcd90a2aa15c70ac5f45d92bb8c79fca99c8,"fix(curriculum): typo in react forms, 
 d1dca406a3f3b250c9ef2dfcb28b863fc5df1d28,fix(curriculum): missing b1 cert from settings page (#64938),2026-01-02T10:12:04Z,9,20,jdwilkin4,freeCodeCamp,freeCodeCamp
 d39e4d29f4efe27b50cb7c0ad6ab1380f082da17,fix(curriculum): fix typo from indentified to identified (#64957),2026-01-02T09:53:22Z,1,2,Giftea,freeCodeCamp,freeCodeCamp
 fe1256b2d67a1b5d17d25736cf13cb9238c2b24a,fix(curriculum): specify which rounding in Budget App (#64917),2026-01-02T07:58:28Z,1,2,shivansh31414,freeCodeCamp,freeCodeCamp
-6ec4ac52c39ea04f8c827cf7c4ff29f42c9fd374,fix: typo in Markdown Italic Parser (#64942),2026-01-01T16:15:45Z,1,10,WongYC-66,freeCodeCamp,freeCodeCamp
