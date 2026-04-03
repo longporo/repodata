@@ -1,9 +1,20 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X875sYVy,66730,Build a Decimal to Binary converter step 35- small correction for consistency,OPEN,2026-04-01T18:51:56Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X875x6rf,66733,UI Enhancement: Improve homepage visual hierarchy and button differentiation,OPEN,2026-04-02T00:11:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X873VKj4,66639,Random Blue Line Appearing on Page (Possible Focus Border),OPEN,2026-03-27T05:26:09Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X876JmS5,66757,Build a Decimal to Binary converter step 60- small correction for consistency,OPEN,2026-04-02T20:27:48Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X876CEp1,66745,missing semi-colons in seed code,OPEN,2026-04-02T14:06:10Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X876DanY,66747,New header UI cannot change language of the website,CLOSED,2026-04-02T15:01:57Z,2026-04-02T17:09:10Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X876E-ne,66749,Add Adaptive Learning Path Recommendation System for Personalized Learning,CLOSED,2026-04-02T16:13:22Z,2026-04-02T17:01:16Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X876E0z6,66748,Improve Search Relevance and Resource Discovery for Learning Content,CLOSED,2026-04-02T16:07:00Z,2026-04-02T17:01:02Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X875-fOB,66743,"Typos in grammar explanations (""refering"" → ""referring"", ""preceed"" → ""precede"")",CLOSED,2026-04-02T11:24:36Z,2026-04-02T16:17:39Z,amish-pratap-singh-1,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X875OUHr,66722,Python Certification - Build a Polygon Area Calculator - none of test pass,CLOSED,2026-03-31T18:05:26Z,2026-04-01T16:18:50Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X875-U5X,66742,Add Arabic language support to freeCodeCamp,CLOSED,2026-04-02T11:16:00Z,2026-04-02T13:33:45Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X875x6rf,66733,UI Enhancement: Improve homepage visual hierarchy and button differentiation,CLOSED,2026-04-02T00:11:16Z,2026-04-02T12:45:48Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X874Lsc0,66671,New Curriculum Path: Deep Learning with Python,OPEN,2026-03-29T11:03:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87xg25H,66338,Download my solution button,OPEN,2026-03-10T13:45:25Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X875sYVy,66730,Build a Decimal to Binary converter step 35- small correction for consistency,CLOSED,2026-04-01T18:51:56Z,2026-04-02T13:10:06Z,aaryamanchanda,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87zgfgI,66515,Success message after logging out,OPEN,2026-03-16T23:47:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X873VKj4,66639,Random Blue Line Appearing on Page (Possible Focus Border),OPEN,2026-03-27T05:26:09Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87597G-,66741,add macOS Homebrew PATH setup note for new contributors,CLOSED,2026-04-02T10:58:05Z,2026-04-02T12:46:24Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X873cQNZ,66646,Coding Challenge 229: Truncate the Text 2 - typo in description and test result,CLOSED,2026-03-27T10:28:31Z,2026-03-31T07:42:13Z,Krishna040705,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87oL5SA,65697,"unneeded horizontal scroll at the bottom of the browser, inside block page",OPEN,2026-02-04T09:00:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87XbQk1,63761,Use stricter regex for Hanzi–Pinyin pair detection,CLOSED,2025-11-11T23:24:01Z,2026-04-01T12:56:24Z,,freeCodeCamp,freeCodeCamp
@@ -12,10 +23,8 @@ I_kwDOAbI7X87P6-rG,62555,Make curriculum subject headings anchor linkable for di
 I_kwDOAbI7X8745Itr,66705,Grammatical Errors in Localization Files and Documentation,CLOSED,2026-03-31T04:43:16Z,2026-04-01T10:12:40Z,afsuyadi,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86Av942,53914,Missing CSV Files in released branch of Relational Database Courses,OPEN,2024-02-28T23:35:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87zZ_Ne,66508,Donate button should always be visible,CLOSED,2026-03-16T16:59:54Z,2026-04-01T08:05:20Z,Venkat,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87xg25H,66338,Download my solution button,OPEN,2026-03-10T13:45:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X875J2pp,66718,Quiz accessibility,CLOSED,2026-03-31T15:17:29Z,2026-03-31T16:22:11Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPFE7,64123,Workshop – Escape Room Code Runner,OPEN,2025-11-25T03:45:22Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X874Lsc0,66671,New Curriculum Path: Deep Learning with Python,OPEN,2026-03-29T11:03:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85B-CwW,44818,Trailing `/` in i18n Redirects to `/learn`,CLOSED,2022-01-18T11:21:08Z,2026-03-31T12:19:57Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86s68qe,59167,Customer Complaint Form - undefined edge case,OPEN,2025-03-06T18:29:01Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87K-hor,62151,misleading newsletter signup button,CLOSED,2025-09-11T08:19:28Z,2026-03-31T07:07:57Z,ftoucch,freeCodeCamp,freeCodeCamp
@@ -67,7 +76,6 @@ I_kwDOAbI7X87soSoG,65979,Workshop - Build a Wildlife Tracker,CLOSED,2026-02-20T1
 I_kwDOAbI7X872ChwV,66612,Missing letter on lesson,CLOSED,2026-03-24T13:17:52Z,2026-03-24T13:29:59Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87MbVpW,62254,[Speaking Modal] Set the initial focus on the Play button,CLOSED,2025-09-18T10:30:57Z,2026-03-24T10:44:56Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87pmJp-,65797,Translatable tokens in language files,OPEN,2026-02-10T02:25:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87zgfgI,66515,Success message after logging out,OPEN,2026-03-16T23:47:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X871Kaer,66583,Add local image upload option for profile picture field,CLOSED,2026-03-21T17:38:05Z,2026-03-24T07:42:46Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87wf-Qx,66275,Add link/reference to markdown file for challenges/workshops,OPEN,2026-03-06T15:54:12Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X871zaDG,66607,Add color override to block header text,CLOSED,2026-03-23T21:44:24Z,2026-03-23T23:33:15Z,danzolotov,freeCodeCamp,freeCodeCamp
@@ -557,17 +565,3 @@ I_kwDOAbI7X87fh9Dk,64809,How Do You Create a Newline in Strings and Escape Strin
 I_kwDOAbI7X87gvQTI,64935,python Implement the Depth-First Search Algorithm,CLOSED,2025-12-30T15:06:59Z,2026-01-05T12:36:31Z,Dario-DC,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87hCThk,64961,Incorrect Information: TPGi Colour Contrast Analyzer is desktop based and not a webpage.,CLOSED,2026-01-02T02:41:54Z,2026-01-05T12:09:16Z,YashhCanCode,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gWOor,64905,"Course content: Python, Understanding-object-oriented-programming-and-encapsulation/what-is-object-oriented-programming-and-how-does-encapsulation-work",CLOSED,2025-12-26T19:46:41Z,2026-01-05T09:26:24Z,Jeevankumar,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87f-chf,64871,Interactive Editor not working,CLOSED,2025-12-23T15:13:13Z,2026-01-02T15:13:54Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87X_byf,63826,JS Trivia Bot Lab - Failing Test 15 Results in Erroneous Additional Failed Tests,CLOSED,2025-11-14T03:29:22Z,2025-11-17T18:48:36Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87g13Y9,64940,Remove meta viewport requirement in step 3 of bookstore page,CLOSED,2025-12-31T07:49:43Z,2026-01-02T14:24:25Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87gYbtz,64910,"Is “+ modifier” correct in regex, or should it be called a “+ quantifier”?",CLOSED,2025-12-27T07:10:00Z,2026-01-02T14:15:44Z,lakshay122007;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87hFxee,64970,Add Beginner-Friendly HTML/CSS/JS Projects for Practice,CLOSED,2026-01-02T13:37:30Z,2026-01-02T13:50:27Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87guYTv,64934,Valid solution doesn't pass test in step 109 of city skyline workshop,CLOSED,2025-12-30T13:46:25Z,2026-01-02T11:19:14Z,lakshay122007,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87f8XCO,64858,confusion in step 45 of workshop email simulator,CLOSED,2025-12-23T11:59:04Z,2026-01-02T10:49:52Z,DeveloperViraj,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ggbIB,64924,Test case erroneously passes for Screaming Snake Case coding challenge,CLOSED,2025-12-29T06:55:56Z,2026-01-02T10:35:50Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87g2Uo1,64943,Grammatical Error in One of the Lectures of the Front End Development Libraries Certification,CLOSED,2025-12-31T08:57:56Z,2026-01-02T10:12:30Z,ShashwathNayak06,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87gQhaA,64895,B1 English cert is missing from settings page,CLOSED,2025-12-25T23:03:38Z,2026-01-02T10:12:05Z,ShaunSHamilton;jdwilkin4,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87UWl1R,63169,"Add interactive examples to What Is JavaScript, and How Does It Work with HTML and CSS lesson",CLOSED,2025-10-28T17:46:10Z,2025-10-28T18:51:30Z,clarencepenz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87gcTtt,64918,"Hyperlinks for courses under ""Recommended curriculum (still in beta):""  not working",CLOSED,2025-12-28T09:55:21Z,2026-01-02T08:17:34Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87g66fz,64953,README Translation Integration Feature,CLOSED,2025-12-31T19:57:38Z,2026-01-02T08:06:22Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87gWoe_,64907,Build a Budget App has conflict between rounding requirement and test,CLOSED,2025-12-26T21:27:17Z,2026-01-02T07:58:29Z,Shivansh,freeCodeCamp,freeCodeCamp
