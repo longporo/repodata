@@ -1,4 +1,8 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+a72fe073991cf3c824da02a4ff2e991ac8b0a4a8,revert(client): ensure donate button is always visible (#66754),2026-04-02T17:06:25Z,5,251,raisedadead,freeCodeCamp,freeCodeCamp
+72ddb7a992919375652c1ca8702527f5416e6d98,fix(curriculum): correct typos in grammar explanations (#66746),2026-04-02T16:17:36Z,1,2,amish-pratap-singh-1,freeCodeCamp,freeCodeCamp
+a2bcc848fc1a620db21d311ea5ae3548337bd647,fix: add missing empty line in decimal to binary step 35 (#66740),2026-04-02T13:10:03Z,1,1,aaryamanchanda,freeCodeCamp,freeCodeCamp
+0ac89ed1686de9fe68cdb8eaf38f6086e038d5f6,feat(curriculum): EN-B1 quiz for block 20 (#66739),2026-04-02T10:53:21Z,1,361,anastasiiauk,freeCodeCamp,freeCodeCamp
 9d9306f8c4dd6f8e323ceb56656c1a39a3c5eaa7,refactor: add session-user endpoint (#66330),2026-04-01T16:59:02Z,6,405,Sembauke,freeCodeCamp,freeCodeCamp
 b2d33b7d6844acf6f0b1b19602cb0b895db874fb,feat(curriculum): release dynamic programming module js v9 cert (#66728),2026-04-01T15:23:18Z,5,9,Ksound22,freeCodeCamp,freeCodeCamp
 2db06f745d77d1336d2e27ee0c3f67c5991ebfdd,feat(curriculum): release graphs and trees module js v9 cert (#66727),2026-04-01T15:22:28Z,9,17,Ksound22,freeCodeCamp,freeCodeCamp
@@ -906,17 +910,3 @@ be4b2e830766713608ed1b68fe8064073ece705f,fix(curriculum): allow any node order i
 8112a82104945f6e264af40d6bd9568d11d16ee4,fix(curriculum): clarify TPGi Colour Contrast Analyzer description in…,2026-01-05T12:09:14Z,1,2,YashhCanCode,freeCodeCamp,freeCodeCamp
 0e9f97c5812379fc730ed415a4eb2591ee17176e,fix(curriculum): correct validation example in encapsulation lesson (…,2026-01-05T09:26:23Z,1,12,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 8c0f9bf50080dd6a696a84cc6441372d5cd3e4f3,feat(curriculum): add debug donation form lab (#63632),2026-01-05T06:49:58Z,5,217,zairahira,freeCodeCamp,freeCodeCamp
-7d58ef2062b457d9370a7f730fc875f92ad28a80,fix(curriculum): remove meta viewport requirement from bookstore page…,2026-01-02T14:24:24Z,17,32,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-706d62864150f0e5590c9cc905e4f03547018a45,fix(curriculum): refer to + as a quantifier in step 32 of Calorie Cou…,2026-01-02T14:15:43Z,1,6,lakshay122007,freeCodeCamp,freeCodeCamp
-5772ad6a12a8ea3df4c0aa29c20b82120393b77e,feat(curriculum): add HTML video player project to FSD cert (#62866),2026-01-02T13:06:41Z,17,850,mtrivera,freeCodeCamp,freeCodeCamp
-cbb51972a923bb012b7c0e839859d5fe286cd249,"chore(i18n,learn): update i18n-curriculum submodule (#64947)",2026-01-02T11:22:41Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-2ee7c05544ea208acfac0730ece64823535f152d,fix(curriculum): correct attribute mismatch in step 109 of City Skyli…,2026-01-02T11:19:13Z,1,2,lakshay122007,freeCodeCamp,freeCodeCamp
-710c793c7b3e09b4a002ccae6a6f1f719fddd23a,"chore(i18n,client): processed translations (#64927)",2026-01-02T11:17:58Z,10,60,camperbot,freeCodeCamp,freeCodeCamp
-05785aec7fcffa827f69bf64b4ee9602bd59bdc6,fix(curriculum): clarify email confirmation message (#64867),2026-01-02T10:49:51Z,1,2,DeveloperViraj,freeCodeCamp,freeCodeCamp
-3a95f9833511f2b47bf9180d30e668b7463d0cad,fix(curriculum): Fix incorrect test assertion in SCREAMING_SNAKE_CASE…,2026-01-02T10:35:49Z,1,2,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-09dff5b433cabd81dee710bc28eccf80fb30c7c8,fix(curriculum): typo in what is memoization and how does the useMemo…,2026-01-02T10:16:39Z,1,2,bdtripp,freeCodeCamp,freeCodeCamp
-bffbdcd90a2aa15c70ac5f45d92bb8c79fca99c8,"fix(curriculum): typo in react forms, data fetching and routing revie…",2026-01-02T10:16:07Z,2,4,bdtripp,freeCodeCamp,freeCodeCamp
-679ba978a18667e3ee8f8ffc0935fc7241aebbed,fix: Grammatical error in one of the lecture of Front End Development…,2026-01-02T10:12:28Z,1,2,ShashwathNayak06,freeCodeCamp,freeCodeCamp
-d1dca406a3f3b250c9ef2dfcb28b863fc5df1d28,fix(curriculum): missing b1 cert from settings page (#64938),2026-01-02T10:12:04Z,9,20,jdwilkin4,freeCodeCamp,freeCodeCamp
-d39e4d29f4efe27b50cb7c0ad6ab1380f082da17,fix(curriculum): fix typo from indentified to identified (#64957),2026-01-02T09:53:22Z,1,2,Giftea,freeCodeCamp,freeCodeCamp
-fe1256b2d67a1b5d17d25736cf13cb9238c2b24a,fix(curriculum): specify which rounding in Budget App (#64917),2026-01-02T07:58:28Z,1,2,shivansh31414,freeCodeCamp,freeCodeCamp
