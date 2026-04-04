@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+1ccedf93fb1dda81a63f75c9fb562e859075e5c1,fix(curriculum): allow optional semicolon in Linked List Step 5 (#66775),2026-04-03T22:40:31Z,1,6,narasimhan-lakshmi,freeCodeCamp,freeCodeCamp
+53197ff838ecbd5e835bca6c9d8d6b624083e0d8,fix(curriculum): correct typos in lessons (#66755),2026-04-03T18:46:52Z,4,8,GalacticAvenger,freeCodeCamp,freeCodeCamp
+a11ca64a0a13433e694a8f0eb717a90e57fb7621,fix(curriculum): add empty line to editable region in Build a Decimal…,2026-04-03T17:56:39Z,1,1,narasimhan-lakshmi,freeCodeCamp,freeCodeCamp
+bb17e37fa9fb23faceb51a05222d2f5b6ea97308,fix(curriculum): correct typo in CSS foundations exercise instruction…,2026-04-03T16:54:10Z,1,2,Tiago-Vier-Preto,freeCodeCamp,freeCodeCamp
+85f790c5274b1bcbb9db0c2c38226ab86cebb97b,feat(curriculum): EN-B1 quiz for block 21 (#66768),2026-04-03T13:14:36Z,1,361,anastasiiauk,freeCodeCamp,freeCodeCamp
+56d2c64df56b6c8d16b6431589087dcb71f211ed,fix(e2e): mock get-session-user (i.e. what the client requests) (#66765),2026-04-03T10:27:00Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+b24fa81f54d4155a93892bd1748d72624e3d3b57,feat(curriculum): daily challenges 246-263 (#66715),2026-04-03T07:51:51Z,41,3450,moT01,freeCodeCamp,freeCodeCamp
 a72fe073991cf3c824da02a4ff2e991ac8b0a4a8,revert(client): ensure donate button is always visible (#66754),2026-04-02T17:06:25Z,5,251,raisedadead,freeCodeCamp,freeCodeCamp
 72ddb7a992919375652c1ca8702527f5416e6d98,fix(curriculum): correct typos in grammar explanations (#66746),2026-04-02T16:17:36Z,1,2,amish-pratap-singh-1,freeCodeCamp,freeCodeCamp
 a2bcc848fc1a620db21d311ea5ae3548337bd647,fix: add missing empty line in decimal to binary step 35 (#66740),2026-04-02T13:10:03Z,1,1,aaryamanchanda,freeCodeCamp,freeCodeCamp
