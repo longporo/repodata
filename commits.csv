@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+f1bb8240b01a279945ee7db2b90cf746a64b0846,fix(deps): update dependency typebox to v1.1.8 (#66798),2026-04-04T21:13:50Z,2,209,renovate[bot],freeCodeCamp,freeCodeCamp
+a22b11743dd1b9b0d85323d11296bbbccb8aa71e,"chore(i18n,learn): update i18n-curriculum submodule (#66691)",2026-04-04T19:55:38Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+6d06509de4ebd74d8dbf2dee2630bf9bedecba9d,chore(deps): update crowdin/github-action action to v2.16.0 (#66778),2026-04-04T17:16:01Z,3,22,renovate[bot],freeCodeCamp,freeCodeCamp
+3f42b31e5762324ef451d03ff788afa41955f55d,fix(deps): update dependency @aws-sdk/client-ses to v3.1019.0 (#66758),2026-04-04T17:15:58Z,2,193,renovate[bot],freeCodeCamp,freeCodeCamp
+131438e5b0f6aa7c47326109ca3734f1790f1e7f,fix(deps): update dependency typebox to v1.1.7 (#66777),2026-04-04T17:15:10Z,2,209,renovate[bot],freeCodeCamp,freeCodeCamp
+df609a00251fcf9a1e7c787cfec18723f71399ec,fix: replace instagram icon with threads icon (#66793),2026-04-04T13:41:13Z,1,4,GulshanJha00,freeCodeCamp,freeCodeCamp
+196b245a6cd31cf2dd698a8579e13b7a034f20e8,fix(tools): add a group name for clarity (#66792),2026-04-04T12:18:31Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
 1ccedf93fb1dda81a63f75c9fb562e859075e5c1,fix(curriculum): allow optional semicolon in Linked List Step 5 (#66775),2026-04-03T22:40:31Z,1,6,narasimhan-lakshmi,freeCodeCamp,freeCodeCamp
 53197ff838ecbd5e835bca6c9d8d6b624083e0d8,fix(curriculum): correct typos in lessons (#66755),2026-04-03T18:46:52Z,4,8,GalacticAvenger,freeCodeCamp,freeCodeCamp
 a11ca64a0a13433e694a8f0eb717a90e57fb7621,fix(curriculum): add empty line to editable region in Build a Decimal…,2026-04-03T17:56:39Z,1,1,narasimhan-lakshmi,freeCodeCamp,freeCodeCamp
