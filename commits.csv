@@ -1,4 +1,8 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+18f87e605156b3ba7bf673847f1980da1c5aba75,"chore(i18n,client): processed translations (#66831)",2026-04-06T14:49:49Z,11,120,camperbot,freeCodeCamp,freeCodeCamp
+8ba6e4d72c5c566a281ca2cde19f7dfa6a181c1f,fix(curriculum): singular form of verb to match subject (#66824),2026-04-06T12:06:12Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+ae5926ba40ec4cdf516d714224dcf300a39f217b,fix(i18n): align Chinese A1 chapter 3/4 icons with Spanish (#66830),2026-04-06T11:35:56Z,2,11,Sembauke,freeCodeCamp,freeCodeCamp
+f5544cef03a9101a3779d7229542172b15ab9f8c,"feat(i18n, learn): remove Korean from nonAuditedSuperBlocks (#66823)",2026-04-06T10:28:02Z,1,38,DanielRosa74,freeCodeCamp,freeCodeCamp
 401b0b923dfd257e618e6e870d6b55be3bbe3930,"chore(i18n,learn): update i18n-curriculum submodule (#66820)",2026-04-06T00:17:57Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 a2c9bdd8ba2d65ca3d1d8a3b13a672fd03e7cef2,fix(curriculum): correct incomplete code snippet in example question …,2026-04-06T00:08:31Z,1,2,TuomasJalonen,freeCodeCamp,freeCodeCamp
 f3e3d9de5d96d391bee0b1de14bdc3e7ba3fb9ae,fix(deps): update dependency typebox to v1.1.9 (#66805),2026-04-05T13:28:50Z,2,209,renovate[bot],freeCodeCamp,freeCodeCamp
@@ -911,8 +915,3 @@ c3f0473cd059c9d19bfc9cd7decf2002a848bc06,feat:(client): show-workshop-independen
 7548f237bc559afbd87eba3b68ecca4ef60c0f07,fix(curriculum): Fixed a couple sentences/typos in the Relational Dat…,2026-01-07T16:34:19Z,2,6,Roxicaro,freeCodeCamp,freeCodeCamp
 0753137726a5d88a796a0214ccc2cd77bc28d518,fix: replace asset with assert in project euler hints (#65020),2026-01-07T09:48:16Z,4,8,harshentau-spec,freeCodeCamp,freeCodeCamp
 1ed4803a2e22baa65d48cde9571e2e3d5cc9e4f8,fix(curriculum): make visited pseudo-class in example open in new tab…,2026-01-07T08:31:27Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
-efa64c6390cb2a148ad55e7abcac6d2b92a233a3,fix(curriculum): Fixed formatting for consistency in Relational Datab…,2026-01-06T20:18:15Z,1,4,Platykin,freeCodeCamp,freeCodeCamp
-35198625185207e0cec6e5923b122ec36578816f,"fix(learn, tools/scripts): replace archived challenge links in challe…",2026-01-06T19:56:17Z,2,86,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-4eb0c7f750e448082a44bffca24ee3ab59d3f155,fix(curriculum): require non-white body background in blog post card …,2026-01-06T17:12:35Z,1,20,DeveloperViraj,freeCodeCamp,freeCodeCamp
-f95180ef417f267eeda6ad25df8e477f2e248f5e,fix(curriculum): change spinal case converter lab example in user sto…,2026-01-06T15:26:06Z,1,2,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-11cf3225687f5fc1bb37a0668de8d5029b91fbb1,fix(curriculum): two correct answers web response quiz (#65000),2026-01-06T08:30:22Z,1,2,achf01,freeCodeCamp,freeCodeCamp
