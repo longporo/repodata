@@ -1,4 +1,13 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+e456e28f1640a44ebebd7980b6a0475581e1fa92,fix(api): update socrates endpoint (#66849),2026-04-07T22:33:23Z,2,6,raisedadead,freeCodeCamp,freeCodeCamp
+7b8273e0e0bb6394341955bed259eb0ea3e27a4a,refator(api): drop useless SES SDK (#65496),2026-04-07T22:32:52Z,8,1079,raisedadead,freeCodeCamp,freeCodeCamp
+1fb20ded39ec1e28d1c254fe0d00f8a949d041e9,fix(client): simplify search box text so less likely to ellipsis (#66…,2026-04-07T21:54:41Z,2,10,QuincyLarson,freeCodeCamp,freeCodeCamp
+2906599befba604e893e6b8717fb8d955737c083,feat: add socrates (#65430),2026-04-07T13:33:20Z,51,1971,ahmaxed,freeCodeCamp,freeCodeCamp
+2ad6e448faec629031006d5451a7d762ec9ce68d,feat(curriculum): Add type safe user profile to typescript module (#6…,2026-04-07T09:50:32Z,16,877,jdwilkin4,freeCodeCamp,freeCodeCamp
+0e8da837bef5d9a4affa1d144c0aaff9f8a5b6d3,fix(.github): correct affected page help text in issue forms (#66816),2026-04-07T07:34:52Z,2,4,NotYash1066,freeCodeCamp,freeCodeCamp
+e60a299ced630caff79a6c2a317534cff282b76b,fix(curriculum): update block layout from challenge-grid to challenge…,2026-04-07T07:28:13Z,1,2,martinezharo,freeCodeCamp,freeCodeCamp
+85d7213b93c1f25242bb589b32bd8dc0b4e43147,fix(deps): update dependency typebox to v1.1.11 (#66838),2026-04-07T07:16:29Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
+f12b1227b45b0b1100e2ee82543872cd22f00a21,fix(GHA): add keys for email and socrates (#66826),2026-04-07T06:57:04Z,1,22,raisedadead,freeCodeCamp,freeCodeCamp
 18f87e605156b3ba7bf673847f1980da1c5aba75,"chore(i18n,client): processed translations (#66831)",2026-04-06T14:49:49Z,11,120,camperbot,freeCodeCamp,freeCodeCamp
 8ba6e4d72c5c566a281ca2cde19f7dfa6a181c1f,fix(curriculum): singular form of verb to match subject (#66824),2026-04-06T12:06:12Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 ae5926ba40ec4cdf516d714224dcf300a39f217b,fix(i18n): align Chinese A1 chapter 3/4 icons with Spanish (#66830),2026-04-06T11:35:56Z,2,11,Sembauke,freeCodeCamp,freeCodeCamp
@@ -910,8 +919,3 @@ aa5665f8b3ac09165b39acbd81e1c5f07b666bd7,fix(tools): allow quizzes for block-bas
 63366a19e6aeebd4149c851205f0b8ceab7f1c0c,fix(curriculum): remove hash symbol from authorContainer (#65035),2026-01-08T15:14:02Z,1,2,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 c3f0473cd059c9d19bfc9cd7decf2002a848bc06,feat:(client): show-workshop-independent-lower-jaw (#64137),2026-01-08T14:51:57Z,13,328,ahmaxed,freeCodeCamp,freeCodeCamp
 87cf2f26330299a8f5ab78023ba498a764e425cb,fix(curriculum): add test for clarifying output formatting in lab vot…,2026-01-08T08:43:52Z,1,26,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-05aeca4a4c4383d0183f413e4beda3827ba10814,fix(curriculum): clarify source element usage with video element (#65…,2026-01-07T23:19:41Z,1,20,Pratyush378,freeCodeCamp,freeCodeCamp
-0c97491d26168041a829db2f94a1d52b58d40fe9,feat(curriculum): caesar cipher step 4 directly use variables (#64955),2026-01-07T18:49:31Z,1,12,a2937,freeCodeCamp,freeCodeCamp
-7548f237bc559afbd87eba3b68ecca4ef60c0f07,fix(curriculum): Fixed a couple sentences/typos in the Relational Dat…,2026-01-07T16:34:19Z,2,6,Roxicaro,freeCodeCamp,freeCodeCamp
-0753137726a5d88a796a0214ccc2cd77bc28d518,fix: replace asset with assert in project euler hints (#65020),2026-01-07T09:48:16Z,4,8,harshentau-spec,freeCodeCamp,freeCodeCamp
-1ed4803a2e22baa65d48cde9571e2e3d5cc9e4f8,fix(curriculum): make visited pseudo-class in example open in new tab…,2026-01-07T08:31:27Z,1,2,pdtrang,freeCodeCamp,freeCodeCamp
