@@ -1,4 +1,12 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+3d88db0660220493227b6e0c04f23b308709f621,feat(curriculum): EN-B1 quiz for block 24 (#66865),2026-04-08T19:27:41Z,1,361,anastasiiauk,freeCodeCamp,freeCodeCamp
+bc49072aaf3120a2e9e4c98552c8f9f36d9b0e14,fix(deps): update prisma monorepo to v6.19.3 (#66858),2026-04-08T19:17:27Z,2,94,renovate[bot],freeCodeCamp,freeCodeCamp
+06c40cc23f30c476a0116b37ba85694c110f8d59,refactor: separate getAuthedUser from authorize (#66842),2026-04-08T19:15:17Z,2,182,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+d69f24b31bd05d9e83443c10c4b652be0cb5c5a9,refactor(tooling): allow markdownlint to handle multiple files (#66771),2026-04-08T15:15:06Z,8,1077,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+448d320d21ac2488f34165a58063db449785ab59,feat(curriculum): EN-B1 quiz for block 23 (#66855),2026-04-08T11:53:56Z,1,361,anastasiiauk,freeCodeCamp,freeCodeCamp
+ddac8f0593bee54752e61194bafe42107f8a90b1,feat(client): show loading icon when preview frame has not loaded yet…,2026-04-08T07:59:27Z,9,122,Sembauke,freeCodeCamp,freeCodeCamp
+3cb26fc6a3a001888a2b3c5ddf52257c8bb1d0d8,feat(curriculum): EN-B1 quiz for block 22 (#66843),2026-04-08T06:34:56Z,1,361,anastasiiauk,freeCodeCamp,freeCodeCamp
+7388dc5ff0baae256028dc113f652864879a8dab,fix(deps): update dependency typebox to v1.1.12 (#66844),2026-04-08T05:47:05Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
 e456e28f1640a44ebebd7980b6a0475581e1fa92,fix(api): update socrates endpoint (#66849),2026-04-07T22:33:23Z,2,6,raisedadead,freeCodeCamp,freeCodeCamp
 7b8273e0e0bb6394341955bed259eb0ea3e27a4a,refator(api): drop useless SES SDK (#65496),2026-04-07T22:32:52Z,8,1079,raisedadead,freeCodeCamp,freeCodeCamp
 1fb20ded39ec1e28d1c254fe0d00f8a949d041e9,fix(client): simplify search box text so less likely to ellipsis (#66…,2026-04-07T21:54:41Z,2,10,QuincyLarson,freeCodeCamp,freeCodeCamp
@@ -163,7 +171,7 @@ bdf4ff86cf7c3e854962d62e18d6b6a6078912eb,fix(curriculum): remove before/after-us
 9451e59b3fe134e97e62689d3d0f4f763ca29538,fix(curriculum): migrate data-structures setup from after-user-code (…,2026-03-16T09:08:34Z,6,36,Sembauke,freeCodeCamp,freeCodeCamp
 171d12afa4ad11fa2e54f7c224cf8a7d20b0dcb9,fix(curriculum): remove before/after-user-code from 5 basic javascrip…,2026-03-16T09:08:30Z,5,53,Sembauke,freeCodeCamp,freeCodeCamp
 a7e5ad3287f8d18c373ff36192f66a1317cdf676,fix(ci): allow spaces around x in PR template checkboxes (#66476),2026-03-16T07:22:58Z,1,5,majestic-owl448,freeCodeCamp,freeCodeCamp
-0fc80621fb857d33697f583a04aaae3353cdb470,fix: add missing test case and fix double semicolon in screaming snak…,2026-03-15T19:04:52Z,2,17,Harshithk951,freeCodeCamp,freeCodeCamp
+0fc80621fb857d33697f583a04aaae3353cdb470,fix: add missing test case and fix double semicolon in screaming snak…,2026-03-15T19:04:52Z,2,17,Harshith Kumar,freeCodeCamp,freeCodeCamp
 da0eea689e118c746313f106360dfd251ef7f399,fix(curriculum): Updated 'How Do You Access and Update Elements in an…,2026-03-15T18:13:15Z,1,2,p-rhodes,freeCodeCamp,freeCodeCamp
 5d6a286837da43c9abb30d8e03457cb67b7abae4,fix(curriculum): remove before/after-user-code from basic javascript …,2026-03-15T17:30:40Z,2,57,Sembauke,freeCodeCamp,freeCodeCamp
 f853374e4dd828c40552ab578ec77a74c482d18e,fix(curriculum): remove before/after-user-code from basic javascript …,2026-03-15T17:30:36Z,3,18,Sembauke,freeCodeCamp,freeCodeCamp
@@ -227,7 +235,7 @@ a135c4589b84c8f7c1ad7cbca00541f647d70e6f,feat(curriculum): EN-B1 quiz for block 
 3656e24289415aad7edfab10c5016c40dde2d124,feat(curriculum): EN-B1 quiz for block 11 (#66371),2026-03-12T18:28:38Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
 faa10d981966952ed1f0d7397375e6000f24824d,fix(curriculum): remove before/after-user-code from rosetta challenge…,2026-03-12T18:26:08Z,5,190,Sembauke,freeCodeCamp,freeCodeCamp
 4015c354b91ba927050ac84d1e9d1cba24a5c4d3,feat: Add precalculus course to catalog (#66089),2026-03-12T17:55:17Z,56,1763,jdwilkin4,freeCodeCamp,freeCodeCamp
-ab14a6a9b15fefe3bbe47861fbb1a7979ccbd405,fix(client): handle navbar style in high contrast mode (#66303),2026-03-12T15:26:33Z,1,62,Harshithk951,freeCodeCamp,freeCodeCamp
+ab14a6a9b15fefe3bbe47861fbb1a7979ccbd405,fix(client): handle navbar style in high contrast mode (#66303),2026-03-12T15:26:33Z,1,62,Harshith Kumar,freeCodeCamp,freeCodeCamp
 692db3dc70bfd9e319d7e340d476815fee7b7257,feat(curriculum): EN-B1 quiz for block 12 (#66392),2026-03-12T15:19:52Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
 8a603365a8499cc1656803f17790151d4dc3e84c,fix: add max failures for unique PW tests to unclog CI (#66368),2026-03-12T15:12:08Z,1,2,Sembauke,freeCodeCamp,freeCodeCamp
 96b8af5e0f5b3c39dfc4f274745daa542e4e87d9,fix(curriculum): replace 'method' with 'function' for module calls in…,2026-03-12T14:58:53Z,3,12,nguyenduybao1,freeCodeCamp,freeCodeCamp
@@ -910,12 +918,3 @@ a0abb9df134eb5bdda67957550f7cd7523dcd942,feat(curriculum): add stub quizzes to A
 1827e2e78bffb78a7f2734b6c4e6a047af7015e7,feat: supply scene-assets to external curriculum v2 (#65055),2026-01-09T10:23:52Z,2,29,Sembauke,freeCodeCamp,freeCodeCamp
 e0eddbb3084839955510f6dfc69003033981f684,"chore(i18n,learn): update i18n-curriculum submodule (#65053)",2026-01-09T08:39:08Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 86372515300d691ed7ae3482b288741bf29a5921,fix(curriculum): explain props.children (#64916),2026-01-09T07:07:40Z,1,28,sagi0312,freeCodeCamp,freeCodeCamp
-c07592303e28b9c4f39b38452a209b161f9742f4,fix(curriculum): Add a tone explanation task in the A1 Chinese simple…,2026-01-09T01:09:06Z,14,204,miyaliu666,freeCodeCamp,freeCodeCamp
-aa5665f8b3ac09165b39acbd81e1c5f07b666bd7,fix(tools): allow quizzes for block-based super blocks (#65044),2026-01-08T19:54:34Z,1,4,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-38ba5f58ebf0e84703ebb58b6b2cdd45bde6284a,"chore(i18n,learn): update i18n-curriculum submodule (#65042)",2026-01-08T19:30:15Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-31d4d6f234fc2b1210750b033f499757abe6fbbc,feat(tooling): randomize correct answers for multiple choice question…,2026-01-08T19:04:33Z,1,54,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-7f2a1bc6f558d941bb581e4ac2cbb44489a2b355,"fix(curriculum,a11y): improve accessibility of Drum Machine demo (#63…",2026-01-08T17:33:52Z,1,155,Om7035,freeCodeCamp,freeCodeCamp
-87a7e19c4bb455dd2a21b00fdb78dea5e8814ec8,feat(curriculum): add d3 lessons (#64992),2026-01-08T15:43:28Z,7,459,majestic-owl448,freeCodeCamp,freeCodeCamp
-63366a19e6aeebd4149c851205f0b8ceab7f1c0c,fix(curriculum): remove hash symbol from authorContainer (#65035),2026-01-08T15:14:02Z,1,2,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-c3f0473cd059c9d19bfc9cd7decf2002a848bc06,feat:(client): show-workshop-independent-lower-jaw (#64137),2026-01-08T14:51:57Z,13,328,ahmaxed,freeCodeCamp,freeCodeCamp
-87cf2f26330299a8f5ab78023ba498a764e425cb,fix(curriculum): add test for clarifying output formatting in lab vot…,2026-01-08T08:43:52Z,1,26,AdityaSingh-18,freeCodeCamp,freeCodeCamp
