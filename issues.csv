@@ -1,17 +1,18 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X878zctJ,66891,Suggestion Feedback for Build an fCC Forum Leaderboard Lab,OPEN,2026-04-10T19:35:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X878bfin,66883,URGENT: Python Certification Projects Not Marked Complete (Deadline Monday),OPEN,2026-04-09T21:41:51Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87wf-Qx,66275,Add link/reference to markdown file for challenges/workshops,OPEN,2026-03-06T15:54:12Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X876kKCz,66786,Build a Book Inventory - Unclear attribute selector operator for tests 48-53,OPEN,2026-04-04T06:08:20Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87aPEGx,64112,Lab – Story Fragment Shuffler,OPEN,2025-11-25T03:42:25Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X876CEp1,66745,missing semi-colons in seed code,OPEN,2026-04-02T14:06:10Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X878bfin,66883,Python Certification Projects Not Marked Complete,OPEN,2026-04-09T21:41:51Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Xq1cH,63788,Escaping HTML entities,OPEN,2025-11-12T21:42:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X878KdMJ,66871,[bug] socrates description max length too small,OPEN,2026-04-09T08:10:20Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X876kKCz,66786,Build a Book Inventory - Unclear attribute selector operator for tests 48-53,CLOSED,2026-04-04T06:08:20Z,2026-04-10T06:50:14Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87wf-Qx,66275,Add link/reference to markdown file for challenges/workshops,OPEN,2026-03-06T15:54:12Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87aPEGx,64112,Lab – Story Fragment Shuffler,OPEN,2025-11-25T03:42:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87muU8F,65562,Python Basics theory missing how to run your code,CLOSED,2026-01-29T14:09:47Z,2026-04-09T06:53:29Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87i1tcs,65101,Make it easier for returning campers to resume where they left off,OPEN,2026-01-12T19:39:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X876pDzU,66794,Implement a Stack has a function dependency not mentioned in instructions,CLOSED,2026-04-04T14:31:21Z,2026-04-09T06:20:12Z,Venkat,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fgeg-,64798,Mobile scrolling issue in JavaScript editor on Chrome Android,OPEN,2025-12-20T09:12:20Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8775Rdh,66864,分享: freeCodeCamp 在接入大语言模型接口时如何绕过风控的一些经验,CLOSED,2026-04-08T16:37:27Z,2026-04-08T16:58:53Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8773xNR,66862,Paid Mock Interview,CLOSED,2026-04-08T15:30:45Z,2026-04-08T15:33:05Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8771ecE,66860,Paid mock interview,CLOSED,2026-04-08T14:01:12Z,2026-04-08T14:11:53Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863pUiQ,60472,Refactor shopping cart workshop,OPEN,2025-05-21T18:17:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87bFj9i,64218,CSSHelp issue with `getStyleAny`,OPEN,2025-11-28T18:46:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X875x6rf,66733,UI Enhancement: Improve homepage visual hierarchy and button differentiation,CLOSED,2026-04-02T00:11:16Z,2026-04-02T12:45:48Z,,freeCodeCamp,freeCodeCamp
@@ -48,10 +49,8 @@ I_kwDOAbI7X876Zl7X,66772,Linked List - Step 5 expects no semi-colons after logs 
 I_kwDOAbI7X876JmS5,66757,Build a Decimal to Binary converter step 60- small correction for consistency,CLOSED,2026-04-02T20:27:48Z,2026-04-03T17:56:41Z,narasimhan-lakshmi,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X876WzRH,66769,[TOP] Typo in CSS Foundations Exercise D,CLOSED,2026-04-03T12:10:24Z,2026-04-03T16:54:13Z,Tiago-Vier-Preto,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X876Q0_g,66761,Clarify mutations challenge description - unique letters vs frequency,CLOSED,2026-04-03T06:34:05Z,2026-04-03T12:18:09Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X876CEp1,66745,missing semi-colons in seed code,OPEN,2026-04-02T14:06:10Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87xq4xy,66359,"Ctrl+enter brings up completion modal, when it should just be the independent jaw",OPEN,2026-03-10T22:26:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87K_RsU,62152,Updating Our Payment Provider Integration,OPEN,2025-09-11T09:10:08Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Xq1cH,63788,Escaping HTML entities,OPEN,2025-11-12T21:42:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X876DanY,66747,New header UI cannot change language of the website,CLOSED,2026-04-02T15:01:57Z,2026-04-02T17:09:10Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X876E-ne,66749,Add Adaptive Learning Path Recommendation System for Personalized Learning,CLOSED,2026-04-02T16:13:22Z,2026-04-02T17:01:16Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X876E0z6,66748,Improve Search Relevance and Resource Discovery for Learning Content,CLOSED,2026-04-02T16:07:00Z,2026-04-02T17:01:02Z,,freeCodeCamp,freeCodeCamp
@@ -557,4 +556,3 @@ I_kwDOAbI7X87hxf7y,65019,let's add a test to verify the global object is not cha
 I_kwDOAbI7X87ihsDU,65079,Remove plural from Learn How to Express Decisions Based on Comparisons,CLOSED,2026-01-10T23:18:44Z,2026-01-11T09:02:33Z,builtbykabir,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87h6JzW,65028,Longest Word Finder: Add test where first word is longest,CLOSED,2026-01-07T19:45:48Z,2026-01-11T05:49:16Z,achf01,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87h4JE4,65027,rwd-v9 Build a Bookstore Page step-18,CLOSED,2026-01-07T17:10:29Z,2026-01-11T05:46:24Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87N4dBX,62366,[challenge parser] enhance file validation for workshops,OPEN,2025-09-25T15:26:00Z,,,freeCodeCamp,freeCodeCamp
