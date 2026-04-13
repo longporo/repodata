@@ -1,7 +1,12 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X879OwUa,66901,Add a conversational AI assistant to help new campers find their ideal learning path,OPEN,2026-04-12T15:03:14Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X878-KuI,66893,Bug: Incorrect deep object comparison in Project Idea Board test,OPEN,2026-04-11T10:10:34Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X879K_de,66899,Build a light box viewer test fails to enable bubbling on click event dispatch,OPEN,2026-04-12T10:00:01Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X879POKp,66902,Teacher Chatbot - Step 6 - Spanish version translation issue,OPEN,2026-04-12T15:34:44Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X877Ntzf,66839,"CSS lesson, ""What Is a Background Gradient, and How Does It Work?"" Should Use Background-Image Rather Than Background",CLOSED,2026-04-07T00:05:29Z,2026-04-07T08:49:09Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X879DMHJ,66896,Simplify Profile Header Layout and Reposition Avatar,OPEN,2026-04-11T18:25:36Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87P6-rG,62555,Make curriculum subject headings anchor linkable for direct sharing,OPEN,2025-10-06T17:34:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X878-KuI,66893,Bug: Incorrect deep object comparison in Project Idea Board test,OPEN,2026-04-11T10:10:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X879Ba9y,66895,Travel Agency: Chinese version has verbiage error in Test #26,OPEN,2026-04-11T15:25:37Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87zUVfi,66501,Interactive editor console panel displays live array references instead of snapshots,OPEN,2026-03-16T12:29:52Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X877Epz6,66832,Get a Hint - page redirection from Workshop,OPEN,2026-04-06T14:52:29Z,,,freeCodeCamp,freeCodeCamp
@@ -27,7 +32,6 @@ I_kwDOAbI7X87xg25H,66338,Download my solution button,OPEN,2026-03-10T13:45:25Z,,
 I_kwDOAbI7X87OgFM_,62408,workshop preview modal is empty until content get loaded,CLOSED,2025-09-29T11:27:06Z,2026-04-08T07:59:29Z,Sembauke,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87oL5SA,65697,"unneeded horizontal scroll at the bottom of the browser, inside block page",CLOSED,2026-02-04T09:00:50Z,2026-04-08T06:07:14Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X876kSUz,66787,LinkedIn sharing option missing after completing challenge,CLOSED,2026-04-04T06:22:33Z,2026-04-07T08:53:45Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X877Ntzf,66839,"CSS lesson, ""What Is a Background Gradient, and How Does It Work?"" Should Use Background-Image Rather Than Background",CLOSED,2026-04-07T00:05:29Z,2026-04-07T08:49:09Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8761U40,66815,fix issue template wording for non-challenge affected pages,CLOSED,2026-04-05T18:27:03Z,2026-04-07T07:34:54Z,NotYash1066,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X877E_MY,66834,Layout inconsistency in 'Introduction to Common Searching and Sorting Algorithms' block,CLOSED,2026-04-06T15:08:45Z,2026-04-07T07:28:15Z,martinezharo,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87xrDN_,66361,No language selector on small window of daily challenge,OPEN,2026-03-10T22:38:06Z,,,freeCodeCamp,freeCodeCamp
@@ -68,7 +72,6 @@ I_kwDOAbI7X87597G-,66741,add macOS Homebrew PATH setup note for new contributors
 I_kwDOAbI7X873cQNZ,66646,Coding Challenge 229: Truncate the Text 2 - typo in description and test result,CLOSED,2026-03-27T10:28:31Z,2026-03-31T07:42:13Z,Krishna040705,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87XbQk1,63761,Use stricter regex for Hanzi–Pinyin pair detection,CLOSED,2025-11-11T23:24:01Z,2026-04-01T12:56:24Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPEQC,64114,Workshop – Sensor Burst Analyzer,OPEN,2025-11-25T03:42:53Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87P6-rG,62555,Make curriculum subject headings anchor linkable for direct sharing,OPEN,2025-10-06T17:34:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86Av942,53914,Missing CSV Files in released branch of Relational Database Courses,OPEN,2024-02-28T23:35:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87zZ_Ne,66508,Donate button should always be visible,CLOSED,2026-03-16T16:59:54Z,2026-04-01T08:05:20Z,Venkat,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X875J2pp,66718,Quiz accessibility,CLOSED,2026-03-31T15:17:29Z,2026-03-31T16:22:11Z,,freeCodeCamp,freeCodeCamp
@@ -551,8 +554,3 @@ I_kwDOAbI7X87glQZX,64930,key_set scope issue,CLOSED,2025-12-29T16:47:47Z,2026-01
 I_kwDOAbI7X87iWvYm,65059,Build a Book Inventory App Uppercase issue,CLOSED,2026-01-09T16:40:21Z,2026-01-13T08:06:53Z,YashhCanCode,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87gXYqQ,64908,Wrong Information about brightness in the CSS Layout and Effects Quiz,CLOSED,2025-12-27T02:23:05Z,2026-01-13T08:03:46Z,Prashant,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87axVWv,64189,make the website more mobile friendly,CLOSED,2025-11-27T07:26:33Z,2026-01-13T05:49:09Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ihqJL,65078,Improve flow in Express Decisions Based on Comparisons,CLOSED,2026-01-10T23:08:04Z,2026-01-12T19:15:58Z,DeveloperViraj,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87i1UQ7,65099,increment operator explenation in python,CLOSED,2026-01-12T19:11:22Z,2026-01-12T19:12:49Z,remy-baastin,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X864wrks,60589,Make editor easier to use,CLOSED,2025-05-29T09:41:32Z,2026-01-12T14:53:27Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Qpu16,62652,Build a Sentence Analyzer uses regex before it's been introduced,CLOSED,2025-10-09T20:55:26Z,2026-01-12T14:15:45Z,its-cutie-valerie,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87hxf7y,65019,let's add a test to verify the global object is not changed,CLOSED,2026-01-07T08:39:49Z,2026-01-12T04:53:13Z,a2937,freeCodeCamp,freeCodeCamp
