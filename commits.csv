@@ -1,4 +1,12 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+20529461b04c104149ff6aa643dd584822ba4640,"chore(i18n,client): processed translations (#66915)",2026-04-13T19:04:44Z,12,10576,camperbot,freeCodeCamp,freeCodeCamp
+b2daf5fef1995ac1d754337f7ea109b16afe3d31,fix: fix/build-catalog-contents (#66911),2026-04-13T15:24:29Z,2,6,ahmaxed,freeCodeCamp,freeCodeCamp
+db9c147bc036453bc11cd3f315f946f16bbf395a,fix(deps): update dependency typebox to v1.1.16 (#66903),2026-04-13T14:35:32Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
+21dd18de31208df15328e85b6377d24ba77b87a1,fix(api): increase Socrates description max length to 10000 (#66912),2026-04-13T13:58:18Z,1,2,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+88044e699034f2441b5c4cb7fff8e87054c49444,fix(gha): consolidate PR check comments into single report (#66869),2026-04-13T11:32:21Z,10,326,raisedadead,freeCodeCamp,freeCodeCamp
+6f059e8259c492886710e0769595a7d0eeb1597b,fix(client): preview button with screenreader text  (#63061),2026-04-13T10:57:29Z,6,114,a2937,freeCodeCamp,freeCodeCamp
+02b12ac880d4bcb95da9fa7c21d74da1931fcd4a,feat(curriculum): add bug emoji picker workshop (#63673),2026-04-13T10:40:02Z,22,3132,ihechikara,freeCodeCamp,freeCodeCamp
+8fd2d8e1b180b38b80382d87ff0eb088e8811597,fix(curriculm): missing article in explanation text (#66907),2026-04-13T06:06:50Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 9218c88686badb928d5716c7dd7cd7abf1279371,fix(deps): update dependency validator to v13.15.35 (#66884),2026-04-12T15:31:51Z,2,203,renovate[bot],freeCodeCamp,freeCodeCamp
 4bedfd797d7c41712a9df4837e55192450eb49d7,feat(curriculum): add type safe math toolkit workshop to typescript m…,2026-04-09T19:52:55Z,22,1333,jdwilkin4,freeCodeCamp,freeCodeCamp
 6ee501e85760f43360e5efcde3529e3e0ae5459f,feat(curriculum): release B1 English quizzes (#66881),2026-04-09T18:33:47Z,24,48,huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -893,20 +901,3 @@ f7f6e9d3ac00f139f8a71aa691481cb0a541813b,fix(curriculum): correct typo in recipe
 24fa7a1b99bd0258d1b2109e6b14c8dbd37129a2,chore(deps): update dependency eslint to v9.39.2 (#65142),2026-01-14T05:13:40Z,1,801,renovate[bot],freeCodeCamp,freeCodeCamp
 0bc2cd4a9be1460ccd14377de501a56d4c2d6498,fix(gha): allow renovate - create PRs after checks,2026-01-14T04:39:53Z,1,1,raisedadead,freeCodeCamp,freeCodeCamp
 c0e60fd355c97c555a2b139a7096bc8d0604fdc1,fix(renovate): dont catch other than API (#65124),2026-01-14T04:31:00Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
-fafd1c5e1fe410f0a31f597b2798aef8d2095816,feat(curriculum): EN-A2 quiz for block 1 (#65112),2026-01-13T19:27:35Z,1,325,anastasiiauk,freeCodeCamp,freeCodeCamp
-42e4238cf1987c76072e088434815e8621705cb4,fix(curriculum): clarify discount percentage in step 17 instruction (…,2026-01-13T18:18:01Z,1,2,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-9f0f7155e5d5743752276dc6fe774763485d5e95,"fix(curriculum): add missing space between ""a"" and ""required"" (#65114)",2026-01-13T17:09:48Z,1,2,nageetaw,freeCodeCamp,freeCodeCamp
-21f6c5ea938b7d597a9e8b8d4ff3276b1b045872,fix(lint): renovate config,2026-01-13T16:01:34Z,1,12,raisedadead,freeCodeCamp,freeCodeCamp
-f79d99d2721be515eeb855714a51fe94befa65de,refactor(curriculum): use projects for curriculum tests (#64657),2026-01-13T15:56:25Z,5,24,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-1eebe23fd68b18e466ff742751a001c65a1450ab,fix(renovate): correct minimatch syntax,2026-01-13T14:40:34Z,1,12,raisedadead,freeCodeCamp,freeCodeCamp
-1516ff1aebf4ce59b869e68c70662147f2e1f1a7,fix(renovate): activate updates on API,2026-01-13T14:26:39Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
-7413036cee9a855e7f0d8ae99b1496b2154b0aa2,fix(curriculum): reword css fonts explanation (#64804),2026-01-13T13:12:20Z,1,2,laxitajain,freeCodeCamp,freeCodeCamp
-1b716cce395afd9c12f715e9997c861721e69dda,fix(client): action row button alignment (#64851),2026-01-13T12:53:41Z,2,20,moT01,freeCodeCamp,freeCodeCamp
-32b21f05f06bdb6194fca955b99272765a29ff96,feat: add DSA modules in js cert (#65086),2026-01-13T10:47:18Z,2,50,jdwilkin4,freeCodeCamp,freeCodeCamp
-6fd632d22808415179bc91e70afd19152e1a8089,fix(curriculum): correct docstring example in Python V9 Step 24 (#65098),2026-01-13T09:31:33Z,1,4,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-7c3d6339bb38cf7307e67ecf49960e0aa3bdbcb5,"chore(i18n,client): processed translations (#65089)",2026-01-13T09:22:33Z,10,2188,camperbot,freeCodeCamp,freeCodeCamp
-81941e13ee1587a67ed0677540915bfc64637381,fix(curriculum): clarify variable scope (#64929),2026-01-13T08:56:14Z,1,4,wesleyhmartin,freeCodeCamp,freeCodeCamp
-db240a97f2070f50e9d73132eb5b44064cf04d07,"chore(i18n,learn): update i18n-curriculum submodule (#65095)",2026-01-13T08:52:53Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-427bc0f8007501adb7bcc5dd44537c6146acdd24,chore: release v9 certs on mobile (#64846),2026-01-13T08:51:21Z,1,16,Sembauke,freeCodeCamp,freeCodeCamp
-26f20d25d277f4829506799d4079b5ed6c298eb4,fix: replace innerText with textContent in book inventory lab tests (…,2026-01-13T08:06:52Z,1,10,YashhCanCode,freeCodeCamp,freeCodeCamp
-822621206077e76f037853acaac36ad82a083d04,fix: clarify brightness() CSS quiz question (#65082),2026-01-13T08:03:45Z,1,2,prashantofficial627-hash,freeCodeCamp,freeCodeCamp
