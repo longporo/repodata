@@ -1,4 +1,9 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+dabb661d067bb01b649167fbe3a5dd030bba65a2,fix(curriculum): clarify async/await explanation in lecture content (…,2026-04-14T17:00:21Z,1,2,AyushK5ingh,freeCodeCamp,freeCodeCamp
+526e09bbf0f2e16b6134ff2fdd50f13120b929b0,feat(curriculum): adding shape manager TS workshop (#63083),2026-04-14T16:44:12Z,54,19682,Ksound22,freeCodeCamp,freeCodeCamp
+7aeefcb6779056cee280ff3e5605cd378518e51b,feat(curriculum): add workshop heritage library catalog (#66022),2026-04-14T11:22:54Z,34,3704,farchettiensis,freeCodeCamp,freeCodeCamp
+a60ccdb29360ddc94643e8c1d23f4cdc9c45fd69,feat(curriculum): add product showcase lab (#65456),2026-04-14T09:01:08Z,4,972,Dario-DC,freeCodeCamp,freeCodeCamp
+cf920c156cedcd217d6cd0088bef657585579768,fix(deps): update dependency typebox to v1.1.17 (#66926),2026-04-14T04:10:58Z,2,209,renovate[bot],freeCodeCamp,freeCodeCamp
 20529461b04c104149ff6aa643dd584822ba4640,"chore(i18n,client): processed translations (#66915)",2026-04-13T19:04:44Z,12,10576,camperbot,freeCodeCamp,freeCodeCamp
 b2daf5fef1995ac1d754337f7ea109b16afe3d31,fix: fix/build-catalog-contents (#66911),2026-04-13T15:24:29Z,2,6,ahmaxed,freeCodeCamp,freeCodeCamp
 db9c147bc036453bc11cd3f315f946f16bbf395a,fix(deps): update dependency typebox to v1.1.16 (#66903),2026-04-13T14:35:32Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
@@ -879,25 +884,3 @@ e4f1e611b8a92d2bc2ab17fbf076deda184a8809,chore(deps): update github actions (maj
 457e9d979981317868f5ff76dc46d8d2d7e4a11e,fix(deps): update dependency typebox to v1.0.76 (#65176),2026-01-15T12:59:19Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
 afb15303b69fcaf24371088d8f421ac16d5fb195,chore(deps): update actions/setup-node digest to 6044e13 (#65175),2026-01-15T11:14:40Z,6,22,renovate[bot],freeCodeCamp,freeCodeCamp
 a4e9bc08f7ff65698f0595b357a52101be6be3d5,fix(deps): update dependency typebox to v1.0.75 (#65171),2026-01-15T05:51:17Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
-12162c400369d645f08367da66790ad815b60ea8,fix(deps): update dependency lodash-es to v4.17.22 (#65169),2026-01-15T02:54:37Z,2,11,renovate[bot],freeCodeCamp,freeCodeCamp
-93c85b51678acfd3ccacd22f1c37ffb9e76d3ff7,fix(deps): update dependency @fastify/swagger-ui to v5.2.4 (#65168),2026-01-14T21:51:49Z,2,102,renovate[bot],freeCodeCamp,freeCodeCamp
-4f394fdd949d41d1909ed7f52725db045dcd9531,"fix(curriculum): correct typo in  Lists, Links, CSS backgrounds and b…",2026-01-14T17:30:23Z,2,4,YaelSeror-dev,freeCodeCamp,freeCodeCamp
-3fef165de563101a9c3e08df78dce2d52b060f21,"chore(i18n,learn): update i18n-curriculum submodule (#65159)",2026-01-14T16:49:19Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-126621dce1e7b12d5ff2db6bd0bbe00a99abaa50,"chore(i18n,client): processed translations (#65155)",2026-01-14T15:16:13Z,10,360,camperbot,freeCodeCamp,freeCodeCamp
-52622055405a394d8a09467ef168c8f99ac9dcf8,feat(curriculum): daily challenges 161-170 (#65140),2026-01-14T15:05:49Z,23,1800,moT01,freeCodeCamp,freeCodeCamp
-bc040eed1214f2e3f4962d3bf05a2d30f16061b5,fix(curriculum): fix test assertions in step7 of recipe tracker works…,2026-01-14T13:54:08Z,1,40,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-521c583c66d30698970595a286a142638dca6bad,Merge commit from fork,2026-01-14T12:50:43Z,2,60,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-0b0b03296cc8d145ae34bfc3766abc87e3a616de,fix(deps): update dependency @fastify/cookie to v11.0.2 (#65151),2026-01-14T11:30:53Z,2,14,renovate[bot],freeCodeCamp,freeCodeCamp
-4f0231c6bcdf199bf16661ee47697af55eff796f,fix: replace values with vowels (#65147),2026-01-14T10:48:17Z,1,2,pratheek-81,freeCodeCamp,freeCodeCamp
-7e70a10163a5b987e0a7d6944b9e376ce3d82767,fix(curriculum): Updated field label for better readability (#65104),2026-01-14T10:46:19Z,29,64,rizwan-rizu,freeCodeCamp,freeCodeCamp
-071374ca02ef5ea6b0a3f4c0b8734a4811041412,fix(curriculum): clarify error when inserting without columns (#65133),2026-01-14T10:20:02Z,1,6,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-f66ec56ab69c60a5facae76984cd6b56f95a7193,fix(curriculum): change 'property' to 'attribute' (#65127),2026-01-14T10:05:30Z,1,15,octavio-js,freeCodeCamp,freeCodeCamp
-bc0a84426d3780bc8fd7245e98bc718a2f0cce27,fix(curriculum): remove incorrect article in RWD curriculum (#65129),2026-01-14T09:27:02Z,1,2,matanatkhalil,freeCodeCamp,freeCodeCamp
-0e1443f361a6268f4857067142cc5e1230caf945,fix(api): skip picture validation when unchanged (#64868),2026-01-14T08:05:35Z,2,84,steven-the-qa,freeCodeCamp,freeCodeCamp
-0d9c47672724bc6401f2788ee71181f8cddd8725,fix(deps): update dependency @fastify/accepts to v5.0.4 (#65146),2026-01-14T07:38:45Z,2,16,renovate[bot],freeCodeCamp,freeCodeCamp
-1c6c268cd685e0d9642a8f38ff2f1f62f5fc7384,chore(deps): update tailscale/github-action digest to 53acf82 (#65141),2026-01-14T06:43:32Z,2,4,renovate[bot],freeCodeCamp,freeCodeCamp
-fb7bfdd587f307152d965492fe479900f96637c2,feat(curriculum): add more validation of table structure to Book Inve…,2026-01-14T06:00:47Z,1,46,majestic-owl448,freeCodeCamp,freeCodeCamp
-f7f6e9d3ac00f139f8a71aa691481cb0a541813b,fix(curriculum): correct typo in recipe tracker step 6 (#65123),2026-01-14T05:35:30Z,1,4,Vipeen-Kumar,freeCodeCamp,freeCodeCamp
-24fa7a1b99bd0258d1b2109e6b14c8dbd37129a2,chore(deps): update dependency eslint to v9.39.2 (#65142),2026-01-14T05:13:40Z,1,801,renovate[bot],freeCodeCamp,freeCodeCamp
-0bc2cd4a9be1460ccd14377de501a56d4c2d6498,fix(gha): allow renovate - create PRs after checks,2026-01-14T04:39:53Z,1,1,raisedadead,freeCodeCamp,freeCodeCamp
-c0e60fd355c97c555a2b139a7096bc8d0604fdc1,fix(renovate): dont catch other than API (#65124),2026-01-14T04:31:00Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
