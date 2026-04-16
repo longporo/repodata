@@ -1,17 +1,23 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87FYErQ,61779,Include async/await workshop steps in Build an fCC Authors Page App,OPEN,2025-08-11T19:39:11Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87-rVxX,66953,Add text indicating a transcript is available,OPEN,2026-04-16T02:08:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87-ISgL,66939,Parent Teacher Conference Form - Step 35,OPEN,2026-04-14T16:56:34Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87-gC6L,66950,Registration Form - Step 44,OPEN,2026-04-15T15:00:51Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87-ox8B,66952,`const location` is once again breaking everything~,OPEN,2026-04-15T22:34:12Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X856erd4,52733,Global browser objects should not be overwritten by locally declared variables,OPEN,2023-12-23T18:20:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X879wRxl,66922,Data Structures - Create a Doubly Linked List,OPEN,2026-04-13T19:15:21Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87-BL0e,66931,js-v9 missing workshop on using try/catch/finally (and throw),OPEN,2026-04-14T11:32:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X879ypQo,66925,Curriculum Context Gap: JavaScript- Method Chaining (Step 359) assumes knowledge of OOP and this,CLOSED,2026-04-13T21:10:16Z,2026-04-15T13:08:38Z,lakshay122007,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X879K_de,66899,Build a light box viewer test fails to enable bubbling on click event dispatch,CLOSED,2026-04-12T10:00:01Z,2026-04-15T12:10:13Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87-bqTx,66944,Lost-update race condition in challenge submission API,OPEN,2026-04-15T11:49:05Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87996rX,66928,Build a Logic Checker App - Step 12 - Too strict quotes check,CLOSED,2026-04-14T08:52:02Z,2026-04-15T06:38:21Z,Venkat,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87aPEf-,64116,Lab – Cargo Manifest Parser,CLOSED,2025-11-25T03:43:36Z,2026-03-18T13:16:55Z,LGH831;majestic-owl448,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87FYErQ,61779,Include async/await workshop steps in Build an fCC Authors Page App,OPEN,2025-08-11T19:39:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87q-Cf9,65887,Improve solution download format to ZIP project structure,OPEN,2026-02-14T19:37:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87-Gzzn,66938,Quality Assurance Advanced Node and Express: tests fail with DataCloneError on every challenge,OPEN,2026-04-14T15:42:49Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X879K_de,66899,Build a light box viewer test fails to enable bubbling on click event dispatch,OPEN,2026-04-12T10:00:01Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87-BL0e,66931,js-v9 missing workshop on using try/catch/finally (and throw),OPEN,2026-04-14T11:32:08Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87996rX,66928,Build a Logic Checker App - Step 12 - Too strict quotes check,OPEN,2026-04-14T08:52:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ea8JB,64630,Audit and update prototype for d3 Dashboard workshop,OPEN,2025-10-01T15:23:56Z,,jdwilkin4;meemeealm,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ea8Da,64629,Audit and update world map d3 workshop,OPEN,2025-10-02T17:02:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87-BaYU,66932,Improve Async/Await lecture comment about where await is used,CLOSED,2026-04-14T11:43:49Z,2026-04-14T17:00:24Z,AyushK5ingh,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X879ypQo,66925,Curriculum Context Gap: JavaScript- Method Chaining (Step 359) assumes knowledge of OOP and this,OPEN,2026-04-13T21:10:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPEaC,64115,Workshop – Heritage Library Catalog,CLOSED,2025-11-25T03:43:20Z,2026-04-14T11:22:55Z,farchettiensis,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87bFj9i,64218,CSSHelp issue with `getStyleAny`,OPEN,2025-11-28T18:46:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864sFrV,60576,first challenge of backend and api microservices does not give enough infos,OPEN,2025-05-28T21:09:54Z,,,freeCodeCamp,freeCodeCamp
@@ -172,7 +178,6 @@ I_kwDOAbI7X86kpZUz,57827,𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳—FL Studio Crack With
 I_kwDOAbI7X87z4-j6,66532,Bad example in Prompt Engineering useful video,CLOSED,2026-03-17T23:41:48Z,2026-03-18T16:13:54Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87z22LS,66530,Split the JavaScript certification into two separate certifications,CLOSED,2026-03-17T21:14:54Z,2026-03-18T16:09:38Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X870ESrX,66546,Improve explanation of closures in JavaScript curriculum,CLOSED,2026-03-18T12:18:27Z,2026-03-18T13:31:28Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87aPEf-,64116,Lab – Cargo Manifest Parser,CLOSED,2025-11-25T03:43:36Z,2026-03-18T13:16:55Z,LGH831;majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87y7Ijj,66451,Cannot complete build a database of video game characters,CLOSED,2026-03-14T11:27:31Z,2026-03-15T11:31:51Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85Sx5qD,47646,The user's code should be transformed alongside the injected code,CLOSED,2022-09-28T06:38:13Z,2026-03-18T08:30:29Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86do2Ms,57107,"Removal of --before-user-code--, --after-user-code--",CLOSED,2024-11-08T17:42:51Z,2026-03-17T16:59:18Z,Sembauke,freeCodeCamp,freeCodeCamp
@@ -545,6 +550,3 @@ I_kwDOAbI7X87jpr6C,65219,`create-new-language-block` should allow creating new c
 I_kwDOAbI7X87jhFiP,65174,Local development setup documentation could be clearer for first-time contributors,CLOSED,2026-01-15T11:13:45Z,2026-01-16T13:23:03Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86xSpqy,59607,Build a Fortune Teller - Incorrect code passing,CLOSED,2025-04-05T19:36:41Z,2026-01-16T07:58:26Z,Bharath314,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87flXvy,64818,"Incorrect location of where to create new files/folders on Windows, File menu on Mac and incorrect menu name",CLOSED,2025-12-21T12:51:37Z,2026-01-16T07:16:51Z,heidi37,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ifHsR,65075,Python Certification setter example issue,CLOSED,2026-01-10T14:37:11Z,2026-01-15T19:07:07Z,lakshay122007,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87io6x9,65085,Plural form in Learn How to Express Disagreement,CLOSED,2026-01-12T00:35:09Z,2026-01-15T18:13:29Z,07mastermind,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87hkUvn,65007,delete unused files,OPEN,2026-01-06T09:21:14Z,,,freeCodeCamp,freeCodeCamp
