@@ -1,4 +1,12 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+a63c5f1b445c4cae516a04a71a5b55749dd0c1bd,chore: enable renovate on all packages (#66951),2026-04-15T17:49:03Z,1,48,raisedadead,freeCodeCamp,freeCodeCamp
+31664b887d7de24c4e003dd6f6019aed3a1caf59,chore(deps): update dependency msw to v2.13.2 (#66948),2026-04-15T14:09:08Z,1,82,renovate[bot],freeCodeCamp,freeCodeCamp
+37a2dc86ce5b9fff7cb96ebae260ba616f1860c2,fix(curriculum): add context for method chaining and this keyword (#6…,2026-04-15T13:08:36Z,1,32,lakshay122007,freeCodeCamp,freeCodeCamp
+d5e00e3c1c6a9d832d15eddd1dfa63cbec7cd4cf,fix(curriculum): correct typo in form submission description (#66905),2026-04-15T12:51:37Z,1,2,riddhimachawla,freeCodeCamp,freeCodeCamp
+be5bcd1260da30bbc1e6d4f72bce4dd186bb2755,fix(curriculum): fix test lab lightbox viewer (#66909),2026-04-15T12:10:11Z,1,2,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+fb9f6230f5cb0c4396cff61ed5b0f6867022869f,chore(deps): update dependency msw to v2.13.1 (#66942),2026-04-15T07:20:28Z,1,205,renovate[bot],freeCodeCamp,freeCodeCamp
+2d2f5affd7d0ffc85161f835ff715abfce697877,fix(deps): update dependency typebox to v1.1.19 (#66929),2026-04-15T07:18:31Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
+19f5f0f9ee8d7a8374cec676ee6f54f336076913,fix(curriculum):  support logic checker single quotes in step 12 vali…,2026-04-15T06:38:19Z,1,2,Venkat-Entropik,freeCodeCamp,freeCodeCamp
 dabb661d067bb01b649167fbe3a5dd030bba65a2,fix(curriculum): clarify async/await explanation in lecture content (…,2026-04-14T17:00:21Z,1,2,AyushK5ingh,freeCodeCamp,freeCodeCamp
 526e09bbf0f2e16b6134ff2fdd50f13120b929b0,feat(curriculum): adding shape manager TS workshop (#63083),2026-04-14T16:44:12Z,54,19682,Ksound22,freeCodeCamp,freeCodeCamp
 7aeefcb6779056cee280ff3e5605cd378518e51b,feat(curriculum): add workshop heritage library catalog (#66022),2026-04-14T11:22:54Z,34,3704,farchettiensis,freeCodeCamp,freeCodeCamp
@@ -866,21 +874,3 @@ c429d771c542b3d1486327749f122306bd3b2e24,fix(deps): update dependency fastify-pl
 7f3d4d1182273c31807006c4b66aabc17ccf7c41,fix: correct typos in lecture-working-with-file-systems block. (#64811),2026-01-16T07:16:50Z,1,6,heidi37,freeCodeCamp,freeCodeCamp
 191f4b1b24b9397703b1918721500f812120b0e2,fix(deps): update dependency @growthbook/growthbook to v1.6.2 (#65245),2026-01-16T04:17:22Z,2,22,renovate[bot],freeCodeCamp,freeCodeCamp
 83dab6512350f533b0fd6e3200768ff209c08d0d,chore(deps): update actions/setup-node action to v6.2.0 (#65244),2026-01-16T04:17:21Z,1,4,renovate[bot],freeCodeCamp,freeCodeCamp
-9915e2d45b637680aa115ff948bddcce36216188,fix(deps): update dependency @fastify/swagger to v9.6.1 (#65243),2026-01-16T03:08:48Z,2,41,renovate[bot],freeCodeCamp,freeCodeCamp
-88dfe52210540f551eb962b8277c5379f5d0841c,fix(deps): update dependency @aws-sdk/client-ses to v3.965.0 (#65242),2026-01-16T01:10:20Z,2,1465,renovate[bot],freeCodeCamp,freeCodeCamp
-d76c1596c4e315dbdd1fc5fe6ad33e55ed6cc88c,fix(curriculum): Corrected a small typo in the RWD curriculum (#65200),2026-01-15T23:02:03Z,1,2,Roxicaro,freeCodeCamp,freeCodeCamp
-1b118a3c804662c98ce33a373f9e07dadb67ba6b,feat(curriculum): add A1 Spanish audio for numbers 30 to 100 practice…,2026-01-15T22:16:49Z,1,1,estefaniacn,freeCodeCamp,freeCodeCamp
-0a08631fef75465323845d3b90ea9d27307b6ffe,chore(deps): update dependency tsx to v4.21.0 (#65190),2026-01-15T20:33:03Z,2,96,renovate[bot],freeCodeCamp,freeCodeCamp
-2b5331e80dcb50471906176db76c9b6ad811d680,chore(deps): update dependency msw to v2.12.7 (#65188),2026-01-15T19:55:14Z,1,401,renovate[bot],freeCodeCamp,freeCodeCamp
-f5364864ee11db706c3f3f1b1dd2e14225f9e524,fix(curriculum): ensure setters run during object initialization (#65…,2026-01-15T19:07:04Z,1,6,lakshay122007,freeCodeCamp,freeCodeCamp
-bdb6c39fc96e741b145c1c30a51d9bc38dc9698e,fix: changes 'is a' to 'are' for plural form in task-68 (#65182),2026-01-15T18:13:26Z,1,2,07mastermind,freeCodeCamp,freeCodeCamp
-38fa6735662528ad0480c5e102a7f7e0c4ca68f3,chore(deps): update dependency dotenv-cli to v7.4.4 (#65186),2026-01-15T17:46:56Z,2,14,renovate[bot],freeCodeCamp,freeCodeCamp
-61b43da03d5586441c80faa5ceaef66fcf663aee,fix(deps): update dependency validator to v13.15.26 (#65183),2026-01-15T16:59:17Z,2,23,renovate[bot],freeCodeCamp,freeCodeCamp
-e4f1e611b8a92d2bc2ab17fbf076deda184a8809,chore(deps): update github actions (major) (#65179),2026-01-15T16:07:37Z,12,66,renovate[bot],freeCodeCamp,freeCodeCamp
-1b5713401ca21ca578163e70b739a83c5a6c944b,fix(curriculum): Fixed a small typo in the RWD curriculum (#65180),2026-01-15T15:35:12Z,1,2,Roxicaro,freeCodeCamp,freeCodeCamp
-553de18238dd830edfdff7d0f429584af50ae91d,chore(deps): update dependency eslint-plugin-jsdoc to v48.11.0 (#65178),2026-01-15T15:01:47Z,2,223,renovate[bot],freeCodeCamp,freeCodeCamp
-996cdec2522815477953b7b33a6f3eafd020219c,fix(curriculum): A2-EN typo fix (#65173),2026-01-15T14:19:41Z,1,2,anastasiiauk,freeCodeCamp,freeCodeCamp
-59efcd409a335c6f02dd89496dadd5e9b8906df5,chore(deps): update dependency @total-typescript/ts-reset to v0.6.1 (…,2026-01-15T13:50:35Z,2,6,renovate[bot],freeCodeCamp,freeCodeCamp
-457e9d979981317868f5ff76dc46d8d2d7e4a11e,fix(deps): update dependency typebox to v1.0.76 (#65176),2026-01-15T12:59:19Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
-afb15303b69fcaf24371088d8f421ac16d5fb195,chore(deps): update actions/setup-node digest to 6044e13 (#65175),2026-01-15T11:14:40Z,6,22,renovate[bot],freeCodeCamp,freeCodeCamp
-a4e9bc08f7ff65698f0595b357a52101be6be3d5,fix(deps): update dependency typebox to v1.0.75 (#65171),2026-01-15T05:51:17Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
