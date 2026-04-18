@@ -1,8 +1,16 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87_a55x,66983,JavaScript Certification-Build a Linked List Workshop中文区存在大量语义错误,OPEN,2026-04-17T20:46:30Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87_Yy-m,66980,JavaScript Certification-Implement the Breadth-First Search Algorithm Workshop-Step 13翻译写错了,OPEN,2026-04-17T18:51:59Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87_ZgON,66982,"Inaccurate WeakSet example in ""What are Sets in JavaScript and how does it differ from WeakSets"" lesson",OPEN,2026-04-17T19:30:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87pmJp-,65797,Translatable tokens in language files,CLOSED,2026-02-10T02:25:29Z,2026-04-13T10:47:21Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87-rVxX,66953,Add text indicating a transcript is available,OPEN,2026-04-16T02:08:34Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X878bfin,66883,Python Certification Projects Not Marked Complete,CLOSED,2026-04-09T21:41:51Z,2026-04-17T14:41:58Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87-rVxX,66953,Add text indicating a transcript is available,CLOSED,2026-04-16T02:08:34Z,2026-04-17T13:21:46Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87_PaTO,66975,lknkjn,CLOSED,2026-04-17T11:24:51Z,2026-04-17T11:28:55Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87-5X0D,66964,Duplicated entry in the timeline,OPEN,2026-04-16T14:37:52Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87e8yf5,64724,Create a prototype for Python numbers and math operations workshop,CLOSED,2025-12-17T21:06:41Z,2026-02-23T22:13:53Z,jordnlnn;majestic-owl448,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87-bqTx,66944,Lost-update race condition in challenge submission API,CLOSED,2026-04-15T11:49:05Z,2026-04-17T10:04:32Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87txZ_p,66049,Python Certification setter example modification,CLOSED,2026-02-25T12:20:46Z,2026-04-17T09:02:17Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87pmJp-,65797,Translatable tokens in language files,OPEN,2026-02-10T02:25:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87-5mV5,66966,JavaScript Certification-Emoji Reactor Workshop-Step 9,OPEN,2026-04-16T14:47:01Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87-ISgL,66939,Parent Teacher Conference Form - Step 35,OPEN,2026-04-14T16:56:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87-gC6L,66950,Registration Form - Step 44,OPEN,2026-04-15T15:00:51Z,,,freeCodeCamp,freeCodeCamp
@@ -16,7 +24,6 @@ I_kwDOAbI7X856erd4,52733,Global browser objects should not be overwritten by loc
 I_kwDOAbI7X87-BL0e,66931,js-v9 missing workshop on using try/catch/finally (and throw),OPEN,2026-04-14T11:32:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X879ypQo,66925,Curriculum Context Gap: JavaScript- Method Chaining (Step 359) assumes knowledge of OOP and this,CLOSED,2026-04-13T21:10:16Z,2026-04-15T13:08:38Z,lakshay122007,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X879K_de,66899,Build a light box viewer test fails to enable bubbling on click event dispatch,CLOSED,2026-04-12T10:00:01Z,2026-04-15T12:10:13Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87-bqTx,66944,Lost-update race condition in challenge submission API,OPEN,2026-04-15T11:49:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87996rX,66928,Build a Logic Checker App - Step 12 - Too strict quotes check,CLOSED,2026-04-14T08:52:02Z,2026-04-15T06:38:21Z,Venkat,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPEf-,64116,Lab – Cargo Manifest Parser,CLOSED,2025-11-25T03:43:36Z,2026-03-18T13:16:55Z,LGH831;majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87FYErQ,61779,Include async/await workshop steps in Build an fCC Authors Page App,OPEN,2025-08-11T19:39:11Z,,,freeCodeCamp,freeCodeCamp
@@ -48,7 +55,6 @@ I_kwDOAbI7X87zUVfi,66501,Interactive editor console panel displays live array re
 I_kwDOAbI7X877Epz6,66832,Get a Hint - page redirection from Workshop,OPEN,2026-04-06T14:52:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X878zctJ,66891,Suggestion Feedback for Build an fCC Forum Leaderboard Lab,OPEN,2026-04-10T19:35:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X876CEp1,66745,missing semi-colons in seed code,OPEN,2026-04-02T14:06:10Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X878bfin,66883,Python Certification Projects Not Marked Complete,OPEN,2026-04-09T21:41:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X876kKCz,66786,Build a Book Inventory - Unclear attribute selector operator for tests 48-53,CLOSED,2026-04-04T06:08:20Z,2026-04-10T06:50:14Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87wf-Qx,66275,Add link/reference to markdown file for challenges/workshops,OPEN,2026-03-06T15:54:12Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPEGx,64112,Lab – Story Fragment Shuffler,OPEN,2025-11-25T03:42:25Z,,,freeCodeCamp,freeCodeCamp
@@ -123,7 +129,6 @@ I_kwDOAbI7X87o5neX,65742,step 18 building a movie ticket booking calculator,CLOS
 I_kwDOAbI7X87myAdo,65573,[feature request] delete wip code saved in database,CLOSED,2026-01-29T17:45:17Z,2026-03-30T10:40:42Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X873_Kus,66666,Fix JSDoc typo and replace console.log with Fastify logger in redirection utility,CLOSED,2026-03-28T15:52:19Z,2026-03-30T10:38:49Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X874QaHh,66674,Cargo Manifest Validator needs test for null values,CLOSED,2026-03-29T16:45:12Z,2026-03-30T10:36:52Z,shikharyadav16,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87txZ_p,66049,Python Certification setter example modification,OPEN,2026-02-25T12:20:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X873fM_s,66647,Quiz Accessibility,OPEN,2026-03-27T12:20:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8733nKh,66660,Missing introduction for figure and figcaption elements before usage in Travel Agency Page Lab,CLOSED,2026-03-28T08:14:36Z,2026-03-30T08:40:50Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X873YWXg,66644,"Add explanation for ul, ol, li before workshop usage",CLOSED,2026-03-27T07:51:41Z,2026-03-30T08:30:26Z,,freeCodeCamp,freeCodeCamp
@@ -347,7 +352,6 @@ I_kwDOAbI7X87tg2Bf,66029,Quiz 'DOM Manipulation and...' quest. 15 reveals answer
 I_kwDOAbI7X87idU_p,65069,Confetti effect triggers after resuming workshop instead of completing entire workshop.,CLOSED,2026-01-10T08:32:30Z,2026-02-24T13:38:48Z,rizwan-rizu,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87squlO,65982,Curriculum tags (theory/lab/etc) aren't centered vertically,CLOSED,2026-02-20T22:25:23Z,2026-02-24T07:32:19Z,moT01,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87nQD7N,65625,Subscription banner content not properly aligned,CLOSED,2026-01-31T18:19:35Z,2026-02-24T07:25:25Z,Vic Golding;raisedadead;vicgolding,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87e8yf5,64724,Create a prototype for Python numbers and math operations workshop,CLOSED,2025-12-17T21:06:41Z,2026-02-23T22:13:53Z,jordnlnn;majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPE14,64121,Workshop – Artifact Provenance Auditor,OPEN,2025-11-25T03:44:42Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPEw0,64119,Lab – Guild Loot Tracker,OPEN,2025-11-25T03:44:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87sqD0u,65981,Travel Weather Planner is missing a test for User Story #4,CLOSED,2026-02-20T21:28:23Z,2026-02-23T16:45:56Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
@@ -545,5 +549,3 @@ I_kwDOAbI7X87jvIYp,65250,promise chaining fails tests,CLOSED,2026-01-16T07:27:52
 I_kwDOAbI7X87jqZIL,65241,Review pages don't support interactive examples,CLOSED,2026-01-15T22:55:53Z,2026-01-19T08:26:50Z,naomi-freecodecamp,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87kFADB,65288,"Grammar error in JavaScript review conditional example (""an B"" → ""a B"")",CLOSED,2026-01-18T08:41:25Z,2026-01-18T20:34:03Z,anirudhxmishra,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87j7SRv,65269,Codespaces Contribution Journey - how to contribute on codespaces?,CLOSED,2026-01-16T23:10:03Z,2026-01-18T09:57:16Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87bNhO2,64229,`--fcc-expected--` and `--fcc-actual--` handle falsy values incorrecly,OPEN,2025-11-30T13:18:03Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87idmVi,65070,Daily Coding Challenge: Tic-Tac-Toe has confusing test case,CLOSED,2026-01-10T09:20:23Z,2026-01-17T10:04:34Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
