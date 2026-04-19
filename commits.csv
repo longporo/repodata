@@ -1,4 +1,15 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+1a214641a8694e581a304cec0e40889e895147b9,fix(deps): update dependency react-scroll to v1.9.3 (#66997),2026-04-19T02:42:10Z,2,16,renovate[bot],freeCodeCamp,freeCodeCamp
+1abeda4381476a18fb8fbb557973ab258869ecd4,fix(deps): update dependency typebox to v1.1.23 (#66998),2026-04-19T02:42:07Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
+d553a8bfa2c0d33a13fcfda67935f984838b6726,fix(deps): update dependency unist-util-find to v1.0.4 (#66999),2026-04-19T02:42:05Z,2,35,renovate[bot],freeCodeCamp,freeCodeCamp
+7c5e523aa604cb4ccb05c5971fbd02bb5d42b653,fix(curriculum): add setup instructions to first backend challenge (#…,2026-04-18T20:01:32Z,1,6,ARUSHIGULBHILE,freeCodeCamp,freeCodeCamp
+0e638a78add533ac4453866ceac1fda31792b459,fix(deps): update dependency nanoid to v3.3.11 (#66995),2026-04-18T18:56:59Z,2,17,renovate[bot],freeCodeCamp,freeCodeCamp
+cc1d1c0f765cdd81589e9ec88a31328733b65137,fix(deps): update dependency micromark to v4.0.2 (#66994),2026-04-18T18:56:57Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
+e87b7f905f988b63534ca5f65a5bf891e71259de,fix(deps): update dependency js-yaml to v3.14.2 (#66988),2026-04-18T16:51:37Z,3,24,renovate[bot],freeCodeCamp,freeCodeCamp
+bb3ada57ca69f5772772cc33cbf76557ad926aeb,fix(deps): update dependency gatsby to v5.16.1 (#66987),2026-04-18T16:51:33Z,2,85,renovate[bot],freeCodeCamp,freeCodeCamp
+8085742321b131bb68eeff8088ce210c2ec6190a,fix(deps): update dependency crypto-browserify to v3.12.1 (#66986),2026-04-18T06:57:42Z,2,153,renovate[bot],freeCodeCamp,freeCodeCamp
+5a90f99f40c43da0bbe8004edf53607c6986bed8,fix(deps): update dependency @loadable/component to v5.16.7 (#66985),2026-04-18T06:57:28Z,2,14,renovate[bot],freeCodeCamp,freeCodeCamp
+b8798709359783f9843e8a4ab88572870752f4e7,"chore(i18n,learn): update i18n-curriculum submodule (#66984)",2026-04-18T06:10:34Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 b54c9317c6ed09ac3e665f51cd19bab7bcd344ab,fix(deps): update dependency @growthbook/growthbook-react to v1.6.5 (…,2026-04-17T16:57:00Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
 774a2b4d002b06b527dbde90af32b9b1a27888b1,"chore(i18n,learn): update i18n-curriculum submodule (#66977)",2026-04-17T16:56:39Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 a7f9fe91c46efa5fe9b7d7940d22b60a21b49cca,chore(deps): update testing-library (#66978),2026-04-17T16:55:28Z,2,133,renovate[bot],freeCodeCamp,freeCodeCamp
@@ -867,4 +878,3 @@ ddfd598eb42c74df7b8f7812400b4370420f617b,chore(deps): migrate client vitest to 4
 1d963204803748cf5bee0ec98db82a27ba2b779c,chore: pnpm self-update,2026-01-19T08:43:17Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
 31b07ce03b4bd93361b426688e74736c8ec89a84,"fix: allow interactive in review challenges, require that or descript…",2026-01-19T08:26:48Z,1,3,naomi-freecodecamp,freeCodeCamp,freeCodeCamp
 f908382e9491e532ede923c4903f7b9f80aaa7da,fix(api): linting issues with fastify (#65278),2026-01-19T08:23:35Z,6,96,raisedadead,freeCodeCamp,freeCodeCamp
-3c5ef03e6f204c7a7c00ec9d59dc86501f5489bf,fix(curriculum): correct grammar in JavaScript review comment (#65292),2026-01-18T20:34:01Z,1,2,anirudhxmishra,freeCodeCamp,freeCodeCamp
