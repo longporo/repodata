@@ -866,15 +866,3 @@ b8b68ce74907e1aa0055024bc53776395ccbfadc,fix: adjust codeowners file (#64795),20
 47b2d2064e8f5710a8144faec09758dcf703b861,feat(curriculum): EN-A2 quiz for block 4 (#65322),2026-01-20T07:52:23Z,1,325,anastasiiauk,freeCodeCamp,freeCodeCamp
 85f717dde182a559056ed9a2b2ee99fb86190a84,chore: pnpm self-update,2026-01-20T05:42:31Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
 8c3ad466ac565278a870378b23490ca34dab4580,fix(deps): update dependency @aws-sdk/client-ses to v3.967.0 (#65341),2026-01-20T05:41:14Z,2,195,renovate[bot],freeCodeCamp,freeCodeCamp
-dfe5b5680fdbbbb44e761df11e36b745fc3db7ce,fix(curriculum): refine editable regions in build a heart icon (#65302),2026-01-20T02:16:55Z,5,18,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-e30017b169376372711c1a33421da23a2458d48c,fix(curriculum): remove implicit requirement (#65177),2026-01-19T23:12:23Z,1,4,majestic-owl448,freeCodeCamp,freeCodeCamp
-6d66a00366747d5fb48fa330e41e68a53f5688f8,feat(curriculum): EN-A2 quiz for block 2 (#65156),2026-01-19T22:01:46Z,1,325,anastasiiauk,freeCodeCamp,freeCodeCamp
-24190b95aefbf03ecd50cc2245ed7a5c610e2892,fix(curriculum): fix the tests that should pass when code is correct …,2026-01-19T19:56:48Z,1,5,octavio-js,freeCodeCamp,freeCodeCamp
-6668692afbc4be4a61d8c41de01d4988e9b119ac,fix(curriculum): delay asserts for promise chaining (#65323),2026-01-19T17:03:40Z,1,10,gikf,freeCodeCamp,freeCodeCamp
-608afa8a397d2e3310d65776577b34f0cbb16a1e,chore: use turborepo for type checking (#64455),2026-01-19T13:35:27Z,17,688,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-2ce0ff1560f4db01a88a29de5b6ea8ac08b884e8,fix(tooling): use turbo lint to run task deps (#65307),2026-01-19T13:14:36Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-f03ad05e84022eaf886c3eb21a40a0bddd2bfe3c,refactor: bundle shared so each consumer can require/import without h…,2026-01-19T09:45:40Z,190,1490,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-ddfd598eb42c74df7b8f7812400b4370420f617b,chore(deps): migrate client vitest to 4.0.15 (#64819),2026-01-19T09:01:43Z,5,428,kannan-ravi,freeCodeCamp,freeCodeCamp
-1d963204803748cf5bee0ec98db82a27ba2b779c,chore: pnpm self-update,2026-01-19T08:43:17Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
-31b07ce03b4bd93361b426688e74736c8ec89a84,"fix: allow interactive in review challenges, require that or descript…",2026-01-19T08:26:48Z,1,3,naomi-freecodecamp,freeCodeCamp,freeCodeCamp
-f908382e9491e532ede923c4903f7b9f80aaa7da,fix(api): linting issues with fastify (#65278),2026-01-19T08:23:35Z,6,96,raisedadead,freeCodeCamp,freeCodeCamp
