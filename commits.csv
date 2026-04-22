@@ -1,4 +1,15 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+36b4e376337b4c89f300a4156eac74ec43761ea0,chore(deps): update dependency tsdown to ^0.21.0 (#67051),2026-04-21T19:53:01Z,2,549,renovate[bot],freeCodeCamp,freeCodeCamp
+6a1d8dc7ec9b3e3df2945ebe511e1fea25d86634,fix(deps): update dependency fastify to v5.8.5 (#67050),2026-04-21T19:52:38Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
+d524c397e690bd21b4b55621a5c5601079e9e915,fix(curriculum): updated registration form step 44 to have borderBott…,2026-04-21T14:08:19Z,1,4,katehjd21,freeCodeCamp,freeCodeCamp
+9518157219823e650f0fb95c43a937b915451488,chore(deps): update dependency msw to v2.13.3 (#67041),2026-04-21T13:57:03Z,1,72,renovate[bot],freeCodeCamp,freeCodeCamp
+4cf8b4a5375cc852a60b608c64edae599ff2f6fc,chore(deps): update dependency caniuse-lite to v1.0.30001788 (#67040),2026-04-21T13:56:46Z,2,16,renovate[bot],freeCodeCamp,freeCodeCamp
+40b5550e96f5868b5edb795ae7a6d84c378e32ce,feat(client): update profile ui (#66889),2026-04-21T10:09:39Z,29,1896,ahmaxed,freeCodeCamp,freeCodeCamp
+a381d7f20fb7684656686138474cd1e44665c00b,chore(deps): update dependency stylelint to v16.26.1 (#67031),2026-04-21T09:25:01Z,2,33,renovate[bot],freeCodeCamp,freeCodeCamp
+1cf34f96962f02c9376f341c95961b5a182f336a,feat(curriculum): add lab playlist remix engine (#65515),2026-04-21T09:05:15Z,4,399,VuBui217,freeCodeCamp,freeCodeCamp
+641585f41944864a0f46097ceeb29b0c1a2907f4,fix(curriculum): clarify step 9 instructions in emoji reactor worksho…,2026-04-21T08:55:38Z,1,2,AyushK5ingh,freeCodeCamp,freeCodeCamp
+93ccbf8cafbc33b67b1d744adc1873a4b8086a74,chore(deps): update dependency mongodb to v6.21.0 (#67028),2026-04-21T08:39:26Z,4,54,renovate[bot],freeCodeCamp,freeCodeCamp
+39408b3c832d78783593c45709bb9facfa921e38,chore: land failing renovate updates (#67035),2026-04-21T08:32:02Z,24,1096,raisedadead,freeCodeCamp,freeCodeCamp
 32c65547ac482a3d90ce733c00430e3dc163fd7b,feat(curriculum): Add A1 Spanish Describing People at Work Module (#6…,2026-04-20T21:10:02Z,141,18180,estefaniacn,freeCodeCamp,freeCodeCamp
 b72906085e2f82b896c49e8c7f177a119f3bf4d7,feat(curriculum): add workshop-word-counter to JS v9 cert (#64012),2026-04-20T17:35:47Z,14,729,l3onhard,freeCodeCamp,freeCodeCamp
 cba60d8511a31405afc13e05caa041234447003e,feat: add flashcard quiz app lab (#62166),2026-04-20T17:33:28Z,4,719,naomi-lgbt,freeCodeCamp,freeCodeCamp
@@ -831,22 +842,3 @@ f68b471d6d3fe074d3271b5a8e9bd9c628ea6d39,feat(client): add job experience widget
 52d64b7c86f4abc40e0bc2cdf3dd64df192fa236,feat(curriculum): add interactive examples to css Attribute selectors…,2026-01-22T07:28:36Z,1,109,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 7f66d36d303ef70514b9ac8734a923c3b97b2f0b,fix(curriculum): change the first answer and its feedback (#65410),2026-01-22T07:24:12Z,1,4,octavio-js,freeCodeCamp,freeCodeCamp
 2306095191c9344180f4d41092fe3ae981941fa4,"chore(i18n,learn): update i18n-curriculum submodule (#65402)",2026-01-22T05:14:15Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-30740c656c94acacfb2c56d23618d26e998f7498,fix(deps): update dependency @aws-sdk/client-ses to v3.969.0 (#65414),2026-01-22T02:27:42Z,2,320,renovate[bot],freeCodeCamp,freeCodeCamp
-e188981333f18bf695eca2ac2032f62d8024fbbe,fix(ci): update i18n submodule test to use new command (#65404),2026-01-21T16:32:39Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-6770ee4c26060456a53727531cc8a4328c43443f,refactor(client): use schema snapshot to avoid costly inference (#65360),2026-01-21T16:22:20Z,6,698,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-ec56d7a74ec3a08437353198bd45085ef01b88f3,fix(curriculum): fix editable region in caesar cipher workshop (#65283),2026-01-21T15:50:15Z,22,64,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-21dc6673ec541c867b51557e0638546527e32a01,docs: set copyright to earliest work,2026-01-21T14:35:34Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
-d062ddb31d56e8419530f348f7a834b13a5e0c9c,fix(curriculum): fix editable region in workshop quincys job tips (#6…,2026-01-21T14:12:12Z,11,42,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-09fdfb78b6433004df217f6a598a57df8cef3b57,"chore(i18n,client): processed translations (#65398)",2026-01-21T13:46:54Z,10,60,camperbot,freeCodeCamp,freeCodeCamp
-6d966d1edcd4d73825370ccc4d0df2c58755d0bd,feat(curriculum): add interactive examples to HTML chapter review pag…,2026-01-21T13:32:09Z,1,26,pdtrang,freeCodeCamp,freeCodeCamp
-cb63e8790aa689a0481bf856d144950ddc909e34,feat(curriculum): add interactive editor to HOF review (#65345),2026-01-21T13:26:12Z,1,40,harshentau-spec,freeCodeCamp,freeCodeCamp
-0e730cb1947297468612690de11248597cae0a66,fix(deps): update dependency typebox to v1.0.78 (#65395),2026-01-21T13:23:54Z,2,34,renovate[bot],freeCodeCamp,freeCodeCamp
-d43254af0548a63603d4a4a5382d2841126fffc8,fix(curriculum): Add interactive example for CSS Pseudo-classes Revie…,2026-01-21T12:44:03Z,1,8,papidb,freeCodeCamp,freeCodeCamp
-3d4062193c28885f674d19246e8fe84d9b03f9eb,fix(curriculum): minor en-b1 errors (#65065),2026-01-21T12:29:01Z,5,10,matheus4lves,freeCodeCamp,freeCodeCamp
-d6e2e7ed3dc48f42b0f391f888c9d8f21c6cf5e2,refactor(tools): remove extraneous env var (#65392),2026-01-21T11:28:32Z,6,56,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-d54608a6f70dd6f780c733fce0427698f8a03aaf,fix(curriculum): hash table lab tests and hints (#65374),2026-01-21T08:50:31Z,1,22,Dario-DC,freeCodeCamp,freeCodeCamp
-f867807edd480c6e8305223c82ac8c55e28d9168,feat(client): using monaco editor in interactive editor (#64601),2026-01-21T07:51:37Z,4,195,garyeung,freeCodeCamp,freeCodeCamp
-e65064a8eac4d3b6f4b95be4c9667a8971ffe37c,fix(curriculum): fix the health setter test (#65385),2026-01-21T07:23:54Z,1,4,octavio-js,freeCodeCamp,freeCodeCamp
-3c4a1588e8aad4eab27d9fdd5c006f01d0bcb3fb,fix(deps): update dependency @aws-sdk/client-ses to v3.968.0 (#65379),2026-01-21T04:50:52Z,2,356,renovate[bot],freeCodeCamp,freeCodeCamp
-bdcb727f894843967b9b7930ddfe7340b0f205ff,fix: use correct tsconfig for helper scripts (#65382),2026-01-21T04:50:00Z,1,28,naomi-freecodecamp,freeCodeCamp,freeCodeCamp
-631a679b8ffc9ff3364757c93353dca4a7dd131e,feat: use turbo to orchestrate tests (#65351),2026-01-21T04:47:06Z,9,49,ojeytonwilliams,freeCodeCamp,freeCodeCamp
