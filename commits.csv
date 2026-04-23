@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+f5c06302eb93a15aa29b2e9ac6112ead799b1310,fix(curriculum): remove mention of loops in introduction to variables…,2026-04-22T22:41:59Z,1,4,jdwilkin4,freeCodeCamp,freeCodeCamp
+cfeafc6e56d1a12076ed70aaa72568bff38d5e92,chore(deps): update dependency webpack to v5.106.2 (#67065),2026-04-22T18:54:12Z,3,77,renovate[bot],freeCodeCamp,freeCodeCamp
+fe75fa1649d7e58c809f625a0c8d52204bce909f,fix(deps): update dependency @reduxjs/toolkit to v2.11.2 (#67063),2026-04-22T16:32:53Z,2,20,renovate[bot],freeCodeCamp,freeCodeCamp
+28bdeb632224fcfeda55f3d45c81aade067edc31,fix(deps): update dependency @codesandbox/sandpack-react to v2.20.0 (…,2026-04-22T12:43:18Z,2,22,renovate[bot],freeCodeCamp,freeCodeCamp
+fd18d76ac77a15628660c714b5977c12fe9a9342,feat: add digital pet game lab (#62165),2026-04-22T08:42:36Z,4,1322,naomi-lgbt,freeCodeCamp,freeCodeCamp
+eb14138c8148f3c3801e2fec09327e9f69eaa544,chore(deps): update eslint (#67053),2026-04-22T06:38:36Z,4,821,renovate[bot],freeCodeCamp,freeCodeCamp
+7d9eeb1c9bb7e75e538d926e1da6c8590ceb6d97,chore(deps): update hapijs monorepo (#67054),2026-04-22T03:23:11Z,4,35,renovate[bot],freeCodeCamp,freeCodeCamp
 36b4e376337b4c89f300a4156eac74ec43761ea0,chore(deps): update dependency tsdown to ^0.21.0 (#67051),2026-04-21T19:53:01Z,2,549,renovate[bot],freeCodeCamp,freeCodeCamp
 6a1d8dc7ec9b3e3df2945ebe511e1fea25d86634,fix(deps): update dependency fastify to v5.8.5 (#67050),2026-04-21T19:52:38Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
 d524c397e690bd21b4b55621a5c5601079e9e915,fix(curriculum): updated registration form step 44 to have borderBott…,2026-04-21T14:08:19Z,1,4,katehjd21,freeCodeCamp,freeCodeCamp
@@ -816,29 +823,3 @@ f3f0cd02363a6660ec990626321a41b817eafb3b,fix(client): remove redundant warning t
 cbf8723e2a78cc216d9facddc97087da845af250,fix(deps): update dependency fastify to v5.7.1 (#65454),2026-01-23T10:32:20Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
 b1836efbce70246411aefea72274676c0eb582ae,fix(curriculum): correct editable region cafe-menu (#65364),2026-01-23T08:57:48Z,58,243,hbar1st,freeCodeCamp,freeCodeCamp
 9b09a1cbfc564554dd89077361171661f0e3c03f,fix(curriculum): correct pronoun typo in modal verbs lesson (#65449),2026-01-23T08:30:23Z,1,2,Sunita-lab,freeCodeCamp,freeCodeCamp
-31616d68857ea5568c336394be6b677bdf69c515,chore(deps): update actions/checkout action to v6.0.2 (#65434),2026-01-23T02:29:59Z,5,16,renovate[bot],freeCodeCamp,freeCodeCamp
-2338ab93222c8fe7f2a9364c693c7e1125343e7c,fix(tools): let prettier ignore dirs starting with `.` (#65432),2026-01-23T02:28:36Z,1,1,raisedadead,freeCodeCamp,freeCodeCamp
-2d243f3e47aa93ba6a24e2ae421f4f9c4cdc04a3,fix(deps): update dependency @aws-sdk/client-ses to v3.970.0 (#65442),2026-01-23T02:28:18Z,2,188,renovate[bot],freeCodeCamp,freeCodeCamp
-4f30bdec9aa095ca6a1b6ac04acceba959ad002a,fix(curriculum): replace unicode minus with dash in challenge 165 (#6…,2026-01-22T21:52:55Z,2,4,vikas0k,freeCodeCamp,freeCodeCamp
-8865fcb2426c68188cbafaf041366b3021b405c4,"chore(i18n,learn): update i18n-curriculum submodule (#65437)",2026-01-22T21:05:45Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-08a51184935c406d92bb24a01b07fb3f41f70578,fix(curriculum): fix the issue with code blocks not displaying correc…,2026-01-22T17:28:49Z,1,2,octavio-js,freeCodeCamp,freeCodeCamp
-2045bf80c302db2c2a84212aa2f850e8b0e09177,fix(deps): update dependency fastify to v5.7.0 (#65423),2026-01-22T17:13:18Z,3,38,renovate[bot],freeCodeCamp,freeCodeCamp
-c10e8bb55107deea8904359f9083e1998df0b0c7,fix(curriculum): editable region in pin extractor workshop and typos …,2026-01-22T17:04:56Z,18,103,majestic-owl448,freeCodeCamp,freeCodeCamp
-16acad2264fa735d341a56afbba6a7e8722d8bbe,feat(curriculum): add searching and sorting algos lessons (#65184),2026-01-22T16:59:24Z,6,446,majestic-owl448,freeCodeCamp,freeCodeCamp
-ccd070dd3142d41ad21d4c4f7d670d655cb2d270,fix: delete turbo cache when cleaning (#65424),2026-01-22T16:11:54Z,1,1,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-4bdd93c5e648695639e3960c5940ecbde5656710,feat(curriculum): add Spanish A1 chapter 4 and modules (#65340),2026-01-22T15:45:33Z,56,2093,estefaniacn,freeCodeCamp,freeCodeCamp
-05e35e0bb70509c77ae3bc5adbbd8acafbc002ce,refactor: remove unused client Dockerfile + related config (#65426),2026-01-22T14:34:15Z,4,531,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-4ea52e26392ada0ab23225210aaaef519f3780e3,chore: update to node 24 (#65416),2026-01-22T13:59:48Z,24,487,raisedadead,freeCodeCamp,freeCodeCamp
-9b3bea4d4d52baede852fa0105c84cb61ba706b0,"fix(curriculum) added interactive examples to Lists, Links, Backgroun…",2026-01-22T13:41:35Z,1,363,rizwan-rizu,freeCodeCamp,freeCodeCamp
-2b76f1e5685dc84230a0fb1f91ab6e9bb023799d,feat(curriculum): add interactive examples for HTML tables and forms …,2026-01-22T13:38:39Z,1,26,pdtrang,freeCodeCamp,freeCodeCamp
-77ea55e0c0d128c6a4bcd727132ec558f1a2e3cd,feat(curriculum): add interactive examples to semantic HTML review pa…,2026-01-22T13:37:39Z,1,90,pdtrang,freeCodeCamp,freeCodeCamp
-5c6fd67bd21696842889dcbdbf336426579ce142,feat(curriculum): convert code examples to interactive editors where …,2026-01-22T13:34:20Z,1,86,octavio-js,freeCodeCamp,freeCodeCamp
-c93d16bf9407f02b1123b45332382512971dc139,"fix(curriculum): small typo in the ""Basic Anatomy of a CSS Rule"" page…",2026-01-22T10:27:18Z,1,2,Roxicaro,freeCodeCamp,freeCodeCamp
-f68b471d6d3fe074d3271b5a8e9bd9c628ea6d39,feat(client): add job experience widget to profile (#63503),2026-01-22T08:30:50Z,36,1303,Sembauke,freeCodeCamp,freeCodeCamp
-59a54b504018bddbade9df53a7103e839079ced6,fix(curriculum): adjust editable-regions workshop-final-exams-table (…,2026-01-22T08:16:02Z,6,12,hbar1st,freeCodeCamp,freeCodeCamp
-3521e967ce57b984b47652ad7834fa7e45af64e3,feat(curriculum): EN-A2 quiz for block 6 (#65393),2026-01-22T08:02:54Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
-35599e96249f11712ef0560e4d79989953e1d7ff,"feat(curriculum): add localStorage inspection step to ""Build a Todo A…",2026-01-22T07:53:31Z,16,501,bengguankoay,freeCodeCamp,freeCodeCamp
-9c796821ad6bac3773061175cb6f8f42b89beb74,feat(curriculum): add interactive examples to css relative and absolu…,2026-01-22T07:37:56Z,1,148,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-52d64b7c86f4abc40e0bc2cdf3dd64df192fa236,feat(curriculum): add interactive examples to css Attribute selectors…,2026-01-22T07:28:36Z,1,109,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-7f66d36d303ef70514b9ac8734a923c3b97b2f0b,fix(curriculum): change the first answer and its feedback (#65410),2026-01-22T07:24:12Z,1,4,octavio-js,freeCodeCamp,freeCodeCamp
-2306095191c9344180f4d41092fe3ae981941fa4,"chore(i18n,learn): update i18n-curriculum submodule (#65402)",2026-01-22T05:14:15Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
