@@ -1,4 +1,14 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+a04c0066df00c459c70e00b2e2433f1ca1d00762,"chore(i18n,learn): update i18n-curriculum submodule (#67085)",2026-04-24T03:18:39Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+4dd34758cecec5017fe26a31a2f1d49e12c1cb12,fix(curriculum): remove repetitive explanations from movie ticket wor…,2026-04-24T00:37:44Z,2,15,jdwilkin4,freeCodeCamp,freeCodeCamp
+5891a16cef22e3f653279ca72b62e0702a6ba621,fix(curriculum): remove repetitive explanations in bill splitter work…,2026-04-24T00:37:12Z,4,16,jdwilkin4,freeCodeCamp,freeCodeCamp
+e5276cea2ffdcd192fd729feb39c1e79829dec0e,feat(curriculum): add Festival Crowd Flow Simulator Workshop - JavaSc…,2026-04-23T20:28:50Z,36,3999,LGH831,freeCodeCamp,freeCodeCamp
+2551a60d3690b4c176b68312a23fd94cd17a6d23,fix(deps): update dependency i18next to v25.10.10 (#67070),2026-04-23T15:55:06Z,2,20,renovate[bot],freeCodeCamp,freeCodeCamp
+229e4712547aee96c33461326fedac9e48fe1ef6,fix(curriculum): add note for queue (#67036),2026-04-23T13:23:31Z,1,4,Supravisor,freeCodeCamp,freeCodeCamp
+ac3901c983dfc16b1efb79f5f912bfa919c8106f,fix(client): filter challenge nodes by certification to fix progress …,2026-04-23T13:16:37Z,3,58,ragini-pandey,freeCodeCamp,freeCodeCamp
+49bd5729bf25902d592857efdf523f079cc9f4dc,"chore(i18n,learn): update i18n-curriculum submodule (#67064)",2026-04-23T12:11:25Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+2e6472dec16eb433375ed2a74a54e687d1ba7212,"chore(i18n,client): processed translations (#67062)",2026-04-23T11:34:38Z,20,338,camperbot,freeCodeCamp,freeCodeCamp
+e31c7d46a557b6d219ea17e369588186f82cd2b6,fix(curriculum): remove stray marker from challenge file (#67067),2026-04-23T08:26:06Z,1,2,huyenltnguyen,freeCodeCamp,freeCodeCamp
 f5c06302eb93a15aa29b2e9ac6112ead799b1310,fix(curriculum): remove mention of loops in introduction to variables…,2026-04-22T22:41:59Z,1,4,jdwilkin4,freeCodeCamp,freeCodeCamp
 cfeafc6e56d1a12076ed70aaa72568bff38d5e92,chore(deps): update dependency webpack to v5.106.2 (#67065),2026-04-22T18:54:12Z,3,77,renovate[bot],freeCodeCamp,freeCodeCamp
 fe75fa1649d7e58c809f625a0c8d52204bce909f,fix(deps): update dependency @reduxjs/toolkit to v2.11.2 (#67063),2026-04-22T16:32:53Z,2,20,renovate[bot],freeCodeCamp,freeCodeCamp
@@ -815,11 +825,3 @@ def9dbaf94acb3a4e1d660f6385450e72f0e3e2e,fix (curriculum) : Bug fixes - get_bing
 f64cfa21844543895177dd38f2ee74f3d8df1a58,chore(deps): update actions/cache action to v5.0.2 (#65465),2026-01-24T03:25:53Z,1,2,renovate[bot],freeCodeCamp,freeCodeCamp
 8c5e7e34c567eb2f5542848c9ddd3b5e4d735fed,fix(deps): update dependency @aws-sdk/client-ses to v3.971.0 (#65469),2026-01-24T03:25:37Z,2,100,renovate[bot],freeCodeCamp,freeCodeCamp
 f83d7858b9659d465c51ea79c682bc6fffe7672c,fix(gha): skip PR events for renovate (#65455),2026-01-24T03:24:34Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
-517a61b7d9e20eaae225a2627cd76310129566ff,fix(curriculum): check for imports in tests (#65463),2026-01-23T18:57:07Z,2,19,Dario-DC,freeCodeCamp,freeCodeCamp
-a7f3b97cbe0514a54f185ef7be86805f6463cfa1,fix(curriculum): Add interactive examples for CSS chapter review page…,2026-01-23T14:17:19Z,1,6,papidb,freeCodeCamp,freeCodeCamp
-c86004188fe14dfedeebe4328ded83278ed47afd,feat(curriculum): implement more specific tests for step one of the f…,2026-01-23T13:08:10Z,1,13,octavio-js,freeCodeCamp,freeCodeCamp
-f3f0cd02363a6660ec990626321a41b817eafb3b,fix(client): remove redundant warning text from archive content notic…,2026-01-23T12:36:27Z,2,5,CKofficial-1797,freeCodeCamp,freeCodeCamp
-540d6e169c48a4bef03d1832cf24fba4aa53d008,feat(curriculum): add interactive examples to css grid (#65372),2026-01-23T10:32:58Z,1,8,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-cbf8723e2a78cc216d9facddc97087da845af250,fix(deps): update dependency fastify to v5.7.1 (#65454),2026-01-23T10:32:20Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
-b1836efbce70246411aefea72274676c0eb582ae,fix(curriculum): correct editable region cafe-menu (#65364),2026-01-23T08:57:48Z,58,243,hbar1st,freeCodeCamp,freeCodeCamp
-9b09a1cbfc564554dd89077361171661f0e3c03f,fix(curriculum): correct pronoun typo in modal verbs lesson (#65449),2026-01-23T08:30:23Z,1,2,Sunita-lab,freeCodeCamp,freeCodeCamp
