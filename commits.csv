@@ -1,4 +1,18 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+495b0666201d90bc3d13e4f131c5a45672a7fe19,"fix(curriculum): correct ""returnes"" typo in workshop word counter (#6…",2026-04-25T00:42:33Z,1,8,clarencepenz,freeCodeCamp,freeCodeCamp
+23d879a00f2628b98942c287a717569217bb0280,fix(curriculum): remove introductory examples from caesar cipher work…,2026-04-24T23:45:28Z,4,32,jdwilkin4,freeCodeCamp,freeCodeCamp
+51b1545e701d9e65d66aab258828544e022d044f,fix(curriculum): update JS string quotes to double quotes (#67099),2026-04-24T23:44:09Z,1,118,AyushK5ingh,freeCodeCamp,freeCodeCamp
+647f8b09ffb00864f1d9e7273c471b9363ba10a7,feat(curriculum): release Number Below 100 module (#66780),2026-04-24T20:21:28Z,10,410,huyenltnguyen,freeCodeCamp,freeCodeCamp
+15845505db4065f63290b689c1f295e6ecec561a,feat(curriclum): add routing express lesson block (#66250),2026-04-24T18:25:01Z,11,1479,zairahira,freeCodeCamp,freeCodeCamp
+8762c1bb49f67ce8710de80d66b84482ede8f1c5,chore(deps): update dependency msw to v2.13.4 (#67084),2026-04-24T17:45:36Z,1,223,renovate[bot],freeCodeCamp,freeCodeCamp
+fd89a2678df76a40ca8e577296a0793a5a228247,fix(curriculum): update step-53 td width workshop balance sheet (#66327),2026-04-24T16:48:12Z,14,82,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+c8de54970e181671f7b00259b8ec7249f216846d,fix(curriculum): correct WeakSet example with valid references (#66981),2026-04-24T16:44:22Z,1,28,yoehae,freeCodeCamp,freeCodeCamp
+504b37caf1c3cb9b1f537374a0ddf40e5a6680a5,fix(curriculum): hint for cable cost (#67011),2026-04-24T16:40:11Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+9714ae3b700cda3b33dd97ccb87b9feccd8ce6de,fix(api): remove legacy get-session-user endpoint (#67089),2026-04-24T15:08:10Z,3,24,Sembauke,freeCodeCamp,freeCodeCamp
+ec06a99fdb3d7f21f292da9bc2882832f96d7692,fix(client): debounce challenge submissions (#67039),2026-04-24T08:15:17Z,3,110,AyushK5ingh,freeCodeCamp,freeCodeCamp
+ed8c673dbbfe84fb740b5bd5fd4154c7f6322ac6,fix(curriculum): clarify validateForm keys for conditional descriptio…,2026-04-24T08:00:15Z,1,22,aastha-mittal,freeCodeCamp,freeCodeCamp
+05e96ff7209ff75e35a9ce8d267c87561b30f124,feat(curriculum): remove Japanese from NotAuditedSuperBlocks array (#…,2026-04-24T07:49:09Z,1,21,DanielRosa74,freeCodeCamp,freeCodeCamp
+81f7e84e7538814255f8a6e113a3c3a7486a4f8a,"feat(i18n, learn): reinstate Korean to language selector menu (#67080)",2026-04-24T07:01:51Z,1,2,DanielRosa74,freeCodeCamp,freeCodeCamp
 a04c0066df00c459c70e00b2e2433f1ca1d00762,"chore(i18n,learn): update i18n-curriculum submodule (#67085)",2026-04-24T03:18:39Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 4dd34758cecec5017fe26a31a2f1d49e12c1cb12,fix(curriculum): remove repetitive explanations from movie ticket wor…,2026-04-24T00:37:44Z,2,15,jdwilkin4,freeCodeCamp,freeCodeCamp
 5891a16cef22e3f653279ca72b62e0702a6ba621,fix(curriculum): remove repetitive explanations in bill splitter work…,2026-04-24T00:37:12Z,4,16,jdwilkin4,freeCodeCamp,freeCodeCamp
@@ -817,11 +831,3 @@ e5cae6909c5825f70a290ffead2aa05c112f937c,feat(tools): modularize browser-scripts
 79087ca9fd352c67c92dd04566baf08d4a0c801d,refactor(tools): replace challenge-editor with submodule (#65459),2026-01-26T11:27:08Z,75,2126,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 7efcd891f2e157196aa28f46c706e3ef2222a68d,fix(curriculum): replace fizzBuzzMini with fizz_buzz_mini in Python c…,2026-01-26T10:29:14Z,1,6,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 f2397729bfad4edae55fd38d1b088df04a3ae82b,"feat(curriculum): add Understanding how HTTP, DNS and TCP/IP lesson b…",2026-01-25T17:11:11Z,8,857,zairahira,freeCodeCamp,freeCodeCamp
-df3c26089ae35d3165e90cfd1b81acd81763448a,fix(curriculum): refine editable regions in loan qualification checke…,2026-01-24T23:12:12Z,4,12,NewSmoke38,freeCodeCamp,freeCodeCamp
-def9dbaf94acb3a4e1d660f6385450e72f0e3e2e,fix (curriculum) : Bug fixes - get_bingo_letter(11) returns B (#65473),2026-01-24T18:25:28Z,2,4,advait122,freeCodeCamp,freeCodeCamp
-6c417e4d35398ecfcc14d949a8d1d81d121c6184,feat(curriculum): add Working with Node Core Modules lessons (#65008),2026-01-24T10:25:09Z,11,1857,Ksound22,freeCodeCamp,freeCodeCamp
-0b048016d25eeeec3b1db1612d75d6dcf9511e40,"refactor(tools): simplify turbo tasks, include outputs (#65462)",2026-01-24T04:45:15Z,5,52,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-78456b1ccf895866ddb6d09381433bcfff7a1d76,"chore(i18n,learn): update i18n-curriculum submodule (#65466)",2026-01-24T03:26:37Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-f64cfa21844543895177dd38f2ee74f3d8df1a58,chore(deps): update actions/cache action to v5.0.2 (#65465),2026-01-24T03:25:53Z,1,2,renovate[bot],freeCodeCamp,freeCodeCamp
-8c5e7e34c567eb2f5542848c9ddd3b5e4d735fed,fix(deps): update dependency @aws-sdk/client-ses to v3.971.0 (#65469),2026-01-24T03:25:37Z,2,100,renovate[bot],freeCodeCamp,freeCodeCamp
-f83d7858b9659d465c51ea79c682bc6fffe7672c,fix(gha): skip PR events for renovate (#65455),2026-01-24T03:24:34Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
