@@ -1,4 +1,15 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+224afd0386c37e47287257b3f28ed2850387bd33,fix(deps): update dependency postcss to v8.5.10 (#67114),2026-04-25T12:04:54Z,2,302,renovate[bot],freeCodeCamp,freeCodeCamp
+2569a3607f501d22e3e814894fa9aee89aa85b75,fix(deps): update dependency typebox to v1.1.27 (#67111),2026-04-25T12:04:38Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
+408f6babefae03bc623d88332bed45857640c8a2,"fix(curriculum): correct ""containting"" typo in lab product showcase (…",2026-04-25T12:04:23Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
+2fa0ba4f6f7cd8f5fa846366add6c6b33a5f9f1b,chore(deps): update mongo docker tag to v8.2 (#67112),2026-04-25T12:03:50Z,2,8,renovate[bot],freeCodeCamp,freeCodeCamp
+891eec4b8175950b5c79ec11e6fa9014b185dad6,"fix(curriculum): remove mentions of bin, oct, hex functions from revi…",2026-04-25T10:47:34Z,2,48,jdwilkin4,freeCodeCamp,freeCodeCamp
+89d1a4c51704f642b8ad95ce967b3a4167a1f06a,fix(deps): update algolia-instantsearch monorepo (#67057),2026-04-25T06:34:18Z,2,122,renovate[bot],freeCodeCamp,freeCodeCamp
+e9e0aac857c1aead4e5bb26a6184d0c7598b9b55,feat(parser): enforce workshop file validations (#66340),2026-04-25T06:12:44Z,9,205,Harshith Kumar,freeCodeCamp,freeCodeCamp
+09b97874fca844ce193d469ee56bc1ad2b16fb02,chore(deps): update dependency tsdown to v0.21.9 (#67101),2026-04-25T06:12:06Z,1,231,renovate[bot],freeCodeCamp,freeCodeCamp
+a6d06fe724782c64ad54d7acc522ba091a8b700d,chore(deps): update vitest (#67056),2026-04-25T06:11:36Z,21,880,renovate[bot],freeCodeCamp,freeCodeCamp
+3d72c7b3ee0b45a62d30efd0e0de0bc5b1746a99,fix(gha): correct playwright reporter path (#67104),2026-04-25T06:11:08Z,2,4,huyenltnguyen,freeCodeCamp,freeCodeCamp
+bdbdad5e326f8908d53312bb2bc32d9c45777aba,fix(e2e): address potential race condition in editor test (#67105),2026-04-25T06:09:53Z,1,14,huyenltnguyen,freeCodeCamp,freeCodeCamp
 495b0666201d90bc3d13e4f131c5a45672a7fe19,"fix(curriculum): correct ""returnes"" typo in workshop word counter (#6…",2026-04-25T00:42:33Z,1,8,clarencepenz,freeCodeCamp,freeCodeCamp
 23d879a00f2628b98942c287a717569217bb0280,fix(curriculum): remove introductory examples from caesar cipher work…,2026-04-24T23:45:28Z,4,32,jdwilkin4,freeCodeCamp,freeCodeCamp
 51b1545e701d9e65d66aab258828544e022d044f,fix(curriculum): update JS string quotes to double quotes (#67099),2026-04-24T23:44:09Z,1,118,AyushK5ingh,freeCodeCamp,freeCodeCamp
@@ -830,4 +841,3 @@ e5cae6909c5825f70a290ffead2aa05c112f937c,feat(tools): modularize browser-scripts
 0cf1d86ceff61d0948681ae82c5b814758c5aec8,fix(curriculum): fix editable regions in medical data validator works…,2026-01-26T11:32:08Z,39,208,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 79087ca9fd352c67c92dd04566baf08d4a0c801d,refactor(tools): replace challenge-editor with submodule (#65459),2026-01-26T11:27:08Z,75,2126,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 7efcd891f2e157196aa28f46c706e3ef2222a68d,fix(curriculum): replace fizzBuzzMini with fizz_buzz_mini in Python c…,2026-01-26T10:29:14Z,1,6,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-f2397729bfad4edae55fd38d1b088df04a3ae82b,"feat(curriculum): add Understanding how HTTP, DNS and TCP/IP lesson b…",2026-01-25T17:11:11Z,8,857,zairahira,freeCodeCamp,freeCodeCamp
