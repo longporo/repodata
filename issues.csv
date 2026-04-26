@@ -1,5 +1,8 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X88AAAABAgwFmw,67121,Mobile view issue: code blocks in MCQ questions are clipped without horizontal scroll,OPEN,2026-04-25T21:43:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABAPdRHw,67068,Heritage Library - Step 18 test too strict,OPEN,2026-04-22T18:49:59Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87N4dBX,62366,[challenge parser] enhance file validation for workshops,CLOSED,2025-09-25T15:26:00Z,2026-04-25T06:12:46Z,Harshithk951;Sembauke,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAcA3vQ,67098,fix(curriculum): update JS string quotes to double quotes in lecture-working-with-maps-and-sets,CLOSED,2026-04-24T16:44:24Z,2026-04-24T23:44:10Z,AyushK5ingh,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAbMcEg,67092,Build an SQL Reference Object: misplaced word,CLOSED,2026-04-24T14:09:39Z,2026-04-24T23:20:26Z,Gazdean;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAchtVQ,67100,Full Stack - build-a-sorting-visualizer - Test 18 still failing with correct output,OPEN,2026-04-24T18:37:25Z,,,freeCodeCamp,freeCodeCamp
@@ -23,7 +26,6 @@ I_kwDOAbI7X879stwZ,66919,js-v9 Implement A Queue lab tests should not be inter-d
 I_kwDOAbI7X88AAAABAIqnqg,67048,Progress bar after completing a challenge only fills to up to 50%,CLOSED,2026-04-21T16:45:00Z,2026-04-23T13:16:39Z,ragini-pandey,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87zUVfi,66501,Interactive editor console panel displays live array references instead of snapshots,CLOSED,2026-03-16T12:29:52Z,2026-04-23T13:14:57Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87vdZ6-,66217,Still some double notes on superblock pages,OPEN,2026-03-03T16:01:34Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABAPdRHw,67068,Heritage Library - Step 18 test too strict,OPEN,2026-04-22T18:49:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAO6rXA,67066,Build a book inventory app,CLOSED,2026-04-22T17:03:38Z,2026-04-22T18:35:16Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X877Epz6,66832,Get a Hint - page redirection from Workshop,OPEN,2026-04-06T14:52:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87_m741,66990,RDB-v9 Course: Start the course button location missed by many,OPEN,2026-04-18T15:18:00Z,,,freeCodeCamp,freeCodeCamp
@@ -512,5 +514,3 @@ I_kwDOAbI7X87jqAFr,65230,Add interactive examples to DOM review page,CLOSED,2026
 I_kwDOAbI7X87lFC6u,65429,Build Quincy’s Job Tips Page - Step 12 numbered list,CLOSED,2026-01-22T14:52:09Z,2026-01-26T13:29:32Z,kshitiz510,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87lJXdD,65438,Using recursion in Build an Nth Fibonacci Number Calculator,CLOSED,2026-01-22T19:32:23Z,2026-01-26T10:47:04Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87d8n_t,64556,missing index.md file does not cause test failures,CLOSED,2025-12-12T14:39:09Z,2026-01-26T10:31:35Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87lspT-,65490,Javascript Build a string inspection,CLOSED,2026-01-25T18:40:32Z,2026-01-25T21:03:12Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87lsXJi,65489,javaScript interactive editor not loading,CLOSED,2026-01-25T17:46:02Z,2026-01-25T19:05:14Z,,freeCodeCamp,freeCodeCamp
