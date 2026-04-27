@@ -1,6 +1,10 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X88AAAABAgwFmw,67121,Mobile view issue: code blocks in MCQ questions are clipped without horizontal scroll,OPEN,2026-04-25T21:43:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABAU55zg,67077,Responsive Web Design - Missing accesskey Attribute Concerns,CLOSED,2026-04-23T15:00:03Z,2026-04-26T23:28:31Z,AyushK5ingh;Jeevankumar-s;huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABAivXog,67129,redirect from old URL's to New URLs,OPEN,2026-04-26T16:39:55Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87-ox8B,66952,`const location` is once again breaking everything~,OPEN,2026-04-15T22:34:12Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X877Epz6,66832,Get a Hint - page redirection from Workshop,OPEN,2026-04-06T14:52:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABAgwFmw,67121,Mobile view issue: code blocks in MCQ questions are clipped without horizontal scroll,OPEN,2026-04-25T21:43:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAPdRHw,67068,Heritage Library - Step 18 test too strict,OPEN,2026-04-22T18:49:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87N4dBX,62366,[challenge parser] enhance file validation for workshops,CLOSED,2025-09-25T15:26:00Z,2026-04-25T06:12:46Z,Harshithk951;Sembauke,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAcA3vQ,67098,fix(curriculum): update JS string quotes to double quotes in lecture-working-with-maps-and-sets,CLOSED,2026-04-24T16:44:24Z,2026-04-24T23:44:10Z,AyushK5ingh,freeCodeCamp,freeCodeCamp
@@ -17,7 +21,6 @@ I_kwDOAbI7X87-5X0D,66964,Duplicated entry in the timeline,CLOSED,2026-04-16T14:3
 I_kwDOAbI7X86s68qe,59167,Customer Complaint Form - undefined edge case,CLOSED,2025-03-06T18:29:01Z,2026-04-24T08:00:17Z,aastha-mittal,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAXhTWg,67083,Changing Text In Workshop lessons,CLOSED,2026-04-24T00:18:47Z,2026-04-24T06:46:16Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPEK-,64113,Lab – Playlist Remix Engine,CLOSED,2025-11-25T03:42:37Z,2026-04-21T09:05:17Z,VuBui217;jdwilkin4;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABAU55zg,67077,Responsive Web Design - Missing accesskey Attribute Concerns,OPEN,2026-04-23T15:00:03Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPFY3,64127,Workshop – Festival Crowd Flow Simulator,CLOSED,2025-11-25T03:46:17Z,2026-04-23T20:28:52Z,LGH831,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAVQn6A,67078,A1 Professional Chinese Certification Coming 2026 note,CLOSED,2026-04-23T15:59:45Z,2026-04-23T19:28:05Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPFOX,64125,Lab – Proofreading Tool,OPEN,2025-11-25T03:45:49Z,,,freeCodeCamp,freeCodeCamp
@@ -27,7 +30,6 @@ I_kwDOAbI7X88AAAABAIqnqg,67048,Progress bar after completing a challenge only fi
 I_kwDOAbI7X87zUVfi,66501,Interactive editor console panel displays live array references instead of snapshots,CLOSED,2026-03-16T12:29:52Z,2026-04-23T13:14:57Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87vdZ6-,66217,Still some double notes on superblock pages,OPEN,2026-03-03T16:01:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAO6rXA,67066,Build a book inventory app,CLOSED,2026-04-22T17:03:38Z,2026-04-22T18:35:16Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X877Epz6,66832,Get a Hint - page redirection from Workshop,OPEN,2026-04-06T14:52:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87_m741,66990,RDB-v9 Course: Start the course button location missed by many,OPEN,2026-04-18T15:18:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAI1d1w,67049,Documentation could be clearer for beginners,CLOSED,2026-04-21T17:19:42Z,2026-04-22T13:31:59Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87-gC6L,66950,Registration Form - Step 44,CLOSED,2026-04-15T15:00:51Z,2026-04-21T14:08:21Z,katehjd21,freeCodeCamp,freeCodeCamp
@@ -70,7 +72,6 @@ I_kwDOAbI7X87-93AY,66970,design a registration form step 44,CLOSED,2026-04-16T18
 I_kwDOAbI7X87ea8JB,64630,Audit and update prototype for d3 Dashboard workshop,OPEN,2025-10-01T15:23:56Z,,jdwilkin4;meemeealm,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ea8Da,64629,Audit and update world map d3 workshop,OPEN,2025-10-02T17:02:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X879gY6m,66910,Bug -  Build an Nth Fibonacci Number Calculator (javascript-v9),CLOSED,2026-04-13T09:25:42Z,2026-04-16T07:20:04Z,ZeenatLawal,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87-ox8B,66952,`const location` is once again breaking everything~,OPEN,2026-04-15T22:34:12Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X856erd4,52733,Global browser objects should not be overwritten by locally declared variables,OPEN,2023-12-23T18:20:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X879ypQo,66925,Curriculum Context Gap: JavaScript- Method Chaining (Step 359) assumes knowledge of OOP and this,CLOSED,2026-04-13T21:10:16Z,2026-04-15T13:08:38Z,lakshay122007,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X879K_de,66899,Build a light box viewer test fails to enable bubbling on click event dispatch,CLOSED,2026-04-12T10:00:01Z,2026-04-15T12:10:13Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
@@ -506,11 +507,3 @@ I_kwDOAbI7X87kaFGY,65343,Add Run / Reset controls for :::interactive_editor to p
 I_kwDOAbI7X87kiEVW,65358,Invalid Test Cases in Daily Challenge Tic-Tac-Toe,CLOSED,2026-01-20T15:05:33Z,2026-01-27T16:00:45Z,jimjoice2804,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87mC6ee,65522,"Typo in ""How do stacks and queues work?"" lesson: ""form"" -> ""from""",CLOSED,2026-01-27T08:53:49Z,2026-01-27T15:21:06Z,gurijalaspandana2104,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87eaziF,64625,Create a prototype for Python Booleans and Conditionals Workshop,CLOSED,2025-12-15T17:06:14Z,2026-01-27T14:56:27Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jqGI2,65235,Add interactive examples to JavaScript Dates Review page,CLOSED,2026-01-15T22:27:45Z,2026-01-26T15:12:00Z,Jeevankumar-S;zairahira,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jqBax,65231,Add interactive examples to JavaScript and Accessibility Review page,CLOSED,2026-01-15T22:22:38Z,2026-01-26T15:08:08Z,Jeevankumar-S;zairahira,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jpHlb,65205,Add interactive examples to CSS Typography review page,CLOSED,2026-01-15T21:19:55Z,2026-01-26T15:01:17Z,Jeevankumar-S;zairahira,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jpFCl,65204,Add interactive examples for Flexbox review page,CLOSED,2026-01-15T21:16:55Z,2026-01-26T14:59:45Z,harshentau-spec;zairahira,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jqAFr,65230,Add interactive examples to DOM review page,CLOSED,2026-01-15T22:21:16Z,2026-01-26T14:11:33Z,papidb,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87lFC6u,65429,Build Quincy’s Job Tips Page - Step 12 numbered list,CLOSED,2026-01-22T14:52:09Z,2026-01-26T13:29:32Z,kshitiz510,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87lJXdD,65438,Using recursion in Build an Nth Fibonacci Number Calculator,CLOSED,2026-01-22T19:32:23Z,2026-01-26T10:47:04Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87d8n_t,64556,missing index.md file does not cause test failures,CLOSED,2025-12-12T14:39:09Z,2026-01-26T10:31:35Z,,freeCodeCamp,freeCodeCamp
