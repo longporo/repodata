@@ -1,4 +1,13 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+70fc81106af91aec79d8044344e325263f19e95a,fix(curriculum): correct incorrect verb form (#67149),2026-04-29T01:09:39Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+44b560b18590a5f2e72dd4a2da00869221f75ed3,fix(curriculum): update registration form step 48 to have borderBotto…,2026-04-28T20:14:45Z,1,4,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+40836e70fd3d78914c8c89a3e4e1d6ab70a98b41,fix(deps): update dependency @fastify/swagger-ui to v5.2.6 (#67158),2026-04-28T16:23:17Z,2,20,renovate[bot],freeCodeCamp,freeCodeCamp
+21179b8dd3e035240f7497ad4f399d068aad016b,chore(deps): update vitest to v4.1.5 (#67157),2026-04-28T16:23:01Z,2,396,renovate[bot],freeCodeCamp,freeCodeCamp
+90cc514f786f3d786cb66ab2fd6fee26d3471a00,fix(client): defer MobileAppModal rendering until after first browser…,2026-04-28T16:22:47Z,2,31,huyenltnguyen,freeCodeCamp,freeCodeCamp
+2548e2bb2ffa160fdd1c116b887c7d9f08b61162,fix(deps): update dependency typebox to v1.1.29 (#67153),2026-04-28T16:21:29Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
+ba1eacf64e6e0f7e8908072f3c5d96ab152ffece,fix(curriculum): correct casing for TypeScript (#67147),2026-04-28T16:21:04Z,9,42,huyenltnguyen,freeCodeCamp,freeCodeCamp
+bbe577c77c38534f862b702a1fd121a21687c7a5,fix(curriculum): replace arrays with strings in daily coding challeng…,2026-04-28T14:34:07Z,2,4,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+aa7c01c2936ce64aef98e663f68a31cf23ee7d9a,chore(deps): update dependency typescript-eslint to v8.59.0 (#67143),2026-04-28T12:02:35Z,10,190,renovate[bot],freeCodeCamp,freeCodeCamp
 7f44912d817941fb342f1a8377ef9fcce45dc321,"chore(i18n,client): processed translations (#67136)",2026-04-27T21:33:57Z,11,326,camperbot,freeCodeCamp,freeCodeCamp
 76dd352aa512f2927367c3583aca2d9966a4e661,fix(deps): update monaco-editor to v0.52.2 (#67140),2026-04-27T19:05:27Z,3,35,Sembauke,freeCodeCamp,freeCodeCamp
 2b211aab34f8fef246489da18bd85e834a6eb5ae,"chore(i18n,learn): update i18n-curriculum submodule (#67141)",2026-04-27T17:51:07Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
@@ -818,14 +827,3 @@ c5f9248b871338c1cd897e9c48cb6b94c28d0d18,feat(curriculum): EN-A2 quiz for block 
 ef3c9191a493f065ca099ea76ba98d466b0b99fc,feat(curriculum): EN-A2 quiz for block 8 (#65497),2026-01-29T08:49:34Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
 5d5c2a1786866fcacdfc0f320c0351afbe8f8b1b,feat(curriculum): EN-A2 quiz for block 7 (#65406),2026-01-29T08:49:13Z,1,325,anastasiiauk,freeCodeCamp,freeCodeCamp
 582261f70b91c5ae32cef54778b5dce6f960909b,test(challenge-parser): add test for 'highlighted-text' class (#65546),2026-01-29T03:36:36Z,1,14,huyenltnguyen,freeCodeCamp,freeCodeCamp
-dfffe86a82b44225cd69727ad65ab2a61ad37617,fix(deps): update lodash monorepo to v4.17.23 (#65548),2026-01-29T03:35:48Z,2,80,renovate[bot],freeCodeCamp,freeCodeCamp
-efcc7a7ad47da5ae5382a5f2b32c6ad553ffc341,fix(curriculum): add a test to Build a Flappy Penguin - step 103 (#65…,2026-01-28T22:30:04Z,1,6,pdtrang,freeCodeCamp,freeCodeCamp
-7012e8cd358b07349a0ab3a79d9bd0b0f52aa895,fix(curriculum): fix definition of custom property (#65533),2026-01-28T18:30:35Z,3,12,garyeung,freeCodeCamp,freeCodeCamp
-a86be68b2b398ac045c41ca9ca5d48717e6c7ad4,"chore(i18n,client): processed translations (#65537)",2026-01-28T18:23:25Z,10,60,camperbot,freeCodeCamp,freeCodeCamp
-f940f2beee3098f6d3493320f60b63d81ef32543,"refactor: simplify turbo config, use it for develop + build (#65526)",2026-01-28T16:08:40Z,16,141,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-7f44e718528fc016fe7d54b6901056efc422624a,chore(deps): update docker/login-action digest to c94ce9f (#65540),2026-01-28T14:07:16Z,1,2,renovate[bot],freeCodeCamp,freeCodeCamp
-14cde3cdea69a51034d727f3c078889a5e039e5c,refactor: stop curriculum tests depending on client (#65534),2026-01-28T14:05:26Z,21,240,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-004e1269064904a0595617642e80b7d111c4835f,fix(curriculum): update explanation (#65535),2026-01-28T13:31:05Z,1,2,anastasiiauk,freeCodeCamp,freeCodeCamp
-6ec8cb0140eafb7900d01b192749f2b16adad2fb,feat(curriculum): add interactive examples to javascript forms valida…,2026-01-28T09:33:53Z,1,125,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-25e5b0148a28fb8117e7a258908e78133754a1e4,feat(curriculum): add interactive examples to css colors (#65356),2026-01-28T09:33:25Z,1,67,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-c7cd6e8b322fb90f340c9d67a71c2c47095bbbe4,fix(review): add interactive examples to CSS accessibility review pag…,2026-01-28T09:31:53Z,1,82,fullstacksam23,freeCodeCamp,freeCodeCamp
