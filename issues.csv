@@ -1,9 +1,16 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X88AAAABAivXog,67129,redirect from old URL's to New URLs,CLOSED,2026-04-26T16:39:55Z,2026-04-28T08:15:10Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABA5BrkQ,67177,Wrong highlighted line in Build a Set of Colored Markers - Step 50,OPEN,2026-04-30T01:45:30Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABAyebfw,67162,"Account functionality is broken, no way to log in to forum (login prompt refuses to send)",CLOSED,2026-04-29T04:33:40Z,2026-04-30T00:38:36Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABAqgRBA,67148,Add text indicating a transcript is available,CLOSED,2026-04-27T23:46:30Z,2026-04-28T11:03:31Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABA3X5Dw,67174,Possible Editor Accessibility Opportunity,OPEN,2026-04-29T19:06:55Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABA4Q_Kw,67175,rdb local setup instructions don't say what to do to start a 2nd workshop,OPEN,2026-04-29T22:07:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87-ox8B,66952,`const location` is once again breaking everything~,OPEN,2026-04-15T22:34:12Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABA0ckdg,67166,Content access issue,OPEN,2026-04-29T11:01:43Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABAzDk0Q,67163,The problem with opening the freeCodeCamp website,CLOSED,2026-04-29T06:52:49Z,2026-04-29T13:51:35Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABAivXog,67129,redirect from old URL's to New URLs,CLOSED,2026-04-26T16:39:55Z,2026-04-28T08:15:10Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87-gC6L,66950,Registration Form - Step 44,CLOSED,2026-04-15T15:00:51Z,2026-04-28T20:14:47Z,Jeevankumar-s;katehjd21,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAtORtg,67152,"Small mistake in Daily Coding Challenge of March 21, 2026 (QR Decoder)",CLOSED,2026-04-28T10:28:19Z,2026-04-28T14:34:09Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABAqgRBA,67148,Add text indicating a transcript is available,CLOSED,2026-04-27T23:46:30Z,2026-04-28T11:03:31Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAgwFmw,67121,Mobile view issue: code blocks in MCQ questions are clipped without horizontal scroll,OPEN,2026-04-25T21:43:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAspvVw,67150,Problem with syntax highlighting in Python editor,CLOSED,2026-04-28T08:48:44Z,2026-04-28T09:15:50Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87f-RTj,64869,Break down string methods workshop and add it to main,OPEN,2025-12-23T14:57:17Z,,,freeCodeCamp,freeCodeCamp
@@ -18,13 +25,12 @@ I_kwDOAbI7X88AAAABApo9BA,67144,Red Underlines in Code Editor for Python for Non-
 I_kwDOAbI7X88AAAABAnYZjA,67139,code editor showing broken code indicators where none exist,CLOSED,2026-04-27T13:53:34Z,2026-04-27T19:05:29Z,Sembauke,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAchtVQ,67100,Full Stack - build-a-sorting-visualizer - Test 18 still failing with correct output,CLOSED,2026-04-24T18:37:25Z,2026-04-27T11:39:07Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAU55zg,67077,Responsive Web Design - Missing accesskey Attribute Concerns,CLOSED,2026-04-23T15:00:03Z,2026-04-26T23:28:31Z,AyushK5ingh;Jeevankumar-s;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87-ox8B,66952,`const location` is once again breaking everything~,OPEN,2026-04-15T22:34:12Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAPdRHw,67068,Heritage Library - Step 18 test too strict,OPEN,2026-04-22T18:49:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87N4dBX,62366,[challenge parser] enhance file validation for workshops,CLOSED,2025-09-25T15:26:00Z,2026-04-25T06:12:46Z,Harshithk951;Sembauke,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAcA3vQ,67098,fix(curriculum): update JS string quotes to double quotes in lecture-working-with-maps-and-sets,CLOSED,2026-04-24T16:44:24Z,2026-04-24T23:44:10Z,AyushK5ingh,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAbMcEg,67092,Build an SQL Reference Object: misplaced word,CLOSED,2026-04-24T14:09:39Z,2026-04-24T23:20:26Z,Gazdean;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87arohm,64175,Balance sheet workshop uses 'magic' width settings with no explanation,CLOSED,2025-11-26T19:56:12Z,2026-04-24T16:48:14Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87_ZgON,66982,"Inaccurate WeakSet example in ""What are Sets in JavaScript and how does it differ from WeakSets"" lesson",CLOSED,2026-04-17T19:30:53Z,2026-04-24T16:44:24Z,Jeevankumar-s;yoehae,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87_ZgON,66982,"Inaccurate WeakSet example in ""What are Sets in JavaScript and how does it differ from WeakSets"" lesson",CLOSED,2026-04-17T19:30:53Z,2026-04-24T16:44:24Z,Jeevankumar-s;ohchanwu,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85o9CL9,50734,GET /user/get-session-user -> /user/session-user,CLOSED,2023-06-16T15:10:57Z,2026-04-24T15:08:12Z,Sembauke,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAbaYyA,67093,Progress bar only fills up to 50% after completing a workshop,CLOSED,2026-04-24T14:50:13Z,2026-04-24T15:02:45Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X876evR1,66781,Build a Project Idea Board - Test 17,OPEN,2026-04-03T22:01:45Z,,,freeCodeCamp,freeCodeCamp
@@ -498,8 +504,3 @@ I_kwDOAbI7X87lik0X,65475,Spanish challenge - Construir un Creador de Oraciones,C
 I_kwDOAbI7X87mzkvf,65575,spaces around text in element make tests fail,CLOSED,2026-01-29T19:39:26Z,2026-01-30T08:18:43Z,YashhCanCode,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87e6ze-,64718,Migrate Range of Numbers Lab,CLOSED,2025-12-17T18:18:55Z,2026-01-30T07:46:50Z,NewSmoke38;zairahira,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ea0Xz,64628,Create a prototype for Python functions lab,CLOSED,2025-12-15T17:26:07Z,2026-01-30T07:46:27Z,Ali Farooqi;alifarooqi,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jp7-s,65228,Add interactive examples to JavaScript Higher Order Functions Review page,CLOSED,2026-01-15T22:16:46Z,2026-01-21T13:26:14Z,harshentau-spec,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87lWUiO,65461,Typo in step 19 of medical data validator workshop,CLOSED,2026-01-23T15:01:33Z,2026-01-29T17:06:59Z,NotchArrow,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87mo7Lu,65554,Daily Coding Challenge 172: Letters-Numbers - typo in Tests description,CLOSED,2026-01-29T08:36:31Z,2026-01-29T13:37:51Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87lCuES,65420,[Bug Report]: In the #41 in the Media Catalogue,CLOSED,2026-01-22T12:23:12Z,2026-01-29T13:44:52Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87mf37w,65547,A dot is missing at the end of one of the comments.,CLOSED,2026-01-28T19:51:24Z,2026-01-29T13:43:44Z,ashwin-athappan,freeCodeCamp,freeCodeCamp
