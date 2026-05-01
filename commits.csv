@@ -1,4 +1,7 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+c7072338b1f08b1ee7b4b34fd095098f14662e67,fix(settings): update margins for settings disclaimer (#67184),2026-04-30T12:10:49Z,1,34,NathanJohnstonn,freeCodeCamp,freeCodeCamp
+60e54a5e1df35475b435923be98e35346f0c0bc3,fix(client): enable horizontal scroll for MCQ code blocks on mobile (…,2026-04-30T06:27:15Z,2,12,Venkat-Entropik,freeCodeCamp,freeCodeCamp
+242c9b5fbdc9dfff53d6290064a2eee616389618,chore(curriculum): highlight background property (#67178),2026-04-30T06:10:06Z,1,3,Supravisor,freeCodeCamp,freeCodeCamp
 2b4c94745893f7764fe9c0758d50b4787801578b,"chore(i18n,learn): update i18n-curriculum submodule (#67172)",2026-04-29T18:05:01Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 a4689ba59f4add878d76285cd135b48261e4ef34,"chore(i18n,client): processed translations (#67171)",2026-04-29T18:01:00Z,10,64,camperbot,freeCodeCamp,freeCodeCamp
 b8de12556314ea63a05219c8e6af253862f52e05,chore(deps): update github actions (major) (#67170),2026-04-29T14:51:04Z,15,86,renovate[bot],freeCodeCamp,freeCodeCamp
@@ -792,37 +795,3 @@ fceaebf884d72ac4874cd255b31ee65f5762f75d,chore(api): update dependencies - patch
 0a344a0351d68c3a82feb9effae899526bc46732,feat(curriculum) : Created a count up workshop for Javascript certifi…,2026-02-01T09:25:05Z,8,242,Habeetech,freeCodeCamp,freeCodeCamp
 f197d13fc1c6c0666c1758cadedf26337a87ffae,fix: remove null/undefined check for isAuditedSuperBlock (#65624),2026-02-01T04:54:45Z,1,5,Sembauke,freeCodeCamp,freeCodeCamp
 5fa0ccfd8eece0033be6784f07900e585056847c,fix(learn): multiple portfolio issues (#65427),2026-02-01T04:53:55Z,3,176,Sembauke,freeCodeCamp,freeCodeCamp
-2b9427737fa2029d0e37d76493461d60faa5f1e9,fix(curriculum): change wording of question from HTML quiz (#65628),2026-02-01T03:40:06Z,1,2,AlexanderJGreen,freeCodeCamp,freeCodeCamp
-08a7e1781c82e616090e37e4c9eb727a75adfa4d,chore(deps): organise deps for browser-scripts (#65569),2026-01-31T18:16:07Z,8,157,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-c63b7603be3f0a217a5c8ee67b0e6cb87a24b775,fix(curriculum): correct editable regions workshop-hotel-feedback-for…,2026-01-31T18:09:28Z,15,44,hbar1st,freeCodeCamp,freeCodeCamp
-83f9040673a6d3e6e93be7a5d034820ae696c5a3,fix: remove index.md (#65615),2026-01-31T17:56:37Z,382,4590,majestic-owl448,freeCodeCamp,freeCodeCamp
-d61077530622735f564cb6fa1dcebff229644d06,fix(curriculum): correct ternary operator description (#65609),2026-01-31T17:20:36Z,1,2,abderbejaoui,freeCodeCamp,freeCodeCamp
-ea912485ee22745651d0144309de730dfbed7e06,chore(deps): update raisedadead/action-docr-cleanup digest to 1c7d873…,2026-01-31T12:36:05Z,1,2,renovate[bot],freeCodeCamp,freeCodeCamp
-12082f5547f8f8febcaabe424b5873b453554f99,fix(api): return all privacy values so client can update them (#65620),2026-01-31T12:35:41Z,6,76,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-c7a37a98d2e1ede796819431f07161ed2b09c78c,fix(curriculum): remove 'Please' from feedback text for consistency (…,2026-01-31T11:28:49Z,1,6,gbolahan507,freeCodeCamp,freeCodeCamp
-ae580f01bf57f9c979a0547af53aee02ca2a4fd9,fix(curriculum): refine editable regions in html video player (#65310),2026-01-31T10:16:14Z,13,177,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-9c979b025467e95616e16ea22d7a5b9ad371bcb9,fix(deps): update dependency @aws-sdk/client-ses to v3.975.0 (#65606),2026-01-31T03:19:59Z,2,30,renovate[bot],freeCodeCamp,freeCodeCamp
-0dc31fc1dbaaff887ac9cf654acfbc5c0a2291c9,"fix(curriculum): remove ""Please"" from Spanish to Task 1 feedback (#65…",2026-01-30T23:31:42Z,1,6,AlexanderJGreen,freeCodeCamp,freeCodeCamp
-b060f05b13695e2fe45c715d42326b4f3f504d05,feat(curriculum): EN-A2 quiz for block 11 (#65597),2026-01-30T20:13:33Z,1,325,anastasiiauk,freeCodeCamp,freeCodeCamp
-274c5290bfbeb39b3fa3328c957b432af73a8227,fix(curriculum): clarify instructions for step 44 (#65484),2026-01-30T19:39:47Z,1,10,DeveloperViraj,freeCodeCamp,freeCodeCamp
-6289e138736df5ec72ec2869cdc611b7501e6f5d,fix(curriculum): correct MP3 MIME type (#65576),2026-01-30T19:17:33Z,3,34,astrophileAqsa123,freeCodeCamp,freeCodeCamp
-c83dca7ba5327c7014dd0b214e7e956a70753159,refactor(e2e): replace archived challenge links (#65592),2026-01-30T18:56:07Z,1,48,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-014826acd41745f519af3cca730c06cfa0c25848,fix(curriculum): refine editable regions in workshop greeting card (#…,2026-01-30T18:29:38Z,27,505,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-95aa78408f0d19c3914efd75bbcdceefdcb31abb,fix(curriculum): clarify elif evaluation order (#65563),2026-01-30T18:27:39Z,3,10,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-0035e1778494419d38133f2a935a0cb0b96fe3c7,chore(curriculum/client): remove old fsd superblock (#64283),2026-01-30T17:44:41Z,510,8829,moT01,freeCodeCamp,freeCodeCamp
-92e508ad72cec20a189facb239c9be1d96f0c85e,fix: enable filtered tests/development (#65542),2026-01-30T16:46:25Z,6,22,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-cbb803d4798f235c323f89637bd16d0426dfec20,feat(curriculum): EN-A2 quiz for block 10 (#65561),2026-01-30T16:16:12Z,1,325,anastasiiauk,freeCodeCamp,freeCodeCamp
-9219b2f85c8b36268b786c734c04e2c847a66762,fix(curriculum): correct editable regions workshop-colored-markers (#…,2026-01-30T14:39:17Z,74,303,hbar1st,freeCodeCamp,freeCodeCamp
-19c77d9c160ac638e7e1b340c7dae60d2ac825fa,feat: add test experience for get user profile endpoint (#65593),2026-01-30T14:20:42Z,1,22,Sembauke,freeCodeCamp,freeCodeCamp
-d61ecc789d1dbed70c987b7cc4078b50838a5fc7,fix(tools): ignore files that should not be linted (#65594),2026-01-30T14:19:55Z,2,57,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-15f9844270f7c637316ba200a693b179508b3204,fix(curriculum): fix editable regions in workshop major browsers list…,2026-01-30T13:36:21Z,7,18,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-faba5bc7dbedefc9dd74d28e8b3d203f603d3e45,fix(curriculum): correct editable region indentation workshop-game-se…,2026-01-30T13:22:47Z,7,16,hbar1st,freeCodeCamp,freeCodeCamp
-e70c651d2c26f57b65d750384462b29bfb9e4c10,fix(curriculum): adjust editable regions in workshop-cat-photo-app (#…,2026-01-30T12:56:07Z,30,100,rosacabrerac,freeCodeCamp,freeCodeCamp
-680a8c2a474ce0b5d95eece4f627713d43f26f8d,fix(client): a11y and styling issues in challenge transcript (#65580),2026-01-30T11:28:26Z,5,122,huyenltnguyen,freeCodeCamp,freeCodeCamp
-f3d1df4ce564e274f374ae515f95c9eb69987f01,feat(curriculum): add interactive examples to css variables (#65373),2026-01-30T10:16:53Z,1,8,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-13f18b83d08966eba013fee935184a3baf67daaf,feat(curriculum): add interactive examples to css animations (#65370),2026-01-30T10:16:18Z,1,37,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-0c0c6a97bee47c2c2fa266834acbe103b68da4ee,"chore(i18n,learn): update i18n-curriculum submodule (#65582)",2026-01-30T08:39:22Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-f684537edbe81b38d4d87af7de1fb6593c731179,fix(curriculum): allow whitespace in Camper Cafe test (#65586),2026-01-30T08:18:41Z,1,2,YashhCanCode,freeCodeCamp,freeCodeCamp
-c99662fb2f3e5432f38a41cdf096a1a433f28796,feat(curriculum): add range of numbers lab to js v9 (#65061),2026-01-30T07:46:48Z,5,159,NewSmoke38,freeCodeCamp,freeCodeCamp
-0f7f816f436593747d0e58c8cc94a8da45f3f15c,feat(curriculum): adding discount calculator lab (#64991),2026-01-30T07:46:25Z,5,227,alifarooqi,freeCodeCamp,freeCodeCamp
-1cd81b347b9123a0db0934cd11856a75fb5d76b8,fix(copilot): eliminate verbose review summaries and restrict to staf…,2026-01-30T04:30:29Z,2,124,Copilot,freeCodeCamp,freeCodeCamp
