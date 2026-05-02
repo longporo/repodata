@@ -1,12 +1,18 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87xrDN_,66361,No language selector on small window of daily challenge,OPEN,2026-03-10T22:38:06Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87-BL0e,66931,js-v9 missing workshop on using try/catch/finally (and throw),OPEN,2026-04-14T11:32:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBEybjg,67200,Save Button for User Privacy Remains Enabled Even if No State Change Remains,OPEN,2026-05-01T23:28:01Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABA5W8oA,67180,Python Certification - lab-nth-fibonacci-number - misleading user story,OPEN,2026-04-30T03:27:42Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBEstNA,67199,URL Shortener test 3 fails: response.redirected not implemented in proxy fetch,OPEN,2026-05-01T22:49:10Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBAeStQ,67191,Bug in Portugeuse language,OPEN,2026-05-01T03:07:37Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X878zctJ,66891,Suggestion Feedback for Build an fCC Forum Leaderboard Lab,OPEN,2026-04-10T19:35:02Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87aPE14,64121,Workshop – Artifact Provenance Auditor,OPEN,2025-11-25T03:44:42Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X876evR1,66781,Build a Project Idea Board - Test 17,CLOSED,2026-04-03T22:01:45Z,2026-05-01T11:27:01Z,Jeevankumar-s;ragini-pandey,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABA_D7lQ,67189,"HTML Error: Javascript ""Searching and Sorting Algorithms Quiz""",CLOSED,2026-04-30T20:32:22Z,2026-05-01T06:51:08Z,rio767,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87_m741,66990,RDB-v9 Course: Start the course button location missed by many,OPEN,2026-04-18T15:18:00Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABA_D7lQ,67189,"HTML Error: Javascript ""Searching and Sorting Algorithms Quiz""",OPEN,2026-04-30T20:32:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87-ox8B,66952,`const location` is once again breaking everything~,OPEN,2026-04-15T22:34:12Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABA5W8oA,67180,Python Certification - lab-nth-fibonacci-number - misleading user story,OPEN,2026-04-30T03:27:42Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABA5sp0A,67181,Misaligned Text in Settings Page,CLOSED,2026-04-30T05:13:55Z,2026-04-30T12:10:51Z,NathanJohnstonn,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87-BL0e,66931,js-v9 missing workshop on using try/catch/finally (and throw),OPEN,2026-04-14T11:32:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABA0ckdg,67166,Content access issue,CLOSED,2026-04-29T11:01:43Z,2026-04-30T06:51:43Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAgwFmw,67121,Mobile view issue: code blocks in MCQ questions are clipped without horizontal scroll,CLOSED,2026-04-25T21:43:00Z,2026-04-30T06:27:17Z,Venkat,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABA5BrkQ,67177,Wrong highlighted line in Build a Set of Colored Markers - Step 50,CLOSED,2026-04-30T01:45:30Z,2026-04-30T06:10:08Z,Supravisor,freeCodeCamp,freeCodeCamp
@@ -40,7 +46,6 @@ I_kwDOAbI7X87arohm,64175,Balance sheet workshop uses 'magic' width settings with
 I_kwDOAbI7X87_ZgON,66982,"Inaccurate WeakSet example in ""What are Sets in JavaScript and how does it differ from WeakSets"" lesson",CLOSED,2026-04-17T19:30:53Z,2026-04-24T16:44:24Z,Jeevankumar-s;ohchanwu,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85o9CL9,50734,GET /user/get-session-user -> /user/session-user,CLOSED,2023-06-16T15:10:57Z,2026-04-24T15:08:12Z,Sembauke,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAbaYyA,67093,Progress bar only fills up to 50% after completing a workshop,CLOSED,2026-04-24T14:50:13Z,2026-04-24T15:02:45Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X876evR1,66781,Build a Project Idea Board - Test 17,OPEN,2026-04-03T22:01:45Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Qyltv,62666,Creating pull requests with AI-generated or AI-assisted code,CLOSED,2025-10-10T13:26:53Z,2026-04-24T08:57:25Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87-5X0D,66964,Duplicated entry in the timeline,CLOSED,2026-04-16T14:37:52Z,2026-04-24T08:15:19Z,AyushK5ingh,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86s68qe,59167,Customer Complaint Form - undefined edge case,CLOSED,2025-03-06T18:29:01Z,2026-04-24T08:00:17Z,aastha-mittal,freeCodeCamp,freeCodeCamp
@@ -65,7 +70,6 @@ I_kwDOAbI7X87_a55x,66983,JavaScript Certification-Build a Linked List Workshop�
 I_kwDOAbI7X87_Yy-m,66980,JavaScript Certification-Implement the Breadth-First Search Algorithm Workshop-Step 13翻译写错了,CLOSED,2026-04-17T18:51:59Z,2026-04-21T13:56:07Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87zgfgI,66515,Success message after logging out,OPEN,2026-03-16T23:47:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87-5mV5,66966,JavaScript Certification-Emoji Reactor Workshop-Step 9,CLOSED,2026-04-16T14:47:01Z,2026-04-21T08:55:40Z,AyushK5ingh,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87xrDN_,66361,No language selector on small window of daily challenge,OPEN,2026-03-10T22:38:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAF0b0Q,67037,update docker content,CLOSED,2026-04-21T07:40:36Z,2026-04-21T07:42:29Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X876CEp1,66745,missing semi-colons in seed code,OPEN,2026-04-02T14:06:10Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABACqMJA,67029,Moego,CLOSED,2026-04-20T18:15:21Z,2026-04-20T18:24:35Z,,freeCodeCamp,freeCodeCamp
@@ -74,7 +78,6 @@ I_kwDOAbI7X87aPFTT,64126,Lab – Data Sanitizer Sweep,OPEN,2025-11-25T03:46:02Z,
 I_kwDOAbI7X87Ns2u6,62351,"Make the ""Build a Magazine"" workshop HTML more semantic and update structural hierarchy ",OPEN,2025-09-24T21:42:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87-ISgL,66939,Parent Teacher Conference Form - Step 35,OPEN,2026-04-14T16:56:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X879wRxl,66922,Data Structures - Create a Doubly Linked List,CLOSED,2026-04-13T19:15:21Z,2026-04-20T08:05:56Z,AyushK5ingh,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X878zctJ,66891,Suggestion Feedback for Build an fCC Forum Leaderboard Lab,OPEN,2026-04-10T19:35:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fbU-4,64786,lab job application form user story has result not visible,OPEN,2025-12-19T18:57:44Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X878-KuI,66893,Bug: Incorrect deep object comparison in Project Idea Board test,CLOSED,2026-04-11T10:10:34Z,2026-04-20T07:20:49Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87_nbco,66991,No explanation of default behaviour if no arguments included in toFixed() method,CLOSED,2026-04-18T16:17:45Z,2026-04-20T06:45:11Z,,freeCodeCamp,freeCodeCamp
@@ -397,7 +400,6 @@ I_kwDOAbI7X87tg2Bf,66029,Quiz 'DOM Manipulation and...' quest. 15 reveals answer
 I_kwDOAbI7X87idU_p,65069,Confetti effect triggers after resuming workshop instead of completing entire workshop.,CLOSED,2026-01-10T08:32:30Z,2026-02-24T13:38:48Z,rizwan-rizu,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87squlO,65982,Curriculum tags (theory/lab/etc) aren't centered vertically,CLOSED,2026-02-20T22:25:23Z,2026-02-24T07:32:19Z,moT01,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87nQD7N,65625,Subscription banner content not properly aligned,CLOSED,2026-01-31T18:19:35Z,2026-02-24T07:25:25Z,Vic Golding;raisedadead;vicgolding,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87aPE14,64121,Workshop – Artifact Provenance Auditor,OPEN,2025-11-25T03:44:42Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPEw0,64119,Lab – Guild Loot Tracker,OPEN,2025-11-25T03:44:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87sqD0u,65981,Travel Weather Planner is missing a test for User Story #4,CLOSED,2026-02-20T21:28:23Z,2026-02-23T16:45:56Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87s5lUw,66002,Typos in text on Python Certification - Python Basics Review page,CLOSED,2026-02-22T13:22:56Z,2026-02-23T10:47:56Z,Mostafa,freeCodeCamp,freeCodeCamp
@@ -483,7 +485,3 @@ I_kwDOAbI7X87nVyBN,65630,The linter always fails on the repo root,CLOSED,2026-02
 I_kwDOAbI7X85RXI65,47464,Add Per-Module Progress Reset,OPEN,2022-09-07T18:12:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87nPTlt,65623,The word GUI in the Semantic HTML Section,CLOSED,2026-01-31T16:50:50Z,2026-02-02T07:44:58Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87mM-LE,65531,Audio Tag on Safari does not display Volume by Default,CLOSED,2026-01-27T19:44:46Z,2026-02-02T07:14:42Z,DeveloperViraj,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87nXESn,65632,wrong markdown used in lecture on specialised semantic elements,CLOSED,2026-02-01T08:45:28Z,2026-02-01T18:32:49Z,ragini-pandey,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87k7Vf2,65415,Information about Canva is outdated,CLOSED,2026-01-22T01:21:22Z,2026-02-01T09:26:32Z,Rushitha-Reddy-0202,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87e6xU8,64716,Create Count up Workshop,CLOSED,2025-12-17T18:16:08Z,2026-02-01T09:25:06Z,Habeetech;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87nLikp,65614,Wrong Question in quiz (How Do You Display Mathematical Equations and Chemical Formulas in HTML?),CLOSED,2026-01-31T06:26:33Z,2026-02-01T03:40:07Z,AlexanderJGreen,freeCodeCamp,freeCodeCamp
