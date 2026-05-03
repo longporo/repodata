@@ -1,4 +1,7 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+482de9f187c8f3c126a62a6996b9e582ae195ec7,feat(ui): view challenge source link (#66305),2026-05-02T15:28:18Z,12,106,a2937,freeCodeCamp,freeCodeCamp
+791fdec3285b0025c7fa32c4f6830eeb35b3f8af,chore(deps): update dependency msw to v2.13.6 (#67183),2026-05-02T07:01:06Z,1,116,renovate[bot],freeCodeCamp,freeCodeCamp
+636390f6f28a932b9cb0b88d473ddc359b46a8d3,fix(deps): update dependency typebox to v1.1.33 (#67186),2026-05-02T07:00:50Z,2,21,renovate[bot],freeCodeCamp,freeCodeCamp
 d375f258a92d1cde493b6d289a08c651d9aa5f6e,fix(curriculum): add missing inputType to zh-a1 task-17 (#67198),2026-05-01T23:04:07Z,1,1,majestic-owl448,freeCodeCamp,freeCodeCamp
 d4a091651b36fec118e84875f60acfca86b6404c,fix(curriculum): simplify empty board formatToString test in lab-proj…,2026-05-01T11:27:00Z,1,13,ragini-pandey,freeCodeCamp,freeCodeCamp
 bb92cb4f2de5cf26e97b34a62fcf4001d8985485,fix(curriculum): update searching sorting quiz block config (#67193),2026-05-01T06:51:06Z,1,4,rio767,freeCodeCamp,freeCodeCamp
@@ -778,16 +781,3 @@ cab27b30253ab6c3da41bf006774d308276431ec,chore(deps): update dependency @types/n
 348da19631098f0e56bc938efbd00748befe5eaf,feat(curriculum): add interactive examples to css positioning (#65407),2026-02-03T07:53:36Z,1,122,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 cd4d5d3ba02c3f6071f3c560a98d638ea03635b6,chore(deps): upgrade @freeCodeCamp/ui to 5.1.1 (#65667),2026-02-03T06:12:26Z,2,61,huyenltnguyen,freeCodeCamp,freeCodeCamp
 71956ec32b9516f9645b946a5d32f2bacaa25ad8,chore(deps): upgrade validator to v13.15.26 (#65671),2026-02-03T04:23:57Z,2,14,huyenltnguyen,freeCodeCamp,freeCodeCamp
-6a348335eeb437ec25d46980ce9085a17b98a5f0,fix: supply env vars when building (#65669),2026-02-03T01:46:39Z,1,21,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-e149e0385da943d30f38b1df3bc8d4ae66676014,feat(curriculum): add A1 Spanish Chp4 md3 audios (#65629),2026-02-02T18:59:18Z,1,32,RafaelDavisH,freeCodeCamp,freeCodeCamp
-fd5b3d53d10d3e9ede13ced21806803ba10de064,fix(ui): display username validation (#65662),2026-02-02T16:21:11Z,1,2,a2937,freeCodeCamp,freeCodeCamp
-9a7514d9a0a533f88407d0c29eb5b5abf0bbe440,fix(curriculum): use &mdash; consistently in workshop-quincys-job-tip…,2026-02-02T16:17:26Z,4,12,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-23b62d6f326e67b8ae32f7061dbf6c2b6cb37cfb,"chore(i18n,learn): update i18n-curriculum submodule (#65663)",2026-02-02T16:16:12Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-ab323914b028ae7844c43a7a0b624139c3d05d88,refactor: use eslint directly in lint-staged (#65660),2026-02-02T15:06:28Z,1,5,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-00d84fece9a033994552b0dd1ec7867e9849a64a,fix(learn): restore file that should not have been deleted (#65655),2026-02-02T13:31:35Z,1,9,majestic-owl448,freeCodeCamp,freeCodeCamp
-632440d28d20d2f4720a278fb9eb733e4cf718d4,feat: change blockType to blockLabel in external curriculum data (#65…,2026-02-02T13:27:07Z,2,9,Sembauke,freeCodeCamp,freeCodeCamp
-f1a8fe12bc7fd79687428c710fa93b2eada84cba,fix(curriculum): correct typo in depth first search lesson (#65649),2026-02-02T12:35:36Z,1,2,Shashikant2005,freeCodeCamp,freeCodeCamp
-904dd9b871b3992248d978704f74b82365ea0ddd,fix: ignore generated test files (#65656),2026-02-02T12:08:35Z,1,33,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-0dc6f39584bf7af8ac711460848f215ca9a0dccd,feat(curriculum): add lessons on graphs and trees in JS (#65617),2026-02-02T09:41:06Z,8,1441,majestic-owl448,freeCodeCamp,freeCodeCamp
-5da8fdea0ffd42b0c3906cdd1aa38ae2ea858c26,fix(curriculum): note Safari audio volume behavior (#65543),2026-02-02T07:14:41Z,1,4,DeveloperViraj,freeCodeCamp,freeCodeCamp
-4f29ac70ac73917d438e5fa83fb09231f86025a7,chore: update turbo repo (#65645),2026-02-02T06:27:16Z,5,72,raisedadead,freeCodeCamp,freeCodeCamp
