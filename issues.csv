@@ -1,15 +1,19 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87pmJp-,65797,Translatable tokens in language files,OPEN,2026-02-10T02:25:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBKnNMA,67222,Bug in Portugeuse language,OPEN,2026-05-03T22:51:57Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBJht7w,67218,Video no longer availabe for German language course,OPEN,2026-05-03T14:33:18Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBEstNA,67199,URL Shortener test 3 fails: response.redirected not implemented in proxy fetch,CLOSED,2026-05-01T22:49:10Z,2026-05-03T20:43:54Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBJmPoA,67219,css lecture that teaches hsl uses legacy syntax,OPEN,2026-05-03T15:05:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87-ISgL,66939,Parent Teacher Conference Form - Step 35,OPEN,2026-04-14T16:56:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBG4Dvg,67209,"Unclear instructions in basic-css challenge ""Change a variable for a specific area""",CLOSED,2026-05-02T15:20:47Z,2026-05-02T15:52:29Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBG1l5A,67208,Campfire Mode Not Working,OPEN,2026-05-02T15:04:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87wf-Qx,66275,Add link/reference to markdown file for challenges/workshops,CLOSED,2026-03-06T15:54:12Z,2026-05-02T15:28:20Z,a2937;ahmaxed;raisedadead,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87-ISgL,66939,Parent Teacher Conference Form - Step 35,OPEN,2026-04-14T16:56:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABA5W8oA,67180,Python Certification - lab-nth-fibonacci-number - misleading user story,OPEN,2026-04-30T03:27:42Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBF6ljg,67203,Exam generation can drop question sets during tag selection,CLOSED,2026-05-02T07:09:43Z,2026-05-02T07:24:32Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBF3vng,67202,s,CLOSED,2026-05-02T06:48:32Z,2026-05-02T06:48:37Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAPdRHw,67068,Heritage Library - Step 18 test too strict,OPEN,2026-04-22T18:49:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBEybjg,67200,Save Button for User Privacy Remains Enabled Even if No State Change Remains,OPEN,2026-05-01T23:28:01Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABBEstNA,67199,URL Shortener test 3 fails: response.redirected not implemented in proxy fetch,OPEN,2026-05-01T22:49:10Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87xrDN_,66361,No language selector on small window of daily challenge,OPEN,2026-03-10T22:38:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87-BL0e,66931,js-v9 missing workshop on using try/catch/finally (and throw),OPEN,2026-04-14T11:32:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBAeStQ,67191,Bug in Portugeuse language,OPEN,2026-05-01T03:07:37Z,,,freeCodeCamp,freeCodeCamp
@@ -88,7 +92,6 @@ I_kwDOAbI7X878-KuI,66893,Bug: Incorrect deep object comparison in Project Idea B
 I_kwDOAbI7X87_nbco,66991,No explanation of default behaviour if no arguments included in toFixed() method,CLOSED,2026-04-18T16:17:45Z,2026-04-20T06:45:11Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87_2HMy,67013,Improve wording in localStorage `getItem()` explanation,CLOSED,2026-04-20T00:03:16Z,2026-04-20T06:43:38Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87_sctR,67001,"Bug: Step 35 ""Set the border property to none"" not passing",CLOSED,2026-04-19T03:41:43Z,2026-04-19T04:04:26Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87pmJp-,65797,Translatable tokens in language files,OPEN,2026-02-10T02:25:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864sFrV,60576,first challenge of backend and api microservices does not give enough infos,CLOSED,2025-05-28T21:09:54Z,2026-04-18T20:01:33Z,ARUSHIGULBHILE;Your Actual Name;huyenltnguyen;majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87muU8F,65562,Python Basics theory missing how to run your code,OPEN,2026-01-29T14:09:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X878bfin,66883,Python Certification Projects Not Marked Complete,CLOSED,2026-04-09T21:41:51Z,2026-04-17T14:41:58Z,,freeCodeCamp,freeCodeCamp
@@ -476,7 +479,3 @@ I_kwDOAbI7X87oeyS9,65714,missing period,CLOSED,2026-02-05T08:43:26Z,2026-02-05T2
 I_kwDOAbI7X87oG3Lv,65690,RWD What are attributes? lesson,CLOSED,2026-02-04T01:54:52Z,2026-02-05T07:52:19Z,TheGreatAdil,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87oLuwr,65696,some superblocks still not available in challenge-editor,CLOSED,2026-02-04T08:51:07Z,2026-02-04T09:59:20Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87n27Ab,65677,hotel feedback form missing `value` on radio buttons,CLOSED,2026-02-03T08:31:27Z,2026-02-04T08:38:44Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87oDPVo,65688,"python certification, build a pin extractor",CLOSED,2026-02-03T20:49:53Z,2026-02-03T21:58:25Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87nntS_,65658,Clarify Linux terminal examples (GNOME Terminal / Konsole) for beginners,CLOSED,2026-02-02T13:30:13Z,2026-02-03T06:56:54Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jpDNc,65203,Add interactive examples for CSS layouts and effects review page,CLOSED,2026-01-15T21:14:56Z,2026-02-03T08:23:49Z,Jeevankumar-S;zairahira,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jpNPq,65207,Add interactive examples to CSS Positioning Review page,CLOSED,2026-01-15T21:25:47Z,2026-02-03T07:53:38Z,Jeevankumar-S,freeCodeCamp,freeCodeCamp
