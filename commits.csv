@@ -1,4 +1,7 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+23242f3eca15049c7a6777bfbbf14c130babfefa,fix(settings): make certification tables full width (#67185),2026-05-03T21:14:26Z,1,5,Sembauke,freeCodeCamp,freeCodeCamp
+31b8b3fad6777a36e358dff7eb33e5b8b705a2e8,chore(deps): update dependency i18next-fs-backend to v2.6.5 (#67205),2026-05-03T04:57:41Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
+2c0dd791a4badea9f655f51715fdaf788ad84d0c,chore(deps): update github actions (#67206),2026-05-03T04:44:43Z,9,44,renovate[bot],freeCodeCamp,freeCodeCamp
 482de9f187c8f3c126a62a6996b9e582ae195ec7,feat(ui): view challenge source link (#66305),2026-05-02T15:28:18Z,12,106,a2937,freeCodeCamp,freeCodeCamp
 791fdec3285b0025c7fa32c4f6830eeb35b3f8af,chore(deps): update dependency msw to v2.13.6 (#67183),2026-05-02T07:01:06Z,1,116,renovate[bot],freeCodeCamp,freeCodeCamp
 636390f6f28a932b9cb0b88d473ddc359b46a8d3,fix(deps): update dependency typebox to v1.1.33 (#67186),2026-05-02T07:00:50Z,2,21,renovate[bot],freeCodeCamp,freeCodeCamp
@@ -770,14 +773,3 @@ e774e83b38eae72045bc927b96b846b23924cee2,fix(client): remove restructure note (#
 e457f00b13063a48acf811bca64bd6a9918d5ac4,fix(client): remove beta from certifications label (#65694),2026-02-04T08:49:36Z,1,2,ahmaxed,freeCodeCamp,freeCodeCamp
 91b9c93c238ca252f020f447face1d887351b82e,fix(curriculum): add value attribute instruction for hotel feedback r…,2026-02-04T08:38:41Z,18,92,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 632289c7f0ac1c2876cec3bcb89c57cc522237d4,fix(turbo): try remote caching (#65692),2026-02-04T07:47:02Z,6,132,raisedadead,freeCodeCamp,freeCodeCamp
-72b22ae2bce4cbabaced2f1444b720300b1f6354,chore(deps): update actions/checkout digest to de0fac2 (#65685),2026-02-04T03:32:36Z,7,28,renovate[bot],freeCodeCamp,freeCodeCamp
-77cd933939cb9b084e8c4ac3d6cfc0df1e6196c3,test: check nothing unexpected appears in python terminal (#65572),2026-02-03T16:14:07Z,2,46,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-db604bece73aceb37d3022edbc7c4e0018f92eef,chore(deps): update challenge-editor (#65680),2026-02-03T13:49:52Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-48138e98df36ff4c87f22f83235c9128426d21d5,refactor: delete external curriculum v1 (#65650),2026-02-03T11:35:16Z,5,440,Sembauke,freeCodeCamp,freeCodeCamp
-cab27b30253ab6c3da41bf006774d308276431ec,chore(deps): update dependency @types/nodemailer to v6.4.22 (#65676),2026-02-03T09:06:06Z,2,27,renovate[bot],freeCodeCamp,freeCodeCamp
-77035792bd88b362b8c00ead653817db3cd3eda5,fix(curriculum): refine editable regions in workshop parent teacher c…,2026-02-03T08:44:27Z,34,107,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-800c289b81d38c367e4fdc7bb6ab882814afcaa8,feat(curriculum): add interactive examples to css layout and effects …,2026-02-03T08:23:47Z,1,197,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-9eb0994099c0a3bc49c2c76e16df013e412a1d95,feat(curriculum): EN-A2 quiz for block 12 (#65654),2026-02-03T08:20:57Z,1,325,anastasiiauk,freeCodeCamp,freeCodeCamp
-348da19631098f0e56bc938efbd00748befe5eaf,feat(curriculum): add interactive examples to css positioning (#65407),2026-02-03T07:53:36Z,1,122,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-cd4d5d3ba02c3f6071f3c560a98d638ea03635b6,chore(deps): upgrade @freeCodeCamp/ui to 5.1.1 (#65667),2026-02-03T06:12:26Z,2,61,huyenltnguyen,freeCodeCamp,freeCodeCamp
-71956ec32b9516f9645b946a5d32f2bacaa25ad8,chore(deps): upgrade validator to v13.15.26 (#65671),2026-02-03T04:23:57Z,2,14,huyenltnguyen,freeCodeCamp,freeCodeCamp
