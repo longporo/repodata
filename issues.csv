@@ -1,24 +1,27 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X88AAAABBN6R7g,67225,"Bug - Build a Heritage Library Catalog, Step 28",OPEN,2026-05-04T12:43:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87pmJp-,65797,Translatable tokens in language files,OPEN,2026-02-10T02:25:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABBKnNMA,67222,Bug in Portugeuse language,OPEN,2026-05-03T22:51:57Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABBJht7w,67218,Video no longer availabe for German language course,OPEN,2026-05-03T14:33:18Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABBEstNA,67199,URL Shortener test 3 fails: response.redirected not implemented in proxy fetch,CLOSED,2026-05-01T22:49:10Z,2026-05-03T20:43:54Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABBJmPoA,67219,css lecture that teaches hsl uses legacy syntax,OPEN,2026-05-03T15:05:50Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87-ISgL,66939,Parent Teacher Conference Form - Step 35,OPEN,2026-04-14T16:56:34Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABBG4Dvg,67209,"Unclear instructions in basic-css challenge ""Change a variable for a specific area""",CLOSED,2026-05-02T15:20:47Z,2026-05-02T15:52:29Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBKnNMA,67222,Bug in Portugeuse language,CLOSED,2026-05-03T22:51:57Z,2026-05-04T20:10:05Z,camperbot,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBG1l5A,67208,Campfire Mode Not Working,OPEN,2026-05-02T15:04:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87aPE14,64121,Workshop – Artifact Provenance Auditor,OPEN,2025-11-25T03:44:42Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBNoSqQ,67224,Workshop - CSS - Design a Parent Teacher Conference Form - Step 35 - Test not working,CLOSED,2026-05-04T11:59:40Z,2026-05-04T12:40:50Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABAPdRHw,67068,Heritage Library - Step 18 test too strict,CLOSED,2026-04-22T18:49:59Z,2026-05-04T11:24:38Z,caiolucasbittencourt;huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBJmPoA,67219,css lecture that teaches hsl uses legacy syntax,OPEN,2026-05-03T15:05:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABA5W8oA,67180,Python Certification - lab-nth-fibonacci-number - misleading user story,CLOSED,2026-04-30T03:27:42Z,2026-05-04T07:46:35Z,bdtripp;huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87-ISgL,66939,Parent Teacher Conference Form - Step 35,CLOSED,2026-04-14T16:56:34Z,2026-05-04T07:40:26Z,AyushK5ingh,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87xrDN_,66361,No language selector on small window of daily challenge,OPEN,2026-03-10T22:38:06Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBEybjg,67200,Save Button for User Privacy Remains Enabled Even if No State Change Remains,OPEN,2026-05-01T23:28:01Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABA3X5Dw,67174,Possible Editor Accessibility Opportunity,OPEN,2026-04-29T19:06:55Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBAeStQ,67191,Bug in Portugeuse language,CLOSED,2026-05-01T03:07:37Z,2026-05-04T06:33:41Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBJht7w,67218,Video no longer availabe for German language course,CLOSED,2026-05-03T14:33:18Z,2026-05-04T06:33:26Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBEstNA,67199,URL Shortener test 3 fails: response.redirected not implemented in proxy fetch,CLOSED,2026-05-01T22:49:10Z,2026-05-03T20:43:54Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBG4Dvg,67209,"Unclear instructions in basic-css challenge ""Change a variable for a specific area""",CLOSED,2026-05-02T15:20:47Z,2026-05-02T15:52:29Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87wf-Qx,66275,Add link/reference to markdown file for challenges/workshops,CLOSED,2026-03-06T15:54:12Z,2026-05-02T15:28:20Z,a2937;ahmaxed;raisedadead,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABA5W8oA,67180,Python Certification - lab-nth-fibonacci-number - misleading user story,OPEN,2026-04-30T03:27:42Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBF6ljg,67203,Exam generation can drop question sets during tag selection,CLOSED,2026-05-02T07:09:43Z,2026-05-02T07:24:32Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBF3vng,67202,s,CLOSED,2026-05-02T06:48:32Z,2026-05-02T06:48:37Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABAPdRHw,67068,Heritage Library - Step 18 test too strict,OPEN,2026-04-22T18:49:59Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABBEybjg,67200,Save Button for User Privacy Remains Enabled Even if No State Change Remains,OPEN,2026-05-01T23:28:01Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87xrDN_,66361,No language selector on small window of daily challenge,OPEN,2026-03-10T22:38:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87-BL0e,66931,js-v9 missing workshop on using try/catch/finally (and throw),OPEN,2026-04-14T11:32:08Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABBAeStQ,67191,Bug in Portugeuse language,OPEN,2026-05-01T03:07:37Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X878zctJ,66891,Suggestion Feedback for Build an fCC Forum Leaderboard Lab,OPEN,2026-04-10T19:35:02Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87aPE14,64121,Workshop – Artifact Provenance Auditor,OPEN,2025-11-25T03:44:42Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X876evR1,66781,Build a Project Idea Board - Test 17,CLOSED,2026-04-03T22:01:45Z,2026-05-01T11:27:01Z,Jeevankumar-s;ragini-pandey,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABA_D7lQ,67189,"HTML Error: Javascript ""Searching and Sorting Algorithms Quiz""",CLOSED,2026-04-30T20:32:22Z,2026-05-01T06:51:08Z,rio767,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87_m741,66990,RDB-v9 Course: Start the course button location missed by many,OPEN,2026-04-18T15:18:00Z,,,freeCodeCamp,freeCodeCamp
@@ -30,7 +33,6 @@ I_kwDOAbI7X88AAAABA5BrkQ,67177,Wrong highlighted line in Build a Set of Colored 
 I_kwDOAbI7X88AAAABA5tjnA,67182,A blue line in the course in js,CLOSED,2026-04-30T05:17:48Z,2026-04-30T05:56:05Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAyebfw,67162,"Account functionality is broken, no way to log in to forum (login prompt refuses to send)",CLOSED,2026-04-29T04:33:40Z,2026-04-30T00:38:36Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAqgRBA,67148,Add text indicating a transcript is available,CLOSED,2026-04-27T23:46:30Z,2026-04-28T11:03:31Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABA3X5Dw,67174,Possible Editor Accessibility Opportunity,OPEN,2026-04-29T19:06:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABA4Q_Kw,67175,rdb local setup instructions don't say what to do to start a 2nd workshop,OPEN,2026-04-29T22:07:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAzDk0Q,67163,The problem with opening the freeCodeCamp website,CLOSED,2026-04-29T06:52:49Z,2026-04-29T13:51:35Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAivXog,67129,redirect from old URL's to New URLs,CLOSED,2026-04-26T16:39:55Z,2026-04-28T08:15:10Z,,freeCodeCamp,freeCodeCamp
@@ -477,5 +479,3 @@ I_kwDOAbI7X87o4fyV,65738,superhero application form step 3 duplicate test,CLOSED
 I_kwDOAbI7X87eazrb,64626,Create a prototype for Python Booleans and Conditionals Lab,CLOSED,2025-12-15T17:13:22Z,2026-02-06T11:04:02Z,Dafterfly;Dario-DC,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87oeyS9,65714,missing period,CLOSED,2026-02-05T08:43:26Z,2026-02-05T20:35:32Z,jeeva-004,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87oG3Lv,65690,RWD What are attributes? lesson,CLOSED,2026-02-04T01:54:52Z,2026-02-05T07:52:19Z,TheGreatAdil,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87oLuwr,65696,some superblocks still not available in challenge-editor,CLOSED,2026-02-04T08:51:07Z,2026-02-04T09:59:20Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87n27Ab,65677,hotel feedback form missing `value` on radio buttons,CLOSED,2026-02-03T08:31:27Z,2026-02-04T08:38:44Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
