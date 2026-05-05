@@ -1,4 +1,12 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+6c9b077ff87e12a627057321b247273e348b6765,fix(curriculum): add missing word to dialogue transcript (#67233),2026-05-05T01:29:59Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+a03512c88359d462aa1e690b66cc59fd56e2516d,"chore(i18n,client): processed translations (#67226)",2026-05-05T01:25:37Z,10,40,camperbot,freeCodeCamp,freeCodeCamp
+8308900f6f6be6303ba94a92d8d748eaf6cf6086,"chore(i18n,learn): update i18n-curriculum submodule (#67228)",2026-05-04T20:10:03Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+91360cc4cefce09556d94385a71f600f1d1a911a,chore(deps): update dependency caniuse-lite to v1.0.30001791 (#67216),2026-05-04T14:06:26Z,2,16,renovate[bot],freeCodeCamp,freeCodeCamp
+f6488622c2dc4a069837d099a52d9341a7890c73,fix(deps): update dependency ajv to v8.20.0 (#67215),2026-05-04T14:06:21Z,2,42,renovate[bot],freeCodeCamp,freeCodeCamp
+10b8256ec0277cda85b989c42a8d44a56bdd7afc,fix(curriculum): relax step 18 unknown key checks (#67130),2026-05-04T11:24:37Z,1,17,caiolucasbittencourt,freeCodeCamp,freeCodeCamp
+0e2af859d01874a05728a63c47a7d8b9e9c6bf24,fix(curriculum): clarify Fibonacci user story to use 0-indexed sequen…,2026-05-04T07:46:33Z,2,8,bdtripp,freeCodeCamp,freeCodeCamp
+ccc32e1f5926d37eed8d0af5d09c9f7fb808825a,fix(curriculum): repair failing border test in form step 35 (#67044),2026-05-04T07:40:24Z,1,2,AyushK5ingh,freeCodeCamp,freeCodeCamp
 23242f3eca15049c7a6777bfbbf14c130babfefa,fix(settings): make certification tables full width (#67185),2026-05-03T21:14:26Z,1,5,Sembauke,freeCodeCamp,freeCodeCamp
 31b8b3fad6777a36e358dff7eb33e5b8b705a2e8,chore(deps): update dependency i18next-fs-backend to v2.6.5 (#67205),2026-05-03T04:57:41Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
 2c0dd791a4badea9f655f51715fdaf788ad84d0c,chore(deps): update github actions (#67206),2026-05-03T04:44:43Z,9,44,renovate[bot],freeCodeCamp,freeCodeCamp
@@ -760,16 +768,3 @@ e65a656ebb12da3bce0972fcf2619e95c372488e,fix(curriculum): remove seed code and f
 4d8a6e2608dc927495e35b620b6c000555db8def,"fix(curriculum): fixed grammar by changing ""remove"" to ""removing"" in …",2026-02-05T07:52:17Z,1,2,TheGreatAdil,freeCodeCamp,freeCodeCamp
 b383a90a95d234660033b51db36e06f92142de7f,feat(curriculum): EN-A2 quiz for block 15 (#65703),2026-02-05T07:34:54Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
 ff2983822b01a9e90d48f06b4aee9e25a10f9146,feat(curriculum): EN-A2 quiz for block 14 (#65681),2026-02-05T07:30:40Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
-7cfc8bafe70031480835317564fe692fffe9fb8a,"chore(i18n,learn): update i18n-curriculum submodule (#65706)",2026-02-04T22:37:15Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-c4f88f6705fb3eec00971f6205c28403a02c08e0,"Revert ""chore(deps): remove eslint-plugin-flowtype (#65670)"" (#65707)",2026-02-04T19:24:06Z,2,55,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-2c98ffd3b3bd7da2b980c41b840794cabc2b20df,feat(curriculum): daily challenges 180-196 (#65687),2026-02-04T15:16:26Z,37,5027,moT01,freeCodeCamp,freeCodeCamp
-f176afee3438a8528136492846363a9be1cdd95c,"chore(i18n,client): processed translations (#65657)",2026-02-04T13:46:18Z,20,33784,camperbot,freeCodeCamp,freeCodeCamp
-56683d9a3698e089f3bfac0c0f4964fb63519a83,chore(deps): remove eslint-plugin-flowtype (#65670),2026-02-04T12:20:36Z,2,55,huyenltnguyen,freeCodeCamp,freeCodeCamp
-20e48dd846a69f5a8be3fc49f02862b8bfad7131,"refactor: lint challenges as part of curriculum, not root (#65665)",2026-02-04T10:42:21Z,30,458,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-5fa67063f510e1a0b17891c373007aa45bea0f20,fix(api): update attempt with created moderation record (#64812),2026-02-04T10:19:28Z,1,13,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-455813545a189d841d3484ab62e292d410627206,chore(tools): update challenge-editor (#65701),2026-02-04T09:59:18Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-06f9ffdc273cdc25ffce0d80d185932549d4d692,fix: cache locales (#65698),2026-02-04T09:30:14Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-e774e83b38eae72045bc927b96b846b23924cee2,fix(client): remove restructure note (#65695),2026-02-04T09:29:25Z,2,4,ahmaxed,freeCodeCamp,freeCodeCamp
-e457f00b13063a48acf811bca64bd6a9918d5ac4,fix(client): remove beta from certifications label (#65694),2026-02-04T08:49:36Z,1,2,ahmaxed,freeCodeCamp,freeCodeCamp
-91b9c93c238ca252f020f447face1d887351b82e,fix(curriculum): add value attribute instruction for hotel feedback r…,2026-02-04T08:38:41Z,18,92,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-632289c7f0ac1c2876cec3bcb89c57cc522237d4,fix(turbo): try remote caching (#65692),2026-02-04T07:47:02Z,6,132,raisedadead,freeCodeCamp,freeCodeCamp
