@@ -1,4 +1,10 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+2250819ab1a8d81a24f0066096fba5055505f306,chore(deps): update dependency tsdown to v0.21.10 (#67176),2026-05-05T15:09:25Z,1,201,renovate[bot],freeCodeCamp,freeCodeCamp
+6a857ba547c0fed969f53c304fbe2b793f7f36de,fix(client): handle MCQ options overflow (#67187),2026-05-05T15:09:05Z,1,1,huyenltnguyen,freeCodeCamp,freeCodeCamp
+1ab0425cf919129a7606428f67c758679a0c1832,chore(deps): update pnpm/action-setup digest to 8912a91 (#67231),2026-05-05T15:01:02Z,6,22,renovate[bot],freeCodeCamp,freeCodeCamp
+3d60ec7e03e62d9d7456313865887dba2407cdec,chore(deps): update dependency typescript-eslint to v8.59.1 (#67232),2026-05-05T15:00:50Z,1,154,renovate[bot],freeCodeCamp,freeCodeCamp
+887adac8c8709565ff2e8accb478a5426704493a,fix: replace broken tone version (#67234),2026-05-05T15:00:38Z,2,26,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+07139410364ca20949001cfbd6b7faddb373f459,feat(curriculum): add football player card tsx project (#67076),2026-05-05T12:56:45Z,74,39113,Ksound22,freeCodeCamp,freeCodeCamp
 6c9b077ff87e12a627057321b247273e348b6765,fix(curriculum): add missing word to dialogue transcript (#67233),2026-05-05T01:29:59Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 a03512c88359d462aa1e690b66cc59fd56e2516d,"chore(i18n,client): processed translations (#67226)",2026-05-05T01:25:37Z,10,40,camperbot,freeCodeCamp,freeCodeCamp
 8308900f6f6be6303ba94a92d8d748eaf6cf6086,"chore(i18n,learn): update i18n-curriculum submodule (#67228)",2026-05-04T20:10:03Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
@@ -757,14 +763,3 @@ ae50644091495991e410c203f76476fcd0d37741,refactor(tooling): add turbo eslint plu
 f054de20fde156c08114472a2ca0ed30cccb3c60,feat(curriculum): add python conditionals lab (#65700),2026-02-06T11:04:00Z,4,670,Dario-DC,freeCodeCamp,freeCodeCamp
 ebda6dcefdb25f199c623988374917a3ee2e6605,"Revert ""chore(ci): upload turbo summaries (#65715)"" (#65731)",2026-02-06T09:18:54Z,2,30,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 727a3122296d504fa1e3d383891bc998304813b5,fix(curriculum): adjust editable regions in workshop-registration-for…,2026-02-06T09:07:10Z,61,3859,kiruthikadev-r,freeCodeCamp,freeCodeCamp
-ff162dce2e3ecc8dd77810c9b6bb2cf53086610e,chore(ci): upload turbo summaries (#65715),2026-02-05T20:49:13Z,2,30,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-d83de6b5b443d68228c851151bbc14f5fd106c88,fix(curriculum): add missing periods in variables lecture (#65719),2026-02-05T20:35:29Z,1,6,jeeva-004,freeCodeCamp,freeCodeCamp
-ea35e40d5aafe34404248f9b21fcd8a580e82d6f,feat(curriculum): EN-A2 quiz for block 17 (#65705),2026-02-05T11:58:35Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
-d232abea2e0a006278fb05770c7103ec560e4976,feat(curriculum): EN-A2 quiz for block 13 (#65678),2026-02-05T11:50:12Z,1,325,anastasiiauk,freeCodeCamp,freeCodeCamp
-eea0620a87d3c6b91c8cbca543349ecfffe0ab54,feat(curriculum): EN-A2 quiz for block 16 (#65704),2026-02-05T11:47:51Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
-fc3b88e4f2a62294df427bed844995370349a459,chore(deps): update actions/cache action to v5.0.3 (#65720),2026-02-05T11:43:07Z,1,2,renovate[bot],freeCodeCamp,freeCodeCamp
-5d8418c8a9de7ad1aef78263d4dec7485f513ea9,feat(curriculum): EN-A2 quiz for block 18 (#65718),2026-02-05T11:38:32Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
-e65a656ebb12da3bce0972fcf2619e95c372488e,fix(curriculum): remove seed code and format nested list in React lab…,2026-02-05T07:55:14Z,1,8,Dario-DC,freeCodeCamp,freeCodeCamp
-4d8a6e2608dc927495e35b620b6c000555db8def,"fix(curriculum): fixed grammar by changing ""remove"" to ""removing"" in …",2026-02-05T07:52:17Z,1,2,TheGreatAdil,freeCodeCamp,freeCodeCamp
-b383a90a95d234660033b51db36e06f92142de7f,feat(curriculum): EN-A2 quiz for block 15 (#65703),2026-02-05T07:34:54Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
-ff2983822b01a9e90d48f06b4aee9e25a10f9146,feat(curriculum): EN-A2 quiz for block 14 (#65681),2026-02-05T07:30:40Z,1,105,anastasiiauk,freeCodeCamp,freeCodeCamp
