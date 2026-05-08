@@ -1,4 +1,6 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+09fff8f201859c689d989e9dae925ead2d3198fa,chore(deps): update actions/labeler digest to f27b608 (#67252),2026-05-07T06:12:12Z,1,2,renovate[bot],freeCodeCamp,freeCodeCamp
+df2f6f75663f83952f6ea3f4341724c17820957f,feat(curriculum): add images to css fonts lectures (#67188),2026-05-07T05:47:39Z,5,151,majestic-owl448,freeCodeCamp,freeCodeCamp
 24e5e9dd4d039faf0086c30a1c28f6dba6f46ec5,fix(curriculum): correct GitHub casing (#67262),2026-05-06T19:00:09Z,1,2,Agent-A345,freeCodeCamp,freeCodeCamp
 77ce853805b22c56a3c67a55c54591bd612a15d9,"chore(i18n,learn): update i18n-curriculum submodule (#67260)",2026-05-06T18:53:21Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 6fbc93431d9c7fe886d38b9e6ba719c0730fb59f,fix(curriculum): move d3 under ts module (#67251),2026-05-06T18:51:26Z,2,60,Ksound22,freeCodeCamp,freeCodeCamp
