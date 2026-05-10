@@ -1,7 +1,13 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBwW1bA,67300,"Incorrect statement about DOM nodes in the “What Is the DOM, and How Do You Access Elements?” lesson",OPEN,2026-05-09T14:25:42Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBxYRpw,67306,Awkward phrasing 'The below' should be 'The following' in array data structure lesson,CLOSED,2026-05-09T21:14:34Z,2026-05-09T22:59:48Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBu_1bw,67296,Need improvement in accessibility,OPEN,2026-05-09T05:46:19Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBwTz9A,67299,feat: add Pomodoro study timer to the learn page,OPEN,2026-05-09T14:05:28Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBwftHw,67301,Wrong file name in Understanding HTML Attributes,CLOSED,2026-05-09T15:20:37Z,2026-05-09T15:27:19Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBl0avg,67274,Calorie Counter Step 47 rejects valid multiline template literal,CLOSED,2026-05-07T20:22:09Z,2026-05-09T14:41:28Z,deepak-s-git,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBN6R7g,67225,"Bug - Build a Heritage Library Catalog, Step 28",OPEN,2026-05-04T12:43:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBmc1jw,67276,Check code button text mismatch,CLOSED,2026-05-07T22:25:57Z,2026-05-08T22:08:00Z,codes-stories,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABBl0avg,67274,Calorie Counter Step 47 rejects valid multiline template literal,OPEN,2026-05-07T20:22:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87muU8F,65562,Python Basics theory missing how to run your code,OPEN,2026-01-29T14:09:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Qyltv,62666,Creating pull requests with AI-generated or AI-assisted code,OPEN,2025-10-10T13:26:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861cUE_,60201,Update react fundamentals and chapter review pages for import/export udpates,CLOSED,2025-05-06T21:48:42Z,2026-05-08T04:05:21Z,azad12614,freeCodeCamp,freeCodeCamp
@@ -24,7 +30,6 @@ I_kwDOAbI7X88AAAABBXvBZg,67239,docs: add missing link for C# Microsoft Certifica
 I_kwDOAbI7X861cTFs,60200,Width for code examples in lectures are not the same,CLOSED,2025-05-06T21:46:42Z,2026-05-05T15:09:07Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBG1l5A,67208,Campfire Mode Not Working,CLOSED,2026-05-02T15:04:29Z,2026-05-05T15:00:40Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87FYErQ,61779,Include async/await workshop steps in Build an fCC Authors Page App,OPEN,2025-08-11T19:39:11Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABBN6R7g,67225,"Bug - Build a Heritage Library Catalog, Step 28",OPEN,2026-05-04T12:43:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87pmJp-,65797,Translatable tokens in language files,OPEN,2026-02-10T02:25:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBKnNMA,67222,Bug in Portugeuse language,CLOSED,2026-05-03T22:51:57Z,2026-05-04T20:10:05Z,camperbot,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPE14,64121,Workshop – Artifact Provenance Auditor,OPEN,2025-11-25T03:44:42Z,,,freeCodeCamp,freeCodeCamp
@@ -477,9 +482,3 @@ I_kwDOAbI7X861ONli,60168,Lightbox Viewer lab tests,CLOSED,2025-05-05T18:00:19Z,2
 I_kwDOAbI7X87ptxYX,65805,Update CSS selectors for soundbar styling,CLOSED,2026-02-10T12:07:14Z,2026-02-10T18:45:27Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87oNvTo,65702,Misleading explanation about Compound Assignment Operators.,CLOSED,2026-02-04T10:53:52Z,2026-02-10T09:23:51Z,SilentDeath53,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87nztRs,65674,Scrollbars are injected into the page when opening modals,CLOSED,2026-02-03T04:42:03Z,2026-02-10T03:34:16Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87pfAt_,65793,"target=""_blank"" is added automatically without being introduced in the instructions",CLOSED,2026-02-09T16:39:31Z,2026-02-09T16:55:42Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87eazYQ,64624,Create a prototype for Python strings workshop,CLOSED,2025-12-15T16:52:47Z,2026-02-09T16:48:05Z,Dario-DC;Ritam Pal;RitamPal26,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87peyM8,65792,Alt attribute is auto-changed after submitting “Add Images to Your Website” challenge,CLOSED,2026-02-09T16:15:46Z,2026-02-09T16:43:41Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87pN71h,65769,"'null' text should be used instead of 'Guest' in Working with Strings in JavaScript - What Is the prompt() Method, and How Does It Work?",CLOSED,2026-02-08T13:39:07Z,2026-02-09T13:24:05Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87hNnk5,64981,Incorrect radial-gradient() size keywords: contain and cover are not valid CSS,CLOSED,2026-01-03T20:00:07Z,2026-02-09T10:46:44Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86z5tF4,59969,Build an availability table issue,CLOSED,2025-04-24T19:23:50Z,2026-02-09T09:16:03Z,bengguankoay,freeCodeCamp,freeCodeCamp
