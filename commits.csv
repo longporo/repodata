@@ -1,4 +1,7 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+0ae076e2d80d7be48754c8f31fe9446dbf86a530,chore(deps): update dependency turbo to v2.9.8 (#67312),2026-05-10T10:56:57Z,1,62,renovate[bot],freeCodeCamp,freeCodeCamp
+57caa92b35a964bfc0cd78839f33d7398bcd7a00,"chore(renovate): more groups, less approvals (#67310)",2026-05-10T06:51:18Z,1,155,raisedadead,freeCodeCamp,freeCodeCamp
+7b4891c445403e04602227209e8cae937a3e4646,chore(deps): update pnpm/action-setup action to v6.0.5 (#67309),2026-05-10T04:54:33Z,1,4,renovate[bot],freeCodeCamp,freeCodeCamp
 939df8c8c90681e315a5382ac012676462096922,fix(curriculum): allow multiline label in calorie counter step 47 (#6…,2026-05-09T14:41:27Z,1,2,deepak-s-git,freeCodeCamp,freeCodeCamp
 798e409dd58fba56e71989763f4f2b37281a8b59,fix(curriculum) : stringify uncloneable search params in Basic Node P…,2026-05-09T10:25:09Z,1,4,a2937,freeCodeCamp,freeCodeCamp
 73ac6981ba8264364706376d8c47050b7f10f977,fix(curriculum): url shortener pass redirects (#65879),2026-05-09T10:24:45Z,1,18,a2937,freeCodeCamp,freeCodeCamp
@@ -761,15 +764,3 @@ f5ae3b3abcadf5924d42b91162832909c1abb216,fix(curriculum): wrap video element in 
 e37faff9e6722af66c15f275509e0bf38f3e9b92,feat(learn): add catalog (#65596),2026-02-11T12:04:30Z,132,5595,ahmaxed,freeCodeCamp,freeCodeCamp
 0ed5f0d7f1149698de6bf67739e11652a3f0359b,fix(curriculum): improve lightbox display tests and allow vw/vh units…,2026-02-11T09:30:40Z,1,32,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 9b5a7f064dc75acf89426f08444d897b114e713e,"chore(i18n,learn): update i18n-curriculum submodule (#65814)",2026-02-11T05:16:18Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-d8dbe19a64706f2e3f82b5ba0f132245125a29d6,feat(curriculum): update Spanish character assets (#65813),2026-02-10T23:13:27Z,1,12,estefaniacn,freeCodeCamp,freeCodeCamp
-c409063e03dd6a8d91c961c2208b2dfe06fda438,Feat(Curriculum): Add 6 new Spanish Characters  (#65812),2026-02-10T20:38:53Z,1,60,nieldakarla,freeCodeCamp,freeCodeCamp
-ac655eaae79aaba41949c7c1fc86a6d008f02346,fix(client): update css selector for soundbar styling (#65808),2026-02-10T18:45:25Z,1,9,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-cb6a17716cf672272d705a58307ee25c267ed7b1,fix: remove outdated Jest Dom v5 typing (#65722),2026-02-10T15:31:38Z,3,186,Sembauke,freeCodeCamp,freeCodeCamp
-506f8d6fef02503a2d8dde1e300cca992c299b29,fix(deps): update dependency @aws-sdk/client-ses to v3.981.0 (#65712),2026-02-10T14:05:10Z,2,460,renovate[bot],freeCodeCamp,freeCodeCamp
-507a3b05886a86263356cff495a1832c808e37ed,refactor(client): restructure editor state into logical sub-interface…,2026-02-10T13:50:05Z,1,181,Sembauke,freeCodeCamp,freeCodeCamp
-6c002b454aae3e0c1b891eff3b8dcda4dcd9d0d5,chore(deps): update dependency @types/node to v24.10.10 (#65804),2026-02-10T13:10:56Z,1,570,renovate[bot],freeCodeCamp,freeCodeCamp
-e6eb338fe65718ce23b890f3ae97b9007dee96af,refactor(client): speed up client updates (#65025),2026-02-10T12:39:55Z,6,364,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-d6d452dfaccc6f50fb14f977caa46d398acd1f9d,fix: specify which trademark symbol is used in html entities lecture …,2026-02-10T11:23:31Z,1,2,scissorsneedfoodtoo,freeCodeCamp,freeCodeCamp
-4613efa921a631100a0e177dd7910f37e08dac87,"refactor: use environment, not .env, in ci (#65736)",2026-02-10T10:04:59Z,9,79,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-d453de6fdac0b235f7f321a5f32592817baec58b,fix(curriculum): misleading explanation of compound assignment operat…,2026-02-10T09:23:49Z,1,4,SilentDeath53,freeCodeCamp,freeCodeCamp
-41a1c78e84f3d335e1fdde8a485bacd93ff5c8b0,fix: typos in blog page workshop description (#65799),2026-02-10T09:03:30Z,1,2,scissorsneedfoodtoo,freeCodeCamp,freeCodeCamp
