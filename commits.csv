@@ -1,4 +1,9 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+0da7c6de9810487f444009c1dc61324e93a51b05,fix(curriculum): clarify create_spend_chart takes a list of categorie…,2026-05-12T17:16:49Z,1,2,majestic-owl448,freeCodeCamp,freeCodeCamp
+663c873aca7b821d113c88c9641ab36a837aff32,"chore(i18n,learn): update i18n-curriculum submodule (#67338)",2026-05-12T14:33:31Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+cbda4cf5c9fbbd811b0d1a4c74d39bc481400a2f,fix(curriculum): clarify DOM element node wording (#67330),2026-05-12T08:23:40Z,1,2,MukundaKatta,freeCodeCamp,freeCodeCamp
+77c76d63e0c1fc548a73239c2a0728e6d2d3d12d,"chore(i18n,client): processed translations (#67323)",2026-05-12T03:50:02Z,20,458,camperbot,freeCodeCamp,freeCodeCamp
+376177214f64c318216178571e961d2595b4e633,"chore(i18n,learn): update i18n-curriculum submodule (#67326)",2026-05-12T03:48:20Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 e55b4e14f71e9708abefefb07e1b73f58a5d6797,fix(curriculum):  Swapped the hint messages for task-45 (#67317),2026-05-12T00:14:09Z,1,4,TEE0207,freeCodeCamp,freeCodeCamp
 5cff524db6ed3f83398497a47f0e3b1a2f6245cf,fix: add missing colons to User Stories headers (#67328),2026-05-11T19:46:01Z,5,10,PaperCodeGithub,freeCodeCamp,freeCodeCamp
 2a61da49427218cbe7952140afad3a9e98f55288,fix: add missing User Stories header in lab-travel-weather-planner (#…,2026-05-11T17:45:41Z,1,2,atharv96k,freeCodeCamp,freeCodeCamp
@@ -733,17 +738,3 @@ c0261d8b352df83d7ef002a15cc659216b9ed927,chore(deps): update turbo (#65865),2026
 26a5b67c36e2e8d4a3603c4bc6eda01f961c4bc0,fix(client): inline xterm.css to avoid FOUC (#65679),2026-02-13T08:07:12Z,6,255,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 7b3d135df62b60d08fa8c7d46f7334ac1a5cf017,feat: stop using turbo cache for renovate branches (#65862),2026-02-13T07:41:10Z,1,6,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 055ba37e5480ef6f98c31cd6010b5d36fd7e222a,test: alert mobile team if challenge schema changes (#65860),2026-02-13T06:58:04Z,3,2335,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-67eff731c26ed957c59165290f767dc36dbfb7d7,fix(curriculum): implement A1 Spanish numbers 30 to 100 review sugges…,2026-02-12T16:50:31Z,11,42,estefaniacn,freeCodeCamp,freeCodeCamp
-c7d54338531f3c4f82d38a532aeaf20131e95e54,fix(curriculum): remove implicit precedence requirement from lab test…,2026-02-12T16:00:43Z,1,3,majestic-owl448,freeCodeCamp,freeCodeCamp
-0682169e46e30b12b2fa1ef5478bd368f8b336b6,fix(curriculum): allow spaces to join list in workshop shopping list …,2026-02-12T15:27:50Z,1,8,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-48e0f760a0ecbadbcfd3fb4b8b22cd59224a3c9f,fix(curriculum): remove double punctuation marks at the end of senten…,2026-02-12T15:16:45Z,58,178,farchettiensis,freeCodeCamp,freeCodeCamp
-7f27d8e005f16cb3fac853b95cd22a2ec138b3dd,fix(curriculum): enforce heroName and realName initial state value in…,2026-02-12T13:15:25Z,1,4,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-9b7a08bafbb833b01cff089e69d9c5839b92913d,fix(curriculum): update test to assert valid year value lab leap year…,2026-02-12T12:45:29Z,1,3,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-3caf686de62709ae8b91cbe16a4fbee981bc5c48,fix(learn): make explicit where the button is (#65557),2026-02-12T12:22:22Z,1,4,majestic-owl448,freeCodeCamp,freeCodeCamp
-860716427729674a23a44a3ec9402e32defc8676,fix(client): use new sorting syntax for graphql in gatsby-node.js (#6…,2026-02-12T11:35:46Z,1,12,Sembauke,freeCodeCamp,freeCodeCamp
-906344f5671331824ed5901bd3fd487a3826c487,fix(curriculum): remove step-style dashedName from N-Queens lab (#65750),2026-02-12T11:28:29Z,1,2,SilentDeath53,freeCodeCamp,freeCodeCamp
-fe9d40a70bfe3b9674e48c2bbac4b7360efe3148,fix(curriculum): enforce powerSource initial state value in step 3 (#…,2026-02-12T11:06:52Z,1,2,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-35db9055a6d640e75fac21a82381bac13b61ef0f,fix(curriculum): add audioData to challenge schema (#65854),2026-02-12T10:39:01Z,1,15,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-fa731e394b9c954bd9fedb22dd7c556f26a622d6,fix(curriculum): correct hint and tests to target button inside third…,2026-02-12T10:09:21Z,1,14,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-b1f3aa5c324811cc62291caca0e4ce7b1cca2b42,fix(curriculum): replace ambiguous regex in HTML structure tests (#65…,2026-02-12T08:17:01Z,2,4,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-1108d25883ed81342d48a2f864cb6ff59126800e,"feat(client,challenge-parser): support audio and transcript in quiz q…",2026-02-12T07:52:49Z,20,776,huyenltnguyen,freeCodeCamp,freeCodeCamp
