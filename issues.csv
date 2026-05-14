@@ -1,16 +1,25 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X88AAAABCNCJHQ,67363,Missing constraint explanation for optional parameters in TypeScript functions,OPEN,2026-05-14T03:21:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCMaHVA,67362,Build a Type Safe Math Toolkit #Step14,OPEN,2026-05-14T00:55:02Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCLzwog,67359,Remove first person language from email simulator workshop,OPEN,2026-05-13T22:19:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCLo7KA,67358,Explain what callable is in classes and objects lesson,OPEN,2026-05-13T21:44:52Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87aPFOX,64125,Lab – Proofreading Tool,OPEN,2025-11-25T03:45:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87bFj9i,64218,CSSHelp issue with `getStyleAny`,OPEN,2025-11-28T18:46:56Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABB7n2KA,67331,"Fix misleading explanation about useMemo and component re-rendering in ""What Is Memoization..."" lesson",CLOSED,2026-05-11T22:00:55Z,2026-05-13T18:42:28Z,caiolucasbittencourt,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCGEbrA,67348,Improve documentation for syncing outdated forks with upstream repository,OPEN,2026-05-13T06:44:53Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABB2d3nQ,67320,Potential unnecessary rerender propagation in Scene playback causing repeated Character subtree updates,CLOSED,2026-05-11T08:15:50Z,2026-05-13T12:23:40Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCGeeMw,67351,Protect freeCodeCamp from AI slop PRs,CLOSED,2026-05-13T07:53:56Z,2026-05-13T10:45:25Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87-BL0e,66931,js-v9 missing workshop on using try/catch/finally (and throw),OPEN,2026-04-14T11:32:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87X6o3A,63813,Workshop/Lab for exploring console?,OPEN,2025-11-13T19:13:51Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBN6R7g,67225,"Bug - Build a Heritage Library Catalog, Step 28",OPEN,2026-05-04T12:43:25Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCFJQGg,67344,Break up types lesson into two lessons,OPEN,2026-05-13T03:46:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCD1rVA,67343,Fix: Correct misleading useMemo explanation in lecture,CLOSED,2026-05-12T22:58:19Z,2026-05-13T03:00:47Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABB2d3nQ,67320,Potential unnecessary rerender propagation in Scene playback causing repeated Character subtree updates,OPEN,2026-05-11T08:15:50Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABB7n2KA,67331,"Fix misleading explanation about useMemo and component re-rendering in ""What Is Memoization..."" lesson",OPEN,2026-05-11T22:00:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBu_1bw,67296,Need improvement in accessibility,OPEN,2026-05-09T05:46:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Xq1cH,63788,Escaping HTML entities,OPEN,2025-11-12T21:42:22Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABBN6R7g,67225,"Bug - Build a Heritage Library Catalog, Step 28",OPEN,2026-05-04T12:43:25Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87aPFOX,64125,Lab – Proofreading Tool,OPEN,2025-11-25T03:45:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBwW1bA,67300,"Incorrect statement about DOM nodes in the “What Is the DOM, and How Do You Access Elements?” lesson",CLOSED,2026-05-09T14:25:42Z,2026-05-12T08:23:42Z,MukundaKatta,freeCodeCamp,freeCodeCamp
 MDU6SXNzdWU2MDU1NzY5MA==,183,Trello Link Dead,CLOSED,2015-03-10T19:45:23Z,2015-03-10T23:35:21Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABA3X5Dw,67174,Possible Editor Accessibility Opportunity,OPEN,2026-04-29T19:06:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBlIMtw,67272,Design a Movie Review - Translation Issue: Portuguese,CLOSED,2026-05-07T18:17:52Z,2026-05-12T03:48:22Z,camperbot,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87-BL0e,66931,js-v9 missing workshop on using try/catch/finally (and throw),OPEN,2026-04-14T11:32:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863pUiQ,60472,Refactor shopping cart workshop,CLOSED,2025-05-21T18:17:00Z,2026-05-11T14:18:18Z,Umesh-Tiruvalluru,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABB0ZPEA,67315,Incorrect wording for hint message,CLOSED,2026-05-10T22:26:06Z,2026-05-12T00:14:11Z,TEE0207;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ea0MK,64627,Create a prototype for Python functions workshop,OPEN,2025-12-15T17:22:08Z,,,freeCodeCamp,freeCodeCamp
@@ -145,7 +154,6 @@ I_kwDOAbI7X87aPEf-,64116,Lab – Cargo Manifest Parser,CLOSED,2025-11-25T03:43:3
 I_kwDOAbI7X87q-Cf9,65887,Improve solution download format to ZIP project structure,OPEN,2026-02-14T19:37:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87-BaYU,66932,Improve Async/Await lecture comment about where await is used,CLOSED,2026-04-14T11:43:49Z,2026-04-14T17:00:24Z,AyushK5ingh,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPEaC,64115,Workshop – Heritage Library Catalog,CLOSED,2025-11-25T03:43:20Z,2026-04-14T11:22:55Z,farchettiensis,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87bFj9i,64218,CSSHelp issue with `getStyleAny`,OPEN,2025-11-28T18:46:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86I27rX,54796,[Certification Projects] Show a dialog when user leaving the page,OPEN,2024-05-14T18:29:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86UO0yN,55941,Ambient camping sounds in freecodecamp website,OPEN,2024-08-26T13:43:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPElK,64117,Workshop – Smart Campus Directory,OPEN,2025-11-25T03:43:53Z,,,freeCodeCamp,freeCodeCamp
@@ -295,7 +303,6 @@ I_kwDOAbI7X87zHgnZ,66475,Debug a Pet Adoption Page,CLOSED,2026-03-15T17:39:20Z,2
 I_kwDOAbI7X87pySsf,65810,Curriculum: Correct background-size example and add missing border-style example,CLOSED,2026-02-10T16:01:04Z,2026-03-14T11:08:47Z,octavio-js,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPDkQ,64109,Workshop – Space Mission Roster,CLOSED,2025-11-25T03:40:49Z,2026-03-14T12:28:47Z,LGH831;majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Q-b0C,62733,Python visualization tool 'memory_graph',OPEN,2025-10-11T15:50:49Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87X6o3A,63813,Workshop/Lab for exploring console?,OPEN,2025-11-13T19:13:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87f8YkU,64859,Allow displaying both BiliBili and Youtube links on a challenge,CLOSED,2025-12-23T12:01:34Z,2026-03-14T10:36:06Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87pDIOP,65756,Currency Converter 7 & 8 tests not passing,CLOSED,2026-02-07T09:49:57Z,2026-03-14T10:29:14Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87xWq7U,66320,Nav search bar placeholder text truncated on mobile due to input column not expanding in CSS grid layout,CLOSED,2026-03-10T04:04:07Z,2026-03-14T09:26:13Z,Venkat,freeCodeCamp,freeCodeCamp
@@ -465,13 +472,3 @@ I_kwDOAbI7X86kobjV,57818,Consider saving the code for labs,CLOSED,2024-12-29T01:
 I_kwDOAbI7X87mCQ5S,65521,Challenge 170: Odd or Even Day Test 3 issue,CLOSED,2026-01-27T08:09:49Z,2026-02-14T18:38:02Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87YtbsV,63935,Clarify ambiguous instructions in Tribute Page project,CLOSED,2025-11-18T02:23:27Z,2026-02-14T17:36:37Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Y7cum,63959,confusing way to talk about type of a css variable,CLOSED,2025-11-18T18:24:02Z,2026-02-14T17:34:33Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87qtbLn,65874,CSS Chapter review missing box-shadow,CLOSED,2026-02-13T15:38:58Z,2026-02-13T19:22:59Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87njgI1,65648,Missing string length property in strings review lesson,CLOSED,2026-02-02T09:18:04Z,2026-02-13T16:03:34Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87kiA31,65357,Missing script: compile:ts in packages.json or Documentation problem.,CLOSED,2026-01-20T15:02:45Z,2026-02-13T08:33:50Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87kjlMN,65362,"URL Shortener test fails: dom-test-evaluator ""redirected is not implemented yet""",CLOSED,2026-01-20T16:43:44Z,2026-02-13T08:30:42Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87kpRup,65376,American British Translator – Bug Report,CLOSED,2026-01-21T00:27:51Z,2026-02-13T08:29:52Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87pWfqh,65777,"[Bug] POST /name challenge: req.body.last has trailing \n in key, causing ""undefined"" in response",CLOSED,2026-02-09T07:55:37Z,2026-02-13T08:28:26Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87kpVpR,65377,File Metadata Microservice - Bug Report,CLOSED,2026-01-21T00:35:34Z,2026-02-13T08:27:19Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87kpXtG,65378,URL Shortener Microservice - Bug Report,CLOSED,2026-01-21T00:40:05Z,2026-02-13T08:25:38Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87munUc,65564,Stray text bug in console (WWW...),CLOSED,2026-01-29T14:25:51Z,2026-02-13T08:07:14Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86ZvSn3,56632,[Chore] - Remove gatsby-plugin-create-client-paths plugin,CLOSED,2024-10-10T16:23:28Z,2026-02-13T07:42:41Z,,freeCodeCamp,freeCodeCamp
