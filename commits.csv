@@ -1,4 +1,25 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+3f998115234e728b77ffa821d1178401e5059333,fix(curriculum): capitalize TV in media catalogue workshop (#67411),2026-05-14T21:46:27Z,1,2,tenzin-4776,freeCodeCamp,freeCodeCamp
+ebdb6b6b1cee2c8b23b2675962213d06749021f9,fix(curriculum): remove first-person language from workshop-heritage-…,2026-05-14T21:42:06Z,2,4,debabratasaha-dev,freeCodeCamp,freeCodeCamp
+9f1f77ec5e591b456de1d4b289462adb7a01605d,fix: remove first person we from step 23 authors workshop (#67408),2026-05-14T21:05:21Z,1,2,vinodM09,freeCodeCamp,freeCodeCamp
+000c7b73c5b5af45fd54a90d35d8763575cf8d58,fix(curriculum): remove first person language from colored markers (#…,2026-05-14T20:16:28Z,1,2,vinodM09,freeCodeCamp,freeCodeCamp
+774453e16e82a46a8791d9c10510f27abbe6c996,fix(curriculum): remove first-person language from recipe converter (…,2026-05-14T19:49:30Z,1,2,caiolucasbittencourt,freeCodeCamp,freeCodeCamp
+83e58359eb3583fbc5f897f8bdb4749c53d94f5f,fix(curriculum): clarify optional parameter order (#67397),2026-05-14T19:38:48Z,1,2,caiolucasbittencourt,freeCodeCamp,freeCodeCamp
+4a3ed7e01aeeb538e33e9191612f55e3909149ae,fix(curriculum): remove first-person language from shopping list step…,2026-05-14T19:30:47Z,1,2,caiolucasbittencourt,freeCodeCamp,freeCodeCamp
+55aa9260e7469a5698c3716b13a9dcf7a9c354bf,fix(curriculum): remove first person language from media catalogue wo…,2026-05-14T19:17:27Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
+41909305874ece18f3a4266c50110d3f9943303e,fix(curriculum): correct misleading 'Int Division:' label in Python v…,2026-05-14T19:12:42Z,3,6,moaedy,freeCodeCamp,freeCodeCamp
+fa7d6cfe60cac220148540c5cdb0bc3d1adb8c3b,fix(curriculum): remove first person language from calorie counter wo…,2026-05-14T19:03:37Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
+77d791ba7cd8d4ff6caee74a67d37684db1ed82e,fix(curriculum): remove first person language from permutation genera…,2026-05-14T19:02:04Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
+152d51143a0af56c7a095489318c1419927b33f4,fix(curriculum): remove first-person language from instrument invento…,2026-05-14T19:00:00Z,1,2,caiolucasbittencourt,freeCodeCamp,freeCodeCamp
+4921d5834985389dd8c2e078d7bd12fea0fc396a,fix(curriculum): remove first person language from merge sort JS work…,2026-05-14T18:57:06Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
+68d5afb54ac5350634de9ccc43eb8b21d44b6dc0,fix(curriculum): remove first person language from merge sort worksho…,2026-05-14T18:46:11Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
+ef9595b92dd62895910eb4fab971cbf228cf3cfe,fix(curriculum): remove first person language from linked list class …,2026-05-14T13:09:38Z,3,6,deepak-s-git,freeCodeCamp,freeCodeCamp
+d4fa2a53a6f7d69780beba25620c9a798f59e961,fix(curriculum): remove first person language from decimal to binary …,2026-05-14T13:08:57Z,3,6,deepak-s-git,freeCodeCamp,freeCodeCamp
+78f7675253f83ad24039f1be0e4d35aed82ae388,fix(curriculum): explain callable() in dynamic attributes lecture (#6…,2026-05-14T12:39:29Z,1,2,HritikKaushik,freeCodeCamp,freeCodeCamp
+bb616d1405ffd1f4b9915b6955eb11983ee625ec,fix(curriculum): remove first person language from cafe menu workshop…,2026-05-14T12:24:10Z,1,2,deepak-s-git,freeCodeCamp,freeCodeCamp
+105ba4db6e73e41b6e4dde56ab3b0c9b452c4abf,fix(curriculum): remove first person language from Tailwind pricing c…,2026-05-14T11:59:42Z,1,2,deepak-s-git,freeCodeCamp,freeCodeCamp
+d83307f9836d11ad784e1eaa2b98957e78bba044,feat(curriculum): proofreading tool javascript lab (#66940),2026-05-14T10:03:48Z,4,229,arunkumar0398,freeCodeCamp,freeCodeCamp
+ccde5d4b2d7e039d0376bb7d469d8938d9afee00,fix(curriculum): remove first person language from email simulator wo…,2026-05-14T10:01:38Z,16,32,HritikKaushik,freeCodeCamp,freeCodeCamp
 af87e4ef14b6409ff65ecb1a2e4f0dfc1bfe16f9,fix(curriculum): clarify useMemo rerender behavior (#67350),2026-05-13T18:42:25Z,1,4,caiolucasbittencourt,freeCodeCamp,freeCodeCamp
 169764fc3f753be5e28f37e09c702e34d2e4f6de,"chore(i18n,learn): update i18n-curriculum submodule (#67355)",2026-05-13T17:58:46Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 7ec47e28f2bc20b40de3e512da3374b1b7b9578c,"chore(i18n,client): processed translations (#67354)",2026-05-13T15:47:05Z,4,214,camperbot,freeCodeCamp,freeCodeCamp
@@ -732,5 +753,3 @@ f8de1e2ce858ea8a3292604445ca29f2c93dc3e2,chore: update react-monaco-editor to ve
 95075822fb5c2c2e0edffafbc8082e1d66b51985,fix(curriculum): clarify selection sort lab swap requirement (#65885),2026-02-17T12:16:56Z,1,5,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 a372fb6a1ad08c5c01b49673a43f14c50b4606a6,"chore(i18n,client): processed translations (#65895)",2026-02-17T12:15:32Z,20,12758,camperbot,freeCodeCamp,freeCodeCamp
 d1df11fe1e5093cc083064c8f0ed74c91aae7a95,feat(curriculum): add quicksort lab to jsv9 (#65866),2026-02-17T07:49:33Z,4,127,majestic-owl448,freeCodeCamp,freeCodeCamp
-c11b4dd4d24ab1b69006ec6860bb7ec7eaa7915d,fix(curriculum): catch lessons without challenge files (#65871),2026-02-14T18:42:35Z,1,7,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-ff277a82dcb46293396c249655f4f4f10e9f0572,fix(curriculum): add UTC clarification note to odd or even day challe…,2026-02-14T18:38:01Z,2,4,Jeevankumar-s,freeCodeCamp,freeCodeCamp
