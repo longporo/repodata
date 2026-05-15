@@ -1,17 +1,39 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X88AAAABCNCJHQ,67363,Missing constraint explanation for optional parameters in TypeScript functions,OPEN,2026-05-14T03:21:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCSUyHA,67407,Typo in Media Catalogue workshop - Step 37,CLOSED,2026-05-14T18:42:43Z,2026-05-14T21:46:29Z,tenzin-4776,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCO1NNg,67370,Remove first person language from heritage library catalog workshop,CLOSED,2026-05-14T09:19:49Z,2026-05-14T21:42:08Z,debabratasaha-dev,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCTLjpA,67412,Typo in FCC Authors Page,OPEN,2026-05-14T21:07:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCO1MtA,67369,Remove first person language from fCC authors page workshop,CLOSED,2026-05-14T09:19:48Z,2026-05-14T21:05:23Z,vinodM09,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCO1Flw,67366,Remove first person language from colored markers workshop,CLOSED,2026-05-14T09:19:32Z,2026-05-14T20:16:30Z,huyenltnguyen;vinodM09,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCO1QJw,67372,Remove first person language from recipe ingredient converter workshop,CLOSED,2026-05-14T09:19:54Z,2026-05-14T19:49:32Z,caiolucasbittencourt;huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCNCJHQ,67363,Missing constraint explanation for optional parameters in TypeScript functions,CLOSED,2026-05-14T03:21:49Z,2026-05-14T19:38:50Z,caiolucasbittencourt,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCO1dlQ,67380,Remove first person language from shopping list app workshop,CLOSED,2026-05-14T09:20:24Z,2026-05-14T19:30:49Z,caiolucasbittencourt;huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCO1V6g,67375,Remove first person language from media catalogue workshop,CLOSED,2026-05-14T09:20:08Z,2026-05-14T19:17:29Z,clarencepenz;huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCQ2QiQ,67394,Fix misleading 'Int Division:' label in Python v9 curriculum,CLOSED,2026-05-14T14:46:28Z,2026-05-14T19:12:44Z,moaedy,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCO1KxA,67367,Remove first person language from calorie counter workshop,CLOSED,2026-05-14T09:19:43Z,2026-05-14T19:03:39Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCO1Qtw,67373,Remove first person language from permutation generator lab,CLOSED,2026-05-14T09:19:56Z,2026-05-14T19:02:06Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCO1YSw,67377,Remove first person language from musical instrument inventory workshop,CLOSED,2026-05-14T09:20:12Z,2026-05-14T19:00:02Z,caiolucasbittencourt,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCO1Otw,67371,Remove first person language from merge sort JS workshop,CLOSED,2026-05-14T09:19:52Z,2026-05-14T18:57:08Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCO1XCQ,67376,Remove first person language from merge sort workshop,CLOSED,2026-05-14T09:20:10Z,2026-05-14T18:46:14Z,clarencepenz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCGEbrA,67348,Improve documentation for syncing outdated forks with upstream repository,CLOSED,2026-05-13T06:44:53Z,2026-05-14T18:44:08Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCRN4aA,67396,Horizonal Line Appears When I Finished a Workshop,CLOSED,2026-05-14T15:43:20Z,2026-05-14T15:48:12Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCQkv0Q,67393,Python Certification(Python Basics Review lesson) uses / instead of // for integer division,CLOSED,2026-05-14T14:06:59Z,2026-05-14T14:16:36Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCO1UrQ,67374,Remove first person language from linked list class workshop,CLOSED,2026-05-14T09:20:06Z,2026-05-14T13:09:40Z,deepak-s-git,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCO1Lhg,67368,Remove first person language from decimal to binary converter workshop,CLOSED,2026-05-14T09:19:46Z,2026-05-14T13:09:00Z,deepak-s-git;majestic-owl448,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCLo7KA,67358,Explain what callable is in classes and objects lesson,CLOSED,2026-05-13T21:44:52Z,2026-05-14T12:39:31Z,HritikKaushik,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCO1EPQ,67365,Remove first person language from cafe menu workshop,CLOSED,2026-05-14T09:19:30Z,2026-05-14T12:24:12Z,deepak-s-git,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCO1efg,67381,Remove first person language from Tailwind pricing component workshop,CLOSED,2026-05-14T09:20:26Z,2026-05-14T11:59:44Z,deepak-s-git,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBN6R7g,67225,"Bug - Build a Heritage Library Catalog, Step 28",OPEN,2026-05-04T12:43:25Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87aPFOX,64125,Lab – Proofreading Tool,CLOSED,2025-11-25T03:45:49Z,2026-05-14T10:03:50Z,arunkumar0398,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCLzwog,67359,Remove first person language from email simulator workshop,CLOSED,2026-05-13T22:19:46Z,2026-05-14T10:01:40Z,HritikKaushik,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCMaHVA,67362,Build a Type Safe Math Toolkit #Step14,OPEN,2026-05-14T00:55:02Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABCLzwog,67359,Remove first person language from email simulator workshop,OPEN,2026-05-13T22:19:46Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABCLo7KA,67358,Explain what callable is in classes and objects lesson,OPEN,2026-05-13T21:44:52Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87aPFOX,64125,Lab – Proofreading Tool,OPEN,2025-11-25T03:45:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCO1Zpw,67379,Remove first person language from Luhn algorithm lab,OPEN,2026-05-14T09:20:15Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCO1ZBg,67378,Remove first person language from discount calculator workshop,OPEN,2026-05-14T09:20:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87bFj9i,64218,CSSHelp issue with `getStyleAny`,OPEN,2025-11-28T18:46:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABB7n2KA,67331,"Fix misleading explanation about useMemo and component re-rendering in ""What Is Memoization..."" lesson",CLOSED,2026-05-11T22:00:55Z,2026-05-13T18:42:28Z,caiolucasbittencourt,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABCGEbrA,67348,Improve documentation for syncing outdated forks with upstream repository,OPEN,2026-05-13T06:44:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABB2d3nQ,67320,Potential unnecessary rerender propagation in Scene playback causing repeated Character subtree updates,CLOSED,2026-05-11T08:15:50Z,2026-05-13T12:23:40Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCGeeMw,67351,Protect freeCodeCamp from AI slop PRs,CLOSED,2026-05-13T07:53:56Z,2026-05-13T10:45:25Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87-BL0e,66931,js-v9 missing workshop on using try/catch/finally (and throw),OPEN,2026-04-14T11:32:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87X6o3A,63813,Workshop/Lab for exploring console?,OPEN,2025-11-13T19:13:51Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABBN6R7g,67225,"Bug - Build a Heritage Library Catalog, Step 28",OPEN,2026-05-04T12:43:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCFJQGg,67344,Break up types lesson into two lessons,OPEN,2026-05-13T03:46:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCD1rVA,67343,Fix: Correct misleading useMemo explanation in lecture,CLOSED,2026-05-12T22:58:19Z,2026-05-13T03:00:47Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBu_1bw,67296,Need improvement in accessibility,OPEN,2026-05-09T05:46:19Z,,,freeCodeCamp,freeCodeCamp
@@ -469,6 +491,3 @@ I_kwDOAbI7X87q4zVX,65880,Unclear Instruction for Python Selection Sort Lab,CLOSE
 I_kwDOAbI7X87rJJ9e,65890,JavaScript Scope,CLOSED,2026-02-15T22:19:49Z,2026-02-15T22:24:56Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85xHUSK,51554,Color Coding New Content,CLOSED,2023-09-15T05:42:19Z,2026-02-15T07:38:55Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86kobjV,57818,Consider saving the code for labs,CLOSED,2024-12-29T01:19:34Z,2026-02-15T07:33:19Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87mCQ5S,65521,Challenge 170: Odd or Even Day Test 3 issue,CLOSED,2026-01-27T08:09:49Z,2026-02-14T18:38:02Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87YtbsV,63935,Clarify ambiguous instructions in Tribute Page project,CLOSED,2025-11-18T02:23:27Z,2026-02-14T17:36:37Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Y7cum,63959,confusing way to talk about type of a css variable,CLOSED,2025-11-18T18:24:02Z,2026-02-14T17:34:33Z,,freeCodeCamp,freeCodeCamp
