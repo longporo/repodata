@@ -1,7 +1,17 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X88AAAABBJmPoA,67219,css lecture that teaches hsl uses legacy syntax,OPEN,2026-05-03T15:05:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCFJQGg,67344,Break up types lesson into two lessons,OPEN,2026-05-13T03:46:19Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBfKZYg,67263,RDB course missing instructions on required language setting,OPEN,2026-05-06T22:07:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCaHZ5Q,67433,Parallelize Network Requests,OPEN,2026-05-15T19:52:07Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCMaHVA,67362,Build a Type Safe Math Toolkit #Step14,CLOSED,2026-05-14T00:55:02Z,2026-05-15T18:36:34Z,deepak-s-git,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCO1ZBg,67378,Remove first person language from discount calculator workshop,CLOSED,2026-05-14T09:20:13Z,2026-05-15T15:07:57Z,narasimhan-lakshmi,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCYNGqg,67428,sfd,CLOSED,2026-05-15T14:14:04Z,2026-05-15T14:14:08Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCWyzug,67427,Fix unreachable duplicate validation logic in insertErms,CLOSED,2026-05-15T10:11:32Z,2026-05-15T12:51:13Z,Nithin0620,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCO1Zpw,67379,Remove first person language from Luhn algorithm lab,CLOSED,2026-05-14T09:20:15Z,2026-05-15T10:11:06Z,narasimhan-lakshmi,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCTLjpA,67412,Typo in FCC Authors Page,CLOSED,2026-05-14T21:07:50Z,2026-05-15T08:12:44Z,HarshMangaraj,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBu_1bw,67296,Need improvement in accessibility,OPEN,2026-05-09T05:46:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCSUyHA,67407,Typo in Media Catalogue workshop - Step 37,CLOSED,2026-05-14T18:42:43Z,2026-05-14T21:46:29Z,tenzin-4776,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCO1NNg,67370,Remove first person language from heritage library catalog workshop,CLOSED,2026-05-14T09:19:49Z,2026-05-14T21:42:08Z,debabratasaha-dev,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABCTLjpA,67412,Typo in FCC Authors Page,OPEN,2026-05-14T21:07:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCO1MtA,67369,Remove first person language from fCC authors page workshop,CLOSED,2026-05-14T09:19:48Z,2026-05-14T21:05:23Z,vinodM09,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCO1Flw,67366,Remove first person language from colored markers workshop,CLOSED,2026-05-14T09:19:32Z,2026-05-14T20:16:30Z,huyenltnguyen;vinodM09,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCO1QJw,67372,Remove first person language from recipe ingredient converter workshop,CLOSED,2026-05-14T09:19:54Z,2026-05-14T19:49:32Z,caiolucasbittencourt;huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -25,18 +35,13 @@ I_kwDOAbI7X88AAAABCO1efg,67381,Remove first person language from Tailwind pricin
 I_kwDOAbI7X88AAAABBN6R7g,67225,"Bug - Build a Heritage Library Catalog, Step 28",OPEN,2026-05-04T12:43:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPFOX,64125,Lab – Proofreading Tool,CLOSED,2025-11-25T03:45:49Z,2026-05-14T10:03:50Z,arunkumar0398,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCLzwog,67359,Remove first person language from email simulator workshop,CLOSED,2026-05-13T22:19:46Z,2026-05-14T10:01:40Z,HritikKaushik,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABCMaHVA,67362,Build a Type Safe Math Toolkit #Step14,OPEN,2026-05-14T00:55:02Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABCO1Zpw,67379,Remove first person language from Luhn algorithm lab,OPEN,2026-05-14T09:20:15Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABCO1ZBg,67378,Remove first person language from discount calculator workshop,OPEN,2026-05-14T09:20:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87bFj9i,64218,CSSHelp issue with `getStyleAny`,OPEN,2025-11-28T18:46:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABB7n2KA,67331,"Fix misleading explanation about useMemo and component re-rendering in ""What Is Memoization..."" lesson",CLOSED,2026-05-11T22:00:55Z,2026-05-13T18:42:28Z,caiolucasbittencourt,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABB2d3nQ,67320,Potential unnecessary rerender propagation in Scene playback causing repeated Character subtree updates,CLOSED,2026-05-11T08:15:50Z,2026-05-13T12:23:40Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCGeeMw,67351,Protect freeCodeCamp from AI slop PRs,CLOSED,2026-05-13T07:53:56Z,2026-05-13T10:45:25Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87-BL0e,66931,js-v9 missing workshop on using try/catch/finally (and throw),OPEN,2026-04-14T11:32:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87X6o3A,63813,Workshop/Lab for exploring console?,OPEN,2025-11-13T19:13:51Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABCFJQGg,67344,Break up types lesson into two lessons,OPEN,2026-05-13T03:46:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCD1rVA,67343,Fix: Correct misleading useMemo explanation in lecture,CLOSED,2026-05-12T22:58:19Z,2026-05-13T03:00:47Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABBu_1bw,67296,Need improvement in accessibility,OPEN,2026-05-09T05:46:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Xq1cH,63788,Escaping HTML entities,OPEN,2025-11-12T21:42:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBwW1bA,67300,"Incorrect statement about DOM nodes in the “What Is the DOM, and How Do You Access Elements?” lesson",CLOSED,2026-05-09T14:25:42Z,2026-05-12T08:23:42Z,MukundaKatta,freeCodeCamp,freeCodeCamp
 MDU6SXNzdWU2MDU1NzY5MA==,183,Trello Link Dead,CLOSED,2015-03-10T19:45:23Z,2015-03-10T23:35:21Z,,freeCodeCamp,freeCodeCamp
@@ -51,7 +56,6 @@ I_kwDOAbI7X88AAAABB2HSyw,67319,missing colon in **User Stories** header in 5 lab
 I_kwDOAbI7X88AAAABB2FYeQ,67318,missing **User Stories** header,CLOSED,2026-05-11T07:10:07Z,2026-05-11T17:45:43Z,atharv96k,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBwTz9A,67299,Pomodoro study timer to the learn page,CLOSED,2026-05-09T14:05:28Z,2026-05-11T06:09:58Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fbU-4,64786,lab job application form user story has result not visible,CLOSED,2025-12-19T18:57:44Z,2026-05-11T07:24:34Z,AyushK5ingh,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABBfKZYg,67263,RDB course missing instructions on required language setting,OPEN,2026-05-06T22:07:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBxYRpw,67306,Awkward phrasing 'The below' should be 'The following' in array data structure lesson,CLOSED,2026-05-09T21:14:34Z,2026-05-09T22:59:48Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBwftHw,67301,Wrong file name in Understanding HTML Attributes,CLOSED,2026-05-09T15:20:37Z,2026-05-09T15:27:19Z,,freeCodeCamp,freeCodeCamp
@@ -72,7 +76,6 @@ I_kwDOAbI7X88AAAABBEybjg,67200,Save Button for User Privacy Remains Enabled Even
 I_kwDOAbI7X86kpZUz,57827,𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳—FL Studio Crack With Serial Key Latest  [2025],CLOSED,2024-12-29T16:17:09Z,2024-12-29T19:05:36Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87P6-rG,62555,Make curriculum subject headings anchor linkable for direct sharing,OPEN,2025-10-06T17:34:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87vdZ6-,66217,Still some double notes on superblock pages,OPEN,2026-03-03T16:01:34Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABBJmPoA,67219,css lecture that teaches hsl uses legacy syntax,OPEN,2026-05-03T15:05:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBXvBZg,67239,docs: add missing link for C# Microsoft Certification in README.md,CLOSED,2026-05-05T20:37:54Z,2026-05-05T21:46:24Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861cTFs,60200,Width for code examples in lectures are not the same,CLOSED,2025-05-06T21:46:42Z,2026-05-05T15:09:07Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBG1l5A,67208,Campfire Mode Not Working,CLOSED,2026-05-02T15:04:29Z,2026-05-05T15:00:40Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
@@ -488,6 +491,3 @@ I_kwDOAbI7X87rosKX,65922,clarify default database log in,CLOSED,2026-02-17T15:23
 I_kwDOAbI7X87riFoC,65910,Daily Coding Challenge 191: 2026 Winter Games Day 12: Bobsled - part of task description formatting missing,CLOSED,2026-02-17T08:51:24Z,2026-02-17T14:44:09Z,tarant28,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87rYegR,65898,mismatch in budget app,CLOSED,2026-02-16T18:32:08Z,2026-02-17T12:28:00Z,AnanthuNarashimman,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87q4zVX,65880,Unclear Instruction for Python Selection Sort Lab,CLOSED,2026-02-14T08:10:50Z,2026-02-17T12:16:57Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87rJJ9e,65890,JavaScript Scope,CLOSED,2026-02-15T22:19:49Z,2026-02-15T22:24:56Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X85xHUSK,51554,Color Coding New Content,CLOSED,2023-09-15T05:42:19Z,2026-02-15T07:38:55Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86kobjV,57818,Consider saving the code for labs,CLOSED,2024-12-29T01:19:34Z,2026-02-15T07:33:19Z,,freeCodeCamp,freeCodeCamp
