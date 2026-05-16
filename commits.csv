@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+6150f0cec4015787e599e3790744dbe55873ab51,feat(curriculum): release Describe Company and Describe Colleagues mo…,2026-05-15T19:54:08Z,16,32,huyenltnguyen,freeCodeCamp,freeCodeCamp
+e8c77cae3d6ffcc87db01f2df802520657185900,fix(curriculum): update raiseTo regex to support return type annotati…,2026-05-15T18:36:32Z,1,2,deepak-s-git,freeCodeCamp,freeCodeCamp
+ca20dfd8b9549edd122d2cff9b0faf36efe6bd1f,feat(curriculum): add Describing a Company (#66378),2026-05-15T18:31:04Z,76,8364,RafaelDavisH,freeCodeCamp,freeCodeCamp
+cdb7c753322e78a1a055830c48cf1c3825519a95,fix: fixed first person language in discount calculator workshop (#67…,2026-05-15T15:07:55Z,3,6,narasimhan-lakshmi,freeCodeCamp,freeCodeCamp
+a2e0622ccb5bb1c294270b1e623716e4b42abef8,fix: separate duplicate erms validation in insertErms (#67422),2026-05-15T12:51:11Z,1,4,Nithin0620,freeCodeCamp,freeCodeCamp
+12be3d283b07a6bfd89d7f187c21c0e966e5c1be,fix: fixed first person into generic for luhn algo (#67424),2026-05-15T10:11:04Z,1,2,narasimhan-lakshmi,freeCodeCamp,freeCodeCamp
+e2aa7ce38369f5dfb1d17235e5a6bcac799d06c3,fix(curriculum): correct grammatical typo in FCC Authors Page lesson …,2026-05-15T08:12:41Z,2,4,HarshMangaraj,freeCodeCamp,freeCodeCamp
 3f998115234e728b77ffa821d1178401e5059333,fix(curriculum): capitalize TV in media catalogue workshop (#67411),2026-05-14T21:46:27Z,1,2,tenzin-4776,freeCodeCamp,freeCodeCamp
 ebdb6b6b1cee2c8b23b2675962213d06749021f9,fix(curriculum): remove first-person language from workshop-heritage-…,2026-05-14T21:42:06Z,2,4,debabratasaha-dev,freeCodeCamp,freeCodeCamp
 9f1f77ec5e591b456de1d4b289462adb7a01605d,fix: remove first person we from step 23 authors workshop (#67408),2026-05-14T21:05:21Z,1,2,vinodM09,freeCodeCamp,freeCodeCamp
