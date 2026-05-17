@@ -1,4 +1,5 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+ad0ee4d276f7d227b11b91d3b46b7c10274f8664,chore(deps): upgrade freecodecamp/ui to v6.0.1 (#67434),2026-05-16T04:04:41Z,2,12,huyenltnguyen,freeCodeCamp,freeCodeCamp
 6150f0cec4015787e599e3790744dbe55873ab51,feat(curriculum): release Describe Company and Describe Colleagues mo…,2026-05-15T19:54:08Z,16,32,huyenltnguyen,freeCodeCamp,freeCodeCamp
 e8c77cae3d6ffcc87db01f2df802520657185900,fix(curriculum): update raiseTo regex to support return type annotati…,2026-05-15T18:36:32Z,1,2,deepak-s-git,freeCodeCamp,freeCodeCamp
 ca20dfd8b9549edd122d2cff9b0faf36efe6bd1f,feat(curriculum): add Describing a Company (#66378),2026-05-15T18:31:04Z,76,8364,RafaelDavisH,freeCodeCamp,freeCodeCamp
