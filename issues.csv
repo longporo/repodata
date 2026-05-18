@@ -1,5 +1,10 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X88AAAABCgO4IA,67440,Correct the runtime startup path,CLOSED,2026-05-17T09:12:30Z,2026-05-18T01:08:19Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCgNSfA,67439,Lab - Build a Flashcard Quiz App,OPEN,2026-05-17T09:04:43Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCiFixA,67443,Potential unwanted typo in A2 English quiz,CLOSED,2026-05-17T21:03:50Z,2026-05-18T00:45:43Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCd1aWA,67436,"Request to change ""ask for help"" post template",OPEN,2026-05-16T16:03:10Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABChu1hA,67442,"Add alternate solution to ""Build A Bill Splitter"" Step 4 Workshop",OPEN,2026-05-17T18:37:56Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87aPElK,64117,Workshop – Smart Campus Directory,OPEN,2025-11-25T03:43:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X873VKj4,66639,Random Blue Line Appearing on Page (Possible Focus Border),CLOSED,2026-03-27T05:26:09Z,2026-05-16T04:04:42Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCaHZ5Q,67433,Parallelize Network Requests,OPEN,2026-05-15T19:52:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBJmPoA,67219,css lecture that teaches hsl uses legacy syntax,OPEN,2026-05-03T15:05:50Z,,,freeCodeCamp,freeCodeCamp
@@ -183,7 +188,6 @@ I_kwDOAbI7X87-BaYU,66932,Improve Async/Await lecture comment about where await i
 I_kwDOAbI7X87aPEaC,64115,Workshop – Heritage Library Catalog,CLOSED,2025-11-25T03:43:20Z,2026-04-14T11:22:55Z,farchettiensis,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86I27rX,54796,[Certification Projects] Show a dialog when user leaving the page,OPEN,2024-05-14T18:29:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86UO0yN,55941,Ambient camping sounds in freecodecamp website,OPEN,2024-08-26T13:43:51Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87aPElK,64117,Workshop – Smart Campus Directory,OPEN,2025-11-25T03:43:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X878KdMJ,66871,[bug] socrates description max length too small,CLOSED,2026-04-09T08:10:20Z,2026-04-13T13:58:20Z,Jeevankumar-s;ahmaxed,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87W21t5,63678,transition property not compatible with tests,OPEN,2025-11-09T09:44:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X879POKp,66902,Teacher Chatbot - Step 6 - Spanish version translation issue,CLOSED,2026-04-12T15:34:44Z,2026-04-13T11:40:42Z,,freeCodeCamp,freeCodeCamp
@@ -485,10 +489,3 @@ I_kwDOAbI7X87r4_t-,65939,"Word ""represented"" is duplicated in ""Python Certifi
 I_kwDOAbI7X87f8h9a,64860,Introduction to Python - Errors and Missing Info,CLOSED,2025-12-23T12:16:19Z,2026-02-18T09:03:37Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87YpLWQ,63919,Remove completion message from pop up modal for certification projects,CLOSED,2025-11-17T19:11:33Z,2025-11-20T02:48:33Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87mdx3q,65544,Add Note on settings page about how to update profile,CLOSED,2026-01-28T17:34:08Z,2026-02-18T06:32:04Z,raisedadead,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87rW2EY,65896,Add comprehensive guide for local setup and running freeCodeCamp locally,CLOSED,2026-02-16T16:47:23Z,2026-02-17T19:22:30Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87i-U8p,65108,"Restore social share option after completing workshops, labs, and certification projects",CLOSED,2026-01-13T09:34:04Z,2026-02-17T17:43:12Z,ahmaxed;nnyouung,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87qDQq0,65832,"Outdated information - How Can You Effectively Work With Your Keyboard, Mouse, and Other Pointing Devices?",CLOSED,2026-02-11T14:01:35Z,2026-02-17T17:41:03Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87rosKX,65922,clarify default database log in,CLOSED,2026-02-17T15:23:03Z,2026-02-17T17:11:19Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87riFoC,65910,Daily Coding Challenge 191: 2026 Winter Games Day 12: Bobsled - part of task description formatting missing,CLOSED,2026-02-17T08:51:24Z,2026-02-17T14:44:09Z,tarant28,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87rYegR,65898,mismatch in budget app,CLOSED,2026-02-16T18:32:08Z,2026-02-17T12:28:00Z,AnanthuNarashimman,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87q4zVX,65880,Unclear Instruction for Python Selection Sort Lab,CLOSED,2026-02-14T08:10:50Z,2026-02-17T12:16:57Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
