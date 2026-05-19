@@ -1,9 +1,14 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X88AAAABCgO4IA,67440,Correct the runtime startup path,CLOSED,2026-05-17T09:12:30Z,2026-05-18T01:08:19Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBu_1bw,67296,Need improvement in accessibility,OPEN,2026-05-09T05:46:19Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X85RXI65,47464,Add Per-Module Progress Reset,OPEN,2022-09-07T18:12:38Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCn8rfw,67448,Fix misleading rule about interface extends,OPEN,2026-05-18T17:13:47Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCl2CLg,67446,Add estimated completion time for each challenge,CLOSED,2026-05-18T11:56:17Z,2026-05-18T17:23:48Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87USvWu,63145,Lesson TS compiler assumes all files are index.tsx,CLOSED,2025-10-28T13:50:56Z,2026-05-18T12:30:42Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCgNSfA,67439,Lab - Build a Flashcard Quiz App,OPEN,2026-05-17T09:04:43Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABChu1hA,67442,"Add alternate solution to ""Build A Bill Splitter"" Step 4 Workshop",CLOSED,2026-05-17T18:37:56Z,2026-05-18T08:09:40Z,majestic-owl448,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCgO4IA,67440,Correct the runtime startup path,CLOSED,2026-05-17T09:12:30Z,2026-05-18T01:08:19Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCiFixA,67443,Potential unwanted typo in A2 English quiz,CLOSED,2026-05-17T21:03:50Z,2026-05-18T00:45:43Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCd1aWA,67436,"Request to change ""ask for help"" post template",OPEN,2026-05-16T16:03:10Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABChu1hA,67442,"Add alternate solution to ""Build A Bill Splitter"" Step 4 Workshop",OPEN,2026-05-17T18:37:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPElK,64117,Workshop – Smart Campus Directory,OPEN,2025-11-25T03:43:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X873VKj4,66639,Random Blue Line Appearing on Page (Possible Focus Border),CLOSED,2026-03-27T05:26:09Z,2026-05-16T04:04:42Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCaHZ5Q,67433,Parallelize Network Requests,OPEN,2026-05-15T19:52:07Z,,,freeCodeCamp,freeCodeCamp
@@ -16,7 +21,6 @@ I_kwDOAbI7X88AAAABCYNGqg,67428,sfd,CLOSED,2026-05-15T14:14:04Z,2026-05-15T14:14:
 I_kwDOAbI7X88AAAABCWyzug,67427,Fix unreachable duplicate validation logic in insertErms,CLOSED,2026-05-15T10:11:32Z,2026-05-15T12:51:13Z,Nithin0620,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCO1Zpw,67379,Remove first person language from Luhn algorithm lab,CLOSED,2026-05-14T09:20:15Z,2026-05-15T10:11:06Z,narasimhan-lakshmi,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCTLjpA,67412,Typo in FCC Authors Page,CLOSED,2026-05-14T21:07:50Z,2026-05-15T08:12:44Z,HarshMangaraj,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABBu_1bw,67296,Need improvement in accessibility,OPEN,2026-05-09T05:46:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCSUyHA,67407,Typo in Media Catalogue workshop - Step 37,CLOSED,2026-05-14T18:42:43Z,2026-05-14T21:46:29Z,tenzin-4776,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCO1NNg,67370,Remove first person language from heritage library catalog workshop,CLOSED,2026-05-14T09:19:49Z,2026-05-14T21:42:08Z,debabratasaha-dev,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCO1MtA,67369,Remove first person language from fCC authors page workshop,CLOSED,2026-05-14T09:19:48Z,2026-05-14T21:05:23Z,vinodM09,freeCodeCamp,freeCodeCamp
@@ -483,9 +487,3 @@ I_kwDOAbI7X8603Drm,60106,Update import/export lesson to teach both default expor
 I_kwDOAbI7X865qfJu,60691,Adding popular auth options directly in the lading page,CLOSED,2025-06-03T18:00:37Z,2026-02-19T12:17:16Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X864xIVC,60592,Optimize the multiple choice questions for usability,OPEN,2025-05-29T10:27:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87rJ3E0,65891,Missing verb in Learn How to Manage a Conversation,CLOSED,2026-02-15T23:52:49Z,2026-02-19T09:00:35Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87r04sV,65931,"Daily Coding Challenge Archive - Showing 404, or wrong challenge",CLOSED,2026-02-18T08:06:49Z,2026-02-18T20:09:31Z,moT01;ojeytonwilliams,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87r3qjy,65934,"Controlled element is not hidden by default when aria-expanded=""false"" is set”",CLOSED,2026-02-18T10:56:14Z,2026-02-18T18:22:01Z,CaliYost,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87r4_t-,65939,"Word ""represented"" is duplicated in ""Python Certification - Build an Employee Profile Generator""",CLOSED,2026-02-18T12:20:22Z,2026-02-18T18:11:33Z,shubham-t-rai,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87f8h9a,64860,Introduction to Python - Errors and Missing Info,CLOSED,2025-12-23T12:16:19Z,2026-02-18T09:03:37Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87YpLWQ,63919,Remove completion message from pop up modal for certification projects,CLOSED,2025-11-17T19:11:33Z,2025-11-20T02:48:33Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87mdx3q,65544,Add Note on settings page about how to update profile,CLOSED,2026-01-28T17:34:08Z,2026-02-18T06:32:04Z,raisedadead,freeCodeCamp,freeCodeCamp
