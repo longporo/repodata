@@ -1,4 +1,9 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+2fa472e83b257bcc4c88f155b8e92fd685d651aa,fix(curriculum): update misleading explanation on interfaces (#67458),2026-05-19T19:38:50Z,1,2,laxitajain,freeCodeCamp,freeCodeCamp
+ee78e5f23f0316d90730257721074d836b06c0c9,fix(curriculum): update HSL lecture to use modern space-separated syn…,2026-05-19T14:25:39Z,1,42,Nitin-Rajasekar,freeCodeCamp,freeCodeCamp
+b1141962e19e7609f3b7f1577fab535917686499,feat(client): handle exam awaiting challenges (#67455),2026-05-19T13:49:19Z,2,13,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+271a69bef5e0151f51c1ce47b964865ae59af589,fix(curriculum):  clarify instructions and resolve URL issues in lead…,2026-05-19T09:59:50Z,1,54,Venkat-Entropik,freeCodeCamp,freeCodeCamp
+ec87e60f9ac86641f870eef8fbb52331a3b6f0d9,"feat(i18n, learn): remove Swahili and German from notAuditedSuperBloc…",2026-05-19T09:59:14Z,1,67,DanielRosa74,freeCodeCamp,freeCodeCamp
 384b4c8a437f816d2a1fb97655bb3300539bb907,"chore(i18n,learn): update i18n-curriculum submodule (#67451)",2026-05-19T01:03:58Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 eb482c869520f264f88134da3169be8768fe082e,"chore(i18n,client): processed translations (#67447)",2026-05-18T16:48:53Z,10,170,camperbot,freeCodeCamp,freeCodeCamp
 21b8619aa2ae2b30d1e52906d2c6707ef7be3fa0,fix(curriculum): use output test for bill splitter step 4 print hint …,2026-05-18T08:09:37Z,1,13,majestic-owl448,freeCodeCamp,freeCodeCamp
@@ -728,14 +733,3 @@ c397879ce2f311317fc4c2e43e54bb35395532ab,feat(curriculum): add insertion sort la
 eabfb7fcf9eddb019a65d62157bd936c2980e67e,fix(curriculum): update step 6 instruction in workshop shopping list …,2026-02-20T17:40:24Z,6,12,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 59abe4c35d4f868a87cd18c9423037d8128e8f0b,fix(client): sidebar font & profile placeholders (#65974),2026-02-20T16:52:18Z,2,28,raisedadead,freeCodeCamp,freeCodeCamp
 e0209396828be0ae838161e493f9be9b0a59a775,feat(curriculum): daily challenges 197-212 (#65864),2026-02-20T15:34:38Z,37,3140,moT01,freeCodeCamp,freeCodeCamp
-941e965e8bb6d56a65b0217bf3c19e9ce28d3202,fix(GHA): cleanup trap in API deploy (#65959),2026-02-20T03:56:23Z,1,1,raisedadead,freeCodeCamp,freeCodeCamp
-43ba11550620a4009f82ba260e5194afc5d9a0a8,fix(tooling): stop api crashing during seed (#65969),2026-02-20T03:56:04Z,1,8,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-303bdffc7ac988505633befb757aa0ddcbd625c8,fix(curriculum): refine editable region workshop bookstore page (#65965),2026-02-19T17:22:23Z,18,122,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-60ab523cb1524645c707ce8cc837aa75eb400787,fix(GHA): pin actions and concurrency (#65960),2026-02-19T16:13:18Z,4,12,raisedadead,freeCodeCamp,freeCodeCamp
-babe7c9d505420588fab2a0d5592ef76eb45aaf3,fix(curriculum): update React import/export lesson to cover default a…,2026-02-19T16:10:04Z,2,133,StephenMuya,freeCodeCamp,freeCodeCamp
-eab9cd388c159b9f6587d185da82e050f9bbb7e0,fix(GHA): use Docker Buildx and GHA caching (#65962),2026-02-19T15:42:26Z,1,26,raisedadead,freeCodeCamp,freeCodeCamp
-de0a28518f532ccc4541ea37fef667e12e730b76,fix(curriculum): add rounding errors explanation to float lesson (#65…,2026-02-19T15:12:51Z,1,6,Dario-DC,freeCodeCamp,freeCodeCamp
-1a4708773dedb0c3b18d6f15fd6a3a71b130e67e,feat(curriculum): remove Chinese superblocks from notAuditedSuperbloc…,2026-02-19T12:26:57Z,1,46,DanielRosa74,freeCodeCamp,freeCodeCamp
-c0e17a9d512df48266424db4643f94096663373a,fix(curriculum): correct wording in explanation section (#65938),2026-02-19T09:00:33Z,1,2,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-990b64d229012da214d02fe749a9299139484cc1,refactor: use pre-built curriculum when starting client (#65878),2026-02-19T07:55:33Z,10,73,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-052416e5bf64fae15dd7f44b6860d39cdf942161,"chore(i18n,learn): update i18n-curriculum submodule (#65954)",2026-02-19T04:50:13Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
