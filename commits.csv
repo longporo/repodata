@@ -1,4 +1,10 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+0d266f1af19101a8b8b15a55a72ea7cfa668aac4,fix(curriculum): correct text errors in lecture-booleans-and-conditio…,2026-05-21T19:19:26Z,2,8,Rafaelkocharli,freeCodeCamp,freeCodeCamp
+9b18e090f3219393f46c25ea308d616f49c38304,fix(curriculum): add missing certification projects to frontend libra…,2026-05-21T17:51:46Z,5,24,Ksound22,freeCodeCamp,freeCodeCamp
+840835f5ffbf2ed3b00149d230f614c7cf4f8c97,fix(curriculum): correct grammar in lecture-accessible-media-elements…,2026-05-21T11:22:12Z,4,8,yaseen-vm,freeCodeCamp,freeCodeCamp
+5f60026666718c64bf5ad877212e283589a3fa8c,fix (client): prevent completion modal in multi-file labs (#66552),2026-05-21T11:14:14Z,6,92,Venkat-Entropik,freeCodeCamp,freeCodeCamp
+9372acecf73119280a6a043c4e2582be4f88a624,fix: restore mobile upper jaw touch gestures (#66752),2026-05-21T09:27:47Z,6,968,Sembauke,freeCodeCamp,freeCodeCamp
+bd3ae458148cb39d0ea266710bbf32df01cb719a,feat(curriculum): add new lesson for type and isinstance functions (#…,2026-05-21T07:34:41Z,3,314,jdwilkin4,freeCodeCamp,freeCodeCamp
 68de9032aef5efc8628b72024aefe37df399929f,fix(client): notes in superblocks intro (#67075),2026-05-20T21:11:32Z,6,245,AdityaSinghWebDev,freeCodeCamp,freeCodeCamp
 13370827c33d405aa3b2c355fdf4231bea9b5f57,fix(curriculum): correct grammar in Fetch API lecture (#67475),2026-05-20T13:49:07Z,1,10,vipin8797,freeCodeCamp,freeCodeCamp
 5279aeb34c196aa566789f5bc26f087677b7b426,fix(client): remove forced 1px size on editor screen-reader textarea …,2026-05-20T13:15:51Z,1,6,wittjeff,freeCodeCamp,freeCodeCamp
@@ -726,7 +732,3 @@ cc50c644b67bb52792194e33883f3d08235396c4,"chore(i18n,client): processed translat
 a22b7db026f256931152b642b356d3836e74fe7a,fix(curriculum): correct typos in python basics (#66004),2026-02-23T10:47:55Z,2,6,MostafaElsehy,freeCodeCamp,freeCodeCamp
 e7d372ed363354c2ac363415d1f57903b5e51418,chore: pnpm self-update,2026-02-23T10:21:35Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
 deeb998a89d01301c61a887096513fd528698a77,fix(curriculum): clarifying absolute path vs absolute url (#65081),2026-02-22T09:12:24Z,1,42,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-7305969701c73d34ce068a582503f99781b93de9,chore(deps): cleanup postinstall stuff (#65989),2026-02-21T12:40:03Z,1,7,raisedadead,freeCodeCamp,freeCodeCamp
-7a7cccc8632c9c9235c8cb7222c37eef9a260903,chore(tools/challenge-helper-scripts): migrate tests to Vitest v4 (#6…,2026-02-21T05:43:19Z,3,18,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-81748f8241baaffef0cc476402ac103f4af01770,chore(tools/challenge-parser): migrate tests to Vitest v4 (#65961),2026-02-21T05:42:51Z,2,6,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-ed873a69ac65935b389dfebb8a652e0375711893,chore(shared): migrate to Vitest v4 (#65958),2026-02-21T05:42:31Z,2,12,Jeevankumar-s,freeCodeCamp,freeCodeCamp
