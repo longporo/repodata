@@ -1,4 +1,13 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+e08b9f992fd6622240c750f9a7ab97f101aac425,fix(client): add support for editable regions in TypeScript and TSX f…,2026-05-22T19:53:53Z,2,35,rustom-yadav,freeCodeCamp,freeCodeCamp
+f2616386123ef846e1602290aabfd1f74ebf8f6c,fix(curriculum): correct errors in html fundamentals lectures (#67529),2026-05-22T18:27:03Z,4,22,shreesakhi-ch,freeCodeCamp,freeCodeCamp
+e3d9399d03bc8e23f1541f83447314eea19c8301,fix: correct ambiguous phrasing and bold formatting in python lecture…,2026-05-22T17:25:15Z,2,4,divy-dawda,freeCodeCamp,freeCodeCamp
+41f29e6e3c639a75d86b894392230cbf4de0bb2a,fix: correct typos in accessible-tables-forms lecture (#67539),2026-05-22T16:40:44Z,2,4,Barreratomas,freeCodeCamp,freeCodeCamp
+030632f44d4cf3d681464d6b8e74329c793994dc,fix(curriculum): add missing add secret step (#67530),2026-05-22T16:19:07Z,2,6,priyanshupundir,freeCodeCamp,freeCodeCamp
+f1fb3737d2a06a763d5bead582efaeaba5c90d17,fix(curriculum): add missing demoType to workshop-colorful-boxes step…,2026-05-22T10:20:13Z,1,1,Baisayan,freeCodeCamp,freeCodeCamp
+dbc5332f9cdcb5c9fe233f21044f556fd3594caa,feat(curriculum): added demoType for final exams table workshop (#67532),2026-05-22T08:41:23Z,1,1,Ayush-014,freeCodeCamp,freeCodeCamp
+449076f75240915bd01fee8fc4b3ba77a957ca02,fix(curriculum): add demoType to cafe-menu step 1 (#67527),2026-05-22T07:51:23Z,1,1,bindpratapsingh,freeCodeCamp,freeCodeCamp
+0923aa9ba570757f10ef152c49cdfc42be6bc1b4,fix(curriculum): added demoType in workshop-hotel-feedback-form step …,2026-05-22T07:31:07Z,1,1,deb2000-sudo,freeCodeCamp,freeCodeCamp
 0d266f1af19101a8b8b15a55a72ea7cfa668aac4,fix(curriculum): correct text errors in lecture-booleans-and-conditio…,2026-05-21T19:19:26Z,2,8,Rafaelkocharli,freeCodeCamp,freeCodeCamp
 9b18e090f3219393f46c25ea308d616f49c38304,fix(curriculum): add missing certification projects to frontend libra…,2026-05-21T17:51:46Z,5,24,Ksound22,freeCodeCamp,freeCodeCamp
 840835f5ffbf2ed3b00149d230f614c7cf4f8c97,fix(curriculum): correct grammar in lecture-accessible-media-elements…,2026-05-21T11:22:12Z,4,8,yaseen-vm,freeCodeCamp,freeCodeCamp
@@ -731,4 +740,3 @@ cb87d5d552f0cca194b7f86f03636f71245aa21e,chore: upgrade Joi to v18 (#66011),2026
 cc50c644b67bb52792194e33883f3d08235396c4,"chore(i18n,client): processed translations (#66012)",2026-02-23T12:45:29Z,20,2804,camperbot,freeCodeCamp,freeCodeCamp
 a22b7db026f256931152b642b356d3836e74fe7a,fix(curriculum): correct typos in python basics (#66004),2026-02-23T10:47:55Z,2,6,MostafaElsehy,freeCodeCamp,freeCodeCamp
 e7d372ed363354c2ac363415d1f57903b5e51418,chore: pnpm self-update,2026-02-23T10:21:35Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
-deeb998a89d01301c61a887096513fd528698a77,fix(curriculum): clarifying absolute path vs absolute url (#65081),2026-02-22T09:12:24Z,1,42,AdityaSingh-18,freeCodeCamp,freeCodeCamp
