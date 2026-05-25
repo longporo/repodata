@@ -1,4 +1,9 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+de8655d5287e60427da6a8cfcbc1d425f3ab35c5,fix(curriculum): fix grammar and wording in arrays tutorials (#67502),2026-05-24T20:29:18Z,3,24,dinesh-bajgain-dev,freeCodeCamp,freeCodeCamp
+ae4660e5ff93a152eb0d5a8be96b110d20c3b49d,fix(curriculum): fix terminology and grammar in error handling lectur…,2026-05-24T20:02:18Z,2,22,AliMahmoudDev,freeCodeCamp,freeCodeCamp
+a1eccbcde86e786b9df57f8311ddc6482477379d,fix(curriculum): remove leading spaces data viz (#67528),2026-05-24T19:33:55Z,2,6,DanielcoderIA,freeCodeCamp,freeCodeCamp
+968a5a55276ec823cf6b6a2e0eecbf7a21cbe4e7,fix(curriculum): avoid parent/child terminology in travel agency page…,2026-05-24T15:28:31Z,1,6,Aniket25042003,freeCodeCamp,freeCodeCamp
+b9b6db03307b89203f41d86c0c0ccd52b8f43f4b,fix(curriculum): correct capitalization in Task 9 data types challeng…,2026-05-24T12:09:03Z,1,2,ShivangSKonde,freeCodeCamp,freeCodeCamp
 b0a6be3fe7bcb71d7732a0a40afa8be174f996bf,feat (curriculum): add lab Smart Pantry Restocker (#66298),2026-05-23T20:37:33Z,4,393,aBeholic,freeCodeCamp,freeCodeCamp
 68d38560797e02824ff7e23bb302bc51cd8d86fd,fix: add missing demoType to workshop-blog-page step 1 (#67546),2026-05-23T13:04:46Z,1,1,raihanuldev,freeCodeCamp,freeCodeCamp
 d6abf68d1c0a3be83a92cc7698f4a8c79bbbef49,feat(client): search functionality for curriculum lessons (#66514),2026-05-23T12:56:31Z,13,598,huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -727,14 +732,3 @@ ef8bc8a225e8e0c5492b1af9475283810c6a6f65,refactor: create middleware for each re
 46b300120fcd8bf237b6c60570b70bbe303772ac,fix(curriculum): clarify constant wording in workshop (#66039),2026-02-25T08:39:40Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 7d3467b26e8a45d7e4368a5f8fab3735400d5c49,fix(curriculum): return false from has() mock in plant nursery step 1…,2026-02-25T08:37:30Z,1,2,farchettiensis,freeCodeCamp,freeCodeCamp
 90caa8abfe7ec013a9e091c61cc1b069bc10d9ba,feat(curriculum): add interactive examples to Responsive Web Design r…,2026-02-25T08:31:14Z,1,106,Vipeen-Kumar,freeCodeCamp,freeCodeCamp
-5c9c7907841e2ed7be3072b0e289eba82e16511b,fix(deps): update dependency @aws-sdk/client-ses to v3.992.0 (#66041),2026-02-25T02:56:14Z,2,360,renovate[bot],freeCodeCamp,freeCodeCamp
-8ba3fbfd1ba0649bf926d0f84f68535259d4ecbf,feat(curriculum): add Adjacency List to Matrix Converter lab to JSv9 …,2026-02-24T21:54:23Z,4,204,majestic-owl448,freeCodeCamp,freeCodeCamp
-46e54e0f3893211452fae8f0faf7a937187f5d84,fix(curriculum): use code instead of editableContents for cafe menu C…,2026-02-24T21:40:42Z,2,8,ragini-pandey,freeCodeCamp,freeCodeCamp
-5586a718fe870abe4eda7c076216a36118b5303d,fix(curriculum): use backtick to avoid syntax highlighting (#66032),2026-02-24T18:11:36Z,1,16,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-62cb6671ac5ff3d08faa4b06b34b01c3651110aa,feat(curriculum): adding dsa course to catalog (#65870),2026-02-24T17:03:23Z,74,2412,jdwilkin4,freeCodeCamp,freeCodeCamp
-f8abe08af864ba764a56f1d6e5ee09fce3a1734f,fix(learn): fixed confetti trigger on every step (#65160),2026-02-24T13:38:46Z,2,77,rizwan-rizu,freeCodeCamp,freeCodeCamp
-311fb3c44ac77cc53b0fca419989d3dbe7505132,fix: failing snapshot on main (#66026),2026-02-24T13:02:06Z,1,3,Sembauke,freeCodeCamp,freeCodeCamp
-59f487f75739b98e914ce5ecb62a6d99506c45b8,fix(curriculum): singular pronoun in clarify misunderstanding hint me…,2026-02-24T08:38:00Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-c6e0e953f93bb87cf255b0d52f745e0ee70662ee,feat(curriculum): Add Chinese Numbers below 100 audio from the CDN (#…,2026-02-24T07:33:40Z,1,5,miyaliu666,freeCodeCamp,freeCodeCamp
-55b414cc0ef9b23aa51a0770889e0a1401ad21df,fix(client): curriculum tag alignment (#65983),2026-02-24T07:32:18Z,1,1,moT01,freeCodeCamp,freeCodeCamp
-63a57e1460b2141f4d4552d2131df957789dc660,fix(client): align flash banner (#65946),2026-02-24T07:25:23Z,2,65,vicgolding,freeCodeCamp,freeCodeCamp
