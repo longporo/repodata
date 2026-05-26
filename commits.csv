@@ -1,6 +1,14 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+5922f2dbaded99d9e47978d01d7f8754d1dd4a3c,fix(curriculum): review describing a company basics (#67459),2026-05-25T20:06:47Z,63,1109,estefaniacn,freeCodeCamp,freeCodeCamp
+425837204a8e701beeb111bdf3680a4f6bd9504f,feat(curriculum): add Python module for installation and running code…,2026-05-25T13:54:36Z,13,780,jdwilkin4,freeCodeCamp,freeCodeCamp
+0f592912c8b698746b3f05c2dc023d1608b45f63,fix(curriculum): add missing demoType to flashcard quiz app (#67595),2026-05-25T12:12:04Z,1,1,TheSeydiCharyyev,freeCodeCamp,freeCodeCamp
+862e92c214c3f36f2928db910277ade606c8554b,fix(curriculum): correct broken feedback sentence in raise statement …,2026-05-25T12:09:46Z,1,6,Vanishagupta18,freeCodeCamp,freeCodeCamp
+c429f03a9b95ab084ed8476c611d4112586519a7,fix(client): move RDB start button above post-setup steps (#67255),2026-05-25T09:13:15Z,3,44,azad12614,freeCodeCamp,freeCodeCamp
+1670dca438f10ea3dc9754e334d4127785e8106e,feat(curriculum): add http and web standards quiz (#67335),2026-05-25T09:08:58Z,4,477,Ksound22,freeCodeCamp,freeCodeCamp
+e69bd6224a094ee4ce1a83184dbe10621f250378,fix: correct 'in to' typo to 'into' in basic HTML quiz (#67586),2026-05-25T08:21:23Z,1,2,07Vineet07,freeCodeCamp,freeCodeCamp
+fdab641dd00fe86517dbd7b5cf71fcf80fbe78d7,feat(curriculum): add async/await to workshop-fcc-authors-page (#66972),2026-05-25T07:47:01Z,7,1480,hbar1st,freeCodeCamp,freeCodeCamp
 de8655d5287e60427da6a8cfcbc1d425f3ab35c5,fix(curriculum): fix grammar and wording in arrays tutorials (#67502),2026-05-24T20:29:18Z,3,24,dinesh-bajgain-dev,freeCodeCamp,freeCodeCamp
-ae4660e5ff93a152eb0d5a8be96b110d20c3b49d,fix(curriculum): fix terminology and grammar in error handling lectur…,2026-05-24T20:02:18Z,2,22,AliMahmoudDev,freeCodeCamp,freeCodeCamp
+ae4660e5ff93a152eb0d5a8be96b110d20c3b49d,fix(curriculum): fix terminology and grammar in error handling lectur…,2026-05-24T20:02:18Z,2,22,Ali Mahmmoud,freeCodeCamp,freeCodeCamp
 a1eccbcde86e786b9df57f8311ddc6482477379d,fix(curriculum): remove leading spaces data viz (#67528),2026-05-24T19:33:55Z,2,6,DanielcoderIA,freeCodeCamp,freeCodeCamp
 968a5a55276ec823cf6b6a2e0eecbf7a21cbe4e7,fix(curriculum): avoid parent/child terminology in travel agency page…,2026-05-24T15:28:31Z,1,6,Aniket25042003,freeCodeCamp,freeCodeCamp
 b9b6db03307b89203f41d86c0c0ccd52b8f43f4b,fix(curriculum): correct capitalization in Task 9 data types challeng…,2026-05-24T12:09:03Z,1,2,ShivangSKonde,freeCodeCamp,freeCodeCamp
@@ -723,12 +731,3 @@ e0c0fdd738d667930b95dfec863ac441b52030ad,feat: allow caller to audit specific la
 4d3f6b72b98673c8780f9066368ac43ea7b57532,fix(curriculum): Copy tweaks - calling methods on objects (#66080),2026-02-26T08:04:58Z,2,12,jordantrent,freeCodeCamp,freeCodeCamp
 0b414c7b50a47371a6bfae13a8e6cdc7c2e1b0cd,fix(curriculum): Resolved quotes issue in python review test (#66082),2026-02-26T08:04:20Z,2,8,Aryankpoor,freeCodeCamp,freeCodeCamp
 e8580015fc41bde142ece87ada829148bee702a3,"chore(i18n,learn): update i18n-curriculum submodule (#66088)",2026-02-26T08:02:11Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-e4b3e720f2d99b0f96585e7cff2c77e79e7f64d7,feat(curriculum): add chp3 md2 sharing personal details (#64546),2026-02-25T20:56:35Z,110,11677,RafaelDavisH,freeCodeCamp,freeCodeCamp
-52e5d242a7dd6e10027668abf253fd097001ac7a,fix(curriculum): clarify sorted() is a built-in function with example…,2026-02-25T20:07:24Z,2,20,ragini-pandey,freeCodeCamp,freeCodeCamp
-ef8bc8a225e8e0c5492b1af9475283810c6a6f65,refactor: create middleware for each redux store (#66060),2026-02-25T17:31:22Z,1,29,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-67d26dd1d94d0b6b5a97115da471eb551582eb81,fix(curriculum): typos in lecture absolute and relative paths (#66030),2026-02-25T13:55:39Z,1,6,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-8b43b30b95f99aed9015da0cd32fb6a99143fa6e,fix(client): add message about accepting ahp (#65675),2026-02-25T11:25:33Z,2,163,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-07d3bd9a745a45dffb8fd20687abeb020704895e,fix: update copyright to be start year (#66044),2026-02-25T09:16:40Z,2,4,majestic-owl448,freeCodeCamp,freeCodeCamp
-46b300120fcd8bf237b6c60570b70bbe303772ac,fix(curriculum): clarify constant wording in workshop (#66039),2026-02-25T08:39:40Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-7d3467b26e8a45d7e4368a5f8fab3735400d5c49,fix(curriculum): return false from has() mock in plant nursery step 1…,2026-02-25T08:37:30Z,1,2,farchettiensis,freeCodeCamp,freeCodeCamp
-90caa8abfe7ec013a9e091c61cc1b069bc10d9ba,feat(curriculum): add interactive examples to Responsive Web Design r…,2026-02-25T08:31:14Z,1,106,Vipeen-Kumar,freeCodeCamp,freeCodeCamp
