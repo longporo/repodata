@@ -1,7 +1,11 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X88AAAABDSIEaQ,67593,Add download button to independent lower jaw,OPEN,2026-05-25T07:58:48Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDWHNLQ,67604,Europe is not a continent,OPEN,2026-05-25T20:54:57Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABC4fFuA,67491,Fix factual and grammar errors in lecture-understanding-asynchronous-programming,OPEN,2026-05-20T17:02:24Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDWHNLQ,67604,Europe is not a continent,CLOSED,2026-05-25T20:54:57Z,2026-05-26T05:30:48Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDdSEag,67611,curriculum: fix typos in Football Player Card Builder workshop,OPEN,2026-05-26T19:42:41Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDcy_8A,67608,jsv9 smart pantry lab restocker missing key details in description,OPEN,2026-05-26T18:25:51Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBu_1bw,67296,Need improvement in accessibility,OPEN,2026-05-09T05:46:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDWxZLw,67605,RDB: Build Five Programs workshop gives an invalid hint,OPEN,2026-05-25T23:48:06Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDSIEaQ,67593,Add download button to independent lower jaw,OPEN,2026-05-25T07:58:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPE14,64121,Workshop – Artifact Provenance Auditor,OPEN,2025-11-25T03:44:42Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87w5ZBs,66302,Interactive editor shows extra constructor metadata in JS classes lecture,CLOSED,2026-03-08T15:58:46Z,2026-05-25T19:38:31Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Xq1cH,63788,Escaping HTML entities,OPEN,2025-11-12T21:42:22Z,,,freeCodeCamp,freeCodeCamp
@@ -9,10 +13,6 @@ I_kwDOAbI7X87muU8F,65562,Python Basics theory missing how to run your code,CLOSE
 I_kwDOAbI7X87xg25H,66338,Download my solution button,CLOSED,2026-03-10T13:45:25Z,2026-05-25T13:46:22Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABC2tDeQ,67480,Missing demoType for flashcard quiz app,CLOSED,2026-05-20T12:47:58Z,2026-05-25T12:12:06Z,TheSeydiCharyyev,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABC0bZYw,67469,Broken feedback sentences in 'What Is the Raise Statement and How Does It Work?' lecture,CLOSED,2026-05-20T07:27:47Z,2026-05-25T12:09:48Z,Vanishagupta18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDTaMUA,67599,MEDIUM: sample.env exposes complete infra map - MongoDB Auth0 Stripe PayPal Algolia SES Sentry,CLOSED,2026-05-25T11:44:52Z,2026-05-25T12:05:19Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDTaIGw,67598,MEDIUM: FCC_ENABLE_SWAGGER_UI defaults to true - API docs exposed by default,CLOSED,2026-05-25T11:44:40Z,2026-05-25T12:05:05Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDTZDsQ,67597,MEDIUM: FCC_ENABLE_SWAGGER_UI defaults to true - API documentation exposed by default,CLOSED,2026-05-25T11:41:43Z,2026-05-25T12:04:51Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDTWcbQ,67596,MEDIUM: Security policy not discoverable via standard SECURITY.md - only in external docs,CLOSED,2026-05-25T11:33:39Z,2026-05-25T12:04:31Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87_m741,66990,RDB-v9 Course: Start the course button location missed by many,CLOSED,2026-04-18T15:18:00Z,2026-05-25T09:13:18Z,azad12614,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDRobPg,67587,"Typo in basic HTML quiz: ""in to"" should be ""into""",CLOSED,2026-05-25T06:25:20Z,2026-05-25T08:21:25Z,07Vineet07,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBfKZYg,67263,RDB course missing instructions on required language setting,OPEN,2026-05-06T22:07:49Z,,,freeCodeCamp,freeCodeCamp
@@ -21,7 +21,6 @@ I_kwDOAbI7X88AAAABBN6R7g,67225,"Bug - Build a Heritage Library Catalog, Step 28"
 I_kwDOAbI7X87xrDN_,66361,No language selector on small window of daily challenge,OPEN,2026-03-10T22:38:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87q-Cf9,65887,Improve solution download format to ZIP project structure,OPEN,2026-02-14T19:37:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABC4fDCg,67490,Fix terminology and grammar errors in lecture-working-with-arrays,CLOSED,2026-05-20T17:02:17Z,2026-05-24T20:29:20Z,Sembauke;dinesh-bajgain-dev,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABBu_1bw,67296,Need improvement in accessibility,OPEN,2026-05-09T05:46:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDO6lbg,67575,Feature: Add a progress summary dashboard for learners,OPEN,2026-05-24T14:41:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDBJ6dw,67517,Fix errors in lecture-understanding-error-handling block,CLOSED,2026-05-21T19:55:49Z,2026-05-24T20:02:19Z,AliMahmoudDev;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDBJ5dA,67516,Fix leading spaces in answer options in lecture-introduction-to-data-visualization block,CLOSED,2026-05-21T19:55:46Z,2026-05-24T19:33:57Z,DanielcoderIA;huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -53,7 +52,6 @@ I_kwDOAbI7X88AAAABDBMODA,67524,Add missing demoType to workshop-final-exams-tabl
 I_kwDOAbI7X88AAAABDBML3Q,67522,Add missing demoType to workshop-cafe-menu step 1,CLOSED,2026-05-21T20:01:55Z,2026-05-22T07:51:25Z,bindpratapsingh,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDBMPYg,67525,Add missing demoType to workshop-hotel-feedback-form step 1,CLOSED,2026-05-21T20:02:05Z,2026-05-22T07:31:09Z,Debashis Nayak,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDBLohw,67519,Fix errors in lecture-html-fundamentals block,CLOSED,2026-05-21T20:00:29Z,2026-05-21T20:03:03Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABC4fFuA,67491,Fix factual and grammar errors in lecture-understanding-asynchronous-programming,OPEN,2026-05-20T17:02:24Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABC8lZsg,67504,Fix errors in lecture-booleans-and-conditionals block,CLOSED,2026-05-21T07:43:49Z,2026-05-21T19:19:29Z,Rafaelkocharli,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABC8lYaA,67503,Fix grammar errors in lecture-accessible-media-elements block,CLOSED,2026-05-21T07:43:46Z,2026-05-21T11:22:14Z,yaseen-vm,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87xq4xy,66359,"Ctrl+enter brings up completion modal, when it should just be the independent jaw",CLOSED,2026-03-10T22:26:06Z,2026-05-21T11:14:17Z,Sembauke;Venkat,freeCodeCamp,freeCodeCamp
@@ -503,12 +501,3 @@ I_kwDOAbI7X87qj-5l,65863,Inconsistent answer between mobile app and web - A1 Spa
 I_kwDOAbI7X87uGf6j,66099,heapq  module name and heappushpop example,CLOSED,2026-02-26T10:31:42Z,2026-02-27T09:56:13Z,lockinginfor2026-arch,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87uam8g,66125,test should check only if variable exists,CLOSED,2026-02-27T09:01:21Z,2026-02-27T09:49:51Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87t2Lou,66061,shopping cart step 18,CLOSED,2026-02-25T16:19:26Z,2026-02-27T09:22:47Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87t4GVW,66067,fix code snippet,CLOSED,2026-02-25T18:01:23Z,2026-02-26T15:46:55Z,thefool309,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87klbtL,65368,Certificate Page - no project links,CLOSED,2026-01-20T18:57:13Z,2026-02-26T11:35:04Z,garyeung,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87txVYc,66048,Python Certification typos throughout the course,CLOSED,2026-02-25T12:16:57Z,2026-02-26T08:20:32Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87lmpyY,65482,Proxy Python execution errors to the main platform console,CLOSED,2026-01-24T21:31:15Z,2026-02-26T08:14:11Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87t52x2,66071,calling methods on objects,CLOSED,2026-02-25T19:35:57Z,2026-02-26T08:05:00Z,jordantrent,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87t3oNC,66064,quotes need replacing,CLOSED,2026-02-25T17:38:24Z,2026-02-26T08:04:21Z,Aryankpoor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87to4vj,66043,Tests fail even with correct solution in JavaScript,CLOSED,2026-02-25T03:04:54Z,2026-02-26T08:02:13Z,camperbot,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87sxa6t,65994,"Instructions ask for Spanish text, but tests expect English",CLOSED,2026-02-21T17:13:36Z,2026-02-26T08:02:13Z,camperbot,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87tziZ7,66058,"aria-label shows ""Play undefined"" when currentSong is null",CLOSED,2026-02-25T14:10:37Z,2026-02-25T15:18:02Z,,freeCodeCamp,freeCodeCamp
