@@ -1,4 +1,6 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+dd43266fd71a8c62b4123c6f51327c173f742ae7,"chore(i18n,learn): update i18n-curriculum submodule (#67610)",2026-05-26T20:48:23Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+b8ce1f562d083dd900dbf70ce241be4c6ce47338,"chore(i18n,client): processed translations (#67600)",2026-05-26T06:41:54Z,20,360,camperbot,freeCodeCamp,freeCodeCamp
 5922f2dbaded99d9e47978d01d7f8754d1dd4a3c,fix(curriculum): review describing a company basics (#67459),2026-05-25T20:06:47Z,63,1109,estefaniacn,freeCodeCamp,freeCodeCamp
 425837204a8e701beeb111bdf3680a4f6bd9504f,feat(curriculum): add Python module for installation and running code…,2026-05-25T13:54:36Z,13,780,jdwilkin4,freeCodeCamp,freeCodeCamp
 0f592912c8b698746b3f05c2dc023d1608b45f63,fix(curriculum): add missing demoType to flashcard quiz app (#67595),2026-05-25T12:12:04Z,1,1,TheSeydiCharyyev,freeCodeCamp,freeCodeCamp
@@ -718,16 +720,3 @@ cf3c22025ddc11413f3ac6b4662420179c736994,"chore(i18n,client): processed translat
 0640350046c7e0129c73658904aec031238d2b6c,fix(curriculum): rename heap module to heapq and correct heap propert…,2026-02-27T09:56:12Z,2,14,lockinginfor2026-arch,freeCodeCamp,freeCodeCamp
 e796c06e59806cf24f93d462259be8229ca7ed79,fix(curriculum): update test to assert variable exist (#66126),2026-02-27T09:49:50Z,1,2,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 791e329e67a0a49a36ca3ee2621ab3234db6d7a6,fix(curriculum): update test for flexibility workshop shopping cart (…,2026-02-27T09:22:45Z,1,5,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-fbb1cf0487d93be6485fc82bc7357ec42272bcf0,refactor: import english translations (#66114),2026-02-27T02:40:51Z,1,23,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-ab830caaa6b1974e414317038994b66051cd2f10,refactor: clean client on setup (#66108),2026-02-27T02:40:41Z,6,47,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-f507f600b1a2d554d520a8b0177f3f663be87593,fix(curriculum): review A1 Spanish sharing your personal details bloc…,2026-02-26T16:56:57Z,69,537,estefaniacn,freeCodeCamp,freeCodeCamp
-e6341ac798b3037cb264ed6391cd4c86333e12a3,feat: add requested chapter icon for Spanish (#66024),2026-02-26T16:03:48Z,2,7,Sembauke,freeCodeCamp,freeCodeCamp
-b904a2a74c06a966636f4e7892318c9bfd24792a,fix(curriculum): use correct indentation and fix comment (#66112),2026-02-26T15:46:53Z,2,28,thefool309,freeCodeCamp,freeCodeCamp
-46a209ecdd208010ab6855d6d832a147886a4d77,"chore(i18n,learn): update i18n-curriculum submodule (#66111)",2026-02-26T14:20:48Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-e0c0fdd738d667930b95dfec863ac441b52030ad,feat: allow caller to audit specific languages (#66110),2026-02-26T13:42:47Z,1,12,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-0e8c6d5d6ace608e6c68dc02227ea492511a45a1,fix(client): adjust cert heading (#65552),2026-02-26T11:35:02Z,2,29,garyeung,freeCodeCamp,freeCodeCamp
-1d41b61f95d5cc63ee6adff6ccd5566ceab0dbc3,refactor: remove proxy console TODO (#66091),2026-02-26T08:27:47Z,1,1,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-2ccef21368500fa24abbe3e21bde4bb2d5bdad2c,fix(curriculum): typos in python review and others (#66059),2026-02-26T08:20:30Z,10,58,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-4d3f6b72b98673c8780f9066368ac43ea7b57532,fix(curriculum): Copy tweaks - calling methods on objects (#66080),2026-02-26T08:04:58Z,2,12,jordantrent,freeCodeCamp,freeCodeCamp
-0b414c7b50a47371a6bfae13a8e6cdc7c2e1b0cd,fix(curriculum): Resolved quotes issue in python review test (#66082),2026-02-26T08:04:20Z,2,8,Aryankpoor,freeCodeCamp,freeCodeCamp
-e8580015fc41bde142ece87ada829148bee702a3,"chore(i18n,learn): update i18n-curriculum submodule (#66088)",2026-02-26T08:02:11Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
