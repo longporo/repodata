@@ -1,4 +1,7 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+693048a46cd25a40cc96a33d623fe22aae7f94a9,fix(curriculum): correct async lecture text (#67607),2026-05-28T00:20:39Z,7,18,GandotraDiya,freeCodeCamp,freeCodeCamp
+32713ed842fb4e123c0b93c218ffa3a0e9b409e0,"fix(client,curriculum): mark inputType as required for Chinese FITB c…",2026-05-27T23:58:12Z,8,44,huyenltnguyen,freeCodeCamp,freeCodeCamp
+64945a57a29190e878faa5bf971dfcb3aabbacdb,fix(a11y): update independent lower jaw to announce hint and completi…,2026-05-27T23:57:20Z,2,239,huyenltnguyen,freeCodeCamp,freeCodeCamp
 dd43266fd71a8c62b4123c6f51327c173f742ae7,"chore(i18n,learn): update i18n-curriculum submodule (#67610)",2026-05-26T20:48:23Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 b8ce1f562d083dd900dbf70ce241be4c6ce47338,"chore(i18n,client): processed translations (#67600)",2026-05-26T06:41:54Z,20,360,camperbot,freeCodeCamp,freeCodeCamp
 5922f2dbaded99d9e47978d01d7f8754d1dd4a3c,fix(curriculum): review describing a company basics (#67459),2026-05-25T20:06:47Z,63,1109,estefaniacn,freeCodeCamp,freeCodeCamp
@@ -705,18 +708,3 @@ d9a5bee63955f8d1ef44458ba2acb4e1e6167576,"chore(i18n,learn): update i18n-curricu
 f9286baf9eb17d7b75bf2a43a594f9dc3b24d48e,fix(curriculum): update test to allow list() in workshop bfs (#66103),2026-02-28T08:23:11Z,1,3,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 7003110477dc96f6d2e02ca56a58685a2bc8dc2f,"chore(i18n,learn): update i18n-curriculum submodule (#66133)",2026-02-28T08:15:25Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 86b6a597776e95e24e21f5d1f3a7f7b1928eebce,fix(curriculum): update super() definition for accuracy (#66130),2026-02-28T08:09:37Z,2,4,imsanupm,freeCodeCamp,freeCodeCamp
-2363207805a03c59f11e5a0464c769e71465fcc9,feat: reordered unpacking lists review in review-python and review-lo…,2026-02-28T00:55:45Z,2,8,ash-win19,freeCodeCamp,freeCodeCamp
-75917df14a7d16db352e6fcb30e4e873b1ec0827,fix(api): handle unauthenticated users in get-session-user endpoint (…,2026-02-27T20:25:55Z,3,44,Sembauke,freeCodeCamp,freeCodeCamp
-946b96c089df5233dee5cefc99b518af0be0f31d,fix(curriculum): rename lab title to Build an Apply Discount Function…,2026-02-27T18:12:49Z,2,9,iAakash1,freeCodeCamp,freeCodeCamp
-58780e836a87eb355b5dccdf8bd3ac4c9cdc8768,fix(curriculum): clarify slicing syntax (#66122),2026-02-27T18:12:31Z,2,4,cesarinsalad,freeCodeCamp,freeCodeCamp
-1d11379e510098f3d84d46be26fe6825fc50a437,fix(curriculum): adding audios to A2 quizzes (#65851),2026-02-27T15:02:48Z,17,552,anastasiiauk,freeCodeCamp,freeCodeCamp
-f7961efa452c35eb5876c53dea8716eb83aa59de,fix(curriculum): use built-in list in workshop discount calculator (#…,2026-02-27T14:24:43Z,11,180,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-a0a0236d69af48f96d3285a1662f144532f01346,refactor(ci): lint with both values of SHOW_UPCOMING_CHANGES (#66128),2026-02-27T14:04:13Z,1,13,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-f2a4a2593cff18d86716efc199149fafb621ab8f,fix: stop mutating redux state (savedChallenges) (#66129),2026-02-27T14:03:45Z,2,20,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-d89bcc3f117fbdde9b525490c282e7106787b438,"feat(Curriculum): Make A1 ES modules ""Sharing Your Personal Details"" …",2026-02-27T13:10:23Z,13,37,nieldakarla,freeCodeCamp,freeCodeCamp
-a6d1e545c0d3fb36493eb82430247507178f472c,fix: block creation and hot reloading (#66127),2026-02-27T12:52:08Z,9,267,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-ba61d33698e762e3ababdf6523072e6a4671641d,fix(client): pull curriculum data where needed (#65710),2026-02-27T12:23:21Z,13,403,ahmaxed,freeCodeCamp,freeCodeCamp
-cf3c22025ddc11413f3ac6b4662420179c736994,"chore(i18n,client): processed translations (#66052)",2026-02-27T11:28:25Z,20,2634,camperbot,freeCodeCamp,freeCodeCamp
-0640350046c7e0129c73658904aec031238d2b6c,fix(curriculum): rename heap module to heapq and correct heap propert…,2026-02-27T09:56:12Z,2,14,lockinginfor2026-arch,freeCodeCamp,freeCodeCamp
-e796c06e59806cf24f93d462259be8229ca7ed79,fix(curriculum): update test to assert variable exist (#66126),2026-02-27T09:49:50Z,1,2,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-791e329e67a0a49a36ca3ee2621ab3234db6d7a6,fix(curriculum): update test for flexibility workshop shopping cart (…,2026-02-27T09:22:45Z,1,5,AdityaSingh-18,freeCodeCamp,freeCodeCamp
