@@ -1,11 +1,19 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X88AAAABC4fFuA,67491,Fix factual and grammar errors in lecture-understanding-asynchronous-programming,OPEN,2026-05-20T17:02:24Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDWHNLQ,67604,Europe is not a continent,CLOSED,2026-05-25T20:54:57Z,2026-05-26T05:30:48Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDm6WyQ,67632,Potential ReferenceError in email subscription catch block,OPEN,2026-05-28T02:00:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDm44nA,67630,Add Chinese (zh-CN) and Traditional Chinese (zh-TW) README translations,CLOSED,2026-05-28T01:54:57Z,2026-05-28T02:00:26Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDl9IqA,67628,Build a smart pantry restocker - Too little information in the instructions and given tests,OPEN,2026-05-27T22:10:26Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABC4fFuA,67491,Fix factual and grammar errors in lecture-understanding-asynchronous-programming,CLOSED,2026-05-20T17:02:24Z,2026-05-28T00:20:42Z,GandotraDiya,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDlAPcA,67625,"fix(client,curriculum): remove orphaned arguments from function calls",CLOSED,2026-05-27T19:20:26Z,2026-05-28T00:10:48Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDlYL4Q,67627,Reduce cognitive complexity in exam-environment.ts and related files,CLOSED,2026-05-27T20:26:07Z,2026-05-28T00:09:50Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87pmJp-,65797,Translatable tokens in language files,OPEN,2026-02-10T02:25:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDlSYCw,67626,Translation error in Spanish challenge,OPEN,2026-05-27T20:09:26Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDdSEag,67611,curriculum: fix typos in Football Player Card Builder workshop,OPEN,2026-05-26T19:42:41Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDj-J7A,67623,Move origin extraction outside try block in email subscription handlers,OPEN,2026-05-27T16:31:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDSIEaQ,67593,Add download button to independent lower jaw,OPEN,2026-05-25T07:58:48Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDWHNLQ,67604,Europe is not a continent,CLOSED,2026-05-25T20:54:57Z,2026-05-26T05:30:48Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDcy_8A,67608,jsv9 smart pantry lab restocker missing key details in description,OPEN,2026-05-26T18:25:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBu_1bw,67296,Need improvement in accessibility,OPEN,2026-05-09T05:46:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDWxZLw,67605,RDB: Build Five Programs workshop gives an invalid hint,OPEN,2026-05-25T23:48:06Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDSIEaQ,67593,Add download button to independent lower jaw,OPEN,2026-05-25T07:58:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPE14,64121,Workshop – Artifact Provenance Auditor,OPEN,2025-11-25T03:44:42Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87w5ZBs,66302,Interactive editor shows extra constructor metadata in JS classes lecture,CLOSED,2026-03-08T15:58:46Z,2026-05-25T19:38:31Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Xq1cH,63788,Escaping HTML entities,OPEN,2025-11-12T21:42:22Z,,,freeCodeCamp,freeCodeCamp
@@ -158,7 +166,6 @@ I_kwDOAbI7X87P6-rG,62555,Make curriculum subject headings anchor linkable for di
 I_kwDOAbI7X88AAAABBXvBZg,67239,docs: add missing link for C# Microsoft Certification in README.md,CLOSED,2026-05-05T20:37:54Z,2026-05-05T21:46:24Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861cTFs,60200,Width for code examples in lectures are not the same,CLOSED,2025-05-06T21:46:42Z,2026-05-05T15:09:07Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBG1l5A,67208,Campfire Mode Not Working,CLOSED,2026-05-02T15:04:29Z,2026-05-05T15:00:40Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87pmJp-,65797,Translatable tokens in language files,OPEN,2026-02-10T02:25:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBKnNMA,67222,Bug in Portugeuse language,CLOSED,2026-05-03T22:51:57Z,2026-05-04T20:10:05Z,camperbot,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBNoSqQ,67224,Workshop - CSS - Design a Parent Teacher Conference Form - Step 35 - Test not working,CLOSED,2026-05-04T11:59:40Z,2026-05-04T12:40:50Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAPdRHw,67068,Heritage Library - Step 18 test too strict,CLOSED,2026-04-22T18:49:59Z,2026-05-04T11:24:38Z,caiolucasbittencourt;huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -490,14 +497,3 @@ I_kwDOAbI7X87use8K,66142,Broken Interactive Editor in JavaScript Objects Review 
 I_kwDOAbI7X87uqyKK,66134,wrong use of append,CLOSED,2026-02-28T08:13:21Z,2026-02-28T15:51:46Z,gangulysiddhartha22-cmyk,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87txdK9,66050,Python Certification Breadth-First Search Workshop issue,CLOSED,2026-02-25T12:23:36Z,2026-02-28T08:23:13Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87uGmJD,66101,`super` definition,CLOSED,2026-02-26T10:37:03Z,2026-02-28T08:09:39Z,imsanupm,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87uGi83,66100,reorder unpacking lists review,CLOSED,2026-02-26T10:34:22Z,2026-02-28T00:55:47Z,ash-win19,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86M4mje,55234,Send 200 status for get-session-user,CLOSED,2024-06-20T06:42:26Z,2026-02-27T20:25:57Z,Sembauke,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87pdKM8,65791,Responsive Web Design exam locked despite all projects completed,CLOSED,2026-02-09T14:40:08Z,2026-02-27T19:11:46Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87t6vo_,66074,"Rename lab title: ""Build a Discount Calculator"" → ""Build an Apply Discount Function""",CLOSED,2026-02-25T20:23:36Z,2026-02-27T18:12:50Z,iAakash1,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87t34hw,66066,clarify slicing syntax,CLOSED,2026-02-25T17:50:44Z,2026-02-27T18:12:33Z,cesarinsalad,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87swzkk,65992,Bug: Unable to save changes in settings,CLOSED,2026-02-21T15:27:43Z,2026-02-27T17:42:36Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87uFXQl,66094,non-deprecated typing needed,CLOSED,2026-02-26T09:32:57Z,2026-02-27T14:24:45Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87qj-5l,65863,Inconsistent answer between mobile app and web - A1 Spanish,CLOSED,2026-02-13T04:37:41Z,2026-02-27T11:29:52Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87uGf6j,66099,heapq  module name and heappushpop example,CLOSED,2026-02-26T10:31:42Z,2026-02-27T09:56:13Z,lockinginfor2026-arch,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87uam8g,66125,test should check only if variable exists,CLOSED,2026-02-27T09:01:21Z,2026-02-27T09:49:51Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87t2Lou,66061,shopping cart step 18,CLOSED,2026-02-25T16:19:26Z,2026-02-27T09:22:47Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
