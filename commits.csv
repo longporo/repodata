@@ -1,4 +1,7 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+58b658626b1df82b38c51ca3e1c65d90f816f0d3,fix(curriculum): remove trailing spaces and fix HTTP formatting (#67647),2026-05-28T15:14:29Z,1,8,Rehan-M-395,freeCodeCamp,freeCodeCamp
+5a2606db1c4802aed8b92ef499b5a500d3fc9473,"feat(client,api): add a per module reset (#62547)",2026-05-28T13:26:39Z,29,2589,raisedadead,freeCodeCamp,freeCodeCamp
+473d6601341ae571488eccd1278d40b1947b1014,"chore(i18n,client): processed translations (#67621)",2026-05-28T07:01:08Z,20,382,camperbot,freeCodeCamp,freeCodeCamp
 693048a46cd25a40cc96a33d623fe22aae7f94a9,fix(curriculum): correct async lecture text (#67607),2026-05-28T00:20:39Z,7,18,GandotraDiya,freeCodeCamp,freeCodeCamp
 32713ed842fb4e123c0b93c218ffa3a0e9b409e0,"fix(client,curriculum): mark inputType as required for Chinese FITB c…",2026-05-27T23:58:12Z,8,44,huyenltnguyen,freeCodeCamp,freeCodeCamp
 64945a57a29190e878faa5bf971dfcb3aabbacdb,fix(a11y): update independent lower jaw to announce hint and completi…,2026-05-27T23:57:20Z,2,239,huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -700,11 +703,3 @@ b60712f89ce7df1a5023e65ec7c0db4c49a4b698,chore: review instructions,2026-03-02T0
 95e293d23a51bff3d3cb388c0da608c9d18eef1f,fix(GHA): harden permissions (#66155),2026-03-01T11:49:19Z,6,34,raisedadead,freeCodeCamp,freeCodeCamp
 59ab2e4103bbaaaeaf61434c709345442cf4611d,fix(GHA): harden deploy workflows with env vars and explicit secrets …,2026-03-01T04:17:18Z,3,28,raisedadead,freeCodeCamp,freeCodeCamp
 5f3bb979cbd8dc89b77e8abfedb2896c75d311dc,fix(GHA): pin crowdin actions to SHA commits (#66137),2026-03-01T04:16:55Z,3,44,raisedadead,freeCodeCamp,freeCodeCamp
-daa1bf733ce79ba3c1d5d3ad99acd5ede71ba9e0,fix(curriculum): changing the isinstance() example code (#66149),2026-02-28T19:14:40Z,2,14,PrafulVRaj,freeCodeCamp,freeCodeCamp
-21254bf1b746ab554619c87d6996e8ab756aaf2e,fix(curriculum): string method reference consistency (#66140),2026-02-28T18:43:52Z,1,24,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-7f98f91c0262e329dbedd42bbdf1ed5981ce9b59,fix(curriculum): update code block to ts (#66147),2026-02-28T18:40:58Z,1,2,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-d824be8a06670de23d6c38235073d3fdde3ebdd2,fix(curriculum): use 'concatenate' instead of 'append' in workshop-pi…,2026-02-28T15:51:44Z,1,2,gangulysiddhartha22-cmyk,freeCodeCamp,freeCodeCamp
-d9a5bee63955f8d1ef44458ba2acb4e1e6167576,"chore(i18n,learn): update i18n-curriculum submodule (#66141)",2026-02-28T13:47:37Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-f9286baf9eb17d7b75bf2a43a594f9dc3b24d48e,fix(curriculum): update test to allow list() in workshop bfs (#66103),2026-02-28T08:23:11Z,1,3,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-7003110477dc96f6d2e02ca56a58685a2bc8dc2f,"chore(i18n,learn): update i18n-curriculum submodule (#66133)",2026-02-28T08:15:25Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-86b6a597776e95e24e21f5d1f3a7f7b1928eebce,fix(curriculum): update super() definition for accuracy (#66130),2026-02-28T08:09:37Z,2,4,imsanupm,freeCodeCamp,freeCodeCamp
