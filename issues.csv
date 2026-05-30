@@ -1,27 +1,39 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X88AAAABDuSQzQ,67670,fix incorrect translation in Build a Job Application Form,OPEN,2026-05-29T00:55:24Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDtt9Fg,67662,test: search redux reducer has no unit test coverage,OPEN,2026-05-28T22:22:51Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDt4S1A,67666,test: donation-saga has no coverage for stripeCardErrorHandler authentication error path,OPEN,2026-05-28T23:01:07Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABD0CzTw,67694,Remove unused `username` argument from `postChallenge` calls in completion epic,OPEN,2026-05-29T18:51:25Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABD0Fw_g,67695,Remove unused argument passed to `previewChallengeSaga`,OPEN,2026-05-29T18:59:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABD1QUwA,67697,"Problem with test case ""Build a Pyramid Generator"" in the JavaScript course in JavaScript fundamental review",OPEN,2026-05-29T22:59:30Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDsKGeA,67655,Incorrect quiz feedback and punctuation issue in lecture-browsing-the-web-effectively,CLOSED,2026-05-28T17:55:38Z,2026-05-29T22:41:17Z,annafreidl,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDxoytw,67686,test(client): add unit tests for challenge-request-helpers,CLOSED,2026-05-29T12:11:36Z,2026-05-29T21:39:07Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBfKZYg,67263,RDB course missing instructions on required language setting,OPEN,2026-05-06T22:07:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABD0HL2Q,67696,**Title: Potential Cross-Site Scripting (XSS) vulnerability in user profile bio editor**,CLOSED,2026-05-29T19:03:54Z,2026-05-29T19:47:28Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBN6R7g,67225,"Bug - Build a Heritage Library Catalog, Step 28",CLOSED,2026-05-04T12:43:25Z,2026-05-29T18:54:27Z,majestic-owl448;narasimhan-lakshmi,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDsF14g,67654,Fix incorrect title in lab-motorcycle-shop challenge,CLOSED,2026-05-28T17:44:13Z,2026-05-29T18:41:45Z,Mitraaxx;majestic-owl448,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDcy_8A,67608,jsv9 smart pantry lab restocker missing key details in description,CLOSED,2026-05-26T18:25:51Z,2026-05-29T17:15:11Z,TheSeydiCharyyev;majestic-owl448,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABChu1hA,67442,"Add alternate solution to ""Build A Bill Splitter"" Step 4 Workshop",CLOSED,2026-05-17T18:37:56Z,2026-05-29T17:11:50Z,HAWKZ4;majestic-owl448,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDvYxew,67672,Duplicate isDataAnalysisPyCertV7 entry in nullableFlags,CLOSED,2026-05-29T05:38:47Z,2026-05-29T17:03:47Z,a.mubarrok;majestic-owl448,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDpPKAA,67639,Fix grammar and typos in quiz-css-accessibility challenge,CLOSED,2026-05-28T10:07:06Z,2026-05-29T16:59:25Z,Sembauke;majestic-owl448;santiyorio,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDtvvzw,67663,"Improve generateExam() test coverage for edge cases, validation logic, and regression prevention",CLOSED,2026-05-28T22:30:10Z,2026-05-29T15:18:00Z,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDdSEag,67611,curriculum: fix typos in Football Player Card Builder workshop,CLOSED,2026-05-26T19:42:41Z,2026-05-29T14:52:11Z,BilgeGates;huyenltnguyen;majestic-owl448,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDsTx-w,67659,Misplaced adverb in quiz-classes-and-objects,CLOSED,2026-05-28T18:21:05Z,2026-05-29T14:41:34Z,anup48045;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDt5bvw,67667,Add unit test coverage for getContentConfig() and getLanguageConfig() in file-handler.ts,OPEN,2026-05-28T23:06:10Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDtvvzw,67663,"Improve generateExam() test coverage for edge cases, validation logic, and regression prevention",OPEN,2026-05-28T22:30:10Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDtt9Fg,67662,Search redux reducer has no unit test coverage,OPEN,2026-05-28T22:22:51Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDt4S1A,67666,test: donation-saga has no coverage for stripeCardErrorHandler authentication error path,OPEN,2026-05-28T23:01:07Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDwhFzg,67682,Build a Markdown to HTML Converter - every bold step failing even with a correct solution,CLOSED,2026-05-29T08:59:06Z,2026-05-29T09:29:33Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDuSQzQ,67670,fix incorrect translation in Build a Job Application Form,OPEN,2026-05-29T00:55:24Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDvYykg,67673,fix(api): duplicate isDataAnalysisPyCertV7 entry in nullableFlags,CLOSED,2026-05-29T05:38:52Z,2026-05-29T08:10:17Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDv3xEw,67677,"Solution does not match instructions in ""Fill in the Blank with Placeholder Text"" (missing period)",CLOSED,2026-05-29T07:15:08Z,2026-05-29T07:56:09Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDO6lbg,67575,Feature: Add a progress summary dashboard for learners,OPEN,2026-05-24T14:41:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDtQBCQ,67661,RTL language prep umbrella issue. WIP,OPEN,2026-05-28T20:53:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDqq2fg,67645,Missing HTTP and GraphQL error handling in queryGraphQL function,CLOSED,2026-05-28T14:05:57Z,2026-05-28T18:55:56Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDsP4rQ,67656,fix(api): improve missing curriculum error,CLOSED,2026-05-28T18:10:52Z,2026-05-28T18:52:53Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDsTx-w,67659,Misplaced adverb in quiz-classes-and-objects,OPEN,2026-05-28T18:21:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDsRRAw,67658,"Fix typos, missing words, and hyphenation errors in quiz-basic-css",OPEN,2026-05-28T18:14:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDsKGeA,67655,Incorrect quiz feedback and punctuation issue in lecture-browsing-the-web-effectively,OPEN,2026-05-28T17:55:38Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDsF14g,67654,Fix incorrect title in lab-motorcycle-shop challenge,OPEN,2026-05-28T17:44:13Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDpPKAA,67639,Fix grammar and typos in quiz-css-accessibility challenge,OPEN,2026-05-28T10:07:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDokr4g,67636,rdb Build Five Programs unexplained test script failure,OPEN,2026-05-28T08:15:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDpa6bQ,67640,Trailing spaces and backtick inconsistency in quiz-asynchronous-javascript,CLOSED,2026-05-28T10:37:37Z,2026-05-28T15:14:32Z,Rehan-M-395,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDpqp9g,67641,Fix prose issues in the Review Asynchronous JavaScript lecture,OPEN,2026-05-28T11:21:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85RXI65,47464,Add Per-Module Progress Reset,CLOSED,2022-09-07T18:12:38Z,2026-05-28T13:26:42Z,raisedadead,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDSIEaQ,67593,Add download button to independent lower jaw,OPEN,2026-05-25T07:58:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDj-J7A,67623,Move origin extraction outside try block in email subscription handlers,OPEN,2026-05-27T16:31:08Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDcy_8A,67608,jsv9 smart pantry lab restocker missing key details in description,OPEN,2026-05-26T18:25:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDlSYCw,67626,Translation error in Spanish challenge,OPEN,2026-05-27T20:09:26Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDdSEag,67611,curriculum: fix typos in Football Player Card Builder workshop,OPEN,2026-05-26T19:42:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDWxZLw,67605,RDB: Build Five Programs workshop gives an invalid hint,OPEN,2026-05-25T23:48:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDl9IqA,67628,Build a smart pantry restocker - Too little information in the instructions and given tests,CLOSED,2026-05-27T22:10:26Z,2026-05-28T03:48:10Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDm6WyQ,67632,Potential ReferenceError in email subscription catch block,CLOSED,2026-05-28T02:00:29Z,2026-05-28T03:46:28Z,,freeCodeCamp,freeCodeCamp
@@ -41,9 +53,7 @@ I_kwDOAbI7X88AAAABC2tDeQ,67480,Missing demoType for flashcard quiz app,CLOSED,20
 I_kwDOAbI7X88AAAABC0bZYw,67469,Broken feedback sentences in 'What Is the Raise Statement and How Does It Work?' lecture,CLOSED,2026-05-20T07:27:47Z,2026-05-25T12:09:48Z,Vanishagupta18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87_m741,66990,RDB-v9 Course: Start the course button location missed by many,CLOSED,2026-04-18T15:18:00Z,2026-05-25T09:13:18Z,azad12614,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDRobPg,67587,"Typo in basic HTML quiz: ""in to"" should be ""into""",CLOSED,2026-05-25T06:25:20Z,2026-05-25T08:21:25Z,07Vineet07,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABBfKZYg,67263,RDB course missing instructions on required language setting,OPEN,2026-05-06T22:07:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87FYErQ,61779,Include async/await workshop steps in Build an fCC Authors Page App,CLOSED,2025-08-11T19:39:11Z,2026-05-25T07:47:02Z,hbar1st;naomi-freecodecamp,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABBN6R7g,67225,"Bug - Build a Heritage Library Catalog, Step 28",OPEN,2026-05-04T12:43:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87xrDN_,66361,No language selector on small window of daily challenge,OPEN,2026-03-10T22:38:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87q-Cf9,65887,Improve solution download format to ZIP project structure,OPEN,2026-02-14T19:37:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABC4fDCg,67490,Fix terminology and grammar errors in lecture-working-with-arrays,CLOSED,2026-05-20T17:02:17Z,2026-05-24T20:29:20Z,Sembauke;dinesh-bajgain-dev,freeCodeCamp,freeCodeCamp
@@ -64,7 +74,6 @@ I_kwDOAbI7X88AAAABDBMKOg,67521,Add missing demoType to workshop-blog-page step 1
 I_kwDOAbI7X863jX9t,60461,Inconvenient discovery of challenges in Full Stack Developer Curriculum,CLOSED,2025-05-21T09:08:10Z,2026-05-23T12:56:33Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDJ1veg,67547,Remove fake clock uninstall test from tic-tac-toe lab,CLOSED,2026-05-23T02:54:25Z,2026-05-23T12:03:20Z,priyanshupundir,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDJTLJg,67545,"""Build a Proofreading Tool"" lab accepts findRepeatedPhrases solutions that miss overlapping phrases",CLOSED,2026-05-22T23:10:21Z,2026-05-23T12:00:36Z,lakshay122007,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABChu1hA,67442,"Add alternate solution to ""Build A Bill Splitter"" Step 4 Workshop",OPEN,2026-05-17T18:37:56Z,,majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDKiVcg,67552,Fix grammar and sentences flow in lecture-working-with-arrays,CLOSED,2026-05-23T07:36:01Z,2026-05-23T07:37:30Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDGBbSA,67536,Help post does not correctly add comments for editable region,CLOSED,2026-05-22T12:31:28Z,2026-05-22T19:53:55Z,Sembauke;rustom-yadav,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDBMJEQ,67520,Fix errors in lecture-html-fundamentals block,CLOSED,2026-05-21T20:01:46Z,2026-05-22T18:27:05Z,shreesakhi-ch,freeCodeCamp,freeCodeCamp
