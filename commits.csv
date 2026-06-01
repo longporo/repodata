@@ -1,4 +1,5 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+643e1493c7cf1be22f63cb5d9232bbf59a2fd50b,fix(curriculum): correct CSS description and grammar in review-basic-…,2026-05-31T12:34:06Z,1,20,ms-misty-eyed,freeCodeCamp,freeCodeCamp
 4c5e27b8d8e3e8895816357e7c180e2b00802bd2,fix(curriculum): Inaccurate answer in CSS Attribute Selectors quiz (#…,2026-05-30T19:26:11Z,1,2,harshsharma1506,freeCodeCamp,freeCodeCamp
 ee076164ce37f6d700dc688536de4297813b2912,fix(curriculum): fix CSS colors quiz typos (#67710),2026-05-30T16:16:47Z,1,4,Laurence165,freeCodeCamp,freeCodeCamp
 5c46ada7cf67486bea3f1519e196d6b61900dbb5,fix(curriculum): correct phrasing and hyphenation in design briefs le…,2026-05-30T16:15:06Z,1,4,Akshatshukla-25,freeCodeCamp,freeCodeCamp
@@ -697,3 +698,26 @@ e902fd270f8fbdcab84ee17774af6d600cc8bc93,"refactor: update gatsby schema, remove
 3250669a2b98d708be98a716d73a8ec81b6b543e,feat(curriculum): add rest api and web services theory (#65634),2026-03-03T08:29:48Z,6,579,majestic-owl448,freeCodeCamp,freeCodeCamp
 dcddc3ecc359c55c5aaf18c1a91b3ad8a27d144c,feat(curriculum): EN-B1 quiz for block 4 (#66182),2026-03-03T08:09:11Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
 e1e5a7898295e2c34efd02bef34f27ad8c294abd,feat(curriculum): EN-B1 quiz for block 3 (#66010),2026-03-03T08:05:57Z,1,361,anastasiiauk,freeCodeCamp,freeCodeCamp
+e0ca86a0208b7e520e187c32fc71efded6fcc46f,fix(curriculum): clarify DP function calls vs unique subproblems (#65…,2026-03-02T22:20:28Z,1,4,Jeevankumar-s,freeCodeCamp,freeCodeCamp
+4fa56fb02bc9f7dce572f4647839a8a69afd3419,fix(curriculum): improve tests for useState management of color input…,2026-03-02T21:41:46Z,1,30,farchettiensis,freeCodeCamp,freeCodeCamp
+3a3872d252fa8a5e3f3eec1aae22d97cf077ecd7,fix(curriculum): replace stack question in data structures quiz (#66090),2026-03-02T21:11:49Z,1,6,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+c24a5bdf869ac46d67278b2799ff60ff703d60cb,chore(client): updated GQL syntax (#66136),2026-03-02T21:11:02Z,1,12,raisedadead,freeCodeCamp,freeCodeCamp
+4f940ab16e28846c4a560617f56577be4384f096,fix(curriculum): Update title to Build an Apply Discount Function (#6…,2026-03-02T21:05:39Z,1,2,MalakGdaea,freeCodeCamp,freeCodeCamp
+9ae0a5d727c7081bf2373adb656df126cfc1ef63,perf: cache challenges on build (#66177),2026-03-02T20:52:33Z,2,45,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+0e484c3cd767b91816aaddd9e08015cf5b9f45dd,fix(curriculum): format `or` operator correctly in python review basi…,2026-03-02T19:33:05Z,1,2,renyapeter,freeCodeCamp,freeCodeCamp
+199379b27a786f220beded5872b2fd3734233c16,fix(curriculm): remove full width comma in B1 English (#66164),2026-03-02T18:01:53Z,2,4,Supravisor,freeCodeCamp,freeCodeCamp
+900f6c428bd0c3dc773203aeb183bb4b31aa799b,"chore(i18n,learn): update i18n-curriculum submodule (#66189)",2026-03-02T17:48:21Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+4e734e9ff41262651bba1b8051926a8615e442c2,fix(deps): update dependency typebox to v1.1.5 (#66175),2026-03-02T14:18:46Z,2,209,renovate[bot],freeCodeCamp,freeCodeCamp
+db0044282c283ae309e353c763e50ac04b6515c8,"chore(i18n,client): processed translations (#66181)",2026-03-02T13:10:01Z,20,5992,camperbot,freeCodeCamp,freeCodeCamp
+d4533e7621fd837aa2ead8f8de80161b475537f3,fix(curriculum): update count() function to count() method in tuple s…,2026-03-02T12:21:54Z,1,4,jeevithdev,freeCodeCamp,freeCodeCamp
+5a0e9d6cd8fd568088b82a05cbca67c38aa65a5d,chore(deps): update dependency @types/nodemailer to v6.4.23 (#66169),2026-03-02T12:13:55Z,2,506,renovate[bot],freeCodeCamp,freeCodeCamp
+22bcb5d08de806ee011eb7ba93c98332bc6961c3,chore(deps): update dependency eslint to v9.39.3 (#66170),2026-03-02T10:08:31Z,1,1070,renovate[bot],freeCodeCamp,freeCodeCamp
+788508bcd9601cbb197c59961b212b24aaa7b90b,fix(curriculum): update code example in js debugging review (#66160),2026-03-02T08:54:55Z,1,2,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+ec4b68e9731a88dffe44ca40058b9a8aa586b929,fix(curriculum): use correct modulo/reminder wording (#66096),2026-03-02T08:53:35Z,8,40,majestic-owl448,freeCodeCamp,freeCodeCamp
+49a1e72e05907a6fc0bda321576ac0dcb1e3c56d,fix(curriculum): make step 3 state tests order-agnostic (#65516),2026-03-02T08:48:44Z,1,8,farchettiensis,freeCodeCamp,freeCodeCamp
+42beead4f7ffa97cead2bcb45b6687123dcedd98,feat(curriculum): add scatterplot graph project to data visualization…,2026-03-02T08:38:18Z,4,1288,majestic-owl448,freeCodeCamp,freeCodeCamp
+e07295fff232388f7264bfc9669ae734e6b1e1cc,fix(curriculum): add missing infos in permutations lab user stories (…,2026-03-02T07:23:41Z,1,2,majestic-owl448,freeCodeCamp,freeCodeCamp
+4588451f22d8e616fe3101fd8a1fddfaa9b6edc8,fix(deps): update dependencies (#66176),2026-03-02T06:32:07Z,2,233,raisedadead,freeCodeCamp,freeCodeCamp
+b60712f89ce7df1a5023e65ec7c0db4c49a4b698,chore: review instructions,2026-03-02T04:21:31Z,1,14,raisedadead,freeCodeCamp,freeCodeCamp
+787922295fb880873884bbdeb40fb1b4476cfe71,feat(curriculum): add dynamic programming quiz to js v9 cert (#65995),2026-03-01T17:39:40Z,4,253,Ksound22,freeCodeCamp,freeCodeCamp
+95e293d23a51bff3d3cb388c0da608c9d18eef1f,fix(GHA): harden permissions (#66155),2026-03-01T11:49:19Z,6,34,raisedadead,freeCodeCamp,freeCodeCamp
