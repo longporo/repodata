@@ -1,6 +1,21 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+91093b4f1552973e39ddaf27ba8df11270a1ba8c,"fix(curriculum): fix spacing, Oxford commas, and punctuation in revie…",2026-06-02T01:55:35Z,1,28,fremendes,freeCodeCamp,freeCodeCamp
+d9afe5d2fc014a7337cd51a60b278d87a4a45bc6,feat(curriculum): add intro to express review page (#67341),2026-06-01T13:30:26Z,4,182,Ksound22,freeCodeCamp,freeCodeCamp
+e1084808a65106ef83e83a4b0cdf41d903093b81,feat(curriculum): add web standards model lectures (#67270),2026-06-01T13:29:59Z,7,591,Ksound22,freeCodeCamp,freeCodeCamp
+f257f93c42e58aba741d38b780d58ca4cba90728,feat(curriculum): add express error handling review page (#67353),2026-06-01T13:29:36Z,4,199,Ksound22,freeCodeCamp,freeCodeCamp
+24b708973202192537e08d2f617374fee6d0f5cc,fix(curriculum): add missing periods to Quiz: Bash Scripting challeng…,2026-06-01T13:28:43Z,1,8,Kunall7890,freeCodeCamp,freeCodeCamp
+507a9111999dc5ce699ae471cc2c51c2380bbef2,feat(curriculum): add backend labs and workshops (#67047),2026-06-01T12:34:12Z,30,612,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+b011234f63d75c23e16be738a5970be9d3973a78,fix(curriculum): update computer basics quiz wording (#67734),2026-06-01T10:23:47Z,1,16,meaqua9420,freeCodeCamp,freeCodeCamp
+5cd4e8abe6021861b911016416fbfa547980af98,fix(client): localize external curriculum structure (#67638),2026-06-01T09:47:33Z,2,424,Sembauke,freeCodeCamp,freeCodeCamp
+94ee73951d434d8574870683ca3b5c4877930cef,feat(curriculum): add http and web standards review page (#67334),2026-06-01T08:53:25Z,4,248,Ksound22,freeCodeCamp,freeCodeCamp
+233fd8e6dc9e7813255b0df42e3b2fd3a6a7aa28,feat(curriculum): add express middleware quiz (#67425),2026-06-01T08:07:49Z,4,472,Ksound22,freeCodeCamp,freeCodeCamp
+04c75208b5eae16803c0fedeceff2afb7d56781e,fix(curriculum): fix trailing space and previous->parent in quiz-bash…,2026-06-01T07:45:28Z,1,4,Sidak-321,freeCodeCamp,freeCodeCamp
+a53a9ea5eab1c75abcf17d8f2654014c35a19831,fix(curriculum): correct renderCard template literal test validation …,2026-06-01T07:38:49Z,2,12,Venkat-Entropik,freeCodeCamp,freeCodeCamp
+0d919dd880e28173b90d2ea48f4fa97abe0f983f,fix(curriculum): fix typos and grammar in quiz-basic-html answers (#6…,2026-06-01T07:19:37Z,1,12,imsomilg,freeCodeCamp,freeCodeCamp
+de44dd93c622255ed3b7cdca4c7e82689ceeddec,test: add unit tests for search reducer (#67698),2026-06-01T07:17:30Z,1,42,Kyleafuller199,freeCodeCamp,freeCodeCamp
+1c9d8fb185f3c3136187e3500815e349a9643bf4,fix(curriculum): improve review asynchronous JavaScript prose (#67700),2026-06-01T07:12:27Z,1,26,Aman-Hegde,freeCodeCamp,freeCodeCamp
 643e1493c7cf1be22f63cb5d9232bbf59a2fd50b,fix(curriculum): correct CSS description and grammar in review-basic-…,2026-05-31T12:34:06Z,1,20,ms-misty-eyed,freeCodeCamp,freeCodeCamp
-4c5e27b8d8e3e8895816357e7c180e2b00802bd2,fix(curriculum): Inaccurate answer in CSS Attribute Selectors quiz (#…,2026-05-30T19:26:11Z,1,2,harshsharma1506,freeCodeCamp,freeCodeCamp
+4c5e27b8d8e3e8895816357e7c180e2b00802bd2,fix(curriculum): Inaccurate answer in CSS Attribute Selectors quiz (#…,2026-05-30T19:26:11Z,1,2,harshlm15,freeCodeCamp,freeCodeCamp
 ee076164ce37f6d700dc688536de4297813b2912,fix(curriculum): fix CSS colors quiz typos (#67710),2026-05-30T16:16:47Z,1,4,Laurence165,freeCodeCamp,freeCodeCamp
 5c46ada7cf67486bea3f1519e196d6b61900dbb5,fix(curriculum): correct phrasing and hyphenation in design briefs le…,2026-05-30T16:15:06Z,1,4,Akshatshukla-25,freeCodeCamp,freeCodeCamp
 4555f4ee5216c12822fa3561948da3acd35298cc,fix(curriculum): fix typos and hyphenation errors in quiz-basic-css (…,2026-05-30T13:24:15Z,1,18,Yachna-123,freeCodeCamp,freeCodeCamp
@@ -718,6 +733,3 @@ ec4b68e9731a88dffe44ca40058b9a8aa586b929,fix(curriculum): use correct modulo/rem
 42beead4f7ffa97cead2bcb45b6687123dcedd98,feat(curriculum): add scatterplot graph project to data visualization…,2026-03-02T08:38:18Z,4,1288,majestic-owl448,freeCodeCamp,freeCodeCamp
 e07295fff232388f7264bfc9669ae734e6b1e1cc,fix(curriculum): add missing infos in permutations lab user stories (…,2026-03-02T07:23:41Z,1,2,majestic-owl448,freeCodeCamp,freeCodeCamp
 4588451f22d8e616fe3101fd8a1fddfaa9b6edc8,fix(deps): update dependencies (#66176),2026-03-02T06:32:07Z,2,233,raisedadead,freeCodeCamp,freeCodeCamp
-b60712f89ce7df1a5023e65ec7c0db4c49a4b698,chore: review instructions,2026-03-02T04:21:31Z,1,14,raisedadead,freeCodeCamp,freeCodeCamp
-787922295fb880873884bbdeb40fb1b4476cfe71,feat(curriculum): add dynamic programming quiz to js v9 cert (#65995),2026-03-01T17:39:40Z,4,253,Ksound22,freeCodeCamp,freeCodeCamp
-95e293d23a51bff3d3cb388c0da608c9d18eef1f,fix(GHA): harden permissions (#66155),2026-03-01T11:49:19Z,6,34,raisedadead,freeCodeCamp,freeCodeCamp
