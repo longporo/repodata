@@ -1,4 +1,10 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+2a5c1bcf8b944f306ad1497ddf72ad4501fa59ce,fix(curriculum): editable regions in workshop breadth first search js…,2026-06-03T17:28:05Z,13,52,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+58df87f2f4f23b78d8289fa125663ccc09e6eb3d,fix(curriculum): editable regions in workshop binary search js (#67793),2026-06-03T17:24:23Z,13,47,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+2e40de1662259f743ed3ef5a7f964c7fa228133b,fix: Fix js review content errors (#67774),2026-06-03T11:05:07Z,1,10,Anurag-Mishra2006,freeCodeCamp,freeCodeCamp
+90290d996764cae4c810e8b46a5d962c4c56a4bf,fix(curriculum): audit editable regions in tech conference schedule w…,2026-06-03T08:22:49Z,1,4,jimjoice2804,freeCodeCamp,freeCodeCamp
+778a527f6058386b2a581c328eac8011ddc47945,fix: fix accuracy and formatting issues in review-bash-and-sql block …,2026-06-03T08:07:24Z,1,6,TJForrest,freeCodeCamp,freeCodeCamp
+e951b72d7230b04d8e1f2f2bf4d0637f05a6b009,fix(curriculum): editable regions in workshop binary search (#67780),2026-06-03T07:49:05Z,15,76,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 5828f78de5562f8ac318696c353fdaf6741c370d,fix: preserve challenge source file boundaries (#67505),2026-06-02T15:58:17Z,2,95,Sembauke,freeCodeCamp,freeCodeCamp
 354879472cdd168fd7dd8a22e4e6be6568f7bdb7,fix(curriculum): enable event bubbling in lab-product-showcase tests …,2026-06-02T09:52:25Z,1,16,Akshatshukla-25,freeCodeCamp,freeCodeCamp
 eaeaf837d4d46588ab40b7b3928f477d9c017b4d,fix(curriculum): remove extra word in explanation text (#67766),2026-06-02T09:49:46Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
@@ -706,20 +712,3 @@ b8ae304f7660522be4878e221990c5bd941366f3,fix(curriculum): update string method l
 3e94ae65c8e435e79def419f5e8fc1974cada778,fix(challenge-parser): display hanzi-pinyin pairs properly in quiz au…,2026-03-04T09:32:20Z,3,45,huyenltnguyen,freeCodeCamp,freeCodeCamp
 2a8bfd78b89b18b8b861414cd923b091d0b2ded2,fix(curriculum): update explanation text for task-45 (#66232),2026-03-04T08:52:48Z,1,4,phoenix66666,freeCodeCamp,freeCodeCamp
 5d6860f4c4c226547cbbeae659ab53fc713fe9cb,fix(curriculum): clarify step 4 instructions and update tests (#66047),2026-03-04T07:37:42Z,5,24,nguyenduybao1,freeCodeCamp,freeCodeCamp
-1bfc65a7d143d0cd2fd0b727870b25b8483b56d4,fix(deps): update dependency @aws-sdk/client-ses to v3.997.0 (#66221),2026-03-04T04:28:33Z,2,1247,renovate[bot],freeCodeCamp,freeCodeCamp
-58e76dca0c68425c714830f700f66f996ea64377,feat(curriculum): add dsa lessons to js v9 cert (#66008),2026-03-03T21:56:05Z,8,1195,Ksound22,freeCodeCamp,freeCodeCamp
-8a4c565bf74ff6ff300f162f5ea0b845ff04eae7,fix(curriculum): update JS fundamentals quiz Number object question (…,2026-03-03T21:22:04Z,1,10,abhishekDeshmukh74,freeCodeCamp,freeCodeCamp
-cb65db51e702c0b9d67e6541a0dc5f677fca3e27,feat(curriculum): daily challenges 213-222 (#66191),2026-03-03T20:52:51Z,25,1987,moT01,freeCodeCamp,freeCodeCamp
-4bbc74f5d42abd42c20d17a18567198c521fba35,fix(curriculum): use textContent instead of innerText (#66208),2026-03-03T19:47:56Z,1,2,thor8126,freeCodeCamp,freeCodeCamp
-c15bf70bedd18e032371ffc4e08b52bd2b04b6b1,feat(curriculum): add Object.hasOwn() to JS object property checking …,2026-03-03T17:52:21Z,3,138,BalamuruganT006,freeCodeCamp,freeCodeCamp
-a391dc0664f406a63c7c92627bdc3bc5aa3b594d,fix(api): cleaner exits before respawn (#66135),2026-03-03T15:13:13Z,2,22,raisedadead,freeCodeCamp,freeCodeCamp
-b5e3a94693aae0661cab8efab4d4e125578817da,fix(curriculum): add interactive examples and fixings in js review pa…,2026-03-03T14:48:32Z,1,1102,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-fa988a38b966081f83a560ef5443acdcd0dbee70,chore: update pnpm,2026-03-03T14:16:05Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
-c77b49d61313f38db3c03249572bb906e86d383f,fix(client): remove notes from certifications (#66210),2026-03-03T13:46:00Z,1,3,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-5d10ce3fb4168a14e130588bfe798671c2869332,fix(client): daily challenge calendar (#66202),2026-03-03T13:28:54Z,4,216,moT01,freeCodeCamp,freeCodeCamp
-b9307e19b6d78d7551b7b627a20bf0542f6c9098,feat(curriculum): add second flexbox workshop to FSD cert (#62735),2026-03-03T10:24:05Z,46,4463,sebacodes,freeCodeCamp,freeCodeCamp
-6d74eaacce72c764d68ec200acb066eb86159dfd,fix(curriculum): fix test to avoid incorrect code passing lab bookmar…,2026-03-03T09:53:40Z,1,11,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-e902fd270f8fbdcab84ee17774af6d600cc8bc93,"refactor: update gatsby schema, remove customization + use inferrable…",2026-03-03T09:48:53Z,11,923,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-3250669a2b98d708be98a716d73a8ec81b6b543e,feat(curriculum): add rest api and web services theory (#65634),2026-03-03T08:29:48Z,6,579,majestic-owl448,freeCodeCamp,freeCodeCamp
-dcddc3ecc359c55c5aaf18c1a91b3ad8a27d144c,feat(curriculum): EN-B1 quiz for block 4 (#66182),2026-03-03T08:09:11Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
-e1e5a7898295e2c34efd02bef34f27ad8c294abd,feat(curriculum): EN-B1 quiz for block 3 (#66010),2026-03-03T08:05:57Z,1,361,anastasiiauk,freeCodeCamp,freeCodeCamp
