@@ -1,11 +1,16 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X88AAAABET4KlQ,67800,Daily Challenge 07 February 2026,OPEN,2026-06-03T22:52:23Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABEPyxEQ,67786,"Typo in What-is-CSS? Page: ""markup"" should be ""stylesheet""",OPEN,2026-06-03T12:48:30Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCd1aWA,67436,"Request to change ""ask for help"" post template",OPEN,2026-05-16T16:03:10Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABEW9xeQ,67808,Issue with Build A Sorting Visualizer challenge and test runner,OPEN,2026-06-04T09:24:27Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABEa9jzg,67814,Replace backticks with `code` element in intro.json,CLOSED,2026-06-04T19:45:42Z,2026-06-04T21:05:15Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABD4hlXA,67721,[Curriculum Audit] Editable region markers — v9 workshops,OPEN,2026-05-30T20:13:02Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABET4KlQ,67800,Daily Challenge 07 February 2026,OPEN,2026-06-03T22:52:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABEQ2gAw,67791,Add Error Handling review page to JavaScript v9 Debugging module,CLOSED,2026-06-03T15:03:46Z,2026-06-04T12:13:29Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABENyBeg,67781,Pantry restocker challenge - lack of instructions for group by Zone function and lack of test cases,CLOSED,2026-06-03T07:37:09Z,2026-06-04T08:48:36Z,Kd1880,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABEWccUA,67806,"Missing description of return value of groupByZone function in the ""Build a Smart Pantry Restocker"" lab",CLOSED,2026-06-04T07:58:39Z,2026-06-04T08:00:24Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABEPyxEQ,67786,"Typo in What-is-CSS? Page: ""markup"" should be ""stylesheet""",CLOSED,2026-06-03T12:48:30Z,2026-06-04T07:56:21Z,Ahmed-Aashour,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABECwGAw,67754,"Cascade lesson summary lists ""scope"" but the lesson never explains it",CLOSED,2026-06-01T20:44:08Z,2026-06-04T07:08:44Z,Venkat,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEQwX6w,67790,Incorrect answer to a toFixed() question,OPEN,2026-06-03T14:51:20Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABEQ2gAw,67791,Add Error Handling review page to JavaScript v9 Debugging module,OPEN,2026-06-03T15:03:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEEsJ0A,67769,Four content errors in JavaScript Review lecture,CLOSED,2026-06-02T04:05:09Z,2026-06-03T11:05:10Z,Anurag-Mishra2006,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABENyBeg,67781,Pantry restocker challenge - lack of instructions for group by Zone function and lack of test cases,OPEN,2026-06-03T07:37:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEAehmQ,67748,Fix accuracy and formatting issues in review-bash-and-sql block,CLOSED,2026-06-01T14:29:48Z,2026-06-03T08:07:27Z,TJForrest;flynn,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87-BL0e,66931,js-v9 missing workshop on using try/catch/finally (and throw),OPEN,2026-04-14T11:32:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPElK,64117,Workshop – Smart Campus Directory,OPEN,2025-11-25T03:43:53Z,,,freeCodeCamp,freeCodeCamp
@@ -16,7 +21,6 @@ I_kwDOAbI7X88AAAABEHi2Cg,67775,Make form layout cleaner,CLOSED,2026-06-02T12:14:
 I_kwDOAbI7X88AAAABD5uvoQ,67726,Build a Product Showcase - event listener issue,CLOSED,2026-05-31T06:55:21Z,2026-06-02T09:52:27Z,Akshatshukla-25,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABD4Zmeg,67720,"Missing pantry data from the ""Build a Smart Pantry Restocker"" lab.",CLOSED,2026-05-30T19:23:21Z,2026-06-02T09:39:39Z,Aniket25042003,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEAYpyA,67745,Review CSS Animations: add backticks to timing function values and fix animation-direction description,CLOSED,2026-06-01T14:16:28Z,2026-06-02T08:37:37Z,wasnotwas,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABECwGAw,67754,"Cascade lesson summary lists ""scope"" but the lesson never explains it",OPEN,2026-06-01T20:44:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEAc2Zw,67747,"review-computer-basics: fix acronym spacing, trailing whitespace, Oxford commas, and punctuation",CLOSED,2026-06-01T14:25:49Z,2026-06-02T01:55:36Z,fremendes,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEBcVkQ,67751,Date object quiz has two answers marked correct for the same question,OPEN,2026-06-01T17:03:18Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDt4S1A,67666,test: donation-saga has no coverage for stripeCardErrorHandler authentication error path,OPEN,2026-05-28T23:01:07Z,,,freeCodeCamp,freeCodeCamp
@@ -153,7 +157,6 @@ I_kwDOAbI7X88AAAABCl2CLg,67446,Add estimated completion time for each challenge,
 I_kwDOAbI7X87USvWu,63145,Lesson TS compiler assumes all files are index.tsx,CLOSED,2025-10-28T13:50:56Z,2026-05-18T12:30:42Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCgO4IA,67440,Correct the runtime startup path,CLOSED,2026-05-17T09:12:30Z,2026-05-18T01:08:19Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCiFixA,67443,Potential unwanted typo in A2 English quiz,CLOSED,2026-05-17T21:03:50Z,2026-05-18T00:45:43Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABCd1aWA,67436,"Request to change ""ask for help"" post template",OPEN,2026-05-16T16:03:10Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X873VKj4,66639,Random Blue Line Appearing on Page (Possible Focus Border),CLOSED,2026-03-27T05:26:09Z,2026-05-16T04:04:42Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCMaHVA,67362,Build a Type Safe Math Toolkit #Step14,CLOSED,2026-05-14T00:55:02Z,2026-05-15T18:36:34Z,deepak-s-git,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCO1ZBg,67378,Remove first person language from discount calculator workshop,CLOSED,2026-05-14T09:20:13Z,2026-05-15T15:07:57Z,narasimhan-lakshmi,freeCodeCamp,freeCodeCamp
@@ -517,8 +520,3 @@ I_kwDOAbI7X87jP5VV,65150,Issues with flex in Colored Boxes lab,CLOSED,2026-01-14
 I_kwDOAbI7X87txtke,66054,Python Certification custom exception example typo and strange usage,CLOSED,2026-02-25T12:36:50Z,2026-03-05T09:50:49Z,nguyenduybao1,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87XGNjo,63699,Update text container width for fsd lessons,CLOSED,2025-11-10T16:11:41Z,2026-03-05T05:40:21Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X857i6kL,53073,MSLearn C# Course - Timeline - View button - User is shown a JSON object instead of the appropriate achievement page,CLOSED,2024-01-09T16:41:34Z,2026-03-05T04:16:37Z,moT01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87vk4v7,66224,String method lesson doesn't teach that variables can be used as arguments; later lab requires this skill,CLOSED,2026-03-04T00:49:07Z,2026-03-04T10:29:23Z,timmy471,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87vqRZe,66234,js lab has wrong help category,CLOSED,2026-03-04T08:51:04Z,2026-03-04T11:19:24Z,Anshit-Sony,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863ocO_,60469,Todo App using Local Storage — formInputValuesUpdated,OPEN,2025-05-21T16:36:14Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87tomJx,66040,Enhance explanation text in Learn How to Clarify Misunderstandings,CLOSED,2026-02-25T02:36:37Z,2026-03-04T08:52:49Z,phoenix66666,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87tkEK5,66033,bill splitter step 4 is not clear enough on what to do,CLOSED,2026-02-24T20:24:23Z,2026-03-04T07:37:43Z,nguyenduybao1,freeCodeCamp,freeCodeCamp
