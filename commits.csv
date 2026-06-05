@@ -1,4 +1,12 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+8df111253cefd9f2515a62ced89a7074b8b57553,fix(client): Replace backticks with code element in intro.json (#67815),2026-06-04T21:05:13Z,1,8,pdtrang,freeCodeCamp,freeCodeCamp
+f0d194cc6894fbb353e7192801ba18da153e4a87,"chore(i18n,client): processed translations (#67788)",2026-06-04T19:51:29Z,10,1080,camperbot,freeCodeCamp,freeCodeCamp
+696fab2044d903ef7fcd5ecbaaace832685af4a4,feat(curriculum): add express middleware lessons (#67194),2026-06-04T08:51:47Z,8,846,Ksound22,freeCodeCamp,freeCodeCamp
+c69fa6db9b56fa345a807f2abb866bda136c4a9f,fix: add groupByZone output shape description and test cases (#67783),2026-06-04T08:48:34Z,1,19,Kd1880,freeCodeCamp,freeCodeCamp
+590041e2bf1a36885ffe456d390331e25144f24e,fix(curriculum): editable regions in workshop type safe user profile …,2026-06-04T08:03:00Z,5,208,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+c60629e2f577d020f00b838ca21820cd4da95483,fix(curriculum): correct CSS definition in lecture-what-is-css (#67778),2026-06-04T07:56:19Z,1,2,Ahmed-Aashour,freeCodeCamp,freeCodeCamp
+bcadda705482775cd4a3c67eeee81959b2e54f30,chore(curriculum): move d3 to catalog  (#67513),2026-06-04T07:15:02Z,12,111,jdwilkin4,freeCodeCamp,freeCodeCamp
+8a9432a0e29f0a816c46b705424b90906c3ccabf,fix(curriculum): remove untaught scope factor from cascade lesson (#6…,2026-06-04T07:08:42Z,1,4,Venkat-Entropik,freeCodeCamp,freeCodeCamp
 2a5c1bcf8b944f306ad1497ddf72ad4501fa59ce,fix(curriculum): editable regions in workshop breadth first search js…,2026-06-03T17:28:05Z,13,52,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 58df87f2f4f23b78d8289fa125663ccc09e6eb3d,fix(curriculum): editable regions in workshop binary search js (#67793),2026-06-03T17:24:23Z,13,47,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 2e40de1662259f743ed3ef5a7f964c7fa228133b,fix: Fix js review content errors (#67774),2026-06-03T11:05:07Z,1,10,Anurag-Mishra2006,freeCodeCamp,freeCodeCamp
@@ -699,16 +707,3 @@ c94fe2d40e217e562275e3f6dbce808deb865ff3,feat(challenge-helper-scripts): add exa
 4ece1e457798d58d6a62b320b1a94e1d9144835a,fix(client): remove ms trophy solution links on timeline (#66223),2026-03-05T04:16:36Z,1,13,moT01,freeCodeCamp,freeCodeCamp
 62fe68df9efa58be539a90ee3c9b866420886347,fix(deps): update dependency @aws-sdk/client-ses to v3.998.0 (#66246),2026-03-05T04:15:08Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
 15304750713f9bbae69863574ee2a525bba13b22,chore(deps): update dependency supertest to v6.3.4 (#66245),2026-03-05T04:14:49Z,2,298,renovate[bot],freeCodeCamp,freeCodeCamp
-da0298f39b8e4bd83bad85a7ad72ead67a973f74,feat(curriculum): add dynamic programming js lesson (#65987),2026-03-04T21:46:41Z,4,491,Ksound22,freeCodeCamp,freeCodeCamp
-520d5dc32a7b8356b895e80381950674a34b23e9,fix(tooling): return all superblocks containing a filtered block (#65…,2026-03-04T20:00:37Z,3,47,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-a6b34d01b754d6bb849f45ba04d7fd7d038f11ac,feat(curriculum): Add N-Queens problem lab to javascript-v9 (#65740),2026-03-04T18:43:43Z,4,189,majestic-owl448,freeCodeCamp,freeCodeCamp
-16e13a272524adb6f6d631f2f93fe7b6039dcf4f,"chore(i18n,client): processed translations (#66237)",2026-03-04T15:07:04Z,10,538,camperbot,freeCodeCamp,freeCodeCamp
-8f43f47fc0aa02f2e35b3d8f36b9ee9b6edcd1c4,feat(curriculum): add dsa quiz to js v9 cert (#66019),2026-03-04T13:38:47Z,4,476,Ksound22,freeCodeCamp,freeCodeCamp
-4760d3514ed7ed5adad923978a99cc0352b98fb5,feat(curriculum): add dynamic programming review for JS cert (#65991),2026-03-04T11:52:39Z,4,106,Ksound22,freeCodeCamp,freeCodeCamp
-5a8b7336c95de200aed4d321bcf3ee8bd6464f45,fix(curriculum): change helpCategory from HTML-CSS to JavaScript in l…,2026-03-04T11:19:20Z,1,2,Anshit-Sony,freeCodeCamp,freeCodeCamp
-53b4806fc6ad57fc2a662492de7534eafcb47df5,chore(deps): update actions/setup-node digest to 53b8394 (#66231),2026-03-04T10:55:11Z,6,22,renovate[bot],freeCodeCamp,freeCodeCamp
-b8ae304f7660522be4878e221990c5bd941366f3,fix(curriculum): update string method lesson to include variable usag…,2026-03-04T10:29:21Z,1,15,timmy471,freeCodeCamp,freeCodeCamp
-3888a601ade26c83d0e81f5ee1f80db3905aeab6,fix(curriculum): typos and grammar errors (#65951),2026-03-04T09:34:19Z,4,12,umutKaracelebi,freeCodeCamp,freeCodeCamp
-3e94ae65c8e435e79def419f5e8fc1974cada778,fix(challenge-parser): display hanzi-pinyin pairs properly in quiz au…,2026-03-04T09:32:20Z,3,45,huyenltnguyen,freeCodeCamp,freeCodeCamp
-2a8bfd78b89b18b8b861414cd923b091d0b2ded2,fix(curriculum): update explanation text for task-45 (#66232),2026-03-04T08:52:48Z,1,4,phoenix66666,freeCodeCamp,freeCodeCamp
-5d6860f4c4c226547cbbeae659ab53fc713fe9cb,fix(curriculum): clarify step 4 instructions and update tests (#66047),2026-03-04T07:37:42Z,5,24,nguyenduybao1,freeCodeCamp,freeCodeCamp
