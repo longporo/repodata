@@ -1,8 +1,11 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X88AAAABCd1aWA,67436,"Request to change ""ask for help"" post template",OPEN,2026-05-16T16:03:10Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABD4hlXA,67721,[Curriculum Audit] Editable region markers — v9 workshops,OPEN,2026-05-30T20:13:02Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABEhTdjA,67829,Modify block order for backend development,OPEN,2026-06-05T16:07:32Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABEgWVXg,67826,"Suggestion of __str__ implementation in ""Build a Budget App""",CLOSED,2026-06-05T13:35:28Z,2026-06-05T13:56:47Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCd1aWA,67436,"""ask for help"" post template makes search preview focus on useless part of post",CLOSED,2026-05-16T16:03:10Z,2026-06-05T08:42:25Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABEeByWA,67819,bill splitter step 6,OPEN,2026-06-05T06:51:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEW9xeQ,67808,Issue with Build A Sorting Visualizer challenge and test runner,OPEN,2026-06-04T09:24:27Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEa9jzg,67814,Replace backticks with `code` element in intro.json,CLOSED,2026-06-04T19:45:42Z,2026-06-04T21:05:15Z,pdtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABD4hlXA,67721,[Curriculum Audit] Editable region markers — v9 workshops,OPEN,2026-05-30T20:13:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABET4KlQ,67800,Daily Challenge 07 February 2026,OPEN,2026-06-03T22:52:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEQ2gAw,67791,Add Error Handling review page to JavaScript v9 Debugging module,CLOSED,2026-06-03T15:03:46Z,2026-06-04T12:13:29Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABENyBeg,67781,Pantry restocker challenge - lack of instructions for group by Zone function and lack of test cases,CLOSED,2026-06-03T07:37:09Z,2026-06-04T08:48:36Z,Kd1880,freeCodeCamp,freeCodeCamp
@@ -513,10 +516,3 @@ I_kwDOAbI7X860p-l5,60083,Build a City Skyline Checks are Funky,CLOSED,2025-04-30
 I_kwDOAbI7X87jt68v,65247,Missing bigint in list of JavaScript primitive types,CLOSED,2026-01-16T05:38:36Z,2026-03-06T10:39:38Z,hbzzll,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87mwlXN,65570,TS file content is hidden after closing another file,CLOSED,2026-01-29T16:17:51Z,2026-03-06T10:34:33Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87wEEbt,66253,Add a space between base text and annotation,CLOSED,2026-03-05T11:18:37Z,2026-03-06T08:54:04Z,ekwak47,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87vujbF,66238,"In Introduction to React, there aren't instructions for Node.js install or redirect to official page.",CLOSED,2026-03-04T13:15:39Z,2026-03-05T18:23:23Z,Venkat,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86zBplS,59797,Consider updating to @inquirer/prompts instead of outdated inquirer library,CLOSED,2025-04-17T22:20:40Z,2026-03-05T12:04:02Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87uzGxA,66150,Change code block in JS Regex Review,CLOSED,2026-03-01T05:50:56Z,2026-03-05T10:38:07Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jP5VV,65150,Issues with flex in Colored Boxes lab,CLOSED,2026-01-14T10:36:38Z,2026-03-05T10:04:22Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87txtke,66054,Python Certification custom exception example typo and strange usage,CLOSED,2026-02-25T12:36:50Z,2026-03-05T09:50:49Z,nguyenduybao1,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87XGNjo,63699,Update text container width for fsd lessons,CLOSED,2025-11-10T16:11:41Z,2026-03-05T05:40:21Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X857i6kL,53073,MSLearn C# Course - Timeline - View button - User is shown a JSON object instead of the appropriate achievement page,CLOSED,2024-01-09T16:41:34Z,2026-03-05T04:16:37Z,moT01,freeCodeCamp,freeCodeCamp
