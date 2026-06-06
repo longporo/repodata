@@ -1,4 +1,6 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+7c56526a7ce8d36b219f200e355bb30d2b7e0908,fix(curriculum): add missing DOCTYPE declaration to HTML steps (#67810),2026-06-05T07:50:52Z,9,10,imsomilg,freeCodeCamp,freeCodeCamp
+d357b254b6be649df49847722168ecf4aac989dc,refactor(curriculum): move 'Build a Prime Number Sum Calculator' lab …,2026-06-05T06:53:43Z,2,14,imsomilg,freeCodeCamp,freeCodeCamp
 8df111253cefd9f2515a62ced89a7074b8b57553,fix(client): Replace backticks with code element in intro.json (#67815),2026-06-04T21:05:13Z,1,8,pdtrang,freeCodeCamp,freeCodeCamp
 f0d194cc6894fbb353e7192801ba18da153e4a87,"chore(i18n,client): processed translations (#67788)",2026-06-04T19:51:29Z,10,1080,camperbot,freeCodeCamp,freeCodeCamp
 696fab2044d903ef7fcd5ecbaaace832685af4a4,feat(curriculum): add express middleware lessons (#67194),2026-06-04T08:51:47Z,8,846,Ksound22,freeCodeCamp,freeCodeCamp
@@ -688,22 +690,3 @@ fe85713b0976e73892a18d8d5ea65e112e2c4dab,fix(curriculum): add bigint type and co
 c73a809870c1e7c6c54a7292f140159fc3506c5f,fix(client): stop ts editor getting hidden (#66267),2026-03-06T10:34:31Z,1,43,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 9b940a002f73b043e77a49c452494d21460faa5e,fix(curriculum): added space between base text and annotation (#66265),2026-03-06T08:54:02Z,1,2,ekwak47,freeCodeCamp,freeCodeCamp
 abbde71d7e475d7102d7398d97df0ce121ca3330,feat(curriculum): EN-B1 quiz for block 7 (#66257),2026-03-06T08:04:35Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
-fa555f34297c3639f59498cdd6f4e198c119a352,fix(curriculum): add Node.js installation note before Vite setup comm…,2026-03-05T18:23:21Z,1,2,Venkat-Entropik,freeCodeCamp,freeCodeCamp
-0ee6075afeaf4cd1630157d3651802f487130a32,feat: Add prompt course to catalog (#66228),2026-03-05T18:09:21Z,33,635,jdwilkin4,freeCodeCamp,freeCodeCamp
-dd571f965b699e168de53a215ebf106e1b66e82a,chore(deps): update @freecodecamp/curriculum helpers to v8.0.0 (#66240),2026-03-05T17:03:25Z,3,52,Dario-DC,freeCodeCamp,freeCodeCamp
-e72a5dc1bb0ad18246e6c7e3b951e1872837a74a,refactor(tools) : migrate inquirer prompts (#66139),2026-03-05T12:04:01Z,15,1922,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-80cace6f06deb61a4475565214bd225752581389,feat(curriculum): EN-B1 quiz for block 5 (#66211),2026-03-05T11:45:15Z,1,361,anastasiiauk,freeCodeCamp,freeCodeCamp
-08bb7452c34d67544dfac178a059d00ba036a816,feat(curriculum): EN-B1 quiz for block 6 (#66239),2026-03-05T11:00:49Z,1,361,anastasiiauk,freeCodeCamp,freeCodeCamp
-3ab093b7b3b9d9b16018f02dc7700f2c7349291a,fix(curriculum): change some example codes to non-interactive (#66161),2026-03-05T10:38:05Z,2,52,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-da100863797294821e8ed3dbf59f5ac2dd95d03b,fix(curriculum): add CSS property checks for width and height in Colo…,2026-03-05T10:04:20Z,1,24,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-c646fc6a0258fd476326806ba6d86510f957f7c2,fix(curriculum): update custom exception example in Python review (#6…,2026-03-05T09:50:48Z,2,12,nguyenduybao1,freeCodeCamp,freeCodeCamp
-b25f03e8a164120c740afc82c343c20bff98421c,refactor(challenge-helper-scripts): update challengeLang type to Chal…,2026-03-05T08:35:46Z,7,41,huyenltnguyen,freeCodeCamp,freeCodeCamp
-1d15d65230d7e7629d13c3025e62565cc3527a05,feat(curriculum): EN-B1 quiz for block 2 (#65956),2026-03-05T07:41:30Z,1,361,anastasiiauk,freeCodeCamp,freeCodeCamp
-a1606493e1d8cf953b2ead8c45f93bb58f0c00ff,feat(curriculum): EN-B1 quiz for block 1 (#65919),2026-03-05T07:40:57Z,1,361,anastasiiauk,freeCodeCamp,freeCodeCamp
-c37d6797b3696b2a0c713d1ece0c36d74469b334,chore(deps): update dependency @types/node to v24.10.14 (#66249),2026-03-05T06:34:12Z,1,305,renovate[bot],freeCodeCamp,freeCodeCamp
-695419bfb27a105334765b291911b9b3d18812ee,fix(client): update text container for fsd lessons (#65889),2026-03-05T05:40:20Z,1,26,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-2972485a8774d636abb60866e683516b535f3127,feat: allow configuration of the typescript-compiler (#66241),2026-03-05T04:18:18Z,5,45,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-c94fe2d40e217e562275e3f6dbce808deb865ff3,feat(challenge-helper-scripts): add example of quiz with audio to qui…,2026-03-05T04:17:47Z,1,68,huyenltnguyen,freeCodeCamp,freeCodeCamp
-4ece1e457798d58d6a62b320b1a94e1d9144835a,fix(client): remove ms trophy solution links on timeline (#66223),2026-03-05T04:16:36Z,1,13,moT01,freeCodeCamp,freeCodeCamp
-62fe68df9efa58be539a90ee3c9b866420886347,fix(deps): update dependency @aws-sdk/client-ses to v3.998.0 (#66246),2026-03-05T04:15:08Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
-15304750713f9bbae69863574ee2a525bba13b22,chore(deps): update dependency supertest to v6.3.4 (#66245),2026-03-05T04:14:49Z,2,298,renovate[bot],freeCodeCamp,freeCodeCamp
