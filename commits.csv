@@ -1,4 +1,9 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+47f6292afb14568588b6f72d0f038896458df8d8,fix(curriculum): correct toFixed() quiz answer to include rounding (#…,2026-06-06T21:11:19Z,1,4,nico457,freeCodeCamp,freeCodeCamp
+58590bd12efe3193af6e87c44d0db80af1877e78,fix: clarify hint wording in bill splitter step 6 (#67820),2026-06-06T20:35:29Z,1,14,Kd1880,freeCodeCamp,freeCodeCamp
+76cc3618ec07a0d3510daca0257a9f91f9d20741,feat(curriculum): add websockets quiz (#67822),2026-06-06T13:26:19Z,4,512,Ksound22,freeCodeCamp,freeCodeCamp
+76099fca2d9466261f90571c751411c31fe4486c,feat(curriculum): add websockets lessons (#67784),2026-06-06T06:47:51Z,6,627,Ksound22,freeCodeCamp,freeCodeCamp
+37bfa2d640dd2a8584b6a8c85cbfc6d451251938,feat(curriculum): add websockets review page (#67809),2026-06-06T06:46:41Z,4,146,Ksound22,freeCodeCamp,freeCodeCamp
 7c56526a7ce8d36b219f200e355bb30d2b7e0908,fix(curriculum): add missing DOCTYPE declaration to HTML steps (#67810),2026-06-05T07:50:52Z,9,10,imsomilg,freeCodeCamp,freeCodeCamp
 d357b254b6be649df49847722168ecf4aac989dc,refactor(curriculum): move 'Build a Prime Number Sum Calculator' lab …,2026-06-05T06:53:43Z,2,14,imsomilg,freeCodeCamp,freeCodeCamp
 8df111253cefd9f2515a62ced89a7074b8b57553,fix(client): Replace backticks with code element in intro.json (#67815),2026-06-04T21:05:13Z,1,8,pdtrang,freeCodeCamp,freeCodeCamp
@@ -680,13 +685,3 @@ f1717edae54586d40df7bb722cef26f55a9913b4,refactor: move static curriculum data o
 c95d4a87e0609854388edf929d61ad46232d596e,fix(curriculum): add brief explanation for decorators in getters and …,2026-03-07T10:19:08Z,1,4,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 48e86c5399d6d58e635928c4d365f18b9878e27a,fix(deps): update dependency @aws-sdk/client-ses to v3.1000.0 (#66263),2026-03-07T08:08:33Z,2,37,renovate[bot],freeCodeCamp,freeCodeCamp
 837e34f544fb200035ea1547f39bd3395f9b3083,chore(deps): update dependency eslint to v9.39.3 (#66254),2026-03-07T06:47:23Z,1,1056,renovate[bot],freeCodeCamp,freeCodeCamp
-5533b5b3eb8ca1aa01f792c379bf57d8501c6282,chore(deps): update dependency @types/node to v24.10.15 (#66262),2026-03-07T03:17:08Z,1,144,renovate[bot],freeCodeCamp,freeCodeCamp
-ac6973f0018fe38a1510624edcd086e5c1a24d6a,feat(curriculum): add html music player workshop (#65825),2026-03-06T18:15:08Z,12,650,majestic-owl448,freeCodeCamp,freeCodeCamp
-344c3fa699d03c1fb38f03d5b1c65245377e6334,feat(curriculum): EN-B1 quiz for block 8 (#66270),2026-03-06T15:12:45Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
-cff6065df2c9e56d122df4192413a531f32611a4,"chore(i18n,learn): update i18n-curriculum submodule (#66272)",2026-03-06T14:53:22Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-5b64ff3c7cf4cb95e4ed8dbba29a16e550e273cf,"chore(i18n,learn): update i18n-curriculum submodule (#66271)",2026-03-06T13:28:35Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-84ba45ec6ee14e7eeb349071d8796e108c567861,fix(curriculum): improve test for step-75 workshop city skyline (#66001),2026-03-06T13:04:07Z,1,36,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-fe85713b0976e73892a18d8d5ea65e112e2c4dab,fix(curriculum): add bigint type and correct the primitive types list…,2026-03-06T10:39:36Z,1,2,hbzzll,freeCodeCamp,freeCodeCamp
-c73a809870c1e7c6c54a7292f140159fc3506c5f,fix(client): stop ts editor getting hidden (#66267),2026-03-06T10:34:31Z,1,43,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-9b940a002f73b043e77a49c452494d21460faa5e,fix(curriculum): added space between base text and annotation (#66265),2026-03-06T08:54:02Z,1,2,ekwak47,freeCodeCamp,freeCodeCamp
-abbde71d7e475d7102d7398d97df0ce121ca3330,feat(curriculum): EN-B1 quiz for block 7 (#66257),2026-03-06T08:04:35Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
