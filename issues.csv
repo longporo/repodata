@@ -1,13 +1,17 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X88AAAABEn9cng,67842,Lab: Smart Pantry Restocker - Test 12 clarification,OPEN,2026-06-06T22:18:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEnz1BQ,67841,Shopping Cart Step 44 does not accept explicit return in reduce callback,OPEN,2026-06-06T21:18:48Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDWxZLw,67605,RDB: Build Five Programs workshop gives an invalid hint,OPEN,2026-05-25T23:48:06Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABErMJDw,67846,The title of some challenges appears twice in users timeline,OPEN,2026-06-07T20:52:55Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87SMU7z,62878,Progress Checkmarks not Visible in Dark Mode on Samsung Browser,CLOSED,2025-10-17T14:45:58Z,2025-11-17T09:48:42Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABCd1aWA,67436,"""ask for help"" post template makes search preview focus on useless part of post",CLOSED,2026-05-16T16:03:10Z,2026-06-05T08:42:25Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABEn9cng,67842,Lab: Smart Pantry Restocker - Test 12 clarification,OPEN,2026-06-06T22:18:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABEqRzzA,67843,PyQGIS for GIS automation and DEM mapping,OPEN,2026-06-07T15:04:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEQwX6w,67790,Incorrect answer to a toFixed() question,CLOSED,2026-06-03T14:51:20Z,2026-06-06T21:11:21Z,EXA52047;nico457,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEeByWA,67819,bill splitter step 6,CLOSED,2026-06-05T06:51:09Z,2026-06-06T20:35:31Z,Kd1880,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABD1QUwA,67697,`IndependentLowerJaw` shows hints with relevant spaces trimmed,OPEN,2026-05-29T22:59:30Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABD4hlXA,67721,[Curriculum Audit] Editable region markers — v9 workshops,OPEN,2026-05-30T20:13:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEhTdjA,67829,Modify block order for backend development,OPEN,2026-06-05T16:07:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEgWVXg,67826,"Suggestion of __str__ implementation in ""Build a Budget App""",CLOSED,2026-06-05T13:35:28Z,2026-06-05T13:56:47Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABCd1aWA,67436,"""ask for help"" post template makes search preview focus on useless part of post",CLOSED,2026-05-16T16:03:10Z,2026-06-05T08:42:25Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEW9xeQ,67808,Issue with Build A Sorting Visualizer challenge and test runner,OPEN,2026-06-04T09:24:27Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEa9jzg,67814,Replace backticks with `code` element in intro.json,CLOSED,2026-06-04T19:45:42Z,2026-06-04T21:05:15Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABET4KlQ,67800,Daily Challenge 07 February 2026,OPEN,2026-06-03T22:52:23Z,,,freeCodeCamp,freeCodeCamp
@@ -33,7 +37,6 @@ I_kwDOAbI7X88AAAABDt4S1A,67666,test: donation-saga has no coverage for stripeCar
 I_kwDOAbI7X88AAAABA4Q_Kw,67175,rdb local setup instructions don't say what to do to start a 2nd workshop,OPEN,2026-04-29T22:07:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABD5kFyA,67725,broken sticky-scroll in workshop/lab lessons in-app editor,OPEN,2026-05-31T05:21:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABD4GxVg,67717,Incorrect null check due to operator precedence in blockLabel condition,CLOSED,2026-05-30T17:21:49Z,2026-06-01T19:49:59Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDWxZLw,67605,RDB: Build Five Programs workshop gives an invalid hint,OPEN,2026-05-25T23:48:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABD-DZtQ,67739,Quiz: Bash Scripting - Missing closing periods on answer options in question 18,CLOSED,2026-06-01T07:57:29Z,2026-06-01T13:28:46Z,Kunal,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABD3bKXw,67704,Fix language issues in the Quiz: Computer Basics challenge,CLOSED,2026-05-30T12:43:22Z,2026-06-01T10:23:50Z,meaqua9420,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABD4CC0w,67714,"Quiz: Bash Commands - fix trailing space and ""previous"" vs ""parent"" in quiz questions",CLOSED,2026-05-30T16:48:42Z,2026-06-01T07:45:30Z,Sidak-123,freeCodeCamp,freeCodeCamp
@@ -510,5 +513,3 @@ I_kwDOAbI7X87WdCS3,63614,Move `isUpcomingChange` from block structure to super b
 I_kwDOAbI7X87et9jO,64680,Consider adding Pinyin and tones FITB tasks to Chapter 3,CLOSED,2025-12-16T22:39:37Z,2026-03-09T23:32:59Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87xCHwu,66308,Add a script to detect broken links in Markdown documentation,CLOSED,2026-03-09T07:27:54Z,2026-03-09T17:37:47Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87uzK54,66152,Incomplete example codes in JS Classes Review,CLOSED,2026-03-01T06:00:40Z,2026-03-08T18:46:22Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87wDHKj,66252,Clarification needed in Python List description,CLOSED,2026-03-05T10:30:34Z,2026-03-07T11:52:29Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87RJyTi,62747,add brief explanation for decorators in getters and setters lesson,CLOSED,2025-10-13T08:30:22Z,2026-03-07T10:19:09Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
