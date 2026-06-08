@@ -679,9 +679,3 @@ eb30d67f1a12a910a50c29c8bcba1548fb39d36f,chore(deps): update actions/setup-node 
 08954857c764b16d45ee1bb77021812ceba71f16,feat(curriculum): add queue data structure lab (#66269),2026-03-09T11:43:41Z,4,257,larymak,freeCodeCamp,freeCodeCamp
 4ea5ae56cb1e4f65328d49011f5bae142148a6b7,feat: add independent lowerjaw in labs (#65785),2026-03-09T11:38:31Z,24,607,ahmaxed,freeCodeCamp,freeCodeCamp
 7510f608c3154e440eee955c5ddf93c6d64dfd2a,fix(curriculum): update example codes in js classes review (#66158),2026-03-08T18:46:21Z,3,96,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-f1717edae54586d40df7bb722cef26f55a9913b4,refactor: move static curriculum data out of redux (#66214),2026-03-07T15:41:46Z,11,247,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-0480bb91b7bec1063c37769acc26859191f0287d,fix(curriculum): update example codes for set and tuple (#66282),2026-03-07T11:52:27Z,1,16,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-5145285c5a269cb549b4b76b4602dfe8db9dba3d,chore(deps): update dependency @types/node to v24.11.0 (#66279),2026-03-07T11:05:04Z,1,334,renovate[bot],freeCodeCamp,freeCodeCamp
-c95d4a87e0609854388edf929d61ad46232d596e,fix(curriculum): add brief explanation for decorators in getters and …,2026-03-07T10:19:08Z,1,4,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-48e86c5399d6d58e635928c4d365f18b9878e27a,fix(deps): update dependency @aws-sdk/client-ses to v3.1000.0 (#66263),2026-03-07T08:08:33Z,2,37,renovate[bot],freeCodeCamp,freeCodeCamp
-837e34f544fb200035ea1547f39bd3395f9b3083,chore(deps): update dependency eslint to v9.39.3 (#66254),2026-03-07T06:47:23Z,1,1056,renovate[bot],freeCodeCamp,freeCodeCamp
