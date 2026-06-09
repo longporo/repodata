@@ -1,4 +1,15 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+747ac548a7b198aa2f520a5f0f27459d9fd033de,fix(curriculum): extend label association test to include select and …,2026-06-08T20:23:25Z,1,4,Medo-ID,freeCodeCamp,freeCodeCamp
+6aeb895558c1fcfaef443f7d686280a3fee53edf,fix(curriculum): improve label-association test to cover select and t…,2026-06-08T18:51:26Z,1,6,imsomilg,freeCodeCamp,freeCodeCamp
+1ae25367a577563082780ee1781e1255078f2708,fix(curriculum): correct editable region markers in workshop-reusable…,2026-06-08T18:44:13Z,2,8,Anurag-Mishra2006,freeCodeCamp,freeCodeCamp
+84939fb24d368a5718baae04c6e38a5c11a7408a,fix(curriculum): correct duplicate correct answer in Date object quiz…,2026-06-08T18:13:32Z,1,6,BilgeGates,freeCodeCamp,freeCodeCamp
+343be341c191e53684f58a56fc36c1978e388f31,fix: allow any callback parameter in step 7 test (#67854),2026-06-08T17:52:23Z,1,4,Kd1880,freeCodeCamp,freeCodeCamp
+004a42cdc94d17f26441860e7d718051fcf8d1d9,fix(curriculum): editable regions in workshop emoji reactor (#67797),2026-06-08T17:06:37Z,14,84,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+6f7b0670e10e53657e8a736cafe41eebe0b84c5c,"chore(i18n,client): processed translations (#67856)",2026-06-08T17:02:06Z,20,1250,camperbot,freeCodeCamp,freeCodeCamp
+d3cb2c61f350951b97ed0974ff5d835d7978bd1b,chore(curriculum): reorder express midware and express error handling…,2026-06-08T16:54:40Z,2,182,Ksound22,freeCodeCamp,freeCodeCamp
+1281f724f49794fd0709833e6c06b57d972f87cd,fix(curriculum): editable regions in workshop rps game (#67802),2026-06-08T16:47:10Z,7,22,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+41d79d24b88b3f9dcc2a4f6a51e3dd4a7ab1fc74,chore(curriculum): remove both tooling-and-deployment and node-and-sq…,2026-06-08T16:38:47Z,2,22,Ksound22,freeCodeCamp,freeCodeCamp
+057a78713d1ef95ff69c129f7f1475e1365b6f43,fix(curriculum): update print tests for build a bill splitter steps 7…,2026-06-08T07:40:46Z,2,28,AbiramiR-27,freeCodeCamp,freeCodeCamp
 47f6292afb14568588b6f72d0f038896458df8d8,fix(curriculum): correct toFixed() quiz answer to include rounding (#…,2026-06-06T21:11:19Z,1,4,nico457,freeCodeCamp,freeCodeCamp
 58590bd12efe3193af6e87c44d0db80af1877e78,fix: clarify hint wording in bill splitter step 6 (#67820),2026-06-06T20:35:29Z,1,14,Kd1880,freeCodeCamp,freeCodeCamp
 76cc3618ec07a0d3510daca0257a9f91f9d20741,feat(curriculum): add websockets quiz (#67822),2026-06-06T13:26:19Z,4,512,Ksound22,freeCodeCamp,freeCodeCamp
@@ -678,4 +689,3 @@ eb30d67f1a12a910a50c29c8bcba1548fb39d36f,chore(deps): update actions/setup-node 
 87edde16fe79bfb9be2818f7597a6f095e59e8b3,feat(curriculum): add dsa review to js v9 cert (#66009),2026-03-09T12:59:46Z,4,242,Ksound22,freeCodeCamp,freeCodeCamp
 08954857c764b16d45ee1bb77021812ceba71f16,feat(curriculum): add queue data structure lab (#66269),2026-03-09T11:43:41Z,4,257,larymak,freeCodeCamp,freeCodeCamp
 4ea5ae56cb1e4f65328d49011f5bae142148a6b7,feat: add independent lowerjaw in labs (#65785),2026-03-09T11:38:31Z,24,607,ahmaxed,freeCodeCamp,freeCodeCamp
-7510f608c3154e440eee955c5ddf93c6d64dfd2a,fix(curriculum): update example codes in js classes review (#66158),2026-03-08T18:46:21Z,3,96,AdityaSingh-18,freeCodeCamp,freeCodeCamp
