@@ -1,4 +1,10 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+1103c142c35799480b17542f8941df9c746213a3,fix(curriculum): inconsistencies across workshop-plant-nursery-catalo…,2026-06-09T18:28:35Z,28,129,dragon-slayer27,freeCodeCamp,freeCodeCamp
+4f836d74329110f412c7fe16d94fa2802be5b291,fix(curriculum): editable regions in workshop word counter (#67862),2026-06-09T17:50:25Z,2,4,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+f41c826c8463926faed84f6a9d6791d50f545c03,fix(curriculum): audit editable region in workshop-library-manager (#…,2026-06-09T15:46:11Z,4,14,jimjoice2804,freeCodeCamp,freeCodeCamp
+1ad8ee806daaf35bc8fddf439c04f050eff799f6,fix(curriculum): editable regions in workshop music instrument filter…,2026-06-09T08:27:21Z,12,53,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+99f026636a68a6b99875b81b70fd7dee3e9b8340,fix(curriculum): inconsistencies across steps in accessible audio con…,2026-06-09T08:21:15Z,5,13,dragon-slayer27,freeCodeCamp,freeCodeCamp
+2505507ad667622b437480734092ed628753744a,"chore(i18n,learn): update i18n-curriculum submodule (#67860)",2026-06-09T04:01:35Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 747ac548a7b198aa2f520a5f0f27459d9fd033de,fix(curriculum): extend label association test to include select and …,2026-06-08T20:23:25Z,1,4,Medo-ID,freeCodeCamp,freeCodeCamp
 6aeb895558c1fcfaef443f7d686280a3fee53edf,fix(curriculum): improve label-association test to cover select and t…,2026-06-08T18:51:26Z,1,6,imsomilg,freeCodeCamp,freeCodeCamp
 1ae25367a577563082780ee1781e1255078f2708,fix(curriculum): correct editable region markers in workshop-reusable…,2026-06-08T18:44:13Z,2,8,Anurag-Mishra2006,freeCodeCamp,freeCodeCamp
@@ -683,9 +689,3 @@ ecceedbbb648a09d1f7f1ab8d1976aabe6d11008,feat: Add interactive rdbs courses to c
 fba37af181aac52a1e9dd92b66501e09fc55a9c2,revert: remove unnecessary tsc call (#66322),2026-03-10T05:43:14Z,1,3,raisedadead,freeCodeCamp,freeCodeCamp
 5eea0731aa2c250b10696ba76e7bf745fd6f4b68,fix(curriculum): guaranteed typo in daily challenge (#66307),2026-03-10T05:25:51Z,2,4,Supravisor,freeCodeCamp,freeCodeCamp
 96f80a6493a8a627073fd6859e055606230ebeb8,perf: remove unnecessary tsc call (#66311),2026-03-10T04:15:04Z,1,3,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-eb30d67f1a12a910a50c29c8bcba1548fb39d36f,chore(deps): update actions/setup-node action to v6.3.0 (#66318),2026-03-10T03:07:05Z,1,4,renovate[bot],freeCodeCamp,freeCodeCamp
-9970e4dacbf67c355bd4588d0c6ac6dc0c5ef032,"chore(i18n,learn): update i18n-curriculum submodule (#66314)",2026-03-09T16:35:23Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-072cc4bdab2f22848098cedf698df02eac609411,"chore(i18n,client): processed translations (#66312)",2026-03-09T15:51:49Z,20,670,camperbot,freeCodeCamp,freeCodeCamp
-87edde16fe79bfb9be2818f7597a6f095e59e8b3,feat(curriculum): add dsa review to js v9 cert (#66009),2026-03-09T12:59:46Z,4,242,Ksound22,freeCodeCamp,freeCodeCamp
-08954857c764b16d45ee1bb77021812ceba71f16,feat(curriculum): add queue data structure lab (#66269),2026-03-09T11:43:41Z,4,257,larymak,freeCodeCamp,freeCodeCamp
-4ea5ae56cb1e4f65328d49011f5bae142148a6b7,feat: add independent lowerjaw in labs (#65785),2026-03-09T11:38:31Z,24,607,ahmaxed,freeCodeCamp,freeCodeCamp
