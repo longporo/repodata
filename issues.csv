@@ -1,10 +1,16 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X88AAAABE6rOzw,67866,sort() behavior with undefined and empty slots not covered,OPEN,2026-06-09T19:23:13Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABE6tvlQ,67867,Progress bar shows 0% instead of 100% when resubmitting a previously completed lab,OPEN,2026-06-09T19:29:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABE6jzYg,67865,ctrl + enter shortcut not working as intended,OPEN,2026-06-09T19:05:34Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABE54AGg,67863,review-css and what-is-javascript: CSS incorrectly described as a markup language,OPEN,2026-06-09T17:19:44Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABFDo3fQ,67882,Misleading description in Build an Error Message Component - 10,OPEN,2026-06-10T19:27:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABD4hlXA,67721,[Curriculum Audit] Editable region markers — v9 workshops,OPEN,2026-05-30T20:13:02Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABE-tb2A,67871,"Add missing spaces in renderCard signature in Fortune Teller App (steps 11, 12, 16, 17)",CLOSED,2026-06-10T07:50:26Z,2026-06-10T16:21:12Z,kavyabhand,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABEW9xeQ,67808,Issue with Build A Sorting Visualizer challenge and test runner,CLOSED,2026-06-04T09:24:27Z,2026-06-10T15:48:36Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABE-tnnw,67874,"Add missing spaces in renderCard signature in Fortune Teller App (steps 22-24, 55)",OPEN,2026-06-10T07:50:52Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABE54AGg,67863,review-css and what-is-javascript: CSS incorrectly described as a markup language,CLOSED,2026-06-09T17:19:44Z,2026-06-10T10:46:37Z,debojeetmitra,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABE6tvlQ,67867,Progress bar shows 0% instead of 100% when resubmitting a previously completed lab,OPEN,2026-06-09T19:29:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABE-thsg,67873,Add missing spaces in renderCard signature in Fortune Teller App (steps 18-21),OPEN,2026-06-10T07:50:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEuwgcw,67853,Missing text on Spanish text,CLOSED,2026-06-08T11:21:52Z,2026-06-09T13:01:25Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABE-fdOg,67870,"Content and formatting inconsistencies in the CSS Specificity, the Cascade Algorithm, and Inheritance lecture block",OPEN,2026-06-10T07:14:43Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABE6rOzw,67866,sort() behavior with undefined and empty slots not covered,OPEN,2026-06-09T19:23:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABErMJDw,67846,The title of some challenges appears twice in users timeline,OPEN,2026-06-07T20:52:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABET4KlQ,67800,Daily Challenge 07 February 2026,OPEN,2026-06-03T22:52:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEnz1BQ,67841,Shopping Cart Step 44 does not accept explicit return in reduce callback,OPEN,2026-06-06T21:18:48Z,,,freeCodeCamp,freeCodeCamp
@@ -26,7 +32,6 @@ I_kwDOAbI7X88AAAABEQwX6w,67790,Incorrect answer to a toFixed() question,CLOSED,2
 I_kwDOAbI7X88AAAABEeByWA,67819,bill splitter step 6,CLOSED,2026-06-05T06:51:09Z,2026-06-06T20:35:31Z,Kd1880,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABD1QUwA,67697,`IndependentLowerJaw` shows hints with relevant spaces trimmed,OPEN,2026-05-29T22:59:30Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEgWVXg,67826,"Suggestion of __str__ implementation in ""Build a Budget App""",CLOSED,2026-06-05T13:35:28Z,2026-06-05T13:56:47Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABEW9xeQ,67808,Issue with Build A Sorting Visualizer challenge and test runner,OPEN,2026-06-04T09:24:27Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEa9jzg,67814,Replace backticks with `code` element in intro.json,CLOSED,2026-06-04T19:45:42Z,2026-06-04T21:05:15Z,pdtrang,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEQ2gAw,67791,Add Error Handling review page to JavaScript v9 Debugging module,CLOSED,2026-06-03T15:03:46Z,2026-06-04T12:13:29Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABENyBeg,67781,Pantry restocker challenge - lack of instructions for group by Zone function and lack of test cases,CLOSED,2026-06-03T07:37:09Z,2026-06-04T08:48:36Z,Kd1880,freeCodeCamp,freeCodeCamp
@@ -499,22 +504,3 @@ I_kwDOAbI7X87yOH9e,66388,fix: module functions incorrectly referred to as method
 I_kwDOAbI7X87yF5AS,66384,"Typo in workshop-colorful-boxes: duplicated ""from"" in challenge instructions",CLOSED,2026-03-12T02:05:16Z,2026-03-12T11:47:29Z,jphizon-dev,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85fQ8lG,49492,Show warning to users when they try to source the wrong files,OPEN,2023-02-24T09:45:10Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87xjHMX,66346,"Misleading descriptions of ""Internal CSS Specificity"" and ""External CSS Specificity""",CLOSED,2026-03-10T15:20:10Z,2026-03-11T10:54:03Z,farchettiensis,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87xq_gL,66360,Independent Jaw doesn't have an option to download code,CLOSED,2026-03-10T22:33:51Z,2026-03-10T22:42:50Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87xlzlO,66352,Failing Playwright test for daily challenges,CLOSED,2026-03-10T17:33:40Z,2026-03-10T22:31:56Z,moT01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87sEy-J,65952,Better use of verb in Learn How to Manage a Conversation,CLOSED,2026-02-19T02:33:29Z,2026-03-10T17:33:57Z,Julien-Desbard,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87xWbpS,66319,Unable to log in,CLOSED,2026-03-10T03:41:54Z,2026-03-10T15:28:16Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87JQzEc,62018,Daily challenge solutions are saved as `undefined.txt`,CLOSED,2025-09-02T15:57:39Z,2026-03-10T14:15:40Z,leputz,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861vbc0,60231,Code evaluated twice after saving,CLOSED,2025-05-08T14:02:29Z,2026-03-10T13:51:28Z,Sembauke,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X85lPWwZ,50301,POST /user/account/delete -> DELETE /user/account,OPEN,2023-05-06T07:55:48Z,,Nirajn2311;ojeytonwilliams,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87wL17Q,66261,Build a Countdown should use recursion,CLOSED,2026-03-05T17:32:13Z,2026-03-10T12:30:27Z,harirs139-ui,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861DFku,60142,"Add Search Suggestions for Articles, Tutorials, and Books",CLOSED,2025-05-03T16:06:15Z,2026-03-10T11:30:39Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86-HTQd,61166,Browsing Topics API warning while using Firefox,CLOSED,2025-06-30T19:13:55Z,2026-03-10T11:28:57Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87g3RWy,64945,Theme resets to light and login session is lost when opening C# challenges in a new tab,CLOSED,2025-12-31T11:21:32Z,2026-03-10T08:12:00Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87dZML-,64442,issue with completing v8 certification projects in v9,CLOSED,2025-12-10T09:36:22Z,2026-03-10T08:09:19Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87apEZR,64164,Feature Request: Provided feedback on areas to review on exam page,CLOSED,2025-11-26T16:22:26Z,2026-03-10T08:06:36Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Zo4_6,64031,Copy button or may be a run code feature will make the lessons even more interactive,CLOSED,2025-11-21T11:53:59Z,2026-03-10T08:02:45Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87X6phO,63814,Workshop for refactoring?,CLOSED,2025-11-13T19:14:45Z,2026-03-10T08:01:39Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87TQDmD,62968,[discussion] move more curriculum into growthbook,CLOSED,2025-10-23T11:03:33Z,2026-03-10T08:01:06Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87PbyoU,62472,Reset button restores saved code from previous version of cert project,CLOSED,2025-10-03T07:55:27Z,2026-03-10T08:00:11Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87X1zAo,63804,Unclear requirements for claiming new certifications,CLOSED,2025-11-13T13:20:10Z,2026-03-10T07:57:32Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X855lOjV,52538,Python(UI): add ways to control the execution of the user's code,CLOSED,2023-12-13T14:13:30Z,2026-03-10T07:18:15Z,,freeCodeCamp,freeCodeCamp
