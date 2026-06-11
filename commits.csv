@@ -1,4 +1,14 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+db5c3419b23120017fc8a6f1b931c4d5aaeefe34,fix(curriculum): audit editable regions for reusable mega navbar (#67…,2026-06-10T20:55:47Z,8,60,rustom-yadav,freeCodeCamp,freeCodeCamp
+4ed66df9bf960ce3484c708bdc4c7d1f671d3c78,fix(curriculum): audit editable regions in workshop balance sheet (#6…,2026-06-10T16:33:14Z,38,176,imsomilg,freeCodeCamp,freeCodeCamp
+2c33a3fa73b04f73cc978544c7b1a711569a1849,fix(curriculum): add spaces in fortune teller renderCard (#67879),2026-06-10T16:21:10Z,4,8,kavyabhand,freeCodeCamp,freeCodeCamp
+143ed2e8590696217193750934db1610b7661d1d,"chore(i18n,client): processed translations (#67877)",2026-06-10T14:21:43Z,10,1740,camperbot,freeCodeCamp,freeCodeCamp
+5070b38892e611448e0067a378e489e12442e3ee,fix(curriculum): correct CSS language classification across lessons (…,2026-06-10T10:46:35Z,2,8,debojeetmitra,freeCodeCamp,freeCodeCamp
+75d9c07965cf33a7d8ccc418d1837dcc3109fb39,fix(curriculum): audit editable regions for nutritional label worksho…,2026-06-10T10:12:52Z,47,230,imsomilg,freeCodeCamp,freeCodeCamp
+60fa255851d785ee06f7110ce6c5a57d309c8fcd,fix(curriculum): audit editable regions in accessibility quiz worksho…,2026-06-10T10:11:55Z,41,235,imsomilg,freeCodeCamp,freeCodeCamp
+7586c1a226e87741722db9ca4c010ed6233f7733,fix(curriculum): audited editable regions in workshop-salary-tracker …,2026-06-10T08:09:10Z,36,113,andiedoescode,freeCodeCamp,freeCodeCamp
+d1bb367e998281016012bd6301dfef1fd1b8ef14,fix(curriculum): editable regions in workshop linked list js (#67869),2026-06-10T07:22:53Z,2,4,arunkumar0398,freeCodeCamp,freeCodeCamp
+780a573d42f6eb243b249c765747fe93ce69d0f0,fix(curriculum): audit editable regions for workshop registration for…,2026-06-10T07:22:19Z,4,19,imsomilg,freeCodeCamp,freeCodeCamp
 1103c142c35799480b17542f8941df9c746213a3,fix(curriculum): inconsistencies across workshop-plant-nursery-catalo…,2026-06-09T18:28:35Z,28,129,dragon-slayer27,freeCodeCamp,freeCodeCamp
 4f836d74329110f412c7fe16d94fa2802be5b291,fix(curriculum): editable regions in workshop word counter (#67862),2026-06-09T17:50:25Z,2,4,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 f41c826c8463926faed84f6a9d6791d50f545c03,fix(curriculum): audit editable region in workshop-library-manager (#…,2026-06-09T15:46:11Z,4,14,jimjoice2804,freeCodeCamp,freeCodeCamp
@@ -667,25 +677,3 @@ e8052b52c20dde42b20d876d4e3f5470264f932f,fix: race condition in concurrent delet
 f10df7359410e36751528044f154e1f1a17efabd,fix(challenge-helper-scripts): auto-derive help category from challen…,2026-03-11T11:17:18Z,1,21,huyenltnguyen,freeCodeCamp,freeCodeCamp
 8ed4646b513d74e61aa97d80a206039859e1166b,fix(curriculum): css specificity internal external descriptions (#66349),2026-03-11T10:54:01Z,3,16,farchettiensis,freeCodeCamp,freeCodeCamp
 79eea990eaeb3733ece0a9d8e6c7e39513df335c,feat(curriculum): daily challenges 223-229 (#66313),2026-03-11T09:12:51Z,19,1541,moT01,freeCodeCamp,freeCodeCamp
-a1c5e08728a9102dd2fd2130b25908e651703e52,fix(tests): disable dc e2e tests (#66357),2026-03-10T22:31:53Z,1,79,moT01,freeCodeCamp,freeCodeCamp
-9362039fce67d2738d5f03fc5c518165500776f3,feat: Added mp3 audio file name for what each department does (#66353),2026-03-10T21:16:57Z,2,2,RafaelDavisH,freeCodeCamp,freeCodeCamp
-bac47051e416fd8043b948823b5de8fe4c40d6d9,fix(curriculum): updated verb tense (#66351),2026-03-10T17:33:54Z,1,2,Julien-Desbard,freeCodeCamp,freeCodeCamp
-29979ca3a4cf64b45207eda32257ca6741dea980,feat(curriculum): add linked list operations lab (#65448),2026-03-10T17:01:55Z,4,500,larymak,freeCodeCamp,freeCodeCamp
-521c2212768a31f977a8eb4af74f65bae8f9003e,fix: incomplete html and css course names for catalog (#66316),2026-03-10T16:29:30Z,22,136,jdwilkin4,freeCodeCamp,freeCodeCamp
-d444cc0cb73f8ea6c14279bd132c2aadf3a15110,fix(curriculum): add opposite parameter validation tests (#66296),2026-03-10T15:33:23Z,1,82,majestic-owl448,freeCodeCamp,freeCodeCamp
-66c9c7913f8a48f8577037edc4abf0bff56fe410,"Revert ""fix(client): avoid redundant updateFile dispatch on load when…",2026-03-10T15:19:29Z,1,13,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-bd767988e42fba084459a02aaa82545553c03f24,fix(curriculum): reorder intros for superblock responsive-web-design-…,2026-03-10T14:48:17Z,1,83,majestic-owl448,freeCodeCamp,freeCodeCamp
-7302c9b96569b752fb303bfa2facc5c9a89dc6b3,fix(curriculum): reorder intros for superblock relational-databases-v…,2026-03-10T14:47:10Z,1,64,majestic-owl448,freeCodeCamp,freeCodeCamp
-86f34c557af1239de2c0dd5a62857341edd94159,fix(curriculum): reorder intros for superblock python-v9 (#66293),2026-03-10T14:45:54Z,1,74,majestic-owl448,freeCodeCamp,freeCodeCamp
-1ad17425aa7182567eebd4dc5cf8c273f018a431,fix(curriculum): reorder intros for superblock back-end-development-a…,2026-03-10T14:45:01Z,1,42,majestic-owl448,freeCodeCamp,freeCodeCamp
-40a1339b8c11d4dec0ac12b542a82021c1bc8e67,fix(curriculum): reorder intros for superblock front-end-development-…,2026-03-10T14:43:23Z,1,28,majestic-owl448,freeCodeCamp,freeCodeCamp
-512172de1e534ded375ea8120f8dc8c82fc41062,fix(curriculum): reorder intros for superblock javascript-v9 (#66290),2026-03-10T14:40:46Z,1,140,majestic-owl448,freeCodeCamp,freeCodeCamp
-d4161819cc950c27c48aa38720e6f51ad6e18a23,fix(client) downloaded daily code challenge solution with filename (#…,2026-03-10T14:15:37Z,4,52,leputz,freeCodeCamp,freeCodeCamp
-8c3a89113a83563d2d4cb0423ee0a0a63cec0f9c,fix(client): avoid redundant updateFile dispatch on load when files a…,2026-03-10T13:51:26Z,1,13,Sembauke,freeCodeCamp,freeCodeCamp
-0e25761399963538516539065fb0bf3356c152f4,fix(curriculum): enforce recursion in Build a Countdown challenge (#6…,2026-03-10T12:30:24Z,2,26,harirs139-ui,freeCodeCamp,freeCodeCamp
-316b3b02ce14756c563c9198266fff6eff5bd8f3,refactor(curriculum): remove challenge caching (#66297),2026-03-10T08:49:51Z,1,30,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-fcdf03fe33f602efe679564024dfb3c2f86e89b4,"fix(tools): improve curriculum build, but with correct caching (#66323)",2026-03-10T08:32:50Z,2,6,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-ecceedbbb648a09d1f7f1ab8d1976aabe6d11008,feat: Add interactive rdbs courses to catalog (#66218),2026-03-10T07:14:40Z,22,455,jdwilkin4,freeCodeCamp,freeCodeCamp
-fba37af181aac52a1e9dd92b66501e09fc55a9c2,revert: remove unnecessary tsc call (#66322),2026-03-10T05:43:14Z,1,3,raisedadead,freeCodeCamp,freeCodeCamp
-5eea0731aa2c250b10696ba76e7bf745fd6f4b68,fix(curriculum): guaranteed typo in daily challenge (#66307),2026-03-10T05:25:51Z,2,4,Supravisor,freeCodeCamp,freeCodeCamp
-96f80a6493a8a627073fd6859e055606230ebeb8,perf: remove unnecessary tsc call (#66311),2026-03-10T04:15:04Z,1,3,ojeytonwilliams,freeCodeCamp,freeCodeCamp
