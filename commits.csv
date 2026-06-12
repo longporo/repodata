@@ -1,4 +1,8 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+6d17296c9b59efb24d017a45a28bf963bcfe6316,"fix(curriculum): fixed misleading description in ""Build an Error Mess…",2026-06-11T21:23:48Z,3,16,Archameuse,freeCodeCamp,freeCodeCamp
+54b47b1a5e392ded454f1de20700f376d10577d8,fix(curriculum): decouple hasattr check in salary tracker step 31 (#6…,2026-06-11T20:08:42Z,1,11,deepak-s-git,freeCodeCamp,freeCodeCamp
+b192cacf44c9c38331c127e71a29b41267f25f16,fix(curriculum): add missing spaces in renderCard signature (#67889),2026-06-11T09:37:17Z,4,8,mahimathacker,freeCodeCamp,freeCodeCamp
+19009e355a97e18afd5248ea6fe21105193651bf,fix: use babel targets when transpiling user code (#53127),2026-06-11T09:01:01Z,88,894,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 db5c3419b23120017fc8a6f1b931c4d5aaeefe34,fix(curriculum): audit editable regions for reusable mega navbar (#67…,2026-06-10T20:55:47Z,8,60,rustom-yadav,freeCodeCamp,freeCodeCamp
 4ed66df9bf960ce3484c708bdc4c7d1f671d3c78,fix(curriculum): audit editable regions in workshop balance sheet (#6…,2026-06-10T16:33:14Z,38,176,imsomilg,freeCodeCamp,freeCodeCamp
 2c33a3fa73b04f73cc978544c7b1a711569a1849,fix(curriculum): add spaces in fortune teller renderCard (#67879),2026-06-10T16:21:10Z,4,8,kavyabhand,freeCodeCamp,freeCodeCamp
@@ -666,14 +670,3 @@ ab14a6a9b15fefe3bbe47861fbb1a7979ccbd405,fix(client): handle navbar style in hig
 8e70e4a63142e16b4c8e879d3f0bdded193f540a,feat(curriculum): EN-B1 quiz for block 10 (#66337),2026-03-12T12:23:14Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
 72dfef22e568343cc2ea2016d5491668887e48f2,fix: typo in challenge instructions of workshop-colorful-boxes step 1…,2026-03-12T11:47:28Z,1,2,jphizon-dev,freeCodeCamp,freeCodeCamp
 f79e7ecc383891682269175ab8c7a791bfdc6af7,fix(curriculum): correct challengeType for lab-tower-of-hanoi from 23…,2026-03-12T07:49:25Z,1,2,majestic-owl448,freeCodeCamp,freeCodeCamp
-c543dfbc4d2c453362e2eb65041be6f1194f0cd5,chore(deps): update github actions (#66375),2026-03-12T04:03:15Z,7,26,renovate[bot],freeCodeCamp,freeCodeCamp
-f4ddbb97bc26f324e72759f134f72d9c37edbb87,"chore(i18n,learn): update i18n-curriculum submodule (#66374)",2026-03-11T23:21:21Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-581a488bc84ee83e3e51ecbe81be76e3060c0687,feat(curriculum): Add speaking practices to B1 English (#66376),2026-03-11T20:36:22Z,247,2204,DanielRosa74,freeCodeCamp,freeCodeCamp
-9aa6f05fa14f217d10ea37230f8a701f3503f4ac,fix(client): duplicate console output (#66350),2026-03-11T20:15:50Z,3,116,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-b72d31c2097d55469ce4cbc3cf28a9391a68207a,refactor(client): source superblock intros from curriculum (#66328),2026-03-11T15:53:10Z,80,954,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-e8052b52c20dde42b20d876d4e3f5470264f932f,fix: race condition in concurrent delete user requests test (#66362),2026-03-11T13:10:43Z,1,6,huyenltnguyen,freeCodeCamp,freeCodeCamp
-5d19e0d0094d8235758eaf9da17e60468db17212,"chore(i18n,client): processed translations (#66372)",2026-03-11T13:05:05Z,20,7542,camperbot,freeCodeCamp,freeCodeCamp
-5b9c2516a4cd39a584972c9886e489e9aa4bf450,fix(package): exclude transform-spread from babel preset-env to prese…,2026-03-11T11:44:13Z,2,6,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-f10df7359410e36751528044f154e1f1a17efabd,fix(challenge-helper-scripts): auto-derive help category from challen…,2026-03-11T11:17:18Z,1,21,huyenltnguyen,freeCodeCamp,freeCodeCamp
-8ed4646b513d74e61aa97d80a206039859e1166b,fix(curriculum): css specificity internal external descriptions (#66349),2026-03-11T10:54:01Z,3,16,farchettiensis,freeCodeCamp,freeCodeCamp
-79eea990eaeb3733ece0a9d8e6c7e39513df335c,feat(curriculum): daily challenges 223-229 (#66313),2026-03-11T09:12:51Z,19,1541,moT01,freeCodeCamp,freeCodeCamp
