@@ -1,4 +1,5 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+3a85bcee991a6c8385edc57a6b022b4ec0ef4a16,feat(curriculum): daily challenges 312-326 (#67749),2026-06-13T15:43:31Z,33,3039,moT01,freeCodeCamp,freeCodeCamp
 69fac37d3ff958baaa7daab8cdfa85bb8ea47297,fix(curriculum): correct component name in football player cards step…,2026-06-12T20:08:41Z,1,2,omarkurtovic,freeCodeCamp,freeCodeCamp
 f9f577849979542ea5cf9191e5c59aa8cb5e87ed,fix(curriculum): correct Basic HTML review formatting (#67915),2026-06-12T19:41:28Z,1,60,Mudassir55,freeCodeCamp,freeCodeCamp
 95c7c26db2321fd0229b4a632d44e0074119e1f1,fix(curriculum): audit editable regions in workshop piano (#67880),2026-06-12T18:57:15Z,23,113,imsomilg,freeCodeCamp,freeCodeCamp
@@ -636,26 +637,3 @@ f61cd9fbf8ec992a5b54750f354f5ffe5c9ed29c,feat(curriculum): add background and bo
 efa59cb7187444de8253f1599b5a1169e008b900,"refactor(client,curriculum): remove showSpeakingButton from challenge…",2026-03-14T09:23:08Z,248,250,huyenltnguyen,freeCodeCamp,freeCodeCamp
 e39731313283e6dbcb7c75ca53620dafb9dc785e,fix(client): reduce gap between action row and breadcrumbs (#66317),2026-03-14T09:21:38Z,3,14,huyenltnguyen,freeCodeCamp,freeCodeCamp
 96fa06b1014d575dd20fa40bab771044a3d9bf8f,fix(curriculum): make test consistent with lowercase storage (#66420),2026-03-14T09:13:18Z,1,6,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-854f619472dba79ed988585b079b70bd804660bb,fix(curriculum): fix lab-scatterplot-graph not passing test-curriculu…,2026-03-14T01:37:16Z,1,2,DanielRosa74,freeCodeCamp,freeCodeCamp
-b8c6ce977ce87a285ffa9c8e13a2d5fc78629b53,fix(curriculum): remove before/after-user-code from rosetta challenge…,2026-03-13T18:34:38Z,3,548,Sembauke,freeCodeCamp,freeCodeCamp
-975706e5e35aa87a5f0d8bffd8f7d15c5b8229c3,fix(curriculum): remove before/after-user-code from rosetta challenge…,2026-03-13T17:55:17Z,5,95,Sembauke,freeCodeCamp,freeCodeCamp
-10015b464683a1f800521b73f7a765f438b36d86,fix(curriculum): remove before/after-user-code from rosetta challenge…,2026-03-13T17:55:12Z,5,236,Sembauke,freeCodeCamp,freeCodeCamp
-1be5cc5fd936b5089ff9827c32140ed43d4a3ebb,fix(curriculum): remove before/after-user-code from rosetta challenge…,2026-03-13T17:52:03Z,5,115,Sembauke,freeCodeCamp,freeCodeCamp
-6af1509ab61ae580895ebaa4ac9c6d7e7c24570e,fix(curriculum): clarify which anchor element to modify in cat photo …,2026-03-13T17:19:06Z,1,2,majestic-owl448,freeCodeCamp,freeCodeCamp
-ceea951956fecbf1e4c8329e0c7a422f822169e4,feat(curriculum): Add an example of invalid syntax for an if-else blo…,2026-03-13T16:54:54Z,1,12,octavio-js,freeCodeCamp,freeCodeCamp
-94517213d947c923026c94e6687e59b76c8cfd55,fix(challenge-builder): preserve defer behavior when embedding extern…,2026-03-13T15:24:25Z,2,150,Sembauke,freeCodeCamp,freeCodeCamp
-fbda2ee939953298239bba962dee224e76db3c4f,fix(curriculum): remove before/after-user-code from rosetta challenge…,2026-03-13T14:27:08Z,5,479,Sembauke,freeCodeCamp,freeCodeCamp
-360c926aba75f9ff05d43e4a867228e79ac117c8,fix(curriculum): clarify step descriptions in employee profile genera…,2026-03-13T13:44:33Z,5,11,majestic-owl448,freeCodeCamp,freeCodeCamp
-5713194d48e5567cb24a9f7b0970786d55b96e59,"feat(client,curriculum): add MCP and RAG course to catalog (#66315)",2026-03-13T13:41:11Z,33,903,jdwilkin4,freeCodeCamp,freeCodeCamp
-f0ba207b6e987544ee8a43e88634afbe6028b456,fix(curriculum): remove before/after-user-code from rosetta challenge…,2026-03-13T13:35:27Z,0,0,Sembauke,freeCodeCamp,freeCodeCamp
-6d2827099112c6cf539a3b86cd2f3cd79d701f45,fix(curriculum): clarify border description in Game Settings Panel - …,2026-03-13T13:22:50Z,1,2,huyenltnguyen,freeCodeCamp,freeCodeCamp
-6111504be450ef30cb7c67f89c8534a6c85f6a17,fix(curriculum): remove before/after-user-code from first 5 rosetta c…,2026-03-13T12:38:07Z,5,93,Sembauke,freeCodeCamp,freeCodeCamp
-52e2141f4a21251e7387b3ad185ad1ac3c0f547c,fix(client): use requestAnimationFrame to focus editor on mount in Fi…,2026-03-13T12:34:40Z,2,12,ragini-pandey,freeCodeCamp,freeCodeCamp
-c70d7f8549818c2a7ebc5e0322ea63cba3569760,fix(curriculum): update terminology in JavaScript Functions Review (#…,2026-03-13T12:12:21Z,1,2,shOumik-saha,freeCodeCamp,freeCodeCamp
-01080c5d8d9da5ce7b684e623c0ce7f8f9f59266,fix(curriculum): remove before/after-user-code from rosetta challenge…,2026-03-13T11:50:14Z,5,94,Sembauke,freeCodeCamp,freeCodeCamp
-062b3b2002a92f097fa7bc6bf57d929fd2fc7d3b,fix(curriculum): remove before/after-user-code from rosetta challenge…,2026-03-13T10:35:08Z,5,95,Sembauke,freeCodeCamp,freeCodeCamp
-1bc166aa088eda8039ffa0ad5b0449031b95fd0f,feat(curriculum): add JS graphs and trees review page (#65818),2026-03-13T09:13:30Z,4,130,zairahira,freeCodeCamp,freeCodeCamp
-2a4cd06afce5adfe79d42102150bd57d7ddafb05,fix(curriculum): update compression explanation and quiz (#66401),2026-03-13T08:42:36Z,1,10,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-f252c23a9f187a49be9cd2087d5170a6b77e0765,feat(curriculum): add npm quiz (#66255),2026-03-13T08:30:59Z,4,475,zairahira,freeCodeCamp,freeCodeCamp
-7544727e237b5de7497ccf669eeae397a70d0456,feat(curriculum): add algorithms review page to JSV9 (#65944),2026-03-13T08:16:58Z,4,80,zairahira,freeCodeCamp,freeCodeCamp
-a8dca39ddabbdbfd79691a8f2071ce183cdefe76,feat(curriculum): add JS DFS lab (#65778),2026-03-13T07:59:53Z,4,125,zairahira,freeCodeCamp,freeCodeCamp
