@@ -1,12 +1,28 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X88AAAABFkhzvA,67976,Fix typos and punctuation errors in the Understanding Error Handling lectures (Python v9),OPEN,2026-06-15T20:52:10Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABFhn1Cg,67963,Fix malformed image URL interpolation snippet in Workshop Fortune Teller App step 13,OPEN,2026-06-15T13:59:45Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABF0VaOw,68023,Fix grammar in Step 6 hints of the Tailwind CTA Component workshop,CLOSED,2026-06-17T17:01:49Z,2026-06-18T01:42:57Z,Dennis01601,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87xrDN_,66361,No language selector on small window of daily challenge,CLOSED,2026-03-10T22:38:06Z,2026-06-17T20:33:42Z,neerajgouda06,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABF1pA9g,68032,Fix incorrect at-rule/media feature names and typo in CSS Animations quiz,OPEN,2026-06-17T20:16:16Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABF1oQTA,68031,Standalone css-flexbox superblock is missing the workshop-colorful-boxes block,OPEN,2026-06-17T20:14:19Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87bFj9i,64218,CSSHelp issue with `getStyleAny`,CLOSED,2025-11-28T18:46:56Z,2026-06-17T20:08:35Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABFhn1Cg,67963,Fix malformed image URL interpolation snippet in Workshop Fortune Teller App step 13,CLOSED,2026-06-15T13:59:45Z,2026-06-17T19:46:42Z,Adarsh-N-Mogaveera,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABF0jcVg,68026,Timeline on profile has variable width - should be full width?,OPEN,2026-06-17T17:33:53Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABErMJDw,67846,The title of some challenges appears twice in users timeline,CLOSED,2026-06-07T20:52:55Z,2026-06-17T19:25:44Z,imsomilg;majestic-owl448,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABBfKZYg,67263,RDB course missing instructions on required language setting,OPEN,2026-05-06T22:07:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABFzKmqg,68018,"Duplicated word ""should"" in `else` block instructions in Step 15 of the Fortune Teller App workshop",CLOSED,2026-06-17T14:23:09Z,2026-06-17T18:16:59Z,Adam,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABFzPsGg,68019,Sync basic-html superblock: add missing workshop-html-music-player block,CLOSED,2026-06-17T14:33:30Z,2026-06-17T18:14:33Z,kanan010506,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABF0oOmg,68028,Don't render same title twice in page title,OPEN,2026-06-17T17:44:53Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABFUmknQ,67919,"Grammar, punctuation, and formatting fixes in Review CSS Backgrounds and Borders",CLOSED,2026-06-12T19:43:21Z,2026-06-17T16:40:53Z,Mayank777-hub,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABFkhzvA,67976,Fix typos and punctuation errors in the Understanding Error Handling lectures (Python v9),CLOSED,2026-06-15T20:52:10Z,2026-06-17T14:10:11Z,bikeshgyawali,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABFy7guQ,68017,Typo and capitalization issues in Quiz: Bash and SQL,OPEN,2026-06-17T13:53:03Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABFiNIew,67967,Broken default.svg in workshop-fortune-teller-app,CLOSED,2026-06-15T15:14:19Z,2026-06-17T13:38:27Z,imsomilg,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABFwcp2A,68010,Remove lab-prime-number-sum-calculator from the higher-order-functions superblock,CLOSED,2026-06-17T08:01:46Z,2026-06-17T13:26:35Z,TEE0207,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABFwn7dw,68011,certificate course ,CLOSED,2026-06-17T08:30:12Z,2026-06-17T08:37:05Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABFwSDcA,68009,Fix inconsistent instructions in Step 51 of the Email Simulator workshop,OPEN,2026-06-17T07:35:33Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABFh5Trw,67966,Workshop Fortune Teller App step 7 only accepts implicit return,CLOSED,2026-06-15T14:34:12Z,2026-06-17T07:17:31Z,Vanishagupta18,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABD4hlXA,67721,[Curriculum Audit] Editable region markers — v9 workshops,OPEN,2026-05-30T20:13:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFsN65g,67998,question: should module reset also remove progressTimestamps entries (affecting points and calendar)?,CLOSED,2026-06-16T18:31:42Z,2026-06-17T03:01:04Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFki-hQ,67977,Fix grammar and formatting issues in Links and Images lessons E-H,CLOSED,2026-06-15T20:55:29Z,2026-06-16T23:34:53Z,fraternebahirwe;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFkd_Gw,67975,"Fix grammar, spelling, and formatting errors in the Importance of Accessibility and Good HTML Structure lectures",CLOSED,2026-06-15T20:42:23Z,2026-06-16T19:17:17Z,majestic-owl448;oLucasJard,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABFh5Trw,67966,Workshop Fortune Teller App step 7 only accepts implicit return,OPEN,2026-06-15T14:34:12Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABD4hlXA,67721,[Curriculum Audit] Editable region markers — v9 workshops,OPEN,2026-05-30T20:13:02Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABFiNIew,67967,Broken default.svg in workshop-fortune-teller-app,OPEN,2026-06-15T15:14:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFnfu8w,67984,Coding Challenge 310: British to American - typo in test results,CLOSED,2026-06-16T07:13:03Z,2026-06-16T14:02:33Z,divyaanshupal,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFkjDnQ,67978,Replace curly apostrophes in Links and Images lessons A-D,CLOSED,2026-06-15T20:55:40Z,2026-06-16T10:01:18Z,kanan010506,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFn3sSQ,67987,[phantomstars] Automated fake-engagement analysis — for information only,CLOSED,2026-06-16T08:09:58Z,2026-06-16T08:17:28Z,,freeCodeCamp,freeCodeCamp
@@ -23,7 +39,6 @@ I_kwDOAbI7X87pmJp-,65797,Translatable tokens in language files,OPEN,2026-02-10T0
 I_kwDOAbI7X88AAAABFddMhg,67952,Incorrect hint message appears in Chinese version of Cat Photo App,OPEN,2026-06-15T01:37:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFORpFg,67901,Notification incorrectly shows up on learn platform,CLOSED,2026-06-12T01:38:09Z,2026-06-14T14:19:12Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFUrwyA,67920,Writing and formatting issues in several Debugging Techniques lectures,CLOSED,2026-06-12T19:57:12Z,2026-06-14T19:17:58Z,TechGenius-Karan;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABErMJDw,67846,The title of some challenges appears twice in users timeline,OPEN,2026-06-07T20:52:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBu_1bw,67296,Need improvement in accessibility,CLOSED,2026-05-09T05:46:19Z,2026-06-14T14:37:50Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFbuELQ,67948,Windows,CLOSED,2026-06-14T15:17:22Z,2026-06-14T15:27:44Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFQo2IA,67909,Fix grammar and technical inaccuracies in the Review CSS Accessibility content,CLOSED,2026-06-12T09:15:45Z,2026-06-14T14:13:51Z,saugatkarke,freeCodeCamp,freeCodeCamp
@@ -32,7 +47,6 @@ I_kwDOAbI7X87K_RsU,62152,Updating Our Payment Provider Integration,OPEN,2025-09-
 MDU6SXNzdWUxNDIwOTEwMTA=,7655,"Steamroller solution working fine, but not passing the level",CLOSED,2016-03-19T18:56:03Z,2016-03-20T14:36:58Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFVCw0g,67922,Minecraft,CLOSED,2026-06-12T21:00:13Z,2026-06-13T02:58:54Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFPy3Zg,67906,Football Player Card Builder: Incorrect task description,CLOSED,2026-06-12T06:54:36Z,2026-06-12T20:08:43Z,omarkurtovic,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABFUmknQ,67919,"Grammar, punctuation, and formatting fixes in Review CSS Backgrounds and Borders",OPEN,2026-06-12T19:43:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFQVUXA,67908,Grammar and formatting errors in the Basic HTML Review lecture,CLOSED,2026-06-12T08:25:28Z,2026-06-12T19:41:30Z,Mudassir55,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDokr4g,67636,rdb workshop unexplained test script failure,OPEN,2026-05-28T08:15:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFQT3XQ,67907,Fix redundant phrasing and non-breaking space in Review Classes and Objects,CLOSED,2026-06-12T08:21:24Z,2026-06-12T13:53:55Z,flopez0294,freeCodeCamp,freeCodeCamp
@@ -110,7 +124,6 @@ I_kwDOAbI7X88AAAABDlSYCw,67626,Translation error in Spanish challenge,CLOSED,202
 I_kwDOAbI7X88AAAABDuSQzQ,67670,fix incorrect translation in Build a Job Application Form,CLOSED,2026-05-29T00:55:24Z,2026-05-30T07:42:50Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDsKGeA,67655,Incorrect quiz feedback and punctuation issue in lecture-browsing-the-web-effectively,CLOSED,2026-05-28T17:55:38Z,2026-05-29T22:41:17Z,annafreidl,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDxoytw,67686,test(client): add unit tests for challenge-request-helpers,CLOSED,2026-05-29T12:11:36Z,2026-05-29T21:39:07Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABBfKZYg,67263,RDB course missing instructions on required language setting,OPEN,2026-05-06T22:07:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBN6R7g,67225,"Bug - Build a Heritage Library Catalog, Step 28",CLOSED,2026-05-04T12:43:25Z,2026-05-29T18:54:27Z,majestic-owl448;narasimhan-lakshmi,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDsF14g,67654,Fix incorrect title in lab-motorcycle-shop challenge,CLOSED,2026-05-28T17:44:13Z,2026-05-29T18:41:45Z,Mitraaxx;majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDcy_8A,67608,jsv9 smart pantry lab restocker missing key details in description,CLOSED,2026-05-26T18:25:51Z,2026-05-29T17:15:11Z,TheSeydiCharyyev;majestic-owl448,freeCodeCamp,freeCodeCamp
@@ -148,7 +161,6 @@ I_kwDOAbI7X88AAAABC0bZYw,67469,Broken feedback sentences in 'What Is the Raise S
 I_kwDOAbI7X87_m741,66990,RDB-v9 Course: Start the course button location missed by many,CLOSED,2026-04-18T15:18:00Z,2026-05-25T09:13:18Z,azad12614,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDRobPg,67587,"Typo in basic HTML quiz: ""in to"" should be ""into""",CLOSED,2026-05-25T06:25:20Z,2026-05-25T08:21:25Z,07Vineet07,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87FYErQ,61779,Include async/await workshop steps in Build an fCC Authors Page App,CLOSED,2025-08-11T19:39:11Z,2026-05-25T07:47:02Z,hbar1st;naomi-freecodecamp,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87xrDN_,66361,No language selector on small window of daily challenge,OPEN,2026-03-10T22:38:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87q-Cf9,65887,Improve solution download format to ZIP project structure,OPEN,2026-02-14T19:37:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABC4fDCg,67490,Fix terminology and grammar errors in lecture-working-with-arrays,CLOSED,2026-05-20T17:02:17Z,2026-05-24T20:29:20Z,Sembauke;dinesh-bajgain-dev,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDBJ6dw,67517,Fix errors in lecture-understanding-error-handling block,CLOSED,2026-05-21T19:55:49Z,2026-05-24T20:02:19Z,AliMahmoudDev;huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -245,7 +257,6 @@ I_kwDOAbI7X88AAAABCO1EPQ,67365,Remove first person language from cafe menu works
 I_kwDOAbI7X88AAAABCO1efg,67381,Remove first person language from Tailwind pricing component workshop,CLOSED,2026-05-14T09:20:26Z,2026-05-14T11:59:44Z,deepak-s-git,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPFOX,64125,Lab – Proofreading Tool,CLOSED,2025-11-25T03:45:49Z,2026-05-14T10:03:50Z,arunkumar0398,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCLzwog,67359,Remove first person language from email simulator workshop,CLOSED,2026-05-13T22:19:46Z,2026-05-14T10:01:40Z,HritikKaushik,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87bFj9i,64218,CSSHelp issue with `getStyleAny`,OPEN,2025-11-28T18:46:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABB7n2KA,67331,"Fix misleading explanation about useMemo and component re-rendering in ""What Is Memoization..."" lesson",CLOSED,2026-05-11T22:00:55Z,2026-05-13T18:42:28Z,caiolucasbittencourt,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABB2d3nQ,67320,Potential unnecessary rerender propagation in Scene playback causing repeated Character subtree updates,CLOSED,2026-05-11T08:15:50Z,2026-05-13T12:23:40Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCGeeMw,67351,Protect freeCodeCamp from AI slop PRs,CLOSED,2026-05-13T07:53:56Z,2026-05-13T10:45:25Z,,freeCodeCamp,freeCodeCamp
@@ -490,8 +501,3 @@ I_kwDOAbI7X87z22LS,66530,Split the JavaScript certification into two separate ce
 I_kwDOAbI7X870ESrX,66546,Improve explanation of closures in JavaScript curriculum,CLOSED,2026-03-18T12:18:27Z,2026-03-18T13:31:28Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87y7Ijj,66451,Cannot complete build a database of video game characters,CLOSED,2026-03-14T11:27:31Z,2026-03-15T11:31:51Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85Sx5qD,47646,The user's code should be transformed alongside the injected code,CLOSED,2022-09-28T06:38:13Z,2026-03-18T08:30:29Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86do2Ms,57107,"Removal of --before-user-code--, --after-user-code--",CLOSED,2024-11-08T17:42:51Z,2026-03-17T16:59:18Z,Sembauke,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87zk4_i,66520,Wrong answer in Python quiz,CLOSED,2026-03-17T06:36:37Z,2026-03-17T16:32:08Z,PrasadK1015,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X865WfJn,60660,Add test to ensure block name in `meta.json` and in `intro.json` match,CLOSED,2025-06-02T11:01:43Z,2026-03-17T15:43:16Z,Sembauke;ojeytonwilliams,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86sPbBd,59089,Full Stack build-a-sorting-visualizer Test 18,CLOSED,2025-03-02T18:55:53Z,2025-03-05T20:11:56Z,c0d1ng-ma5ter,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86N2qYZ,55363,[api]: handling concurrent user record writes,OPEN,2024-06-28T08:46:00Z,,,freeCodeCamp,freeCodeCamp
