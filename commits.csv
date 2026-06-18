@@ -1,4 +1,28 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+4cc28294e1c167fa5fcc0f2a064c41273d6b84d8,fix(client): remove blank lines around editable region comments in fo…,2026-06-18T01:46:44Z,1,14,majestic-owl448,freeCodeCamp,freeCodeCamp
+733219d1181fb8b515d47d780543562905ab8618,fix(curriculum): add missing 'have' to Step 6 hints in Tailwind CTA w…,2026-06-18T01:42:55Z,1,4,Dennis01601,freeCodeCamp,freeCodeCamp
+070aa255b996d4cf12ce8c72cd7eb04d1c45abe8,fix(client): add language selector to mobile layout for daily coding …,2026-06-17T20:33:41Z,4,195,neerajgouda06,freeCodeCamp,freeCodeCamp
+ca44a5817b03168bce8b7a062da1c8b9e014adb8,test: move c-sharp button coverage to client (#67983),2026-06-17T20:17:25Z,8,298,Sembauke,freeCodeCamp,freeCodeCamp
+d67026c63bf09d6a663948b2fe2b80f57f85ae95,fix(curriculum): correct template literal syntax in fortune teller ap…,2026-06-17T19:46:40Z,1,2,Adarsh-N-Mogaveera,freeCodeCamp,freeCodeCamp
+c86593c4d595a8d90b0a98f5c344b1b3c26b9e06,test: move blocked page coverage to client (#67964),2026-06-17T19:33:06Z,2,56,Sembauke,freeCodeCamp,freeCodeCamp
+f3d431cf003c35e7daa387a32354a8e195a1157b,test: keep backend spec true e2e (#67958),2026-06-17T19:31:47Z,2,67,Sembauke,freeCodeCamp,freeCodeCamp
+f8b9af68229dc0c0fbd57cfc5d3b9d6807bf44c9,fix: Move 404 page checks to Vitest (#67917),2026-06-17T19:28:54Z,3,173,Sembauke,freeCodeCamp,freeCodeCamp
+a2e7558192bf80aa76fab833c4f387547b4343dc,fix(curriculum): prevent duplicate title in timeline (#67912),2026-06-17T19:25:41Z,4,76,imsomilg,freeCodeCamp,freeCodeCamp
+0ff2b7e35e32d60fc5b02856c74bf2305cb9c554,test: keep archive spec true e2e (#67957),2026-06-17T19:22:07Z,2,123,Sembauke,freeCodeCamp,freeCodeCamp
+ed4e17629be535bb8cc98b2e81a2fce24cd7becd,test: keep action-row spec true e2e (#67955),2026-06-17T19:19:03Z,2,256,Sembauke,freeCodeCamp,freeCodeCamp
+2c838c652c7df77ae177b26b1ecb9fb0db869bd7,fix(curriculum): Fixed duplicate word in workshop (#68025),2026-06-17T18:16:56Z,1,2,DogAwesome21,freeCodeCamp,freeCodeCamp
+d7597a39598c9cebd221ba07e538bb1c27916f5e,fix: Sync basic-html superblock: add missing workshop-html-music-play…,2026-06-17T18:14:31Z,2,8,kanan010506,freeCodeCamp,freeCodeCamp
+b0fb32d201b34c3801f547529decc6fcca337ec5,test: move breadcrumb rendering to client (#67986),2026-06-17T17:49:36Z,2,46,Sembauke,freeCodeCamp,freeCodeCamp
+a550b9760eeb7b59b25a0ee4c48e5ac79089712f,fix(curriculum): editable regions in workshop tailwind cta component …,2026-06-17T17:00:02Z,16,70,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+dfc06bbc7a094947717f8e9d4a600e9f0624583a,fix(curriculum): correct grammar and formatting issues (#68006),2026-06-17T16:40:51Z,1,16,Mayank777-hub,freeCodeCamp,freeCodeCamp
+29c46eca91f87b39247ddb4308f139af554f11b1,test: move academic honesty rendering to client (#67985),2026-06-17T16:39:05Z,2,36,Sembauke,freeCodeCamp,freeCodeCamp
+25a724f89a3ee523555f4d5d66e479eeed9a2f2d,fix(tools): seed all current challenges and certifications for certif…,2026-06-17T15:57:01Z,2,71390,majestic-owl448,freeCodeCamp,freeCodeCamp
+eda1e15e9ff4eaa399a7ad2f857814c9882b676e,fix(curriculum): editable regions in workshop superhero application f…,2026-06-17T14:37:00Z,21,268,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+0e680d8d15c120a2414e9dbe52a24886e0654e8b,fix(curriculum): correct typos and punctuation in Understanding Error…,2026-06-17T14:10:09Z,3,20,bikeshgyawali,freeCodeCamp,freeCodeCamp
+66ac71c4d5d630ed638dd78f87df86ae43bed713,fix(curriculum): update project to use CDN_URL instead of import.meta…,2026-06-17T13:38:25Z,44,94,imsomilg,freeCodeCamp,freeCodeCamp
+a9ccd4dd23f6ae85025c4d46ef44a849eb2fd465,fix: Remove lab prime number sum calculator from the higher order fun…,2026-06-17T13:26:33Z,2,7,TEE0207,freeCodeCamp,freeCodeCamp
+4293b332a4e37a83d445e196ab2157c89a84d114,fix(curriculum): accept explicit forEach syntax in fortune teller ste…,2026-06-17T07:17:29Z,1,13,Vanishagupta18,freeCodeCamp,freeCodeCamp
+b347a88e9c25542fc5f73a1759fa8f6bffdf274e,fix(curriculum): Editable Regions in Workshop Email Simulator (#67805),2026-06-17T06:44:51Z,41,326,harshlm15,freeCodeCamp,freeCodeCamp
 d06fcc9f805e75bf25c1b50f03b5ae57dc2f3001,fix(tools): use intros from the same locale in external curriculum da…,2026-06-17T01:14:51Z,1,13,huyenltnguyen,freeCodeCamp,freeCodeCamp
 a79872c8244ef1e49884b8146b10a74f42c24021,fix(curriculum): correct all instances of grammar issues in links and…,2026-06-16T23:34:51Z,4,18,fraternebahirwe,freeCodeCamp,freeCodeCamp
 3d3ea0699232787505781c78df666a97df2e7b49,"chore(i18n,learn): update i18n-curriculum submodule (#67996)",2026-06-16T21:14:07Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
@@ -597,24 +621,3 @@ b6d0663704b0306b6f6567457c39aa57e24cde00,feat(Curriculum): add 1 Spanish charact
 32f20a1ba99f49c8fb158a3aef0e2ca813c59ccb,feat(curriculum): add Cargo Manifest Validator Lab to JavaScript v9 (…,2026-03-18T13:16:53Z,4,882,LGH831,freeCodeCamp,freeCodeCamp
 64697945303cd264a0d4946a32f61a09848087bf,fix: skip 'help wanted' on linked issue check for Naomi's Sprints ass…,2026-03-18T10:41:30Z,1,17,majestic-owl448,freeCodeCamp,freeCodeCamp
 3baf4610121bd17a85fc72e6c929696d9878b04d,fix: make PR template checklist header check case-insensitive (#66543),2026-03-18T10:40:37Z,1,16,majestic-owl448,freeCodeCamp,freeCodeCamp
-a74e55ee4b209b8cdc55ccd40af21c6f94b0a65b,feat(curriculum): daily challenges 230-245 (#66511),2026-03-17T19:14:32Z,35,3150,moT01,freeCodeCamp,freeCodeCamp
-e66bf09dce6de0275750dbdc6d82a6e8253efcf2,"refactor(tools,client): remove head and tail logic (#66524)",2026-03-17T16:59:16Z,34,1022,Sembauke,freeCodeCamp,freeCodeCamp
-1990ba67948d789b852fbf28a5917f1cba761946,fix: incorrect answer in quiz-graphs-and-trees question (#66526),2026-03-17T16:32:06Z,1,2,KadamPrasad01,freeCodeCamp,freeCodeCamp
-7c3c64bf8d5c014154abbe16aba55a70ff41af2f,refactor(curriculum): remove block name metadata and source titles fr…,2026-03-17T15:43:14Z,984,1479,Sembauke,freeCodeCamp,freeCodeCamp
-776ce24c8e6b54ba65ed374431cfcecaabb85d55,fix: URL names for learn python course (#66513),2026-03-17T12:16:49Z,45,142,jdwilkin4,freeCodeCamp,freeCodeCamp
-29028bbefa8f22f4aa5af180d81366e3284860a3,"feat(i18n, learn): remove Italian and Ukrainian from NotAuditedSuperB…",2026-03-17T11:07:13Z,1,43,DanielRosa74,freeCodeCamp,freeCodeCamp
-843d98bd421552a73992903fd0c5e02962f6a8ab,fix(curriculum): minor adjustments to catalog courses' intro (#66523),2026-03-17T10:53:29Z,1,30,huyenltnguyen,freeCodeCamp,freeCodeCamp
-f8927961559c11f614ac0e95be137d29ed0c7d3a,fix(curriculum): clarify where to write code in string formatter work…,2026-03-17T10:09:51Z,2,4,majestic-owl448,freeCodeCamp,freeCodeCamp
-7cd97506c3bce046574c096878317b41547d6197,"chore(i18n,learn): update i18n-curriculum submodule (#66517)",2026-03-17T10:09:30Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-2c4f0023edaf768063fc250859f1b4c14c8bfed3,feat(curriculum): add searching and sorting quiz JSV9 (#66007),2026-03-17T10:04:05Z,4,257,zairahira,freeCodeCamp,freeCodeCamp
-6a29f37ee714a43b20d742294dd2b141372ba8a0,chore(curriculum): remove before/after user code (batch 10) (#66505),2026-03-17T09:59:07Z,5,135,Sembauke,freeCodeCamp,freeCodeCamp
-63f605de9c7087318277c5f677b45383461b9ec4,chore(curriculum): remove before/after user code (batch 08-09) (#66504),2026-03-17T09:59:03Z,10,69,Sembauke,freeCodeCamp,freeCodeCamp
-d0dd831fb927cec20fcb34cb0b8f4e41635e212f,chore(curriculum): remove before/after user code (batch 06-07) (#66503),2026-03-17T09:59:00Z,10,60,Sembauke,freeCodeCamp,freeCodeCamp
-2c2405b1c8a301c8550c632d63663d05f05e054c,chore(curriculum): remove before/after user code (batch 05) (#66499),2026-03-17T09:58:57Z,5,30,Sembauke,freeCodeCamp,freeCodeCamp
-ae153f8f087a685d5c9412b78ce81615519a99c0,chore(curriculum): remove before/after user code (batch 04) (#66498),2026-03-17T09:58:54Z,5,42,Sembauke,freeCodeCamp,freeCodeCamp
-490c003b647ae8b2c7849c6ee4fedc0987d10c25,chore(curriculum): remove before/after user code (batch 03) (#66497),2026-03-17T09:58:50Z,5,140,Sembauke,freeCodeCamp,freeCodeCamp
-b5304e70a0715dee24ca60cb2839f642bdc3273a,chore(curriculum): remove before/after user code (batch 02) (#66496),2026-03-17T09:56:28Z,5,93,Sembauke,freeCodeCamp,freeCodeCamp
-4cd1a9344c7bd0a26c93e97e21327a2532807553,chore(curriculum): remove before/after user code (batch 01) (#66495),2026-03-17T09:56:24Z,5,30,Sembauke,freeCodeCamp,freeCodeCamp
-0b18ac0616dae4788862bb8fbaa9e5f1646c3051,feat(curriculum): add npm review page (#66256),2026-03-17T09:11:36Z,4,137,zairahira,freeCodeCamp,freeCodeCamp
-7579d240716aa515701cb7bbc42029556cdb151b,fix(curriculum): Uncountable noun in plural form in B1 English (#66516),2026-03-17T07:53:48Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-caa5d42e4110f14cf9c22d020066224a9137d1a6,feat: add interactive JS courses to catalog (#66406),2026-03-17T05:20:35Z,29,1935,jdwilkin4,freeCodeCamp,freeCodeCamp
