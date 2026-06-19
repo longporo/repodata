@@ -1,4 +1,18 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+78c03bf3eb4c4db2a539e9ee696a2cf35962f063,fix(curriculum): correct grammar and technical inaccuracies in Review…,2026-06-18T21:04:41Z,2,18,rohanbyale,freeCodeCamp,freeCodeCamp
+b7a88592e447c16ada4f058962d7871de94672b5,fix(tests): e2e profile tests (#68079),2026-06-18T19:52:16Z,1,4,moT01,freeCodeCamp,freeCodeCamp
+3ccafc38f416f859e2ed52d3b2bf01f76c234d84,fix(curriculum): missing commas and formatting in styling forms lectu…,2026-06-18T18:05:38Z,3,12,ferdefalco,freeCodeCamp,freeCodeCamp
+0ab8c9658a2ad5715f87892502a541b0d4b66ec8,fix(curriculum): fix inconsistent instructions in Step 51 of Email Si…,2026-06-18T15:12:39Z,1,4,Dhananjay0376,freeCodeCamp,freeCodeCamp
+b4f44e8dbd8754ecf390d30e845607d4b24f5e75,fix(curriculum): correct :visited pseudo-class wording (#68058),2026-06-18T14:56:01Z,1,2,Javedshah11,freeCodeCamp,freeCodeCamp
+c30a22334dc770f0f91a74c43063f17141aef0eb,fix: correct typo and capitalization in Bash and SQL quiz (#68044),2026-06-18T14:55:31Z,1,6,tejasz29,freeCodeCamp,freeCodeCamp
+01a5ada677ed4191ac45a7f615e86127fb6f39d5,fix(curriculum): add missing block in JS fundamentals review (#68055),2026-06-18T14:29:16Z,2,8,imsomilg,freeCodeCamp,freeCodeCamp
+6b456938f70af04cdabe83104daedc269e475656,fix(curriculm): Add missing blocks in Introduction to Objects (#68054),2026-06-18T14:24:03Z,2,15,imsomilg,freeCodeCamp,freeCodeCamp
+c92cdb950bdd648f6ee089111fcc7f6d95cecf70,chore: use native issue Type field in issue templates (#68047),2026-06-18T14:06:07Z,4,12,majestic-owl448,freeCodeCamp,freeCodeCamp
+ce2e7ebdb8823a8f6a9b22e3610b265c96beb8cf,fix(curriculum): Add missing quotes on argument keys (#68041),2026-06-18T09:12:52Z,1,12,imsomilg,freeCodeCamp,freeCodeCamp
+81aa296e370f6853d4b36fdfc8f2942fd3b4105d,fix(api): move origin outside try block in email subscription handler…,2026-06-18T08:53:16Z,1,4,Nithin0620,freeCodeCamp,freeCodeCamp
+5a0247f95f5cb675a4409f2eb22603e16eaf4401,fix(curriculum): adding missing blocks in introduction to loops (#68043),2026-06-18T08:21:10Z,2,51,imsomilg,freeCodeCamp,freeCodeCamp
+a26211a43409d0ffaa8fb328c08c2f018fd549fc,fix: Fix @keyframe typo and incorrect terms in CSS Animations quiz (#…,2026-06-18T06:31:42Z,1,10,gustavopurkoot,freeCodeCamp,freeCodeCamp
+44fd13909ef577abfa1f2c23d018779c6e2fa7e2,fix(curriculum): Add missing block in css-flexbox superblock (#68033),2026-06-18T06:25:44Z,2,7,imsomilg,freeCodeCamp,freeCodeCamp
 4cc28294e1c167fa5fcc0f2a064c41273d6b84d8,fix(client): remove blank lines around editable region comments in fo…,2026-06-18T01:46:44Z,1,14,majestic-owl448,freeCodeCamp,freeCodeCamp
 733219d1181fb8b515d47d780543562905ab8618,fix(curriculum): add missing 'have' to Step 6 hints in Tailwind CTA w…,2026-06-18T01:42:55Z,1,4,Dennis01601,freeCodeCamp,freeCodeCamp
 070aa255b996d4cf12ce8c72cd7eb04d1c45abe8,fix(client): add language selector to mobile layout for daily coding …,2026-06-17T20:33:41Z,4,195,neerajgouda06,freeCodeCamp,freeCodeCamp
@@ -612,12 +626,3 @@ e84ccfe12a9c4e1358b562873742d70f175c2258,chore(deps): update curriculum-helpers 
 0e9a06b4838513a0d75b88e8caff82444d22e3f1,fix(client): add missing translation string (#66558),2026-03-19T14:15:00Z,1,1,huyenltnguyen,freeCodeCamp,freeCodeCamp
 5baa3e8093a6f4dcc5870c71b5b1029b58574409,chore(deps): update pnpm/action-setup action to v4.3.0 (#66554),2026-03-19T14:12:05Z,1,4,renovate[bot],freeCodeCamp,freeCodeCamp
 3c77e8b2d48aa0ec18e38d00829d000775ef2589,fix(client): add Beta to English cert titles (#66547),2026-03-19T11:37:02Z,3,40,huyenltnguyen,freeCodeCamp,freeCodeCamp
-0ee85d6390a83e408c1178f512b2d85fc4e0dc26,"chore(i18n,learn): update i18n-curriculum submodule (#66549)",2026-03-18T22:36:04Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-b6d0663704b0306b6f6567457c39aa57e24cde00,feat(Curriculum): add 1 Spanish character and 2 Chinese (#66550),2026-03-18T19:29:10Z,4,49,nieldakarla,freeCodeCamp,freeCodeCamp
-660f39d6f53a99bdbbf39fb12676d4a048d3cd4f,chore: remove prompting course (#66553),2026-03-18T19:16:34Z,25,584,jdwilkin4,freeCodeCamp,freeCodeCamp
-7815cb635f3d42cc8467333940b8b062a66195ba,feat(curriculum): Add A1 Chinese Numbers below 100 (#65773),2026-03-18T19:08:45Z,108,8591,miyaliu666,freeCodeCamp,freeCodeCamp
-85c29457afda09be5fb54e7c00e0f7a39d045bfd,"fix(client, curriculum): prompting course URL names (#66528)",2026-03-18T16:37:47Z,17,44,jdwilkin4,freeCodeCamp,freeCodeCamp
-1a505276945e3c3985599e8b3123fd714ab50eca,"chore(i18n,client): processed translations (#66548)",2026-03-18T13:19:23Z,20,22596,camperbot,freeCodeCamp,freeCodeCamp
-32f20a1ba99f49c8fb158a3aef0e2ca813c59ccb,feat(curriculum): add Cargo Manifest Validator Lab to JavaScript v9 (…,2026-03-18T13:16:53Z,4,882,LGH831,freeCodeCamp,freeCodeCamp
-64697945303cd264a0d4946a32f61a09848087bf,fix: skip 'help wanted' on linked issue check for Naomi's Sprints ass…,2026-03-18T10:41:30Z,1,17,majestic-owl448,freeCodeCamp,freeCodeCamp
-3baf4610121bd17a85fc72e6c929696d9878b04d,fix: make PR template checklist header check case-insensitive (#66543),2026-03-18T10:40:37Z,1,16,majestic-owl448,freeCodeCamp,freeCodeCamp
