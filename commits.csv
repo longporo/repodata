@@ -1,4 +1,18 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+169baa1c67af4680d4a26bfaa1a623073a0ace1f,feat(curriculum): daily challenges 327-365 (#67961),2026-06-19T14:53:37Z,81,7437,moT01,freeCodeCamp,freeCodeCamp
+40d0e1751373f679d419fb5ff6fccef7eeca60d3,fix(curriculum): indent code blocks in bash review lesson (#68099),2026-06-19T14:41:42Z,1,16,Jaun-van-Deventer,freeCodeCamp,freeCodeCamp
+14c02f1cf3cae58e0d4868ec579f7fceecc1e306,feat(client): update forum help categories to restructured slugs (#68…,2026-06-19T08:17:52Z,11,196,majestic-owl448,freeCodeCamp,freeCodeCamp
+d8b83c08bd9f3ca1228046cff3b8269aa98bd651,fix(client): resolve broken GitHub source link on daily coding challe…,2026-06-19T07:53:09Z,2,53,majestic-owl448,freeCodeCamp,freeCodeCamp
+c6f24abcc08734ec7164632c9009d7bbbe0490c3,fix(curriculum): add missing spaces in CSS comments (#68094),2026-06-19T07:51:04Z,1,4,itsmdshahin,freeCodeCamp,freeCodeCamp
+1f3feb608a337ff3d1ae531e7603f4e2eeb93f9a,fix(curriculum): capitalize bash commands review description (#68089),2026-06-19T07:24:35Z,1,2,vrbaghel,freeCodeCamp,freeCodeCamp
+d704bab8ae06bade47fba1a194965a4875dd132f,fix(curriculum): correct punctuation and spelling in RWD lectures (#6…,2026-06-19T07:08:54Z,4,14,amaad31,freeCodeCamp,freeCodeCamp
+2bfe43451043cf02bbd1fa954619ec292aaed726,fix(client): add section header to exam token,2026-06-19T04:38:25Z,1,143,raisedadead,freeCodeCamp,freeCodeCamp
+5b04c5860d3bc62d676ae8c8055a7ea56dbaaa40,feat(api): gate classroom endpoints behind flag,2026-06-19T04:38:25Z,5,42,raisedadead,freeCodeCamp,freeCodeCamp
+51e212aa61f51e80c13fb2d3ef35120e74f32ae1,"fix(client): strict classroom type, flag-off test",2026-06-19T04:38:24Z,2,34,raisedadead,freeCodeCamp,freeCodeCamp
+30e755fd787ea719a56b8670c83f1bcb5ec07d87,"fix(api): byte-safe bearer auth, hide classroom flag",2026-06-19T04:38:24Z,5,64,raisedadead,freeCodeCamp,freeCodeCamp
+43a1b053dc90ea22dd6f4d31b73bbdde1034d80c,test: dedupe growthbook mock in show-settings,2026-06-19T04:38:24Z,1,4,raisedadead,freeCodeCamp,freeCodeCamp
+6016f7a4ccdfceb4cc32e41d1968a33260bb5ade,feat: classroom mode settings behind feature flag,2026-06-19T04:38:24Z,22,232,raisedadead,freeCodeCamp,freeCodeCamp
+5f7283096930f5eed30f0419c3a76a4ecb6266b1,feat(api): classroom service-to-service endpoints,2026-06-19T04:38:23Z,10,595,raisedadead,freeCodeCamp,freeCodeCamp
 78c03bf3eb4c4db2a539e9ee696a2cf35962f063,fix(curriculum): correct grammar and technical inaccuracies in Review…,2026-06-18T21:04:41Z,2,18,rohanbyale,freeCodeCamp,freeCodeCamp
 b7a88592e447c16ada4f058962d7871de94672b5,fix(tests): e2e profile tests (#68079),2026-06-18T19:52:16Z,1,4,moT01,freeCodeCamp,freeCodeCamp
 3ccafc38f416f859e2ed52d3b2bf01f76c234d84,fix(curriculum): missing commas and formatting in styling forms lectu…,2026-06-18T18:05:38Z,3,12,ferdefalco,freeCodeCamp,freeCodeCamp
@@ -300,7 +314,7 @@ df2f6f75663f83952f6ea3f4341724c17820957f,feat(curriculum): add images to css fon
 24e5e9dd4d039faf0086c30a1c28f6dba6f46ec5,fix(curriculum): correct GitHub casing (#67262),2026-05-06T19:00:09Z,1,2,Agent-A345,freeCodeCamp,freeCodeCamp
 77ce853805b22c56a3c67a55c54591bd612a15d9,"chore(i18n,learn): update i18n-curriculum submodule (#67260)",2026-05-06T18:53:21Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 6fbc93431d9c7fe886d38b9e6ba719c0730fb59f,fix(curriculum): move d3 under ts module (#67251),2026-05-06T18:51:26Z,2,60,Ksound22,freeCodeCamp,freeCodeCamp
-7d62ea3f5fdd6494588d1abda5480985ee422fff,fix(client): privacy save button state (#67230),2026-05-06T14:29:07Z,1,10,ictcferwgf,freeCodeCamp,freeCodeCamp
+7d62ea3f5fdd6494588d1abda5480985ee422fff,fix(client): privacy save button state (#67230),2026-05-06T14:29:07Z,1,10,Tidjani1Bachir,freeCodeCamp,freeCodeCamp
 b0fb92471c32194fb16d0b598727d678868656cd,feat(client): add linux arm64 exam download link (#67253),2026-05-06T14:21:49Z,2,31,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 3594149279851d71536b81b68f582aa70e616316,"chore(i18n,client): processed translations (#67254)",2026-05-06T13:38:56Z,11,64,camperbot,freeCodeCamp,freeCodeCamp
 782c7a97f14b9d3091ff2a1fa7b7ccd0ff2ce76e,chore: bump pnpm,2026-05-06T07:08:02Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
@@ -617,12 +631,3 @@ ff1d3683b567933999c3c795dfb74d4a22893c16,fix(deps): update dependency @aws-sdk/c
 f04c56cf3ade02eba39a41942f5241d3e4687e96,chore(deps): update github actions (#66573),2026-03-21T15:29:10Z,4,26,renovate[bot],freeCodeCamp,freeCodeCamp
 51c03a58cabf042123664ee65bdd438877758df8,"chore(i18n,learn): update i18n-curriculum submodule (#66577)",2026-03-21T03:38:23Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 32b84dc9266b9b79818d7cb0ab574e1efa724ff0,fix(curriculum): en-B1-quiz 1-12 audio timestamp fixes and general su…,2026-03-20T06:10:25Z,10,46,DanielRosa74,freeCodeCamp,freeCodeCamp
-922e1330130faf69800bed445224f46cc23aea8a,fix(e2e): stabilize editor test (#66565),2026-03-20T02:59:57Z,1,15,huyenltnguyen,freeCodeCamp,freeCodeCamp
-ac69d0a4c76f8f291f46fbb38d5b7bbb8d3f808b,fix: correct Back-End Development and APIs cert name (#66566),2026-03-20T01:22:49Z,1,2,AsmaAouiti,freeCodeCamp,freeCodeCamp
-fc4c2bff39b2724829c5a885c73c834a2f5e8cd1,chore(deps): update crowdin/github-action action to v2.15.1 (#66561),2026-03-19T17:20:24Z,3,22,renovate[bot],freeCodeCamp,freeCodeCamp
-e314ca7be6149c72c8b83cc9c59c89af2f83a7eb,fix: remove duplicate the in Odin Project reference (#65971),2026-03-19T15:13:28Z,3,6,realMelTuc,freeCodeCamp,freeCodeCamp
-e84ccfe12a9c4e1358b562873742d70f175c2258,chore(deps): update curriculum-helpers to v9.0.0 (#66421),2026-03-19T15:05:32Z,2,513,Dario-DC,freeCodeCamp,freeCodeCamp
-3e0f86fbbd0d9a4d330f0cf7b9e61f8606a7480c,feat(curriculum): add working with express theory block (#66215),2026-03-19T14:44:11Z,5,411,majestic-owl448,freeCodeCamp,freeCodeCamp
-0e9a06b4838513a0d75b88e8caff82444d22e3f1,fix(client): add missing translation string (#66558),2026-03-19T14:15:00Z,1,1,huyenltnguyen,freeCodeCamp,freeCodeCamp
-5baa3e8093a6f4dcc5870c71b5b1029b58574409,chore(deps): update pnpm/action-setup action to v4.3.0 (#66554),2026-03-19T14:12:05Z,1,4,renovate[bot],freeCodeCamp,freeCodeCamp
-3c77e8b2d48aa0ec18e38d00829d000775ef2589,fix(client): add Beta to English cert titles (#66547),2026-03-19T11:37:02Z,3,40,huyenltnguyen,freeCodeCamp,freeCodeCamp
