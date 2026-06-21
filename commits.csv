@@ -629,5 +629,3 @@ eda285189bf47a71aa298890eeee5bd436cde708,fix(curriculum): emphasize double negat
 81fe118aed88d2e7bec10c86c85db9e39b71a81e,chore(deps): upgrade freecodecamp/ui to v6.0.0 (#66443),2026-03-22T03:53:26Z,5,64,huyenltnguyen,freeCodeCamp,freeCodeCamp
 ff1d3683b567933999c3c795dfb74d4a22893c16,fix(deps): update dependency @aws-sdk/client-ses to v3.1009.0 (#66569),2026-03-21T15:29:37Z,2,1007,renovate[bot],freeCodeCamp,freeCodeCamp
 f04c56cf3ade02eba39a41942f5241d3e4687e96,chore(deps): update github actions (#66573),2026-03-21T15:29:10Z,4,26,renovate[bot],freeCodeCamp,freeCodeCamp
-51c03a58cabf042123664ee65bdd438877758df8,"chore(i18n,learn): update i18n-curriculum submodule (#66577)",2026-03-21T03:38:23Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-32b84dc9266b9b79818d7cb0ab574e1efa724ff0,fix(curriculum): en-B1-quiz 1-12 audio timestamp fixes and general su…,2026-03-20T06:10:25Z,10,46,DanielRosa74,freeCodeCamp,freeCodeCamp
