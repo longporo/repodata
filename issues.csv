@@ -1,8 +1,14 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X88AAAABGNm4uw,68119,Test on Typescript Challenges seems broken,OPEN,2026-06-21T20:38:00Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGOUB3w,68121,Basic Programming Vocabulary quiz incorrect option,OPEN,2026-06-22T01:15:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGJ8pag,68110,Auto-assign the status: waiting review label after a new commit,OPEN,2026-06-20T19:06:05Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGNHumw,68114,Regex Review: typos and inaccurate explanation,OPEN,2026-06-21T17:40:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABD5kFyA,67725,broken sticky-scroll in workshop/lab lessons in-app editor,OPEN,2026-05-31T05:21:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABD4hlXA,67721,[Curriculum Audit] Editable region markers — v9 workshops,OPEN,2026-05-30T20:13:02Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X877Epz6,66832,Get a Hint - page redirection from Workshop,OPEN,2026-04-06T14:52:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABF8Fd9A,68063,Add missing commas before non-restrictive clauses in Review Asynchronous JavaScript,OPEN,2026-06-18T14:54:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGF-NEg,68104,Step 35 of workshop-music-player accepts only implicit return,OPEN,2026-06-19T22:19:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF9ZCzw,68078,"A2 English Certification Exam typo 2 times ""and""",OPEN,2026-06-18T18:09:17Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABF8Fd9A,68063,Add missing commas before non-restrictive clauses in Review Asynchronous JavaScript,OPEN,2026-06-18T14:54:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF5VSbQ,68045,Daily Coding Challenge 312 (Streaming Cost): test cases land on half-cent rounding boundaries,OPEN,2026-06-18T08:33:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF8HRyw,68065,Indent two list-item code blocks consistently in Review Bash Scripting,CLOSED,2026-06-18T14:57:47Z,2026-06-19T14:41:44Z,Jaun-van-Deventer,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF0oOmg,68028,Don't render same title twice in page title,OPEN,2026-06-17T17:44:53Z,,,freeCodeCamp,freeCodeCamp
@@ -26,7 +32,6 @@ I_kwDOAbI7X88AAAABF5fwmg,68049,Missing block in JavaScript Fundamentals Review c
 I_kwDOAbI7X88AAAABF5fVMA,68048,Missing blocks in Introduction to Objects in JavaScript catalog item,CLOSED,2026-06-18T08:56:20Z,2026-06-18T14:24:04Z,imsomilg,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDokr4g,67636,rdb workshop unexplained test script failure,OPEN,2026-05-28T08:15:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF0jcVg,68026,Timeline on profile has variable width - should be full width?,OPEN,2026-06-17T17:33:53Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABD4hlXA,67721,[Curriculum Audit] Editable region markers — v9 workshops,OPEN,2026-05-30T20:13:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF4pbXw,68038,Coding Challenge 312: Streaming Cost - мissing quotes on argument keys,CLOSED,2026-06-18T06:48:09Z,2026-06-18T09:12:54Z,imsomilg,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDj-J7A,67623,Move origin extraction outside try block in email subscription handlers,CLOSED,2026-05-27T16:31:08Z,2026-06-18T08:53:17Z,Nithin0620;Sembauke,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF47RzQ,68042,Missing blocks in Introduction to Loops in JavaScript catalog item,CLOSED,2026-06-18T07:30:47Z,2026-06-18T08:21:12Z,imsomilg,freeCodeCamp,freeCodeCamp
@@ -126,7 +131,6 @@ I_kwDOAbI7X88AAAABEAYpyA,67745,Review CSS Animations: add backticks to timing fu
 I_kwDOAbI7X88AAAABEAc2Zw,67747,"review-computer-basics: fix acronym spacing, trailing whitespace, Oxford commas, and punctuation",CLOSED,2026-06-01T14:25:49Z,2026-06-02T01:55:36Z,fremendes,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDt4S1A,67666,test: donation-saga has no coverage for stripeCardErrorHandler authentication error path,OPEN,2026-05-28T23:01:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABA4Q_Kw,67175,rdb local setup instructions don't say what to do to start a 2nd workshop,OPEN,2026-04-29T22:07:49Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABD5kFyA,67725,broken sticky-scroll in workshop/lab lessons in-app editor,OPEN,2026-05-31T05:21:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABD4GxVg,67717,Incorrect null check due to operator precedence in blockLabel condition,CLOSED,2026-05-30T17:21:49Z,2026-06-01T19:49:59Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABD-DZtQ,67739,Quiz: Bash Scripting - Missing closing periods on answer options in question 18,CLOSED,2026-06-01T07:57:29Z,2026-06-01T13:28:46Z,Kunal,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABD3bKXw,67704,Fix language issues in the Quiz: Computer Basics challenge,CLOSED,2026-05-30T12:43:22Z,2026-06-01T10:23:50Z,meaqua9420,freeCodeCamp,freeCodeCamp
@@ -188,7 +192,6 @@ I_kwDOAbI7X88AAAABC4fDCg,67490,Fix terminology and grammar errors in lecture-wor
 I_kwDOAbI7X88AAAABDBJ6dw,67517,Fix errors in lecture-understanding-error-handling block,CLOSED,2026-05-21T19:55:49Z,2026-05-24T20:02:19Z,AliMahmoudDev;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDBJ5dA,67516,Fix leading spaces in answer options in lecture-introduction-to-data-visualization block,CLOSED,2026-05-21T19:55:46Z,2026-05-24T19:33:57Z,DanielcoderIA;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDPU7Ww,67583,feat: add dark mode support for the freeCodeCamp learning platform,CLOSED,2026-05-24T17:19:38Z,2026-05-24T18:09:34Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X877Epz6,66832,Get a Hint - page redirection from Workshop,OPEN,2026-04-06T14:52:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDN8yLQ,67566,Duplicate word found in curriculum challenge description,CLOSED,2026-05-24T08:07:19Z,2026-05-24T16:27:02Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X85kV1ae,50184,Standardize error + flash responses,OPEN,2023-04-25T15:56:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDOf5KA,67572,Inconsistent formatting in JavaScript Array Methods challenge description,CLOSED,2026-05-24T12:04:27Z,2026-05-24T16:26:24Z,,freeCodeCamp,freeCodeCamp
@@ -506,6 +509,3 @@ I_kwDOAbI7X87j5kkg,65268,Audit Workshops: Ensure Editable Regions Only Include R
 I_kwDOAbI7X87w6Spt,66304,Learn Bash Scripting by Building Five Programs -> 1260.1 not working,CLOSED,2026-03-08T17:47:48Z,2026-03-22T19:04:41Z,,freeCodeCamp,freeCodeCamp
 MDU6SXNzdWU4NDI4MTk2MDI=,41642,Profile Picture Upload,CLOSED,2021-03-28T20:06:35Z,2021-03-29T12:01:27Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X871QGSj,66586,settings put system min_refresh_rate 60.0,CLOSED,2026-03-22T03:59:52Z,2026-03-22T07:36:03Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X871QGzg,66587,settings put system min_refresh_rate 60.0,CLOSED,2026-03-22T04:00:40Z,2026-03-22T04:04:19Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87z_Yfw,66541,accessiblity issue with quizzes,CLOSED,2026-03-18T08:11:25Z,2026-03-22T03:53:28Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X871Mhrq,66585,Trailing '/' in portuguese/learn url Redirects to /learn,CLOSED,2026-03-21T20:11:42Z,2026-03-21T20:12:10Z,,freeCodeCamp,freeCodeCamp
