@@ -626,6 +626,3 @@ fe421a03c68ba45c0f8acd7b0e187a501538d820,feat(client): mobile advert for small s
 fb6e30d34a48ec78a7d05cfe1ac23a61b918b3d2,chore(deps): update dependency msw to v2.12.11 (#66593),2026-03-23T06:04:32Z,1,312,renovate[bot],freeCodeCamp,freeCodeCamp
 aa083b9a0127f1cdb43a9bd6fcf11c11842bae77,fix: correct typos in README.md (#66592),2026-03-23T05:10:22Z,1,6,Nouhaaouiti,freeCodeCamp,freeCodeCamp
 eda285189bf47a71aa298890eeee5bd436cde708,fix(curriculum): emphasize double negatives in user stories (#66582),2026-03-22T08:43:00Z,3,26,hbar1st,freeCodeCamp,freeCodeCamp
-81fe118aed88d2e7bec10c86c85db9e39b71a81e,chore(deps): upgrade freecodecamp/ui to v6.0.0 (#66443),2026-03-22T03:53:26Z,5,64,huyenltnguyen,freeCodeCamp,freeCodeCamp
-ff1d3683b567933999c3c795dfb74d4a22893c16,fix(deps): update dependency @aws-sdk/client-ses to v3.1009.0 (#66569),2026-03-21T15:29:37Z,2,1007,renovate[bot],freeCodeCamp,freeCodeCamp
-f04c56cf3ade02eba39a41942f5241d3e4687e96,chore(deps): update github actions (#66573),2026-03-21T15:29:10Z,4,26,renovate[bot],freeCodeCamp,freeCodeCamp
