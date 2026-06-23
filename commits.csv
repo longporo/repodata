@@ -1,4 +1,14 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+1e6839a799ea2051fa46acf7a25a13b9884c962e,fix(curriculum): correct grammar in review css (#68141),2026-06-22T18:11:18Z,1,18,Lonny154,freeCodeCamp,freeCodeCamp
+b5d7dfa664ab0ef47ef6f47abe76d0df0f02f800,fix(curriculum): audit editable regions in workshop city skyline (#68…,2026-06-22T17:32:31Z,111,538,imsomilg,freeCodeCamp,freeCodeCamp
+031af2d342dbd9f179314ec6b4fca2f9354fba6f,fix(curriculum): correct typos and missing punctuation in semantic HT…,2026-06-22T16:28:40Z,2,6,Atulya-Juyal,freeCodeCamp,freeCodeCamp
+b5f0ed46dea7f5ca8ab205cb1b70f79e743269e5,fix(curriculum): correct answer for declare variable quiz question (#…,2026-06-22T16:18:33Z,1,2,Pranav-0018,freeCodeCamp,freeCodeCamp
+14704073ec97b3cffd2e67748942e913a84bfce9,fix(curriculum): correct ARIA lecture inaccuracies and formatting (#6…,2026-06-22T16:09:16Z,4,19,Soubhagya003,freeCodeCamp,freeCodeCamp
+0d8926f2ced06e7f5f648668d88894ae6c68e481,feat(client): add Socrates donation CTA and GA events (#67744),2026-06-22T14:52:18Z,8,239,ahmaxed,freeCodeCamp,freeCodeCamp
+6259a9cd4d5f5ff5c70c010e76cbcab67ca0aa83,feat: update donation page copy (#67900),2026-06-22T13:05:56Z,5,310,scissorsneedfoodtoo,freeCodeCamp,freeCodeCamp
+23b11e14119bc856be3dcffad087845b5d424e5e,test: move coding interview prep intro coverage to client (#68061),2026-06-22T09:41:14Z,2,46,Sembauke,freeCodeCamp,freeCodeCamp
+6888d20441c435adf054a8be9c1b4d24ea6122c6,fix(curriculum): add missing commas before non-restrictive which clau…,2026-06-22T08:04:38Z,1,4,umang-jpg,freeCodeCamp,freeCodeCamp
+a010c69a3d930684206c561092c068b672c80938,fix(curriculum): add article before collective noun (#68122),2026-06-22T07:22:47Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 169baa1c67af4680d4a26bfaa1a623073a0ace1f,feat(curriculum): daily challenges 327-365 (#67961),2026-06-19T14:53:37Z,81,7437,moT01,freeCodeCamp,freeCodeCamp
 40d0e1751373f679d419fb5ff6fccef7eeca60d3,fix(curriculum): indent code blocks in bash review lesson (#68099),2026-06-19T14:41:42Z,1,16,Jaun-van-Deventer,freeCodeCamp,freeCodeCamp
 14c02f1cf3cae58e0d4868ec579f7fceecc1e306,feat(client): update forum help categories to restructured slugs (#68…,2026-06-19T08:17:52Z,11,196,majestic-owl448,freeCodeCamp,freeCodeCamp
@@ -625,4 +635,3 @@ f30459a750086dd7acaa4050584b87f1c65dc010,fix(curriculum): add names and roles to
 fe421a03c68ba45c0f8acd7b0e187a501538d820,feat(client): mobile advert for small screen sizes (#66212),2026-03-23T07:01:58Z,9,443,Sembauke,freeCodeCamp,freeCodeCamp
 fb6e30d34a48ec78a7d05cfe1ac23a61b918b3d2,chore(deps): update dependency msw to v2.12.11 (#66593),2026-03-23T06:04:32Z,1,312,renovate[bot],freeCodeCamp,freeCodeCamp
 aa083b9a0127f1cdb43a9bd6fcf11c11842bae77,fix: correct typos in README.md (#66592),2026-03-23T05:10:22Z,1,6,Nouhaaouiti,freeCodeCamp,freeCodeCamp
-eda285189bf47a71aa298890eeee5bd436cde708,fix(curriculum): emphasize double negatives in user stories (#66582),2026-03-22T08:43:00Z,3,26,hbar1st,freeCodeCamp,freeCodeCamp
