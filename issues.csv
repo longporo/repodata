@@ -1,27 +1,36 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X88AAAABGNm4uw,68119,Test on Typescript Challenges seems broken,OPEN,2026-06-21T20:38:00Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGOUB3w,68121,Basic Programming Vocabulary quiz incorrect option,OPEN,2026-06-22T01:15:41Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGJ8pag,68110,Auto-assign the status: waiting review label after a new commit,OPEN,2026-06-20T19:06:05Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGNHumw,68114,Regex Review: typos and inaccurate explanation,OPEN,2026-06-21T17:40:50Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABD5kFyA,67725,broken sticky-scroll in workshop/lab lessons in-app editor,OPEN,2026-05-31T05:21:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABD4hlXA,67721,[Curriculum Audit] Editable region markers — v9 workshops,OPEN,2026-05-30T20:13:02Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X877Epz6,66832,Get a Hint - page redirection from Workshop,OPEN,2026-04-06T14:52:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABF8Fd9A,68063,Add missing commas before non-restrictive clauses in Review Asynchronous JavaScript,OPEN,2026-06-18T14:54:15Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGF-NEg,68104,Step 35 of workshop-music-player accepts only implicit return,OPEN,2026-06-19T22:19:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABF9ZCzw,68078,"A2 English Certification Exam typo 2 times ""and""",OPEN,2026-06-18T18:09:17Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86ypNeM,59735,Extra Space after Auth0 sponsor in Hall of Sponsors article,CLOSED,2025-04-15T17:35:23Z,2026-06-23T01:38:59Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF5VSbQ,68045,Daily Coding Challenge 312 (Streaming Cost): test cases land on half-cent rounding boundaries,OPEN,2026-06-18T08:33:07Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABF8HRyw,68065,Indent two list-item code blocks consistently in Review Bash Scripting,CLOSED,2026-06-18T14:57:47Z,2026-06-19T14:41:44Z,Jaun-van-Deventer,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABF0oOmg,68028,Don't render same title twice in page title,OPEN,2026-06-17T17:44:53Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABF-pJNQ,68087,captureOneTimePayment passes wrong arguments to onApprove in PayPal donation handler,OPEN,2026-06-18T21:50:31Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGNm4uw,68119,Test on Typescript Challenges seems broken,OPEN,2026-06-21T20:38:00Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGP1gUA,68125,"Grammar and formatting issues in the ""Review CSS"" block",CLOSED,2026-06-22T06:57:30Z,2026-06-22T18:11:20Z,Lonny154,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGP1g2Q,68126,"Typo and formatting issues in the ""Importance of Semantic HTML"" lecture block",CLOSED,2026-06-22T06:57:32Z,2026-06-22T16:28:42Z,Atulya-Juyal,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGOUB3w,68121,Basic Programming Vocabulary quiz incorrect option,CLOSED,2026-06-22T01:15:41Z,2026-06-22T16:18:35Z,Pranav-0018;majestic-owl448,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGP1fyw,68124,"Technical inaccuracy and grammar/formatting issues in the ""Introduction to ARIA"" lecture block",CLOSED,2026-06-22T06:57:29Z,2026-06-22T16:09:18Z,Soubhagya003,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGRkFIw,68137,Typo fixes in API test files (cookie-update.test.ts and exam-environment.test.ts),OPEN,2026-06-22T11:13:25Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABF8O9yQ,68068,Workshop discourages usage of modern CSS color syntax,OPEN,2026-06-18T15:12:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGF-NEg,68104,Step 35 of workshop-music-player accepts only implicit return,OPEN,2026-06-19T22:19:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABD4hlXA,67721,[Curriculum Audit] Editable region markers — v9 workshops,OPEN,2026-05-30T20:13:02Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABFbtOYg,67947,"Text challenges need sub headers, TOC",OPEN,2026-06-14T15:13:03Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABE6jzYg,67865,ctrl + enter shortcut not working as intended,OPEN,2026-06-09T19:05:34Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABF8Fd9A,68063,Add missing commas before non-restrictive clauses in Review Asynchronous JavaScript,CLOSED,2026-06-18T14:54:15Z,2026-06-22T08:04:40Z,umang-jpg,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABF0jcVg,68026,Timeline on profile has variable width - should be full width?,OPEN,2026-06-17T17:33:53Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABF9Yf1Q,68077,User Story 4 in Regex Sandbox lab is ambiguous about which element gets updated,OPEN,2026-06-18T18:07:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGBWGiQ,68095,User story #5 of Lab Tic Tac Toe does not specify expected winner message format.,OPEN,2026-06-19T08:08:32Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGNHumw,68114,Regex Review: typos and inaccurate explanation,OPEN,2026-06-21T17:40:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGPpr7w,68123,"Bug in #68078 is in exam database, not curriculum markdown files",CLOSED,2026-06-22T06:23:49Z,2026-06-22T06:28:10Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABF0oOmg,68028,Don't render same title twice in page title,OPEN,2026-06-17T17:44:53Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGJ8pag,68110,Auto-assign the status: waiting review label after a new commit,OPEN,2026-06-20T19:06:05Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABD5kFyA,67725,broken sticky-scroll in workshop/lab lessons in-app editor,OPEN,2026-05-31T05:21:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X877Epz6,66832,Get a Hint - page redirection from Workshop,OPEN,2026-04-06T14:52:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABF9ZCzw,68078,"A2 English Certification Exam typo 2 times ""and""",OPEN,2026-06-18T18:09:17Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABF8HRyw,68065,Indent two list-item code blocks consistently in Review Bash Scripting,CLOSED,2026-06-18T14:57:47Z,2026-06-19T14:41:44Z,Jaun-van-Deventer,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABF-pJNQ,68087,captureOneTimePayment passes wrong arguments to onApprove in PayPal donation handler,OPEN,2026-06-18T21:50:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF5Vp1Q,68046,"Daily Coding Challenge ""Ask for Help"" GitHub source link is broken (404)",CLOSED,2026-06-18T08:33:59Z,2026-06-19T07:53:10Z,majestic-owl448;raisedadead,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF8HTIQ,68066,Add missing spaces inside CSS comments in Review CSS Attribute Selectors,CLOSED,2026-06-18T14:57:49Z,2026-06-19T07:51:06Z,itsmdshahin,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF8HRCQ,68064,Capitalize the description after the colon in the Options/flags entry of Review Bash Commands,CLOSED,2026-06-18T14:57:45Z,2026-06-19T07:24:37Z,vrbaghel,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF8D1Yw,68062,Fix punctuation and spelling errors in Best Practices for Responsive Web Design lecture,CLOSED,2026-06-18T14:51:15Z,2026-06-19T07:08:56Z,amaad31,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFblmlA,67944,Add keyboard shortcut hint to Check Code and Submit buttons,OPEN,2026-06-14T14:33:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF9LlKg,68076,"Fix grammar, formatting, and technical accuracy errors in the Review CSS lesson",CLOSED,2026-06-18T17:35:36Z,2026-06-18T21:04:42Z,huyenltnguyen;rohanbyale,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABF8O9yQ,68068,Workshop discourages usage of modern CSS color syntax,OPEN,2026-06-18T15:12:23Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABF9Yf1Q,68077,User Story 4 in Regex Sandbox lab is ambiguous about which element gets updated,OPEN,2026-06-18T18:07:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABE6rOzw,67866,sort() behavior with undefined and empty slots not covered,OPEN,2026-06-09T19:23:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF8HT5w,68067,Fix missing commas and formatting across the Best Practices for Styling Forms lectures,CLOSED,2026-06-18T14:57:51Z,2026-06-18T18:05:40Z,fdefalco,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF9JgdQ,68075,Daily Coding Challenge 312 Streaming Cost: Keys of dictionary used in test cases resulted in key errors in Python,CLOSED,2026-06-18T17:30:15Z,2026-06-18T17:35:53Z,,freeCodeCamp,freeCodeCamp
@@ -31,7 +40,6 @@ I_kwDOAbI7X88AAAABFy7guQ,68017,Typo and capitalization issues in Quiz: Bash and 
 I_kwDOAbI7X88AAAABF5fwmg,68049,Missing block in JavaScript Fundamentals Review catalog item,CLOSED,2026-06-18T08:57:24Z,2026-06-18T14:29:18Z,imsomilg,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF5fVMA,68048,Missing blocks in Introduction to Objects in JavaScript catalog item,CLOSED,2026-06-18T08:56:20Z,2026-06-18T14:24:04Z,imsomilg,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDokr4g,67636,rdb workshop unexplained test script failure,OPEN,2026-05-28T08:15:21Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABF0jcVg,68026,Timeline on profile has variable width - should be full width?,OPEN,2026-06-17T17:33:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF4pbXw,68038,Coding Challenge 312: Streaming Cost - мissing quotes on argument keys,CLOSED,2026-06-18T06:48:09Z,2026-06-18T09:12:54Z,imsomilg,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDj-J7A,67623,Move origin extraction outside try block in email subscription handlers,CLOSED,2026-05-27T16:31:08Z,2026-06-18T08:53:17Z,Nithin0620;Sembauke,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF47RzQ,68042,Missing blocks in Introduction to Loops in JavaScript catalog item,CLOSED,2026-06-18T07:30:47Z,2026-06-18T08:21:12Z,imsomilg,freeCodeCamp,freeCodeCamp
@@ -59,8 +67,6 @@ I_kwDOAbI7X88AAAABFkjDnQ,67978,Replace curly apostrophes in Links and Images les
 I_kwDOAbI7X88AAAABFn3sSQ,67987,[phantomstars] Automated fake-engagement analysis — for information only,CLOSED,2026-06-16T08:09:58Z,2026-06-16T08:17:28Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFLkhSQ,67896,dockerCI/CD pipeline issue,CLOSED,2026-06-11T17:11:30Z,2026-06-11T20:05:29Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFmBMXA,67979,tether to mis,CLOSED,2026-06-16T02:03:48Z,2026-06-16T03:43:57Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABFbtOYg,67947,"Text challenges need sub headers, TOC",OPEN,2026-06-14T15:13:03Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABE6jzYg,67865,ctrl + enter shortcut not working as intended,OPEN,2026-06-09T19:05:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABET4KlQ,67800,Daily Challenge 07 February 2026,CLOSED,2026-06-03T22:52:23Z,2026-06-15T17:47:11Z,mariamanbar,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPE9T,64122,Lab – Traffic Light Sequencer,CLOSED,2025-11-25T03:45:02Z,2026-06-15T17:26:44Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFZDdFA,67939,examples in CSS Flexbox Review are missing stylesheet links,CLOSED,2026-06-13T20:05:44Z,2026-06-15T11:32:01Z,TEE0207,freeCodeCamp,freeCodeCamp
@@ -506,6 +512,3 @@ I_kwDOAbI7X871jVf7,66595,Feature Request: Add success flash message on sign out,
 I_kwDOAbI7X870_6pv,66576,Add flash message on sign out,CLOSED,2026-03-20T22:27:32Z,2026-03-23T09:57:55Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X871ECr6,66579,Mismatch between instructions and tests (spacing issue in phrase builder challenge - Portuguese version),CLOSED,2026-03-21T05:24:07Z,2026-03-23T09:19:22Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87j5kkg,65268,Audit Workshops: Ensure Editable Regions Only Include Required Lines,CLOSED,2026-01-16T20:14:43Z,2026-02-19T17:22:25Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87w6Spt,66304,Learn Bash Scripting by Building Five Programs -> 1260.1 not working,CLOSED,2026-03-08T17:47:48Z,2026-03-22T19:04:41Z,,freeCodeCamp,freeCodeCamp
-MDU6SXNzdWU4NDI4MTk2MDI=,41642,Profile Picture Upload,CLOSED,2021-03-28T20:06:35Z,2021-03-29T12:01:27Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X871QGSj,66586,settings put system min_refresh_rate 60.0,CLOSED,2026-03-22T03:59:52Z,2026-03-22T07:36:03Z,,freeCodeCamp,freeCodeCamp
