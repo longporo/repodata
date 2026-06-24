@@ -1,4 +1,20 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+4879d975084e9e190390ab2a20d2b513a4568dd4,fix(curriculum): ensure full width of timeline table (#68134),2026-06-23T17:11:24Z,1,1,imsomilg,freeCodeCamp,freeCodeCamp
+b08675537e44866a425fca0e2359e405b1ebe97a,test: move exam results modal coverage to client (#68140),2026-06-23T17:03:33Z,2,207,Sembauke,freeCodeCamp,freeCodeCamp
+232ddf763ac0242fc3b064b51c77a13549da7420,test: move email sign-up alert coverage to client (#68139),2026-06-23T17:01:44Z,3,189,Sembauke,freeCodeCamp,freeCodeCamp
+e522579d0878edab56579afb8e09d6672ccf9c8a,test: move delete modal coverage to client (#68129),2026-06-23T16:57:39Z,2,197,Sembauke,freeCodeCamp,freeCodeCamp
+c85eaad8ae2a231575e88190e5ae2c983b444ebc,test: move daily coding challenge coverage to client (#68128),2026-06-23T16:44:17Z,3,374,Sembauke,freeCodeCamp,freeCodeCamp
+35ce17a2a43ca0394a97590403cb67ba20565341,test: move completion modal coverage to client (#68127),2026-06-23T16:38:00Z,3,257,Sembauke,freeCodeCamp,freeCodeCamp
+44c6b2cd4a723308376c42c562f7b936987fade2,test: move codeally coverage to client (#68059),2026-06-23T16:33:50Z,5,143,Sembauke,freeCodeCamp,freeCodeCamp
+aff35dce3594f5b24b78b2b068a2fe81bd87b29c,fix: correct grammar in Fruit Search App step 12 (#68173),2026-06-23T15:19:43Z,1,2,karthi1048,freeCodeCamp,freeCodeCamp
+4abcc4d4ad39d265f9ac277be7ed70343436d53c,fix(curriculum): fix technical and grammar issues in JS review lectur…,2026-06-23T15:13:29Z,1,14,AsthaChoudhury,freeCodeCamp,freeCodeCamp
+428b71a1d7979632b2d0bd2e76910ed353f91e95,fix(curriculum): editable regions in workshop fruit search app (#68113),2026-06-23T14:49:25Z,21,160,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+568cc407d248cf54009dc9ee950ebcd08adea3ea,"chore(i18n,client): processed translations (#68142)",2026-06-23T11:07:13Z,20,1036,camperbot,freeCodeCamp,freeCodeCamp
+c095216123a79b2fd90c61e12eb8c08decd8c37d,fix(curriculum): editable regions in workhop toggle text app (#68112),2026-06-23T07:12:13Z,13,70,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+ec5f60044855dd7eea6d55b63b06d28507943519,fix(curriculum): clarify updated element in regex sandbox lab (#68150),2026-06-23T06:51:50Z,1,2,Vishhh03,freeCodeCamp,freeCodeCamp
+a1dcd27410c2a78da2e5156fe8e8de78b01c363e,fix(curriculum): correct regex review descriptions (#68151),2026-06-23T06:41:27Z,1,4,jayasimha-reddy-code,freeCodeCamp,freeCodeCamp
+7ac2ce08c825f0ae47824fae2416fe002891c968,chore(curriculum): backticks for high variable (#68148),2026-06-23T06:25:37Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+a4c1d8a4116b60cca74810ecb90ff013c20b68cd,fix(curriculum): update regex to accept explicit return (#68130),2026-06-23T06:10:43Z,1,2,imsomilg,freeCodeCamp,freeCodeCamp
 1e6839a799ea2051fa46acf7a25a13b9884c962e,fix(curriculum): correct grammar in review css (#68141),2026-06-22T18:11:18Z,1,18,Lonny154,freeCodeCamp,freeCodeCamp
 b5d7dfa664ab0ef47ef6f47abe76d0df0f02f800,fix(curriculum): audit editable regions in workshop city skyline (#68…,2026-06-22T17:32:31Z,111,538,imsomilg,freeCodeCamp,freeCodeCamp
 031af2d342dbd9f179314ec6b4fca2f9354fba6f,fix(curriculum): correct typos and missing punctuation in semantic HT…,2026-06-22T16:28:40Z,2,6,Atulya-Juyal,freeCodeCamp,freeCodeCamp
@@ -624,14 +640,3 @@ c1ae6b6ea9b842c4b813632ff5dd6416d9aceeeb,feat(curriculum): EN-B1 quiz for block 
 a1bd3bf6297b544f597d9a2f0535b27f98474487,feat(curriculum): EN-B1 quiz for block 13 (#66597),2026-03-24T12:06:50Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
 a0f37ae0091a1f799df5db07b030706503104de4,fix(a11y): add initial focus to play button in speaking modal (#66419),2026-03-24T10:44:54Z,2,19,huyenltnguyen,freeCodeCamp,freeCodeCamp
 ca05f09f304090ff8e574a0696d5124d0e62cd95,chore(deps): update dependency msw to v2.12.12 (#66605),2026-03-24T06:25:44Z,1,312,renovate[bot],freeCodeCamp,freeCodeCamp
-a859acae662ac22c236bad9b4909aaf565af62b9,"chore(i18n,learn): update i18n-curriculum submodule (#66600)",2026-03-24T00:06:12Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-dc51170f8c5541031232373a7d73389d4d30760c,fix(client): override custom button restyling (#66608),2026-03-23T23:33:13Z,1,1,danzolotov,freeCodeCamp,freeCodeCamp
-cd82a29acaf670398fcbc00fb42f4511cc1ebc66,chore(deps): update Font Awesome dependencies to latest (#66572),2026-03-23T20:02:40Z,3,431,Sembauke,freeCodeCamp,freeCodeCamp
-74bc88f3cb14d3a684a5069932cdd0bf8eb0f6e3,"chore(i18n,client): processed translations (#66598)",2026-03-23T20:02:09Z,20,2702,camperbot,freeCodeCamp,freeCodeCamp
-0a41253681ac4f44579c4fa13eb8a47f9a92e187,fix(curriculum): update step description for Caesar cipher challenge …,2026-03-23T17:09:16Z,1,4,okorie2,freeCodeCamp,freeCodeCamp
-80ad151900a72afb95ccc85477703139eceb4ac8,fix(curriculum): correct example for ochenta y uno gender rule (#66544),2026-03-23T15:09:22Z,1,2,apoorvdarshan,freeCodeCamp,freeCodeCamp
-f30459a750086dd7acaa4050584b87f1c65dc010,fix(curriculum): add names and roles to examples (#66571),2026-03-23T13:31:09Z,107,508,anastasiiauk,freeCodeCamp,freeCodeCamp
-08db6f8258072e42d988cc042b1630948a820c3d,refactor(client): migrate Gatsby setup files to TypeScript (#66367),2026-03-23T09:28:04Z,6,103,Sembauke,freeCodeCamp,freeCodeCamp
-fe421a03c68ba45c0f8acd7b0e187a501538d820,feat(client): mobile advert for small screen sizes (#66212),2026-03-23T07:01:58Z,9,443,Sembauke,freeCodeCamp,freeCodeCamp
-fb6e30d34a48ec78a7d05cfe1ac23a61b918b3d2,chore(deps): update dependency msw to v2.12.11 (#66593),2026-03-23T06:04:32Z,1,312,renovate[bot],freeCodeCamp,freeCodeCamp
-aa083b9a0127f1cdb43a9bd6fcf11c11842bae77,fix: correct typos in README.md (#66592),2026-03-23T05:10:22Z,1,6,Nouhaaouiti,freeCodeCamp,freeCodeCamp
