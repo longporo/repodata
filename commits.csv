@@ -1,4 +1,17 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+c8ff5f705cc70998aa11ecdb8d2f6726875886e8,fix(curriculum): audit editable regions for workshop-music-player (#6…,2026-06-24T20:51:56Z,42,380,bdtripp,freeCodeCamp,freeCodeCamp
+235423bc754a5ad0b22f2bd5497a013aab94a23f,"chore(i18n,learn): update i18n-curriculum submodule (#68216)",2026-06-24T18:20:16Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+d233a82638d52b96d7610bc16abf5d7c7dbe5f2d,"chore(i18n,client): processed translations (#68211)",2026-06-24T15:33:35Z,10,720,camperbot,freeCodeCamp,freeCodeCamp
+119ebaa19158ea0aad62126bafc888a3704958ec,fix(curriculum): accept all function syntaxes in leap year calculator…,2026-06-24T11:54:06Z,1,4,imsomilg,freeCodeCamp,freeCodeCamp
+28f3aa3bfcfe4cb81719e71b0c32517533081d0c,fix(curriculum): add subheadings to whitespace lecture (#68203),2026-06-24T10:23:58Z,1,21,TechGenius-Karan,freeCodeCamp,freeCodeCamp
+b68c9230ece68034ace5f964eab5c05749ceb99c,"fix(curriculum): correct spelling, punctuation, and formatting in Jav…",2026-06-24T07:39:07Z,8,32,Shush-6,freeCodeCamp,freeCodeCamp
+207c5bcc3fc3a00a7e7e46014d2d0896ea69b524,feat(client): restrict Socrates to English only and update GA (#68176),2026-06-24T07:37:29Z,6,66,ahmaxed,freeCodeCamp,freeCodeCamp
+19caaad69b1ea4272c5529aeb08d268ffc22b7d6,feat(curriculum): explain sort() handling of undefined and empty slot…,2026-06-24T07:04:21Z,1,42,imsomilg,freeCodeCamp,freeCodeCamp
+ea035ba3decca5ec7db356a410f533560b9fcc77,fix(curriculum): replace en dash with comma in regex lecture (#68174),2026-06-24T07:03:59Z,1,2,asura-king-sys,freeCodeCamp,freeCodeCamp
+4cb42cca0cf36e579353a93886d103685c68b035,fix(curriculum): replace strong with b in movie review page lab (#68194),2026-06-24T07:00:06Z,1,28,imsomilg,freeCodeCamp,freeCodeCamp
+6513b95ce4d8394d8c3027e4de20a4f27a369454,fix(curriculum): correct RegExp constructor typo (#68184),2026-06-24T06:55:16Z,1,2,RandomPerson208,freeCodeCamp,freeCodeCamp
+17b5e79722e8449d5bcad866bc5b3b0680cdd34a,fix(curriculum): audit editable regions in workshop magazine (#68175),2026-06-24T06:53:48Z,76,263,imsomilg,freeCodeCamp,freeCodeCamp
+93393611916addb5e9f9c654267844a682977d92,fix: add backticks to Iterator and replace dashes with colons (#68192),2026-06-24T06:48:38Z,1,6,TScom-dew,freeCodeCamp,freeCodeCamp
 4879d975084e9e190390ab2a20d2b513a4568dd4,fix(curriculum): ensure full width of timeline table (#68134),2026-06-23T17:11:24Z,1,1,imsomilg,freeCodeCamp,freeCodeCamp
 b08675537e44866a425fca0e2359e405b1ebe97a,test: move exam results modal coverage to client (#68140),2026-06-23T17:03:33Z,2,207,Sembauke,freeCodeCamp,freeCodeCamp
 232ddf763ac0242fc3b064b51c77a13549da7420,test: move email sign-up alert coverage to client (#68139),2026-06-23T17:01:44Z,3,189,Sembauke,freeCodeCamp,freeCodeCamp
@@ -633,10 +646,3 @@ ae3faf71b580d6838485beb639c720d68d4f46f8,fix(GHA): make the comments slightly mo
 40796a80c3c5a58912feae6dd2c6b0a996b8d55b,"chore(i18n,learn): update i18n-curriculum submodule (#66620)",2026-03-25T20:36:25Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 0b4ffeb3ee8e9494cc757b0b90b15b4da7fe0782,"chore(i18n,client): processed translations (#66618)",2026-03-25T18:54:18Z,11,1260,camperbot,freeCodeCamp,freeCodeCamp
 067aef76460d6b01078496b5b23761527de81f68,fix(curriculum): add missing closing backticks to a block in review-j…,2026-03-25T10:54:40Z,3,6,DanielRosa74,freeCodeCamp,freeCodeCamp
-623e49bf83d9de4e2674985681663baf8159b97f,chore: reorder catalog items (#66616),2026-03-24T23:55:29Z,18,338,jdwilkin4,freeCodeCamp,freeCodeCamp
-1a884b745a7a9bbbd33bec581ce614b4ed94fbf4,fix(curriculum): correct module/function and elif terminology in Pyth…,2026-03-24T14:40:09Z,5,14,majestic-owl448,freeCodeCamp,freeCodeCamp
-54af69349ebe823f02f9c25da509603d73c8e3fa,feat(curriculum): create Wildlife Tracker workshop (#65980),2026-03-24T14:07:58Z,15,1239,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-c1ae6b6ea9b842c4b813632ff5dd6416d9aceeeb,feat(curriculum): EN-B1 quiz for block 14 (#66611),2026-03-24T12:16:06Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
-a1bd3bf6297b544f597d9a2f0535b27f98474487,feat(curriculum): EN-B1 quiz for block 13 (#66597),2026-03-24T12:06:50Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
-a0f37ae0091a1f799df5db07b030706503104de4,fix(a11y): add initial focus to play button in speaking modal (#66419),2026-03-24T10:44:54Z,2,19,huyenltnguyen,freeCodeCamp,freeCodeCamp
-ca05f09f304090ff8e574a0696d5124d0e62cd95,chore(deps): update dependency msw to v2.12.12 (#66605),2026-03-24T06:25:44Z,1,312,renovate[bot],freeCodeCamp,freeCodeCamp
