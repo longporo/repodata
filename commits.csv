@@ -1,4 +1,15 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+4a3bbb090432700bc114a8bcbbb236d79574227c,fix(curriculum): change provide to type in aria lecture (#68248),2026-06-25T19:40:43Z,1,2,royalknight71,freeCodeCamp,freeCodeCamp
+d1b975a9db88320bf1faefd69404989035ca9f2f,fix(curriculum): editable regions in workshop error message component…,2026-06-25T19:00:07Z,3,10,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+b3115d5bb9428eb2aeeb2731e2f59463f31064c0,fix(curriculum): editable regions in workshop shopping list app (#68215),2026-06-25T18:56:04Z,30,85,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+e6c8fb2d273c55289e9406fc9ae7164e98fdf6c4,fix(curriculum): remove implicit bubbleSort() requirement (#68222),2026-06-25T17:42:16Z,1,31,imsomilg,freeCodeCamp,freeCodeCamp
+f1add0fc64984eb2580f1956f5ad1f62e87ab446,feat: reject FCC_ filters that are too imprecise (#67823),2026-06-25T17:07:10Z,3,560,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+266b1d7235f4579b21928422f3493a3059a2c539,fix: correct ARIA terminology and grammar (#68246),2026-06-25T14:20:46Z,1,6,NidhiPednekar,freeCodeCamp,freeCodeCamp
+311ac0b4a6855d226cca1e43b8e91dc282ceeae0,fix(curriculum): clarify winner message format for tic-tac-toe lab (#…,2026-06-25T09:26:19Z,1,2,Ayan-Bain,freeCodeCamp,freeCodeCamp
+cc014f9ceed2dd618348fc504f05d874d9b67a5d,fix(curriculum): improve consistency and punctuaction (#68225),2026-06-25T08:54:40Z,1,6,PricedTuna,freeCodeCamp,freeCodeCamp
+71b316cc10791a9d1bb19f02d5cfd5141f762c7a,fix(curriculum): correct punctuation in regex quantifiers lesson (#68…,2026-06-25T07:21:34Z,1,12,Eghani,freeCodeCamp,freeCodeCamp
+2fe62f69f65cc892ee663147b0e5ecf1eeabcdf1,fix(curriculum): correct regex character class description (#68220),2026-06-25T06:39:07Z,1,4,AlistairHeus,freeCodeCamp,freeCodeCamp
+88eb7597baa8a6f2f149fb448fa9539f132ecfb3,fix(curriculum): correct grammar in js regex review lecture (#68207),2026-06-25T05:57:50Z,1,6,omar-hossam,freeCodeCamp,freeCodeCamp
 c8ff5f705cc70998aa11ecdb8d2f6726875886e8,fix(curriculum): audit editable regions for workshop-music-player (#6…,2026-06-24T20:51:56Z,42,380,bdtripp,freeCodeCamp,freeCodeCamp
 235423bc754a5ad0b22f2bd5497a013aab94a23f,"chore(i18n,learn): update i18n-curriculum submodule (#68216)",2026-06-24T18:20:16Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 d233a82638d52b96d7610bc16abf5d7c7dbe5f2d,"chore(i18n,client): processed translations (#68211)",2026-06-24T15:33:35Z,10,720,camperbot,freeCodeCamp,freeCodeCamp
@@ -643,6 +654,3 @@ ae3faf71b580d6838485beb639c720d68d4f46f8,fix(GHA): make the comments slightly mo
 45ad8ebf2569b69c599c253a412e31f837674ee0,feat(curriculum): add stack data structure lab (#66251),2026-03-26T13:24:42Z,4,211,larymak,freeCodeCamp,freeCodeCamp
 0c37028160e3eaa352c30393c974b1eb9dfb99a6,"fix(i18n, curriculum): fix review-python indentation in a function (#…",2026-03-26T10:57:16Z,1,2,DanielRosa74,freeCodeCamp,freeCodeCamp
 921097b321cc83e7d83b5d0d75469d5e6ecba1cd,fix(client): prevent non-serializable editor instance in save actions…,2026-03-26T07:16:47Z,1,6,ragini-pandey,freeCodeCamp,freeCodeCamp
-40796a80c3c5a58912feae6dd2c6b0a996b8d55b,"chore(i18n,learn): update i18n-curriculum submodule (#66620)",2026-03-25T20:36:25Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-0b4ffeb3ee8e9494cc757b0b90b15b4da7fe0782,"chore(i18n,client): processed translations (#66618)",2026-03-25T18:54:18Z,11,1260,camperbot,freeCodeCamp,freeCodeCamp
-067aef76460d6b01078496b5b23761527de81f68,fix(curriculum): add missing closing backticks to a block in review-j…,2026-03-25T10:54:40Z,3,6,DanielRosa74,freeCodeCamp,freeCodeCamp
