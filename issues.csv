@@ -1,16 +1,31 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X88AAAABGqSiOQ,68236,"Improve awkward wording in the ""What Is the aria-describedby Attribute"" lecture",CLOSED,2026-06-25T08:09:53Z,2026-06-25T19:40:45Z,majestic-owl448;royalknight71,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGuwClw,68252,"Inconsistent ""linebreaks"" spelling in regular expression modifiers lesson",OPEN,2026-06-25T19:01:14Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGuqU5w,68251,"Add missing terminal periods to two answer options in ""How Can You Match and Replace All Occurrences in a String?"" lecture",OPEN,2026-06-25T18:45:57Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGuppOw,68250,"Fix accuracy and consistency wording in the ""What Are Character Classes"" regex lesson",OPEN,2026-06-25T18:44:06Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87ea0MK,64627,Create a prototype for Python functions workshop,OPEN,2025-12-15T17:22:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGcX-qg,68178,"Test implicitly requires bubbleSort(), but never mentioned in user stories of Sorting Visualizer",CLOSED,2026-06-23T15:47:59Z,2026-06-25T17:42:17Z,imsomilg,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGqShkA,68235,"Fix grammar and terminology issues in the ""What Are ARIA Roles?"" lecture",CLOSED,2026-06-25T08:09:51Z,2026-06-25T14:20:48Z,NidhiPednekar,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGaEHkQ,68170,"FaqItem is using useState, but it is being called like a normal function",OPEN,2026-06-23T10:33:27Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGBWGiQ,68095,User story #5 of Lab Tic Tac Toe does not specify expected winner message format.,CLOSED,2026-06-19T08:08:32Z,2026-06-25T09:26:21Z,Ayan-Bain,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABF5VSbQ,68045,Daily Coding Challenge 312 (Streaming Cost): test cases land on half-cent rounding boundaries,OPEN,2026-06-18T08:33:07Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABF8O9yQ,68068,Workshop discourages usage of modern CSS color syntax,OPEN,2026-06-18T15:12:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGYwImQ,68153,`useEffect` disappear with no explanation in workshop-toggle-text-app,OPEN,2026-06-23T07:23:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGYzg3Q,68159,Fix consistency and punctuation in Working with Regular Expressions lecture (Modifiers),CLOSED,2026-06-23T07:32:28Z,2026-06-25T08:54:42Z,PricedTuna,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGqSguw,68234,"Fix grammatically incorrect feedback in the ""What Is the Purpose of WAI-ARIA"" lecture",OPEN,2026-06-25T08:09:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGYzmvg,68160,Fix punctuation in Working with Regular Expressions lecture (Quantifiers),CLOSED,2026-06-23T07:32:43Z,2026-06-25T07:21:35Z,Eghani,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGYzDDA,68155,Fix technical accuracy and punctuation in Working with Regular Expressions lecture (Character Classes),CLOSED,2026-06-23T07:31:12Z,2026-06-25T06:39:09Z,AlistairHeus,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGY0Ykw,68161,Fix grammar and formatting in JavaScript Regular Expressions Review,CLOSED,2026-06-23T07:34:52Z,2026-06-25T05:57:52Z,omar-hossam,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGpLq-g,68227,Improve Navbar Responsiveness and Fix UI Layout Issues,OPEN,2026-06-25T05:04:22Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGpWcdA,68228,add Number.isInteger to module review,OPEN,2026-06-25T05:38:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGcgkZQ,68179,forum notifications panel is not shown completely,OPEN,2026-06-23T16:05:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGfF4Xg,68187,Lab contradicts Theory on <b> and <strong> usage,CLOSED,2026-06-23T23:13:02Z,2026-06-24T07:00:08Z,imsomilg,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFddMhg,67952,Incorrect hint message appears in Chinese version of Cat Photo App,CLOSED,2026-06-15T01:37:38Z,2026-06-24T17:37:38Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGiYKHw,68205,Translation Error In Python-v9/workshop-media-catalogue/step-11 in Chinese,CLOSED,2026-06-24T09:53:57Z,2026-06-24T17:36:45Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGcX-qg,68178,"Test implicitly requires bubbleSort(), but never mentioned in user stories of Sorting Visualizer",OPEN,2026-06-23T15:47:59Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87ea0MK,64627,Create a prototype for Python functions workshop,OPEN,2025-12-15T17:22:08Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABF8O9yQ,68068,Workshop discourages usage of modern CSS color syntax,OPEN,2026-06-18T15:12:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABD4hlXA,67721,[Curriculum Audit] Editable region markers — v9 workshops,OPEN,2026-05-30T20:13:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPD_P,64111,Workshop – Delivery Route Merger,CLOSED,2025-11-25T03:42:04Z,2026-06-24T15:03:06Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPFE7,64123,JS Workshop – Escape Room Code Runner,CLOSED,2025-11-25T03:45:22Z,2026-06-24T15:00:07Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPEQC,64114,Workshop – Sensor Burst Analyzer,OPEN,2025-11-25T03:42:53Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGaEHkQ,68170,"FaqItem is using useState, but it is being called like a normal function",OPEN,2026-06-23T10:33:27Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGg7abw,68193,Test #2 of Leap Year Calculator only accepts one function declaration,CLOSED,2026-06-24T06:06:44Z,2026-06-24T11:54:08Z,imsomilg,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFbtOYg,67947,"Text challenges need sub headers, TOC",CLOSED,2026-06-14T15:13:03Z,2026-06-24T10:24:00Z,TechGenius-Karan,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDt4S1A,67666,test: donation-saga has no coverage for stripeCardErrorHandler authentication error path,CLOSED,2026-05-28T23:01:07Z,2026-06-24T07:55:23Z,,freeCodeCamp,freeCodeCamp
@@ -19,19 +34,12 @@ I_kwDOAbI7X88AAAABE6rOzw,67866,sort() behavior with undefined and empty slots no
 I_kwDOAbI7X88AAAABGYzWDw,68158,Fix punctuation in Working with Regular Expressions lecture (Common Methods),CLOSED,2026-06-23T07:31:59Z,2026-06-24T07:04:00Z,asura-king-sys,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGYzF7w,68156,Fix RegExp constructor typo in Working with Regular Expressions lecture (Lookahead and Lookbehind Assertions),CLOSED,2026-06-23T07:31:20Z,2026-06-24T06:55:18Z,RandomPerson208,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGYzNQA,68157,Fix consistency and punctuation in Working with Regular Expressions lecture (Match and Replace All),CLOSED,2026-06-23T07:31:38Z,2026-06-24T06:48:40Z,TScom-dew,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABF5VSbQ,68045,Daily Coding Challenge 312 (Streaming Cost): test cases land on half-cent rounding boundaries,OPEN,2026-06-18T08:33:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF0jcVg,68026,Timeline on profile has variable width - should be full width?,CLOSED,2026-06-17T17:33:53Z,2026-06-23T17:11:26Z,imsomilg,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGYxqcw,68154,Fix subject-verb agreement error in Fruit Search App workshop Step 12 description,CLOSED,2026-06-23T07:27:33Z,2026-06-23T15:19:45Z,karthi1048,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGY1hHg,68164,"Fix technical accuracy, grammar, and formatting in JavaScript Review lecture (part 2)",CLOSED,2026-06-23T07:38:03Z,2026-06-23T15:13:31Z,AsthaChoudhury,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGZ6uhQ,68167,“Encrypt your cookie” is technically not fully accurate,CLOSED,2026-06-23T10:11:39Z,2026-06-23T10:18:53Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABE6jzYg,67865,ctrl + enter shortcut not working as intended,OPEN,2026-06-09T19:05:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGRkFIw,68137,Typo fixes in API test files (cookie-update.test.ts and exam-environment.test.ts),CLOSED,2026-06-22T11:13:25Z,2026-06-23T11:15:54Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGBWGiQ,68095,User story #5 of Lab Tic Tac Toe does not specify expected winner message format.,OPEN,2026-06-19T08:08:32Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGY0Ykw,68161,Fix grammar and formatting in JavaScript Regular Expressions Review,OPEN,2026-06-23T07:34:52Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGYzmvg,68160,Fix punctuation in Working with Regular Expressions lecture (Quantifiers),OPEN,2026-06-23T07:32:43Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGYzg3Q,68159,Fix consistency and punctuation in Working with Regular Expressions lecture (Modifiers),OPEN,2026-06-23T07:32:28Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGYzDDA,68155,Fix technical accuracy and punctuation in Working with Regular Expressions lecture (Character Classes),OPEN,2026-06-23T07:31:12Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGYwImQ,68153,`useEffect` disappear with no explanation in workshop-toggle-text-app,OPEN,2026-06-23T07:23:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF9Yf1Q,68077,User Story 4 in Regex Sandbox lab is ambiguous about which element gets updated,CLOSED,2026-06-18T18:07:55Z,2026-06-23T06:51:52Z,Vishhh03,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGNHumw,68114,Regex Review: typos and inaccurate explanation,CLOSED,2026-06-21T17:40:50Z,2026-06-23T06:41:29Z,jayasimha-reddy-code,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGF-NEg,68104,Step 35 of workshop-music-player accepts only implicit return,CLOSED,2026-06-19T22:19:39Z,2026-06-23T06:10:45Z,imsomilg,freeCodeCamp,freeCodeCamp
