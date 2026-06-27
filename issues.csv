@@ -1,8 +1,16 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X88AAAABG27XDA,68280,Form Validation quiz: confusing questions #2 and #8 about checkValidity() and more,OPEN,2026-06-26T21:20:12Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGpLq-g,68227,Improve Navbar Responsiveness and Fix UI Layout Issues,CLOSED,2026-06-25T05:04:22Z,2026-06-26T20:36:09Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABG2Jhlg,68277,incorrect explanation of the `validity` property in Form Validation with JavaScript Review,OPEN,2026-06-26T18:54:31Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGqSguw,68234,"Fix grammatically incorrect feedback in the ""What Is the Purpose of WAI-ARIA"" lecture",CLOSED,2026-06-25T08:09:49Z,2026-06-26T17:35:56Z,Roland,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABG1PIlw,68275,New issue,CLOSED,2026-06-26T16:13:47Z,2026-06-26T16:17:12Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGuwClw,68252,"Inconsistent ""linebreaks"" spelling in regular expression modifiers lesson",CLOSED,2026-06-25T19:01:14Z,2026-06-26T15:11:46Z,Sujanreddy,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGuppOw,68250,"Fix accuracy and consistency wording in the ""What Are Character Classes"" regex lesson",CLOSED,2026-06-25T18:44:06Z,2026-06-26T14:10:23Z,Budatichethana,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGxKUWw,68255,Binary search workshop does not accept arrow function,OPEN,2026-06-26T04:07:33Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABEqRzzA,67843,PyQGIS for GIS automation and DEM mapping,OPEN,2026-06-07T15:04:36Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGNm4uw,68119,Test on Typescript Challenges seems broken,OPEN,2026-06-21T20:38:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGqSiOQ,68236,"Improve awkward wording in the ""What Is the aria-describedby Attribute"" lecture",CLOSED,2026-06-25T08:09:53Z,2026-06-25T19:40:45Z,majestic-owl448;royalknight71,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGuwClw,68252,"Inconsistent ""linebreaks"" spelling in regular expression modifiers lesson",OPEN,2026-06-25T19:01:14Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGuqU5w,68251,"Add missing terminal periods to two answer options in ""How Can You Match and Replace All Occurrences in a String?"" lecture",OPEN,2026-06-25T18:45:57Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGuppOw,68250,"Fix accuracy and consistency wording in the ""What Are Character Classes"" regex lesson",OPEN,2026-06-25T18:44:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ea0MK,64627,Create a prototype for Python functions workshop,OPEN,2025-12-15T17:22:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGcX-qg,68178,"Test implicitly requires bubbleSort(), but never mentioned in user stories of Sorting Visualizer",CLOSED,2026-06-23T15:47:59Z,2026-06-25T17:42:17Z,imsomilg,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGqShkA,68235,"Fix grammar and terminology issues in the ""What Are ARIA Roles?"" lecture",CLOSED,2026-06-25T08:09:51Z,2026-06-25T14:20:48Z,NidhiPednekar,freeCodeCamp,freeCodeCamp
@@ -12,11 +20,9 @@ I_kwDOAbI7X88AAAABF5VSbQ,68045,Daily Coding Challenge 312 (Streaming Cost): test
 I_kwDOAbI7X88AAAABF8O9yQ,68068,Workshop discourages usage of modern CSS color syntax,OPEN,2026-06-18T15:12:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGYwImQ,68153,`useEffect` disappear with no explanation in workshop-toggle-text-app,OPEN,2026-06-23T07:23:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGYzg3Q,68159,Fix consistency and punctuation in Working with Regular Expressions lecture (Modifiers),CLOSED,2026-06-23T07:32:28Z,2026-06-25T08:54:42Z,PricedTuna,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGqSguw,68234,"Fix grammatically incorrect feedback in the ""What Is the Purpose of WAI-ARIA"" lecture",OPEN,2026-06-25T08:09:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGYzmvg,68160,Fix punctuation in Working with Regular Expressions lecture (Quantifiers),CLOSED,2026-06-23T07:32:43Z,2026-06-25T07:21:35Z,Eghani,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGYzDDA,68155,Fix technical accuracy and punctuation in Working with Regular Expressions lecture (Character Classes),CLOSED,2026-06-23T07:31:12Z,2026-06-25T06:39:09Z,AlistairHeus,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGY0Ykw,68161,Fix grammar and formatting in JavaScript Regular Expressions Review,CLOSED,2026-06-23T07:34:52Z,2026-06-25T05:57:52Z,omar-hossam,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGpLq-g,68227,Improve Navbar Responsiveness and Fix UI Layout Issues,OPEN,2026-06-25T05:04:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGpWcdA,68228,add Number.isInteger to module review,OPEN,2026-06-25T05:38:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGcgkZQ,68179,forum notifications panel is not shown completely,OPEN,2026-06-23T16:05:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGfF4Xg,68187,Lab contradicts Theory on <b> and <strong> usage,CLOSED,2026-06-23T23:13:02Z,2026-06-24T07:00:08Z,imsomilg,freeCodeCamp,freeCodeCamp
@@ -44,7 +50,6 @@ I_kwDOAbI7X88AAAABF9Yf1Q,68077,User Story 4 in Regex Sandbox lab is ambiguous ab
 I_kwDOAbI7X88AAAABGNHumw,68114,Regex Review: typos and inaccurate explanation,CLOSED,2026-06-21T17:40:50Z,2026-06-23T06:41:29Z,jayasimha-reddy-code,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGF-NEg,68104,Step 35 of workshop-music-player accepts only implicit return,CLOSED,2026-06-19T22:19:39Z,2026-06-23T06:10:45Z,imsomilg,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86ypNeM,59735,Extra Space after Auth0 sponsor in Hall of Sponsors article,CLOSED,2025-04-15T17:35:23Z,2026-06-23T01:38:59Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGNm4uw,68119,Test on Typescript Challenges seems broken,OPEN,2026-06-21T20:38:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGP1gUA,68125,"Grammar and formatting issues in the ""Review CSS"" block",CLOSED,2026-06-22T06:57:30Z,2026-06-22T18:11:20Z,Lonny154,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGP1g2Q,68126,"Typo and formatting issues in the ""Importance of Semantic HTML"" lecture block",CLOSED,2026-06-22T06:57:32Z,2026-06-22T16:28:42Z,Atulya-Juyal,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGOUB3w,68121,Basic Programming Vocabulary quiz incorrect option,CLOSED,2026-06-22T01:15:41Z,2026-06-22T16:18:35Z,Pranav-0018;majestic-owl448,freeCodeCamp,freeCodeCamp
@@ -143,7 +148,6 @@ I_kwDOAbI7X88AAAABEt_aJA,67851,"Search query from ""Get a Hint"" button does not
 I_kwDOAbI7X88AAAABDWxZLw,67605,RDB: Build Five Programs workshop gives an invalid hint,OPEN,2026-05-25T23:48:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SMU7z,62878,Progress Checkmarks not Visible in Dark Mode on Samsung Browser,CLOSED,2025-10-17T14:45:58Z,2025-11-17T09:48:42Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCd1aWA,67436,"""ask for help"" post template makes search preview focus on useless part of post",CLOSED,2026-05-16T16:03:10Z,2026-06-05T08:42:25Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABEqRzzA,67843,PyQGIS for GIS automation and DEM mapping,OPEN,2026-06-07T15:04:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEQwX6w,67790,Incorrect answer to a toFixed() question,CLOSED,2026-06-03T14:51:20Z,2026-06-06T21:11:21Z,EXA52047;nico457,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEeByWA,67819,bill splitter step 6,CLOSED,2026-06-05T06:51:09Z,2026-06-06T20:35:31Z,Kd1880,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABD1QUwA,67697,`IndependentLowerJaw` shows hints with relevant spaces trimmed,OPEN,2026-05-29T22:59:30Z,,,freeCodeCamp,freeCodeCamp
@@ -518,10 +522,3 @@ I_kwDOAbI7X872H_K_,66615,Clarification: Should GraphQL query errors be explicitl
 I_kwDOAbI7X873UriX,66638,"Missing explanation of <a> tag in ""Understanding HTML Attributes"" lesson",CLOSED,2026-03-27T05:05:29Z,2026-03-27T07:43:30Z,Kows3002,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X873VXkZ,66641,Improve wording in HTML challenge instructions,CLOSED,2026-03-27T05:35:27Z,2026-03-27T07:31:46Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X871vF_w,66603,Last sample code is incorrect in this article.,CLOSED,2026-03-23T18:18:24Z,2026-03-26T09:26:19Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861UGwZ,60180,Handle log statements in redirection.ts,OPEN,2025-05-06T08:17:32Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87NcA7Z,62335,Allow code blocks in test text,CLOSED,2025-09-23T21:10:59Z,2026-03-26T21:23:54Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X872DQKl,66613,Build a House Painting wrong instructions,CLOSED,2026-03-24T13:44:56Z,2026-03-26T20:48:43Z,jtrang,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X872iSBC,66621,Build a bookstore page HTML workshop might confuse learners,CLOSED,2026-03-25T15:11:03Z,2026-03-26T17:59:11Z,octavio-js,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X872if-k,66622,Small error in JS: What Is Ascii,CLOSED,2026-03-25T15:18:14Z,2026-03-26T17:07:51Z,octavio-js,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8700FHo,66570,Add Facebook share button after workshops,CLOSED,2026-03-20T11:16:30Z,2026-03-26T15:36:33Z,Venkat,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87yk7-y,66413,non-serializable content for browser code save,CLOSED,2026-03-13T08:44:42Z,2026-03-26T07:16:49Z,ragini-pandey,freeCodeCamp,freeCodeCamp
