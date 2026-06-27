@@ -1,4 +1,8 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+25c1b1fc45e2951a6fd52d31b01068cfcc20154d,fix(curriculum): fix grammatically incorrect feedback in WAI-ARIA lec…,2026-06-26T17:35:54Z,1,6,aksantimyakaroland,freeCodeCamp,freeCodeCamp
+b73655652dfe1c72329d83269ee74b7e03ceab67,fix(curriculum): correct linebreaks spelling in regex modifiers lesso…,2026-06-26T15:11:44Z,1,2,ayyagarisujanreddy123,freeCodeCamp,freeCodeCamp
+71f0bcd30a4563c13fda4a09511cc7b4d287f2fd,fix(curriculum): improve wording in character classes lesson (#68270),2026-06-26T14:10:21Z,1,8,Budatichethana,freeCodeCamp,freeCodeCamp
+7a8e8465cb65a4e5661db1b11fb3addc714ac7dc,test: move exam show coverage to client (#68172),2026-06-26T07:05:03Z,4,554,Sembauke,freeCodeCamp,freeCodeCamp
 4a3bbb090432700bc114a8bcbbb236d79574227c,fix(curriculum): change provide to type in aria lecture (#68248),2026-06-25T19:40:43Z,1,2,royalknight71,freeCodeCamp,freeCodeCamp
 d1b975a9db88320bf1faefd69404989035ca9f2f,fix(curriculum): editable regions in workshop error message component…,2026-06-25T19:00:07Z,3,10,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 b3115d5bb9428eb2aeeb2731e2f59463f31064c0,fix(curriculum): editable regions in workshop shopping list app (#68215),2026-06-25T18:56:04Z,30,85,AdityaSingh-18,freeCodeCamp,freeCodeCamp
@@ -642,15 +646,3 @@ dd75c7e0dbf1df03becceef03efe13781219460a,"chore(i18n,learn): update i18n-curricu
 72f5d67f6a0823b26930d7e33acb71dbb5bb73df,fix(curriculum): align two A2 quiz dashed names with chapter planning…,2026-03-27T11:24:17Z,44,180,Sembauke,freeCodeCamp,freeCodeCamp
 4a0365a0b58ec21e5889472f7ce69f4ce3e9217d,fix: handle GraphQL errors in createPages (#66642),2026-03-27T10:09:37Z,1,26,Riddhi8077,freeCodeCamp,freeCodeCamp
 05365931cd093637e24c5c2dafb73f8ea2e2d652,fix(Curriculum): add note explaining anchor tag in HTML attributes le…,2026-03-27T07:43:29Z,1,2,Kows3002,freeCodeCamp,freeCodeCamp
-af112a439f4d4a38178e3dbd892917858663e07a,feat(curriculum): EN-B1 quiz for block 16 (#66628),2026-03-26T22:15:01Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
-f4ce4e4eaafa2427589e31280fc92d94add6196c,feat(curriculum): EN-B1 quiz for block 15 (#66619),2026-03-26T22:12:27Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
-dcb56b77f77dcb23cf5829b32225c3e83a00789e,fix(curriculum): update tests for Build a House Painting lab (#66634),2026-03-26T20:48:41Z,1,9,jtrang,freeCodeCamp,freeCodeCamp
-0ce80ac036e617210e39b7fc05e70910a287063a,fix(curriculum): add note on css classes in bookstore page workshop (…,2026-03-26T17:59:09Z,1,2,octavio-js,freeCodeCamp,freeCodeCamp
-9985e0d62bd6f44ed6d30c6a910b9fc0678d889b,feat(curriculum): change the first distractor text (#66631),2026-03-26T17:07:49Z,1,2,octavio-js,freeCodeCamp,freeCodeCamp
-8f7504b23b208924dfb16257b463fc41bdae9d3c,feat(curriculum): release js data structures module (#66630),2026-03-26T16:04:34Z,8,15,Ksound22,freeCodeCamp,freeCodeCamp
-eda51dd4dadf71f335ddcdeb15fe18ca047d27ee,feat: add Facebook share button to allow users to share workshop prog…,2026-03-26T15:36:31Z,7,42,Venkat-Entropik,freeCodeCamp,freeCodeCamp
-ae3faf71b580d6838485beb639c720d68d4f46f8,fix(GHA): make the comments slightly more actionable (#66626),2026-03-26T14:19:55Z,2,39,raisedadead,freeCodeCamp,freeCodeCamp
-22b61790647615733771ba344c2a26be81deb0fa,feat(curriculum): add linked list workshop to js v9 cert (#66117),2026-03-26T14:16:41Z,24,1575,Ksound22,freeCodeCamp,freeCodeCamp
-45ad8ebf2569b69c599c253a412e31f837674ee0,feat(curriculum): add stack data structure lab (#66251),2026-03-26T13:24:42Z,4,211,larymak,freeCodeCamp,freeCodeCamp
-0c37028160e3eaa352c30393c974b1eb9dfb99a6,"fix(i18n, curriculum): fix review-python indentation in a function (#…",2026-03-26T10:57:16Z,1,2,DanielRosa74,freeCodeCamp,freeCodeCamp
-921097b321cc83e7d83b5d0d75469d5e6ecba1cd,fix(client): prevent non-serializable editor instance in save actions…,2026-03-26T07:16:47Z,1,6,ragini-pandey,freeCodeCamp,freeCodeCamp
