@@ -1,4 +1,8 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+a5e99552a72ce75c2d3426c0ae9e7a3c2018d1fc,fix(curriculum): add missing word and fix comma splice in git lecture…,2026-06-27T16:28:17Z,1,4,Sudarshan180392,freeCodeCamp,freeCodeCamp
+8b98826abd63fdaf63b070a22077d05081a492dc,"fix(curriculum): remove ""or set"" from validity property description (…",2026-06-27T16:02:24Z,1,2,Udhaya-kumar-N,freeCodeCamp,freeCodeCamp
+bc857a29cdd6afc59430b1666a7125b21447dc3c,fix(curriculum): add missing word 'of' in git/github lecture  (#68300),2026-06-27T13:16:11Z,1,2,mika943,freeCodeCamp,freeCodeCamp
+bb5475f5a02e4f4c12347a57296464133ac62910,fix(curriculum): add missing punctuation in regex lesson feedback (#6…,2026-06-27T08:16:33Z,1,4,naresh-coder123,freeCodeCamp,freeCodeCamp
 25c1b1fc45e2951a6fd52d31b01068cfcc20154d,fix(curriculum): fix grammatically incorrect feedback in WAI-ARIA lec…,2026-06-26T17:35:54Z,1,6,aksantimyakaroland,freeCodeCamp,freeCodeCamp
 b73655652dfe1c72329d83269ee74b7e03ceab67,fix(curriculum): correct linebreaks spelling in regex modifiers lesso…,2026-06-26T15:11:44Z,1,2,ayyagarisujanreddy123,freeCodeCamp,freeCodeCamp
 71f0bcd30a4563c13fda4a09511cc7b4d287f2fd,fix(curriculum): improve wording in character classes lesson (#68270),2026-06-26T14:10:21Z,1,8,Budatichethana,freeCodeCamp,freeCodeCamp
@@ -640,9 +644,3 @@ f4bd4781e81ad4cb405113d3dcb2b4a39c1770e4,chore(deps): update pnpm/action-setup d
 044f75107652b14b919426b95caefce8a07c4413,chore(deps): update dependency msw to v2.12.14 (#66614),2026-03-30T08:00:46Z,1,82,renovate[bot],freeCodeCamp,freeCodeCamp
 b3072d3324964e2e9f4b1db7ef6cc2f0d64439b4,feat(curriculum): add Build a Bar Chart lab (#62913),2026-03-30T07:54:35Z,4,1960,majestic-owl448,freeCodeCamp,freeCodeCamp
 dd75c7e0dbf1df03becceef03efe13781219460a,"chore(i18n,learn): update i18n-curriculum submodule (#66664)",2026-03-28T15:32:16Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-3f3509244c41e93d09bd22fea4c77d10a003db1f,feat(curriculum): release js v9 algorithms module (#66654),2026-03-27T18:47:58Z,10,19,Ksound22,freeCodeCamp,freeCodeCamp
-0130f6ffb1e822bdb914b3ef5f6be524bce824a4,feat(curriculum): add merge sort workshop JSV9 (#66416),2026-03-27T17:04:04Z,28,1530,zairahira,freeCodeCamp,freeCodeCamp
-431c77820e2a189a285bb7eff53aa0a34e0dd37d,feat(curriculum): add binary search workshop JSV9 (#65964),2026-03-27T14:15:35Z,19,890,zairahira,freeCodeCamp,freeCodeCamp
-72f5d67f6a0823b26930d7e33acb71dbb5bb73df,fix(curriculum): align two A2 quiz dashed names with chapter planning…,2026-03-27T11:24:17Z,44,180,Sembauke,freeCodeCamp,freeCodeCamp
-4a0365a0b58ec21e5889472f7ce69f4ce3e9217d,fix: handle GraphQL errors in createPages (#66642),2026-03-27T10:09:37Z,1,26,Riddhi8077,freeCodeCamp,freeCodeCamp
-05365931cd093637e24c5c2dafb73f8ea2e2d652,fix(Curriculum): add note explaining anchor tag in HTML attributes le…,2026-03-27T07:43:29Z,1,2,Kows3002,freeCodeCamp,freeCodeCamp
