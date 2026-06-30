@@ -1,4 +1,22 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+20bb21537fe09b366f4e8c6b9897f097328d536b,fix: Fix binary search lesson typos (#68373),2026-06-29T20:45:00Z,1,7,Vivek1537,freeCodeCamp,freeCodeCamp
+cc09bd3017809b5a6938b8e3ead3edef20b3437c,fix(client): support Monaco editor 0.55.1 (#67740),2026-06-29T15:13:22Z,4,120,Sembauke,freeCodeCamp,freeCodeCamp
+0e29e39dac10c98f439b57cf7379bb475aee0a7f,fix(curriculum): correct brand casing and grammar in git and github l…,2026-06-29T09:05:00Z,1,6,Kapilkrishnayadav,freeCodeCamp,freeCodeCamp
+21a758fedcc390531378ca2ef7ad01f1c932edc1,fix(curriculum): update regex to accept any callback parameter (#68339),2026-06-29T08:28:12Z,1,2,imsomilg,freeCodeCamp,freeCodeCamp
+21736bc7810fb6e566b65cfb5c4f89a1374a555e,fix(curriculum): replace getFunctionParams with functionRegex in Merg…,2026-06-29T08:25:12Z,1,5,imsomilg,freeCodeCamp,freeCodeCamp
+71c4c047bf50f49c56775b56705d98b69300fd80,fix(curriculum): replace getFunctionParams with functionRegex in Link…,2026-06-29T08:24:05Z,1,4,imsomilg,freeCodeCamp,freeCodeCamp
+515f618ecda28a7507e0d14d665be97760c9c9d6,fix(curriculum): correct code fence for merge sort example (#68317),2026-06-29T08:15:56Z,1,4,Yaswanthram-396,freeCodeCamp,freeCodeCamp
+5a17cb99a4801826936a904d04650235f0859616,feat(client): add new feature label for socrates (#68328),2026-06-29T07:54:24Z,6,243,ahmaxed,freeCodeCamp,freeCodeCamp
+86ec60dbca7469149e29ab706094cb526b885262,fix(curriculum): correct grammar in push local repository lecture (#6…,2026-06-29T07:22:52Z,1,12,Ayush2029,freeCodeCamp,freeCodeCamp
+347e0ef08485fed377c7783927576d9083990a45,fix(curriculum): remove rounding edge cases in daily challenge 312 (#…,2026-06-29T06:59:31Z,2,24,rixyll,freeCodeCamp,freeCodeCamp
+0fc098b47fcd36941dd4235569c23820819b320b,fix(curriculum): correct formatting and punctuation in binary search …,2026-06-29T06:47:48Z,1,4,Siddhant21007,freeCodeCamp,freeCodeCamp
+21cf06ea323686bb48105b2c687e1aa8b666c9c4,fix(curriculum): correct comma splice and verb form in git lecture (#…,2026-06-29T06:45:26Z,1,4,yzakmuz,freeCodeCamp,freeCodeCamp
+0d93096e4eeff6175204f17bd0e88e5cfac80e88,fix: Improve clarity and hyphenation in lecture notes (#68314),2026-06-29T06:33:12Z,1,4,vasslucas,freeCodeCamp,freeCodeCamp
+a3d173a712e4e7e138e527181cd855ab53f0d4d9,fix(curriculum): fix Git Bash spelling and affect/effect confusion in…,2026-06-29T06:29:44Z,1,8,menika01012006,freeCodeCamp,freeCodeCamp
+098ea1274bc73a481a1e009968db902e30ed57ab,fix(curriculum): replace getFunctionParams with functionRegex to acce…,2026-06-29T06:26:32Z,1,7,imsomilg,freeCodeCamp,freeCodeCamp
+b374c15c10b0965d1e4321847d52bb6851a732bb,fix(curriculum): editing regex from workshop-colored-markers to allow…,2026-06-29T06:23:58Z,4,20,Psst02,freeCodeCamp,freeCodeCamp
+ea141885bc744301d07554ef875316abc95b8161,fix(curriculum): update questions and answers of Form Validation Quiz…,2026-06-29T06:18:40Z,1,16,imsomilg,freeCodeCamp,freeCodeCamp
+fad2ffa44cbcfdf5dc48750cf4f75695127d5f37,fix(curriculum): fix GitLab capitalization in version control lecture…,2026-06-29T06:04:10Z,1,2,xNickRivera,freeCodeCamp,freeCodeCamp
 a5e99552a72ce75c2d3426c0ae9e7a3c2018d1fc,fix(curriculum): add missing word and fix comma splice in git lecture…,2026-06-27T16:28:17Z,1,4,Sudarshan180392,freeCodeCamp,freeCodeCamp
 8b98826abd63fdaf63b070a22077d05081a492dc,"fix(curriculum): remove ""or set"" from validity property description (…",2026-06-27T16:02:24Z,1,2,Udhaya-kumar-N,freeCodeCamp,freeCodeCamp
 bc857a29cdd6afc59430b1666a7125b21447dc3c,fix(curriculum): add missing word 'of' in git/github lecture  (#68300),2026-06-27T13:16:11Z,1,2,mika943,freeCodeCamp,freeCodeCamp
