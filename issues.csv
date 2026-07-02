@@ -1,19 +1,33 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X88AAAABHQp8yg,68424,inflexible test in js Build a Countdown lab,OPEN,2026-07-01T03:36:58Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHSTAwg,68430,"Method parentheses, ValidityState example, and phrasing fixes in the validate forms lecture",CLOSED,2026-07-01T08:41:01Z,2026-07-01T22:08:33Z,timothysmithdev,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHNdxew,68406,Form Validation with JavaScript quiz: subject-verb error and misleading checkValidity() stem,CLOSED,2026-06-30T17:00:52Z,2026-07-01T21:45:46Z,TheForgottenJudge,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABG_rmWg,68337,"The Python lesson, What Are Some Common String Methods?, lists specific methods without any introduction to what a method is",OPEN,2026-06-29T01:45:26Z,,,freeCodeCamp,freeCodeCamp
-MDU6SXNzdWUyODQ5NjM4NTA=,16358,ES6: Create Strings using Template Literals - Test Fails - Doesn't detect template strings,CLOSED,2017-12-28T18:09:38Z,2018-06-25T17:20:21Z,scissorsneedfoodtoo,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHO_SLQ,68420,"`toLocaleTimeString()` never taught, but still asked in Javascript Dates Quiz",OPEN,2026-06-30T21:10:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGYwImQ,68153,`useEffect` disappear with no explanation in workshop-toggle-text-app,CLOSED,2026-06-23T07:23:35Z,2026-07-01T20:52:55Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHVQIYA,68444,Fix curly apostrophes and code block indentation in Shopping Cart workshop Step 24,CLOSED,2026-07-01T15:36:31Z,2026-07-01T20:39:14Z,ashwiniwakchaure7777,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHXDFMg,68456,Fix incorrect property name in Recipe Tracker Step 11 hint,OPEN,2026-07-01T20:15:03Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHXDB1g,68455,Fix incorrect lower bound in Recipe Tracker Step 9 hint,OPEN,2026-07-01T20:14:54Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHXC7Gg,68454,Fix incorrect variable casing in Recipe Tracker Step 6 hint,OPEN,2026-07-01T20:14:37Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHO_SLQ,68420,"`toLocaleTimeString()` never taught, but still asked in Javascript Dates Quiz",CLOSED,2026-06-30T21:10:49Z,2026-07-01T19:56:40Z,imsomilg,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHVWcPA,68445,Incorrect conjunction and double space in Workshop: Countup Step 4 description,CLOSED,2026-07-01T15:51:03Z,2026-07-01T17:34:56Z,Chamith-Dilshan,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABD4hlXA,67721,[Curriculum Audit] Editable region markers — v9 workshops,OPEN,2026-05-30T20:13:02Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHSTALA,68429,Phrasing and en dash fixes in the e.preventDefault lecture,OPEN,2026-07-01T08:41:00Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHSS_gw,68428,"Grammar, code fence, and feedback consistency fixes in the submit event forms lecture",CLOSED,2026-07-01T08:40:58Z,2026-07-01T15:42:36Z,yuting1008,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHSS-0Q,68427,Grammar and remote placeholder fixes in the Introduction to Git and GitHub lecture,CLOSED,2026-07-01T08:40:56Z,2026-07-01T12:55:13Z,huyenltnguyen;klaus007p,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABG-TIbg,68331,fix(client): correct spelling errors in code comments,CLOSED,2026-06-28T16:54:57Z,2026-07-01T10:49:07Z,TruptiAgrawal;huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHNvz9w,68410,"Correct punctuation and data type naming in ""What Is a Data Type"" lecture",CLOSED,2026-06-30T17:43:40Z,2026-07-01T09:09:58Z,yash5749,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHNwGhw,68411,"Replace dash with colon in ""How Do let and const Work"" lecture",CLOSED,2026-06-30T17:44:23Z,2026-07-01T09:09:08Z,k-anushka14,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHOruMA,68417,Replace regex-based test cases with TypeScript Explorer AST helpers in JS labs and workshops,OPEN,2026-06-30T20:16:18Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X877Epz6,66832,Get a Hint - page redirection from Workshop,CLOSED,2026-04-06T14:52:29Z,2026-07-01T08:43:35Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHByLpA,68353,Shortest Path Algorithm step 3 does not accept arrow function syntax,CLOSED,2026-06-29T09:01:13Z,2026-07-01T08:36:36Z,thePranav-kpk,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHREL7g,68426,Improve GitHub repo browsing performance via linguist directives in .gitattributes,CLOSED,2026-07-01T05:08:58Z,2026-07-01T07:58:55Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHQp8yg,68424,inflexible test in js Build a Countdown lab,OPEN,2026-07-01T03:36:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHOM2Iw,68416,Breadth-First Search Step 1 does not accept arrow function syntax,OPEN,2026-06-30T18:55:30Z,,,freeCodeCamp,freeCodeCamp
+MDU6SXNzdWUyODQ5NjM4NTA=,16358,ES6: Create Strings using Template Literals - Test Fails - Doesn't detect template strings,CLOSED,2017-12-28T18:09:38Z,2018-06-25T17:20:21Z,scissorsneedfoodtoo,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEqRzzA,67843,PyQGIS for GIS automation and DEM mapping,OPEN,2026-06-07T15:04:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGcgkZQ,68179,forum notifications panel is not shown completely,OPEN,2026-06-23T16:05:51Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHNwGhw,68411,"Replace dash with colon in ""How Do let and const Work"" lecture",OPEN,2026-06-30T17:44:23Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHNvz9w,68410,"Correct punctuation and data type naming in ""What Is a Data Type"" lecture",OPEN,2026-06-30T17:43:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHIcWgw,68378,Linked list workshop step 3 does not accept arrow function syntax,CLOSED,2026-06-30T04:05:18Z,2026-06-30T17:40:48Z,imsomilg,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHEPwVA,68371,"Wording or Phrasing within ""CSS What Are the Different Types of CSS Combinators?""",CLOSED,2026-06-29T14:52:23Z,2026-06-30T17:37:35Z,thePranav-kpk,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHNdxew,68406,Form Validation with JavaScript quiz: subject-verb error and misleading checkValidity() stem,OPEN,2026-06-30T17:00:52Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGNm4uw,68119,Test on Typescript Challenges seems broken,CLOSED,2026-06-21T20:38:00Z,2026-06-30T16:37:35Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHByLpA,68353,Shortest Path Algorithm step 3 does not accept arrow function syntax,OPEN,2026-06-29T09:01:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHMP86w,68404,Remove the ask for help button that generates a forum post,OPEN,2026-06-30T14:16:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABG-u5TA,68332,Step 57 of Build A Calorie Counter Workshop does not accept arrow function.,CLOSED,2026-06-28T19:41:59Z,2026-06-30T14:37:56Z,imsomilg,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHIdxng,68379,Linked list workshop step 13 does not accept arrow function syntax,CLOSED,2026-06-30T04:10:43Z,2026-06-30T14:24:56Z,imsomilg,freeCodeCamp,freeCodeCamp
@@ -25,12 +39,10 @@ I_kwDOAbI7X88AAAABG5sLdQ,68295,"Comma splice, mismatched remote URL, and grammar
 I_kwDOAbI7X88AAAABG6HAFA,68309,Weather App - two tests require an arrow function to be declared with let,OPEN,2026-06-27T13:48:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHBnckQ,68351,test(api): improve unit test coverage for ids utility,OPEN,2026-06-29T08:34:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABG_4b2w,68338,Linked list workshop step 2 does not accept arrow function syntax,CLOSED,2026-06-29T02:44:09Z,2026-06-29T08:24:06Z,imsomilg,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABD4hlXA,67721,[Curriculum Audit] Editable region markers — v9 workshops,OPEN,2026-05-30T20:13:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABG466Og,68285,"Punctuation, boolean casing, and backtick issues in the binary search lecture",CLOSED,2026-06-27T07:27:59Z,2026-06-29T20:45:03Z,Vivek1537,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABD5kFyA,67725,broken sticky-scroll in workshop/lab lessons in-app editor,CLOSED,2026-05-31T05:21:29Z,2026-06-29T15:13:24Z,Sembauke,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABG5sHjQ,68290,Brand casing and grammar issues in the GitHub and GitLab lecture,CLOSED,2026-06-27T11:26:34Z,2026-06-29T09:05:02Z,Kapilkrishnayadav,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABG-TIbg,68331,fix(client): correct spelling errors in code comments,OPEN,2026-06-28T16:54:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABG57ndw,68304,"Spam Filter Step 11 test requires the .some() callback parameter to be named ""regex""",CLOSED,2026-06-27T12:51:03Z,2026-06-29T08:28:14Z,imsomilg,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABG_K43A,68334,Merge sort workshop does not accept arrow function syntax,CLOSED,2026-06-28T22:44:32Z,2026-06-29T08:25:13Z,imsomilg,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABG4672w,68286,Incorrect code fence language and awkward phrasing in the merge sort lecture,CLOSED,2026-06-27T07:28:06Z,2026-06-29T08:15:58Z,Yaswanthram-396,freeCodeCamp,freeCodeCamp
@@ -59,7 +71,6 @@ I_kwDOAbI7X88AAAABGcX-qg,68178,"Test implicitly requires bubbleSort(), but never
 I_kwDOAbI7X88AAAABGqShkA,68235,"Fix grammar and terminology issues in the ""What Are ARIA Roles?"" lecture",CLOSED,2026-06-25T08:09:51Z,2026-06-25T14:20:48Z,NidhiPednekar,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGaEHkQ,68170,"FaqItem is using useState, but it is being called like a normal function",OPEN,2026-06-23T10:33:27Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGBWGiQ,68095,User story #5 of Lab Tic Tac Toe does not specify expected winner message format.,CLOSED,2026-06-19T08:08:32Z,2026-06-25T09:26:21Z,Ayan-Bain,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGYwImQ,68153,`useEffect` disappear with no explanation in workshop-toggle-text-app,OPEN,2026-06-23T07:23:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGYzg3Q,68159,Fix consistency and punctuation in Working with Regular Expressions lecture (Modifiers),CLOSED,2026-06-23T07:32:28Z,2026-06-25T08:54:42Z,PricedTuna,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGYzmvg,68160,Fix punctuation in Working with Regular Expressions lecture (Quantifiers),CLOSED,2026-06-23T07:32:43Z,2026-06-25T07:21:35Z,Eghani,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGYzDDA,68155,Fix technical accuracy and punctuation in Working with Regular Expressions lecture (Character Classes),CLOSED,2026-06-23T07:31:12Z,2026-06-25T06:39:09Z,AlistairHeus,freeCodeCamp,freeCodeCamp
@@ -97,7 +108,6 @@ I_kwDOAbI7X88AAAABF8Fd9A,68063,Add missing commas before non-restrictive clauses
 I_kwDOAbI7X88AAAABGPpr7w,68123,"Bug in #68078 is in exam database, not curriculum markdown files",CLOSED,2026-06-22T06:23:49Z,2026-06-22T06:28:10Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF0oOmg,68028,Don't render same title twice in page title,OPEN,2026-06-17T17:44:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGJ8pag,68110,Auto-assign the status: waiting review label after a new commit,OPEN,2026-06-20T19:06:05Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X877Epz6,66832,Get a Hint - page redirection from Workshop,OPEN,2026-04-06T14:52:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF9ZCzw,68078,"A2 English Certification Exam typo 2 times ""and""",OPEN,2026-06-18T18:09:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF8HRyw,68065,Indent two list-item code blocks consistently in Review Bash Scripting,CLOSED,2026-06-18T14:57:47Z,2026-06-19T14:41:44Z,Jaun-van-Deventer,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF-pJNQ,68087,captureOneTimePayment passes wrong arguments to onApprove in PayPal donation handler,OPEN,2026-06-18T21:50:31Z,,,freeCodeCamp,freeCodeCamp
@@ -525,7 +535,3 @@ I_kwDOAbI7X875-U5X,66742,Add Arabic language support to freeCodeCamp,CLOSED,2026
 I_kwDOAbI7X874Lsc0,66671,New Curriculum Path: Deep Learning with Python,OPEN,2026-03-29T11:03:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X875sYVy,66730,Build a Decimal to Binary converter step 35- small correction for consistency,CLOSED,2026-04-01T18:51:56Z,2026-04-02T13:10:06Z,aaryamanchanda,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87597G-,66741,add macOS Homebrew PATH setup note for new contributors,CLOSED,2026-04-02T10:58:05Z,2026-04-02T12:46:24Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X873cQNZ,66646,Coding Challenge 229: Truncate the Text 2 - typo in description and test result,CLOSED,2026-03-27T10:28:31Z,2026-03-31T07:42:13Z,Krishna040705,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87XbQk1,63761,Use stricter regex for Hanzi–Pinyin pair detection,CLOSED,2025-11-11T23:24:01Z,2026-04-01T12:56:24Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86Av942,53914,Missing CSV Files in released branch of Relational Database Courses,OPEN,2024-02-28T23:35:22Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87zZ_Ne,66508,Donate button should always be visible,CLOSED,2026-03-16T16:59:54Z,2026-04-01T08:05:20Z,Venkat,freeCodeCamp,freeCodeCamp
