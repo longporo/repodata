@@ -1,4 +1,26 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+d177ed214d91a1347f106a78dde7f34b5a7f9181,"chore(i18n,learn): update i18n-curriculum submodule (#68446)",2026-07-01T23:34:27Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+00346616097ca8220296e337beb57d0e86577528,"fix(curriculum): Method parentheses, ValidityState example, and phras…",2026-07-01T22:08:31Z,1,8,timothysmithdev,freeCodeCamp,freeCodeCamp
+5be3a55a9bde5b5adaaf893a87f945827480947a,fix(curriculum): correct grammar and reframe checkValidity question i…,2026-07-01T21:45:44Z,1,4,TheForgottenJudge,freeCodeCamp,freeCodeCamp
+b33893ed907ec6440fd3466c1f21eba4de356297,fix(curriculum): update steps to remove the need of useEffect (#68340),2026-07-01T20:52:54Z,4,160,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+3d416a2b4e543455ca4353ce395e481e5717d811,fix(curriculum): straight apostrophes and code block in step 24 (#68451),2026-07-01T20:39:12Z,1,16,ashwiniwakchaure7777,freeCodeCamp,freeCodeCamp
+3e6efc341a7f14f86821a0b6643071afc11aa86f,fix(curriculum): editable regions in workshop shortest path algorithm…,2026-07-01T20:38:19Z,23,139,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+61cfb8fd7e2bea5741fc5309e336dfa298d4fe54,fix(curriculum): editable regions in workshop recipe tracker (#68447),2026-07-01T20:13:19Z,2,3,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+926afc7c8e427c3308f70055977cd8414d3d1067,fix(curriculum): change question and remove toLocaleTimeString() from…,2026-07-01T19:56:39Z,1,12,imsomilg,freeCodeCamp,freeCodeCamp
+c6af46dd0567c15171adde60b632699e1fe32283,fix(curriculum): fix description of countup function instructions of …,2026-07-01T17:34:54Z,1,2,Chamith-Dilshan,freeCodeCamp,freeCodeCamp
+299d08e89c6c0519500c923c8da6f592f35ae151,"chore(i18n,client): processed translations (#68441)",2026-07-01T16:47:39Z,10,60,camperbot,freeCodeCamp,freeCodeCamp
+979a13c10b8abd0762d6394dc32b0da98eb0f0fd,fix(curriculum): audit editable regions for workshop-countup (#68376),2026-07-01T15:49:33Z,1,3,bdtripp,freeCodeCamp,freeCodeCamp
+1aaf39d07e9edccfcee2f3f8c5551f027a895c3f,fix(curriculum): improve wording in submit event forms lecture (#68442),2026-07-01T15:42:34Z,1,6,yuting1008,freeCodeCamp,freeCodeCamp
+fe7649e64f4a150188f5474c8840e01b02950d02,fix(curriculum): audit editable regions for workshop-shopping-cart (#…,2026-07-01T15:35:06Z,53,387,bdtripp,freeCodeCamp,freeCodeCamp
+9e76a5030f23cdfc0f868b4ab140e4cca14a9d48,fix(curriculum): correct grammar and remote placeholders (#68435),2026-07-01T12:55:11Z,1,8,klaus007p,freeCodeCamp,freeCodeCamp
+65a2436b094c90eb5b3cab4eca9b2cb3239af0a7,feat(curriculum): add security and privacy quiz (#68257),2026-07-01T11:32:30Z,4,473,Ksound22,freeCodeCamp,freeCodeCamp
+f85086a45a389f160e3cbbec1748bc4bae053ead,fix(curriculum): correct spelling errors in code comments (#68330),2026-07-01T10:49:05Z,4,10,TruptiAgrawal,freeCodeCamp,freeCodeCamp
+82a46df90c8e64ce29bd6abf16ebe369c4cb8edc,fix(curriculum): add missing commas and correct data type capitalizat…,2026-07-01T09:09:57Z,1,4,yash5749,freeCodeCamp,freeCodeCamp
+2d21cf6d91da73b9a1bab8fb211f9b176c7521a1,fix(curriculum): replace dash with colon in let/const lecture (#68419),2026-07-01T09:09:06Z,1,2,k-anushka14,freeCodeCamp,freeCodeCamp
+3fd557acad1fd6a88bd68b8010e20856e6d19502,feat(curriculum): add security and privacy review (#68238),2026-07-01T09:05:20Z,4,194,Ksound22,freeCodeCamp,freeCodeCamp
+a0b6343a23af56cf52f48f39c74b326957b0892a,fix(curriculum): use AST Explorer in Shortest Path Step 3 (#68412),2026-07-01T08:36:34Z,1,10,thePranav-kpk,freeCodeCamp,freeCodeCamp
+862b7e4a6ffd2a9c1b1c919d98e978429e91806b,chore(curriculum): previous backticks for linked list workshop (#68422),2026-07-01T08:33:28Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+14eccbc4ab86a3d854b731a5971928d014bf8f0f,feat(curriculum): add security and privacy lessons (#68206),2026-07-01T08:21:40Z,13,1562,Ksound22,freeCodeCamp,freeCodeCamp
 936ec9305b693c166d440d1b8dde650ae5c544f8,fix(api): validate coderoad tokens before querying db (#68408),2026-06-30T19:28:59Z,2,40,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 6dad6f754e271c67d5a6fb4fbf5db6a7116935c3,fix(curriculum): use allFunctions and parameters in step 3 of Linked …,2026-06-30T17:40:46Z,1,8,imsomilg,freeCodeCamp,freeCodeCamp
 630267e8d6a129866e79d197d961f11c5ee61161,fix(curriculum): clarify descendant combinator ancestor definition (#…,2026-06-30T17:37:33Z,1,2,thePranav-kpk,freeCodeCamp,freeCodeCamp
@@ -640,13 +662,3 @@ a72fe073991cf3c824da02a4ff2e991ac8b0a4a8,revert(client): ensure donate button is
 72ddb7a992919375652c1ca8702527f5416e6d98,fix(curriculum): correct typos in grammar explanations (#66746),2026-04-02T16:17:36Z,1,2,amish-pratap-singh-1,freeCodeCamp,freeCodeCamp
 a2bcc848fc1a620db21d311ea5ae3548337bd647,fix: add missing empty line in decimal to binary step 35 (#66740),2026-04-02T13:10:03Z,1,1,aaryamanchanda,freeCodeCamp,freeCodeCamp
 0ac89ed1686de9fe68cdb8eaf38f6086e038d5f6,feat(curriculum): EN-B1 quiz for block 20 (#66739),2026-04-02T10:53:21Z,1,361,anastasiiauk,freeCodeCamp,freeCodeCamp
-9d9306f8c4dd6f8e323ceb56656c1a39a3c5eaa7,refactor: add session-user endpoint (#66330),2026-04-01T16:59:02Z,6,405,Sembauke,freeCodeCamp,freeCodeCamp
-b2d33b7d6844acf6f0b1b19602cb0b895db874fb,feat(curriculum): release dynamic programming module js v9 cert (#66728),2026-04-01T15:23:18Z,5,9,Ksound22,freeCodeCamp,freeCodeCamp
-2db06f745d77d1336d2e27ee0c3f67c5991ebfdd,feat(curriculum): release graphs and trees module js v9 cert (#66727),2026-04-01T15:22:28Z,9,17,Ksound22,freeCodeCamp,freeCodeCamp
-83c766f5d26582c5ea4bb747233b4212fe328f36,feat(curriculum): EN-B1 quiz for block 19 (#66712),2026-04-01T14:01:35Z,1,379,anastasiiauk,freeCodeCamp,freeCodeCamp
-2657f66f550c6844004859473c22b40f621630d2,"chore(i18n,client): processed translations (#66688)",2026-04-01T13:35:34Z,20,1272,camperbot,freeCodeCamp,freeCodeCamp
-d586b5900bfc25f32e1cf8514ef6dd0b260e9842,fix(curriculum): wrong letter in basic personal info (#66724),2026-04-01T12:32:34Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-10ae07730713b60e99dcb23b244968a7dd1040f9,fix: correct typo in documentation and localization files  (#66704),2026-04-01T10:12:37Z,6,34,afsuyadi,freeCodeCamp,freeCodeCamp
-8580ba0ace87ad584e60d46cf91bfaddfa606cf3, feat(client): ensure donate button is always visible (#66706),2026-04-01T08:05:18Z,5,251,Venkat-Entropik,freeCodeCamp,freeCodeCamp
-9721f9c59f25629840be32ba67248e5a5d2c27c5,feat(curriculum): add shortest path algo to js v9 cert (#66681),2026-04-01T06:24:12Z,29,1971,Ksound22,freeCodeCamp,freeCodeCamp
-35fccf241525d6b9202b7fa21ec02c97311afee4,feat(curriculum): add nth fibonacci number lab js v9 cert (#66720),2026-04-01T06:21:40Z,4,135,Ksound22,freeCodeCamp,freeCodeCamp
