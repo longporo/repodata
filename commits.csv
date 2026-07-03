@@ -1,4 +1,23 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+2ce73ad05e0f89e4a780f0baa65b85ae4d2c8e38,fix(curriculum): correct wording in React exports lecture (#68502),2026-07-02T21:49:22Z,1,6,suchismitab0511,freeCodeCamp,freeCodeCamp
+d06778a9237e3742ee8e3b2853d110ba4c46c057,fix(curriculum): add explanation for python string methods (#68495),2026-07-02T21:16:38Z,1,2,laxitajain,freeCodeCamp,freeCodeCamp
+e1c2e844180a87d65cc2945a96fdc5cc04f63c8f,fix(curriculum): correct typo and feedback in js libraries lecture (#…,2026-07-02T20:58:39Z,1,8,rajv2er,freeCodeCamp,freeCodeCamp
+fed0e9dcf72af05d6e428405225b403864412da9,fix(curriculum): corrected name recipe (#68491),2026-07-02T19:53:15Z,1,2,priyanshubarnwal122-ai,freeCodeCamp,freeCodeCamp
+2395ca6d38ab4490d2c9ec7abe5b733b0d9c6397,fix(curriculum): capitalize Vite challenge title for consistency (#68…,2026-07-02T17:36:44Z,1,2,homayounmmdy,freeCodeCamp,freeCodeCamp
+cdb3e1633d37da61fc56b1aa75284316141a91be,test: move edit profile modal coverage to client (#68131),2026-07-02T16:55:16Z,2,145,Sembauke,freeCodeCamp,freeCodeCamp
+2643556d70eedd9a213555c99a6260f5690ee5ce,test: move map coverage to client (#68368),2026-07-02T16:36:39Z,5,210,Sembauke,freeCodeCamp,freeCodeCamp
+e9a11fce3419a596d5be2a5ba3c3466b8e6f0b0c,test: move notes coverage to client (#68384),2026-07-02T16:24:07Z,4,129,Sembauke,freeCodeCamp,freeCodeCamp
+973c237b96b767a3fcf8b6ff7b31ba6fe02e178b,test: remove intro page playwright coverage (#68364),2026-07-02T16:06:37Z,1,13,Sembauke,freeCodeCamp,freeCodeCamp
+93cd01662a0030aa4ecea33a11436a4ec8e1de37,test: move footer coverage to client (#68258),2026-07-02T16:03:18Z,2,262,Sembauke,freeCodeCamp,freeCodeCamp
+8d87071a6f43e11d5a039279740f4f11444080d3,test: move fill-in-the-blanks coverage to client (#68233),2026-07-02T15:31:44Z,2,138,Sembauke,freeCodeCamp,freeCodeCamp
+3fc2fab74ceb1ce8ed87b7b8a1c31ca7e64f5cd3,test: move challenge title coverage to client (#68056),2026-07-02T15:22:02Z,2,189,Sembauke,freeCodeCamp,freeCodeCamp
+2bf7ed12a6b1824b3dbea2014485107f5b532546,test: move challenge description rendering to client (#68037),2026-07-02T15:16:23Z,2,54,Sembauke,freeCodeCamp,freeCodeCamp
+eaf02184eff6f5adb5fad5f88a7a2b588b4fe21c,fix: Fix recipe tracker hint (#68475),2026-07-02T14:32:29Z,1,2,Joharika11,freeCodeCamp,freeCodeCamp
+9e700bb9f1ede6d3b0636c44968ae71260721b20,fix(curriculum): correct cipher workshop typo (#68473),2026-07-02T14:26:39Z,1,2,EduardF1,freeCodeCamp,freeCodeCamp
+f150f1c3098265d38f25a85c049e1fc352989549,fix(curriculum): audit editable regions in bug emoji picker workshop …,2026-07-02T13:31:39Z,19,206,arunkumar0398,freeCodeCamp,freeCodeCamp
+fd3e1c645711f637c2495118bbd1d30f72d5df51,fix(curriculum): update description of step 33 in Decimal to Binary C…,2026-07-02T13:13:21Z,1,6,imsomilg,freeCodeCamp,freeCodeCamp
+06a57fe7a89d9ac0972da6159a1cedfc6b66deaf,fix(curriculum): correct medium difficulty lower bound (#68465),2026-07-02T10:30:55Z,1,2,AnandNair4,freeCodeCamp,freeCodeCamp
+c2996266f1a6fe1ef438e0f33231743c14032784,test: move seo coverage to client (#68390),2026-07-02T10:00:41Z,2,113,Sembauke,freeCodeCamp,freeCodeCamp
 d177ed214d91a1347f106a78dde7f34b5a7f9181,"chore(i18n,learn): update i18n-curriculum submodule (#68446)",2026-07-01T23:34:27Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 00346616097ca8220296e337beb57d0e86577528,"fix(curriculum): Method parentheses, ValidityState example, and phras…",2026-07-01T22:08:31Z,1,8,timothysmithdev,freeCodeCamp,freeCodeCamp
 5be3a55a9bde5b5adaaf893a87f945827480947a,fix(curriculum): correct grammar and reframe checkValidity question i…,2026-07-01T21:45:44Z,1,4,TheForgottenJudge,freeCodeCamp,freeCodeCamp
@@ -64,7 +83,7 @@ f1add0fc64984eb2580f1956f5ad1f62e87ab446,feat: reject FCC_ filters that are too 
 cc014f9ceed2dd618348fc504f05d874d9b67a5d,fix(curriculum): improve consistency and punctuaction (#68225),2026-06-25T08:54:40Z,1,6,PricedTuna,freeCodeCamp,freeCodeCamp
 71b316cc10791a9d1bb19f02d5cfd5141f762c7a,fix(curriculum): correct punctuation in regex quantifiers lesson (#68…,2026-06-25T07:21:34Z,1,12,Eghani,freeCodeCamp,freeCodeCamp
 2fe62f69f65cc892ee663147b0e5ecf1eeabcdf1,fix(curriculum): correct regex character class description (#68220),2026-06-25T06:39:07Z,1,4,AlistairHeus,freeCodeCamp,freeCodeCamp
-88eb7597baa8a6f2f149fb448fa9539f132ecfb3,fix(curriculum): correct grammar in js regex review lecture (#68207),2026-06-25T05:57:50Z,1,6,omar-hossam,freeCodeCamp,freeCodeCamp
+88eb7597baa8a6f2f149fb448fa9539f132ecfb3,fix(curriculum): correct grammar in js regex review lecture (#68207),2026-06-25T05:57:50Z,1,6,omarhossdev,freeCodeCamp,freeCodeCamp
 c8ff5f705cc70998aa11ecdb8d2f6726875886e8,fix(curriculum): audit editable regions for workshop-music-player (#6…,2026-06-24T20:51:56Z,42,380,bdtripp,freeCodeCamp,freeCodeCamp
 235423bc754a5ad0b22f2bd5497a013aab94a23f,"chore(i18n,learn): update i18n-curriculum submodule (#68216)",2026-06-24T18:20:16Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 d233a82638d52b96d7610bc16abf5d7c7dbe5f2d,"chore(i18n,client): processed translations (#68211)",2026-06-24T15:33:35Z,10,720,camperbot,freeCodeCamp,freeCodeCamp
@@ -658,7 +677,3 @@ bb17e37fa9fb23faceb51a05222d2f5b6ea97308,fix(curriculum): correct typo in CSS fo
 85f790c5274b1bcbb9db0c2c38226ab86cebb97b,feat(curriculum): EN-B1 quiz for block 21 (#66768),2026-04-03T13:14:36Z,1,361,anastasiiauk,freeCodeCamp,freeCodeCamp
 56d2c64df56b6c8d16b6431589087dcb71f211ed,fix(e2e): mock get-session-user (i.e. what the client requests) (#66765),2026-04-03T10:27:00Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 b24fa81f54d4155a93892bd1748d72624e3d3b57,feat(curriculum): daily challenges 246-263 (#66715),2026-04-03T07:51:51Z,41,3450,moT01,freeCodeCamp,freeCodeCamp
-a72fe073991cf3c824da02a4ff2e991ac8b0a4a8,revert(client): ensure donate button is always visible (#66754),2026-04-02T17:06:25Z,5,251,raisedadead,freeCodeCamp,freeCodeCamp
-72ddb7a992919375652c1ca8702527f5416e6d98,fix(curriculum): correct typos in grammar explanations (#66746),2026-04-02T16:17:36Z,1,2,amish-pratap-singh-1,freeCodeCamp,freeCodeCamp
-a2bcc848fc1a620db21d311ea5ae3548337bd647,fix: add missing empty line in decimal to binary step 35 (#66740),2026-04-02T13:10:03Z,1,1,aaryamanchanda,freeCodeCamp,freeCodeCamp
-0ac89ed1686de9fe68cdb8eaf38f6086e038d5f6,feat(curriculum): EN-B1 quiz for block 20 (#66739),2026-04-02T10:53:21Z,1,361,anastasiiauk,freeCodeCamp,freeCodeCamp
