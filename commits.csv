@@ -1,4 +1,8 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+2830b58cf2d990d04f753dfa792da9bcbe2d14f0,chore: update turbo to 2.10.0 (#68492),2026-07-04T02:26:23Z,7,76,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+cfddc1262989ad717350ffe62a9c9c80682ca1c8,fix: improve phrasing and punctuation in preventDefault lecture (#68516),2026-07-03T10:10:40Z,1,4,ManyaB2005,freeCodeCamp,freeCodeCamp
+a18909dea8bdd667634ae8b48151bff8975ba7cd,feat: build client translations from i18n repo (#68425),2026-07-03T08:15:08Z,45,125780,moT01,freeCodeCamp,freeCodeCamp
+6053a41d8a2862701cb55c839cfff84ce96622d5,fix(curriculum): correct title casing and grammar in Vite lecture (#6…,2026-07-03T08:11:48Z,1,6,gideon-tech,freeCodeCamp,freeCodeCamp
 2ce73ad05e0f89e4a780f0baa65b85ae4d2c8e38,fix(curriculum): correct wording in React exports lecture (#68502),2026-07-02T21:49:22Z,1,6,suchismitab0511,freeCodeCamp,freeCodeCamp
 d06778a9237e3742ee8e3b2853d110ba4c46c057,fix(curriculum): add explanation for python string methods (#68495),2026-07-02T21:16:38Z,1,2,laxitajain,freeCodeCamp,freeCodeCamp
 e1c2e844180a87d65cc2945a96fdc5cc04f63c8f,fix(curriculum): correct typo and feedback in js libraries lecture (#…,2026-07-02T20:58:39Z,1,8,rajv2er,freeCodeCamp,freeCodeCamp
@@ -670,10 +674,3 @@ a22b11743dd1b9b0d85323d11296bbbccb8aa71e,"chore(i18n,learn): update i18n-curricu
 131438e5b0f6aa7c47326109ca3734f1790f1e7f,fix(deps): update dependency typebox to v1.1.7 (#66777),2026-04-04T17:15:10Z,2,209,renovate[bot],freeCodeCamp,freeCodeCamp
 df609a00251fcf9a1e7c787cfec18723f71399ec,fix: replace instagram icon with threads icon (#66793),2026-04-04T13:41:13Z,1,4,GulshanJha00,freeCodeCamp,freeCodeCamp
 196b245a6cd31cf2dd698a8579e13b7a034f20e8,fix(tools): add a group name for clarity (#66792),2026-04-04T12:18:31Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
-1ccedf93fb1dda81a63f75c9fb562e859075e5c1,fix(curriculum): allow optional semicolon in Linked List Step 5 (#66775),2026-04-03T22:40:31Z,1,6,narasimhan-lakshmi,freeCodeCamp,freeCodeCamp
-53197ff838ecbd5e835bca6c9d8d6b624083e0d8,fix(curriculum): correct typos in lessons (#66755),2026-04-03T18:46:52Z,4,8,GalacticAvenger,freeCodeCamp,freeCodeCamp
-a11ca64a0a13433e694a8f0eb717a90e57fb7621,fix(curriculum): add empty line to editable region in Build a Decimal…,2026-04-03T17:56:39Z,1,1,narasimhan-lakshmi,freeCodeCamp,freeCodeCamp
-bb17e37fa9fb23faceb51a05222d2f5b6ea97308,fix(curriculum): correct typo in CSS foundations exercise instruction…,2026-04-03T16:54:10Z,1,2,Tiago-Vier-Preto,freeCodeCamp,freeCodeCamp
-85f790c5274b1bcbb9db0c2c38226ab86cebb97b,feat(curriculum): EN-B1 quiz for block 21 (#66768),2026-04-03T13:14:36Z,1,361,anastasiiauk,freeCodeCamp,freeCodeCamp
-56d2c64df56b6c8d16b6431589087dcb71f211ed,fix(e2e): mock get-session-user (i.e. what the client requests) (#66765),2026-04-03T10:27:00Z,1,2,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-b24fa81f54d4155a93892bd1748d72624e3d3b57,feat(curriculum): daily challenges 246-263 (#66715),2026-04-03T07:51:51Z,41,3450,moT01,freeCodeCamp,freeCodeCamp
