@@ -1,27 +1,31 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X88AAAABHp0Igg,68540,Clarify the expected return value in Step 10 of the workshop fortune teller app,OPEN,2026-07-04T10:23:38Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHp1meQ,68541,Inconsistent code in step 47 of workshop fortune teller app,OPEN,2026-07-04T10:33:18Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHp-5fw,68544,Dot notation hint in Build a Wildlife Tracker steps 8 and 9 rejects valid bracket notation solutions,OPEN,2026-07-04T11:23:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHnmRog,68532,Possible SQL syntax highlighting inconsistency for `TIMESTAMP WITH TIME ZONE`,OPEN,2026-07-03T20:53:31Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHj9gRA,68520,CSS Grid Quiz: replace distractor that is actually a correct statement,OPEN,2026-07-03T09:52:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHp-45w,68543,Fix workshop name casing and missing semicolons in the Build a Wildlife Tracker workshop,OPEN,2026-07-04T11:23:44Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABD4hlXA,67721,[Curriculum Audit] Editable region markers — v9 workshops,OPEN,2026-05-30T20:13:02Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHdxCNg,68481,Curly apostrophes and lowercase spelling inconsistency in the React components lecture,CLOSED,2026-07-02T15:35:34Z,2026-07-04T09:36:10Z,Ayush28051,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHZtoaA,68464,Step 11 of Employee Profile Generator accepts only string concatenation.,CLOSED,2026-07-02T05:57:40Z,2026-07-04T09:27:31Z,imsomilg,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHdw_Ng,68480,Curly apostrophe and ungrammatical quiz feedback in the What Is React lecture,CLOSED,2026-07-02T15:35:30Z,2026-07-04T09:25:07Z,lahoylaa,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHkDgNQ,68521,Fix grammar in Debug Camperbot's Profile Page user stories,OPEN,2026-07-03T10:05:24Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHg6RMQ,68505,Daily Coding Challenge - Max profit,CLOSED,2026-07-03T00:58:57Z,2026-07-04T09:05:08Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHkMJdw,68523,CSS Grid section uses deprecated grid-gap in quiz distractor and lecture examples,CLOSED,2026-07-03T10:27:17Z,2026-07-04T08:58:42Z,laxitajain,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHfCU9A,68496,Bug: EditorTabs has dead code and type safety issues with VisibleEditors,CLOSED,2026-07-02T18:37:31Z,2026-07-03T17:45:20Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHex48A,68494,Bug: Map formatting in console output has extra closing parenthesis,CLOSED,2026-07-02T17:59:22Z,2026-07-03T17:43:46Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF5VSbQ,68045,Daily Coding Challenge 312 (Streaming Cost): test cases land on half-cent rounding boundaries,CLOSED,2026-06-18T08:33:07Z,2026-06-29T06:59:32Z,rixyll,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHkMJdw,68523,CSS Grid section uses deprecated grid-gap in quiz distractor and lecture examples,OPEN,2026-07-03T10:27:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHSTALA,68429,Phrasing and en dash fixes in the e.preventDefault lecture,CLOSED,2026-07-01T08:41:00Z,2026-07-03T10:10:42Z,ManyaB2005,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHkDgNQ,68521,Fix grammar in Debug Camperbot's Profile Page user stories,OPEN,2026-07-03T10:05:24Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHj9gRA,68520,CSS Grid Quiz: replace distractor that is actually a correct statement,OPEN,2026-07-03T09:52:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHdxD1g,68482,"Title casing, missing article, and apostrophe issues in the Vite lecture",CLOSED,2026-07-02T15:35:38Z,2026-07-03T08:11:50Z,gideon-tech,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHjLXpA,68514,Review CSS Colors page is out of sync with the Working with Colors lecture (hex shorthand and HSL/hsla legacy syntax),OPEN,2026-07-03T08:04:56Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHg6RMQ,68505,Daily Coding Challenge - Max profit,OPEN,2026-07-03T00:58:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHgIYKw,68503,`span` never taught,OPEN,2026-07-02T21:49:44Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHdxFcA,68483,"Curly apostrophe, missing article, and missing backticks in the exports lecture",CLOSED,2026-07-02T15:35:42Z,2026-07-02T21:49:24Z,suchismitab0511,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHZtoaA,68464,Step 11 of Employee Profile Generator accepts only string concatenation.,OPEN,2026-07-02T05:57:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABG_rmWg,68337,"The Python lesson, What Are Some Common String Methods?, lists specific methods without any introduction to what a method is",CLOSED,2026-06-29T01:45:26Z,2026-07-02T21:16:40Z,laxitajain,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHdw7VQ,68478,Incorrect apostrophe and inaccurate quiz feedback in the role of JS libraries and frameworks lecture,CLOSED,2026-07-02T15:35:22Z,2026-07-02T20:58:41Z,rajv2er,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHXC7Gg,68454,Fix incorrect variable casing in Recipe Tracker Step 6 hint,CLOSED,2026-07-01T20:14:37Z,2026-07-02T19:53:17Z,priyanshubarnwal122-ai,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHBnckQ,68351,test(api): improve unit test coverage for ids utility,CLOSED,2026-06-29T08:34:50Z,2026-07-02T18:57:23Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHd0jgQ,68484,Sentence case title in the block challengeOrder for the Vite lecture,CLOSED,2026-07-02T15:43:17Z,2026-07-02T17:36:46Z,homayounmmdy,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEqRzzA,67843,PyQGIS for GIS automation and DEM mapping,OPEN,2026-06-07T15:04:36Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHdxCNg,68481,Curly apostrophes and lowercase spelling inconsistency in the React components lecture,OPEN,2026-07-02T15:35:34Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHdw_Ng,68480,Curly apostrophe and ungrammatical quiz feedback in the What Is React lecture,OPEN,2026-07-02T15:35:30Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHdw9SQ,68479,Curly apostrophes and redundant SEO wording in the Single Page Applications lecture,OPEN,2026-07-02T15:35:26Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHXDFMg,68456,Fix incorrect property name in Recipe Tracker Step 11 hint,CLOSED,2026-07-01T20:15:03Z,2026-07-02T14:32:31Z,Joharika11,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHcLdUg,68472,Typo in cipher workshop step 30,CLOSED,2026-07-02T12:15:44Z,2026-07-02T14:26:41Z,EduardF1,freeCodeCamp,freeCodeCamp
@@ -538,4 +542,3 @@ I_kwDOAbI7X8763iSM,66822,docs: CONTRIBUTING.md file is missing from the reposito
 I_kwDOAbI7X8760kT9,66812,Improve wording in JavaScript challenge for clarity,CLOSED,2026-04-05T16:53:08Z,2026-04-05T20:10:20Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87fCs8U,64735,Migrate to vitest 4,CLOSED,2025-12-18T08:31:49Z,2026-02-21T12:39:35Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X876yDkm,66808,Duplicate choices in Javascript certification,CLOSED,2026-04-05T12:33:23Z,2026-04-05T12:33:54Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X876kcpK,66788,Instagram icon redirects to Threads instead of Instagram,CLOSED,2026-04-04T06:30:55Z,2026-04-04T13:41:15Z,GulshanJha00,freeCodeCamp,freeCodeCamp
