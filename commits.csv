@@ -1,4 +1,12 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+2481cd6336c80c6f2b91f08184f83968b81b0ff6,"chore(i18n,learn): update i18n-curriculum submodule (#68556)",2026-07-04T21:55:31Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+810b2ccb63dfaa7ed585f30025574b196efc2986,fix(curriculum): editable regions in workshop fortune teller app (#68…,2026-07-04T09:56:40Z,52,1606,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+0345b064dd64ce8ea1b4d084730b276216888f22,fix(curriculum): correct apostrophes and lowercase spelling in react …,2026-07-04T09:36:08Z,1,4,Ayush28051,freeCodeCamp,freeCodeCamp
+408fa0b174aa9edd13b70e882cb3490a8d36d3e8,fix(curriculum): explicitly mention + operator in steps (#68506),2026-07-04T09:27:29Z,5,11,imsomilg,freeCodeCamp,freeCodeCamp
+1b91ade35f5fc87f8458b78d3201c18a7310d81d,fix: correct grammar in What is React lecture (#68533),2026-07-04T09:25:05Z,1,8,lahoylaa,freeCodeCamp,freeCodeCamp
+6bb5a369b516a0c5fd8e189fe0fb052666bddea1,fix(curriculum): daily challenge 326 max profit missing point update …,2026-07-04T09:05:07Z,2,2,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+e36c414b4fc21a5f5b7dcca06a45fcfd7df98afa,fix(curriculum): remove usage and occurence of deprecated grid-gap (#…,2026-07-04T08:58:41Z,3,6,laxitajain,freeCodeCamp,freeCodeCamp
+03a3a0e2065ce276544d5845fad98c92eee62291,chore(curriculum): change to US spelling behavior (#68536),2026-07-04T08:50:23Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
 2830b58cf2d990d04f753dfa792da9bcbe2d14f0,chore: update turbo to 2.10.0 (#68492),2026-07-04T02:26:23Z,7,76,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 cfddc1262989ad717350ffe62a9c9c80682ca1c8,fix: improve phrasing and punctuation in preventDefault lecture (#68516),2026-07-03T10:10:40Z,1,4,ManyaB2005,freeCodeCamp,freeCodeCamp
 a18909dea8bdd667634ae8b48151bff8975ba7cd,feat: build client translations from i18n repo (#68425),2026-07-03T08:15:08Z,45,125780,moT01,freeCodeCamp,freeCodeCamp
@@ -667,10 +675,3 @@ f5544cef03a9101a3779d7229542172b15ab9f8c,"feat(i18n, learn): remove Korean from 
 401b0b923dfd257e618e6e870d6b55be3bbe3930,"chore(i18n,learn): update i18n-curriculum submodule (#66820)",2026-04-06T00:17:57Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 a2c9bdd8ba2d65ca3d1d8a3b13a672fd03e7cef2,fix(curriculum): correct incomplete code snippet in example question …,2026-04-06T00:08:31Z,1,2,TuomasJalonen,freeCodeCamp,freeCodeCamp
 f3e3d9de5d96d391bee0b1de14bdc3e7ba3fb9ae,fix(deps): update dependency typebox to v1.1.9 (#66805),2026-04-05T13:28:50Z,2,209,renovate[bot],freeCodeCamp,freeCodeCamp
-f1bb8240b01a279945ee7db2b90cf746a64b0846,fix(deps): update dependency typebox to v1.1.8 (#66798),2026-04-04T21:13:50Z,2,209,renovate[bot],freeCodeCamp,freeCodeCamp
-a22b11743dd1b9b0d85323d11296bbbccb8aa71e,"chore(i18n,learn): update i18n-curriculum submodule (#66691)",2026-04-04T19:55:38Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-6d06509de4ebd74d8dbf2dee2630bf9bedecba9d,chore(deps): update crowdin/github-action action to v2.16.0 (#66778),2026-04-04T17:16:01Z,3,22,renovate[bot],freeCodeCamp,freeCodeCamp
-3f42b31e5762324ef451d03ff788afa41955f55d,fix(deps): update dependency @aws-sdk/client-ses to v3.1019.0 (#66758),2026-04-04T17:15:58Z,2,193,renovate[bot],freeCodeCamp,freeCodeCamp
-131438e5b0f6aa7c47326109ca3734f1790f1e7f,fix(deps): update dependency typebox to v1.1.7 (#66777),2026-04-04T17:15:10Z,2,209,renovate[bot],freeCodeCamp,freeCodeCamp
-df609a00251fcf9a1e7c787cfec18723f71399ec,fix: replace instagram icon with threads icon (#66793),2026-04-04T13:41:13Z,1,4,GulshanJha00,freeCodeCamp,freeCodeCamp
-196b245a6cd31cf2dd698a8579e13b7a034f20e8,fix(tools): add a group name for clarity (#66792),2026-04-04T12:18:31Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
