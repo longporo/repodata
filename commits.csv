@@ -1,4 +1,10 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+9641b76bf5730d35c4e23182c7302cf412d162b4,fix(curriculum): make step 47 target handling consistent (#68548),2026-07-05T18:47:40Z,1,4,itsabhay1,freeCodeCamp,freeCodeCamp
+c68095ebbd2b3515d7b998cb0fa77b334c721cfc,fix(curriculum): remove dot notation from step 8 and 9 in Build a Wil…,2026-07-05T18:40:41Z,2,12,imsomilg,freeCodeCamp,freeCodeCamp
+62a50c4d3139c31394898e2cf8a240ef1b9ea0ab,fix(curriculum): update grid quiz distractor (#68542),2026-07-05T18:32:40Z,1,2,ankush2311025,freeCodeCamp,freeCodeCamp
+e474e24671a4ccb1b9d98454f65800ed6b3a1254,fix: correct grammar in Debug Camperbot's Profile Page user stories (…,2026-07-05T18:29:57Z,1,4,virendra9768,freeCodeCamp,freeCodeCamp
+25a9ddf5e547dc26a78745ecb3522c416a8db52b,fix(curriculum): fixed basic typos in wildlife tracker workshop (#68552),2026-07-05T18:28:39Z,4,8,yashvi-jain,freeCodeCamp,freeCodeCamp
+43c2a5f089940756be11255db194493d85b0e2fc,fix(curriculum): align CSS Colors review with lecture content (#68522),2026-07-05T18:24:11Z,1,13,AnandNair4,freeCodeCamp,freeCodeCamp
 2481cd6336c80c6f2b91f08184f83968b81b0ff6,"chore(i18n,learn): update i18n-curriculum submodule (#68556)",2026-07-04T21:55:31Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 810b2ccb63dfaa7ed585f30025574b196efc2986,fix(curriculum): editable regions in workshop fortune teller app (#68…,2026-07-04T09:56:40Z,52,1606,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 0345b064dd64ce8ea1b4d084730b276216888f22,fix(curriculum): correct apostrophes and lowercase spelling in react …,2026-07-04T09:36:08Z,1,4,Ayush28051,freeCodeCamp,freeCodeCamp
@@ -672,6 +678,3 @@ f12b1227b45b0b1100e2ee82543872cd22f00a21,fix(GHA): add keys for email and socrat
 8ba6e4d72c5c566a281ca2cde19f7dfa6a181c1f,fix(curriculum): singular form of verb to match subject (#66824),2026-04-06T12:06:12Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 ae5926ba40ec4cdf516d714224dcf300a39f217b,fix(i18n): align Chinese A1 chapter 3/4 icons with Spanish (#66830),2026-04-06T11:35:56Z,2,11,Sembauke,freeCodeCamp,freeCodeCamp
 f5544cef03a9101a3779d7229542172b15ab9f8c,"feat(i18n, learn): remove Korean from nonAuditedSuperBlocks (#66823)",2026-04-06T10:28:02Z,1,38,DanielRosa74,freeCodeCamp,freeCodeCamp
-401b0b923dfd257e618e6e870d6b55be3bbe3930,"chore(i18n,learn): update i18n-curriculum submodule (#66820)",2026-04-06T00:17:57Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-a2c9bdd8ba2d65ca3d1d8a3b13a672fd03e7cef2,fix(curriculum): correct incomplete code snippet in example question …,2026-04-06T00:08:31Z,1,2,TuomasJalonen,freeCodeCamp,freeCodeCamp
-f3e3d9de5d96d391bee0b1de14bdc3e7ba3fb9ae,fix(deps): update dependency typebox to v1.1.9 (#66805),2026-04-05T13:28:50Z,2,209,renovate[bot],freeCodeCamp,freeCodeCamp
