@@ -1,15 +1,23 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X88AAAABHvEQpA,68569,pnpm run seed fails with ENOENT: no such file or directory for curriculum/i18n-curriculum/client,OPEN,2026-07-05T19:06:10Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHp1meQ,68541,Inconsistent code in step 47 of workshop fortune teller app,CLOSED,2026-07-04T10:33:18Z,2026-07-05T18:47:41Z,itsabhay1,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHp-5fw,68544,Dot notation hint in Build a Wildlife Tracker steps 8 and 9 rejects valid bracket notation solutions,CLOSED,2026-07-04T11:23:48Z,2026-07-05T18:40:43Z,imsomilg,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHu9qMw,68567,Failed to set up chrome-headless-shell during `pnpm install` in WSL,OPEN,2026-07-05T18:32:24Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHj9gRA,68520,CSS Grid Quiz: replace distractor that is actually a correct statement,CLOSED,2026-07-03T09:52:08Z,2026-07-05T18:32:42Z,ankush2311025;majestic-owl448,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHkDgNQ,68521,Fix grammar in Debug Camperbot's Profile Page user stories,CLOSED,2026-07-03T10:05:24Z,2026-07-05T18:29:58Z,majestic-owl448;virendra9768,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHp-45w,68543,Fix workshop name casing and missing semicolons in the Build a Wildlife Tracker workshop,CLOSED,2026-07-04T11:23:44Z,2026-07-05T18:28:41Z,yashvi-jain,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHgIYKw,68503,`span` never taught,OPEN,2026-07-02T21:49:44Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHjLXpA,68514,Review CSS Colors page is out of sync with the Working with Colors lecture (hex shorthand and HSL/hsla legacy syntax),CLOSED,2026-07-03T08:04:56Z,2026-07-05T18:24:13Z,AnandNair4,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHp0Igg,68540,Clarify the expected return value in Step 10 of the workshop fortune teller app,OPEN,2026-07-04T10:23:38Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHp1meQ,68541,Inconsistent code in step 47 of workshop fortune teller app,OPEN,2026-07-04T10:33:18Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHp-5fw,68544,Dot notation hint in Build a Wildlife Tracker steps 8 and 9 rejects valid bracket notation solutions,OPEN,2026-07-04T11:23:48Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHnmRog,68532,Possible SQL syntax highlighting inconsistency for `TIMESTAMP WITH TIME ZONE`,OPEN,2026-07-03T20:53:31Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHj9gRA,68520,CSS Grid Quiz: replace distractor that is actually a correct statement,OPEN,2026-07-03T09:52:08Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHp-45w,68543,Fix workshop name casing and missing semicolons in the Build a Wildlife Tracker workshop,OPEN,2026-07-04T11:23:44Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHu1MFw,68566,"Remove <code> tags from ""hex codes"" in the CSS Colors Review intro copy",OPEN,2026-07-05T17:46:31Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHu01RA,68565,"Fix errors in the src/alt attribute sentence in the ""What Are Attributes, and How Do They Work?"" lecture",OPEN,2026-07-05T17:44:31Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHu0yaQ,68564,"Fix writing errors in the ""What Role Does HTML Play on the Web?"" lecture",OPEN,2026-07-05T17:44:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABD4hlXA,67721,[Curriculum Audit] Editable region markers — v9 workshops,OPEN,2026-05-30T20:13:02Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABG6HAFA,68309,Weather App - two tests require an arrow function to be declared with let,OPEN,2026-06-27T13:48:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHnmRog,68532,Possible SQL syntax highlighting inconsistency for `TIMESTAMP WITH TIME ZONE`,OPEN,2026-07-03T20:53:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHdxCNg,68481,Curly apostrophes and lowercase spelling inconsistency in the React components lecture,CLOSED,2026-07-02T15:35:34Z,2026-07-04T09:36:10Z,Ayush28051,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHZtoaA,68464,Step 11 of Employee Profile Generator accepts only string concatenation.,CLOSED,2026-07-02T05:57:40Z,2026-07-04T09:27:31Z,imsomilg,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHdw_Ng,68480,Curly apostrophe and ungrammatical quiz feedback in the What Is React lecture,CLOSED,2026-07-02T15:35:30Z,2026-07-04T09:25:07Z,lahoylaa,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHkDgNQ,68521,Fix grammar in Debug Camperbot's Profile Page user stories,OPEN,2026-07-03T10:05:24Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHg6RMQ,68505,Daily Coding Challenge - Max profit,CLOSED,2026-07-03T00:58:57Z,2026-07-04T09:05:08Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHkMJdw,68523,CSS Grid section uses deprecated grid-gap in quiz distractor and lecture examples,CLOSED,2026-07-03T10:27:17Z,2026-07-04T08:58:42Z,laxitajain,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHfCU9A,68496,Bug: EditorTabs has dead code and type safety issues with VisibleEditors,CLOSED,2026-07-02T18:37:31Z,2026-07-03T17:45:20Z,,freeCodeCamp,freeCodeCamp
@@ -17,8 +25,6 @@ I_kwDOAbI7X88AAAABHex48A,68494,Bug: Map formatting in console output has extra c
 I_kwDOAbI7X88AAAABF5VSbQ,68045,Daily Coding Challenge 312 (Streaming Cost): test cases land on half-cent rounding boundaries,CLOSED,2026-06-18T08:33:07Z,2026-06-29T06:59:32Z,rixyll,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHSTALA,68429,Phrasing and en dash fixes in the e.preventDefault lecture,CLOSED,2026-07-01T08:41:00Z,2026-07-03T10:10:42Z,ManyaB2005,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHdxD1g,68482,"Title casing, missing article, and apostrophe issues in the Vite lecture",CLOSED,2026-07-02T15:35:38Z,2026-07-03T08:11:50Z,gideon-tech,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHjLXpA,68514,Review CSS Colors page is out of sync with the Working with Colors lecture (hex shorthand and HSL/hsla legacy syntax),OPEN,2026-07-03T08:04:56Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHgIYKw,68503,`span` never taught,OPEN,2026-07-02T21:49:44Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHdxFcA,68483,"Curly apostrophe, missing article, and missing backticks in the exports lecture",CLOSED,2026-07-02T15:35:42Z,2026-07-02T21:49:24Z,suchismitab0511,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABG_rmWg,68337,"The Python lesson, What Are Some Common String Methods?, lists specific methods without any introduction to what a method is",CLOSED,2026-06-29T01:45:26Z,2026-07-02T21:16:40Z,laxitajain,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHdw7VQ,68478,Incorrect apostrophe and inaccurate quiz feedback in the role of JS libraries and frameworks lecture,CLOSED,2026-07-02T15:35:22Z,2026-07-02T20:58:41Z,rajv2er,freeCodeCamp,freeCodeCamp
@@ -60,7 +66,6 @@ I_kwDOAbI7X88AAAABDWxZLw,67605,RDB: Build Five Programs workshop gives an invali
 I_kwDOAbI7X87g1bTz,64939,Campers are unable to claim certifications despite meeting qualifications,CLOSED,2025-12-31T06:29:03Z,2026-01-06T12:42:44Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABG5sJKA,68292,Incorrect GNU capitalization in the SSH and GPG keys lecture,CLOSED,2026-06-27T11:26:42Z,2026-06-30T08:20:41Z,lMedeirosl,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABG5sLdQ,68295,"Comma splice, mismatched remote URL, and grammar issue in the contributing lecture",CLOSED,2026-06-27T11:26:53Z,2026-06-30T06:55:31Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABG6HAFA,68309,Weather App - two tests require an arrow function to be declared with let,OPEN,2026-06-27T13:48:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABG_4b2w,68338,Linked list workshop step 2 does not accept arrow function syntax,CLOSED,2026-06-29T02:44:09Z,2026-06-29T08:24:06Z,imsomilg,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABG466Og,68285,"Punctuation, boolean casing, and backtick issues in the binary search lecture",CLOSED,2026-06-27T07:27:59Z,2026-06-29T20:45:03Z,Vivek1537,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
@@ -173,7 +178,6 @@ I_kwDOAbI7X88AAAABFnfu8w,67984,Coding Challenge 310: British to American - typo 
 I_kwDOAbI7X88AAAABFkjDnQ,67978,Replace curly apostrophes in Links and Images lessons A-D,CLOSED,2026-06-15T20:55:40Z,2026-06-16T10:01:18Z,kanan010506,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFn3sSQ,67987,[phantomstars] Automated fake-engagement analysis — for information only,CLOSED,2026-06-16T08:09:58Z,2026-06-16T08:17:28Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFLkhSQ,67896,dockerCI/CD pipeline issue,CLOSED,2026-06-11T17:11:30Z,2026-06-11T20:05:29Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABFmBMXA,67979,tether to mis,CLOSED,2026-06-16T02:03:48Z,2026-06-16T03:43:57Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABET4KlQ,67800,Daily Challenge 07 February 2026,CLOSED,2026-06-03T22:52:23Z,2026-06-15T17:47:11Z,mariamanbar,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPE9T,64122,Lab – Traffic Light Sequencer,CLOSED,2025-11-25T03:45:02Z,2026-06-15T17:26:44Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFZDdFA,67939,examples in CSS Flexbox Review are missing stylesheet links,CLOSED,2026-06-13T20:05:44Z,2026-06-15T11:32:01Z,TEE0207,freeCodeCamp,freeCodeCamp
@@ -536,9 +540,3 @@ I_kwDOAbI7X877E_MY,66834,Layout inconsistency in 'Introduction to Common Searchi
 I_kwDOAbI7X87RXna-,62778,CSS Projects Availability Table: Enhance Table Accessibility with ARIA and Captions,OPEN,2025-10-13T19:59:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8769VVI,66828,forno d'oro,CLOSED,2026-04-06T07:51:37Z,2026-04-06T07:53:23Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X8766AGm,66825,关于 freeCodeCamp 的一些建议与资源分享,CLOSED,2026-04-06T04:22:34Z,2026-04-06T05:03:36Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X876xNvE,66802,Fix incomplete code snippet in Bash scripting lecture,CLOSED,2026-04-05T10:33:53Z,2026-04-06T00:08:34Z,TuomasJalonen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8763Fbn,66819,Mobile navigation menu does not close after selecting a item on /learn,CLOSED,2026-04-05T22:45:02Z,2026-04-06T00:07:53Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8763iSM,66822,docs: CONTRIBUTING.md file is missing from the repository,CLOSED,2026-04-06T00:03:14Z,2026-04-06T00:07:11Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8760kT9,66812,Improve wording in JavaScript challenge for clarity,CLOSED,2026-04-05T16:53:08Z,2026-04-05T20:10:20Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87fCs8U,64735,Migrate to vitest 4,CLOSED,2025-12-18T08:31:49Z,2026-02-21T12:39:35Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X876yDkm,66808,Duplicate choices in Javascript certification,CLOSED,2026-04-05T12:33:23Z,2026-04-05T12:33:54Z,,freeCodeCamp,freeCodeCamp
