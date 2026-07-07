@@ -1,4 +1,15 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+ea003f85d4b55d0c4300fe6955cdb88624a0d4b8,fix: pet adoption grammar (#68592),2026-07-06T21:01:41Z,1,6,Akanshagore,freeCodeCamp,freeCodeCamp
+751f9a69e4a1af6e9aa1a599ec3021a4a35b2309,fix(client): remove code tags from hex codes (#68591),2026-07-06T20:52:32Z,1,4,ronits2407,freeCodeCamp,freeCodeCamp
+4b356a7d8337ab9255379360aacbd5e9785d0c09,fix(curriculum): correct grammar in src/alt attribute sentence (#68588),2026-07-06T20:51:26Z,1,2,ruhaanpathan,freeCodeCamp,freeCodeCamp
+0c8049e15037fb21bdc731b5d7f81f16381fa19f,fix(curriculum): update description and add test to check for const i…,2026-07-06T20:01:00Z,1,13,imsomilg,freeCodeCamp,freeCodeCamp
+75a106f1940716cda75d50372f2c296c1c77692a,fix(curriculum): Improve music player workshop wording for comma spli…,2026-07-06T17:33:31Z,2,4,bibashmanjusubedi,freeCodeCamp,freeCodeCamp
+42d416b6a34af4cc21575f0c59778e62f7a9f391,"fix(i18n, learn): fix incorrect placeholder placement (#68586)",2026-07-06T17:09:16Z,1,2,DanielRosa74,freeCodeCamp,freeCodeCamp
+7eb1cc652450bc810a42dfa1d0a75937d4935070,test: move mobile layout coverage to client (#68369),2026-07-06T14:40:13Z,2,198,Sembauke,freeCodeCamp,freeCodeCamp
+3ba56eb3d53391fcff29a9938a2b0354167e5f1f,fix(curriculum): introduce span element in accessible-audio-controlle…,2026-07-06T09:55:20Z,2,3,imsomilg,freeCodeCamp,freeCodeCamp
+df3a296bead323cb30e96b783149bdab8144fd7b,"fix: Fix writing errors in the ""What Role Does HTML Play on the Web?""…",2026-07-06T08:53:33Z,1,10,AlyssaSuri,freeCodeCamp,freeCodeCamp
+ea83deb95880c791d322f424a9fba2772c844364,fix(curriculum): clarify return value of renderCard in fortune teller…,2026-07-06T08:24:26Z,1,2,imsomilg,freeCodeCamp,freeCodeCamp
+5b71b1babd0e3f5ab68db4f80104a3a514b3a383,fix(curriculum): change period to comma in graphs (#68573),2026-07-06T08:00:59Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 9641b76bf5730d35c4e23182c7302cf412d162b4,fix(curriculum): make step 47 target handling consistent (#68548),2026-07-05T18:47:40Z,1,4,itsabhay1,freeCodeCamp,freeCodeCamp
 c68095ebbd2b3515d7b998cb0fa77b334c721cfc,fix(curriculum): remove dot notation from step 8 and 9 in Build a Wil…,2026-07-05T18:40:41Z,2,12,imsomilg,freeCodeCamp,freeCodeCamp
 62a50c4d3139c31394898e2cf8a240ef1b9ea0ab,fix(curriculum): update grid quiz distractor (#68542),2026-07-05T18:32:40Z,1,2,ankush2311025,freeCodeCamp,freeCodeCamp
@@ -674,7 +685,3 @@ e456e28f1640a44ebebd7980b6a0475581e1fa92,fix(api): update socrates endpoint (#66
 e60a299ced630caff79a6c2a317534cff282b76b,fix(curriculum): update block layout from challenge-grid to challenge…,2026-04-07T07:28:13Z,1,2,martinezharo,freeCodeCamp,freeCodeCamp
 85d7213b93c1f25242bb589b32bd8dc0b4e43147,fix(deps): update dependency typebox to v1.1.11 (#66838),2026-04-07T07:16:29Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
 f12b1227b45b0b1100e2ee82543872cd22f00a21,fix(GHA): add keys for email and socrates (#66826),2026-04-07T06:57:04Z,1,22,raisedadead,freeCodeCamp,freeCodeCamp
-18f87e605156b3ba7bf673847f1980da1c5aba75,"chore(i18n,client): processed translations (#66831)",2026-04-06T14:49:49Z,11,120,camperbot,freeCodeCamp,freeCodeCamp
-8ba6e4d72c5c566a281ca2cde19f7dfa6a181c1f,fix(curriculum): singular form of verb to match subject (#66824),2026-04-06T12:06:12Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-ae5926ba40ec4cdf516d714224dcf300a39f217b,fix(i18n): align Chinese A1 chapter 3/4 icons with Spanish (#66830),2026-04-06T11:35:56Z,2,11,Sembauke,freeCodeCamp,freeCodeCamp
-f5544cef03a9101a3779d7229542172b15ab9f8c,"feat(i18n, learn): remove Korean from nonAuditedSuperBlocks (#66823)",2026-04-06T10:28:02Z,1,38,DanielRosa74,freeCodeCamp,freeCodeCamp
