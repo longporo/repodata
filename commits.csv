@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+40f1fda4d727bf363d687fc89cf5b98ca7dfc750,"chore(i18n,learn): update i18n-curriculum submodule (#68613)",2026-07-07T21:04:43Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+20f88fac01a0802f76f070c690cf4ba2f597817e,fix(curriculum): improve HTML boilerplate consistency (#68612),2026-07-07T18:40:35Z,1,4,shivangiii18,freeCodeCamp,freeCodeCamp
+0d7ebf84991a60c52068ba6e80426f824d726c03,fix(curriculum): align data structures quiz with review (#68605),2026-07-07T17:09:00Z,1,20,AnandNair4,freeCodeCamp,freeCodeCamp
+62a6ee57e5090e794d0655e2b454ca7e85d08500,fix(curriculum): correct writing errors in fortune teller app worksho…,2026-07-07T16:27:30Z,2,4,runxii,freeCodeCamp,freeCodeCamp
+13b039bb8502991a71328c8daa41376b3fa8f5ee,fix(curriculum): fix grammar and formatting in CSS Colors Review (#68…,2026-07-07T15:34:32Z,1,12,snehaaa-16,freeCodeCamp,freeCodeCamp
+00c232215daa5798e70e51cd9d53cbeec71cf387,"chore(i18n,learn): update i18n-curriculum submodule (#68590)",2026-07-07T11:31:21Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+60b5cf014e2e254225c0ae425b5161ea4620adfb,refactor: copy client i18n files to common folder (#68582),2026-07-07T07:34:47Z,9,208,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 ea003f85d4b55d0c4300fe6955cdb88624a0d4b8,fix: pet adoption grammar (#68592),2026-07-06T21:01:41Z,1,6,Akanshagore,freeCodeCamp,freeCodeCamp
 751f9a69e4a1af6e9aa1a599ec3021a4a35b2309,fix(client): remove code tags from hex codes (#68591),2026-07-06T20:52:32Z,1,4,ronits2407,freeCodeCamp,freeCodeCamp
 4b356a7d8337ab9255379360aacbd5e9785d0c09,fix(curriculum): correct grammar in src/alt attribute sentence (#68588),2026-07-06T20:51:26Z,1,2,ruhaanpathan,freeCodeCamp,freeCodeCamp
@@ -676,12 +683,3 @@ d69f24b31bd05d9e83443c10c4b652be0cb5c5a9,refactor(tooling): allow markdownlint t
 ddac8f0593bee54752e61194bafe42107f8a90b1,feat(client): show loading icon when preview frame has not loaded yet…,2026-04-08T07:59:27Z,9,122,Sembauke,freeCodeCamp,freeCodeCamp
 3cb26fc6a3a001888a2b3c5ddf52257c8bb1d0d8,feat(curriculum): EN-B1 quiz for block 22 (#66843),2026-04-08T06:34:56Z,1,361,anastasiiauk,freeCodeCamp,freeCodeCamp
 7388dc5ff0baae256028dc113f652864879a8dab,fix(deps): update dependency typebox to v1.1.12 (#66844),2026-04-08T05:47:05Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
-e456e28f1640a44ebebd7980b6a0475581e1fa92,fix(api): update socrates endpoint (#66849),2026-04-07T22:33:23Z,2,6,raisedadead,freeCodeCamp,freeCodeCamp
-7b8273e0e0bb6394341955bed259eb0ea3e27a4a,refator(api): drop useless SES SDK (#65496),2026-04-07T22:32:52Z,8,1079,raisedadead,freeCodeCamp,freeCodeCamp
-1fb20ded39ec1e28d1c254fe0d00f8a949d041e9,fix(client): simplify search box text so less likely to ellipsis (#66…,2026-04-07T21:54:41Z,2,10,QuincyLarson,freeCodeCamp,freeCodeCamp
-2906599befba604e893e6b8717fb8d955737c083,feat: add socrates (#65430),2026-04-07T13:33:20Z,51,1971,ahmaxed,freeCodeCamp,freeCodeCamp
-2ad6e448faec629031006d5451a7d762ec9ce68d,feat(curriculum): Add type safe user profile to typescript module (#6…,2026-04-07T09:50:32Z,16,877,jdwilkin4,freeCodeCamp,freeCodeCamp
-0e8da837bef5d9a4affa1d144c0aaff9f8a5b6d3,fix(.github): correct affected page help text in issue forms (#66816),2026-04-07T07:34:52Z,2,4,NotYash1066,freeCodeCamp,freeCodeCamp
-e60a299ced630caff79a6c2a317534cff282b76b,fix(curriculum): update block layout from challenge-grid to challenge…,2026-04-07T07:28:13Z,1,2,martinezharo,freeCodeCamp,freeCodeCamp
-85d7213b93c1f25242bb589b32bd8dc0b4e43147,fix(deps): update dependency typebox to v1.1.11 (#66838),2026-04-07T07:16:29Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
-f12b1227b45b0b1100e2ee82543872cd22f00a21,fix(GHA): add keys for email and socrates (#66826),2026-04-07T06:57:04Z,1,22,raisedadead,freeCodeCamp,freeCodeCamp
