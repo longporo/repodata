@@ -1,10 +1,17 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X88AAAABIBgDLw,68616,Add white space to whitespace,OPEN,2026-07-08T01:01:59Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABIKUjpQ,68633,Remove unnecessary hint from curriculum outline workshop,OPEN,2026-07-09T02:34:52Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHMP86w,68404,Remove the ask for help button that generates a forum post,OPEN,2026-06-30T14:16:11Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABH3c_Vg,68600,"Writing errors in the ""what is UTF-8 character encoding"" lecture",CLOSED,2026-07-06T20:30:12Z,2026-07-08T18:35:38Z,pmanthan009,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABIE-m3w,68621,workshop flappy penguin step 59 test update,OPEN,2026-07-08T11:37:26Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABIGfZ-g,68627,Grammar fixes in the Build a Recipe Page lab,OPEN,2026-07-08T15:01:24Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHdw9SQ,68479,Curly apostrophes and redundant SEO wording in the Single Page Applications lecture,CLOSED,2026-07-02T15:35:26Z,2026-07-08T11:27:03Z,imsomilg,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABIDIExw,68617,Mixed tab/space indentation in Greeting Card workshop seed,OPEN,2026-07-08T06:56:32Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABD4hlXA,67721,[Curriculum Audit] Editable region markers — v9 workshops,OPEN,2026-05-30T20:13:02Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABIBgDLw,68616,Add white space to whitespace,CLOSED,2026-07-08T01:01:59Z,2026-07-08T05:46:31Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIBUpjw,68614,100K graduates for site adverts,OPEN,2026-07-08T00:21:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABH3c99A,68599,"Consistency and punctuation errors in the ""what is an HTML boilerplate"" lecture",CLOSED,2026-07-06T20:30:09Z,2026-07-07T18:40:37Z,shivangiii18,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABH5ANTQ,68602,Question in JS data structure quiz asks about material that is not covered,CLOSED,2026-07-07T01:52:35Z,2026-07-07T17:09:02Z,AnandNair4,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABH3c6FA,68597,Writing errors in two Fortune Teller App workshop steps,CLOSED,2026-07-06T20:30:02Z,2026-07-07T16:27:32Z,runxii,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABD4hlXA,67721,[Curriculum Audit] Editable region markers — v9 workshops,OPEN,2026-05-30T20:13:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABH3aTaA,68595,Grammar and formatting fixes in the CSS Colors Review page,CLOSED,2026-07-06T20:23:54Z,2026-07-07T15:34:34Z,snehaaa-16,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHvEQpA,68569,pnpm run seed fails with ENOENT: no such file or directory for curriculum/i18n-curriculum/client,CLOSED,2026-07-05T19:06:10Z,2026-07-07T07:34:48Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGcgkZQ,68179,forum notifications panel is not shown completely,OPEN,2026-06-23T16:05:51Z,,,freeCodeCamp,freeCodeCamp
@@ -12,7 +19,6 @@ I_kwDOAbI7X87zgfgI,66515,Success message after logging out,OPEN,2026-03-16T23:47
 I_kwDOAbI7X88AAAABHyCywQ,68577,Grammar issues in the Debug a Pet Adoption Page lab,CLOSED,2026-07-06T08:08:39Z,2026-07-06T21:01:43Z,Akanshagore,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHu1MFw,68566,"Remove <code> tags from ""hex codes"" in the CSS Colors Review intro copy",CLOSED,2026-07-05T17:46:31Z,2026-07-06T20:52:34Z,ronits2407,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHu01RA,68565,"Fix errors in the src/alt attribute sentence in the ""What Are Attributes, and How Do They Work?"" lecture",CLOSED,2026-07-05T17:44:31Z,2026-07-06T20:51:27Z,ruhaanpathan,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABH3c_Vg,68600,"Writing errors in the ""what is UTF-8 character encoding"" lecture",OPEN,2026-07-06T20:30:12Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABH3c7PQ,68598,"Writing and formatting errors in the ""role of the link element"" lecture",OPEN,2026-07-06T20:30:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABH3bmFA,68596,Text formatting and wording errors across five steps of the Cat Photo App workshop,OPEN,2026-07-06T20:26:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABH3Vskg,68593,[bug] double exam attempt error throws,OPEN,2026-07-06T20:13:38Z,,,freeCodeCamp,freeCodeCamp
@@ -22,7 +28,6 @@ I_kwDOAbI7X88AAAABHgIYKw,68503,`span` never taught,CLOSED,2026-07-02T21:49:44Z,2
 I_kwDOAbI7X88AAAABHOM2Iw,68416,Breadth-First Search Step 1 does not accept arrow function syntax,OPEN,2026-06-30T18:55:30Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHQp8yg,68424,inflexible test in js Build a Countdown lab,OPEN,2026-07-01T03:36:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGJ8pag,68110,Auto-assign the status: waiting review label after a new commit,CLOSED,2026-06-20T19:06:05Z,2026-07-06T08:59:31Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHMP86w,68404,Remove the ask for help button that generates a forum post,OPEN,2026-06-30T14:16:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHu0yaQ,68564,"Fix writing errors in the ""What Role Does HTML Play on the Web?"" lecture",CLOSED,2026-07-05T17:44:16Z,2026-07-06T08:53:35Z,AlyssaSuri,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHp0Igg,68540,Clarify the expected return value in Step 10 of the workshop fortune teller app,CLOSED,2026-07-04T10:23:38Z,2026-07-06T08:24:27Z,imsomilg,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHu9qMw,68567,Failed to set up chrome-headless-shell during `pnpm install` in WSL,OPEN,2026-07-05T18:32:24Z,,,freeCodeCamp,freeCodeCamp
@@ -50,7 +55,6 @@ I_kwDOAbI7X88AAAABHXC7Gg,68454,Fix incorrect variable casing in Recipe Tracker S
 I_kwDOAbI7X88AAAABHBnckQ,68351,test(api): improve unit test coverage for ids utility,CLOSED,2026-06-29T08:34:50Z,2026-07-02T18:57:23Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHd0jgQ,68484,Sentence case title in the block challengeOrder for the Vite lecture,CLOSED,2026-07-02T15:43:17Z,2026-07-02T17:36:46Z,homayounmmdy,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEqRzzA,67843,PyQGIS for GIS automation and DEM mapping,OPEN,2026-06-07T15:04:36Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHdw9SQ,68479,Curly apostrophes and redundant SEO wording in the Single Page Applications lecture,OPEN,2026-07-02T15:35:26Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHXDFMg,68456,Fix incorrect property name in Recipe Tracker Step 11 hint,CLOSED,2026-07-01T20:15:03Z,2026-07-02T14:32:31Z,Joharika11,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHcLdUg,68472,Typo in cipher workshop step 30,CLOSED,2026-07-02T12:15:44Z,2026-07-02T14:26:41Z,EduardF1,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABG8wh-w,68322,Coding challenge(javascript-v9) - Workshop decimal to binary converter,CLOSED,2026-06-28T06:27:24Z,2026-07-02T13:13:23Z,imsomilg,freeCodeCamp,freeCodeCamp
@@ -347,7 +351,7 @@ I_kwDOAbI7X87xq4xy,66359,"Ctrl+enter brings up completion modal, when it should 
 I_kwDOAbI7X87fgeg-,64798,Mobile scrolling issue in JavaScript editor on Chrome Android,CLOSED,2025-12-20T09:12:20Z,2026-05-21T09:27:49Z,Sembauke,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCFJQGg,67344,Break up types lesson into two lessons,CLOSED,2026-05-13T03:46:19Z,2026-05-21T07:34:43Z,Sembauke;jdwilkin4,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABC28tmw,67482,centralize curriculum config helper,CLOSED,2026-05-20T13:21:54Z,2026-05-21T06:49:06Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87vdZ6-,66217,Still some double notes on superblock pages,CLOSED,2026-03-03T16:01:34Z,2026-05-20T21:11:34Z,AdityaSinghWebDev;huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87vdZ6-,66217,Still some double notes on superblock pages,CLOSED,2026-03-03T16:01:34Z,2026-05-20T21:11:34Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABC5drdA,67494,Replace string throws with Error objects,CLOSED,2026-05-20T19:45:51Z,2026-05-20T20:58:19Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCxn9Uw,67462,translation: improve French translation in client i18n files,CLOSED,2026-05-19T21:33:56Z,2026-05-20T21:00:02Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABC5KT2g,67492,Refactor duplicated logic into a single reusable function,CLOSED,2026-05-20T18:55:47Z,2026-05-20T20:59:16Z,,freeCodeCamp,freeCodeCamp
@@ -541,8 +545,3 @@ I_kwDOAbI7X876kKCz,66786,Build a Book Inventory - Unclear attribute selector ope
 I_kwDOAbI7X87aPEGx,64112,Lab – Story Fragment Shuffler,OPEN,2025-11-25T03:42:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87i1tcs,65101,Make it easier for returning campers to resume where they left off,OPEN,2026-01-12T19:39:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X876pDzU,66794,Implement a Stack has a function dependency not mentioned in instructions,CLOSED,2026-04-04T14:31:21Z,2026-04-09T06:20:12Z,Venkat,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8775Rdh,66864,分享: freeCodeCamp 在接入大语言模型接口时如何绕过风控的一些经验,CLOSED,2026-04-08T16:37:27Z,2026-04-08T16:58:53Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X875x6rf,66733,UI Enhancement: Improve homepage visual hierarchy and button differentiation,CLOSED,2026-04-02T00:11:16Z,2026-04-02T12:45:48Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X8745Itr,66705,Grammatical Errors in Localization Files and Documentation,CLOSED,2026-03-31T04:43:16Z,2026-04-01T10:12:40Z,afsuyadi,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87OgFM_,62408,workshop preview modal is empty until content get loaded,CLOSED,2025-09-29T11:27:06Z,2026-04-08T07:59:29Z,Sembauke,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87oL5SA,65697,"unneeded horizontal scroll at the bottom of the browser, inside block page",CLOSED,2026-02-04T09:00:50Z,2026-04-08T06:07:14Z,,freeCodeCamp,freeCodeCamp
