@@ -1,4 +1,17 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+a6431e545eba0e2e0fa521c73e1c93f5c9bf7235,fix(curriculum): correct spelling of below in colorful boxes step 3 (…,2026-07-09T23:14:00Z,1,2,Mohith174,freeCodeCamp,freeCodeCamp
+f480b18d26263ab1e7facaec28efe03e2592b5c9,fix(curriculum): correct grammar and accuracy in HTML catalog intros …,2026-07-09T23:09:05Z,1,6,neetcodeprogress-lang,freeCodeCamp,freeCodeCamp
+f44a65764d44ac81fa2473a4e7ff48b96c6f1ca6,fix(curriculum): correct grammar and formatting in HTML SEO lessons (…,2026-07-09T19:34:14Z,2,22,kamran1711,freeCodeCamp,freeCodeCamp
+428e6c20a3dfe09b833199bb29c5a40b672883f4,fix(curriculum): improve wording in recipe page lab (#68651),2026-07-09T17:33:31Z,1,4,Jatin-saini-developer,freeCodeCamp,freeCodeCamp
+2c3bb8fa1b73d5aee3369a817622e73145fba870,fix(curriculum): update h3 hints from curriculum outline step 10 (#68…,2026-07-09T15:26:18Z,1,2,SK-Sathyavada-008,freeCodeCamp,freeCodeCamp
+7c1479196ce193a434b211751440b143158c9c48,"chore(i18n,learn): update i18n-curriculum submodule (#68632)",2026-07-09T14:14:15Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+b75420674111cb346907a35600e72379881f55a4,fix(curriculum): fix grammar and formatting in Bookstore Page worksho…,2026-07-09T11:35:31Z,2,4,qsy123-coder,freeCodeCamp,freeCodeCamp
+faf4470309500f050a34209ca4fc960e5e6fbc19,fix(curriculum): clarify only one h1 in recipe page lab (#68649),2026-07-09T11:26:02Z,1,4,clarencepenz,freeCodeCamp,freeCodeCamp
+3211defe25db455af5cea1f4a2f13832dde7b0f4,feat(curriculum): make fdl review and exam visible (#68635),2026-07-09T08:56:31Z,4,8,Ksound22,freeCodeCamp,freeCodeCamp
+581690fc7116f724924095b01c1da9ff92394123,fix(curriculum): change second person to third person (#68631),2026-07-09T08:47:39Z,1,2,PuddleOfFat,freeCodeCamp,freeCodeCamp
+7a61e17341d564985008b8a42d5829604a24e8a1,fix(curriculum): audit editable regions in workshop flappy penguin (#…,2026-07-09T07:34:36Z,104,672,imsomilg,freeCodeCamp,freeCodeCamp
+710c7a210716d6f379742f48879efe3c5829117f,fix(api): do not throw on second exam error (#68594),2026-07-09T06:54:34Z,2,66,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+e8601a3c02fbde5f2feb01ae9ac3bbcf62c08384,fix(client): use curriculum-help category for forum posts (#68629),2026-07-09T05:18:10Z,12,284,moT01,freeCodeCamp,freeCodeCamp
 e60980b232eefd2a779a3b675b980809ab7556cd,fix(curriculum): reword UTF-8 lecture (#68628),2026-07-08T18:35:35Z,1,4,pmanthan009,freeCodeCamp,freeCodeCamp
 c1ab46e3273cd8d468d69fc693716cf77f633e57,fix(client): split socrates and button analytics events (#68610),2026-07-08T12:13:22Z,5,98,ahmaxed,freeCodeCamp,freeCodeCamp
 aa0bc07758add3abb2938f7e797531894b1b2067,fix(curriculum): replace curly apostrophe and remove redundancy (#68619),2026-07-08T11:27:00Z,1,4,imsomilg,freeCodeCamp,freeCodeCamp
@@ -669,12 +682,3 @@ db9c147bc036453bc11cd3f315f946f16bbf395a,fix(deps): update dependency typebox to
 02b12ac880d4bcb95da9fa7c21d74da1931fcd4a,feat(curriculum): add bug emoji picker workshop (#63673),2026-04-13T10:40:02Z,22,3132,ihechikara,freeCodeCamp,freeCodeCamp
 8fd2d8e1b180b38b80382d87ff0eb088e8811597,fix(curriculm): missing article in explanation text (#66907),2026-04-13T06:06:50Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 9218c88686badb928d5716c7dd7cd7abf1279371,fix(deps): update dependency validator to v13.15.35 (#66884),2026-04-12T15:31:51Z,2,203,renovate[bot],freeCodeCamp,freeCodeCamp
-4bedfd797d7c41712a9df4837e55192450eb49d7,feat(curriculum): add type safe math toolkit workshop to typescript m…,2026-04-09T19:52:55Z,22,1333,jdwilkin4,freeCodeCamp,freeCodeCamp
-6ee501e85760f43360e5efcde3529e3e0ae5459f,feat(curriculum): release B1 English quizzes (#66881),2026-04-09T18:33:47Z,24,48,huyenltnguyen,freeCodeCamp,freeCodeCamp
-593e25d5968fecd597183de2ff7825e1b370dc16,feat(curriculum): release A2 English quizzes (#66880),2026-04-09T18:33:22Z,27,54,huyenltnguyen,freeCodeCamp,freeCodeCamp
-7c59c87e18f89526734d4b45f3816e866c15b4f9,fix(curriculum): b1 quizzes 13 to 24 issues (#66882),2026-04-09T18:22:51Z,2,10,DanielRosa74,freeCodeCamp,freeCodeCamp
-727dc26d6dccda5492f2dcd43181a57967e71cba,"chore(i18n,learn): update i18n-curriculum submodule (#66878)",2026-04-09T16:29:25Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-ac3c8e8b6a24a5afe2c5c2e4f5ad6b7f1a8b9f29,fix(deps): update dependency typebox to v1.1.14 (#66873),2026-04-09T15:12:36Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
-04d44aa177e753eee0470299031444be3cb1a8a6,fix(curriculam): include initStack in stack implementation requiremen…,2026-04-09T06:20:10Z,1,5,Venkat-Entropik,freeCodeCamp,freeCodeCamp
-83bf9eb062f4fa6631d0cc013536529747e0fce6,"chore(i18n,client): processed translations (#66857)",2026-04-09T06:19:03Z,20,2356,camperbot,freeCodeCamp,freeCodeCamp
-08df9ba124c7661b44538bd914e37adb384d7beb,test: use tsconfig when available (#66859),2026-04-09T04:58:07Z,1,16,ojeytonwilliams,freeCodeCamp,freeCodeCamp
