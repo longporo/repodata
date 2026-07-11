@@ -1,4 +1,16 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+1e192373bb7092a1732b01aceab38d98a3a99131,fix(curriculum): correct ordinal in Step 9 hints (#68683),2026-07-10T20:36:50Z,1,4,rarestpreet,freeCodeCamp,freeCodeCamp
+c6fb7653ed6de90fdb3793e1015b066ece984fb8,fix(client): use findBy query in profile dialog test (#68679),2026-07-10T20:09:23Z,1,2,vijaykiran06,freeCodeCamp,freeCodeCamp
+ff36c23bf364b114dc12626c298d26861e86ff66,fix(curriculum): correct grammar and formatting in HTML audio lecture…,2026-07-10T16:16:04Z,1,6,Vader069,freeCodeCamp,freeCodeCamp
+4409938d7b611376a30c07f4b1e1592c3c2c4732, fix(curriculum): replace mixed tab/space indentation in greeting car…,2026-07-10T16:14:20Z,25,74,SanthoshBalagur,freeCodeCamp,freeCodeCamp
+58cd83fe1b2bd5d72d9f840c89ec2d4a8d5a8a5e,fix(curriculum): editable regions in workshop merge sort js (#68509),2026-07-10T14:45:43Z,18,69,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+95913e14308951c7b8ee113bf4a55c488567ef0e,test: move certification rendering to client (#68036),2026-07-10T14:12:45Z,7,964,Sembauke,freeCodeCamp,freeCodeCamp
+1059767f7e0b6648bd2851e6cfc86446fc3d6112,fix: disable Sentry source-map upload/finalize,2026-07-10T11:46:27Z,3,87,raisedadead,freeCodeCamp,freeCodeCamp
+cd94fbf5b90cf282fd68788380fe500022ffad76,feat: move logs to sentry,2026-07-10T11:46:27Z,77,8131,raisedadead,freeCodeCamp,freeCodeCamp
+1f1f8a296c35f8e543d98be0a96af44a39e46e00,fix(client): include workshop/block title in Get a Hint search query …,2026-07-10T07:04:35Z,5,59,Otto-Deviant1904,freeCodeCamp,freeCodeCamp
+22d670a204bc88c102c3eb6d6ae48e345782e2a7,fix(curriculum): correct writing in link element lecture (#68667),2026-07-10T06:40:26Z,1,10,vijaykiran06,freeCodeCamp,freeCodeCamp
+d1841a3b40f2363ceb71dea057d21a5f3356b0f9,fix(curriculum): verify head is nested inside html in bookstore-page …,2026-07-10T06:34:43Z,1,2,Otto-Deviant1904,freeCodeCamp,freeCodeCamp
+ea18afa6a43cbb96816bb8bb737d6c2b8d1c8c83,fix(curriculum): correct HTML lecture punctuation (#68662),2026-07-10T04:19:21Z,2,8,Arpit483,freeCodeCamp,freeCodeCamp
 a6431e545eba0e2e0fa521c73e1c93f5c9bf7235,fix(curriculum): correct spelling of below in colorful boxes step 3 (…,2026-07-09T23:14:00Z,1,2,Mohith174,freeCodeCamp,freeCodeCamp
 f480b18d26263ab1e7facaec28efe03e2592b5c9,fix(curriculum): correct grammar and accuracy in HTML catalog intros …,2026-07-09T23:09:05Z,1,6,neetcodeprogress-lang,freeCodeCamp,freeCodeCamp
 f44a65764d44ac81fa2473a4e7ff48b96c6f1ca6,fix(curriculum): correct grammar and formatting in HTML SEO lessons (…,2026-07-09T19:34:14Z,2,22,kamran1711,freeCodeCamp,freeCodeCamp
