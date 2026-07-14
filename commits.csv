@@ -1,4 +1,21 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+c115efdd41f868d8850156f6a7a211219c35a847,fix(curriculum): correct backticks and grammar in iframe lecture (#68…,2026-07-13T23:40:20Z,1,12,RakshitKaintura,freeCodeCamp,freeCodeCamp
+4320252f7f50a9761e2805172c533fdaca8a4819,fix(curriculum): rename workshops to follow naming convention (#68794),2026-07-13T20:50:59Z,18,128,Ksound22,freeCodeCamp,freeCodeCamp
+6636e3f57238d2be2a248edaaa31a67352c8e3ff,fix: Fix grammar and code-tag issues in the Basic HTML catalog intro …,2026-07-13T17:43:07Z,1,10,YYuan02,freeCodeCamp,freeCodeCamp
+4ba262ded8c948e9f1f465b6be08a2d456f6db2a,fix(curriculum): format examples as bulleted list (#68791),2026-07-13T15:55:55Z,1,5,abyss-ux,freeCodeCamp,freeCodeCamp
+ae859b4829d612845909460ca2e471b771b28b18,fix(api): cleanup sentry noise and adjust donate logs (#68787),2026-07-13T14:19:02Z,4,32,raisedadead,freeCodeCamp,freeCodeCamp
+69d98df29ab61f22aa7f597e231457ce74760673,fix(gha): update default levels and config (#68779),2026-07-13T14:08:03Z,1,22,raisedadead,freeCodeCamp,freeCodeCamp
+ff7a0d7ab747330c24a1399bb0e647461a39e9f5,fix(curriculum): correct text in travel agency page lab (#68782),2026-07-13T12:35:26Z,1,10,Priyadharshinidhandapani,freeCodeCamp,freeCodeCamp
+2f265de79806365d4f053a17637d0c0fc9d7143b,fix(curriculum): editable regions in workshop media catalogue (#68560),2026-07-13T12:13:53Z,41,772,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+005a967c95dadc5924a6a683be4aff07cab8b00b,fix(api): scrub Mongo literals from Sentry spans (#68780),2026-07-13T11:29:18Z,3,108,raisedadead,freeCodeCamp,freeCodeCamp
+2f7bc3fc36737b77aaae41eea2e7917909cd25d8,fix(curriculum): correct apostrophe and add serial comma in Basic HTM…,2026-07-13T11:24:46Z,1,4,Jatinmor89,freeCodeCamp,freeCodeCamp
+4219d1d31db108f24af6927b9b6fe4a2bc28931a,fix(curriculum): editable regions in workshop decimal to binary conve…,2026-07-13T10:43:37Z,61,180,Ayan-Bain,freeCodeCamp,freeCodeCamp
+a6a8752fe25202de4c07c67da4ad805e37056b02,feat: add freecodecamp-os challenge types (#68439),2026-07-13T10:17:21Z,27,849,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+6e836b4df7942959eaf644a1c0412218bf003431,fix(curriculum): use Explorer helper in countup workshop step 3 (#68753),2026-07-13T08:58:50Z,1,7,laypatel13,freeCodeCamp,freeCodeCamp
+5051a6ef5f495c42ab9c489f495f12974f3154e2,fix(curriculum): format vocab introduction as bullets (#68765),2026-07-13T08:24:34Z,1,6,lennin331,freeCodeCamp,freeCodeCamp
+97e0519cdc304dedb1b2ee34ee3fa759868b713a,fix(curriculum): add missing tested requirements to travel agency lab…,2026-07-13T08:14:09Z,1,4,TemRevil,freeCodeCamp,freeCodeCamp
+e00822e71f978ce192ff2b60e5d0b809fb053239,fix(curriculum): replace regex test with Explorer AST helper in count…,2026-07-13T07:52:11Z,1,4,SanthoshBalagur,freeCodeCamp,freeCodeCamp
+96e3096ac7187239a2622fa65100f8aec4f5cf53,feat(api): tag runtime gauges with byte and millisecond units,2026-07-13T06:59:55Z,2,50,raisedadead,freeCodeCamp,freeCodeCamp
 00204db42004b233b9d2833b363d677754f5e876,fix(curriculum): move punctuation outside backticks (#68761),2026-07-12T23:46:58Z,1,8,byte-Raccoon,freeCodeCamp,freeCodeCamp
 ea906fb81537fb30ab711512a89f4db5f48550a0,fix(curriculum): add missing periods to hint text in audio/video lab …,2026-07-12T23:17:47Z,1,4,typovrak,freeCodeCamp,freeCodeCamp
 8b687701ade1cb00258b6b59e0ed40144c6508e2,fix(curriculum): audit editable regions for workshop-fcc-authors-page…,2026-07-12T12:30:04Z,27,470,bdtripp,freeCodeCamp,freeCodeCamp
@@ -695,11 +712,3 @@ dabb661d067bb01b649167fbe3a5dd030bba65a2,fix(curriculum): clarify async/await ex
 7aeefcb6779056cee280ff3e5605cd378518e51b,feat(curriculum): add workshop heritage library catalog (#66022),2026-04-14T11:22:54Z,34,3704,farchettiensis,freeCodeCamp,freeCodeCamp
 a60ccdb29360ddc94643e8c1d23f4cdc9c45fd69,feat(curriculum): add product showcase lab (#65456),2026-04-14T09:01:08Z,4,972,Dario-DC,freeCodeCamp,freeCodeCamp
 cf920c156cedcd217d6cd0088bef657585579768,fix(deps): update dependency typebox to v1.1.17 (#66926),2026-04-14T04:10:58Z,2,209,renovate[bot],freeCodeCamp,freeCodeCamp
-20529461b04c104149ff6aa643dd584822ba4640,"chore(i18n,client): processed translations (#66915)",2026-04-13T19:04:44Z,12,10576,camperbot,freeCodeCamp,freeCodeCamp
-b2daf5fef1995ac1d754337f7ea109b16afe3d31,fix: fix/build-catalog-contents (#66911),2026-04-13T15:24:29Z,2,6,ahmaxed,freeCodeCamp,freeCodeCamp
-db9c147bc036453bc11cd3f315f946f16bbf395a,fix(deps): update dependency typebox to v1.1.16 (#66903),2026-04-13T14:35:32Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
-21dd18de31208df15328e85b6377d24ba77b87a1,fix(api): increase Socrates description max length to 10000 (#66912),2026-04-13T13:58:18Z,1,2,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-88044e699034f2441b5c4cb7fff8e87054c49444,fix(gha): consolidate PR check comments into single report (#66869),2026-04-13T11:32:21Z,10,326,raisedadead,freeCodeCamp,freeCodeCamp
-6f059e8259c492886710e0769595a7d0eeb1597b,fix(client): preview button with screenreader text  (#63061),2026-04-13T10:57:29Z,6,114,a2937,freeCodeCamp,freeCodeCamp
-02b12ac880d4bcb95da9fa7c21d74da1931fcd4a,feat(curriculum): add bug emoji picker workshop (#63673),2026-04-13T10:40:02Z,22,3132,ihechikara,freeCodeCamp,freeCodeCamp
-8fd2d8e1b180b38b80382d87ff0eb088e8811597,fix(curriculm): missing article in explanation text (#66907),2026-04-13T06:06:50Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
