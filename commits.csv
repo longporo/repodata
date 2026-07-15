@@ -1,4 +1,26 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+0db99dde291cb585d416de65f36c65180d3f1f96,test: move form helper coverage to client (#68259),2026-07-14T18:53:10Z,2,184,Sembauke,freeCodeCamp,freeCodeCamp
+0f857f3b1049235fd8bcd099235bb0866ca5e02f,test: move flash rendering coverage to client (#68240),2026-07-14T18:52:44Z,2,47,Sembauke,freeCodeCamp,freeCodeCamp
+1778b198bcc2c2f58bd10a36932b6c7c0dd69865,test: move interactive editor layout coverage to client (#68361),2026-07-14T18:51:15Z,3,93,Sembauke,freeCodeCamp,freeCodeCamp
+fd2806dea67089ca46a5e1772ec7bcaae230680e,test: move image picture check coverage to client (#68349),2026-07-14T18:47:15Z,2,138,Sembauke,freeCodeCamp,freeCodeCamp
+d88378195a544b3f3d64cd6b018142173c5da45b,test: move help modal coverage to client (#68347),2026-07-14T18:46:36Z,4,534,Sembauke,freeCodeCamp,freeCodeCamp
+12bc9eda3a417d3051a8110629b4193e2e161454,test: move finish exam modal coverage to client (#68239),2026-07-14T18:44:45Z,2,211,Sembauke,freeCodeCamp,freeCodeCamp
+6091503f094d247df1247e8e9f643e9563b125b4,test: move experience validation coverage to client (#68232),2026-07-14T18:44:16Z,2,178,Sembauke,freeCodeCamp,freeCodeCamp
+ffbd5b9bd573604ab1fb11c7817ad915d793c1d3,test: move email settings coverage to client (#68132),2026-07-14T18:43:36Z,2,177,Sembauke,freeCodeCamp,freeCodeCamp
+1685181e470de8e7a015f9652822aa6e8542762a,test: move exit exam modal coverage to client (#68231),2026-07-14T18:42:12Z,2,193,Sembauke,freeCodeCamp,freeCodeCamp
+c167ea18bfef66da05ae5b3ec71574b120789c23,test: move exam survey coverage to client (#68230),2026-07-14T18:40:40Z,2,214,Sembauke,freeCodeCamp,freeCodeCamp
+a2fa2529b37098640486fc40fa162c9ac16b0af6,test: move full stack page coverage to client (#68265),2026-07-14T18:36:10Z,3,273,Sembauke,freeCodeCamp,freeCodeCamp
+9fded76b421efa2fa70f7439f67aadb1486e1c3c,feat(curriculum): add backend auth lab and workshop to main (#68809),2026-07-14T17:32:42Z,6,81,Ksound22,freeCodeCamp,freeCodeCamp
+11bcd910ebc14ed0bf300907a589fda2c60a3f2d,feat(curriculum): add backend chapter review (#68431),2026-07-14T17:26:40Z,4,893,Ksound22,freeCodeCamp,freeCodeCamp
+3e1a316389cc6599603c3dc8cae18025cb44f72e,fix(curriculum): correct iframe workshop instructions (#68824),2026-07-14T14:29:33Z,2,5,anoopraj-dev,freeCodeCamp,freeCodeCamp
+24910aeb25da3e5b3fb0eeaee364b552652e60f5,fix(curriculum): correct content and formatting gaps in Basic HTML Re…,2026-07-14T14:14:13Z,1,26,vijaykiran06,freeCodeCamp,freeCodeCamp
+7b75d418db841936b8e286ff97d19ff4a1702014,fix(curriculum): correct Cat Photo App text (#68829),2026-07-14T14:12:54Z,5,11,coyaSONG,freeCodeCamp,freeCodeCamp
+47f2f134974cabb96766268162cc1a32aa67ac34,fix(curriculum): add missing space after comma (#68827),2026-07-14T14:09:33Z,1,2,timovibes,freeCodeCamp,freeCodeCamp
+c4041b6b57e637c451f98cdd2799806e26c0fc52,fix(curriculum): allow optional whitespace in else statement tests (#…,2026-07-14T10:16:52Z,1,4,vijaykiran06,freeCodeCamp,freeCodeCamp
+8e5872afdbfb57520d5544fe26de56c955166b2b,fix: correct value/attribute terminology and grammar in working-with-…,2026-07-14T10:02:09Z,2,16,yehiahesham2938,freeCodeCamp,freeCodeCamp
+7edc2af093cccf7b6b8bdfeff85483e876765bf7,fix(curriculum): assert data state in medical data validator step 19 …,2026-07-14T09:44:14Z,1,37,typovrak,freeCodeCamp,freeCodeCamp
+a3fd029c7448c5cc7bcfc237de8a82c53a5e9e25,fix(curriculum): remove solution changes and comma splice in heart ic…,2026-07-14T06:57:36Z,2,5,saikiranrayabarapu,freeCodeCamp,freeCodeCamp
+1b46e67deee8d63f29cea21ca2a4b1299f1c6bbb,feat(api): add moderation score to ExamEnvironmentExamModeration (#68…,2026-07-14T04:30:41Z,1,4,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 c115efdd41f868d8850156f6a7a211219c35a847,fix(curriculum): correct backticks and grammar in iframe lecture (#68…,2026-07-13T23:40:20Z,1,12,RakshitKaintura,freeCodeCamp,freeCodeCamp
 4320252f7f50a9761e2805172c533fdaca8a4819,fix(curriculum): rename workshops to follow naming convention (#68794),2026-07-13T20:50:59Z,18,128,Ksound22,freeCodeCamp,freeCodeCamp
 6636e3f57238d2be2a248edaaa31a67352c8e3ff,fix: Fix grammar and code-tag issues in the Basic HTML catalog intro …,2026-07-13T17:43:07Z,1,10,YYuan02,freeCodeCamp,freeCodeCamp
@@ -707,8 +729,3 @@ be5bcd1260da30bbc1e6d4f72bce4dd186bb2755,fix(curriculum): fix test lab lightbox 
 fb9f6230f5cb0c4396cff61ed5b0f6867022869f,chore(deps): update dependency msw to v2.13.1 (#66942),2026-04-15T07:20:28Z,1,205,renovate[bot],freeCodeCamp,freeCodeCamp
 2d2f5affd7d0ffc85161f835ff715abfce697877,fix(deps): update dependency typebox to v1.1.19 (#66929),2026-04-15T07:18:31Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
 19f5f0f9ee8d7a8374cec676ee6f54f336076913,fix(curriculum):  support logic checker single quotes in step 12 vali…,2026-04-15T06:38:19Z,1,2,Venkat-Entropik,freeCodeCamp,freeCodeCamp
-dabb661d067bb01b649167fbe3a5dd030bba65a2,fix(curriculum): clarify async/await explanation in lecture content (…,2026-04-14T17:00:21Z,1,2,AyushK5ingh,freeCodeCamp,freeCodeCamp
-526e09bbf0f2e16b6134ff2fdd50f13120b929b0,feat(curriculum): adding shape manager TS workshop (#63083),2026-04-14T16:44:12Z,54,19682,Ksound22,freeCodeCamp,freeCodeCamp
-7aeefcb6779056cee280ff3e5605cd378518e51b,feat(curriculum): add workshop heritage library catalog (#66022),2026-04-14T11:22:54Z,34,3704,farchettiensis,freeCodeCamp,freeCodeCamp
-a60ccdb29360ddc94643e8c1d23f4cdc9c45fd69,feat(curriculum): add product showcase lab (#65456),2026-04-14T09:01:08Z,4,972,Dario-DC,freeCodeCamp,freeCodeCamp
-cf920c156cedcd217d6cd0088bef657585579768,fix(deps): update dependency typebox to v1.1.17 (#66926),2026-04-14T04:10:58Z,2,209,renovate[bot],freeCodeCamp,freeCodeCamp
