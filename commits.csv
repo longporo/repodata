@@ -1,4 +1,19 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+f6590d82ad81b2b34e5584e53452bd3642181dca,fix(api): submit exam metric to attempt update (#68894),2026-07-17T02:41:02Z,1,4,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+3b5fef7025b2c20d2a964f1fd07373967e9a0be9,fix(client): mirror challenge layout in RTL languages (#68881),2026-07-16T21:07:55Z,7,196,ahmaxed,freeCodeCamp,freeCodeCamp
+a76d7f35c73048d7ffe057e8b72e484d7ef8a8d8,fix(curriculum): correct CSS expansion and remove unnecessary comma (…,2026-07-16T20:10:16Z,1,4,Gaurav-7065,freeCodeCamp,freeCodeCamp
+2c72fed177e8ce3a7f75f953d03c769eb5910529,fix(curriculum): audit editable regions in space mission roster works…,2026-07-16T19:37:04Z,20,105,arunkumar0398,freeCodeCamp,freeCodeCamp
+41df57325017b36890248f47c81ff138f93f10ec,refactor: simplify api shutdown (#68852),2026-07-16T17:49:13Z,1,12,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+46d7778612ccb5a1cb356f0bae579190cfa73b4d,fix(curriculum): fix out-of-sync dialog in B1 (#68882),2026-07-16T17:00:45Z,1,52,DanielRosa74,freeCodeCamp,freeCodeCamp
+f945c94a2e207c39dc18c173373b1530e51b16b4,fix(curriculum): replace regex with explorer helper in lab javascript…,2026-07-16T16:47:22Z,1,27,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+221abc907b73e178686313546240fe59967873ed,fix(curriculum): remove transcript note from quiz with no audio (#688…,2026-07-16T16:33:11Z,1,2,Pranayd555,freeCodeCamp,freeCodeCamp
+7dfec24a26f0261fd529946bfcfdbdf510a60002,"feat(i18n, learn): add Arabic to workflow (#68603)",2026-07-16T10:25:20Z,5,74,DanielRosa74,freeCodeCamp,freeCodeCamp
+90a266f4b56900f2c206eae2f64c751e0d9b8fd1,test(client): avoid timeout in experience description validation test…,2026-07-16T10:22:13Z,1,11,majestic-owl448,freeCodeCamp,freeCodeCamp
+cf37189b130fba513b8e955f5495b4014d9340fa,fix(tests): assert step tests fail on their initial seed contents (#6…,2026-07-16T09:08:12Z,1,5,majestic-owl448,freeCodeCamp,freeCodeCamp
+e517262a7b42737424dc704a5fbd1a4ad4ef67c7,"fix(curriculum, lesson): correct grammar errors in Semantic HTML Elem…",2026-07-16T08:44:04Z,1,6,jeffrinkdev,freeCodeCamp,freeCodeCamp
+c02773f3eb9edcc6ef6484634b4d3812cbe36f83,refactor(curriculum): replace legacy helpers with Explorer AST helper…,2026-07-16T07:52:33Z,1,44,bdtripp,freeCodeCamp,freeCodeCamp
+3555deb6c11b9e3df5453dd2cc6d599c0ebf77d8,fix(curriculum): correct title case for structural hierarchy lecture …,2026-07-16T06:16:19Z,2,4,superezzdev,freeCodeCamp,freeCodeCamp
+f2a38651945ba89f46eb67a9f0b20a969cdbf4a1,feat(curriculum): mark cert projects for backend curriculum (#68834),2026-07-16T06:10:30Z,2,72,Ksound22,freeCodeCamp,freeCodeCamp
 39c57a6de13022dadb003afef95e199de8f225ea,fix(curriculum): mock the RPG Creature API in creature search project…,2026-07-16T01:53:44Z,1,54,majestic-owl448,freeCodeCamp,freeCodeCamp
 5a31c3d68df47582d3e13a3955e0ec20e5becf5e,"chore(i18n,learn): update i18n-curriculum submodule (#68863)",2026-07-15T23:47:11Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 23f7912708753024f17446edfecefa6501d63258,fix(curriculum): replace regex with explorer helper in lab traffic li…,2026-07-15T17:51:08Z,1,20,AdityaSingh-18,freeCodeCamp,freeCodeCamp
@@ -186,7 +201,7 @@ cc09bd3017809b5a6938b8e3ead3edef20b3437c,fix(client): support Monaco editor 0.55
 0fc098b47fcd36941dd4235569c23820819b320b,fix(curriculum): correct formatting and punctuation in binary search …,2026-06-29T06:47:48Z,1,4,Siddhant21007,freeCodeCamp,freeCodeCamp
 21cf06ea323686bb48105b2c687e1aa8b666c9c4,fix(curriculum): correct comma splice and verb form in git lecture (#…,2026-06-29T06:45:26Z,1,4,yzakmuz,freeCodeCamp,freeCodeCamp
 0d93096e4eeff6175204f17bd0e88e5cfac80e88,fix: Improve clarity and hyphenation in lecture notes (#68314),2026-06-29T06:33:12Z,1,4,vasslucas,freeCodeCamp,freeCodeCamp
-a3d173a712e4e7e138e527181cd855ab53f0d4d9,fix(curriculum): fix Git Bash spelling and affect/effect confusion in…,2026-06-29T06:29:44Z,1,8,menika01012006,freeCodeCamp,freeCodeCamp
+a3d173a712e4e7e138e527181cd855ab53f0d4d9,fix(curriculum): fix Git Bash spelling and affect/effect confusion in…,2026-06-29T06:29:44Z,1,8,Menika kumari,freeCodeCamp,freeCodeCamp
 098ea1274bc73a481a1e009968db902e30ed57ab,fix(curriculum): replace getFunctionParams with functionRegex to acce…,2026-06-29T06:26:32Z,1,7,imsomilg,freeCodeCamp,freeCodeCamp
 b374c15c10b0965d1e4321847d52bb6851a732bb,fix(curriculum): editing regex from workshop-colored-markers to allow…,2026-06-29T06:23:58Z,4,20,Psst02,freeCodeCamp,freeCodeCamp
 ea141885bc744301d07554ef875316abc95b8161,fix(curriculum): update questions and answers of Form Validation Quiz…,2026-06-29T06:18:40Z,1,16,imsomilg,freeCodeCamp,freeCodeCamp
@@ -730,6 +745,3 @@ e270d7a44b6f53824322c182acdae188ea46e436,fix(curriculum): add note to A2 and B1 
 a0326c12107a3b09652c414f18d45919d5f6fc68,fix(curriculum): update Python V9 setter examples to call setter in _…,2026-04-17T09:02:14Z,23,850,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 1d4a7b13c1ece2f93b9263293679004deec6053c,feat: add fortune telling app (#62167),2026-04-17T08:01:04Z,58,29259,naomi-lgbt,freeCodeCamp,freeCodeCamp
 9818bf94037783ae39be14599e3bb33760b763e9,chore(deps): update dependency @typescript/vfs to v1.6.4 (#66954),2026-04-17T05:35:33Z,2,2614,renovate[bot],freeCodeCamp,freeCodeCamp
-3514bfb9336a3afc240637a8b1af0967f6217c53,"chore(i18n,learn): update i18n-curriculum submodule (#66918)",2026-04-16T07:26:01Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-a6484203e14536daf8a31b374292393cd14a7188,fix(curriculum): update recursion check to support arrow function syn…,2026-04-16T07:20:01Z,1,3,ZeenatLawal,freeCodeCamp,freeCodeCamp
-ce6ce7bbc29d7b7796ff033d3978cece00b1d699,"chore(i18n,client): processed translations (#66947)",2026-04-16T06:53:25Z,20,416,camperbot,freeCodeCamp,freeCodeCamp
