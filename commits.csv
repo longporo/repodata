@@ -1,4 +1,12 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+bd92b67ae87e63acc6fce67ae70d5cbc15fe7fc1,fix(curriculum): correct SQL injection example syntax in Bash and SQL…,2026-07-17T16:57:09Z,1,4,AK47Kavan,freeCodeCamp,freeCodeCamp
+f459bdccaf66a86ea5f7d4328c98849c8758907d,fix(curriculum): replace regex based tests with Explorer api in logic…,2026-07-17T14:29:44Z,1,3,ritishDas,freeCodeCamp,freeCodeCamp
+f9536dee26027d96cf2cc257999d9b416bdef363,fix(curriculum): Editable region markers in workshop-note-taking-app …,2026-07-17T14:25:11Z,6,31,Vishhh03,freeCodeCamp,freeCodeCamp
+5b9b3a9676606b4f02b0d11fb62766ee5d9e93f3,fix(curriculum): correct Quincy's Job Tips errors (#68912),2026-07-17T14:04:00Z,2,8,enlorik,freeCodeCamp,freeCodeCamp
+33c3e80730015fdbab87499bc06c9ff8d3fd2d5c,refactor: make renderExperience a react component (#68880),2026-07-17T06:45:18Z,2,639,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+2c3e02f413493767ace55682e69bde7625dca6c8,test(api): speed up get-challenges test (#68884),2026-07-17T06:38:54Z,1,8,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+0d7f5239fe281e3ff8c77d7073ab7c52ebacb84a,fix(api): typed error for unsaveable challenge (#68898),2026-07-17T06:34:23Z,3,20,raisedadead,freeCodeCamp,freeCodeCamp
+e7b348d503e62949e10e7dfc565e419502f9d8e3,fix(curriculum): correct punctuation and title mismatch in text and t…,2026-07-17T06:03:05Z,3,6,duna-akin,freeCodeCamp,freeCodeCamp
 f6590d82ad81b2b34e5584e53452bd3642181dca,fix(api): submit exam metric to attempt update (#68894),2026-07-17T02:41:02Z,1,4,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 3b5fef7025b2c20d2a964f1fd07373967e9a0be9,fix(client): mirror challenge layout in RTL languages (#68881),2026-07-16T21:07:55Z,7,196,ahmaxed,freeCodeCamp,freeCodeCamp
 a76d7f35c73048d7ffe057e8b72e484d7ef8a8d8,fix(curriculum): correct CSS expansion and remove unnecessary comma (…,2026-07-16T20:10:16Z,1,4,Gaurav-7065,freeCodeCamp,freeCodeCamp
@@ -732,16 +740,3 @@ bb3ada57ca69f5772772cc33cbf76557ad926aeb,fix(deps): update dependency gatsby to 
 8085742321b131bb68eeff8088ce210c2ec6190a,fix(deps): update dependency crypto-browserify to v3.12.1 (#66986),2026-04-18T06:57:42Z,2,153,renovate[bot],freeCodeCamp,freeCodeCamp
 5a90f99f40c43da0bbe8004edf53607c6986bed8,fix(deps): update dependency @loadable/component to v5.16.7 (#66985),2026-04-18T06:57:28Z,2,14,renovate[bot],freeCodeCamp,freeCodeCamp
 b8798709359783f9843e8a4ab88572870752f4e7,"chore(i18n,learn): update i18n-curriculum submodule (#66984)",2026-04-18T06:10:34Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-b54c9317c6ed09ac3e665f51cd19bab7bcd344ab,fix(deps): update dependency @growthbook/growthbook-react to v1.6.5 (…,2026-04-17T16:57:00Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
-774a2b4d002b06b527dbde90af32b9b1a27888b1,"chore(i18n,learn): update i18n-curriculum submodule (#66977)",2026-04-17T16:56:39Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-a7f9fe91c46efa5fe9b7d7940d22b60a21b49cca,chore(deps): update testing-library (#66978),2026-04-17T16:55:28Z,2,133,renovate[bot],freeCodeCamp,freeCodeCamp
-c5ac169196917e3c91327221111ec6667abf9161,chore(deps): update dependency i18next-fs-backend to v2.6.3 (#66958),2026-04-17T15:45:29Z,2,24,renovate[bot],freeCodeCamp,freeCodeCamp
-dbea7d3e89b81713592208926e0f22459d455557,feat: create interfaces and types lab (#64659),2026-04-17T15:07:43Z,4,1687,a2937,freeCodeCamp,freeCodeCamp
-ad8984ed24944cc337bcf03da2d3d7df9083839f,chore(deps): update dependency autoprefixer to v10.4.27 (#66956),2026-04-17T14:50:35Z,2,41,renovate[bot],freeCodeCamp,freeCodeCamp
-690b83cc7d9cdbdf88862ae69cd0ba7713bf80f4,chore(deps): update dependency webpack-bundle-analyzer to v4.10.2 (#6…,2026-04-17T14:50:06Z,2,29,renovate[bot],freeCodeCamp,freeCodeCamp
-8e78172b61ac33facaf8bc1eb15b8efe1584e313,chore(deps): update dependency canvas-confetti to v1.9.4 (#66957),2026-04-17T14:49:33Z,1,8,renovate[bot],freeCodeCamp,freeCodeCamp
-56b7a6ba63f5ffcad90ea91b477725118d11c36b,chore(deps): update dependency @typescript/vfs-1.6.1 to v1.6.4 (#66955),2026-04-17T14:46:21Z,2,6,renovate[bot],freeCodeCamp,freeCodeCamp
-e270d7a44b6f53824322c182acdae188ea46e436,fix(curriculum): add note to A2 and B1 quizzes (#66976),2026-04-17T13:21:45Z,51,102,huyenltnguyen,freeCodeCamp,freeCodeCamp
-a0326c12107a3b09652c414f18d45919d5f6fc68,fix(curriculum): update Python V9 setter examples to call setter in _…,2026-04-17T09:02:14Z,23,850,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-1d4a7b13c1ece2f93b9263293679004deec6053c,feat: add fortune telling app (#62167),2026-04-17T08:01:04Z,58,29259,naomi-lgbt,freeCodeCamp,freeCodeCamp
-9818bf94037783ae39be14599e3bb33760b763e9,chore(deps): update dependency @typescript/vfs to v1.6.4 (#66954),2026-04-17T05:35:33Z,2,2614,renovate[bot],freeCodeCamp,freeCodeCamp
