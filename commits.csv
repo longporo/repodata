@@ -1,4 +1,10 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+839daddf08cf132115da8ebf55be1892a26b60d8,feat: final front end dev libs v9 changes (#68658),2026-07-18T19:59:44Z,7,20,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+94529702715c522c7d992753f70c823ccc12a0b1,fix(curriculum): rename `id` to `dev_id` in `zip()` examples to fix i…,2026-07-18T15:18:18Z,3,14,shubhthakkar06,freeCodeCamp,freeCodeCamp
+79949df1a745833ce8d30ab4e5f6693617a0610c,fix(curriculum): correct wording in specialized semantic elements lec…,2026-07-18T08:24:47Z,2,4,xusnitdinov,freeCodeCamp,freeCodeCamp
+42a9c8dc7e67d23aa8fbd24316147852e5c45482,fix(curriculum): correct its typo in Page of Playing Cards lab instru…,2026-07-18T08:12:26Z,1,4,ayush-04jha,freeCodeCamp,freeCodeCamp
+d47f24dc081acba8a9cda73f553ed7f1a7553952,fix(curriculum): reword second h3 hint in workshop-curriculum-outline…,2026-07-18T08:09:12Z,1,2,jaykumar14921,freeCodeCamp,freeCodeCamp
+24e10b5e655feedc99ad190e0ce86c6b27c89a79,fix(curriculum): replace regex-based test in profile lookup lab (#68900),2026-07-18T07:29:27Z,1,10,neetcodeprogress-lang,freeCodeCamp,freeCodeCamp
 bd92b67ae87e63acc6fce67ae70d5cbc15fe7fc1,fix(curriculum): correct SQL injection example syntax in Bash and SQL…,2026-07-17T16:57:09Z,1,4,AK47Kavan,freeCodeCamp,freeCodeCamp
 f459bdccaf66a86ea5f7d4328c98849c8758907d,fix(curriculum): replace regex based tests with Explorer api in logic…,2026-07-17T14:29:44Z,1,3,ritishDas,freeCodeCamp,freeCodeCamp
 f9536dee26027d96cf2cc257999d9b416bdef363,fix(curriculum): Editable region markers in workshop-note-taking-app …,2026-07-17T14:25:11Z,6,31,Vishhh03,freeCodeCamp,freeCodeCamp
@@ -729,14 +735,3 @@ f14bd7164822c7529b4d58a6f2aae49047caab41,chore(deps): update build tooling packa
 6b497e48e860acd0f62e34bfedb62340bb0078fb,refactor(curriculum): drop string-similarity,2026-04-19T16:55:14Z,3,91,raisedadead,freeCodeCamp,freeCodeCamp
 f4a3d38e73cdd13185e808b61fb2cf1d09da1abd,chore(deps): remove deprecated stub packages,2026-04-19T16:49:35Z,3,101,raisedadead,freeCodeCamp,freeCodeCamp
 dff49c9ee0c331085ceb0f9138b1a072aac9bc76,chore(ci): move pnpm config and pin doctl,2026-04-19T16:44:51Z,4,15,raisedadead,freeCodeCamp,freeCodeCamp
-1a214641a8694e581a304cec0e40889e895147b9,fix(deps): update dependency react-scroll to v1.9.3 (#66997),2026-04-19T02:42:10Z,2,16,renovate[bot],freeCodeCamp,freeCodeCamp
-1abeda4381476a18fb8fbb557973ab258869ecd4,fix(deps): update dependency typebox to v1.1.23 (#66998),2026-04-19T02:42:07Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
-d553a8bfa2c0d33a13fcfda67935f984838b6726,fix(deps): update dependency unist-util-find to v1.0.4 (#66999),2026-04-19T02:42:05Z,2,35,renovate[bot],freeCodeCamp,freeCodeCamp
-7c5e523aa604cb4ccb05c5971fbd02bb5d42b653,fix(curriculum): add setup instructions to first backend challenge (#…,2026-04-18T20:01:32Z,1,6,ARUSHIGULBHILE,freeCodeCamp,freeCodeCamp
-0e638a78add533ac4453866ceac1fda31792b459,fix(deps): update dependency nanoid to v3.3.11 (#66995),2026-04-18T18:56:59Z,2,17,renovate[bot],freeCodeCamp,freeCodeCamp
-cc1d1c0f765cdd81589e9ec88a31328733b65137,fix(deps): update dependency micromark to v4.0.2 (#66994),2026-04-18T18:56:57Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
-e87b7f905f988b63534ca5f65a5bf891e71259de,fix(deps): update dependency js-yaml to v3.14.2 (#66988),2026-04-18T16:51:37Z,3,24,renovate[bot],freeCodeCamp,freeCodeCamp
-bb3ada57ca69f5772772cc33cbf76557ad926aeb,fix(deps): update dependency gatsby to v5.16.1 (#66987),2026-04-18T16:51:33Z,2,85,renovate[bot],freeCodeCamp,freeCodeCamp
-8085742321b131bb68eeff8088ce210c2ec6190a,fix(deps): update dependency crypto-browserify to v3.12.1 (#66986),2026-04-18T06:57:42Z,2,153,renovate[bot],freeCodeCamp,freeCodeCamp
-5a90f99f40c43da0bbe8004edf53607c6986bed8,fix(deps): update dependency @loadable/component to v5.16.7 (#66985),2026-04-18T06:57:28Z,2,14,renovate[bot],freeCodeCamp,freeCodeCamp
-b8798709359783f9843e8a4ab88572870752f4e7,"chore(i18n,learn): update i18n-curriculum submodule (#66984)",2026-04-18T06:10:34Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
