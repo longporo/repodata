@@ -1,4 +1,6 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+0c6cc840a5432746ee6b0bc25c2343a791bd68fa,chore(deps): update github actions (#68932),2026-07-20T03:35:43Z,15,142,renovate[bot],freeCodeCamp,freeCodeCamp
+98a89a065ce01ae2390508d552d00c28689a984b,chore: secure GitHub Actions with explicit token permissions (#68940),2026-07-20T03:34:34Z,3,6,mariamanbar,freeCodeCamp,freeCodeCamp
 839daddf08cf132115da8ebf55be1892a26b60d8,feat: final front end dev libs v9 changes (#68658),2026-07-18T19:59:44Z,7,20,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 94529702715c522c7d992753f70c823ccc12a0b1,fix(curriculum): rename `id` to `dev_id` in `zip()` examples to fix i…,2026-07-18T15:18:18Z,3,14,shubhthakkar06,freeCodeCamp,freeCodeCamp
 79949df1a745833ce8d30ab4e5f6693617a0610c,fix(curriculum): correct wording in specialized semantic elements lec…,2026-07-18T08:24:47Z,2,4,xusnitdinov,freeCodeCamp,freeCodeCamp
@@ -725,13 +727,3 @@ b6070b8357d177895a5a1ebb9ae511b1203780c4,fix(deps): pin out of range transitive 
 a04b483da92c2d90167ef0085b2ffb162a179353,fix(tools): update challenge-editor submodule (#67016),2026-04-20T08:16:18Z,1,2,majestic-owl448,freeCodeCamp,freeCodeCamp
 25d3079089934343aea7e1611fb7ff6edcdb51dd,fix(curriculum): repair failing tests for doubly linked list challeng…,2026-04-20T08:05:54Z,1,69,AyushK5ingh,freeCodeCamp,freeCodeCamp
 983b249de08f61dafec5985fb5c12cdd4535b3ef,test(client): stabilize UI regression tests,2026-04-20T04:31:26Z,17,1660,raisedadead,freeCodeCamp,freeCodeCamp
-e88d5609e533c997b746003bd832b6dcf1682f12,fix(deps): update client runtime packages,2026-04-19T17:54:42Z,7,322,raisedadead,freeCodeCamp,freeCodeCamp
-17602c2e343081dc9e85c7a2a421feee89e525ce,fix(deps): update React to 18.3.1,2026-04-19T17:50:07Z,2,760,raisedadead,freeCodeCamp,freeCodeCamp
-ba46a1bb363b19b0ef468f5aca779e651d17afef,fix(deps): update runtime and test packages,2026-04-19T17:45:01Z,3,801,raisedadead,freeCodeCamp,freeCodeCamp
-2cd6bedce46c9aabcb356b60f80923389ba56d86,chore(deps): update html-eslint react plugin,2026-04-19T17:36:12Z,2,158,raisedadead,freeCodeCamp,freeCodeCamp
-f14bd7164822c7529b4d58a6f2aae49047caab41,chore(deps): update build tooling packages,2026-04-19T17:31:22Z,4,546,raisedadead,freeCodeCamp,freeCodeCamp
-1765614f982bcca8a478ade44d2fc58bef56880a,chore(deps): update repo tooling packages,2026-04-19T17:26:27Z,5,719,raisedadead,freeCodeCamp,freeCodeCamp
-7a5a6a40356a4ec99b5000d38a166b2efbf24ef7,chore(deps): replace deprecated xterm packages,2026-04-19T17:00:12Z,4,139,raisedadead,freeCodeCamp,freeCodeCamp
-6b497e48e860acd0f62e34bfedb62340bb0078fb,refactor(curriculum): drop string-similarity,2026-04-19T16:55:14Z,3,91,raisedadead,freeCodeCamp,freeCodeCamp
-f4a3d38e73cdd13185e808b61fb2cf1d09da1abd,chore(deps): remove deprecated stub packages,2026-04-19T16:49:35Z,3,101,raisedadead,freeCodeCamp,freeCodeCamp
-dff49c9ee0c331085ceb0f9138b1a072aac9bc76,chore(ci): move pnpm config and pin doctl,2026-04-19T16:44:51Z,4,15,raisedadead,freeCodeCamp,freeCodeCamp
