@@ -1,4 +1,18 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+adf94d0709054dcbeb6f013e8d45896efb0f29b2,fix(curriculum): correct text in nuanced semantic elements lectures (…,2026-07-20T17:52:45Z,2,6,Atishay17,freeCodeCamp,freeCodeCamp
+7e18304d6369864a7f101d6bb1c27c824e73e088,fix(curriculum): align N-Queens lab title (#68944),2026-07-20T16:08:16Z,1,6,adranjan4,freeCodeCamp,freeCodeCamp
+f5662bd8f88062a66a0144b14d51aeab2d456724,refactor(curriculum): replace regex with AST helpers in Mathbot Works…,2026-07-20T15:52:00Z,16,185,yashvi-jain,freeCodeCamp,freeCodeCamp
+aef57f35d27e4d2672562bd939474dc14f6c3734,fix(curriculum): rework head-section hints for Recipe Page lab (#68792),2026-07-20T15:26:29Z,1,36,SanthoshBalagur,freeCodeCamp,freeCodeCamp
+2b332f5bf477ef5bbc66e723c2a14bf4152b1bb0,fix(curriculum): fix editable regions for workshop discount calculato…,2026-07-20T15:11:26Z,30,84,harshlm15,freeCodeCamp,freeCodeCamp
+349ac6b5ce9b7fea4f6c0d88ab7391611c517165,fix(client): remove lower jaw (#68916),2026-07-20T12:53:16Z,29,1749,ahmaxed,freeCodeCamp,freeCodeCamp
+dca87f96bbe6bea6f7c3f07f7970cf790430d155,fix(curriculum): replace regex test with Explorer AST helper in strin…,2026-07-20T10:49:31Z,1,4,eng-abdelrahman-sharaf,freeCodeCamp,freeCodeCamp
+b0e4cf2148936b17d3e2518b5d64a34c8ca109ef,fix(curriculum): consistent indentation in Build a List of Major Web …,2026-07-20T09:51:15Z,7,260,YYuan02,freeCodeCamp,freeCodeCamp
+975bb6c99c28d9a4da7703a7ae6eb0714f45912d,fix(curriculum): audit editable regions in workshop debug coding jour…,2026-07-20T09:39:38Z,9,34,arunkumar0398,freeCodeCamp,freeCodeCamp
+916bda2c21231b4947ebafadfafac25a9bb822fd,fix(curriculum): use getStyleAny to accept reordered compound class s…,2026-07-20T09:26:18Z,13,116,imsomilg,freeCodeCamp,freeCodeCamp
+c1e29ce1e786af1b1dcce1c95b554baed9e4923d,fix(curriculum): Editable region markers in workshop-heritage-library…,2026-07-20T09:11:26Z,18,43,Vishhh03,freeCodeCamp,freeCodeCamp
+8f1dfa83a08a2e5c6065a0dc49dd4fdc95ccdcf7,fix(curriculum): editable regions in workshop merge sort (#68925),2026-07-20T09:01:47Z,24,230,AdityaSingh-18,freeCodeCamp,freeCodeCamp
+2ca7c7c7d15d27a833554bf5ec32573851e5be66,fix(curriculum): correct wording and add missing focus state in links…,2026-07-20T08:37:36Z,2,12,kaushik552k,freeCodeCamp,freeCodeCamp
+95cf685d2ce0649730938399c10be0cef09938ad,fix(curriculum): remove redundant wording in times and dates lecture …,2026-07-20T07:42:40Z,1,6,spacesyntaxwho,freeCodeCamp,freeCodeCamp
 0c6cc840a5432746ee6b0bc25c2343a791bd68fa,chore(deps): update github actions (#68932),2026-07-20T03:35:43Z,15,142,renovate[bot],freeCodeCamp,freeCodeCamp
 98a89a065ce01ae2390508d552d00c28689a984b,chore: secure GitHub Actions with explicit token permissions (#68940),2026-07-20T03:34:34Z,3,6,mariamanbar,freeCodeCamp,freeCodeCamp
 839daddf08cf132115da8ebf55be1892a26b60d8,feat: final front end dev libs v9 changes (#68658),2026-07-18T19:59:44Z,7,20,ShaunSHamilton,freeCodeCamp,freeCodeCamp
@@ -714,16 +728,3 @@ a381d7f20fb7684656686138474cd1e44665c00b,chore(deps): update dependency stylelin
 641585f41944864a0f46097ceeb29b0c1a2907f4,fix(curriculum): clarify step 9 instructions in emoji reactor worksho…,2026-04-21T08:55:38Z,1,2,AyushK5ingh,freeCodeCamp,freeCodeCamp
 93ccbf8cafbc33b67b1d744adc1873a4b8086a74,chore(deps): update dependency mongodb to v6.21.0 (#67028),2026-04-21T08:39:26Z,4,54,renovate[bot],freeCodeCamp,freeCodeCamp
 39408b3c832d78783593c45709bb9facfa921e38,chore: land failing renovate updates (#67035),2026-04-21T08:32:02Z,24,1096,raisedadead,freeCodeCamp,freeCodeCamp
-32c65547ac482a3d90ce733c00430e3dc163fd7b,feat(curriculum): Add A1 Spanish Describing People at Work Module (#6…,2026-04-20T21:10:02Z,141,18180,estefaniacn,freeCodeCamp,freeCodeCamp
-b72906085e2f82b896c49e8c7f177a119f3bf4d7,feat(curriculum): add workshop-word-counter to JS v9 cert (#64012),2026-04-20T17:35:47Z,14,729,l3onhard,freeCodeCamp,freeCodeCamp
-cba60d8511a31405afc13e05caa041234447003e,feat: add flashcard quiz app lab (#62166),2026-04-20T17:33:28Z,4,719,naomi-lgbt,freeCodeCamp,freeCodeCamp
-7de997f37e08f2c3c59c781de563d4b5d1945b05,fix(client): use session-user endpoint on client (#66961),2026-04-20T16:32:26Z,2,13,Sembauke,freeCodeCamp,freeCodeCamp
-3ff3bdc89c001af7082c1a7fc0613e6ac6e9acdd,chore(deps): update dependency bson to v7.2.0 (#67025),2026-04-20T15:19:36Z,1,8,renovate[bot],freeCodeCamp,freeCodeCamp
-1a7cfda4f994d0b15d86194178473085894aa36c,chore(deps): update dependency babel-loader to v8.4.1 (#67018),2026-04-20T15:19:19Z,2,16,renovate[bot],freeCodeCamp,freeCodeCamp
-b0015f3099677f05721227ca06a549dd531b19ce,"chore(i18n,client): processed translations (#67021)",2026-04-20T13:31:36Z,11,684,camperbot,freeCodeCamp,freeCodeCamp
-85107c692a575d31439e9395d2206679b185cd6c,chore(deps): update dependency webpack to v5.106.1 (#67014),2026-04-20T13:30:25Z,3,928,renovate[bot],freeCodeCamp,freeCodeCamp
-b6070b8357d177895a5a1ebb9ae511b1203780c4,fix(deps): pin out of range transitive dep (#67020),2026-04-20T11:16:19Z,3,336,raisedadead,freeCodeCamp,freeCodeCamp
-7ac14ba69c38a85567ff0fc40127b35ed556fe52,chore(deps): update actions/setup-node digest to 48b55a0 (#67017),2026-04-20T09:02:49Z,6,22,renovate[bot],freeCodeCamp,freeCodeCamp
-a04b483da92c2d90167ef0085b2ffb162a179353,fix(tools): update challenge-editor submodule (#67016),2026-04-20T08:16:18Z,1,2,majestic-owl448,freeCodeCamp,freeCodeCamp
-25d3079089934343aea7e1611fb7ff6edcdb51dd,fix(curriculum): repair failing tests for doubly linked list challeng…,2026-04-20T08:05:54Z,1,69,AyushK5ingh,freeCodeCamp,freeCodeCamp
-983b249de08f61dafec5985fb5c12cdd4535b3ef,test(client): stabilize UI regression tests,2026-04-20T04:31:26Z,17,1660,raisedadead,freeCodeCamp,freeCodeCamp
