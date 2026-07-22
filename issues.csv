@@ -1,4 +1,13 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87pmJp-,65797,Translatable tokens in language files,CLOSED,2026-02-10T02:25:29Z,2026-07-21T20:37:27Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABJjXlSw,68957,Monaco editor accessibility breaks with NVDA in later HTML lessons and becomes unusable starting with the first CSS lesson,OPEN,2026-07-21T06:24:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABIYmfKw,68707,Replace regex-based test cases in Heritage Library Catalog Workshop,CLOSED,2026-07-10T18:24:56Z,2026-07-21T17:12:11Z,laypatel13,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABIunCoA,68811,Replace regex-based test cases in Teacher Chatbot Workshop,CLOSED,2026-07-14T07:07:20Z,2026-07-21T16:47:35Z,lennin331,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABIYmowA,68724,Replace regex-based test cases in Toggle Text App Workshop,OPEN,2026-07-10T18:25:18Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABIYmnvw,68722,Replace regex-based test cases in Superhero Application Form Workshop,OPEN,2026-07-10T18:25:16Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABItXyNA,68805,Lack of white space causing tests to fail for `else` statement,OPEN,2026-07-14T02:54:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABJdCMBQ,68948,Tests on the last Front-End Dev certification project take three minutes to execute,OPEN,2026-07-20T13:25:51Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABIYmoOg,68723,Replace regex-based test cases in Todo App Workshop,OPEN,2026-07-10T18:25:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABJR_02g,68924,Mandatory tags for Curriculum help category on FCC forum,OPEN,2026-07-18T10:11:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFORpFg,67901,Notification incorrectly shows up on learn platform,CLOSED,2026-06-12T01:38:09Z,2026-06-14T14:19:12Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABI8Q3DQ,68858,Fix text errors in Understanding Nuanced Semantic Elements emphasis and strong lectures,CLOSED,2026-07-15T17:50:25Z,2026-07-20T17:52:47Z,Atishay17,freeCodeCamp,freeCodeCamp
@@ -7,7 +16,6 @@ I_kwDOAbI7X88AAAABJYujow,68943,Queens title mismatch,CLOSED,2026-07-20T00:00:22Z
 I_kwDOAbI7X88AAAABIunNiw,68817,Replace regex-based test cases in Mathbot Workshop,CLOSED,2026-07-14T07:07:44Z,2026-07-20T15:52:02Z,majestic-owl448;yashvi-jain,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIdfCZQ,68739,Recipe Page lab: head-section hints test source format and give misleading messages for closing-tag mistakes,CLOSED,2026-07-11T14:45:53Z,2026-07-20T15:26:31Z,SanthoshBalagur,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmp1g,68726,Replace regex-based test cases in Word Counter Workshop,OPEN,2026-07-10T18:25:21Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABJdCMBQ,68948,Tests on the last Front-End Dev certification project take three minutes to execute,OPEN,2026-07-20T13:25:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIud8yg,68810,Replace regex-based test cases in Sentence Maker Lab,OPEN,2026-07-14T06:44:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIunEnw,68812,Replace regex-based test cases in String Inspector Workshop,OPEN,2026-07-14T07:07:24Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIunGdw,68813,Replace regex-based test cases in String Formatter Workshop,OPEN,2026-07-14T07:07:28Z,,,freeCodeCamp,freeCodeCamp
@@ -24,8 +32,6 @@ I_kwDOAbI7X88AAAABI4_c2A,68843,Python string lectures never introduce the standa
 I_kwDOAbI7X88AAAABJA9WZA,68869,"Redundant and imprecise wording in the ""How Do You Display Times and Dates in HTML?"" lecture",CLOSED,2026-07-16T07:58:15Z,2026-07-20T07:42:41Z,spacesyntaxwho,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABJXVkWw,68941,chore(security): harden utility CI workflows with explicit token permissions,CLOSED,2026-07-19T16:12:25Z,2026-07-20T03:34:35Z,mariamanbar,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87zgfgI,66515,Success message after logging out,OPEN,2026-03-16T23:47:35Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87pmJp-,65797,Translatable tokens in language files,OPEN,2026-02-10T02:25:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIunCoA,68811,Replace regex-based test cases in Teacher Chatbot Workshop,OPEN,2026-07-14T07:07:20Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABJRfbpw,68922,Inconsistent syntax highlighting for id inside an f-string expression,CLOSED,2026-07-18T07:26:55Z,2026-07-18T15:18:20Z,Shubh Thakkar,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABJBa06w,68872,Fix incorrect wording in Working with Specialized Semantic Elements lecture,CLOSED,2026-07-16T09:04:21Z,2026-07-18T08:24:49Z,xusnitdinov,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABJLEnDg,68909,Typo in Page of Playing Cards lab instructions,CLOSED,2026-07-17T10:43:01Z,2026-07-18T08:12:28Z,ayush-04jha,freeCodeCamp,freeCodeCamp
@@ -63,7 +69,6 @@ I_kwDOAbI7X88AAAABIYmhqg,68711,Replace regex-based test cases in Note Taking App
 I_kwDOAbI7X88AAAABIYmP8Q,68692,Replace regex-based test cases in Quiz Game Lab,CLOSED,2026-07-10T18:24:17Z,2026-07-15T07:27:29Z,YYuan02,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIlx06A,68770,"Fix inaccurate wording, unformatted iframe, and curly apostrophe in Build a Video Display workshop (steps 3, 5)",CLOSED,2026-07-13T07:36:19Z,2026-07-15T07:13:23Z,Your Name,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIdbeEQ,68738,Rate-limited email changes overwrite user's pending email address (invalidating existing confirmation links),OPEN,2026-07-11T14:32:34Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABItXyNA,68805,Lack of white space causing tests to fail for `else` statement,OPEN,2026-07-14T02:54:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIunPCg,68818,Replace regex-based test cases in Fortune Teller Lab,OPEN,2026-07-14T07:07:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIlx3ug,68771,"Fix unformatted iframe, curly apostrophe, undescribed solution markup, and wrong article in Build a Video Display workshop (steps 6, 8)",CLOSED,2026-07-13T07:36:24Z,2026-07-14T14:29:35Z,Anoop Raj,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIlzNrQ,68774,"Fix missing elements, heading case, punctuation, and terminology gaps in the Basic HTML Review",CLOSED,2026-07-13T07:39:37Z,2026-07-14T14:14:15Z,vijaykiran06,freeCodeCamp,freeCodeCamp
@@ -86,7 +91,6 @@ I_kwDOAbI7X88AAAABImGy4g,68777,"Text issues in the Build a Travel Agency Page la
 I_kwDOAbI7X88AAAABInY0nA,68786,test,CLOSED,2026-07-13T11:24:58Z,2026-07-13T11:29:51Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIlzg4g,68775,Fix curly apostrophe and missing serial comma in the Basic HTML Quiz,CLOSED,2026-07-13T07:40:19Z,2026-07-13T11:24:48Z,Jatinmor89,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABInSHhg,68783,test,CLOSED,2026-07-13T11:09:41Z,2026-07-13T11:12:43Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIYmfKw,68707,Replace regex-based test cases in Heritage Library Catalog Workshop,OPEN,2026-07-10T18:24:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmbcQ,68700,Replace regex-based test cases in Countup Workshop,CLOSED,2026-07-10T18:24:47Z,2026-07-13T08:58:52Z,laypatel13,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIixMCA,68759,Format vocab introductions as bulleted lists in Document Code for a Project - Task 12,CLOSED,2026-07-12T18:45:53Z,2026-07-13T08:24:36Z,lennin331;majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIUiWqw,68669,User stories in Build a Travel Agency Page lab omit two tested requirements,CLOSED,2026-07-10T08:27:22Z,2026-07-13T08:14:11Z,TemRevil;majestic-owl448,freeCodeCamp,freeCodeCamp
@@ -108,9 +112,6 @@ I_kwDOAbI7X88AAAABIZ7ORg,68728,"Typo in ""Exoplanet Search"" challenge descripti
 I_kwDOAbI7X88AAAABIYmO6A,68690,Replace regex-based test cases in Password Generator Lab,OPEN,2026-07-10T18:24:14Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIUqPsQ,68671,Fix incorrect ordinal in Step 9 hints of the Build an HTML Music Player workshop,CLOSED,2026-07-10T08:47:29Z,2026-07-10T20:36:52Z,rarestpreet,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIXj3rQ,68677,Flaky test in profile.test.tsx,CLOSED,2026-07-10T15:51:04Z,2026-07-10T20:09:24Z,vijaykiran06,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIYmowA,68724,Replace regex-based test cases in Toggle Text App Workshop,OPEN,2026-07-10T18:25:18Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIYmoOg,68723,Replace regex-based test cases in Todo App Workshop,OPEN,2026-07-10T18:25:17Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIYmnvw,68722,Replace regex-based test cases in Superhero Application Form Workshop,OPEN,2026-07-10T18:25:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmmTA,68720,Replace regex-based test cases in Shortest Path Algorithm Workshop,OPEN,2026-07-10T18:25:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYml3w,68719,Replace regex-based test cases in Shopping List App Workshop,OPEN,2026-07-10T18:25:12Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmlWA,68718,Replace regex-based test cases in Shopping Cart Workshop,OPEN,2026-07-10T18:25:11Z,,,freeCodeCamp,freeCodeCamp
@@ -627,12 +628,3 @@ I_kwDOAbI7X87zUVfi,66501,Interactive editor console panel displays live array re
 I_kwDOAbI7X88AAAABAO6rXA,67066,Build a book inventory app,CLOSED,2026-04-22T17:03:38Z,2026-04-22T18:35:16Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAI1d1w,67049,Documentation could be clearer for beginners,CLOSED,2026-04-21T17:19:42Z,2026-04-22T13:31:59Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABAMAVDg,67060,Python Certification Media Catalogue Workshop,CLOSED,2026-04-22T07:58:48Z,2026-04-22T09:08:45Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86-XO2I,61177,Add solution code to the metadata of the first workshop step,CLOSED,2025-07-01T20:46:29Z,2026-04-21T19:55:39Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABAH3KTg,67045,Improve grammar and clarity in curriculum comments,CLOSED,2026-04-21T14:16:55Z,2026-04-21T19:30:28Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X879Ba9y,66895,Travel Agency: Chinese version has verbiage error in Test #26,CLOSED,2026-04-11T15:25:37Z,2026-04-21T14:12:21Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87-Gzzn,66938,Quality Assurance Advanced Node and Express: tests fail with DataCloneError on every challenge,CLOSED,2026-04-14T15:42:49Z,2026-04-21T14:11:21Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87_a55x,66983,JavaScript Certification-Build a Linked List Workshop中文区存在大量语义错误,CLOSED,2026-04-17T20:46:30Z,2026-04-21T13:56:23Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87_Yy-m,66980,JavaScript Certification-Implement the Breadth-First Search Algorithm Workshop-Step 13翻译写错了,CLOSED,2026-04-17T18:51:59Z,2026-04-21T13:56:07Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87-5mV5,66966,JavaScript Certification-Emoji Reactor Workshop-Step 9,CLOSED,2026-04-16T14:47:01Z,2026-04-21T08:55:40Z,AyushK5ingh,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABAF0b0Q,67037,update docker content,CLOSED,2026-04-21T07:40:36Z,2026-04-21T07:42:29Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X876CEp1,66745,missing semi-colons in seed code,OPEN,2026-04-02T14:06:10Z,,,freeCodeCamp,freeCodeCamp
