@@ -1,4 +1,8 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+97cabdefcc3f79744108cc96ca15e1dbeb0003e4,perf(client): fix O(n^2) block lookup in challenge page creation (#68…,2026-07-21T18:00:51Z,1,29,Sembauke,freeCodeCamp,freeCodeCamp
+cfa0eb775271181864eb061a1b3b22a43b8df6ca,fix(curriculum): use Explorer helper for empty array/object declarati…,2026-07-21T17:12:09Z,10,131,laypatel13,freeCodeCamp,freeCodeCamp
+414b426e5005f36cfaae431b583522928349189c,fix(curriculum): use Explorer helper in teacher chatbot workshop (#68…,2026-07-21T16:47:33Z,6,45,lennin331,freeCodeCamp,freeCodeCamp
+8ae71bd8d83251bafe2ec8b63a24b5dc2761775b,"chore(i18n,learn): update i18n-curriculum submodule (#68955)",2026-07-21T03:34:58Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 adf94d0709054dcbeb6f013e8d45896efb0f29b2,fix(curriculum): correct text in nuanced semantic elements lectures (…,2026-07-20T17:52:45Z,2,6,Atishay17,freeCodeCamp,freeCodeCamp
 7e18304d6369864a7f101d6bb1c27c824e73e088,fix(curriculum): align N-Queens lab title (#68944),2026-07-20T16:08:16Z,1,6,adranjan4,freeCodeCamp,freeCodeCamp
 f5662bd8f88062a66a0144b14d51aeab2d456724,refactor(curriculum): replace regex with AST helpers in Mathbot Works…,2026-07-20T15:52:00Z,16,185,yashvi-jain,freeCodeCamp,freeCodeCamp
@@ -717,14 +721,3 @@ fe75fa1649d7e58c809f625a0c8d52204bce909f,fix(deps): update dependency @reduxjs/t
 fd18d76ac77a15628660c714b5977c12fe9a9342,feat: add digital pet game lab (#62165),2026-04-22T08:42:36Z,4,1322,naomi-lgbt,freeCodeCamp,freeCodeCamp
 eb14138c8148f3c3801e2fec09327e9f69eaa544,chore(deps): update eslint (#67053),2026-04-22T06:38:36Z,4,821,renovate[bot],freeCodeCamp,freeCodeCamp
 7d9eeb1c9bb7e75e538d926e1da6c8590ceb6d97,chore(deps): update hapijs monorepo (#67054),2026-04-22T03:23:11Z,4,35,renovate[bot],freeCodeCamp,freeCodeCamp
-36b4e376337b4c89f300a4156eac74ec43761ea0,chore(deps): update dependency tsdown to ^0.21.0 (#67051),2026-04-21T19:53:01Z,2,549,renovate[bot],freeCodeCamp,freeCodeCamp
-6a1d8dc7ec9b3e3df2945ebe511e1fea25d86634,fix(deps): update dependency fastify to v5.8.5 (#67050),2026-04-21T19:52:38Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
-d524c397e690bd21b4b55621a5c5601079e9e915,fix(curriculum): updated registration form step 44 to have borderBott…,2026-04-21T14:08:19Z,1,4,katehjd21,freeCodeCamp,freeCodeCamp
-9518157219823e650f0fb95c43a937b915451488,chore(deps): update dependency msw to v2.13.3 (#67041),2026-04-21T13:57:03Z,1,72,renovate[bot],freeCodeCamp,freeCodeCamp
-4cf8b4a5375cc852a60b608c64edae599ff2f6fc,chore(deps): update dependency caniuse-lite to v1.0.30001788 (#67040),2026-04-21T13:56:46Z,2,16,renovate[bot],freeCodeCamp,freeCodeCamp
-40b5550e96f5868b5edb795ae7a6d84c378e32ce,feat(client): update profile ui (#66889),2026-04-21T10:09:39Z,29,1896,ahmaxed,freeCodeCamp,freeCodeCamp
-a381d7f20fb7684656686138474cd1e44665c00b,chore(deps): update dependency stylelint to v16.26.1 (#67031),2026-04-21T09:25:01Z,2,33,renovate[bot],freeCodeCamp,freeCodeCamp
-1cf34f96962f02c9376f341c95961b5a182f336a,feat(curriculum): add lab playlist remix engine (#65515),2026-04-21T09:05:15Z,4,399,VuBui217,freeCodeCamp,freeCodeCamp
-641585f41944864a0f46097ceeb29b0c1a2907f4,fix(curriculum): clarify step 9 instructions in emoji reactor worksho…,2026-04-21T08:55:38Z,1,2,AyushK5ingh,freeCodeCamp,freeCodeCamp
-93ccbf8cafbc33b67b1d744adc1873a4b8086a74,chore(deps): update dependency mongodb to v6.21.0 (#67028),2026-04-21T08:39:26Z,4,54,renovate[bot],freeCodeCamp,freeCodeCamp
-39408b3c832d78783593c45709bb9facfa921e38,chore: land failing renovate updates (#67035),2026-04-21T08:32:02Z,24,1096,raisedadead,freeCodeCamp,freeCodeCamp
