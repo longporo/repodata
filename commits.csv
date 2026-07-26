@@ -1,4 +1,9 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+c1cafb8f3cd8f05015b7711ff0ddf92ef074f1f8,fix(curriculum): correct grammar and hyphenation in CSS lectures (#69…,2026-07-25T11:35:50Z,2,6,khushi-gupta-dev,freeCodeCamp,freeCodeCamp
+d2dead4b922d619ccaab7136dc36bbb31173a30d,fix(docs): remove stale entry from README.md (#69030),2026-07-25T11:21:58Z,1,1,santhiprakash,freeCodeCamp,freeCodeCamp
+990deeb128643a4aff4e13ee10562fdd315df162,fix(curriculum): correct grammar and library-name capitalization in I…,2026-07-25T09:02:11Z,1,2,ATURKIEH,freeCodeCamp,freeCodeCamp
+a635c786330a605420d4a94118af8b37fb491f41,"fix(curriculum): correct semicolon, apostrophe, and backticks in widt…",2026-07-25T07:54:32Z,1,6,TexasAppz,freeCodeCamp,freeCodeCamp
+f4d63e1eca37e9d2cc8dc1d48fda2686d8ea3144,fix: correct punctuation errors in CSS lecture descriptions (#69025),2026-07-25T07:46:11Z,3,8,Bhavani2016,freeCodeCamp,freeCodeCamp
 57c593e240e18b9e993c3980025a3fcec96dcc7f,fix(curriculum): use Explorer helper in string formatter workshop (#6…,2026-07-24T17:39:22Z,3,9,eng-abdelrahman-sharaf,freeCodeCamp,freeCodeCamp
 6ae628779bd8d654932dba66cbd9a14fa3f6234b,fix(api): allow freecodecamp-os challenges through coderoad endpoints…,2026-07-24T15:59:15Z,11,23,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 e0375225874cbf97c5b5bfe767dd777ab329182b,fix(api): sentry hygiene and coverage (#68795),2026-07-24T15:52:20Z,27,479,raisedadead,freeCodeCamp,freeCodeCamp
@@ -713,14 +718,3 @@ bd0c98e9d1175b08e333661837e09e663a33492c,fix(deps): update dependency react-mona
 ed87023ea211ef8d595c00974d26e9b24adabce1,chore(deps): update dependency i18next-fs-backend to v2.6.4 (#67126),2026-04-26T17:43:06Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
 4106a69acec4104396e4353e854ad043d022346f,fix(deps): update dependency react-i18next to v15.7.4 (#67120),2026-04-26T06:28:00Z,2,14,renovate[bot],freeCodeCamp,freeCodeCamp
 81891c5628aa205292e4457a25968f8cd1fb81f4,fix(deps): update dependency typebox to v1.1.28 (#67118),2026-04-26T06:27:37Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
-224afd0386c37e47287257b3f28ed2850387bd33,fix(deps): update dependency postcss to v8.5.10 (#67114),2026-04-25T12:04:54Z,2,302,renovate[bot],freeCodeCamp,freeCodeCamp
-2569a3607f501d22e3e814894fa9aee89aa85b75,fix(deps): update dependency typebox to v1.1.27 (#67111),2026-04-25T12:04:38Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
-408f6babefae03bc623d88332bed45857640c8a2,"fix(curriculum): correct ""containting"" typo in lab product showcase (…",2026-04-25T12:04:23Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-2fa0ba4f6f7cd8f5fa846366add6c6b33a5f9f1b,chore(deps): update mongo docker tag to v8.2 (#67112),2026-04-25T12:03:50Z,2,8,renovate[bot],freeCodeCamp,freeCodeCamp
-891eec4b8175950b5c79ec11e6fa9014b185dad6,"fix(curriculum): remove mentions of bin, oct, hex functions from revi…",2026-04-25T10:47:34Z,2,48,jdwilkin4,freeCodeCamp,freeCodeCamp
-89d1a4c51704f642b8ad95ce967b3a4167a1f06a,fix(deps): update algolia-instantsearch monorepo (#67057),2026-04-25T06:34:18Z,2,122,renovate[bot],freeCodeCamp,freeCodeCamp
-e9e0aac857c1aead4e5bb26a6184d0c7598b9b55,feat(parser): enforce workshop file validations (#66340),2026-04-25T06:12:44Z,9,205,Harshith Kumar,freeCodeCamp,freeCodeCamp
-09b97874fca844ce193d469ee56bc1ad2b16fb02,chore(deps): update dependency tsdown to v0.21.9 (#67101),2026-04-25T06:12:06Z,1,231,renovate[bot],freeCodeCamp,freeCodeCamp
-a6d06fe724782c64ad54d7acc522ba091a8b700d,chore(deps): update vitest (#67056),2026-04-25T06:11:36Z,21,880,renovate[bot],freeCodeCamp,freeCodeCamp
-3d72c7b3ee0b45a62d30efd0e0de0bc5b1746a99,fix(gha): correct playwright reporter path (#67104),2026-04-25T06:11:08Z,2,4,huyenltnguyen,freeCodeCamp,freeCodeCamp
-bdbdad5e326f8908d53312bb2bc32d9c45777aba,fix(e2e): address potential race condition in editor test (#67105),2026-04-25T06:09:53Z,1,14,huyenltnguyen,freeCodeCamp,freeCodeCamp
