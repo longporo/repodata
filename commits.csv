@@ -1,4 +1,7 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+6a182498c3a29ca7b2647d959090f65ec599c8e7,fix(curriculum): remove unused workshop-calorie-counter block (#69094),2026-07-28T10:12:09Z,97,23761,Webmekanic,freeCodeCamp,freeCodeCamp
+7f7379efeb4cce4b01397a64f431918921eaf136,fix(api): dcc empty collections return 200 not 404 (#68890),2026-07-28T09:54:00Z,5,60,raisedadead,freeCodeCamp,freeCodeCamp
+7c68382a6e4cf0ec5284540003d4ce0f5e4e7265,fix(curriculum): typo in future continous ordinal number (#69052),2026-07-28T06:35:29Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 e1e2f014c4ffb2bd13e84d7e7b42d87df6581261,fix(curriculum): correct Hotel Feedback Form hint tests (#69084),2026-07-27T19:32:21Z,11,33,owevertonguedes,freeCodeCamp,freeCodeCamp
 561abd960ff39fd18b2fbff6663c6d4bf73c0d36,fix(curriculum): correct Cafe Menu hint assertions (#69083),2026-07-27T16:41:46Z,3,4,owevertonguedes,freeCodeCamp,freeCodeCamp
 a6afcf235300d052d9c712493cc0622488b980f9,fix(api): bypass cors warn logging for /exam-environment/ (#68923),2026-07-27T14:44:46Z,3,20,ShaunSHamilton,freeCodeCamp,freeCodeCamp
@@ -718,12 +721,3 @@ a10a64c76890bc99c0c7abe24fd06ba243b5a884,chore(deps): update github actions (#67
 baf11e5967234a8512816948428280b249979f6e,fix(deps): update algolia-instantsearch monorepo (#67160),2026-04-29T10:03:24Z,2,52,renovate[bot],freeCodeCamp,freeCodeCamp
 06bd90f996c73d6f0cf0d524572785a1b43e36cc,chore(deps): update dependency caniuse-lite to v1.0.30001790 (#67164),2026-04-29T10:03:11Z,2,16,renovate[bot],freeCodeCamp,freeCodeCamp
 fc59a36709b20cb566afb28690e5dc1d561f41e5,feat(gha): re-enable korean deploys (#67142),2026-04-29T06:29:41Z,2,5,moT01,freeCodeCamp,freeCodeCamp
-70fc81106af91aec79d8044344e325263f19e95a,fix(curriculum): correct incorrect verb form (#67149),2026-04-29T01:09:39Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-44b560b18590a5f2e72dd4a2da00869221f75ed3,fix(curriculum): update registration form step 48 to have borderBotto…,2026-04-28T20:14:45Z,1,4,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-40836e70fd3d78914c8c89a3e4e1d6ab70a98b41,fix(deps): update dependency @fastify/swagger-ui to v5.2.6 (#67158),2026-04-28T16:23:17Z,2,20,renovate[bot],freeCodeCamp,freeCodeCamp
-21179b8dd3e035240f7497ad4f399d068aad016b,chore(deps): update vitest to v4.1.5 (#67157),2026-04-28T16:23:01Z,2,396,renovate[bot],freeCodeCamp,freeCodeCamp
-90cc514f786f3d786cb66ab2fd6fee26d3471a00,fix(client): defer MobileAppModal rendering until after first browser…,2026-04-28T16:22:47Z,2,31,huyenltnguyen,freeCodeCamp,freeCodeCamp
-2548e2bb2ffa160fdd1c116b887c7d9f08b61162,fix(deps): update dependency typebox to v1.1.29 (#67153),2026-04-28T16:21:29Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
-ba1eacf64e6e0f7e8908072f3c5d96ab152ffece,fix(curriculum): correct casing for TypeScript (#67147),2026-04-28T16:21:04Z,9,42,huyenltnguyen,freeCodeCamp,freeCodeCamp
-bbe577c77c38534f862b702a1fd121a21687c7a5,fix(curriculum): replace arrays with strings in daily coding challeng…,2026-04-28T14:34:07Z,2,4,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-aa7c01c2936ce64aef98e663f68a31cf23ee7d9a,chore(deps): update dependency typescript-eslint to v8.59.0 (#67143),2026-04-28T12:02:35Z,10,190,renovate[bot],freeCodeCamp,freeCodeCamp
