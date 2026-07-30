@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+1d591bd2b4a7b362b0bfa5ef19d1c032b36d2f88,"fix(curriculum): use ""$0"" when clearing cart totals in steps 60 and 6…",2026-07-29T17:17:25Z,2,28,Vendetaaaa,freeCodeCamp,freeCodeCamp
+fcb35c9a65bee1d5be8a2d7cc7a89a9565d893e1,fix: correct data types lesson examples (#69112),2026-07-29T16:46:45Z,1,17,ladanhamoud,freeCodeCamp,freeCodeCamp
+504415715fb8d6e3766ae76cb1081b0919efc2c2,fix(curriculum): remove interactive editor from sort empty slot examp…,2026-07-29T15:30:30Z,1,6,Supravisor,freeCodeCamp,freeCodeCamp
+6f0c6237da38418e1b3546f32a0332e90632925f,"fix: added missing space in rel=""stylesheet""/> in workshop-cafe-menu …",2026-07-29T10:44:12Z,77,156,dishamittalnitb,freeCodeCamp,freeCodeCamp
+9d1daa7d690dbde7222a3f0024cadec43b445dd8,fix(curriculum): Text changes in Build a Hotel Form Steps (#69095),2026-07-29T10:03:58Z,3,19,waleed-akram,freeCodeCamp,freeCodeCamp
+00bd2568bf03deb166095d2d47583c115d569256,fix(curriculum): clarify style tag hint in cafe menu step 10 (#69100),2026-07-29T09:18:16Z,1,2,Aimwee,freeCodeCamp,freeCodeCamp
+4fbcc5a33866096be1c16ee105a2cd0a2098714f,fix(curriculum): capitalize Man-in-the-Middle (#69101),2026-07-29T09:05:24Z,4,8,Anavyarai,freeCodeCamp,freeCodeCamp
 6a182498c3a29ca7b2647d959090f65ec599c8e7,fix(curriculum): remove unused workshop-calorie-counter block (#69094),2026-07-28T10:12:09Z,97,23761,Webmekanic,freeCodeCamp,freeCodeCamp
 7f7379efeb4cce4b01397a64f431918921eaf136,fix(api): dcc empty collections return 200 not 404 (#68890),2026-07-28T09:54:00Z,5,60,raisedadead,freeCodeCamp,freeCodeCamp
 7c68382a6e4cf0ec5284540003d4ce0f5e4e7265,fix(curriculum): typo in future continous ordinal number (#69052),2026-07-28T06:35:29Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
@@ -711,13 +718,3 @@ bb92cb4f2de5cf26e97b34a62fcf4001d8985485,fix(curriculum): update searching sorti
 c7072338b1f08b1ee7b4b34fd095098f14662e67,fix(settings): update margins for settings disclaimer (#67184),2026-04-30T12:10:49Z,1,34,NathanJohnstonn,freeCodeCamp,freeCodeCamp
 60e54a5e1df35475b435923be98e35346f0c0bc3,fix(client): enable horizontal scroll for MCQ code blocks on mobile (…,2026-04-30T06:27:15Z,2,12,Venkat-Entropik,freeCodeCamp,freeCodeCamp
 242c9b5fbdc9dfff53d6290064a2eee616389618,chore(curriculum): highlight background property (#67178),2026-04-30T06:10:06Z,1,3,Supravisor,freeCodeCamp,freeCodeCamp
-2b4c94745893f7764fe9c0758d50b4787801578b,"chore(i18n,learn): update i18n-curriculum submodule (#67172)",2026-04-29T18:05:01Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-a4689ba59f4add878d76285cd135b48261e4ef34,"chore(i18n,client): processed translations (#67171)",2026-04-29T18:01:00Z,10,64,camperbot,freeCodeCamp,freeCodeCamp
-b8de12556314ea63a05219c8e6af253862f52e05,chore(deps): update github actions (major) (#67170),2026-04-29T14:51:04Z,15,86,renovate[bot],freeCodeCamp,freeCodeCamp
-e3fb300f4c8de69a0f7cb557f37197da4a44b3c9,fix(deps): update dependency typebox to v1.1.31 (#67168),2026-04-29T11:49:32Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
-a10a64c76890bc99c0c7abe24fd06ba243b5a884,chore(deps): update github actions (#67167),2026-04-29T11:48:57Z,5,26,renovate[bot],freeCodeCamp,freeCodeCamp
-41ec9e514cf2bd6ed6c434dfa0a5dc772958ea0b,fix(deps): update lodash monorepo to v4.18.1 (#67138),2026-04-29T11:05:36Z,6,46,renovate[bot],freeCodeCamp,freeCodeCamp
-4a87dd08f9e06540c37f76e309032ea2da0ee63f,fix(deps): update dependency typebox to v1.1.30 (#67165),2026-04-29T10:03:43Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
-baf11e5967234a8512816948428280b249979f6e,fix(deps): update algolia-instantsearch monorepo (#67160),2026-04-29T10:03:24Z,2,52,renovate[bot],freeCodeCamp,freeCodeCamp
-06bd90f996c73d6f0cf0d524572785a1b43e36cc,chore(deps): update dependency caniuse-lite to v1.0.30001790 (#67164),2026-04-29T10:03:11Z,2,16,renovate[bot],freeCodeCamp,freeCodeCamp
-fc59a36709b20cb566afb28690e5dc1d561f41e5,feat(gha): re-enable korean deploys (#67142),2026-04-29T06:29:41Z,2,5,moT01,freeCodeCamp,freeCodeCamp
