@@ -1,4 +1,13 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+522b60813c9ff7294b4cf10d6f12aa3b033ecf19,fix(curriculum): clarify hint wording for Hotel Feedback Form steps 1…,2026-07-31T21:16:31Z,4,12,Funmax365,freeCodeCamp,freeCodeCamp
+0f1d2607b88deaabb7dbf88abcdcc0660f513665,fix(curriculum): fix plural possessive typo in Cafe Menu step 37 (#69…,2026-07-31T21:04:03Z,1,2,developmentwithparth1311,freeCodeCamp,freeCodeCamp
+05992eaeb92aa7e76ca5f19bb8c53ef4819d28bf,fix(curriculum): refactor workshop cafe menu assertions to use DOM (#…,2026-07-31T18:26:06Z,19,85,rohit-h11,freeCodeCamp,freeCodeCamp
+477a25a513b734a37b7fc188126413ed943bc393,fix(curriculum): resolve hint assertion and setup issues in Cafe Menu…,2026-07-31T15:44:17Z,8,130,TEE0207,freeCodeCamp,freeCodeCamp
+906c5197b7cb0b0b5f42bca7a07ae318a014a5f9,fix(curriculum): audit workshop-todo-app editable regions (redux) (#6…,2026-07-31T11:32:25Z,60,623,jeffrinkdev,freeCodeCamp,freeCodeCamp
+3cfb6c633e6e77df8cd96549ad212a69450d9054,fix(curriculum): update hint wording in hotel feedback form (#69140),2026-07-31T08:25:19Z,4,14,Nishant9764,freeCodeCamp,freeCodeCamp
+e9c9372d0d03a922bfa4a886329b136cc5d14e31,fix(curriculum): use Explorer helper for recursion check in countdown…,2026-07-31T07:54:38Z,1,30,laypatel13,freeCodeCamp,freeCodeCamp
+5c97ed1941a80194bc061311294cfcfc5242d44c,fix(curriculum): correct type and isinstance lesson wording (#69135),2026-07-31T07:26:20Z,1,9,prateek-dagar,freeCodeCamp,freeCodeCamp
+0cc36edc51bff003cd7c6593fddf035068e86e28,fix(curriculum): change answer options for unclear functions question…,2026-07-31T07:24:14Z,1,8,Jamwilltim,freeCodeCamp,freeCodeCamp
 ec7a3091504e65cdee4fdf2d00057dbe3fe977f0,fix(curriculum): add backticks around 300px in cafe menu workshop hin…,2026-07-30T17:47:39Z,1,2,bhavana-mb,freeCodeCamp,freeCodeCamp
 b8a3bf49154115a0babb6042df83ce64232cdeab,fix(curriculum): correct grammar and formatting in hotel feedback for…,2026-07-30T17:23:18Z,5,14,rohit-h11,freeCodeCamp,freeCodeCamp
 57c8f6d4b0c7e2869897d9157bf06afb8d9286a8,fix(curriculum): correct wording in Hotel Feedback Form step 29 (#69128),2026-07-30T13:17:58Z,1,22,SudhamshuH,freeCodeCamp,freeCodeCamp
