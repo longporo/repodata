@@ -1,5 +1,22 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X88AAAABIgxTLw,68744,JS cert: question's answer on functions lecture is misleading,OPEN,2026-07-12T09:25:47Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABKSfyzg,69064,Hint wording issues in Build a Hotel Feedback Form Steps 15 to 18,CLOSED,2026-07-27T07:22:07Z,2026-07-31T21:16:33Z,Funmax365,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABK-I-QA,69154,Wrong possessive form in Step 37 of the Cafe Menu workshop,CLOSED,2026-07-31T15:53:55Z,2026-07-31T21:04:06Z,developmentwithparth1311,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABK_NtUQ,69158,"Digital Pet Game - Step for says form shouldn't be ""Visible"" but test looks at existence",OPEN,2026-07-31T18:29:20Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABKTgEGg,69075,Cafe Menu workshop hints test source text instead of the rendered DOM,CLOSED,2026-07-27T09:35:23Z,2026-07-31T18:26:08Z,majestic-owl448;rohit-h11,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABIYmiPw,68712,Replace regex-based test cases in Planets Tablist Workshop,OPEN,2026-07-10T18:25:02Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABK6jHAg,69141,"""Build a motorcycle shop"" lab audit",OPEN,2026-07-31T07:27:54Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABK6O1pg,69139,"Event bubbling and deglatation lesson missing interactive editor while mentioning ""clicking on the span""",OPEN,2026-07-31T06:36:55Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABK-IDjw,69153,Relative clause attaches to the wrong noun in Step 34 of the Cafe Menu workshop,OPEN,2026-07-31T15:52:01Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABK-Hc7w,69152,Singular noun for four coffees in Step 27 of the Cafe Menu workshop,OPEN,2026-07-31T15:50:47Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABK-HW-g,69151,Step 25 of the Cafe Menu workshop says one `article` element holds every coffee,OPEN,2026-07-31T15:50:34Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABK-HRcw,69150,Invalid CSS placeholder and class name described as a selector in Step 22 of the Cafe Menu workshop,OPEN,2026-07-31T15:50:22Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABK-FV2Q,69149,"Content problems in the ""What Is CSS Flexbox, and When Should You Use It?"" lecture",OPEN,2026-07-31T15:46:19Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABK-E3bg,69148,"Writing and formatting problems in the ""What Are Some Common Flex Properties, and How Do They Work?"" lecture",OPEN,2026-07-31T15:45:14Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABKTgGdA,69076,Cafe Menu workshop hints have assertion and setup problems,CLOSED,2026-07-27T09:35:28Z,2026-07-31T15:44:19Z,ManuelOrji2;TEE0207,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABKSf7GA,69066,Instruction and hint wording issues in Build a Hotel Feedback Form Steps 23 to 26,CLOSED,2026-07-27T07:22:21Z,2026-07-31T08:25:21Z,Nishant9764,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABHQp8yg,68424,inflexible test in js Build a Countdown lab,CLOSED,2026-07-01T03:36:58Z,2026-07-31T07:54:40Z,laypatel13,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABKSNnxw,69058,Wording and formatting issues in the type() and isinstance() lesson,CLOSED,2026-07-27T06:45:41Z,2026-07-31T07:26:22Z,prateek-dagar,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABIgxTLw,68744,JS cert: question's answer on functions lecture is misleading,CLOSED,2026-07-12T09:25:47Z,2026-07-31T07:24:16Z,Jamwilltim,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKwvSuA,69121,Missing backticks around a CSS value in a hint of Step 17 of the Cafe Menu workshop,CLOSED,2026-07-30T07:04:57Z,2026-07-30T17:47:41Z,bhavana-mb,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKSfw_Q,69062,Grammar and formatting issues in Build a Hotel Feedback Form Steps 2 to 7 and the block intro,CLOSED,2026-07-27T07:22:03Z,2026-07-30T17:23:20Z,rohit-h11,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87bNhO2,64229,`--fcc-expected--` and `--fcc-actual--` handle falsy values incorrecly,CLOSED,2025-11-30T13:18:03Z,2026-07-30T16:13:34Z,Sembauke,freeCodeCamp,freeCodeCamp
@@ -12,7 +29,6 @@ I_kwDOAbI7X88AAAABKrvbzg,69115,Shopping Cart workshop cart rows show prices with
 I_kwDOAbI7X88AAAABKSf6Vw,69065,Incomplete instructions and formatting issues in Build a Hotel Feedback Form Steps 19 to 22,CLOSED,2026-07-27T07:22:20Z,2026-07-30T08:23:26Z,Wolf-011,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmp1g,68726,Replace regex-based test cases in Word Counter Workshop,CLOSED,2026-07-10T18:25:21Z,2026-07-30T08:21:55Z,TEE0207;majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKWJk7Q,69082,Workshop Cafe Menu Step 7: CSS example indentation uses one space instead of two,CLOSED,2026-07-27T15:00:56Z,2026-07-30T07:34:44Z,priyaaa405,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHQp8yg,68424,inflexible test in js Build a Countdown lab,OPEN,2026-07-01T03:36:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDWxZLw,67605,RDB: Build Five Programs workshop gives an invalid hint,OPEN,2026-05-25T23:48:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmlWA,68718,Replace regex-based test cases in Shopping Cart Workshop,OPEN,2026-07-10T18:25:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKikhmQ,69098,"Missing ""$"" sign on textContent for subTotal, taxes and total in JS Shopping Cart workshop",CLOSED,2026-07-28T19:32:05Z,2026-07-29T17:17:27Z,Vendetaaaa,freeCodeCamp,freeCodeCamp
@@ -28,29 +44,23 @@ I_kwDOAbI7X87aPElK,64117,Workshop – Smart Campus Directory,OPEN,2025-11-25T03:
 I_kwDOAbI7X87hkUvn,65007,delete unused files,CLOSED,2026-01-06T09:21:14Z,2026-07-28T10:12:11Z,Webmekanic,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmZqg,68697,Replace regex-based test cases in Build A Football Player Card Builder Workshop,OPEN,2026-07-10T18:24:42Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKSQldA,69059,Test code issues in the Build a Hotel Feedback Form workshop hints,CLOSED,2026-07-27T06:52:47Z,2026-07-27T19:32:22Z,owevertonguedes,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABKTgEGg,69075,Cafe Menu workshop hints test source text instead of the rendered DOM,OPEN,2026-07-27T09:35:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKSz0gA,69072,Cafe Menu workshop hints that pass regardless of the learner's code,CLOSED,2026-07-27T08:05:42Z,2026-07-27T16:41:49Z,owevertonguedes,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKTKouQ,69073,Text in multiple languages,OPEN,2026-07-27T08:54:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X876CEp1,66745,missing semi-colons in seed code,CLOSED,2026-04-02T14:06:10Z,2026-07-27T14:44:02Z,Sembauke,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKSNfUw,69056,"Multiple grammar, terminology, and formatting issues in the declaring variables lesson",CLOSED,2026-07-27T06:45:23Z,2026-07-27T14:08:37Z,Hashim1999164,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmj0A,68715,Replace regex-based test cases in Reusable Profile Card Component Workshop,CLOSED,2026-07-10T18:25:06Z,2026-07-27T13:23:56Z,laypatel13,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABKTgGdA,69076,Cafe Menu workshop hints have assertion and setup problems,OPEN,2026-07-27T09:35:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmevQ,68706,Replace regex-based test cases in Greeting Bot Workshop,OPEN,2026-07-10T18:24:54Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X870mMf_,66563,add module on how to use AI/LLMs in learning,CLOSED,2026-03-19T19:04:44Z,2026-07-27T12:13:16Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDtQBCQ,67661,RTL language prep umbrella issue. WIP,OPEN,2026-05-28T20:53:34Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIYmiPw,68712,Replace regex-based test cases in Planets Tablist Workshop,OPEN,2026-07-10T18:25:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABD4hlXA,67721,[Curriculum Audit] Editable region markers — v9 workshops,OPEN,2026-05-30T20:13:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKSMUFg,69054,"Fix punctuation, wording, and formatting problems in the String Concatenation lecture",CLOSED,2026-07-27T06:42:30Z,2026-07-27T08:59:35Z,Vam-si-krish,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABJbUEBA,68945,"Step 12 removes the console.log() statement, but the description doesn't actually mention doing this.",CLOSED,2026-07-20T09:25:58Z,2026-07-27T08:26:16Z,laxitajain,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIPMoOQ,68653,Fail authentication when duplicate email records are detected during sign-in,CLOSED,2026-07-09T15:49:29Z,2026-07-27T08:09:01Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKQohyw,69050,JS Merge sort workshop accepts incorrect keywords for variable declaration,CLOSED,2026-07-27T01:29:08Z,2026-07-27T07:32:56Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABKSf7GA,69066,Instruction and hint wording issues in Build a Hotel Feedback Form Steps 23 to 26,OPEN,2026-07-27T07:22:21Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABKSfyzg,69064,Hint wording issues in Build a Hotel Feedback Form Steps 15 to 18,OPEN,2026-07-27T07:22:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKSfyCg,69063,Hint wording and description issues in Build a Hotel Feedback Form Steps 10 to 14,OPEN,2026-07-27T07:22:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKSYF7Q,69061,What is the creation date of this repository?,CLOSED,2026-07-27T07:07:33Z,2026-07-27T07:17:34Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKSX5tQ,69060,test,CLOSED,2026-07-27T07:07:10Z,2026-07-27T07:17:33Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmdrQ,68704,Replace regex-based test cases in Fortune Teller App Workshop,OPEN,2026-07-10T18:24:52Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABKSNnxw,69058,Wording and formatting issues in the type() and isinstance() lesson,OPEN,2026-07-27T06:45:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKPZbIA,69047,Whitespace issues,CLOSED,2026-07-26T19:36:15Z,2026-07-27T06:43:18Z,Ayush3396,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKSMXAw,69055,"Fix punctuation, immutability example, and intro copy in the Introduction to Strings lecture block",OPEN,2026-07-27T06:42:37Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABJR_02g,68924,Mandatory tags for Curriculum help category on FCC forum,OPEN,2026-07-18T10:11:04Z,,,freeCodeCamp,freeCodeCamp
