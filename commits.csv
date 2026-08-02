@@ -1,4 +1,13 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+78e7c24e89374449f5b997d2298fc464f9159853,fix(curriculum): format price class as code in step 41 (#69178),2026-08-01T21:32:35Z,1,2,MeiSiristhebest,freeCodeCamp,freeCodeCamp
+8e29895930f4d221f0acc1a4fa541104fa6f7767,fix(curriculum): use prose for count in Step 51 (#69184),2026-08-01T14:58:07Z,1,2,mohamedmastouri-hue,freeCodeCamp,freeCodeCamp
+c6dbafb71e71df6906d2d7ff7451384effc4dafe,feat(curriculum): add interactive editors to event bubbling lesson (#…,2026-08-01T14:39:58Z,1,64,SudhamshuH,freeCodeCamp,freeCodeCamp
+ea05bcec8410e7af5740872a24ae731037298a59,fix: Fix CSS flexbox lecture content issues (#69177),2026-08-01T11:42:15Z,1,10,Kunal241207,freeCodeCamp,freeCodeCamp
+7c70c53a758beac0e997f5a8ccdb72da1ca9934e,fix(curriculum): clarify Step 34 width property wording (#69172),2026-08-01T09:32:49Z,1,2,d3vpool,freeCodeCamp,freeCodeCamp
+60308359d54d4adc1b5de85120b743db6fd5d73e,refactor(curriculum): replace regex-based test cases in Breadth First…,2026-08-01T08:49:57Z,3,38,bdtripp,freeCodeCamp,freeCodeCamp
+90e98ed9d355f57a01f6f39b3bd7a8998f03227c,fix(curriculum): update description for cafe menu step 25 (#69159),2026-08-01T07:59:18Z,2,4,TheRodzz,freeCodeCamp,freeCodeCamp
+9598d291cd71d0973fcac5dcfc6e1d0141789c4a,fix(curriculum): improve string lessons (#69163),2026-08-01T07:23:43Z,3,23,anjupathak03,freeCodeCamp,freeCodeCamp
+891592d724bf9f337e92760231ef1c1d7d4612e2,fix(curriculum): typo in cafe menu step 27 (#69162),2026-08-01T07:00:11Z,1,2,benpaul2002,freeCodeCamp,freeCodeCamp
 522b60813c9ff7294b4cf10d6f12aa3b033ecf19,fix(curriculum): clarify hint wording for Hotel Feedback Form steps 1…,2026-07-31T21:16:31Z,4,12,Funmax365,freeCodeCamp,freeCodeCamp
 0f1d2607b88deaabb7dbf88abcdcc0660f513665,fix(curriculum): fix plural possessive typo in Cafe Menu step 37 (#69…,2026-07-31T21:04:03Z,1,2,developmentwithparth1311,freeCodeCamp,freeCodeCamp
 05992eaeb92aa7e76ca5f19bb8c53ef4819d28bf,fix(curriculum): refactor workshop cafe menu assertions to use DOM (#…,2026-07-31T18:26:06Z,19,85,rohit-h11,freeCodeCamp,freeCodeCamp
@@ -729,6 +738,3 @@ ccc32e1f5926d37eed8d0af5d09c9f7fb808825a,fix(curriculum): repair failing border 
 482de9f187c8f3c126a62a6996b9e582ae195ec7,feat(ui): view challenge source link (#66305),2026-05-02T15:28:18Z,12,106,a2937,freeCodeCamp,freeCodeCamp
 791fdec3285b0025c7fa32c4f6830eeb35b3f8af,chore(deps): update dependency msw to v2.13.6 (#67183),2026-05-02T07:01:06Z,1,116,renovate[bot],freeCodeCamp,freeCodeCamp
 636390f6f28a932b9cb0b88d473ddc359b46a8d3,fix(deps): update dependency typebox to v1.1.33 (#67186),2026-05-02T07:00:50Z,2,21,renovate[bot],freeCodeCamp,freeCodeCamp
-d375f258a92d1cde493b6d289a08c651d9aa5f6e,fix(curriculum): add missing inputType to zh-a1 task-17 (#67198),2026-05-01T23:04:07Z,1,1,majestic-owl448,freeCodeCamp,freeCodeCamp
-d4a091651b36fec118e84875f60acfca86b6404c,fix(curriculum): simplify empty board formatToString test in lab-proj…,2026-05-01T11:27:00Z,1,13,ragini-pandey,freeCodeCamp,freeCodeCamp
-bb92cb4f2de5cf26e97b34a62fcf4001d8985485,fix(curriculum): update searching sorting quiz block config (#67193),2026-05-01T06:51:06Z,1,4,rio767,freeCodeCamp,freeCodeCamp
