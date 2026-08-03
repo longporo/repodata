@@ -1,4 +1,8 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+021eec557047382ff6cd9002b7fd09cd0d0c2c50,fix(curriculum): add missing preposition in cafe menu step 58 (#69201),2026-08-02T13:29:30Z,1,2,raahu1l,freeCodeCamp,freeCodeCamp
+275eab2a9ddb80de9dd25407a7d8f63e3030a805,refactor(curriculum): replace greeting bot regex tests with helpers (…,2026-08-02T10:56:46Z,10,84,Er-SarthakBansal,freeCodeCamp,freeCodeCamp
+45b5c1e26d54f8b27353040b28f44937ea9efa0c,fix(curriculum): correct spelling and wording in cafe-menu step 66 (#…,2026-08-02T10:24:53Z,1,5,NitheshNaik,freeCodeCamp,freeCodeCamp
+0f890bb3e27576c8c74117def6defd0bf735a228,fix(curriculum): clarify Cafe Menu workshop Step 48 section hint (#69…,2026-08-02T06:44:02Z,1,2,SujayBWJ,freeCodeCamp,freeCodeCamp
 78e7c24e89374449f5b997d2298fc464f9159853,fix(curriculum): format price class as code in step 41 (#69178),2026-08-01T21:32:35Z,1,2,MeiSiristhebest,freeCodeCamp,freeCodeCamp
 8e29895930f4d221f0acc1a4fa541104fa6f7767,fix(curriculum): use prose for count in Step 51 (#69184),2026-08-01T14:58:07Z,1,2,mohamedmastouri-hue,freeCodeCamp,freeCodeCamp
 c6dbafb71e71df6906d2d7ff7451384effc4dafe,feat(curriculum): add interactive editors to event bubbling lesson (#…,2026-08-01T14:39:58Z,1,64,SudhamshuH,freeCodeCamp,freeCodeCamp
@@ -735,6 +739,3 @@ ccc32e1f5926d37eed8d0af5d09c9f7fb808825a,fix(curriculum): repair failing border 
 23242f3eca15049c7a6777bfbbf14c130babfefa,fix(settings): make certification tables full width (#67185),2026-05-03T21:14:26Z,1,5,Sembauke,freeCodeCamp,freeCodeCamp
 31b8b3fad6777a36e358dff7eb33e5b8b705a2e8,chore(deps): update dependency i18next-fs-backend to v2.6.5 (#67205),2026-05-03T04:57:41Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
 2c0dd791a4badea9f655f51715fdaf788ad84d0c,chore(deps): update github actions (#67206),2026-05-03T04:44:43Z,9,44,renovate[bot],freeCodeCamp,freeCodeCamp
-482de9f187c8f3c126a62a6996b9e582ae195ec7,feat(ui): view challenge source link (#66305),2026-05-02T15:28:18Z,12,106,a2937,freeCodeCamp,freeCodeCamp
-791fdec3285b0025c7fa32c4f6830eeb35b3f8af,chore(deps): update dependency msw to v2.13.6 (#67183),2026-05-02T07:01:06Z,1,116,renovate[bot],freeCodeCamp,freeCodeCamp
-636390f6f28a932b9cb0b88d473ddc359b46a8d3,fix(deps): update dependency typebox to v1.1.33 (#67186),2026-05-02T07:00:50Z,2,21,renovate[bot],freeCodeCamp,freeCodeCamp
