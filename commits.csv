@@ -1,4 +1,13 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+78fa6d68996e63fee8b66bfd56ad3ae4636a3e9d,fix(curriculum): fix typo in Workshop Cafe Menu Step 76 (#69272),2026-08-04T20:58:36Z,1,2,manjushree66,freeCodeCamp,freeCodeCamp
+6fa1b5cb31f7b6eb7286a8188b25ad0771399a92,"fix(api): revert ""fix: atomic concurrent modern-challenge updates (#6…",2026-08-04T13:09:37Z,9,157,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+604ae9fd7c385467b04cce3a872a2e892182e176,fix(client): dc calendar showing future challenges (#69256),2026-08-04T11:23:30Z,2,118,moT01,freeCodeCamp,freeCodeCamp
+be3d9ffcdab81fa57d92a6ae42a0b3e35fb70680,fix(curriculum): stub fetch in fCC Forum Leaderboard lab tests (#69242),2026-08-04T10:38:39Z,1,534,majestic-owl448,freeCodeCamp,freeCodeCamp
+a8e20bfe545ced139a52681b6dbb540733166def,fix(curriculum): stub fetch in Digital Pet Game lab tests (#69241),2026-08-04T10:37:13Z,1,1,majestic-owl448,freeCodeCamp,freeCodeCamp
+80b751082ca3deba833dc5f44be38f3edc4c7245,fix(curriculum): stub fetch in fCC Authors Page workshop step 26 test…,2026-08-04T10:36:04Z,1,6,majestic-owl448,freeCodeCamp,freeCodeCamp
+c5ff73d401bcf1f1c173220ccf651ca2c6e0663d,fix: (curriculum): replace regex tests with Explorer AST in Nth Fib (…,2026-08-04T06:50:50Z,1,13,SanthoshBalagur,freeCodeCamp,freeCodeCamp
+7b07e02ed84f5f34941f5fa624f023f7e76c52e7,fix(curriculum): audit editable regions for workshop-cat-painting (#6…,2026-08-04T06:31:07Z,80,3320,SanthoshBalagur,freeCodeCamp,freeCodeCamp
+706693bcc20e038d2c7a59c5429e31b713463e7f,fix(curriculum): add redeclaration example to let and const lecture (…,2026-08-04T06:02:15Z,1,10,nguyenduybao1,freeCodeCamp,freeCodeCamp
 bcc3e06dbc764678647bfd149900d652daab743f,fix(client): use span for donate FAQ titles (#69263),2026-08-04T00:55:39Z,2,6,duna-akin,freeCodeCamp,freeCodeCamp
 7f796364b30fbedefdd957d2148318180c7f4737,fix(curriculum): possession in speculation and requests (#69261),2026-08-03T23:50:00Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 705fa9d9c1c611b391c93f5fae89cfcb63b95379,fix(curriculum): clarify spacing description in Cafe Menu Step 82 (#6…,2026-08-03T22:18:45Z,1,2,aryanraj7791,freeCodeCamp,freeCodeCamp
@@ -749,11 +758,3 @@ c911f5e8b95ad13770d7056066dfd7cfd04a16f8,fix(deps): update dependency postcss to
 3d60ec7e03e62d9d7456313865887dba2407cdec,chore(deps): update dependency typescript-eslint to v8.59.1 (#67232),2026-05-05T15:00:50Z,1,154,renovate[bot],freeCodeCamp,freeCodeCamp
 887adac8c8709565ff2e8accb478a5426704493a,fix: replace broken tone version (#67234),2026-05-05T15:00:38Z,2,26,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 07139410364ca20949001cfbd6b7faddb373f459,feat(curriculum): add football player card tsx project (#67076),2026-05-05T12:56:45Z,74,39113,Ksound22,freeCodeCamp,freeCodeCamp
-6c9b077ff87e12a627057321b247273e348b6765,fix(curriculum): add missing word to dialogue transcript (#67233),2026-05-05T01:29:59Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-a03512c88359d462aa1e690b66cc59fd56e2516d,"chore(i18n,client): processed translations (#67226)",2026-05-05T01:25:37Z,10,40,camperbot,freeCodeCamp,freeCodeCamp
-8308900f6f6be6303ba94a92d8d748eaf6cf6086,"chore(i18n,learn): update i18n-curriculum submodule (#67228)",2026-05-04T20:10:03Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-91360cc4cefce09556d94385a71f600f1d1a911a,chore(deps): update dependency caniuse-lite to v1.0.30001791 (#67216),2026-05-04T14:06:26Z,2,16,renovate[bot],freeCodeCamp,freeCodeCamp
-f6488622c2dc4a069837d099a52d9341a7890c73,fix(deps): update dependency ajv to v8.20.0 (#67215),2026-05-04T14:06:21Z,2,42,renovate[bot],freeCodeCamp,freeCodeCamp
-10b8256ec0277cda85b989c42a8d44a56bdd7afc,fix(curriculum): relax step 18 unknown key checks (#67130),2026-05-04T11:24:37Z,1,17,caio-bittencourt,freeCodeCamp,freeCodeCamp
-0e2af859d01874a05728a63c47a7d8b9e9c6bf24,fix(curriculum): clarify Fibonacci user story to use 0-indexed sequen…,2026-05-04T07:46:33Z,2,8,bdtripp,freeCodeCamp,freeCodeCamp
-ccc32e1f5926d37eed8d0af5d09c9f7fb808825a,fix(curriculum): repair failing border test in form step 35 (#67044),2026-05-04T07:40:24Z,1,2,AyushK5ingh,freeCodeCamp,freeCodeCamp
