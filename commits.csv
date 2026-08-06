@@ -1,4 +1,14 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+f4b07d54ac9e189536b62e1c852f4f8746cb6ba9,fix(curriculum): improve prose consistency in cargo manifest validato…,2026-08-05T23:43:50Z,1,165,Sembauke,freeCodeCamp,freeCodeCamp
+c9666713457986931d3d02a88bb3ade22d21fa9b,fix(curriculum): improve prose consistency in reusable mega navbar wo…,2026-08-05T23:30:11Z,10,53,Sembauke,freeCodeCamp,freeCodeCamp
+eb65b09fe146c9542fefa45cad76ac691ace1ac6,fix(curriculum): allow a corner header cell in availability table lab…,2026-08-05T23:14:04Z,1,6,majestic-owl448,freeCodeCamp,freeCodeCamp
+5f220bb865b7e857729f9e79d04e78a3ceb37294,fix(curriculum): clarify option count in weather app hint (#69282),2026-08-05T23:11:19Z,1,4,majestic-owl448,freeCodeCamp,freeCodeCamp
+f0a7d3a4a0a1eb3bb78bf002cf9d5da81c54ba3c,fix: update challenge 359 rounding test case (#69284),2026-08-05T18:23:26Z,2,8,Rikka-8964,freeCodeCamp,freeCodeCamp
+97320a9139e1a3dbcb1a9287e535108523dca0c3,fix(curriculum): Editable region markers in workshop-build-a-football…,2026-08-05T16:59:01Z,71,719,Vishhh03,freeCodeCamp,freeCodeCamp
+edaa960ce7114212b53a32503d6e35127d453806,fix(curriculum): improve Flexbox lecture content and examples (#69265),2026-08-05T15:50:00Z,2,243,Kunal241207,freeCodeCamp,freeCodeCamp
+3746de82cf9eedfb03abae987d5fa1817427d249,feat(client): upgrade to React 19 (#69271),2026-08-05T11:52:18Z,98,1249,Sembauke,freeCodeCamp,freeCodeCamp
+397e04dda353327253c799f231c3561cb8d46a24,refactor(curriculum): correct Greeting Bot Step 15 solution (#69277),2026-08-05T10:23:52Z,1,6,SnehaAN144,freeCodeCamp,freeCodeCamp
+17b9b993f8d2dc1f7304c321054c8f736e56aab3,fix(curriculum): avoid implicit globals in Product Showcase Lab (#69269),2026-08-05T07:08:15Z,1,17,MkhalFadel,freeCodeCamp,freeCodeCamp
 78fa6d68996e63fee8b66bfd56ad3ae4636a3e9d,fix(curriculum): fix typo in Workshop Cafe Menu Step 76 (#69272),2026-08-04T20:58:36Z,1,2,manjushree66,freeCodeCamp,freeCodeCamp
 6fa1b5cb31f7b6eb7286a8188b25ad0771399a92,"fix(api): revert ""fix: atomic concurrent modern-challenge updates (#6…",2026-08-04T13:09:37Z,9,157,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 604ae9fd7c385467b04cce3a872a2e892182e176,fix(client): dc calendar showing future challenges (#69256),2026-08-04T11:23:30Z,2,118,moT01,freeCodeCamp,freeCodeCamp
@@ -752,9 +762,3 @@ b0fb92471c32194fb16d0b598727d678868656cd,feat(client): add linux arm64 exam down
 f5774fc49b1e76f66b38b9a035306c78b0532fe1,fix(deps): update algolia-instantsearch monorepo (#67241),2026-05-06T05:08:49Z,2,62,renovate[bot],freeCodeCamp,freeCodeCamp
 c911f5e8b95ad13770d7056066dfd7cfd04a16f8,fix(deps): update dependency postcss to v8.5.12 (#67236),2026-05-06T05:08:44Z,2,310,renovate[bot],freeCodeCamp,freeCodeCamp
 8dc3d48f5a100bf25836f33fab229a1179ee0ff5,fix(deps): update dependency typebox to v1.1.34 (#67237),2026-05-06T05:08:41Z,2,32,renovate[bot],freeCodeCamp,freeCodeCamp
-2250819ab1a8d81a24f0066096fba5055505f306,chore(deps): update dependency tsdown to v0.21.10 (#67176),2026-05-05T15:09:25Z,1,201,renovate[bot],freeCodeCamp,freeCodeCamp
-6a857ba547c0fed969f53c304fbe2b793f7f36de,fix(client): handle MCQ options overflow (#67187),2026-05-05T15:09:05Z,1,1,huyenltnguyen,freeCodeCamp,freeCodeCamp
-1ab0425cf919129a7606428f67c758679a0c1832,chore(deps): update pnpm/action-setup digest to 8912a91 (#67231),2026-05-05T15:01:02Z,6,22,renovate[bot],freeCodeCamp,freeCodeCamp
-3d60ec7e03e62d9d7456313865887dba2407cdec,chore(deps): update dependency typescript-eslint to v8.59.1 (#67232),2026-05-05T15:00:50Z,1,154,renovate[bot],freeCodeCamp,freeCodeCamp
-887adac8c8709565ff2e8accb478a5426704493a,fix: replace broken tone version (#67234),2026-05-05T15:00:38Z,2,26,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-07139410364ca20949001cfbd6b7faddb373f459,feat(curriculum): add football player card tsx project (#67076),2026-05-05T12:56:45Z,74,39113,Ksound22,freeCodeCamp,freeCodeCamp
