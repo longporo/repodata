@@ -1,4 +1,20 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+645dbf7ba364a5377ac517cd7d4aba6310b2cf78,test: move RWD intro page coverage to client (#68363),2026-08-06T19:11:02Z,3,207,Sembauke,freeCodeCamp,freeCodeCamp
+93a0a975543d9f3ba0fa50ab1ddcc97beba9834e,test: move learn page coverage to client (#68366),2026-08-06T19:08:47Z,2,190,Sembauke,freeCodeCamp,freeCodeCamp
+78f1b70aa6281bedc9f7e655a84100649f24cf22,test: move challenge reset modal coverage to client (#68039),2026-08-06T19:06:11Z,2,187,Sembauke,freeCodeCamp,freeCodeCamp
+cfab7424188fc1ae34f2de5837e1c3a112494de2,test: move multiple choice question coverage to client (#68383),2026-08-06T19:04:01Z,2,169,Sembauke,freeCodeCamp,freeCodeCamp
+639ff5ac61534550decdd8b841bab52c7e952567,test: move help button coverage to client (#68345),2026-08-06T19:01:38Z,3,217,Sembauke,freeCodeCamp,freeCodeCamp
+4e418a16a449f517bd32c310a8ae9c9dd3df8992,fix(curriculum): correct CSS placeholder and selector wording in Cafe…,2026-08-06T17:16:47Z,1,4,1t1sCooL,freeCodeCamp,freeCodeCamp
+220ff7898556e560b22d951de62b74bb305d0c33,refactor(curriculum): Add Section Headers to Lecture: What Are Regex …,2026-08-06T15:52:38Z,1,12,SudhamshuH,freeCodeCamp,freeCodeCamp
+eb95251d467909929e92662a22e7aac1ca06cbc6,fix(curriculum): fix grammar and wording issues in mood board lab (#6…,2026-08-06T15:52:18Z,1,14,Sembauke,freeCodeCamp,freeCodeCamp
+228654e43eafe49d55cdda0aead8213fab395858,fix(curriculum): start hint text with You/Your in reusable footer lab…,2026-08-06T15:17:20Z,1,4,Sembauke,freeCodeCamp,freeCodeCamp
+7ef74ff623592bc65e39a63d0dd8de7b41cb7184,refactor(curriculum): Replace regex-based test cases in Calculator Wo…,2026-08-06T14:55:21Z,17,138,jeffrinkdev,freeCodeCamp,freeCodeCamp
+734dd74b598912dc541c6021e5a8e4e04069ac8e,"refactor(curriculum): update section headers for ""How Does the This K…",2026-08-06T14:40:07Z,1,10,Priyesh1311421,freeCodeCamp,freeCodeCamp
+57faa5eb56f8cca6b4799c0b71304ad12d9f9c89,feat(learn): warn for unsupported local resource imports (#67088),2026-08-06T13:44:38Z,5,255,Sembauke,freeCodeCamp,freeCodeCamp
+d2614d1c2ff567a31be8a9723b5d4b415970e5ea,fix(curriculum): add id attribute to element with class attribute to …,2026-08-06T12:29:57Z,1,29,Supravisor,freeCodeCamp,freeCodeCamp
+6d26c688fba244a19db4e1b0b00e093cc6413923,fix(curriculum): correct Step 67 description in Cafe Menu workshop (#…,2026-08-06T09:02:43Z,1,2,Sagar-Kumar01,freeCodeCamp,freeCodeCamp
+44d07f4df293eaffecaf492cf76f8a2bf78663c2,fix(curriculum): add section headers to external fonts lecture (#69353),2026-08-06T09:00:25Z,1,16,darmijo15,freeCodeCamp,freeCodeCamp
+05ae9b91a82d256fb59865caac788161aa6d3f67,fix(curriculum): typo in IDE name (#69354),2026-08-06T06:58:09Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 f4b07d54ac9e189536b62e1c852f4f8746cb6ba9,fix(curriculum): improve prose consistency in cargo manifest validato…,2026-08-05T23:43:50Z,1,165,Sembauke,freeCodeCamp,freeCodeCamp
 c9666713457986931d3d02a88bb3ade22d21fa9b,fix(curriculum): improve prose consistency in reusable mega navbar wo…,2026-08-05T23:30:11Z,10,53,Sembauke,freeCodeCamp,freeCodeCamp
 eb65b09fe146c9542fefa45cad76ac691ace1ac6,fix(curriculum): allow a corner header cell in availability table lab…,2026-08-05T23:14:04Z,1,6,majestic-owl448,freeCodeCamp,freeCodeCamp
@@ -752,13 +768,3 @@ c0e7131512b0a743728325939fcf52188f2414b7,chore(deps): update pnpm/action-setup a
 b5c41ded9c246f52c5b70404013e1a769a728045,fix(curriculum): update React import/export review pages for named an…,2026-05-08T04:05:19Z,2,132,azad12614,freeCodeCamp,freeCodeCamp
 09fff8f201859c689d989e9dae925ead2d3198fa,chore(deps): update actions/labeler digest to f27b608 (#67252),2026-05-07T06:12:12Z,1,2,renovate[bot],freeCodeCamp,freeCodeCamp
 df2f6f75663f83952f6ea3f4341724c17820957f,feat(curriculum): add images to css fonts lectures (#67188),2026-05-07T05:47:39Z,5,151,majestic-owl448,freeCodeCamp,freeCodeCamp
-24e5e9dd4d039faf0086c30a1c28f6dba6f46ec5,fix(curriculum): correct GitHub casing (#67262),2026-05-06T19:00:09Z,1,2,Agent-A345,freeCodeCamp,freeCodeCamp
-77ce853805b22c56a3c67a55c54591bd612a15d9,"chore(i18n,learn): update i18n-curriculum submodule (#67260)",2026-05-06T18:53:21Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-6fbc93431d9c7fe886d38b9e6ba719c0730fb59f,fix(curriculum): move d3 under ts module (#67251),2026-05-06T18:51:26Z,2,60,Ksound22,freeCodeCamp,freeCodeCamp
-7d62ea3f5fdd6494588d1abda5480985ee422fff,fix(client): privacy save button state (#67230),2026-05-06T14:29:07Z,1,10,Tidjani1Bachir,freeCodeCamp,freeCodeCamp
-b0fb92471c32194fb16d0b598727d678868656cd,feat(client): add linux arm64 exam download link (#67253),2026-05-06T14:21:49Z,2,31,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-3594149279851d71536b81b68f582aa70e616316,"chore(i18n,client): processed translations (#67254)",2026-05-06T13:38:56Z,11,64,camperbot,freeCodeCamp,freeCodeCamp
-782c7a97f14b9d3091ff2a1fa7b7ccd0ff2ce76e,chore: bump pnpm,2026-05-06T07:08:02Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
-f5774fc49b1e76f66b38b9a035306c78b0532fe1,fix(deps): update algolia-instantsearch monorepo (#67241),2026-05-06T05:08:49Z,2,62,renovate[bot],freeCodeCamp,freeCodeCamp
-c911f5e8b95ad13770d7056066dfd7cfd04a16f8,fix(deps): update dependency postcss to v8.5.12 (#67236),2026-05-06T05:08:44Z,2,310,renovate[bot],freeCodeCamp,freeCodeCamp
-8dc3d48f5a100bf25836f33fab229a1179ee0ff5,fix(deps): update dependency typebox to v1.1.34 (#67237),2026-05-06T05:08:41Z,2,32,renovate[bot],freeCodeCamp,freeCodeCamp
