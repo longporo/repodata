@@ -1,4 +1,13 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+b6c23a11a3db5e5bd2a1b87feb6f663fca22ccf3,"fix: Revert ""feat(client): upgrade to React 19 (#69271)"" (#69474)",2026-08-10T19:04:17Z,98,1249,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+41874d4bba0c7e96fed191189d2a3125abfe0758,fix(curriculum): added missing headers in design fundamentals challen…,2026-08-10T15:46:29Z,1,16,waleed-akram,freeCodeCamp,freeCodeCamp
+f564eaf08a3a0231392e145e49781effb00f0d98,chore(deps): update github actions (#69438),2026-08-10T14:26:25Z,14,112,renovate[bot],freeCodeCamp,freeCodeCamp
+6351acecc92b5f5b54e813af286b56e36537899f,"fix(curriculum): remove stray assertion args, add mood-board test, fi…",2026-08-10T14:15:42Z,1,14,Naman-bh,freeCodeCamp,freeCodeCamp
+2c76e3d4bc501c605405d3c50c1afab4c6ae1e9f,fix(curriculum): correct computer parts lecture (#69463),2026-08-10T14:06:40Z,1,28,SachaKefif,freeCodeCamp,freeCodeCamp
+54ace37a54b56ef05fb9b40e988f32544411e17e,fix(curriculum): replace regex-based tests with Explorer AST helper i…,2026-08-10T09:40:17Z,8,149,jaykumar14921,freeCodeCamp,freeCodeCamp
+e6b04faa828fb8a3e6e1353603bb974ad2cdb109,fix(curriculum): fix grammar and terminology consistency in reusable …,2026-08-10T08:08:21Z,6,14,Sembauke,freeCodeCamp,freeCodeCamp
+7e89f114499863dff693053d6e937c0f4bce95fc,fix(curriculum): correct grammar and hint wording in calculator works…,2026-08-10T07:51:21Z,9,25,jeffrinkdev,freeCodeCamp,freeCodeCamp
+fc824ff261abab5ba543adad9054035d1c4b5621,fix(curriculum): add section headers for innerText lecture (#69449),2026-08-10T07:15:00Z,1,10,saikiranrayabarapu,freeCodeCamp,freeCodeCamp
 e6abd0c6db438754168aea71baf1c9d067a76f36,fix(curriculum): improve Node advantages lesson (#69451),2026-08-10T01:28:35Z,1,10,sk-nayaz,freeCodeCamp,freeCodeCamp
 9105cda007c503c2d7855650c6956251e7dc0ceb,fix(curriculum): selector list in cafe menu (#69454),2026-08-10T00:53:53Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 b4d6c78f871e572cfa209ba2cedab2e9da18c2f6,fix(curriculum): gray spelling in cafe menu (#69452),2026-08-10T00:45:23Z,4,12,Supravisor,freeCodeCamp,freeCodeCamp
@@ -769,6 +778,3 @@ e55b4e14f71e9708abefefb07e1b73f58a5d6797,fix(curriculum):  Swapped the hint mess
 3e5f5cc93890c3bd6cea7ad536ddce9713fab5d8,feat(curriculum): daily challenges 279-294 (#67227),2026-05-11T14:49:57Z,35,2966,moT01,freeCodeCamp,freeCodeCamp
 aa6df83ac1dbb90fe88a6be919bc274e05df62e0,refactor(curriculum): use Dessert class in shopping cart workshop (#6…,2026-05-11T14:18:16Z,57,6085,Umesh-Tiruvalluru,freeCodeCamp,freeCodeCamp
 b316a368c48815c87ec8397e280547b501001f06,fix(curriculum): update focus style instructions and add outline test…,2026-05-11T07:24:32Z,1,10,AyushK5ingh,freeCodeCamp,freeCodeCamp
-0ae076e2d80d7be48754c8f31fe9446dbf86a530,chore(deps): update dependency turbo to v2.9.8 (#67312),2026-05-10T10:56:57Z,1,62,renovate[bot],freeCodeCamp,freeCodeCamp
-57caa92b35a964bfc0cd78839f33d7398bcd7a00,"chore(renovate): more groups, less approvals (#67310)",2026-05-10T06:51:18Z,1,155,raisedadead,freeCodeCamp,freeCodeCamp
-7b4891c445403e04602227209e8cae937a3e4646,chore(deps): update pnpm/action-setup action to v6.0.5 (#67309),2026-05-10T04:54:33Z,1,4,renovate[bot],freeCodeCamp,freeCodeCamp
