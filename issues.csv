@@ -1,20 +1,22 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X88AAAABMWZluQ,69484,Factorial Calculator only accepts regular function,OPEN,2026-08-11T19:20:11Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABL0qOLA,69390,Remove stray article before a code statement in Toggle Text App workshop Step 11,CLOSED,2026-08-07T08:34:02Z,2026-08-11T21:18:40Z,AzazelSensei,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABMHJoSA,69457,Grammar and tool-name casing errors in What Are the Different Types of Tools Professional Developers Use,CLOSED,2026-08-10T07:37:23Z,2026-08-11T15:16:58Z,arjun2075,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABMLLgUw,69470,Copy and formatting errors in How to Create a Project and Run Your Code Locally in VS Code,CLOSED,2026-08-10T16:01:33Z,2026-08-11T14:34:38Z,nidaAtGithub,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABMLMdPg,69471,Inconsistent extension name styling and unclear wording in What Are Some Good VS Code Extensions You Can Use in Your Editor?,CLOSED,2026-08-10T16:03:19Z,2026-08-11T09:36:50Z,jacobptnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMAUtUg,69446,Clarify lack of support on archived course pages,OPEN,2026-08-09T03:01:14Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMMK3lw,69473,Donate page loading blank.,CLOSED,2026-08-10T18:10:56Z,2026-08-10T19:04:19Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmZOA,68696,Replace regex-based test cases in Bug Emoji Picker Workshop,OPEN,2026-07-10T18:24:41Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMLMdPg,69471,Inconsistent extension name styling and unclear wording in What Are Some Good VS Code Extensions You Can Use in Your Editor?,OPEN,2026-08-10T16:03:19Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMLLgUw,69470,Copy and formatting errors in How to Create a Project and Run Your Code Locally in VS Code,OPEN,2026-08-10T16:01:33Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMLHURw,69469,Fix wording and capitalization inconsistencies in What Is a Code Editor and IDE?,OPEN,2026-08-10T15:53:42Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnGbGw,69339,Add Section Headers to Lecture: How Do You Create Good Background and Foreground Contrast in Your Designs?,CLOSED,2026-08-05T18:49:08Z,2026-08-10T15:46:31Z,waleed-akram,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMCWTRA,69448,Display issue on a freecodecamp learning page,OPEN,2026-08-09T13:20:37Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABL0q9Iw,69392,"Missing test, incomplete hint, and stray assertion arguments in the Build a Mood Board lab",CLOSED,2026-08-07T08:35:40Z,2026-08-10T14:15:44Z,Naman-bh,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMIHrOw,69459,Grammar and accuracy errors in the What Are the Basic Parts of a Computer lecture,CLOSED,2026-08-10T09:45:23Z,2026-08-10T14:06:42Z,SachaKefif,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDtQBCQ,67661,RTL language prep umbrella issue. WIP,OPEN,2026-05-28T20:53:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmdrQ,68704,Replace regex-based test cases in Fortune Teller App Workshop,CLOSED,2026-07-10T18:24:52Z,2026-08-10T09:40:20Z,jaykumar14921,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLwEdGw,69375,Backend lessons don't mention ES module imports,CLOSED,2026-08-06T17:34:35Z,2026-08-10T07:58:40Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMHKJtw,69458,"Grammar, spelling, and capitalization errors in What Are the Different Types of Internet Service Providers",OPEN,2026-08-10T07:38:37Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMHJoSA,69457,Grammar and tool-name casing errors in What Are the Different Types of Tools Professional Developers Use,OPEN,2026-08-10T07:37:23Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMHI-og,69456,Two ambiguous questions in the CSS Grid Quiz,OPEN,2026-08-10T07:35:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnFcbg,69327,"Add Section Headers to Lecture: What Is the Difference Between innerText, textContent, and innerHTML?",CLOSED,2026-08-05T18:47:12Z,2026-08-10T07:15:02Z,SaikiranRayabarapu,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABL1CmYA,69394,Inaccurate threading statements and formatting problems in the Node advantages and disadvantages lesson,CLOSED,2026-08-07T09:29:43Z,2026-08-10T01:28:36Z,Sk Nayaz Ahmed,freeCodeCamp,freeCodeCamp
@@ -53,7 +55,6 @@ I_kwDOAbI7X88AAAABLvP0Fw,69370,Consider breaking up install node lecture into tw
 I_kwDOAbI7X88AAAABLucWOA,69365,Misleading code example in backend lesson,CLOSED,2026-08-06T13:53:26Z,2026-08-07T09:30:40Z,Rashid0312;majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABL1ChpA,69393,Content and formatting problems in the What is Node lesson of the Introduction to Node.js module,OPEN,2026-08-07T09:29:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnGh-w,69341,"Add Section Headers to Lecture: What Are Classes, and How Do They Work in JavaScript?",CLOSED,2026-08-05T18:49:20Z,2026-08-07T09:27:46Z,majestic-owl448;priyansh3010,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABL0qOLA,69390,Remove stray article before a code statement in Toggle Text App workshop Step 11,OPEN,2026-08-07T08:34:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmoOg,68723,Replace regex-based test cases in Todo App Workshop,OPEN,2026-07-10T18:25:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnGmXg,69342,Add Section Headers to Lecture: What Are Font Families and How Do They Work?,CLOSED,2026-08-05T18:49:27Z,2026-08-07T08:13:24Z,SudhamshuH,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnFqDg,69330,Add Section Headers to Lecture: What Is the Difference Between Presentational and Semantic HTML?,CLOSED,2026-08-05T18:47:39Z,2026-08-07T08:10:56Z,Webmekanic,freeCodeCamp,freeCodeCamp
@@ -765,8 +766,3 @@ I_kwDOAbI7X88AAAABBwW1bA,67300,"Incorrect statement about DOM nodes in the “Wh
 MDU6SXNzdWU2MDU1NzY5MA==,183,Trello Link Dead,CLOSED,2015-03-10T19:45:23Z,2015-03-10T23:35:21Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABBlIMtw,67272,Design a Movie Review - Translation Issue: Portuguese,CLOSED,2026-05-07T18:17:52Z,2026-05-12T03:48:22Z,camperbot,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X863pUiQ,60472,Refactor shopping cart workshop,CLOSED,2025-05-21T18:17:00Z,2026-05-11T14:18:18Z,Umesh-Tiruvalluru,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABB0ZPEA,67315,Incorrect wording for hint message,CLOSED,2026-05-10T22:26:06Z,2026-05-12T00:14:11Z,TEE0207;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABB2HSyw,67319,missing colon in **User Stories** header in 5 labs,CLOSED,2026-05-11T07:15:25Z,2026-05-11T19:46:03Z,PaperCodeGithub,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABB2FYeQ,67318,missing **User Stories** header,CLOSED,2026-05-11T07:10:07Z,2026-05-11T17:45:43Z,atharv96k,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABBwTz9A,67299,Pomodoro study timer to the learn page,CLOSED,2026-05-09T14:05:28Z,2026-05-11T06:09:58Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87fbU-4,64786,lab job application form user story has result not visible,CLOSED,2025-12-19T18:57:44Z,2026-05-11T07:24:34Z,AyushK5ingh,freeCodeCamp,freeCodeCamp
