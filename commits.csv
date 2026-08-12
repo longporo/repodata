@@ -1,4 +1,10 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+674c6f132dbe283519f70017ab84391b50de8dd1,fix(curriculum): remove stray article in Toggle Text App Step 11 (#69…,2026-08-11T21:18:38Z,1,2,AzazelSensei,freeCodeCamp,freeCodeCamp
+03c1dd3cc94e78a70a77fb8f939287341756670a,fix(curriculum): correct wording and tool-name casing in developer to…,2026-08-11T15:16:56Z,1,10,arjun2075,freeCodeCamp,freeCodeCamp
+1b2eef760726abfc4931611c8107ed6dfb3a797a,fix(curriculum): copy and formatting errors in VS Code lesson (#69480),2026-08-11T14:34:36Z,1,22,nidaAtGithub,freeCodeCamp,freeCodeCamp
+8bfb2c54258f9f49edd7cd6e18f8e285803a23c5,feat(scripts): add catalog data to external curriculum build (#69472),2026-08-11T11:51:50Z,4,147,Sembauke,freeCodeCamp,freeCodeCamp
+f96044a8f704303b91e0848d4349a634cc76745a,fix(curriculum): clarify VS Code extension text (#69475),2026-08-11T09:36:48Z,1,26,jacobptnguyen,freeCodeCamp,freeCodeCamp
+687421e6a70ebf6fb637a5de031d0b37269d95e7,chore(deps): use allowBuilds in pnpm-workspace (#69476),2026-08-11T06:07:31Z,2,29,raisedadead,freeCodeCamp,freeCodeCamp
 b6c23a11a3db5e5bd2a1b87feb6f663fca22ccf3,"fix: Revert ""feat(client): upgrade to React 19 (#69271)"" (#69474)",2026-08-10T19:04:17Z,98,1249,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 41874d4bba0c7e96fed191189d2a3125abfe0758,fix(curriculum): added missing headers in design fundamentals challen…,2026-08-10T15:46:29Z,1,16,waleed-akram,freeCodeCamp,freeCodeCamp
 f564eaf08a3a0231392e145e49781effb00f0d98,chore(deps): update github actions (#69438),2026-08-10T14:26:25Z,14,112,renovate[bot],freeCodeCamp,freeCodeCamp
@@ -772,9 +778,3 @@ fc8741bebc222e66ab2ed227205b587ef8eb0aa8,"chore(GHA): remove GC comments, automa
 cbda4cf5c9fbbd811b0d1a4c74d39bc481400a2f,fix(curriculum): clarify DOM element node wording (#67330),2026-05-12T08:23:40Z,1,2,MukundaKatta,freeCodeCamp,freeCodeCamp
 77c76d63e0c1fc548a73239c2a0728e6d2d3d12d,"chore(i18n,client): processed translations (#67323)",2026-05-12T03:50:02Z,20,458,camperbot,freeCodeCamp,freeCodeCamp
 376177214f64c318216178571e961d2595b4e633,"chore(i18n,learn): update i18n-curriculum submodule (#67326)",2026-05-12T03:48:20Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-e55b4e14f71e9708abefefb07e1b73f58a5d6797,fix(curriculum):  Swapped the hint messages for task-45 (#67317),2026-05-12T00:14:09Z,1,4,TEE0207,freeCodeCamp,freeCodeCamp
-5cff524db6ed3f83398497a47f0e3b1a2f6245cf,fix: add missing colons to User Stories headers (#67328),2026-05-11T19:46:01Z,5,10,PaperCodeGithub,freeCodeCamp,freeCodeCamp
-2a61da49427218cbe7952140afad3a9e98f55288,fix: add missing User Stories header in lab-travel-weather-planner (#…,2026-05-11T17:45:41Z,1,2,atharv96k,freeCodeCamp,freeCodeCamp
-3e5f5cc93890c3bd6cea7ad536ddce9713fab5d8,feat(curriculum): daily challenges 279-294 (#67227),2026-05-11T14:49:57Z,35,2966,moT01,freeCodeCamp,freeCodeCamp
-aa6df83ac1dbb90fe88a6be919bc274e05df62e0,refactor(curriculum): use Dessert class in shopping cart workshop (#6…,2026-05-11T14:18:16Z,57,6085,Umesh-Tiruvalluru,freeCodeCamp,freeCodeCamp
-b316a368c48815c87ec8397e280547b501001f06,fix(curriculum): update focus style instructions and add outline test…,2026-05-11T07:24:32Z,1,10,AyushK5ingh,freeCodeCamp,freeCodeCamp
