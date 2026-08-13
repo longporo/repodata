@@ -1,4 +1,16 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+684a580d787ee64f7053f86a5a4dc8fa5b2ed2f9,refactor(client): use Languages enum for clientLocale in video-player…,2026-08-13T00:38:46Z,1,10,syedsohailhussain1,freeCodeCamp,freeCodeCamp
+b74ef511b59daf2c14db8948fb0ae99743a4b17a,fix(client): align The Odin Project intro.json block order with the s…,2026-08-13T00:15:21Z,1,12,abdulwaarith0,freeCodeCamp,freeCodeCamp
+ce5748f3c8192c8753db66c96eeb6a0a0028d0b7,fix(curriculum): stub fetch in Motorcycle Shop lab tests (#69243),2026-08-12T22:03:39Z,1,301,majestic-owl448,freeCodeCamp,freeCodeCamp
+a7e28fd2bcde0283920dfd50eb8d90a0230a158d,fix: reorder lab-world-cup-database to correct position in curriculum…,2026-08-12T21:57:02Z,1,12,Anwiii,freeCodeCamp,freeCodeCamp
+2b8fb9a2068d697da9460508473d7d7457034471,fix: add missing lab-story-fragment-restoration to javascript-fundame…,2026-08-12T21:50:23Z,2,8,Kunal241207,freeCodeCamp,freeCodeCamp
+f686e87748c88dd45b3a2c91878cd3eca6e2313b,fix: stabilize dialog tests (#69500),2026-08-12T16:38:22Z,1,11,huyenltnguyen,freeCodeCamp,freeCodeCamp
+98d0a917ecb47e0583c5d15d9ccd6706ec28f412,test(client): move signout modal rendering coverage to client (#68512),2026-08-12T16:37:47Z,5,237,Sembauke,freeCodeCamp,freeCodeCamp
+ca185a2acdc916946ddce84029ea32409d7b0a43,fix(curriculum): restore list sub-headings in backend lessons (#69502),2026-08-12T16:14:57Z,3,34,Dario-DC,freeCodeCamp,freeCodeCamp
+d1b303847e9a6a76469d15d049fd77e6e0df3273,fix(curriculum): correct the wrong preposition (#69501),2026-08-12T14:21:02Z,1,2,MahyarCode,freeCodeCamp,freeCodeCamp
+fa2b1f067fa02d3fbc08544acc4e34faf4211969,fix(curriculum): correct Node.js lesson wording (#69492),2026-08-12T11:31:12Z,1,12,Lavanya-N24,freeCodeCamp,freeCodeCamp
+9c64f91b0754fddf125f3f313c7b976dc95343b7,fix(curriculum): correct ISP lesson wording (#69483),2026-08-12T10:26:21Z,1,20,fuentez145,freeCodeCamp,freeCodeCamp
+0febf22779c9d5df562dd411dbe11365dca397a8,test(e2e): make donation payment widgets run on every PR (#69477),2026-08-12T07:30:35Z,8,646,Sembauke,freeCodeCamp,freeCodeCamp
 674c6f132dbe283519f70017ab84391b50de8dd1,fix(curriculum): remove stray article in Toggle Text App Step 11 (#69…,2026-08-11T21:18:38Z,1,2,AzazelSensei,freeCodeCamp,freeCodeCamp
 03c1dd3cc94e78a70a77fb8f939287341756670a,fix(curriculum): correct wording and tool-name casing in developer to…,2026-08-11T15:16:56Z,1,10,arjun2075,freeCodeCamp,freeCodeCamp
 1b2eef760726abfc4931611c8107ed6dfb3a797a,fix(curriculum): copy and formatting errors in VS Code lesson (#69480),2026-08-11T14:34:36Z,1,22,nidaAtGithub,freeCodeCamp,freeCodeCamp
@@ -30,7 +42,7 @@ ec34d27fef64c99699aabdf715a392666e7748af,fix(curriculum): fixed step 48 in the e
 1d52f100305b65d30fd6a37d2eb795076de31c41,refactor(curriculum): Add Section Headers to Lecture: What Is the Dif…,2026-08-07T15:23:44Z,1,8,SudhamshuH,freeCodeCamp,freeCodeCamp
 bea6fd81e9da9f7145774e3f6cef8e7f6cf99f71,fix(curriculum): remove extra period in learn how to plan future even…,2026-08-07T13:11:48Z,1,2,raitaskeen,freeCodeCamp,freeCodeCamp
 5c54871819595b52d4dceb05f028ef377d621363,fix(client): align FEDL v9 intro.json block order with the superblock…,2026-08-07T13:07:32Z,1,24,minutechreview,freeCodeCamp,freeCodeCamp
-e652e3b379ac2793028afe9a4124b97b67b84a73,fix(client): align intro block order with superblock (#69400),2026-08-07T12:23:24Z,1,12,AnandNair4,freeCodeCamp,freeCodeCamp
+e652e3b379ac2793028afe9a4124b97b67b84a73,fix(client): align intro block order with superblock (#69400),2026-08-07T12:23:24Z,1,12,Dazzanova,freeCodeCamp,freeCodeCamp
 60bd8a07e61c52d1451dc8002a54906f588c78d2,fix(curriculum): correct misleading catch block log in fs module less…,2026-08-07T09:30:38Z,1,4,Rashid0312,freeCodeCamp,freeCodeCamp
 fd7804d93be9146f59316657935bf7a78c00daf0,"refactor(curriculum): add section headers for ""What Are Classes, and …",2026-08-07T09:27:45Z,1,12,priyansh3010,freeCodeCamp,freeCodeCamp
 5f6429fdabc7f8a4b2329f2d7b851301518996f0,fix(client): fix broken lint on main in multiple-choice-questions.tes…,2026-08-07T08:44:41Z,2,22,Sembauke,freeCodeCamp,freeCodeCamp
@@ -301,7 +313,7 @@ b782a4d9f6dfe4c59bd2e266b034374dae9c2c73,fix(client): update graduate count in f
 3f2d2167e5f7dc647eccac8123b5b5d000dc62ea,fix(curriculum): correct punctuation in HTML boilerplate lecture (#68…,2026-07-12T10:20:39Z,1,2,thetalhamubarak,freeCodeCamp,freeCodeCamp
 29fafcab9c140d19dccea41b75fe431d50e3b4e1,fix(curriculum): use Explorer helper in inventory lab test (#68729),2026-07-11T18:50:40Z,1,5,neetcodeprogress-lang,freeCodeCamp,freeCodeCamp
 acd7f28b3ab5b4478d2349829cc94a431b9ad5fd,chore(curriculum): audit editable regions for workshop-festival-crowd…,2026-07-11T18:44:23Z,25,52,bdtripp,freeCodeCamp,freeCodeCamp
-281d612f8536f8cd9bbc95c7215837bbe4885cff,fix(curriculum): remove dead conditional in regex sandbox lab (#68734),2026-07-11T18:34:48Z,1,12,AnandNair4,freeCodeCamp,freeCodeCamp
+281d612f8536f8cd9bbc95c7215837bbe4885cff,fix(curriculum): remove dead conditional in regex sandbox lab (#68734),2026-07-11T18:34:48Z,1,12,Dazzanova,freeCodeCamp,freeCodeCamp
 d03eab81d62fd6f6dd142b9af4b41dc6bedbc37d,fix(curriculum): audit editable regions in colorful boxes workshop (#…,2026-07-11T18:30:29Z,43,2798,imsomilg,freeCodeCamp,freeCodeCamp
 31075bac011aabed5c6fef0c4b27246984c0f2e9,fix(curriculum): fix formatting issues in fortune teller workshop (#6…,2026-07-11T14:35:33Z,40,173,imsomilg,freeCodeCamp,freeCodeCamp
 1e192373bb7092a1732b01aceab38d98a3a99131,fix(curriculum): correct ordinal in Step 9 hints (#68683),2026-07-10T20:36:50Z,1,4,rarestpreet,freeCodeCamp,freeCodeCamp
@@ -335,7 +347,7 @@ aa0bc07758add3abb2938f7e797531894b1b2067,fix(curriculum): replace curly apostrop
 f7f7667b17e95d284c18d55eddca137ac4080f1d,chore(curriculum): add semicolon to console logs (#68615),2026-07-08T06:13:59Z,16,104,Supravisor,freeCodeCamp,freeCodeCamp
 40f1fda4d727bf363d687fc89cf5b98ca7dfc750,"chore(i18n,learn): update i18n-curriculum submodule (#68613)",2026-07-07T21:04:43Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 20f88fac01a0802f76f070c690cf4ba2f597817e,fix(curriculum): improve HTML boilerplate consistency (#68612),2026-07-07T18:40:35Z,1,4,shivangiii18,freeCodeCamp,freeCodeCamp
-0d7ebf84991a60c52068ba6e80426f824d726c03,fix(curriculum): align data structures quiz with review (#68605),2026-07-07T17:09:00Z,1,20,AnandNair4,freeCodeCamp,freeCodeCamp
+0d7ebf84991a60c52068ba6e80426f824d726c03,fix(curriculum): align data structures quiz with review (#68605),2026-07-07T17:09:00Z,1,20,Dazzanova,freeCodeCamp,freeCodeCamp
 62a6ee57e5090e794d0655e2b454ca7e85d08500,fix(curriculum): correct writing errors in fortune teller app worksho…,2026-07-07T16:27:30Z,2,4,runxii,freeCodeCamp,freeCodeCamp
 13b039bb8502991a71328c8daa41376b3fa8f5ee,fix(curriculum): fix grammar and formatting in CSS Colors Review (#68…,2026-07-07T15:34:32Z,1,12,snehaaa-16,freeCodeCamp,freeCodeCamp
 00c232215daa5798e70e51cd9d53cbeec71cf387,"chore(i18n,learn): update i18n-curriculum submodule (#68590)",2026-07-07T11:31:21Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
@@ -356,7 +368,7 @@ c68095ebbd2b3515d7b998cb0fa77b334c721cfc,fix(curriculum): remove dot notation fr
 62a50c4d3139c31394898e2cf8a240ef1b9ea0ab,fix(curriculum): update grid quiz distractor (#68542),2026-07-05T18:32:40Z,1,2,ankush2311025,freeCodeCamp,freeCodeCamp
 e474e24671a4ccb1b9d98454f65800ed6b3a1254,fix: correct grammar in Debug Camperbot's Profile Page user stories (…,2026-07-05T18:29:57Z,1,4,virendra9768,freeCodeCamp,freeCodeCamp
 25a9ddf5e547dc26a78745ecb3522c416a8db52b,fix(curriculum): fixed basic typos in wildlife tracker workshop (#68552),2026-07-05T18:28:39Z,4,8,yashvi-jain,freeCodeCamp,freeCodeCamp
-43c2a5f089940756be11255db194493d85b0e2fc,fix(curriculum): align CSS Colors review with lecture content (#68522),2026-07-05T18:24:11Z,1,13,AnandNair4,freeCodeCamp,freeCodeCamp
+43c2a5f089940756be11255db194493d85b0e2fc,fix(curriculum): align CSS Colors review with lecture content (#68522),2026-07-05T18:24:11Z,1,13,Dazzanova,freeCodeCamp,freeCodeCamp
 2481cd6336c80c6f2b91f08184f83968b81b0ff6,"chore(i18n,learn): update i18n-curriculum submodule (#68556)",2026-07-04T21:55:31Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 810b2ccb63dfaa7ed585f30025574b196efc2986,fix(curriculum): editable regions in workshop fortune teller app (#68…,2026-07-04T09:56:40Z,52,1606,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 0345b064dd64ce8ea1b4d084730b276216888f22,fix(curriculum): correct apostrophes and lowercase spelling in react …,2026-07-04T09:36:08Z,1,4,Ayush28051,freeCodeCamp,freeCodeCamp
@@ -386,7 +398,7 @@ eaf02184eff6f5adb5fad5f88a7a2b588b4fe21c,fix: Fix recipe tracker hint (#68475),2
 9e700bb9f1ede6d3b0636c44968ae71260721b20,fix(curriculum): correct cipher workshop typo (#68473),2026-07-02T14:26:39Z,1,2,EduardF1,freeCodeCamp,freeCodeCamp
 f150f1c3098265d38f25a85c049e1fc352989549,fix(curriculum): audit editable regions in bug emoji picker workshop …,2026-07-02T13:31:39Z,19,206,arunkumar0398,freeCodeCamp,freeCodeCamp
 fd3e1c645711f637c2495118bbd1d30f72d5df51,fix(curriculum): update description of step 33 in Decimal to Binary C…,2026-07-02T13:13:21Z,1,6,imsomilg,freeCodeCamp,freeCodeCamp
-06a57fe7a89d9ac0972da6159a1cedfc6b66deaf,fix(curriculum): correct medium difficulty lower bound (#68465),2026-07-02T10:30:55Z,1,2,AnandNair4,freeCodeCamp,freeCodeCamp
+06a57fe7a89d9ac0972da6159a1cedfc6b66deaf,fix(curriculum): correct medium difficulty lower bound (#68465),2026-07-02T10:30:55Z,1,2,Dazzanova,freeCodeCamp,freeCodeCamp
 c2996266f1a6fe1ef438e0f33231743c14032784,test: move seo coverage to client (#68390),2026-07-02T10:00:41Z,2,113,Sembauke,freeCodeCamp,freeCodeCamp
 d177ed214d91a1347f106a78dde7f34b5a7f9181,"chore(i18n,learn): update i18n-curriculum submodule (#68446)",2026-07-01T23:34:27Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 00346616097ca8220296e337beb57d0e86577528,"fix(curriculum): Method parentheses, ValidityState example, and phras…",2026-07-01T22:08:31Z,1,8,timothysmithdev,freeCodeCamp,freeCodeCamp
@@ -773,8 +785,3 @@ af87e4ef14b6409ff65ecb1a2e4f0dfc1bfe16f9,fix(curriculum): clarify useMemo rerend
 7ec47e28f2bc20b40de3e512da3374b1b7b9578c,"chore(i18n,client): processed translations (#67354)",2026-05-13T15:47:05Z,4,214,camperbot,freeCodeCamp,freeCodeCamp
 d367600acf738fc49263f83e6f26102c81a47bdb,fix: salary tracker step 32 misleading hint (#67324),2026-05-13T14:26:03Z,1,11,majestic-owl448,freeCodeCamp,freeCodeCamp
 fc8741bebc222e66ab2ed227205b587ef8eb0aa8,"chore(GHA): remove GC comments, automated now",2026-05-13T07:51:49Z,1,18,raisedadead,freeCodeCamp,freeCodeCamp
-0da7c6de9810487f444009c1dc61324e93a51b05,fix(curriculum): clarify create_spend_chart takes a list of categorie…,2026-05-12T17:16:49Z,1,2,majestic-owl448,freeCodeCamp,freeCodeCamp
-663c873aca7b821d113c88c9641ab36a837aff32,"chore(i18n,learn): update i18n-curriculum submodule (#67338)",2026-05-12T14:33:31Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-cbda4cf5c9fbbd811b0d1a4c74d39bc481400a2f,fix(curriculum): clarify DOM element node wording (#67330),2026-05-12T08:23:40Z,1,2,MukundaKatta,freeCodeCamp,freeCodeCamp
-77c76d63e0c1fc548a73239c2a0728e6d2d3d12d,"chore(i18n,client): processed translations (#67323)",2026-05-12T03:50:02Z,20,458,camperbot,freeCodeCamp,freeCodeCamp
-376177214f64c318216178571e961d2595b4e633,"chore(i18n,learn): update i18n-curriculum submodule (#67326)",2026-05-12T03:48:20Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
