@@ -1,19 +1,31 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X88AAAABMsWUKQ,69534,Use of `const` vs `let` vs `var` in the Binary Search Workshop,OPEN,2026-08-13T23:44:20Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABMpK27w,69526,Content issues in the Vite React project setup lesson,CLOSED,2026-08-13T16:13:28Z,2026-08-13T21:20:53Z,lberge17,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABMpKwYQ,69525,Content issues in the working with your keyboard and mouse lesson,CLOSED,2026-08-13T16:13:17Z,2026-08-13T21:17:35Z,Pastalikek65;huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABLnGPbw,69336,"Add Section Headers to Lecture: What Is the text-shadow Property, and How Does It Work?",CLOSED,2026-08-05T18:48:50Z,2026-08-13T19:21:04Z,laypatel13,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABMLHURw,69469,Fix wording and capitalization inconsistencies in What Is a Code Editor and IDE?,CLOSED,2026-08-10T15:53:42Z,2026-08-13T16:56:37Z,subodh-77,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABMpFK6g,69524,Content issues in the Working with Code Editors and IDEs lecture,OPEN,2026-08-13T16:04:00Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABIYmpYg,68725,Replace regex-based test cases in Wildlife Tracker Workshop,CLOSED,2026-07-10T18:25:20Z,2026-08-13T15:58:48Z,eva-lng,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABLnG67A,69348,Add Section Headers to Lecture: How Does Operator Precedence Work?,CLOSED,2026-08-05T18:50:00Z,2026-08-13T14:51:18Z,typovrak,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABMoXpZg,69523,Fix style issues in the code editor keyboard shortcuts lecture,OPEN,2026-08-13T14:44:45Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABMe6LiQ,69504,Add a quiz for the REST API and Web Services module,OPEN,2026-08-12T15:43:26Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABMZJziw,69489,intro.json block order for Back End Development and APIs (v9) does not match the superblock JSON,OPEN,2026-08-12T02:49:59Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABMe6SNg,69505,Replace the REST API questions in the Introduction to Express quiz,OPEN,2026-08-12T15:43:36Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABMnMeUQ,69521,Docs: Update formatting in documentation guidelines,CLOSED,2026-08-13T12:25:37Z,2026-08-13T13:16:07Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABMWZluQ,69484,Factorial Calculator only accepts regular function,OPEN,2026-08-11T19:20:11Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABMCWTRA,69448,Display issue on a freecodecamp learning page,OPEN,2026-08-09T13:20:37Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABL7sXBQ,69421,"Trivia Bot lab hints hard-code console.log call indices, breaking valid solutions with extra logging",OPEN,2026-08-08T03:58:27Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABMHI-og,69456,Two ambiguous questions in the CSS Grid Quiz,OPEN,2026-08-10T07:35:55Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABMcbU7g,69493,Fix grammar and formatting issues in the How to Install Visual Studio Code onto Your Computer lecture,CLOSED,2026-08-12T10:54:59Z,2026-08-13T07:59:58Z,d4-dhiraj,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMiBUAg,69517,Refactor: Use `Languages` enum for `clientLocale` in `video-player` component,CLOSED,2026-08-12T22:45:43Z,2026-08-13T00:38:48Z,huyenltnguyen;syedsohailhussain1,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMfIjDQ,69508,intro.json block order for The Odin Project does not match the superblock JSON,CLOSED,2026-08-12T16:10:27Z,2026-08-13T00:15:23Z,abdulwaarith0,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmZqg,68697,Replace regex-based test cases in Build A Football Player Card Builder Workshop,OPEN,2026-07-10T18:24:42Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMfIfdw,69507,intro.json block order for Learn SQL and Bash does not match the superblock JSON,CLOSED,2026-08-12T16:10:19Z,2026-08-12T21:57:04Z,Your Name,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMfInuw,69509,javascript-fundamentals-review is missing the lab-story-fragment-restoration block,CLOSED,2026-08-12T16:10:37Z,2026-08-12T21:50:25Z,Kunal241207,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMHI-og,69456,Two ambiguous questions in the CSS Grid Quiz,OPEN,2026-08-10T07:35:55Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMe6SNg,69505,Replace the REST API questions in the Introduction to Express quiz,OPEN,2026-08-12T15:43:36Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMe6LiQ,69504,Add a quiz for the REST API and Web Services module,OPEN,2026-08-12T15:43:26Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMcbZig,69494,Fix wrong preposition in the challengeOrder title for the VS Code installation lecture,CLOSED,2026-08-12T10:55:09Z,2026-08-12T14:21:04Z,MahyarCode,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABL1ChpA,69393,Content and formatting problems in the What is Node lesson of the Introduction to Node.js module,CLOSED,2026-08-07T09:29:32Z,2026-08-12T11:31:15Z,Lavanya-N24,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMcbU7g,69493,Fix grammar and formatting issues in the How to Install Visual Studio Code onto Your Computer lecture,OPEN,2026-08-12T10:54:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMHKJtw,69458,"Grammar, spelling, and capitalization errors in What Are the Different Types of Internet Service Providers",CLOSED,2026-08-10T07:38:37Z,2026-08-12T10:26:23Z,Gilbert;zairahira,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMZJziw,69489,intro.json block order for Back End Development and APIs (v9) does not match the superblock JSON,OPEN,2026-08-12T02:49:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMAUtUg,69446,Clarify lack of support on archived course pages,OPEN,2026-08-09T03:01:14Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMWZluQ,69484,Factorial Calculator only accepts regular function,OPEN,2026-08-11T19:20:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABL0qOLA,69390,Remove stray article before a code statement in Toggle Text App workshop Step 11,CLOSED,2026-08-07T08:34:02Z,2026-08-11T21:18:40Z,AzazelSensei,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMHJoSA,69457,Grammar and tool-name casing errors in What Are the Different Types of Tools Professional Developers Use,CLOSED,2026-08-10T07:37:23Z,2026-08-11T15:16:58Z,arjun2075,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMLLgUw,69470,Copy and formatting errors in How to Create a Project and Run Your Code Locally in VS Code,CLOSED,2026-08-10T16:01:33Z,2026-08-11T14:34:38Z,nidaAtGithub,freeCodeCamp,freeCodeCamp
@@ -21,9 +33,7 @@ I_kwDOAbI7X88AAAABMLMdPg,69471,Inconsistent extension name styling and unclear w
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMMK3lw,69473,Donate page loading blank.,CLOSED,2026-08-10T18:10:56Z,2026-08-10T19:04:19Z,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmZOA,68696,Replace regex-based test cases in Bug Emoji Picker Workshop,OPEN,2026-07-10T18:24:41Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMLHURw,69469,Fix wording and capitalization inconsistencies in What Is a Code Editor and IDE?,OPEN,2026-08-10T15:53:42Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnGbGw,69339,Add Section Headers to Lecture: How Do You Create Good Background and Foreground Contrast in Your Designs?,CLOSED,2026-08-05T18:49:08Z,2026-08-10T15:46:31Z,waleed-akram,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMCWTRA,69448,Display issue on a freecodecamp learning page,OPEN,2026-08-09T13:20:37Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABL0q9Iw,69392,"Missing test, incomplete hint, and stray assertion arguments in the Build a Mood Board lab",CLOSED,2026-08-07T08:35:40Z,2026-08-10T14:15:44Z,Naman-bh,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMIHrOw,69459,Grammar and accuracy errors in the What Are the Basic Parts of a Computer lecture,CLOSED,2026-08-10T09:45:23Z,2026-08-10T14:06:42Z,SachaKefif,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDtQBCQ,67661,RTL language prep umbrella issue. WIP,OPEN,2026-05-28T20:53:34Z,,,freeCodeCamp,freeCodeCamp
@@ -49,13 +59,11 @@ I_kwDOAbI7X88AAAABLxbQQg,69382,File Metadata Microservice: last test can't pass 
 I_kwDOAbI7X88AAAABLwxh6A,69378,Incorrect sentence casing,CLOSED,2026-08-06T19:43:31Z,2026-08-08T12:57:39Z,huyenltnguyen;wehamed,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIud8yg,68810,Replace regex-based test cases in Sentence Maker Lab,OPEN,2026-07-14T06:44:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnDFrQ,69295,Add Section Headers to Lecture: What Are the Different Types of CSS Combinators?,CLOSED,2026-08-05T18:42:34Z,2026-08-08T12:12:27Z,SaikiranRayabarapu,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABL7sXBQ,69421,"Trivia Bot lab hints hard-code console.log call indices, breaking valid solutions with extra logging",OPEN,2026-08-08T03:58:27Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABL6y5qg,69418,cnp,CLOSED,2026-08-07T23:49:25Z,2026-08-08T03:52:42Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABL6zhTw,69419,Def,CLOSED,2026-08-07T23:52:18Z,2026-08-08T03:52:36Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABL0qO1w,69391,Restore the missing semicolon in the Toggle Text App workshop Step 13 solution,CLOSED,2026-08-07T08:34:03Z,2026-08-07T21:38:19Z,huyenltnguyen;soumyakumari0205-svg,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABL1Cq_w,69395,"Wrong PowerShell product name, curly quotes, and heading case problems in the Node installation lesson",CLOSED,2026-08-07T09:29:53Z,2026-08-07T21:12:54Z,Dev-Mayuresh,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLvvA3g,69373,Envelope Budget - Step 48,CLOSED,2026-08-06T16:34:30Z,2026-08-07T16:44:31Z,MkhalFadel,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnGPbw,69336,"Add Section Headers to Lecture: What Is the text-shadow Property, and How Does It Work?",OPEN,2026-08-05T18:48:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABL1Cy8Q,69396,Challenge titles in the lecture-working-with-nodejs-and-event-driven-architecture block JSON are not in title case,CLOSED,2026-08-07T09:30:08Z,2026-08-07T16:15:48Z,KesleyDavid,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnGX6A,69338,"Add Section Headers to Lecture: What Is the aria-live Attribute, and How Does It Work?",CLOSED,2026-08-05T18:49:04Z,2026-08-07T16:01:38Z,laypatel13,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABL1C4uw,69397,Block title for lecture-working-with-nodejs-and-event-driven-architecture in intro.json uses NodeJS and sentence case,CLOSED,2026-08-07T09:30:19Z,2026-08-07T15:47:08Z,gideonadeti,freeCodeCamp,freeCodeCamp
@@ -72,7 +80,6 @@ I_kwDOAbI7X88AAAABLyw64Q,69383,[Translation Bug] Test requirement descriptions a
 I_kwDOAbI7X88AAAABLyyZzA,69384,[Translation Bug] Test requirement descriptions are inverted/swapped in Japanese (Responsive Web Design),CLOSED,2026-08-07T02:56:51Z,2026-08-07T07:42:03Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnFwBw,69331,"Add Section Headers to Lecture: What Are Hex Codes, and How Do They Work in CSS?",OPEN,2026-08-05T18:47:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnCccw,69286,Add Section Headers to Long-Form Lecture Challenges,OPEN,2026-08-05T18:41:14Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnG67A,69348,Add Section Headers to Lecture: How Does Operator Precedence Work?,OPEN,2026-08-05T18:50:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABK_NtUQ,69158,"Digital Pet Game - Step for says form shouldn't be ""Visible"" but test looks at existence",OPEN,2026-07-31T18:29:20Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmlWA,68718,Replace regex-based test cases in Shopping Cart Workshop,OPEN,2026-07-10T18:25:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEE8zEA,67770,Course progress steps are not conveyed to the screen reader users,OPEN,2026-06-02T05:06:10Z,,,freeCodeCamp,freeCodeCamp
@@ -289,7 +296,6 @@ I_kwDOAbI7X88AAAABIkeYLw,68763,100K graduates on LinkedIn page,OPEN,2026-07-13T0
 I_kwDOAbI7X88AAAABJYujow,68943,Queens title mismatch,CLOSED,2026-07-20T00:00:22Z,2026-07-20T16:08:19Z,adranjan4,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIunNiw,68817,Replace regex-based test cases in Mathbot Workshop,CLOSED,2026-07-14T07:07:44Z,2026-07-20T15:52:02Z,majestic-owl448;yashvi-jain,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIdfCZQ,68739,Recipe Page lab: head-section hints test source format and give misleading messages for closing-tag mistakes,CLOSED,2026-07-11T14:45:53Z,2026-07-20T15:26:31Z,SanthoshBalagur,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIYmpYg,68725,Replace regex-based test cases in Wildlife Tracker Workshop,OPEN,2026-07-10T18:25:20Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIunIWQ,68814,Replace regex-based test cases in String Transformer Workshop,CLOSED,2026-07-14T07:07:32Z,2026-07-20T10:49:33Z,eng-abdelrahman-sharaf,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABI86e3w,68861,Inconsistent indentation in the Build a List of Major Web Browsers workshop,CLOSED,2026-07-15T19:31:32Z,2026-07-20T09:51:17Z,YYuan02,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIE-m3w,68621,workshop flappy penguin step 59 test update,CLOSED,2026-07-08T11:37:26Z,2026-07-20T09:26:20Z,imsomilg,freeCodeCamp,freeCodeCamp
@@ -766,8 +772,3 @@ I_kwDOAbI7X88AAAABCO1EPQ,67365,Remove first person language from cafe menu works
 I_kwDOAbI7X88AAAABCO1efg,67381,Remove first person language from Tailwind pricing component workshop,CLOSED,2026-05-14T09:20:26Z,2026-05-14T11:59:44Z,deepak-s-git,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPFOX,64125,Lab – Proofreading Tool,CLOSED,2025-11-25T03:45:49Z,2026-05-14T10:03:50Z,arunkumar0398,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCLzwog,67359,Remove first person language from email simulator workshop,CLOSED,2026-05-13T22:19:46Z,2026-05-14T10:01:40Z,HritikKaushik,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABB7n2KA,67331,"Fix misleading explanation about useMemo and component re-rendering in ""What Is Memoization..."" lesson",CLOSED,2026-05-11T22:00:55Z,2026-05-13T18:42:28Z,caio-bittencourt,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABB2d3nQ,67320,Potential unnecessary rerender propagation in Scene playback causing repeated Character subtree updates,CLOSED,2026-05-11T08:15:50Z,2026-05-13T12:23:40Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABCGeeMw,67351,Protect freeCodeCamp from AI slop PRs,CLOSED,2026-05-13T07:53:56Z,2026-05-13T10:45:25Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87X6o3A,63813,Workshop/Lab for exploring console?,OPEN,2025-11-13T19:13:51Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABCD1rVA,67343,Fix: Correct misleading useMemo explanation in lecture,CLOSED,2026-05-12T22:58:19Z,2026-05-13T03:00:47Z,,freeCodeCamp,freeCodeCamp
