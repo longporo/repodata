@@ -1,4 +1,14 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+fef536d2ed3c6d2bd21dac847ad60448e7112f3f,fix(curriculum): correct wording in Vite lesson (#69531),2026-08-13T21:20:51Z,1,10,lberge17,freeCodeCamp,freeCodeCamp
+602f66168b4f9e9da30d94c7e720230754ccd240,fix(curriculum): improve wording in the keyboard and mouse lesson (#6…,2026-08-13T21:17:33Z,1,8,Pastalikek65,freeCodeCamp,freeCodeCamp
+adabac3b77c5d04548c377139dbd2b5db60fd929,fix(curriculum): add section headers to text-shadow lecture (#69506),2026-08-13T19:21:02Z,1,22,laypatel13,freeCodeCamp,freeCodeCamp
+d42422bed271d83eb9494b4ccb57187ad326d17b,fix(curriculum): improve wording in code editor and IDE lesson (#69522),2026-08-13T16:56:35Z,1,12,subodh-77,freeCodeCamp,freeCodeCamp
+85d8fe4638523927ca6215f892509720a05c8356,refactor(curriculum): replace regex with AST helpers in workshop-wild…,2026-08-13T15:58:45Z,7,45,eva-lng,freeCodeCamp,freeCodeCamp
+865e553204f7fed482c4696ba767f94d316442c7,fix(curriculum): add section headers to operator precedence lecture (…,2026-08-13T14:51:16Z,1,32,typovrak,freeCodeCamp,freeCodeCamp
+aec879c41098119b1a032bffccff452def77f4c7,feat: remove ona (#69351),2026-08-13T09:34:15Z,19,468,ShaunSHamilton,freeCodeCamp,freeCodeCamp
+75232d05f17c4df1c4bc99f466e2bace0d8b3b98,fix: grammar and formatting in VS Code install lecture (#69511),2026-08-13T07:59:56Z,1,8,d4-dhiraj,freeCodeCamp,freeCodeCamp
+e5846e51a778331e6465f6b4b2e5449ca114acb3,feat(curriculum): add REST API and Web Services review (#69503),2026-08-13T07:37:18Z,5,130,majestic-owl448,freeCodeCamp,freeCodeCamp
+52c5bcafbc691e683ab6c3540434e4c27bc92755,fix(curriculum): stop file metadata test from using Response.blob() (…,2026-08-13T07:33:00Z,1,17,majestic-owl448,freeCodeCamp,freeCodeCamp
 684a580d787ee64f7053f86a5a4dc8fa5b2ed2f9,refactor(client): use Languages enum for clientLocale in video-player…,2026-08-13T00:38:46Z,1,10,syedsohailhussain1,freeCodeCamp,freeCodeCamp
 b74ef511b59daf2c14db8948fb0ae99743a4b17a,fix(client): align The Odin Project intro.json block order with the s…,2026-08-13T00:15:21Z,1,12,abdulwaarith0,freeCodeCamp,freeCodeCamp
 ce5748f3c8192c8753db66c96eeb6a0a0028d0b7,fix(curriculum): stub fetch in Motorcycle Shop lab tests (#69243),2026-08-12T22:03:39Z,1,301,majestic-owl448,freeCodeCamp,freeCodeCamp
@@ -780,8 +790,3 @@ bb616d1405ffd1f4b9915b6955eb11983ee625ec,fix(curriculum): remove first person la
 105ba4db6e73e41b6e4dde56ab3b0c9b452c4abf,fix(curriculum): remove first person language from Tailwind pricing c…,2026-05-14T11:59:42Z,1,2,deepak-s-git,freeCodeCamp,freeCodeCamp
 d83307f9836d11ad784e1eaa2b98957e78bba044,feat(curriculum): proofreading tool javascript lab (#66940),2026-05-14T10:03:48Z,4,229,arunkumar0398,freeCodeCamp,freeCodeCamp
 ccde5d4b2d7e039d0376bb7d469d8938d9afee00,fix(curriculum): remove first person language from email simulator wo…,2026-05-14T10:01:38Z,16,32,HritikKaushik,freeCodeCamp,freeCodeCamp
-af87e4ef14b6409ff65ecb1a2e4f0dfc1bfe16f9,fix(curriculum): clarify useMemo rerender behavior (#67350),2026-05-13T18:42:25Z,1,4,caio-bittencourt,freeCodeCamp,freeCodeCamp
-169764fc3f753be5e28f37e09c702e34d2e4f6de,"chore(i18n,learn): update i18n-curriculum submodule (#67355)",2026-05-13T17:58:46Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-7ec47e28f2bc20b40de3e512da3374b1b7b9578c,"chore(i18n,client): processed translations (#67354)",2026-05-13T15:47:05Z,4,214,camperbot,freeCodeCamp,freeCodeCamp
-d367600acf738fc49263f83e6f26102c81a47bdb,fix: salary tracker step 32 misleading hint (#67324),2026-05-13T14:26:03Z,1,11,majestic-owl448,freeCodeCamp,freeCodeCamp
-fc8741bebc222e66ab2ed227205b587ef8eb0aa8,"chore(GHA): remove GC comments, automated now",2026-05-13T07:51:49Z,1,18,raisedadead,freeCodeCamp,freeCodeCamp
