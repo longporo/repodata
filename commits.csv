@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+9832b5fc93222e91b0578ee7de7139fcd34e73ac,fix(curriculum): address content issues in code editors lecture (#69527),2026-08-14T18:40:05Z,3,18,Dazzanova,freeCodeCamp,freeCodeCamp
+933a376a861ea63d221b6eb40cc11d10e0c6fc39,"fix(client): correct RTL layout on settings, profile and superblock p…",2026-08-14T17:24:59Z,9,67,ahmaxed,freeCodeCamp,freeCodeCamp
+80511b2de76acf757920c203d11342e05456b5cb,fix(client): correct text direction for language curriculum content i…,2026-08-14T17:22:08Z,14,198,ahmaxed,freeCodeCamp,freeCodeCamp
+fe6fea5212d305e17d1aeb05b9bbc5b86c51c7cf,fix(curriculum): reorder backend cert modules (#69518),2026-08-14T13:41:55Z,4,182,Ksound22,freeCodeCamp,freeCodeCamp
+60e41ae6f5a11cc6f95ee2487e361d8275dd2441,fix(curriculum): numbered list in backend lesson (#69538),2026-08-14T13:34:42Z,1,46,Dario-DC,freeCodeCamp,freeCodeCamp
+a6f4178cfc985ecf9db89ea0130ea3469b1e73fd,fix(curriculum): update keyboard shortcut text (#69536),2026-08-14T12:43:31Z,1,16,noqokhxnh,freeCodeCamp,freeCodeCamp
+c51bf5c452ee49b6ae75d9a2ee938a092bf555d6,fix(curriculum): fix grammar and terminology consistency in toggle te…,2026-08-14T06:28:53Z,7,18,Sembauke,freeCodeCamp,freeCodeCamp
 fef536d2ed3c6d2bd21dac847ad60448e7112f3f,fix(curriculum): correct wording in Vite lesson (#69531),2026-08-13T21:20:51Z,1,10,lberge17,freeCodeCamp,freeCodeCamp
 602f66168b4f9e9da30d94c7e720230754ccd240,fix(curriculum): improve wording in the keyboard and mouse lesson (#6…,2026-08-13T21:17:33Z,1,8,Pastalikek65,freeCodeCamp,freeCodeCamp
 adabac3b77c5d04548c377139dbd2b5db60fd929,fix(curriculum): add section headers to text-shadow lecture (#69506),2026-08-13T19:21:02Z,1,22,laypatel13,freeCodeCamp,freeCodeCamp
@@ -769,24 +776,3 @@ cdb7c753322e78a1a055830c48cf1c3825519a95,fix: fixed first person language in dis
 a2e0622ccb5bb1c294270b1e623716e4b42abef8,fix: separate duplicate erms validation in insertErms (#67422),2026-05-15T12:51:11Z,1,4,Nithin0620,freeCodeCamp,freeCodeCamp
 12be3d283b07a6bfd89d7f187c21c0e966e5c1be,fix: fixed first person into generic for luhn algo (#67424),2026-05-15T10:11:04Z,1,2,narasimhan-lakshmi,freeCodeCamp,freeCodeCamp
 e2aa7ce38369f5dfb1d17235e5a6bcac799d06c3,fix(curriculum): correct grammatical typo in FCC Authors Page lesson …,2026-05-15T08:12:41Z,2,4,HarshMangaraj,freeCodeCamp,freeCodeCamp
-3f998115234e728b77ffa821d1178401e5059333,fix(curriculum): capitalize TV in media catalogue workshop (#67411),2026-05-14T21:46:27Z,1,2,tenzin-4776,freeCodeCamp,freeCodeCamp
-ebdb6b6b1cee2c8b23b2675962213d06749021f9,fix(curriculum): remove first-person language from workshop-heritage-…,2026-05-14T21:42:06Z,2,4,debabratasaha-dev,freeCodeCamp,freeCodeCamp
-9f1f77ec5e591b456de1d4b289462adb7a01605d,fix: remove first person we from step 23 authors workshop (#67408),2026-05-14T21:05:21Z,1,2,vinodM09,freeCodeCamp,freeCodeCamp
-000c7b73c5b5af45fd54a90d35d8763575cf8d58,fix(curriculum): remove first person language from colored markers (#…,2026-05-14T20:16:28Z,1,2,vinodM09,freeCodeCamp,freeCodeCamp
-774453e16e82a46a8791d9c10510f27abbe6c996,fix(curriculum): remove first-person language from recipe converter (…,2026-05-14T19:49:30Z,1,2,caio-bittencourt,freeCodeCamp,freeCodeCamp
-83e58359eb3583fbc5f897f8bdb4749c53d94f5f,fix(curriculum): clarify optional parameter order (#67397),2026-05-14T19:38:48Z,1,2,caio-bittencourt,freeCodeCamp,freeCodeCamp
-4a3ed7e01aeeb538e33e9191612f55e3909149ae,fix(curriculum): remove first-person language from shopping list step…,2026-05-14T19:30:47Z,1,2,caio-bittencourt,freeCodeCamp,freeCodeCamp
-55aa9260e7469a5698c3716b13a9dcf7a9c354bf,fix(curriculum): remove first person language from media catalogue wo…,2026-05-14T19:17:27Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-41909305874ece18f3a4266c50110d3f9943303e,fix(curriculum): correct misleading 'Int Division:' label in Python v…,2026-05-14T19:12:42Z,3,6,moaedy,freeCodeCamp,freeCodeCamp
-fa7d6cfe60cac220148540c5cdb0bc3d1adb8c3b,fix(curriculum): remove first person language from calorie counter wo…,2026-05-14T19:03:37Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
-77d791ba7cd8d4ff6caee74a67d37684db1ed82e,fix(curriculum): remove first person language from permutation genera…,2026-05-14T19:02:04Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-152d51143a0af56c7a095489318c1419927b33f4,fix(curriculum): remove first-person language from instrument invento…,2026-05-14T19:00:00Z,1,2,caio-bittencourt,freeCodeCamp,freeCodeCamp
-4921d5834985389dd8c2e078d7bd12fea0fc396a,fix(curriculum): remove first person language from merge sort JS work…,2026-05-14T18:57:06Z,1,2,clarencepenz,freeCodeCamp,freeCodeCamp
-68d5afb54ac5350634de9ccc43eb8b21d44b6dc0,fix(curriculum): remove first person language from merge sort worksho…,2026-05-14T18:46:11Z,2,4,clarencepenz,freeCodeCamp,freeCodeCamp
-ef9595b92dd62895910eb4fab971cbf228cf3cfe,fix(curriculum): remove first person language from linked list class …,2026-05-14T13:09:38Z,3,6,deepak-s-git,freeCodeCamp,freeCodeCamp
-d4fa2a53a6f7d69780beba25620c9a798f59e961,fix(curriculum): remove first person language from decimal to binary …,2026-05-14T13:08:57Z,3,6,deepak-s-git,freeCodeCamp,freeCodeCamp
-78f7675253f83ad24039f1be0e4d35aed82ae388,fix(curriculum): explain callable() in dynamic attributes lecture (#6…,2026-05-14T12:39:29Z,1,2,HritikKaushik,freeCodeCamp,freeCodeCamp
-bb616d1405ffd1f4b9915b6955eb11983ee625ec,fix(curriculum): remove first person language from cafe menu workshop…,2026-05-14T12:24:10Z,1,2,deepak-s-git,freeCodeCamp,freeCodeCamp
-105ba4db6e73e41b6e4dde56ab3b0c9b452c4abf,fix(curriculum): remove first person language from Tailwind pricing c…,2026-05-14T11:59:42Z,1,2,deepak-s-git,freeCodeCamp,freeCodeCamp
-d83307f9836d11ad784e1eaa2b98957e78bba044,feat(curriculum): proofreading tool javascript lab (#66940),2026-05-14T10:03:48Z,4,229,arunkumar0398,freeCodeCamp,freeCodeCamp
-ccde5d4b2d7e039d0376bb7d469d8938d9afee00,fix(curriculum): remove first person language from email simulator wo…,2026-05-14T10:01:38Z,16,32,HritikKaushik,freeCodeCamp,freeCodeCamp
