@@ -1,4 +1,5 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+7065ee266fb2e6c4e59645a33dd04ebe016f2ea7,fix(curriculum): wrapped the link with backticks to stop overflowing …,2026-08-15T13:39:32Z,1,2,muhammadali-se,freeCodeCamp,freeCodeCamp
 9832b5fc93222e91b0578ee7de7139fcd34e73ac,fix(curriculum): address content issues in code editors lecture (#69527),2026-08-14T18:40:05Z,3,18,Dazzanova,freeCodeCamp,freeCodeCamp
 933a376a861ea63d221b6eb40cc11d10e0c6fc39,"fix(client): correct RTL layout on settings, profile and superblock p…",2026-08-14T17:24:59Z,9,67,ahmaxed,freeCodeCamp,freeCodeCamp
 80511b2de76acf757920c203d11342e05456b5cb,fix(client): correct text direction for language curriculum content i…,2026-08-14T17:22:08Z,14,198,ahmaxed,freeCodeCamp,freeCodeCamp
@@ -769,10 +770,3 @@ eb482c869520f264f88134da3169be8768fe082e,"chore(i18n,client): processed translat
 21b8619aa2ae2b30d1e52906d2c6707ef7be3fa0,fix(curriculum): use output test for bill splitter step 4 print hint …,2026-05-18T08:09:37Z,1,13,majestic-owl448,freeCodeCamp,freeCodeCamp
 ff00be8d620f6c6f408d179c5608ff1780e607f9,feat(curriculum): add express error handling lessons (#67192),2026-05-17T07:17:24Z,7,879,Ksound22,freeCodeCamp,freeCodeCamp
 ad0ee4d276f7d227b11b91d3b46b7c10274f8664,chore(deps): upgrade freecodecamp/ui to v6.0.1 (#67434),2026-05-16T04:04:41Z,2,12,huyenltnguyen,freeCodeCamp,freeCodeCamp
-6150f0cec4015787e599e3790744dbe55873ab51,feat(curriculum): release Describe Company and Describe Colleagues mo…,2026-05-15T19:54:08Z,16,32,huyenltnguyen,freeCodeCamp,freeCodeCamp
-e8c77cae3d6ffcc87db01f2df802520657185900,fix(curriculum): update raiseTo regex to support return type annotati…,2026-05-15T18:36:32Z,1,2,deepak-s-git,freeCodeCamp,freeCodeCamp
-ca20dfd8b9549edd122d2cff9b0faf36efe6bd1f,feat(curriculum): add Describing a Company (#66378),2026-05-15T18:31:04Z,76,8364,RafaelDavisH,freeCodeCamp,freeCodeCamp
-cdb7c753322e78a1a055830c48cf1c3825519a95,fix: fixed first person language in discount calculator workshop (#67…,2026-05-15T15:07:55Z,3,6,narasimhan-lakshmi,freeCodeCamp,freeCodeCamp
-a2e0622ccb5bb1c294270b1e623716e4b42abef8,fix: separate duplicate erms validation in insertErms (#67422),2026-05-15T12:51:11Z,1,4,Nithin0620,freeCodeCamp,freeCodeCamp
-12be3d283b07a6bfd89d7f187c21c0e966e5c1be,fix: fixed first person into generic for luhn algo (#67424),2026-05-15T10:11:04Z,1,2,narasimhan-lakshmi,freeCodeCamp,freeCodeCamp
-e2aa7ce38369f5dfb1d17235e5a6bcac799d06c3,fix(curriculum): correct grammatical typo in FCC Authors Page lesson …,2026-05-15T08:12:41Z,2,4,HarshMangaraj,freeCodeCamp,freeCodeCamp
