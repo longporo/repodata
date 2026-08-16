@@ -1,11 +1,13 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X88AAAABLnGK4w,69335,Add Section Headers to Lecture: What Are Examples of Input Pseudo-classes?,OPEN,2026-08-05T18:48:42Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABM42P0g,69547,[Playwright] Fix an always-passing dialog assertion,OPEN,2026-08-15T14:49:06Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABMCWTRA,69448,Display issue on a freecodecamp learning page,CLOSED,2026-08-09T13:20:37Z,2026-08-15T13:39:34Z,muhammadali-se,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABLnGGqg,69334,Add Section Headers to Lecture: What Are Examples of Element User Action Pseudo-classes?,OPEN,2026-08-05T18:48:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABMZJziw,69489,intro.json block order for Back End Development and APIs (v9) does not match the superblock JSON,OPEN,2026-08-12T02:49:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnDm2A,69310,"Add Section Headers to Lecture: What Is a Data Type, and What Are the Different Data Types in JavaScript?",OPEN,2026-08-05T18:43:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnGpWQ,69343,Add Section Headers to Lecture: What Are Best Practices for Designing Breadcrumbs?,OPEN,2026-08-05T18:49:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnG06Q,69346,Add Section Headers to Lecture: What Are Best Practices for Designing Shopping Carts?,OPEN,2026-08-05T18:49:50Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMZJziw,69489,intro.json block order for Back End Development and APIs (v9) does not match the superblock JSON,OPEN,2026-08-12T02:49:59Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMpFK6g,69524,Content issues in the Working with Code Editors and IDEs lecture,CLOSED,2026-08-13T16:04:00Z,2026-08-14T18:40:07Z,Dazzanova,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnGGqg,69334,Add Section Headers to Lecture: What Are Examples of Element User Action Pseudo-classes?,OPEN,2026-08-05T18:48:35Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMCWTRA,69448,Display issue on a freecodecamp learning page,OPEN,2026-08-09T13:20:37Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMe6SNg,69505,Replace the REST API questions in the Introduction to Express quiz,OPEN,2026-08-12T15:43:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMe6LiQ,69504,Add a quiz for the REST API and Web Services module,OPEN,2026-08-12T15:43:26Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMoXpZg,69523,Fix style issues in the code editor keyboard shortcuts lecture,CLOSED,2026-08-13T14:44:45Z,2026-08-14T12:43:33Z,noqokhxnh,freeCodeCamp,freeCodeCamp
@@ -103,7 +105,6 @@ I_kwDOAbI7X88AAAABKEFOug,69026,Fix(api): incorrect fallback values in normalizeD
 I_kwDOAbI7X88AAAABLhojUQ,69275,Editable-region audit for workshop-envelope-budget-app,OPEN,2026-08-05T07:22:54Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnGysw,69345,"Add Section Headers to Lecture: What Is the @property Rule, and How Does It Work with Fallbacks?",OPEN,2026-08-05T18:49:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnGuig,69344,"Add Section Headers to Lecture: How Do the Navigator, Window, and Document Work?",OPEN,2026-08-05T18:49:41Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnGK4w,69335,Add Section Headers to Lecture: What Are Examples of Input Pseudo-classes?,OPEN,2026-08-05T18:48:42Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnFlyQ,69329,"Add Section Headers to Lecture: What Are Booleans, and How Do They Work with Equality and Inequality Operators?",OPEN,2026-08-05T18:47:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnFf4g,69328,"Add Section Headers to Lecture: What Are Pseudo-elements, and How Do They Work?",OPEN,2026-08-05T18:47:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnFZVg,69326,"Add Section Headers to Lecture: What Is Responsive Web Design, and What Is Its Relationship to Tools Like CSS Grid and Flexbox?",OPEN,2026-08-05T18:47:06Z,,,freeCodeCamp,freeCodeCamp
@@ -742,9 +743,3 @@ I_kwDOAbI7X87USvWu,63145,Lesson TS compiler assumes all files are index.tsx,CLOS
 I_kwDOAbI7X88AAAABCgO4IA,67440,Correct the runtime startup path,CLOSED,2026-05-17T09:12:30Z,2026-05-18T01:08:19Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCiFixA,67443,Potential unwanted typo in A2 English quiz,CLOSED,2026-05-17T21:03:50Z,2026-05-18T00:45:43Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X873VKj4,66639,Random Blue Line Appearing on Page (Possible Focus Border),CLOSED,2026-03-27T05:26:09Z,2026-05-16T04:04:42Z,huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABCMaHVA,67362,Build a Type Safe Math Toolkit #Step14,CLOSED,2026-05-14T00:55:02Z,2026-05-15T18:36:34Z,deepak-s-git,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABCO1ZBg,67378,Remove first person language from discount calculator workshop,CLOSED,2026-05-14T09:20:13Z,2026-05-15T15:07:57Z,narasimhan-lakshmi,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABCYNGqg,67428,sfd,CLOSED,2026-05-15T14:14:04Z,2026-05-15T14:14:08Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABCWyzug,67427,Fix unreachable duplicate validation logic in insertErms,CLOSED,2026-05-15T10:11:32Z,2026-05-15T12:51:13Z,Nithin0620,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABCO1Zpw,67379,Remove first person language from Luhn algorithm lab,CLOSED,2026-05-14T09:20:15Z,2026-05-15T10:11:06Z,narasimhan-lakshmi,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABCTLjpA,67412,Typo in FCC Authors Page,CLOSED,2026-05-14T21:07:50Z,2026-05-15T08:12:44Z,HarshMangaraj,freeCodeCamp,freeCodeCamp
