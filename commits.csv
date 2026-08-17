@@ -1,4 +1,6 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+8b1614cba2e71931dc96d4f6ba67d2cf278c50b4,fix(client): align BEDA v9 intro.json block order with the superblock…,2026-08-16T13:22:46Z,1,44,minutechreview,freeCodeCamp,freeCodeCamp
+5fb3a23089a728718f6b0e1c5b0b9c31a50e3968,"chore(i18n,learn): update i18n-curriculum submodule (#69549)",2026-08-16T02:34:04Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 7065ee266fb2e6c4e59645a33dd04ebe016f2ea7,fix(curriculum): wrapped the link with backticks to stop overflowing …,2026-08-15T13:39:32Z,1,2,muhammadali-se,freeCodeCamp,freeCodeCamp
 9832b5fc93222e91b0578ee7de7139fcd34e73ac,fix(curriculum): address content issues in code editors lecture (#69527),2026-08-14T18:40:05Z,3,18,Dazzanova,freeCodeCamp,freeCodeCamp
 933a376a861ea63d221b6eb40cc11d10e0c6fc39,"fix(client): correct RTL layout on settings, profile and superblock p…",2026-08-14T17:24:59Z,9,67,ahmaxed,freeCodeCamp,freeCodeCamp
@@ -769,4 +771,3 @@ ec87e60f9ac86641f870eef8fbb52331a3b6f0d9,"feat(i18n, learn): remove Swahili and 
 eb482c869520f264f88134da3169be8768fe082e,"chore(i18n,client): processed translations (#67447)",2026-05-18T16:48:53Z,10,170,camperbot,freeCodeCamp,freeCodeCamp
 21b8619aa2ae2b30d1e52906d2c6707ef7be3fa0,fix(curriculum): use output test for bill splitter step 4 print hint …,2026-05-18T08:09:37Z,1,13,majestic-owl448,freeCodeCamp,freeCodeCamp
 ff00be8d620f6c6f408d179c5608ff1780e607f9,feat(curriculum): add express error handling lessons (#67192),2026-05-17T07:17:24Z,7,879,Ksound22,freeCodeCamp,freeCodeCamp
-ad0ee4d276f7d227b11b91d3b46b7c10274f8664,chore(deps): upgrade freecodecamp/ui to v6.0.1 (#67434),2026-05-16T04:04:41Z,2,12,huyenltnguyen,freeCodeCamp,freeCodeCamp
