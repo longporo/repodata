@@ -1,4 +1,10 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+0049217eb00440a576f4246fdcd8a0c9d438dd5e,fix(curriculum): correct hardware and dev tool explanations (#69569),2026-08-17T21:13:55Z,2,6,BaconMan1168,freeCodeCamp,freeCodeCamp
+c0a9e0207a00b6c6dc6132dc9c0ec3e74342fa53,fix(curriculum): replace regex-based test cases in football player ca…,2026-08-17T11:44:08Z,3,11,jacobptnguyen,freeCodeCamp,freeCodeCamp
+385cfcacc4fb51115c1fde593db85205392d66c7,fix(curriculum): add section headers to link states lecture (#69552),2026-08-17T11:33:10Z,1,14,laypatel13,freeCodeCamp,freeCodeCamp
+27786f435d6621702b509c03181842d365651759,fix(curriculum): allow arrow functions in factorial calculator (#69520),2026-08-17T08:30:33Z,1,4,wunianze666-netizen,freeCodeCamp,freeCodeCamp
+92702e1af3fa3f1efbf5a79d77b46aef9e7eff12,fix(curriculum): add section headers in designing breadcrumbs lecture…,2026-08-17T08:19:57Z,1,8,jaykumar14921,freeCodeCamp,freeCodeCamp
+87fcb0934617a70fa9c2b5e89c16b34f35784f01,fix(client): replace PayPal Buttons.driver with react-paypal-js (#69487),2026-08-17T02:22:32Z,6,573,ahmaxed,freeCodeCamp,freeCodeCamp
 8b1614cba2e71931dc96d4f6ba67d2cf278c50b4,fix(client): align BEDA v9 intro.json block order with the superblock…,2026-08-16T13:22:46Z,1,44,minutechreview,freeCodeCamp,freeCodeCamp
 5fb3a23089a728718f6b0e1c5b0b9c31a50e3968,"chore(i18n,learn): update i18n-curriculum submodule (#69549)",2026-08-16T02:34:04Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 7065ee266fb2e6c4e59645a33dd04ebe016f2ea7,fix(curriculum): wrapped the link with backticks to stop overflowing …,2026-08-15T13:39:32Z,1,2,muhammadali-se,freeCodeCamp,freeCodeCamp
@@ -32,7 +38,7 @@ fa2b1f067fa02d3fbc08544acc4e34faf4211969,fix(curriculum): correct Node.js lesson
 9c64f91b0754fddf125f3f313c7b976dc95343b7,fix(curriculum): correct ISP lesson wording (#69483),2026-08-12T10:26:21Z,1,20,fuentez145,freeCodeCamp,freeCodeCamp
 0febf22779c9d5df562dd411dbe11365dca397a8,test(e2e): make donation payment widgets run on every PR (#69477),2026-08-12T07:30:35Z,8,646,Sembauke,freeCodeCamp,freeCodeCamp
 674c6f132dbe283519f70017ab84391b50de8dd1,fix(curriculum): remove stray article in Toggle Text App Step 11 (#69…,2026-08-11T21:18:38Z,1,2,AzazelSensei,freeCodeCamp,freeCodeCamp
-03c1dd3cc94e78a70a77fb8f939287341756670a,fix(curriculum): correct wording and tool-name casing in developer to…,2026-08-11T15:16:56Z,1,10,arjun2075,freeCodeCamp,freeCodeCamp
+03c1dd3cc94e78a70a77fb8f939287341756670a,fix(curriculum): correct wording and tool-name casing in developer to…,2026-08-11T15:16:56Z,1,10,Arjun,freeCodeCamp,freeCodeCamp
 1b2eef760726abfc4931611c8107ed6dfb3a797a,fix(curriculum): copy and formatting errors in VS Code lesson (#69480),2026-08-11T14:34:36Z,1,22,nidaAtGithub,freeCodeCamp,freeCodeCamp
 8bfb2c54258f9f49edd7cd6e18f8e285803a23c5,feat(scripts): add catalog data to external curriculum build (#69472),2026-08-11T11:51:50Z,4,147,Sembauke,freeCodeCamp,freeCodeCamp
 f96044a8f704303b91e0848d4349a634cc76745a,fix(curriculum): clarify VS Code extension text (#69475),2026-08-11T09:36:48Z,1,26,jacobptnguyen,freeCodeCamp,freeCodeCamp
@@ -770,4 +776,3 @@ ec87e60f9ac86641f870eef8fbb52331a3b6f0d9,"feat(i18n, learn): remove Swahili and 
 384b4c8a437f816d2a1fb97655bb3300539bb907,"chore(i18n,learn): update i18n-curriculum submodule (#67451)",2026-05-19T01:03:58Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 eb482c869520f264f88134da3169be8768fe082e,"chore(i18n,client): processed translations (#67447)",2026-05-18T16:48:53Z,10,170,camperbot,freeCodeCamp,freeCodeCamp
 21b8619aa2ae2b30d1e52906d2c6707ef7be3fa0,fix(curriculum): use output test for bill splitter step 4 print hint …,2026-05-18T08:09:37Z,1,13,majestic-owl448,freeCodeCamp,freeCodeCamp
-ff00be8d620f6c6f408d179c5608ff1780e607f9,feat(curriculum): add express error handling lessons (#67192),2026-05-17T07:17:24Z,7,879,Ksound22,freeCodeCamp,freeCodeCamp
