@@ -1,4 +1,12 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+d4b0f80b6d37eff8fe9ff1cda3309403e5322611,fix(curriculum): check test_settings existence in user configuration …,2026-08-18T21:03:07Z,1,1,Kunal241207,freeCodeCamp,freeCodeCamp
+a6ce8850c3943a57158bb028fbcf5fed9c514ee8,fix(curriculum): correct code editor and IDE lessons (#69570),2026-08-18T18:59:20Z,5,20,BaconMan1168,freeCodeCamp,freeCodeCamp
+3151d0f9c950120a3ef0795cf5ecc5ed88456297,fix(curriculum): update Python basics review (#69599),2026-08-18T18:49:50Z,1,18,Dazzanova,freeCodeCamp,freeCodeCamp
+b06c13582fa7773d21edf8779f3bd0eadb3d2edf,fix: Style issues in the safe computer sign-in lecture (#69585),2026-08-18T15:44:09Z,1,14,dev-sriramp,freeCodeCamp,freeCodeCamp
+25ad6dbc2d18919bce9b8849d6500da550964ca8,fix: correct grammar in JS libraries and frameworks lesson (#69581),2026-08-18T08:13:29Z,1,10,AnandKumar-001,freeCodeCamp,freeCodeCamp
+c2b852fdaeb1f3f1927240e0f0537168b354e4c7,feat(curriculum): add headers to pseudo-classes (#69572),2026-08-18T07:32:11Z,1,14,Aman739-code,freeCodeCamp,freeCodeCamp
+cecb7be0f78d1193eb15585861145dbbbe58d9e2,fix(curriculum): merge fortune teller final steps (#69582),2026-08-18T07:24:48Z,4,2442,caio-bittencourt,freeCodeCamp,freeCodeCamp
+45acf8166ed1e1347edab07ef097e8f6b1d8ccfd,fix(curriculum): add section headers to pseudo-elements lecture (#69573),2026-08-18T07:07:14Z,1,8,laypatel13,freeCodeCamp,freeCodeCamp
 0049217eb00440a576f4246fdcd8a0c9d438dd5e,fix(curriculum): correct hardware and dev tool explanations (#69569),2026-08-17T21:13:55Z,2,6,BaconMan1168,freeCodeCamp,freeCodeCamp
 c0a9e0207a00b6c6dc6132dc9c0ec3e74342fa53,fix(curriculum): replace regex-based test cases in football player ca…,2026-08-17T11:44:08Z,3,11,jacobptnguyen,freeCodeCamp,freeCodeCamp
 385cfcacc4fb51115c1fde593db85205392d66c7,fix(curriculum): add section headers to link states lecture (#69552),2026-08-17T11:33:10Z,1,14,laypatel13,freeCodeCamp,freeCodeCamp
@@ -773,6 +781,3 @@ ee78e5f23f0316d90730257721074d836b06c0c9,fix(curriculum): update HSL lecture to 
 b1141962e19e7609f3b7f1577fab535917686499,feat(client): handle exam awaiting challenges (#67455),2026-05-19T13:49:19Z,2,13,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 271a69bef5e0151f51c1ce47b964865ae59af589,fix(curriculum):  clarify instructions and resolve URL issues in lead…,2026-05-19T09:59:50Z,1,54,Venkat-Entropik,freeCodeCamp,freeCodeCamp
 ec87e60f9ac86641f870eef8fbb52331a3b6f0d9,"feat(i18n, learn): remove Swahili and German from notAuditedSuperBloc…",2026-05-19T09:59:14Z,1,67,DanielRosa74,freeCodeCamp,freeCodeCamp
-384b4c8a437f816d2a1fb97655bb3300539bb907,"chore(i18n,learn): update i18n-curriculum submodule (#67451)",2026-05-19T01:03:58Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-eb482c869520f264f88134da3169be8768fe082e,"chore(i18n,client): processed translations (#67447)",2026-05-18T16:48:53Z,10,170,camperbot,freeCodeCamp,freeCodeCamp
-21b8619aa2ae2b30d1e52906d2c6707ef7be3fa0,fix(curriculum): use output test for bill splitter step 4 print hint …,2026-05-18T08:09:37Z,1,13,majestic-owl448,freeCodeCamp,freeCodeCamp
