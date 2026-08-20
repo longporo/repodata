@@ -1,15 +1,22 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X88AAAABIYmgJw,68708,Replace regex-based test cases in Linked List Workshop,OPEN,2026-07-10T18:24:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMsWUKQ,69534,Use of `const` vs `let` vs `var` in the Binary Search Workshop,OPEN,2026-08-13T23:44:20Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABNdJ7VA,69619,Use table and kbd elements for keyboard shortcuts,OPEN,2026-08-19T23:09:40Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABNZsUyw,69616,Downloadable PDF of lectures,OPEN,2026-08-19T15:27:17Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABND-fCQ,69563,Fix React component import and export explanations,CLOSED,2026-08-17T11:54:28Z,2026-08-19T20:39:55Z,Lostcrown301;a2937,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABIYmgJw,68708,Replace regex-based test cases in Linked List Workshop,OPEN,2026-07-10T18:24:57Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABND-q7A,69564,Update and clarify the React introduction,CLOSED,2026-08-17T11:54:46Z,2026-08-19T18:56:43Z,SuyoagP,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABNSnYEg,69606,Use of ID versus `id` when referring to the id attribute,OPEN,2026-08-18T22:27:08Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABNOv_OA,69596,User Configuration Manager test hides missing variable hint,CLOSED,2026-08-18T14:21:09Z,2026-08-18T21:03:09Z,Kunal241207,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABLnGuig,69344,"Add Section Headers to Lecture: How Do the Navigator, Window, and Document Work?",CLOSED,2026-08-05T18:49:41Z,2026-08-19T18:38:10Z,Aman739-code,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABJjXlSw,68957,Monaco editor accessibility breaks with NVDA in later HTML lessons and becomes unusable starting with the first CSS lesson,OPEN,2026-07-21T06:24:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABNQnVyQ,69602,Typo in Library Manager Workshop Step 16,CLOSED,2026-08-18T18:04:39Z,2026-08-19T10:40:54Z,Abhi-kumar23,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABLnG_Ew,69349,"Add Section Headers to Lecture: What Is the Purpose of Functions, and How Do They Work?",OPEN,2026-08-05T18:50:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABD1QUwA,67697,`IndependentLowerJaw` shows hints with relevant spaces trimmed,OPEN,2026-05-29T22:59:30Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABNRwnUw,69604,"Certification Project: Build a Digital Pet Game - Test #6 not allowing ""onChange"" handler for pet name",OPEN,2026-08-18T20:28:00Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABNOv_OA,69596,User Configuration Manager test hides missing variable hint,CLOSED,2026-08-18T14:21:09Z,2026-08-18T21:03:09Z,Kunal241207,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABNEEEcA,69568,Fix remaining issues in the code editors and IDEs lessons,CLOSED,2026-08-17T12:05:07Z,2026-08-18T18:59:23Z,BaconMan1168,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABNQnVyQ,69602,Typo in Library Manager Workshop Step 16,OPEN,2026-08-18T18:04:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABNPN3WA,69598,Python Basics review includes concepts not taught in the module,CLOSED,2026-08-18T15:11:06Z,2026-08-18T18:49:52Z,Dazzanova,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABND95Dg,69561,Fix style issues in the safe computer sign-in lecture,CLOSED,2026-08-17T11:53:31Z,2026-08-18T15:44:11Z,dev-sriramp,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmcoA,68702,Replace regex-based test cases in Fcc Authors Page Workshop,OPEN,2026-07-10T18:24:49Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnGuig,69344,"Add Section Headers to Lecture: How Do the Navigator, Window, and Document Work?",OPEN,2026-08-05T18:49:41Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMEbSfw,69453,Difference between acronyms and initialisms,CLOSED,2026-08-09T21:52:54Z,2026-08-18T08:19:26Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABND_5zA,69565,Fix style issues in the JavaScript libraries and frameworks lecture,CLOSED,2026-08-17T11:56:46Z,2026-08-18T08:13:31Z,AnandKumar-001,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnGysw,69345,"Add Section Headers to Lecture: What Is the @property Rule, and How Does It Work with Fallbacks?",OPEN,2026-08-05T18:49:46Z,,,freeCodeCamp,freeCodeCamp
@@ -19,15 +26,12 @@ I_kwDOAbI7X88AAAABLnD1Zw,69314,"Add Section Headers to Lecture: What Is CSS Flex
 I_kwDOAbI7X88AAAABLnFf4g,69328,"Add Section Headers to Lecture: What Are Pseudo-elements, and How Do They Work?",CLOSED,2026-08-05T18:47:19Z,2026-08-18T07:07:16Z,imsomilg;laypatel13,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABK6jHAg,69141,"""Build a motorcycle shop"" lab audit",OPEN,2026-07-31T07:27:54Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABNEBYhw,69567,Correct computer hardware and development tool explanations,CLOSED,2026-08-17T11:59:46Z,2026-08-17T21:13:57Z,BaconMan1168,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABD1QUwA,67697,`IndependentLowerJaw` shows hints with relevant spaces trimmed,OPEN,2026-05-29T22:59:30Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABF-pJNQ,68087,captureOneTimePayment passes wrong arguments to onApprove in PayPal donation handler,CLOSED,2026-06-18T21:50:31Z,2026-08-17T17:14:33Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKEFOug,69026,Fix(api): incorrect fallback values in normalizeDate and getPoints,CLOSED,2026-07-24T16:40:23Z,2026-08-17T17:03:06Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGaEHkQ,68170,"FaqItem is using useState, but it is being called like a normal function",OPEN,2026-06-23T10:33:27Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861UGwZ,60180,Handle log statements in redirection.ts,CLOSED,2025-05-06T08:17:32Z,2026-08-17T16:35:28Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABNEAD8Q,69566,Correct the SPA navigation and performance explanations,OPEN,2026-08-17T11:57:03Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABND9mtA,69560,Expand the computer basics catalog intro,OPEN,2026-08-17T11:52:59Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABND-q7A,69564,Update and clarify the React introduction,OPEN,2026-08-17T11:54:46Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABND-fCQ,69563,Fix React component import and export explanations,OPEN,2026-08-17T11:54:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABND-Wkg,69562,Fix React component explanations and examples,OPEN,2026-08-17T11:54:14Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmZqg,68697,Replace regex-based test cases in Build A Football Player Card Builder Workshop,CLOSED,2026-07-10T18:24:42Z,2026-08-17T11:44:09Z,jacobptnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnGetA,69340,"Add Section Headers to Lecture: What Are the Different Link States, and Why Are They Important?",CLOSED,2026-08-05T18:49:15Z,2026-08-17T11:33:12Z,laypatel13,freeCodeCamp,freeCodeCamp
@@ -83,7 +87,6 @@ I_kwDOAbI7X88AAAABLnE_og,69320,"Add Section Headers to Lecture: What Are Conditi
 I_kwDOAbI7X88AAAABLnFlyQ,69329,"Add Section Headers to Lecture: What Are Booleans, and How Do They Work with Equality and Inequality Operators?",OPEN,2026-08-05T18:47:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnGDMg,69333,"Add Section Headers to Lecture: What Are Bitwise Operators, and How Do They Work?",OPEN,2026-08-05T18:48:27Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnGU3w,69337,Add Section Headers to Lecture: How Do Loops and Iteration Work in JavaScript?,OPEN,2026-08-05T18:48:58Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnG_Ew,69349,"Add Section Headers to Lecture: What Is the Purpose of Functions, and How Do They Work?",OPEN,2026-08-05T18:50:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnC7zw,69290,"Add Section Headers to Lecture: What Is the calc() Function, and How Does It Work?",OPEN,2026-08-05T18:42:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnC-Aw,69291,Add Section Headers to Lecture: What Are ARIA Roles?,OPEN,2026-08-05T18:42:18Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnDByg,69293,Add Section Headers to Lecture: What Are Some Ways to Make Web Applications Keyboard Accessible?,OPEN,2026-08-05T18:42:26Z,,,freeCodeCamp,freeCodeCamp
@@ -252,7 +255,6 @@ I_kwDOAbI7X88AAAABKSfw_Q,69062,Grammar and formatting issues in Build a Hotel Fe
 I_kwDOAbI7X87bNhO2,64229,`--fcc-expected--` and `--fcc-actual--` handle falsy values incorrecly,CLOSED,2025-11-30T13:18:03Z,2026-07-30T16:13:34Z,Sembauke,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKSf8pg,69067,Hint and description wording issues in Build a Hotel Feedback Form Step 29,CLOSED,2026-07-27T07:22:25Z,2026-07-30T13:18:00Z,SudhamshuH,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKTYtww,69074,Replace regex-based test cases in Envelope Budget App Workshop,CLOSED,2026-07-27T09:20:47Z,2026-07-30T10:27:24Z,TheSeydiCharyyev;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABJjXlSw,68957,Monaco editor accessibility breaks with NVDA in later HTML lessons and becomes unusable starting with the first CSS lesson,OPEN,2026-07-21T06:24:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKrvbzg,69115,Shopping Cart workshop cart rows show prices without a dollar sign,CLOSED,2026-07-29T17:20:39Z,2026-07-30T08:31:54Z,Mehedov,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKSf6Vw,69065,Incomplete instructions and formatting issues in Build a Hotel Feedback Form Steps 19 to 22,CLOSED,2026-07-27T07:22:20Z,2026-07-30T08:23:26Z,Wolf-011,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmp1g,68726,Replace regex-based test cases in Word Counter Workshop,CLOSED,2026-07-10T18:25:21Z,2026-07-30T08:21:55Z,TEE0207;majestic-owl448,freeCodeCamp,freeCodeCamp
@@ -284,7 +286,7 @@ I_kwDOAbI7X88AAAABJR_02g,68924,Mandatory tags for Curriculum help category on FC
 I_kwDOAbI7X88AAAABIYmowA,68724,Replace regex-based test cases in Toggle Text App Workshop,CLOSED,2026-07-10T18:25:18Z,2026-07-27T05:56:24Z,typovrak,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKA5uBA,69014,Inaccurate catalog intro copy for the Introduction to Python block,CLOSED,2026-07-24T09:09:39Z,2026-07-26T23:59:46Z,nahidh-os,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKA8r1w,69016,Inconsistent casing of undefined and null data types in the Introduction to JavaScript data types lecture,CLOSED,2026-07-24T09:16:07Z,2026-07-26T23:54:41Z,akashwi,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABKDJX0w,69019,Fix inconsistent and grammatically incorrect quiz feedback in Working with Forms lecture,CLOSED,2026-07-24T14:27:57Z,2026-07-26T19:41:34Z,vinniit-23,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABKDJX0w,69019,Fix inconsistent and grammatically incorrect quiz feedback in Working with Forms lecture,CLOSED,2026-07-24T14:27:57Z,2026-07-26T19:41:34Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKA8tnw,69017,Missing word in the var explanation in the Introduction to JavaScript let and const lecture,CLOSED,2026-07-24T09:16:10Z,2026-07-26T19:06:22Z,syeda-hira-batool,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKDL5QA,69020,Fix typo and inconsistent feedback in the What Are Some Default Browser Styles Applied to HTML lecture,CLOSED,2026-07-24T14:32:55Z,2026-07-26T19:01:13Z,ashis-baral,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKDL6xQ,69022,Fix curly apostrophe and grammar errors in the What Are Margins and Padding lecture,CLOSED,2026-07-24T14:32:58Z,2026-07-26T07:17:00Z,Vanshdeep001,freeCodeCamp,freeCodeCamp
@@ -755,10 +757,3 @@ I_kwDOAbI7X87u86qJ,66172,Add Build a Music Industry Revenue Bar Chart workshop t
 I_kwDOAbI7X87ea8JB,64630,Audit and update prototype for d3 Dashboard workshop,CLOSED,2025-10-01T15:23:56Z,2026-05-20T04:41:11Z,jdwilkin4;meemeealm,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ea8Da,64629,Audit and update world map d3 workshop,CLOSED,2025-10-02T17:02:29Z,2026-05-20T04:41:02Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87u9ILP,66173,Add Build a Zoo Animal Scatterplot workshop to frontend cert,CLOSED,2026-03-02T03:01:09Z,2026-05-20T04:37:21Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABCxmxaw,67461,docs: improve sample.env comments for better developer onboarding,CLOSED,2026-05-19T21:30:49Z,2026-05-19T21:57:33Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABCn8rfw,67448,Misleading sentence about interface `extends`,CLOSED,2026-05-18T17:13:47Z,2026-05-19T19:38:52Z,laxitajain,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABBJmPoA,67219,css lecture that teaches hsl uses legacy syntax,CLOSED,2026-05-03T15:05:50Z,2026-05-19T14:25:54Z,Nitin-Rajasekar,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABCaHZ5Q,67433,Parallelize Network Requests,CLOSED,2026-05-15T19:52:07Z,2026-05-19T14:21:09Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X85vdbV9,51416,Decouple packages for faster build and DX,CLOSED,2023-08-28T15:28:12Z,2026-05-19T11:39:39Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X878zctJ,66891,Suggestion Feedback for Build an fCC Forum Leaderboard Lab,CLOSED,2026-04-10T19:35:02Z,2026-05-19T09:59:52Z,Venkat,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Wy9-P,63667,[bug] api serialization failure for error response,CLOSED,2025-11-08T15:42:57Z,2026-05-19T09:55:33Z,,freeCodeCamp,freeCodeCamp
