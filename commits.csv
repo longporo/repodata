@@ -1,4 +1,9 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+8327bb6a45e48392ad5a656e8ce89255eabef05b,fix(curriculum): correct React import and export explanations (#69617),2026-08-19T20:39:53Z,1,26,Lostcrown301,freeCodeCamp,freeCodeCamp
+f62ba7ade6a226184af3bb75f898e148ca21eb38,fix(curriculum): clarify React intro wording (#69618),2026-08-19T18:56:41Z,1,14,Suyoag,freeCodeCamp,freeCodeCamp
+67638a33014c7cf5e880936df7438f6928b3a4b9,feat(curriculum): add headers to navigator window document (#69615),2026-08-19T18:38:08Z,1,6,Aman739-code,freeCodeCamp,freeCodeCamp
+ea594ae5b46429f43d1c6205cb3fe183f6573faf,fix(curriculum): correct typos in workshop-library-manager (#69613),2026-08-19T10:40:52Z,1,4,Abhi-kumar23,freeCodeCamp,freeCodeCamp
+5d5c06cd11e714b6c9aa72294d73e5aa30906007,fix(curriculum): reword otp button text (#69605),2026-08-19T10:03:36Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 d4b0f80b6d37eff8fe9ff1cda3309403e5322611,fix(curriculum): check test_settings existence in user configuration …,2026-08-18T21:03:07Z,1,1,Kunal241207,freeCodeCamp,freeCodeCamp
 a6ce8850c3943a57158bb028fbcf5fed9c514ee8,fix(curriculum): correct code editor and IDE lessons (#69570),2026-08-18T18:59:20Z,5,20,BaconMan1168,freeCodeCamp,freeCodeCamp
 3151d0f9c950120a3ef0795cf5ecc5ed88456297,fix(curriculum): update Python basics review (#69599),2026-08-18T18:49:50Z,1,18,Dazzanova,freeCodeCamp,freeCodeCamp
@@ -776,8 +781,3 @@ bd3ae458148cb39d0ea266710bbf32df01cb719a,feat(curriculum): add new lesson for ty
 5279aeb34c196aa566789f5bc26f087677b7b426,fix(client): remove forced 1px size on editor screen-reader textarea …,2026-05-20T13:15:51Z,1,6,wittjeff,freeCodeCamp,freeCodeCamp
 da42fccd0bcc44992077b4f16f77c5d184413d80,fix: correct D3 lecture image alt text (#67476),2026-05-20T12:09:41Z,1,4,pavithra-r06,freeCodeCamp,freeCodeCamp
 80762b311314d791dd54a7a4e10320bc688d5cf6,fix: add missing backticks to get_balance method (#67467),2026-05-20T08:28:50Z,1,2,priyanshupundir,freeCodeCamp,freeCodeCamp
-2fa472e83b257bcc4c88f155b8e92fd685d651aa,fix(curriculum): update misleading explanation on interfaces (#67458),2026-05-19T19:38:50Z,1,2,laxitajain,freeCodeCamp,freeCodeCamp
-ee78e5f23f0316d90730257721074d836b06c0c9,fix(curriculum): update HSL lecture to use modern space-separated syn…,2026-05-19T14:25:39Z,1,42,Nitin-Rajasekar,freeCodeCamp,freeCodeCamp
-b1141962e19e7609f3b7f1577fab535917686499,feat(client): handle exam awaiting challenges (#67455),2026-05-19T13:49:19Z,2,13,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-271a69bef5e0151f51c1ce47b964865ae59af589,fix(curriculum):  clarify instructions and resolve URL issues in lead…,2026-05-19T09:59:50Z,1,54,Venkat-Entropik,freeCodeCamp,freeCodeCamp
-ec87e60f9ac86641f870eef8fbb52331a3b6f0d9,"feat(i18n, learn): remove Swahili and German from notAuditedSuperBloc…",2026-05-19T09:59:14Z,1,67,DanielRosa74,freeCodeCamp,freeCodeCamp
