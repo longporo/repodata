@@ -1,4 +1,22 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+c77b18edcd91e1a37043de0e8036e58ded67d873,fix(tools): remove linked issue check (#68470),2026-08-20T18:46:53Z,3,142,majestic-owl448,freeCodeCamp,freeCodeCamp
+92df06148650a34424a317cd9b66c9628bf64c4e,fix(curriculum): use kbd for F12 in performance metrics lesson (#69652),2026-08-20T18:27:38Z,1,2,caio-bittencourt,freeCodeCamp,freeCodeCamp
+338424c75ec1ca2d6656b0ae7dc5dd932caf0cbd,fix(curriculum): use kbd elements for DevTools shortcuts (#69651),2026-08-20T18:27:02Z,1,2,caio-bittencourt,freeCodeCamp,freeCodeCamp
+3c25a05829747cb028eb5645aba0ccfe6e19cc4a,fix(curriculum): use kbd for F12 in accessibility tools lesson (#69650),2026-08-20T18:26:26Z,1,4,caio-bittencourt,freeCodeCamp,freeCodeCamp
+5c64ed4878ad056b9611382a7bd7db56a554c93b,fix(curriculum): use kbd element for F12 shortcut (#69649),2026-08-20T18:25:46Z,1,6,caio-bittencourt,freeCodeCamp,freeCodeCamp
+e072f9ff1c005db5fc90f58dab76046a07047fa0,fix(curriculum): use kbd elements for Vite shortcut (#69648),2026-08-20T18:23:59Z,1,2,caio-bittencourt,freeCodeCamp,freeCodeCamp
+21775b71e245f24d29fde994abe6b5bf5a03a635,fix(curriculum): use kbd elements for express shutdown shortcut (#69646),2026-08-20T18:17:42Z,1,4,BaconMan1168,freeCodeCamp,freeCodeCamp
+f4a17736963b7c6ef5b17326267feef369c1c165,fix(curriculum): use semantic keyboard markup (#69644),2026-08-20T18:08:55Z,1,4,aryanraj7791,freeCodeCamp,freeCodeCamp
+03d0f2cdbbe1f735560cd03c34420af179c7a690,chore(api): remove shadow-capture dev tool (#69559),2026-08-20T18:07:41Z,5,153,Sembauke,freeCodeCamp,freeCodeCamp
+e39a82457342e74c7328dfe0a42373565f5b2fc1,fix(curriculum): clarify SPA navigation and performance explanations …,2026-08-20T14:08:30Z,1,10,jiubao76799,freeCodeCamp,freeCodeCamp
+dbfe4f14edd8d17f37e10961fe72dee2a592f55c,fix(curriculum): use kbd markup for spotlight shortcut (#69641),2026-08-20T13:51:53Z,1,2,BaconMan1168,freeCodeCamp,freeCodeCamp
+2e93a4a4e1f6f64420ab7f284254df15d8b4f7ac,fix(curriculum): make forum leaderboard fetch stub response-like (#69…,2026-08-20T11:43:03Z,1,14,majestic-owl448,freeCodeCamp,freeCodeCamp
+6b8d9f2d1bae92b81b70fce939a4efcb37b6d97d,fix(curriculum): make motorcycle shop fetch stub response-like (#69574),2026-08-20T11:24:52Z,1,14,majestic-owl448,freeCodeCamp,freeCodeCamp
+4515bf22c806dc175b0a19dc1beaefa94be6d762,feat(tools): flag PRs from main branch (#68471),2026-08-20T09:56:58Z,1,79,majestic-owl448,freeCodeCamp,freeCodeCamp
+b4f70b015433908f4d5c41b2e2fb7aee7187db71,fix(client): link to github.com/codespaces to resume RDB workspace (#…,2026-08-20T09:56:24Z,2,51,Sembauke,freeCodeCamp,freeCodeCamp
+f59114a445ef5fd3c166fbe69651537980d36244,fix(client): expand computer basics catalog intro (#69620),2026-08-20T09:28:10Z,1,2,KevinBamwisho,freeCodeCamp,freeCodeCamp
+5e7f914f05e789ffdef99dcfd9eca8a02fcdb550,fix: correct React component lesson (#69624),2026-08-20T09:17:31Z,1,34,saswat9658,freeCodeCamp,freeCodeCamp
+581d4ba5db87880047924788011fbf55fe29b5d8,"refactor(curriculum): Added Section Headers to Lecture ""What Is the P…",2026-08-20T08:53:35Z,1,12,SudhamshuH,freeCodeCamp,freeCodeCamp
 8327bb6a45e48392ad5a656e8ce89255eabef05b,fix(curriculum): correct React import and export explanations (#69617),2026-08-19T20:39:53Z,1,26,Lostcrown301,freeCodeCamp,freeCodeCamp
 f62ba7ade6a226184af3bb75f898e148ca21eb38,fix(curriculum): clarify React intro wording (#69618),2026-08-19T18:56:41Z,1,14,Suyoag,freeCodeCamp,freeCodeCamp
 67638a33014c7cf5e880936df7438f6928b3a4b9,feat(curriculum): add headers to navigator window document (#69615),2026-08-19T18:38:08Z,1,6,Aman739-code,freeCodeCamp,freeCodeCamp
@@ -776,8 +794,3 @@ dbc5332f9cdcb5c9fe233f21044f556fd3594caa,feat(curriculum): added demoType for fi
 5f60026666718c64bf5ad877212e283589a3fa8c,fix (client): prevent completion modal in multi-file labs (#66552),2026-05-21T11:14:14Z,6,92,Venkat-Entropik,freeCodeCamp,freeCodeCamp
 9372acecf73119280a6a043c4e2582be4f88a624,fix: restore mobile upper jaw touch gestures (#66752),2026-05-21T09:27:47Z,6,968,Sembauke,freeCodeCamp,freeCodeCamp
 bd3ae458148cb39d0ea266710bbf32df01cb719a,feat(curriculum): add new lesson for type and isinstance functions (#…,2026-05-21T07:34:41Z,3,314,jdwilkin4,freeCodeCamp,freeCodeCamp
-68de9032aef5efc8628b72024aefe37df399929f,fix(client): notes in superblocks intro (#67075),2026-05-20T21:11:32Z,6,245,AdityaSinghWebDev,freeCodeCamp,freeCodeCamp
-13370827c33d405aa3b2c355fdf4231bea9b5f57,fix(curriculum): correct grammar in Fetch API lecture (#67475),2026-05-20T13:49:07Z,1,10,vipin8797,freeCodeCamp,freeCodeCamp
-5279aeb34c196aa566789f5bc26f087677b7b426,fix(client): remove forced 1px size on editor screen-reader textarea …,2026-05-20T13:15:51Z,1,6,wittjeff,freeCodeCamp,freeCodeCamp
-da42fccd0bcc44992077b4f16f77c5d184413d80,fix: correct D3 lecture image alt text (#67476),2026-05-20T12:09:41Z,1,4,pavithra-r06,freeCodeCamp,freeCodeCamp
-80762b311314d791dd54a7a4e10320bc688d5cf6,fix: add missing backticks to get_balance method (#67467),2026-05-20T08:28:50Z,1,2,priyanshupundir,freeCodeCamp,freeCodeCamp
