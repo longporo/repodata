@@ -1,4 +1,31 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+4289125977fa5bc4c90d7e2860bc04062a30abee,fix(client): set content direction on scene dialogue captions (#69612),2026-08-21T20:23:38Z,1,2,ahmaxed,freeCodeCamp,freeCodeCamp
+55e85b1b03729bd033e3a5d09fd588fd4fe90e72,fix(client): remove tool-panel from side-panel tests (#69666),2026-08-21T18:47:18Z,1,9,moT01,freeCodeCamp,freeCodeCamp
+383bb89d9a1cdc9a382d528435a077cd6a4e360b,test: move module reset coverage to client (#68370),2026-08-21T17:18:25Z,2,215,Sembauke,freeCodeCamp,freeCodeCamp
+c93308c4932fb163012ede41932a7633442b8ce5,test: move progress reset modal coverage to client (#68388),2026-08-21T17:15:46Z,2,205,Sembauke,freeCodeCamp,freeCodeCamp
+d4300882634ce56bf469c3f08aee866b0a1ea8bc,test(client): move side panel rendering coverage to client (#68511),2026-08-21T17:14:21Z,2,146,Sembauke,freeCodeCamp,freeCodeCamp
+782419ed93ac41c8db5a09bb13380250dc59f8b6,fix(curriculum): move backend token steps after startup (#69519),2026-08-21T17:14:10Z,2,54,majestic-owl448,freeCodeCamp,freeCodeCamp
+e0576b172388602b5ef80177583a27ad58f3607a,test(client): move generic challenge show rendering coverage to clien…,2026-08-21T17:13:35Z,3,269,Sembauke,freeCodeCamp,freeCodeCamp
+65c664562b3f88ea6c6d347e4807ee343785cf91,fix(curriculum): report the payload when stock price checker tests ar…,2026-08-21T17:06:15Z,1,6,majestic-owl448,freeCodeCamp,freeCodeCamp
+e866f7c7f2071a217908f3b5d8b575ba16303277,fix(curriculum): report the payload when message board tests are unav…,2026-08-21T17:05:38Z,1,6,majestic-owl448,freeCodeCamp,freeCodeCamp
+6848a3abd8c4087ade6e48ee59fda8a0b0ffa25f,fix(client): render FaqItem as a proper component (#69571),2026-08-21T17:02:28Z,3,95,Sembauke,freeCodeCamp,freeCodeCamp
+4ff84a6938efa137752cff677aa8c547f7cdba82,fix(curriculum): include tomorrow in exercise tracker expected dates …,2026-08-21T15:59:03Z,1,25,majestic-owl448,freeCodeCamp,freeCodeCamp
+3eec51c170916d8598a94da35dc72ca3b72aef5f,fix(curriculum): remove knowledge prerequisites from Python basics mo…,2026-08-21T15:18:11Z,15,159,majestic-owl448,freeCodeCamp,freeCodeCamp
+5e99c5bb7f63b418f162ef2e52f2926cf19285a9,fix(curriculum): fix grammar and hint-style consistency in OTP genera…,2026-08-21T15:15:41Z,1,34,Sembauke,freeCodeCamp,freeCodeCamp
+0d5c4472d259054b2138423a7d8c9915e4c445a5,test: move ms trophy show coverage to client (#68382),2026-08-21T15:12:28Z,2,221,Sembauke,freeCodeCamp,freeCodeCamp
+bfe3a06e1973dcea97d87251aed640117f744229,test(profile): move coverage from e2e to client unit tests (#68386),2026-08-21T15:10:59Z,2,462,Sembauke,freeCodeCamp,freeCodeCamp
+68c93b3339d7cd4b6dac41b28b15c858c38e8d76,test: move quincy email sign-up rendering coverage to client (#68389),2026-08-21T15:09:54Z,2,106,Sembauke,freeCodeCamp,freeCodeCamp
+c28ced9c2de1d523cd8ec2a961189fd056b9675f,test: move Microsoft user link coverage to client (#68367),2026-08-21T15:09:20Z,3,291,Sembauke,freeCodeCamp,freeCodeCamp
+5993070e9ed9ed64841515f4fb0fdb2031c47a6e,fix(curriculum): add command-line shortcut summary table (#69645),2026-08-21T14:59:16Z,1,78,BaconMan1168,freeCodeCamp,freeCodeCamp
+8f30ac588b81d1489e5b4bbdf3646914fd36b78b,fix(curriculum): add keyboard shortcut summary table to vs code lesso…,2026-08-21T14:59:13Z,1,138,BaconMan1168,freeCodeCamp,freeCodeCamp
+4d2eb21e6d150dab0555c2a68b06f75bf61c99fe,test: move internet presence coverage to client (#68362),2026-08-21T14:56:11Z,3,218,Sembauke,freeCodeCamp,freeCodeCamp
+b5af882abfe6589344cb28bd10df90f8090e1ca3,feat(curriculum): add headers to tree-structural pseudo-classes (#69623),2026-08-21T14:40:24Z,1,14,Aman739-code,freeCodeCamp,freeCodeCamp
+9132a25d26cb8baed9a6645f11a11777826b4da5,fix(curriculum): replace regex-based test cases in Shopping List App …,2026-08-21T14:30:35Z,12,171,chauhan-varun,freeCodeCamp,freeCodeCamp
+76e39213fc1d6452ee16287bb38bf04dd83e411a,chore(curriculum): add kbd element for macOS Command Palette keyboard…,2026-08-21T07:54:04Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+d72d48032fb57066b6c0d486e722ac46690a3701,"fix(curriculum): use separate kbd elements for Ctrl, Z, and Enter (#6…",2026-08-21T07:49:38Z,1,2,Dazzanova,freeCodeCamp,freeCodeCamp
+00257a5e459b5c4690dcafe048124f006b5468f9,fix(curriculum): add section headers to @property rule lecture (#69603),2026-08-21T07:46:12Z,1,18,jaykumar14921,freeCodeCamp,freeCodeCamp
+54e2ed5b0ab4dff3979f65160319103362c7211a,fix(curriculum): add file-management keyboard shortcut summary table …,2026-08-21T07:10:53Z,1,38,hishammoizuddin,freeCodeCamp,freeCodeCamp
+e70841fe7b17b00adbe33c5501d853563e6cf629,fix(curriculum): add section headers to css-flexbox lecture (#69625),2026-08-21T06:20:40Z,1,8,laypatel13,freeCodeCamp,freeCodeCamp
 c77b18edcd91e1a37043de0e8036e58ded67d873,fix(tools): remove linked issue check (#68470),2026-08-20T18:46:53Z,3,142,majestic-owl448,freeCodeCamp,freeCodeCamp
 92df06148650a34424a317cd9b66c9628bf64c4e,fix(curriculum): use kbd for F12 in performance metrics lesson (#69652),2026-08-20T18:27:38Z,1,2,caio-bittencourt,freeCodeCamp,freeCodeCamp
 338424c75ec1ca2d6656b0ae7dc5dd932caf0cbd,fix(curriculum): use kbd elements for DevTools shortcuts (#69651),2026-08-20T18:27:02Z,1,2,caio-bittencourt,freeCodeCamp,freeCodeCamp
@@ -788,9 +815,3 @@ f1fb3737d2a06a763d5bead582efaeaba5c90d17,fix(curriculum): add missing demoType t
 dbc5332f9cdcb5c9fe233f21044f556fd3594caa,feat(curriculum): added demoType for final exams table workshop (#67532),2026-05-22T08:41:23Z,1,1,imayuss,freeCodeCamp,freeCodeCamp
 449076f75240915bd01fee8fc4b3ba77a957ca02,fix(curriculum): add demoType to cafe-menu step 1 (#67527),2026-05-22T07:51:23Z,1,1,bindpratapsingh,freeCodeCamp,freeCodeCamp
 0923aa9ba570757f10ef152c49cdfc42be6bc1b4,fix(curriculum): added demoType in workshop-hotel-feedback-form step …,2026-05-22T07:31:07Z,1,1,deb2000-sudo,freeCodeCamp,freeCodeCamp
-0d266f1af19101a8b8b15a55a72ea7cfa668aac4,fix(curriculum): correct text errors in lecture-booleans-and-conditio…,2026-05-21T19:19:26Z,2,8,Rafaelkocharli,freeCodeCamp,freeCodeCamp
-9b18e090f3219393f46c25ea308d616f49c38304,fix(curriculum): add missing certification projects to frontend libra…,2026-05-21T17:51:46Z,5,24,Ksound22,freeCodeCamp,freeCodeCamp
-840835f5ffbf2ed3b00149d230f614c7cf4f8c97,fix(curriculum): correct grammar in lecture-accessible-media-elements…,2026-05-21T11:22:12Z,4,8,yaseen-vm,freeCodeCamp,freeCodeCamp
-5f60026666718c64bf5ad877212e283589a3fa8c,fix (client): prevent completion modal in multi-file labs (#66552),2026-05-21T11:14:14Z,6,92,Venkat-Entropik,freeCodeCamp,freeCodeCamp
-9372acecf73119280a6a043c4e2582be4f88a624,fix: restore mobile upper jaw touch gestures (#66752),2026-05-21T09:27:47Z,6,968,Sembauke,freeCodeCamp,freeCodeCamp
-bd3ae458148cb39d0ea266710bbf32df01cb719a,feat(curriculum): add new lesson for type and isinstance functions (#…,2026-05-21T07:34:41Z,3,314,jdwilkin4,freeCodeCamp,freeCodeCamp
