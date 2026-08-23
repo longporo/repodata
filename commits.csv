@@ -806,12 +806,3 @@ f9f699e52bfc8307af173fb5e316484f4caca8b7,feat(curriculum): add express error han
 0fcbf74446f1cc8ba3d718ad00b92701e8b372d8,fix(e2e): correct URL assertion in mobile breadcrumb test (#67509),2026-05-23T12:15:37Z,1,2,huyenltnguyen,freeCodeCamp,freeCodeCamp
 0fc9c780b2c26385edb0a231c48c9a579d77840a,fix(curriculum): remove fake clock uninstall test (#67549),2026-05-23T12:03:19Z,1,6,priyanshupundir,freeCodeCamp,freeCodeCamp
 652f0e0eb22792c0d6f265c5c24c065b6160ab80,fix(curriculum): add overlapping phrases test (#67553),2026-05-23T12:00:35Z,1,8,lakshay122007,freeCodeCamp,freeCodeCamp
-e08b9f992fd6622240c750f9a7ab97f101aac425,fix(client): add support for editable regions in TypeScript and TSX f…,2026-05-22T19:53:53Z,2,35,rustom-yadav,freeCodeCamp,freeCodeCamp
-f2616386123ef846e1602290aabfd1f74ebf8f6c,fix(curriculum): correct errors in html fundamentals lectures (#67529),2026-05-22T18:27:03Z,4,22,shreesakhi-ch,freeCodeCamp,freeCodeCamp
-e3d9399d03bc8e23f1541f83447314eea19c8301,fix: correct ambiguous phrasing and bold formatting in python lecture…,2026-05-22T17:25:15Z,2,4,divy-dawda,freeCodeCamp,freeCodeCamp
-41f29e6e3c639a75d86b894392230cbf4de0bb2a,fix: correct typos in accessible-tables-forms lecture (#67539),2026-05-22T16:40:44Z,2,4,Barreratomas,freeCodeCamp,freeCodeCamp
-030632f44d4cf3d681464d6b8e74329c793994dc,fix(curriculum): add missing add secret step (#67530),2026-05-22T16:19:07Z,2,6,priyanshupundir,freeCodeCamp,freeCodeCamp
-f1fb3737d2a06a763d5bead582efaeaba5c90d17,fix(curriculum): add missing demoType to workshop-colorful-boxes step…,2026-05-22T10:20:13Z,1,1,Baisayan,freeCodeCamp,freeCodeCamp
-dbc5332f9cdcb5c9fe233f21044f556fd3594caa,feat(curriculum): added demoType for final exams table workshop (#67532),2026-05-22T08:41:23Z,1,1,imayuss,freeCodeCamp,freeCodeCamp
-449076f75240915bd01fee8fc4b3ba77a957ca02,fix(curriculum): add demoType to cafe-menu step 1 (#67527),2026-05-22T07:51:23Z,1,1,bindpratapsingh,freeCodeCamp,freeCodeCamp
-0923aa9ba570757f10ef152c49cdfc42be6bc1b4,fix(curriculum): added demoType in workshop-hotel-feedback-form step …,2026-05-22T07:31:07Z,1,1,deb2000-sudo,freeCodeCamp,freeCodeCamp
