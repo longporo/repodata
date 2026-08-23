@@ -1,7 +1,15 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X88AAAABN0payg,69675,Use semantic keyboard markup in The Box Model Lesson A,OPEN,2026-08-22T15:23:00Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABN0paIA,69674,Use semantic keyboard markup in How to Set Up the Chinese Keyboard on Your Computer,OPEN,2026-08-22T15:22:58Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABN0pZZQ,69673,Use semantic keyboard markup in Back End Development and APIs Review,OPEN,2026-08-22T15:22:55Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABN0pYkg,69672,Use semantic keyboard markup in Error Handling in Express Review,OPEN,2026-08-22T15:22:52Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABN0pSew,69671,Use semantic keyboard markup in Bash Commands Quiz,OPEN,2026-08-22T15:22:28Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABNutudA,69665,Sign in button on daily challenge archive page is too wide,OPEN,2026-08-21T16:59:37Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABNe6rVA,69622,fs lesson incorrectly states that every method has a synchronous version,OPEN,2026-08-20T04:49:52Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABNzD0ww,69668,Elon issues,CLOSED,2026-08-22T08:04:14Z,2026-08-22T09:04:45Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABNzDtWQ,69667,Elon issues,CLOSED,2026-08-22T08:03:48Z,2026-08-22T09:04:44Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861sa5w,60228,Persisting Last User Activity,OPEN,2025-05-08T09:05:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGaEHkQ,68170,"FaqItem is using useState, but it is being called like a normal function",CLOSED,2026-06-23T10:33:27Z,2026-08-21T17:02:30Z,Sembauke,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABNutudA,69665,Sign in button on daily challenge archive page is too wide,OPEN,2026-08-21T16:59:37Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABNtjgPQ,69663,Inserting Emoji's,OPEN,2026-08-21T14:33:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABNhk6hg,69636,Add an accessible command-line shortcut summary,CLOSED,2026-08-20T10:53:04Z,2026-08-21T14:59:18Z,BaconMan1168,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABNhdBWg,69627,Add an accessible VS Code keyboard shortcut summary,CLOSED,2026-08-20T10:37:31Z,2026-08-21T14:59:16Z,BaconMan1168,freeCodeCamp,freeCodeCamp
@@ -28,7 +36,6 @@ I_kwDOAbI7X86rBZDN,58932,Update logging in routes,CLOSED,2025-02-21T14:59:14Z,20
 I_kwDOAbI7X88AAAABNEAD8Q,69566,Correct the SPA navigation and performance explanations,CLOSED,2026-08-17T11:57:03Z,2026-08-20T14:08:32Z,jiubao76799-png,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABNhcxOA,69626,Use semantic keyboard markup for the Spotlight shortcut,CLOSED,2026-08-20T10:36:58Z,2026-08-20T13:51:55Z,BaconMan1168,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABNdJ7VA,69619,Use a table and kbd elements for keyboard shortcuts,OPEN,2026-08-19T23:09:40Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABNe6rVA,69622,fs lesson incorrectly states that every method has a synchronous version,OPEN,2026-08-20T04:49:52Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87dzwze,64545,"rdb-v9 codespaces link should point to ""Your codespaces"" instead of rdb-alpha repo",CLOSED,2025-12-11T23:39:06Z,2026-08-20T09:56:26Z,Sembauke,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABND9mtA,69560,Expand the computer basics catalog intro,CLOSED,2026-08-17T11:52:59Z,2026-08-20T09:28:12Z,KevinBamwisho,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABND-Wkg,69562,Fix React component explanations and examples,CLOSED,2026-08-17T11:54:14Z,2026-08-20T09:17:33Z,saswat9658,freeCodeCamp,freeCodeCamp
@@ -744,12 +751,3 @@ I_kwDOAbI7X863jX9t,60461,Inconvenient discovery of challenges in Full Stack Deve
 I_kwDOAbI7X88AAAABDJ1veg,67547,Remove fake clock uninstall test from tic-tac-toe lab,CLOSED,2026-05-23T02:54:25Z,2026-05-23T12:03:20Z,priyanshupundir,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDJTLJg,67545,"""Build a Proofreading Tool"" lab accepts findRepeatedPhrases solutions that miss overlapping phrases",CLOSED,2026-05-22T23:10:21Z,2026-05-23T12:00:36Z,lakshay122007,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDKiVcg,67552,Fix grammar and sentences flow in lecture-working-with-arrays,CLOSED,2026-05-23T07:36:01Z,2026-05-23T07:37:30Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDGBbSA,67536,Help post does not correctly add comments for editable region,CLOSED,2026-05-22T12:31:28Z,2026-05-22T19:53:55Z,Sembauke;rustom-yadav,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDBMJEQ,67520,Fix errors in lecture-html-fundamentals block,CLOSED,2026-05-21T20:01:46Z,2026-05-22T18:27:05Z,shreesakhi-ch,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDBJ4XQ,67515,Fix errors in lecture-classes-and-objects block,CLOSED,2026-05-21T19:55:43Z,2026-05-22T17:25:17Z,divy-dawda,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDBLnZw,67518,Fix errors in lecture-accessible-tables-forms block,CLOSED,2026-05-21T20:00:25Z,2026-05-22T16:40:46Z,Barreratomas,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABC_WKqQ,67511,"Step to ""click Add Secret"" missing in Codespaces token setup instructions",CLOSED,2026-05-21T15:00:50Z,2026-05-22T16:19:09Z,priyanshupundir,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDBMM9w,67523,Add missing demoType to workshop-colorful-boxes step 1,CLOSED,2026-05-21T20:01:59Z,2026-05-22T10:20:15Z,Baisayan,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDBMODA,67524,Add missing demoType to workshop-final-exams-table step 1,CLOSED,2026-05-21T20:02:01Z,2026-05-22T08:41:25Z,imayuss,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDBML3Q,67522,Add missing demoType to workshop-cafe-menu step 1,CLOSED,2026-05-21T20:01:55Z,2026-05-22T07:51:25Z,bindpratapsingh,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDBMPYg,67525,Add missing demoType to workshop-hotel-feedback-form step 1,CLOSED,2026-05-21T20:02:05Z,2026-05-22T07:31:09Z,Debashis Nayak,freeCodeCamp,freeCodeCamp
