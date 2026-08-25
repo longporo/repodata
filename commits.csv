@@ -1,4 +1,26 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+0a30d37f10c012db34c3d92fd201ce7d7cf84877,fix(curriculum): use kbd elements for keyboard shortcuts (#69713),2026-08-24T15:35:17Z,1,16,Venkat-Entropik,freeCodeCamp,freeCodeCamp
+56af925fb50a3108dbe181b3c4e983eda985030d,test(e2e): isolate user token lifecycle (#69691),2026-08-24T15:22:34Z,5,205,Sembauke,freeCodeCamp,freeCodeCamp
+1e05bd7f936ef658da5e5e5c7c33cbb020507cf2,fix(curriculum): restore event target examples (#69714),2026-08-24T15:20:04Z,1,24,barry166,freeCodeCamp,freeCodeCamp
+36512013f615bb786f4550edced29ea4f0db4ef2,fix(curriculum): use kbd in bash review pages (#69712),2026-08-24T14:30:06Z,1,10,duna-akin,freeCodeCamp,freeCodeCamp
+5b222af4d83dc854aa15951468a5a376894796fa,fix(curriculum): use keyboard markup (#69710),2026-08-24T14:06:51Z,1,10,BaconMan1168,freeCodeCamp,freeCodeCamp
+9c591994456104bae9b2c6b310594f5dd024528a,fix(curriculum): add semantic keyboard markup in Python debugging tec…,2026-08-24T13:46:25Z,1,10,wonganjatan,freeCodeCamp,freeCodeCamp
+0ad07089c8a85ce853d9e0a38a211e82a8b36c6e,fix(curriculum): mention globalThis in Node.js lesson (#69684),2026-08-24T13:44:56Z,1,2,guptakrish490,freeCodeCamp,freeCodeCamp
+6c36249a59d15d5c89d05d10e065cedc5058c3f8,fix: use kbd markup for Spanish keyboard shortcut (#69703),2026-08-24T13:37:36Z,1,2,priyanshupundir,freeCodeCamp,freeCodeCamp
+ed9e44a21d40b5ed537a1f776e264ae699720774,fix: use kbd markup for Chinese keyboard shortcut (#69701),2026-08-24T13:11:13Z,1,2,priyanshupundir,freeCodeCamp,freeCodeCamp
+f89ee8ebbd26294029ec6715b59409ebd29eba6c,fix: use kbd markup for Windows logo key (#69704),2026-08-24T13:10:53Z,1,2,priyanshupundir,freeCodeCamp,freeCodeCamp
+de520e9e088d7937141140acbf7db50294318e20,fix(curriculum): fix grammar and terminology consistency in fruit sea…,2026-08-24T12:14:45Z,9,24,Sembauke,freeCodeCamp,freeCodeCamp
+98dc3416fff5042718cae0d032e62b3d9abe6828,fix(curriculum): mock forum data fetch in fcc forum leaderboard (#69196),2026-08-24T12:09:55Z,48,1916,majestic-owl448,freeCodeCamp,freeCodeCamp
+d8525b9a13b4c5c1cda67c2cc5dce881abb59f59,fix(curriculum): correct fs module documentation (#69640),2026-08-24T10:46:45Z,1,16,saswat9658,freeCodeCamp,freeCodeCamp
+d6ec0ecf1bec77e0eb205f45fb561b729f8fb4be,fix(curriculum): removed first person plural pronoun (#69689),2026-08-24T10:11:57Z,1,22,wonganjatan,freeCodeCamp,freeCodeCamp
+71e4b09c9f8d96bc407b785294952a9d777dc194,fix(curriculum): reduce Python concept load (#69664),2026-08-24T10:04:25Z,12,433,majestic-owl448,freeCodeCamp,freeCodeCamp
+42351cfab002c26393e00a77612a6bdaf57eec69,fix(curriculum): correct spelling of symbol in Spanish contact inform…,2026-08-24T09:43:49Z,1,2,ingsunny,freeCodeCamp,freeCodeCamp
+be3c034c04eac46608dbca740b67f7d173d84f81,fix(curriculum): add nano keyboard shortcut summary table (#69657),2026-08-24T08:49:55Z,1,48,hishammoizuddin,freeCodeCamp,freeCodeCamp
+b751b28dd10048e75d5db0dcd8fc00775e957e12,fix(curriculum): mark Ctrl+C as keyboard input (#69676),2026-08-24T08:44:54Z,1,2,barry166,freeCodeCamp,freeCodeCamp
+8d8f57cb630b76504732c441007584c1c639824d,fix: use kbd element for F12 keyboard input (#69677),2026-08-24T08:44:18Z,1,2,laxitajain,freeCodeCamp,freeCodeCamp
+1e8097c2433236926201a9bc09b5171f689c2a19,fix: use kbd elements for Ctrl+C shortcut (#69679),2026-08-24T08:43:35Z,1,2,laxitajain,freeCodeCamp,freeCodeCamp
+37b6d150faa0a4264039f7873d9dd22eb86c112b,fix: use kbd elements for Chinese keyboard shortcut (#69678),2026-08-24T08:42:50Z,1,2,laxitajain,freeCodeCamp,freeCodeCamp
+723fb482eab8eeb9f21c1c744f68e0992532859e,fix: use kbd elements for Bash keyboard shortcuts (#69680),2026-08-24T08:41:37Z,1,16,laxitajain,freeCodeCamp,freeCodeCamp
 4289125977fa5bc4c90d7e2860bc04062a30abee,fix(client): set content direction on scene dialogue captions (#69612),2026-08-21T20:23:38Z,1,2,ahmaxed,freeCodeCamp,freeCodeCamp
 55e85b1b03729bd033e3a5d09fd588fd4fe90e72,fix(client): remove tool-panel from side-panel tests (#69666),2026-08-21T18:47:18Z,1,9,moT01,freeCodeCamp,freeCodeCamp
 383bb89d9a1cdc9a382d528435a077cd6a4e360b,test: move module reset coverage to client (#68370),2026-08-21T17:18:25Z,2,215,Sembauke,freeCodeCamp,freeCodeCamp
@@ -794,8 +816,3 @@ c429f03a9b95ab084ed8476c611d4112586519a7,fix(client): move RDB start button abov
 1670dca438f10ea3dc9754e334d4127785e8106e,feat(curriculum): add http and web standards quiz (#67335),2026-05-25T09:08:58Z,4,477,Ksound22,freeCodeCamp,freeCodeCamp
 e69bd6224a094ee4ce1a83184dbe10621f250378,fix: correct 'in to' typo to 'into' in basic HTML quiz (#67586),2026-05-25T08:21:23Z,1,2,07Vineet07,freeCodeCamp,freeCodeCamp
 fdab641dd00fe86517dbd7b5cf71fcf80fbe78d7,feat(curriculum): add async/await to workshop-fcc-authors-page (#66972),2026-05-25T07:47:01Z,7,1480,hbar1st,freeCodeCamp,freeCodeCamp
-de8655d5287e60427da6a8cfcbc1d425f3ab35c5,fix(curriculum): fix grammar and wording in arrays tutorials (#67502),2026-05-24T20:29:18Z,3,24,dinesh-bajgain-dev,freeCodeCamp,freeCodeCamp
-ae4660e5ff93a152eb0d5a8be96b110d20c3b49d,fix(curriculum): fix terminology and grammar in error handling lectur…,2026-05-24T20:02:18Z,2,22,Ali Mahmmoud,freeCodeCamp,freeCodeCamp
-a1eccbcde86e786b9df57f8311ddc6482477379d,fix(curriculum): remove leading spaces data viz (#67528),2026-05-24T19:33:55Z,2,6,DanielcoderIA,freeCodeCamp,freeCodeCamp
-968a5a55276ec823cf6b6a2e0eecbf7a21cbe4e7,fix(curriculum): avoid parent/child terminology in travel agency page…,2026-05-24T15:28:31Z,1,6,Aniket25042003,freeCodeCamp,freeCodeCamp
-b9b6db03307b89203f41d86c0c0ccd52b8f43f4b,fix(curriculum): correct capitalization in Task 9 data types challeng…,2026-05-24T12:09:03Z,1,2,ShivangSKonde,freeCodeCamp,freeCodeCamp
