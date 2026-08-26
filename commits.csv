@@ -1,4 +1,15 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+88b208d337b2d60885c7628e4160f08bb9b64784,feat(curriculum): add section headers to mobile-first-approach lectur…,2026-08-25T09:47:04Z,1,14,Aman739-code,freeCodeCamp,freeCodeCamp
+001d8957f6031ad8a46f2bdeaf037e5310454e87,fix(curriculum): use semantic keyboard markup (#69732),2026-08-25T09:40:36Z,5,16,aryanraj7791,freeCodeCamp,freeCodeCamp
+6476e4e629447780f95c70becd7018ba43f1fd32,feat(curriculum): add section headers conditional-statements lecture …,2026-08-25T09:36:59Z,1,12,Aman739-code,freeCodeCamp,freeCodeCamp
+39870ea0085ebafb17665d19ff03e6b59ad61c66,test(curriculum): increase timeout for object id validation (#69718),2026-08-25T09:25:31Z,1,20,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+26f830fc52867b9a6d41676e7c3d4efac0727dbb,fix(curriculum): use semantic keyboard markup in relational databases…,2026-08-25T09:24:49Z,5,12,Kunal241207,freeCodeCamp,freeCodeCamp
+60e2ecffd825ed0ecf22b865f47caf98b2ae27f6,fix(curriculum): correct fs module explanations (#69725),2026-08-25T09:17:39Z,1,16,Dazzanova,freeCodeCamp,freeCodeCamp
+bad4a86befc3ba77089f4f983ab7dc6f8c119f4e,fix(curriculum): add section headers to aria label and aria labelledb…,2026-08-25T09:02:46Z,1,8,jaykumar14921,freeCodeCamp,freeCodeCamp
+e5f1287a94662b38a92b8c4516acf7f5ad36fb29,feat(curriculum): add section headers to em and rem lecture (#69728),2026-08-25T09:02:33Z,1,8,Aman739-code,freeCodeCamp,freeCodeCamp
+f3da54339381bedc745171c5cb900a3ae835ac10,fix(curriculum): make Python v9 explanations self-contained (#69716),2026-08-25T08:20:12Z,4,22,majestic-owl448,freeCodeCamp,freeCodeCamp
+b866bd2cd581d651505316bbb8c09a47a9378846,fix(curriculum): clarify Report Card Printer wording (#69670),2026-08-25T08:12:59Z,5,12,majestic-owl448,freeCodeCamp,freeCodeCamp
+58a8741ab179e75f256fa5118afc0b762d017edc,fix(curriculum): update Node lecture (#69702),2026-08-25T05:52:18Z,1,54,ingsunny,freeCodeCamp,freeCodeCamp
 0a30d37f10c012db34c3d92fd201ce7d7cf84877,fix(curriculum): use kbd elements for keyboard shortcuts (#69713),2026-08-24T15:35:17Z,1,16,Venkat-Entropik,freeCodeCamp,freeCodeCamp
 56af925fb50a3108dbe181b3c4e983eda985030d,test(e2e): isolate user token lifecycle (#69691),2026-08-24T15:22:34Z,5,205,Sembauke,freeCodeCamp,freeCodeCamp
 1e05bd7f936ef658da5e5e5c7c33cbb020507cf2,fix(curriculum): restore event target examples (#69714),2026-08-24T15:20:04Z,1,24,barry166,freeCodeCamp,freeCodeCamp
@@ -808,11 +819,3 @@ d95a874be739390047f43b10b727e5bec4f4c8ca,fix: bump playwright to fix stalled dow
 64945a57a29190e878faa5bf971dfcb3aabbacdb,fix(a11y): update independent lower jaw to announce hint and completi…,2026-05-27T23:57:20Z,2,239,huyenltnguyen,freeCodeCamp,freeCodeCamp
 dd43266fd71a8c62b4123c6f51327c173f742ae7,"chore(i18n,learn): update i18n-curriculum submodule (#67610)",2026-05-26T20:48:23Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 b8ce1f562d083dd900dbf70ce241be4c6ce47338,"chore(i18n,client): processed translations (#67600)",2026-05-26T06:41:54Z,20,360,camperbot,freeCodeCamp,freeCodeCamp
-5922f2dbaded99d9e47978d01d7f8754d1dd4a3c,fix(curriculum): review describing a company basics (#67459),2026-05-25T20:06:47Z,63,1109,estefaniacn,freeCodeCamp,freeCodeCamp
-425837204a8e701beeb111bdf3680a4f6bd9504f,feat(curriculum): add Python module for installation and running code…,2026-05-25T13:54:36Z,13,780,jdwilkin4,freeCodeCamp,freeCodeCamp
-0f592912c8b698746b3f05c2dc023d1608b45f63,fix(curriculum): add missing demoType to flashcard quiz app (#67595),2026-05-25T12:12:04Z,1,1,TheSeydiCharyyev,freeCodeCamp,freeCodeCamp
-862e92c214c3f36f2928db910277ade606c8554b,fix(curriculum): correct broken feedback sentence in raise statement …,2026-05-25T12:09:46Z,1,6,Vanishagupta18,freeCodeCamp,freeCodeCamp
-c429f03a9b95ab084ed8476c611d4112586519a7,fix(client): move RDB start button above post-setup steps (#67255),2026-05-25T09:13:15Z,3,44,azad12614,freeCodeCamp,freeCodeCamp
-1670dca438f10ea3dc9754e334d4127785e8106e,feat(curriculum): add http and web standards quiz (#67335),2026-05-25T09:08:58Z,4,477,Ksound22,freeCodeCamp,freeCodeCamp
-e69bd6224a094ee4ce1a83184dbe10621f250378,fix: correct 'in to' typo to 'into' in basic HTML quiz (#67586),2026-05-25T08:21:23Z,1,2,07Vineet07,freeCodeCamp,freeCodeCamp
-fdab641dd00fe86517dbd7b5cf71fcf80fbe78d7,feat(curriculum): add async/await to workshop-fcc-authors-page (#66972),2026-05-25T07:47:01Z,7,1480,hbar1st,freeCodeCamp,freeCodeCamp
