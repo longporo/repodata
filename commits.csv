@@ -1,4 +1,20 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+925e5f7eb363b50d85baab1d4281aa280905187f,refactor(curriculum): add section headers to responsive web design le…,2026-08-28T07:24:59Z,1,14,Aman739-code,freeCodeCamp,freeCodeCamp
+fd7bf8451e2a38e3eb206a41bf52a54da2671526,fix(curriculum): add section headers to audio/video elements lecture …,2026-08-28T07:24:40Z,1,16,d4-dhiraj,freeCodeCamp,freeCodeCamp
+f26f71a42903192ee1eec01ea45bd6182cd7095f,ci: reuse client build for e2e tests (#69758),2026-08-28T03:55:28Z,2,159,Sembauke,freeCodeCamp,freeCodeCamp
+9237d11a0e57972b31db30079d60311764ae3921,test: move portfolio validation coverage to client (#68385),2026-08-27T17:46:45Z,2,277,Sembauke,freeCodeCamp,freeCodeCamp
+353fa7b38a81cf4b9cd9dd666ee8a3d7f055df47,test: move independent lower jaw button coverage to client (#68352),2026-08-27T17:44:11Z,2,85,Sembauke,freeCodeCamp,freeCodeCamp
+d04ee71facfd769d1187643fa92753b098936876,test(client): move settings page rendering coverage to client (#68397),2026-08-27T17:42:17Z,2,360,Sembauke,freeCodeCamp,freeCodeCamp
+79057ec4805ac4f24028d1ca07a45c57a0bfbe82,test(client): move super block expansion decision coverage to client …,2026-08-27T16:33:53Z,3,244,Sembauke,freeCodeCamp,freeCodeCamp
+f29bd8176bbc7e6dc922bc141f02b1a251663baa,test(client): move solution viewer coverage to client tests (#68515),2026-08-27T16:31:48Z,3,257,Sembauke,freeCodeCamp,freeCodeCamp
+89cf0de3929da4ead7800fb504a8ff81b52a48ea,test: move header coverage to client (#68266),2026-08-27T16:20:09Z,6,716,Sembauke,freeCodeCamp,freeCodeCamp
+9d84404f53cc59bca9616d1d56bdf4f408dde7e1,fix(curriculum): grammar and test fixes in fcc-authors-page workshop …,2026-08-27T16:10:29Z,15,120,Sembauke,freeCodeCamp,freeCodeCamp
+fa1d624bfed60541a418e5e75c122980ba913812,fix(curriculum): add section headers to pseudo classes lecture (#69756),2026-08-27T15:58:12Z,1,16,jaykumar14921,freeCodeCamp,freeCodeCamp
+47492d87a7b9224d147a406c5b068a15228fd82d,refactor(curriculum): add section headers aria-hidden attribute lectu…,2026-08-27T15:25:43Z,1,18,Aman739-code,freeCodeCamp,freeCodeCamp
+6b171230f95a377e3a9763c6d57dae5b17bb0bac,fix(client): use Gatsby's webpack instance for ProvidePlugin (#69769),2026-08-27T14:01:34Z,3,43,Sembauke,freeCodeCamp,freeCodeCamp
+b7a8cf8b259253459eed7f65a60134918b58c6c9,test(api): handle concurrent requests gracefully (#69772),2026-08-27T13:35:27Z,1,6,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+ef522910350810df71d6838f19dc497efcf1af7c,fix(client): update JSON module imports (#69766),2026-08-27T13:27:01Z,20,89,Sembauke,freeCodeCamp,freeCodeCamp
+9eff33bed61d1acc84e51c1c591fdeef1e48a083,fix(curriculum): set data-sanitizer challenge type to 32 (#69771),2026-08-27T11:04:49Z,1,2,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 70a07d6d0a94c2370d9a6c1e7b699e3bcc95e305,feat(curriculum): Add section headers to hex codes lecture (#69750),2026-08-27T08:03:48Z,1,6,Webmekanic,freeCodeCamp,freeCodeCamp
 a764dc96d92cfffaed6bbdbd5287c12974bf482d,chore(a11y): kbd elements in JavaScript V9 (#69734),2026-08-27T07:32:49Z,11,36,Supravisor,freeCodeCamp,freeCodeCamp
 88e3ce7f25c80625e77bb8652f5a38f819da5e51,"chore(i18n,learn): update i18n-curriculum submodule (#69763)",2026-08-27T03:06:36Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
@@ -179,7 +195,7 @@ fd7804d93be9146f59316657935bf7a78c00daf0,"refactor(curriculum): add section head
 78f1b70aa6281bedc9f7e655a84100649f24cf22,test: move challenge reset modal coverage to client (#68039),2026-08-06T19:06:11Z,2,187,Sembauke,freeCodeCamp,freeCodeCamp
 cfab7424188fc1ae34f2de5837e1c3a112494de2,test: move multiple choice question coverage to client (#68383),2026-08-06T19:04:01Z,2,169,Sembauke,freeCodeCamp,freeCodeCamp
 639ff5ac61534550decdd8b841bab52c7e952567,test: move help button coverage to client (#68345),2026-08-06T19:01:38Z,3,217,Sembauke,freeCodeCamp,freeCodeCamp
-4e418a16a449f517bd32c310a8ae9c9dd3df8992,fix(curriculum): correct CSS placeholder and selector wording in Cafe…,2026-08-06T17:16:47Z,1,4,1t1sCooL,freeCodeCamp,freeCodeCamp
+4e418a16a449f517bd32c310a8ae9c9dd3df8992,fix(curriculum): correct CSS placeholder and selector wording in Cafe…,2026-08-06T17:16:47Z,1,4,Mikhail Alabugin,freeCodeCamp,freeCodeCamp
 220ff7898556e560b22d951de62b74bb305d0c33,refactor(curriculum): Add Section Headers to Lecture: What Are Regex …,2026-08-06T15:52:38Z,1,12,SudhamshuH,freeCodeCamp,freeCodeCamp
 eb95251d467909929e92662a22e7aac1ca06cbc6,fix(curriculum): fix grammar and wording issues in mood board lab (#6…,2026-08-06T15:52:18Z,1,14,Sembauke,freeCodeCamp,freeCodeCamp
 228654e43eafe49d55cdda0aead8213fab395858,fix(curriculum): start hint text with You/Your in reusable footer lab…,2026-08-06T15:17:20Z,1,4,Sembauke,freeCodeCamp,freeCodeCamp
@@ -822,7 +838,3 @@ e03bffbf80014fd727353c76ee042d78afaca9a9,fix: use puppeteer v25 for download fix
 d95a874be739390047f43b10b727e5bec4f4c8ca,fix: bump playwright to fix stalled downloads (#67681),2026-05-29T09:23:10Z,2,28,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 58b658626b1df82b38c51ca3e1c65d90f816f0d3,fix(curriculum): remove trailing spaces and fix HTTP formatting (#67647),2026-05-28T15:14:29Z,1,8,Rehan-M-395,freeCodeCamp,freeCodeCamp
 5a2606db1c4802aed8b92ef499b5a500d3fc9473,"feat(client,api): add a per module reset (#62547)",2026-05-28T13:26:39Z,29,2589,raisedadead,freeCodeCamp,freeCodeCamp
-473d6601341ae571488eccd1278d40b1947b1014,"chore(i18n,client): processed translations (#67621)",2026-05-28T07:01:08Z,20,382,camperbot,freeCodeCamp,freeCodeCamp
-693048a46cd25a40cc96a33d623fe22aae7f94a9,fix(curriculum): correct async lecture text (#67607),2026-05-28T00:20:39Z,7,18,GandotraDiya,freeCodeCamp,freeCodeCamp
-32713ed842fb4e123c0b93c218ffa3a0e9b409e0,"fix(client,curriculum): mark inputType as required for Chinese FITB c…",2026-05-27T23:58:12Z,8,44,huyenltnguyen,freeCodeCamp,freeCodeCamp
-64945a57a29190e878faa5bf971dfcb3aabbacdb,fix(a11y): update independent lower jaw to announce hint and completi…,2026-05-27T23:57:20Z,2,239,huyenltnguyen,freeCodeCamp,freeCodeCamp
