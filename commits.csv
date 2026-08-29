@@ -1,4 +1,8 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+4cd8eb44dcf48373946e5237bc91ac84b9659ea0,fix: flaky test in ms-trophy (#69787),2026-08-28T19:26:48Z,1,7,huyenltnguyen,freeCodeCamp,freeCodeCamp
+dff2b776054c424c670b26c6d72e6cf9c879562f,fix(docker): install prisma CLI with pnpm dlx in api image (#69789),2026-08-28T16:44:07Z,1,2,Sembauke,freeCodeCamp,freeCodeCamp
+a2a72f69b28d7c7b571a2e9b66bce5204b6fef21,fix(api): drop dead socrates upstream error parse (#69751),2026-08-28T16:17:37Z,2,237,raisedadead,freeCodeCamp,freeCodeCamp
+aaad305dfd3851adeeca289e40be60e0275a70ff,chore(api/client): remove temp daily challenge transition code (#69775),2026-08-28T13:03:17Z,5,121,moT01,freeCodeCamp,freeCodeCamp
 925e5f7eb363b50d85baab1d4281aa280905187f,refactor(curriculum): add section headers to responsive web design le…,2026-08-28T07:24:59Z,1,14,Aman739-code,freeCodeCamp,freeCodeCamp
 fd7bf8451e2a38e3eb206a41bf52a54da2671526,fix(curriculum): add section headers to audio/video elements lecture …,2026-08-28T07:24:40Z,1,16,d4-dhiraj,freeCodeCamp,freeCodeCamp
 f26f71a42903192ee1eec01ea45bd6182cd7095f,ci: reuse client build for e2e tests (#69758),2026-08-28T03:55:28Z,2,159,Sembauke,freeCodeCamp,freeCodeCamp
@@ -571,7 +575,7 @@ ad9556168d1bcafcb8e8464a5d9d8aedd0aa8440,feat(curriculum): add return to step 26
 cca4997842ede8ede0fbc975d7e18b91de5094d0,fix(curriculum): use `allFunctions` and `parameters` to check for fun…,2026-06-30T14:37:54Z,1,4,imsomilg,freeCodeCamp,freeCodeCamp
 2bb059578ff64e9686ca591a85bd5f70a5747857,fix(curriculum): use allFunctions and parameters in step 13 of Linked…,2026-06-30T14:24:54Z,1,8,imsomilg,freeCodeCamp,freeCodeCamp
 54147981d95b9b90109c89e8948be609d4b5e196,fix: correct GNU capitalization in lesson (#68377),2026-06-30T08:20:39Z,1,2,lMedeirosl,freeCodeCamp,freeCodeCamp
-20bb21537fe09b366f4e8c6b9897f097328d536b,fix: Fix binary search lesson typos (#68373),2026-06-29T20:45:00Z,1,7,Vivek1537,freeCodeCamp,freeCodeCamp
+20bb21537fe09b366f4e8c6b9897f097328d536b,fix: Fix binary search lesson typos (#68373),2026-06-29T20:45:00Z,1,7,Vivek-Boora,freeCodeCamp,freeCodeCamp
 cc09bd3017809b5a6938b8e3ead3edef20b3437c,fix(client): support Monaco editor 0.55.1 (#67740),2026-06-29T15:13:22Z,4,120,Sembauke,freeCodeCamp,freeCodeCamp
 0e29e39dac10c98f439b57cf7379bb475aee0a7f,fix(curriculum): correct brand casing and grammar in git and github l…,2026-06-29T09:05:00Z,1,6,Kapilkrishnayadav,freeCodeCamp,freeCodeCamp
 21a758fedcc390531378ca2ef7ad01f1c932edc1,fix(curriculum): update regex to accept any callback parameter (#68339),2026-06-29T08:28:12Z,1,2,imsomilg,freeCodeCamp,freeCodeCamp
@@ -836,5 +840,3 @@ f4c8d3f3c89e785fa710939630085f08ab859fb7,fix(curriculum): remove duplicate words
 0aa4b4151a3ee8ace2a8c7e89e0262dd3018e425,fix(curriculum): correct misplaced adverb in quiz classes and objects…,2026-05-29T14:41:31Z,1,2,anup48045,freeCodeCamp,freeCodeCamp
 e03bffbf80014fd727353c76ee042d78afaca9a9,fix: use puppeteer v25 for download fix (#67683),2026-05-29T12:50:24Z,4,146,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 d95a874be739390047f43b10b727e5bec4f4c8ca,fix: bump playwright to fix stalled downloads (#67681),2026-05-29T09:23:10Z,2,28,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-58b658626b1df82b38c51ca3e1c65d90f816f0d3,fix(curriculum): remove trailing spaces and fix HTTP formatting (#67647),2026-05-28T15:14:29Z,1,8,Rehan-M-395,freeCodeCamp,freeCodeCamp
-5a2606db1c4802aed8b92ef499b5a500d3fc9473,"feat(client,api): add a per module reset (#62547)",2026-05-28T13:26:39Z,29,2589,raisedadead,freeCodeCamp,freeCodeCamp
