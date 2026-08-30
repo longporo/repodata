@@ -1,4 +1,6 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+69f6817cf3e4d7fcc69b95053214868a31519aa5,fix(curriculum): clarify second-best laptop instructions (#69797),2026-08-29T17:53:29Z,2,8,noctis-coder,freeCodeCamp,freeCodeCamp
+50f93e9e80a6dca31192de9dff4600079508ce8d,refactor(curriculum): Replace regex-based test cases in Binary Search…,2026-08-29T08:07:18Z,14,140,jeffrinkdev,freeCodeCamp,freeCodeCamp
 4cd8eb44dcf48373946e5237bc91ac84b9659ea0,fix: flaky test in ms-trophy (#69787),2026-08-28T19:26:48Z,1,7,huyenltnguyen,freeCodeCamp,freeCodeCamp
 dff2b776054c424c670b26c6d72e6cf9c879562f,fix(docker): install prisma CLI with pnpm dlx in api image (#69789),2026-08-28T16:44:07Z,1,2,Sembauke,freeCodeCamp,freeCodeCamp
 a2a72f69b28d7c7b571a2e9b66bce5204b6fef21,fix(api): drop dead socrates upstream error parse (#69751),2026-08-28T16:17:37Z,2,237,raisedadead,freeCodeCamp,freeCodeCamp
@@ -825,18 +827,3 @@ de44dd93c622255ed3b7cdca4c7e82689ceeddec,test: add unit tests for search reducer
 ee076164ce37f6d700dc688536de4297813b2912,fix(curriculum): fix CSS colors quiz typos (#67710),2026-05-30T16:16:47Z,1,4,Laurence165,freeCodeCamp,freeCodeCamp
 5c46ada7cf67486bea3f1519e196d6b61900dbb5,fix(curriculum): correct phrasing and hyphenation in design briefs le…,2026-05-30T16:15:06Z,1,4,Akshatshukla-25,freeCodeCamp,freeCodeCamp
 4555f4ee5216c12822fa3561948da3acd35298cc,fix(curriculum): fix typos and hyphenation errors in quiz-basic-css (…,2026-05-30T13:24:15Z,1,18,Yachna-123,freeCodeCamp,freeCodeCamp
-fba95576a3b27b477cd9a3ced1dc8c35a5d08523,fix(curriculum): correct punctuation and quiz feedback in browser lec…,2026-05-29T22:41:15Z,1,8,annafreidl,freeCodeCamp,freeCodeCamp
-6b3b8c09496038797e0b3d0ffd8ad0b185cb64fa,refactor(api): replace mongodb with bson (#67680),2026-05-29T19:06:25Z,8,20,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-782a99a9dfc2c8679256765a3d6a7218d7304204,fix: added bracket notation to heritage workshop (#67441),2026-05-29T18:54:24Z,1,3,narasimhan-lakshmi,freeCodeCamp,freeCodeCamp
-ef93684e6c48820d7f52d685bb9e831a56c66296,fix(curriculum): title in lab-motorcycle-shop challenge (#67685),2026-05-29T18:41:43Z,1,2,Mitraaxx,freeCodeCamp,freeCodeCamp
-98d8a6ebc45ee33d57db1ba1fa88ac81c8442639,fix(curriculum): clarify rawData format and planRestock rules in smar…,2026-05-29T17:15:08Z,1,22,TheSeydiCharyyev,freeCodeCamp,freeCodeCamp
-438d3341c4d2c4eb82c72ef39694fc42182c30d6,fix(curriculum): allow bill splitter output variations (#67558),2026-05-29T17:11:47Z,2,23,HAWKZ4,freeCodeCamp,freeCodeCamp
-390eeb1ae19f41f511ae6ed4fd95446c01b64aba,fix(api): remove duplicate isDataAnalysisPyCertV7 entry in nullableFl…,2026-05-29T17:03:45Z,1,1,adul11s,freeCodeCamp,freeCodeCamp
-87cb1fef3eeaee5800f6850ff7fe2048710755ac,fix(curriculum): correct grammar and typo issues in css accessibility…,2026-05-29T16:59:23Z,1,6,santiyorio,freeCodeCamp,freeCodeCamp
-66b90a2b90eb1e52581dcafb88f47b089351b5d0,feat(curriculum): add intro to express quiz (#67352),2026-05-29T16:47:48Z,4,476,Ksound22,freeCodeCamp,freeCodeCamp
-891b3a3d33fc879dbf777a960e949589a721bab0,chore(api): remove exam generation logic (#67687),2026-05-29T15:17:57Z,6,623,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-d0e24db0f8425466ba501f34375806408c0dc50b,feat(curriculum): daily challenges 295-311 (#67606),2026-05-29T15:07:12Z,37,3516,moT01,freeCodeCamp,freeCodeCamp
-f4c8d3f3c89e785fa710939630085f08ab859fb7,fix(curriculum): remove duplicate words in football player card block…,2026-05-29T14:52:08Z,8,40,BilgeGates,freeCodeCamp,freeCodeCamp
-0aa4b4151a3ee8ace2a8c7e89e0262dd3018e425,fix(curriculum): correct misplaced adverb in quiz classes and objects…,2026-05-29T14:41:31Z,1,2,anup48045,freeCodeCamp,freeCodeCamp
-e03bffbf80014fd727353c76ee042d78afaca9a9,fix: use puppeteer v25 for download fix (#67683),2026-05-29T12:50:24Z,4,146,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-d95a874be739390047f43b10b727e5bec4f4c8ca,fix: bump playwright to fix stalled downloads (#67681),2026-05-29T09:23:10Z,2,28,ojeytonwilliams,freeCodeCamp,freeCodeCamp
