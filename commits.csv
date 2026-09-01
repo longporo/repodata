@@ -1,4 +1,12 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+a0ae8e2890144ce89820bbb99981edc3b3d934c4,fix(curriculum): Mark F2 key in learn-how-to-use-conditionals (#69825),2026-08-31T22:21:56Z,1,2,zxlinw,freeCodeCamp,freeCodeCamp
+8febb6d36dc1843180b18f81931d55e5bcf8821c,fix(curriculum): remove undefined multi-column-layout term from CSS G…,2026-08-31T22:02:28Z,1,2,Archita-kale,freeCodeCamp,freeCodeCamp
+aadc28df492384077b22eb10428bd477f450bf11,fix(curriculum): clarify donation form input checks (#69815),2026-08-31T11:07:22Z,1,30,majestic-owl448,freeCodeCamp,freeCodeCamp
+80e992735b9b10db01c56689aaecd4243c1e935c,fix(curriculum): complete Countup workshop (#69818),2026-08-31T10:05:41Z,1,2,majestic-owl448,freeCodeCamp,freeCodeCamp
+4dbb5527a5f4d5a66cb467239899958542a0c5f5,feat(curriculum): add Python recursion module (#69788),2026-08-31T10:02:18Z,16,987,majestic-owl448,freeCodeCamp,freeCodeCamp
+83857e62e6c78963c7698dbf06823c6dd92184bc,fix(curriculum): add section headers to booleans & operators lecture …,2026-08-31T08:32:30Z,1,12,eva-lng,freeCodeCamp,freeCodeCamp
+861551a6c392184e625231ebee8072f59f9a2b5b,fix(curriculum): reword cert projects text intros (#69781),2026-08-31T08:02:12Z,5,10,Ksound22,freeCodeCamp,freeCodeCamp
+d0ce360a0f8786c3f3731bafd664bba9cdf2d8ff,fix(curriculum): replace regex tests with Explorer AST in Decimal to …,2026-08-31T06:26:25Z,14,233,SanthoshBalagur,freeCodeCamp,freeCodeCamp
 319d848e25e45a07a5abff34ebb6552d56921ba1,fix(curriculum): replace ampersand in Review React Basics (#69810),2026-08-31T02:19:52Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 1b7c804844874d8dbd3d70fc4445997ea84a2562,chore(a11y): use semantic keyboard markup in Responsive Web Design V9…,2026-08-30T17:39:08Z,9,24,Naman-bh,freeCodeCamp,freeCodeCamp
 e078c25cc7949b8025871dcabad4924f8e869a9c,fix(curriculum): add section headers to form validation lecture (#69793),2026-08-30T10:15:11Z,1,12,TEE0207,freeCodeCamp,freeCodeCamp
@@ -825,4 +833,3 @@ a53a9ea5eab1c75abcf17d8f2654014c35a19831,fix(curriculum): correct renderCard tem
 0d919dd880e28173b90d2ea48f4fa97abe0f983f,fix(curriculum): fix typos and grammar in quiz-basic-html answers (#6…,2026-06-01T07:19:37Z,1,12,imsomilg,freeCodeCamp,freeCodeCamp
 de44dd93c622255ed3b7cdca4c7e82689ceeddec,test: add unit tests for search reducer (#67698),2026-06-01T07:17:30Z,1,42,Kyleafuller199,freeCodeCamp,freeCodeCamp
 1c9d8fb185f3c3136187e3500815e349a9643bf4,fix(curriculum): improve review asynchronous JavaScript prose (#67700),2026-06-01T07:12:27Z,1,26,Aman-Hegde,freeCodeCamp,freeCodeCamp
-643e1493c7cf1be22f63cb5d9232bbf59a2fd50b,fix(curriculum): correct CSS description and grammar in review-basic-…,2026-05-31T12:34:06Z,1,20,ms-misty-eyed,freeCodeCamp,freeCodeCamp
