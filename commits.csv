@@ -1,4 +1,13 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+61b5776827ae03f7cd84ee542fa214b213643da9,fix(gha): harden ssh preflight in deploys (#69836),2026-09-02T02:57:25Z,2,30,raisedadead,freeCodeCamp,freeCodeCamp
+819a342c7dcb9dd7f08e786a7959a84ddc088901,"feat(i18n, learn): Add Arabic to workflow (#69764)",2026-09-02T02:57:03Z,2,5,DanielRosa74,freeCodeCamp,freeCodeCamp
+c8e64e20096eb8d8d5c7f7064f8750ececeb9d34,fix(curriculum): add section headers to flex properties lecture (#69823),2026-09-01T19:00:44Z,1,10,TEE0207,freeCodeCamp,freeCodeCamp
+fd4689521843f9baa3b102b91abea6332bfcd67d,refactor(curriculum): add section headers html role on web lecture (#…,2026-09-01T19:00:22Z,1,10,Aman739-code,freeCodeCamp,freeCodeCamp
+5338320e20cb6a12d7defc044f5d8750d23623fc,refactor(curriculum): add section headers variables lecture (#69801),2026-09-01T17:51:44Z,1,18,Aman739-code,freeCodeCamp,freeCodeCamp
+306730924492492c81a87e3710ee03244b393344,fix(client): fall back to english curriculum intros (#69831),2026-09-01T13:26:37Z,2,185,raisedadead,freeCodeCamp,freeCodeCamp
+ef3056c2a03e237520380224be72366d41079b54,test(client): freeze clock in dcc archive test (#69832),2026-09-01T12:36:05Z,1,27,raisedadead,freeCodeCamp,freeCodeCamp
+07595da61b4359950078cb1a4b21809facb3bb32,feat(gha): enable arabic client deploys (#69829),2026-09-01T08:37:00Z,1,4,raisedadead,freeCodeCamp,freeCodeCamp
+f2f0265ccdf6a29cb796032ac6f8173ac799f0c0,test(api): harden DELETE /users/:userId coverage (#69461),2026-09-01T07:44:03Z,1,54,Sembauke,freeCodeCamp,freeCodeCamp
 a0ae8e2890144ce89820bbb99981edc3b3d934c4,fix(curriculum): Mark F2 key in learn-how-to-use-conditionals (#69825),2026-08-31T22:21:56Z,1,2,zxlinw,freeCodeCamp,freeCodeCamp
 8febb6d36dc1843180b18f81931d55e5bcf8821c,fix(curriculum): remove undefined multi-column-layout term from CSS G…,2026-08-31T22:02:28Z,1,2,Archita-kale,freeCodeCamp,freeCodeCamp
 aadc28df492384077b22eb10428bd477f450bf11,fix(curriculum): clarify donation form input checks (#69815),2026-08-31T11:07:22Z,1,30,majestic-owl448,freeCodeCamp,freeCodeCamp
@@ -212,7 +221,7 @@ fd7804d93be9146f59316657935bf7a78c00daf0,"refactor(curriculum): add section head
 78f1b70aa6281bedc9f7e655a84100649f24cf22,test: move challenge reset modal coverage to client (#68039),2026-08-06T19:06:11Z,2,187,Sembauke,freeCodeCamp,freeCodeCamp
 cfab7424188fc1ae34f2de5837e1c3a112494de2,test: move multiple choice question coverage to client (#68383),2026-08-06T19:04:01Z,2,169,Sembauke,freeCodeCamp,freeCodeCamp
 639ff5ac61534550decdd8b841bab52c7e952567,test: move help button coverage to client (#68345),2026-08-06T19:01:38Z,3,217,Sembauke,freeCodeCamp,freeCodeCamp
-4e418a16a449f517bd32c310a8ae9c9dd3df8992,fix(curriculum): correct CSS placeholder and selector wording in Cafe…,2026-08-06T17:16:47Z,1,4,Mikhail Alabugin,freeCodeCamp,freeCodeCamp
+4e418a16a449f517bd32c310a8ae9c9dd3df8992,fix(curriculum): correct CSS placeholder and selector wording in Cafe…,2026-08-06T17:16:47Z,1,4,1t1sCooL,freeCodeCamp,freeCodeCamp
 220ff7898556e560b22d951de62b74bb305d0c33,refactor(curriculum): Add Section Headers to Lecture: What Are Regex …,2026-08-06T15:52:38Z,1,12,SudhamshuH,freeCodeCamp,freeCodeCamp
 eb95251d467909929e92662a22e7aac1ca06cbc6,fix(curriculum): fix grammar and wording issues in mood board lab (#6…,2026-08-06T15:52:18Z,1,14,Sembauke,freeCodeCamp,freeCodeCamp
 228654e43eafe49d55cdda0aead8213fab395858,fix(curriculum): start hint text with You/Your in reusable footer lab…,2026-08-06T15:17:20Z,1,4,Sembauke,freeCodeCamp,freeCodeCamp
@@ -818,18 +827,3 @@ b8b051a9bb5e8d9a003168ac2d41a14db38f9c52,"chore(i18n,client): processed translat
 e789921f03abd8aa2ed6e3a651ad945b65210f04,feat(curriculum): add express middleware review page (#67364),2026-06-02T08:22:14Z,4,141,Ksound22,freeCodeCamp,freeCodeCamp
 263b8f9e03febc4cc509cc18e44784c340d657b2,fix(curriculum): audit editable regions for workshop-calculator (#67755),2026-06-02T08:08:37Z,4,7,bdtripp,freeCodeCamp,freeCodeCamp
 3efec3d8c4e18ca060189eb01680118a91b54fbe,fix(curriculum): fix editable regions in workshop breadth first searc…,2026-06-02T07:05:24Z,13,54,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-91093b4f1552973e39ddaf27ba8df11270a1ba8c,"fix(curriculum): fix spacing, Oxford commas, and punctuation in revie…",2026-06-02T01:55:35Z,1,28,fremendes,freeCodeCamp,freeCodeCamp
-d9afe5d2fc014a7337cd51a60b278d87a4a45bc6,feat(curriculum): add intro to express review page (#67341),2026-06-01T13:30:26Z,4,182,Ksound22,freeCodeCamp,freeCodeCamp
-e1084808a65106ef83e83a4b0cdf41d903093b81,feat(curriculum): add web standards model lectures (#67270),2026-06-01T13:29:59Z,7,591,Ksound22,freeCodeCamp,freeCodeCamp
-f257f93c42e58aba741d38b780d58ca4cba90728,feat(curriculum): add express error handling review page (#67353),2026-06-01T13:29:36Z,4,199,Ksound22,freeCodeCamp,freeCodeCamp
-24b708973202192537e08d2f617374fee6d0f5cc,fix(curriculum): add missing periods to Quiz: Bash Scripting challeng…,2026-06-01T13:28:43Z,1,8,Kunal jaiswal,freeCodeCamp,freeCodeCamp
-507a9111999dc5ce699ae471cc2c51c2380bbef2,feat(curriculum): add backend labs and workshops (#67047),2026-06-01T12:34:12Z,30,612,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-b011234f63d75c23e16be738a5970be9d3973a78,fix(curriculum): update computer basics quiz wording (#67734),2026-06-01T10:23:47Z,1,16,meaqua9420,freeCodeCamp,freeCodeCamp
-5cd4e8abe6021861b911016416fbfa547980af98,fix(client): localize external curriculum structure (#67638),2026-06-01T09:47:33Z,2,424,Sembauke,freeCodeCamp,freeCodeCamp
-94ee73951d434d8574870683ca3b5c4877930cef,feat(curriculum): add http and web standards review page (#67334),2026-06-01T08:53:25Z,4,248,Ksound22,freeCodeCamp,freeCodeCamp
-233fd8e6dc9e7813255b0df42e3b2fd3a6a7aa28,feat(curriculum): add express middleware quiz (#67425),2026-06-01T08:07:49Z,4,472,Ksound22,freeCodeCamp,freeCodeCamp
-04c75208b5eae16803c0fedeceff2afb7d56781e,fix(curriculum): fix trailing space and previous->parent in quiz-bash…,2026-06-01T07:45:28Z,1,4,Sidak-321,freeCodeCamp,freeCodeCamp
-a53a9ea5eab1c75abcf17d8f2654014c35a19831,fix(curriculum): correct renderCard template literal test validation …,2026-06-01T07:38:49Z,2,12,Venkat-Entropik,freeCodeCamp,freeCodeCamp
-0d919dd880e28173b90d2ea48f4fa97abe0f983f,fix(curriculum): fix typos and grammar in quiz-basic-html answers (#6…,2026-06-01T07:19:37Z,1,12,imsomilg,freeCodeCamp,freeCodeCamp
-de44dd93c622255ed3b7cdca4c7e82689ceeddec,test: add unit tests for search reducer (#67698),2026-06-01T07:17:30Z,1,42,Kyleafuller199,freeCodeCamp,freeCodeCamp
-1c9d8fb185f3c3136187e3500815e349a9643bf4,fix(curriculum): improve review asynchronous JavaScript prose (#67700),2026-06-01T07:12:27Z,1,26,Aman-Hegde,freeCodeCamp,freeCodeCamp
