@@ -1,4 +1,27 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+adb045f09874c3ddf44659036cf7624c3bd1464e,"chore(i18n,learn): update i18n-curriculum submodule (#69890)",2026-09-04T22:41:58Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+c329bf46bfc7c7bb45dcabecf73e5e5717d261b4,fix(curriculum): remove obsolete back-end-development-and-apis-v9 mod…,2026-09-04T18:31:10Z,1,92,sagarithm,freeCodeCamp,freeCodeCamp
+d730e180082866acf6bf6d1f94cd7e9ba27235cf,fix(curriculum): remove obsolete javascript-v9 module intros (#69887),2026-09-04T18:31:02Z,1,26,sagarithm,freeCodeCamp,freeCodeCamp
+bce5f05bab3bcd5b9b4b84ad667dd8fea9e866e3,fix(curriculum): Add section headers to css specificity lecture (#69883),2026-09-04T18:30:35Z,1,18,Webmekanic,freeCodeCamp,freeCodeCamp
+f4812edecf2faa333f0e6dea48a64f3754a36fed,fix(curriculum): remove obsolete python-v9 module intros (#69884),2026-09-04T18:28:57Z,1,7,sagarithm,freeCodeCamp,freeCodeCamp
+0c0190e4caedc198efa513dcf287e512af9809de,fix(curriculum): remove obsolete front-end-development-libraries-v9 m…,2026-09-04T18:26:48Z,1,12,sagarithm,freeCodeCamp,freeCodeCamp
+535c1cd88b6402aec3d2a6bc60afa1a153008bfb,fix(curriculum): replace regex-based test cases in linked-list worksh…,2026-09-04T17:22:31Z,18,200,jacobptnguyen,freeCodeCamp,freeCodeCamp
+45c12aed2d221cc82b6edc1fe8ee2123197c6e38,fix(curriculum): add headers to javascript date object lecture (#69828),2026-09-04T17:19:22Z,1,12,gundavarapuindira25-max,freeCodeCamp,freeCodeCamp
+799b4facbdf2244c3a28cc1311352c8d391fc1de,feat(curriculum): add language settings lesson for RDB workshops (#67…,2026-09-04T16:34:33Z,2,179,Dev1139,freeCodeCamp,freeCodeCamp
+378e6103c9fac24ec92e80d12b9acfff11a3bfb2,fix(curriculum): make digital pet game fetch stub response-like (#69578),2026-09-04T16:13:30Z,1,10,majestic-owl448,freeCodeCamp,freeCodeCamp
+5cfe550348d80382f71d306a0ddf6426d5ae2003,fix(curriculum): stub fetch in Fortune Teller App workshop tests (#69…,2026-09-04T16:10:01Z,12,624,majestic-owl448,freeCodeCamp,freeCodeCamp
+727653feb3248112b77c35cacea47c4665d7f809,test(e2e): verify daily coding challenge completion persists (#69855),2026-09-04T15:59:26Z,2,153,Sembauke,freeCodeCamp,freeCodeCamp
+7ddec9f723b8a383c084f3678d79a310fa59fc3d,fix(tools): generate projects by block type (#69819),2026-09-04T15:39:53Z,12,1129,majestic-owl448,freeCodeCamp,freeCodeCamp
+11583a8e4c661d16e8fe9afc7b4790128d431533,refactor(curriculum): add section headers aria-expanded attribute lec…,2026-09-04T15:38:34Z,1,16,Aman739-code,freeCodeCamp,freeCodeCamp
+eb49ffa9203e43bd82cf02559e099245c9a83532,fix(client): preserve spaces in hint code (#69784),2026-09-04T15:37:46Z,1,5,majestic-owl448,freeCodeCamp,freeCodeCamp
+80030cdd93254eee3c265f3ea96eb265a823af91,fix(curriculum): Add section headers to accessible tables lecture (#6…,2026-09-04T15:32:06Z,1,14,Webmekanic,freeCodeCamp,freeCodeCamp
+f97aeb01e3d28eb9b85691165a69f264284bb26b,test: move landing page coverage to client (#68365),2026-09-04T15:18:47Z,11,544,Sembauke,freeCodeCamp,freeCodeCamp
+e5318b642113c194b8fbf38ea0ca06bbcce9d773,fix: Remove redundant comingSoon flags from superblocks (#69872),2026-09-04T15:10:15Z,2,4,majestic-owl448,freeCodeCamp,freeCodeCamp
+6d847a49e1145b21eef1acb4019bf77a95c2169b,fix(curriculum): move the numbers outside the backticks in the zh-a1 …,2026-09-04T11:38:17Z,1,8,rajanpanth,freeCodeCamp,freeCodeCamp
+ce82692be48eb54f881845b276c273e1ea75670a,fix(curriculum): add section headers to block-inline-quotes lecture (…,2026-09-04T09:59:33Z,1,8,laypatel13,freeCodeCamp,freeCodeCamp
+7a3c350b9979c7992063c9c0bed91a9932a43c42,fix(curriculum): audited --editable-region-- for the workshop envelop…,2026-09-04T08:48:24Z,98,1434,MkhalFadel,freeCodeCamp,freeCodeCamp
+0041c544ca935f196deafcb34227b2c53fd63758,fix(curriculum): added section headers to regex lecture (#69861),2026-09-04T06:55:11Z,1,6,TEE0207,freeCodeCamp,freeCodeCamp
+554e976e732a22fe440b5e845ce2d92c21cd36a8,fix(client): clear flash messages after signout (#69859),2026-09-04T05:51:39Z,1,2,majestic-owl448,freeCodeCamp,freeCodeCamp
 6848dddb410f7fe08cddeb96522ab06cd17530bd,fix: add section headers to media queries lecture (#69786),2026-09-03T19:35:08Z,1,12,Fabian-m17,freeCodeCamp,freeCodeCamp
 caf96c31bc12de9c30cb2c105d594b0175a6f725,fix(curriculum): separate view-category section toggling and no bookm…,2026-09-03T19:17:37Z,1,23,Kunal241207,freeCodeCamp,freeCodeCamp
 2a23ea315301f40d285cebb551c0b390e7201197,fix(curriculum): replace regex tests in Festival Crowd Flow Simulator…,2026-09-03T18:57:11Z,32,550,Sembauke,freeCodeCamp,freeCodeCamp
@@ -819,11 +842,3 @@ d3cb2c61f350951b97ed0974ff5d835d7978bd1b,chore(curriculum): reorder express midw
 37bfa2d640dd2a8584b6a8c85cbfc6d451251938,feat(curriculum): add websockets review page (#67809),2026-06-06T06:46:41Z,4,146,Ksound22,freeCodeCamp,freeCodeCamp
 7c56526a7ce8d36b219f200e355bb30d2b7e0908,fix(curriculum): add missing DOCTYPE declaration to HTML steps (#67810),2026-06-05T07:50:52Z,9,10,imsomilg,freeCodeCamp,freeCodeCamp
 d357b254b6be649df49847722168ecf4aac989dc,refactor(curriculum): move 'Build a Prime Number Sum Calculator' lab …,2026-06-05T06:53:43Z,2,14,imsomilg,freeCodeCamp,freeCodeCamp
-8df111253cefd9f2515a62ced89a7074b8b57553,fix(client): Replace backticks with code element in intro.json (#67815),2026-06-04T21:05:13Z,1,8,pdtrang,freeCodeCamp,freeCodeCamp
-f0d194cc6894fbb353e7192801ba18da153e4a87,"chore(i18n,client): processed translations (#67788)",2026-06-04T19:51:29Z,10,1080,camperbot,freeCodeCamp,freeCodeCamp
-696fab2044d903ef7fcd5ecbaaace832685af4a4,feat(curriculum): add express middleware lessons (#67194),2026-06-04T08:51:47Z,8,846,Ksound22,freeCodeCamp,freeCodeCamp
-c69fa6db9b56fa345a807f2abb866bda136c4a9f,fix: add groupByZone output shape description and test cases (#67783),2026-06-04T08:48:34Z,1,19,Kd1880,freeCodeCamp,freeCodeCamp
-590041e2bf1a36885ffe456d390331e25144f24e,fix(curriculum): editable regions in workshop type safe user profile …,2026-06-04T08:03:00Z,5,208,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-c60629e2f577d020f00b838ca21820cd4da95483,fix(curriculum): correct CSS definition in lecture-what-is-css (#67778),2026-06-04T07:56:19Z,1,2,Ahmed-Aashour,freeCodeCamp,freeCodeCamp
-bcadda705482775cd4a3c67eeee81959b2e54f30,chore(curriculum): move d3 to catalog  (#67513),2026-06-04T07:15:02Z,12,111,jdwilkin4,freeCodeCamp,freeCodeCamp
-8a9432a0e29f0a816c46b705424b90906c3ccabf,fix(curriculum): remove untaught scope factor from cascade lesson (#6…,2026-06-04T07:08:42Z,1,4,Venkat-Entropik,freeCodeCamp,freeCodeCamp
