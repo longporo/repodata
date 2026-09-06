@@ -1,4 +1,7 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+3b1f8191e48ac026487fa532ec6cbdb4b3fd8592,fix(client): add missing span rtl direction css rule (#69899),2026-09-05T12:07:18Z,1,5,DanielRosa74,freeCodeCamp,freeCodeCamp
+779f3062bb7669a5418b72da95469281660da089,fix(curriculum): correct pinyin for 60 (#69895),2026-09-05T09:01:23Z,1,2,duygri,freeCodeCamp,freeCodeCamp
+c4ffd8cb9d310abb860caf0721ca87104477c3ed,fix(curriculum): correct seed code indentation in linked list worksho…,2026-09-05T08:58:59Z,20,852,Aman739-code,freeCodeCamp,freeCodeCamp
 adb045f09874c3ddf44659036cf7624c3bd1464e,"chore(i18n,learn): update i18n-curriculum submodule (#69890)",2026-09-04T22:41:58Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 c329bf46bfc7c7bb45dcabecf73e5e5717d261b4,fix(curriculum): remove obsolete back-end-development-and-apis-v9 mod…,2026-09-04T18:31:10Z,1,92,sagarithm,freeCodeCamp,freeCodeCamp
 d730e180082866acf6bf6d1f94cd7e9ba27235cf,fix(curriculum): remove obsolete javascript-v9 module intros (#69887),2026-09-04T18:31:02Z,1,26,sagarithm,freeCodeCamp,freeCodeCamp
@@ -840,5 +843,3 @@ d3cb2c61f350951b97ed0974ff5d835d7978bd1b,chore(curriculum): reorder express midw
 76cc3618ec07a0d3510daca0257a9f91f9d20741,feat(curriculum): add websockets quiz (#67822),2026-06-06T13:26:19Z,4,512,Ksound22,freeCodeCamp,freeCodeCamp
 76099fca2d9466261f90571c751411c31fe4486c,feat(curriculum): add websockets lessons (#67784),2026-06-06T06:47:51Z,6,627,Ksound22,freeCodeCamp,freeCodeCamp
 37bfa2d640dd2a8584b6a8c85cbfc6d451251938,feat(curriculum): add websockets review page (#67809),2026-06-06T06:46:41Z,4,146,Ksound22,freeCodeCamp,freeCodeCamp
-7c56526a7ce8d36b219f200e355bb30d2b7e0908,fix(curriculum): add missing DOCTYPE declaration to HTML steps (#67810),2026-06-05T07:50:52Z,9,10,imsomilg,freeCodeCamp,freeCodeCamp
-d357b254b6be649df49847722168ecf4aac989dc,refactor(curriculum): move 'Build a Prime Number Sum Calculator' lab …,2026-06-05T06:53:43Z,2,14,imsomilg,freeCodeCamp,freeCodeCamp
