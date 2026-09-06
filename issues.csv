@@ -1,4 +1,13 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X88AAAABPPW1pA,69837,Example project in Build an Event RSVP lab allows changes to confirmation message,OPEN,2026-09-01T23:01:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABP0pSFQ,69897,Movie Ticket Booking Calculator tests reject valid print calls and an equivalent condition,OPEN,2026-09-05T08:42:02Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABP2w-bg,69902,CSRF plugin tests contain false-positives and routing bug on /signout,OPEN,2026-09-05T15:41:04Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABLnDL7g,69297,"Add Section Headers to Lecture: What Are Capturing Groups and Backreferences, and How Do They Work?",OPEN,2026-08-05T18:42:44Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABKTKouQ,69073,Text in multiple languages,CLOSED,2026-07-27T08:54:50Z,2026-09-05T10:19:23Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABMsWUKQ,69534,Use of `const` vs `let` vs `var` in the Binary Search Workshop,OPEN,2026-08-13T23:44:20Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABPoHybA,69870,Incorrect pinyin in Chinese A1 numbers quiz,CLOSED,2026-09-04T02:56:50Z,2026-09-05T09:01:25Z,duygri,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABPrayzw,69874,Fix JavaScript seed indentation in the Linked List Workshop,CLOSED,2026-09-04T10:45:48Z,2026-09-05T08:59:01Z,Aman739-code,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABLnC7zw,69290,"Add Section Headers to Lecture: What Is the calc() Function, and How Does It Work?",OPEN,2026-08-05T18:42:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABPu2Z3A,69879,Remove obsolete Back End Development and APIs v9 module intros,CLOSED,2026-09-04T16:45:03Z,2026-09-04T18:31:13Z,sagarithm,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABPu2csg,69881,Remove obsolete JavaScript v9 module intros,CLOSED,2026-09-04T16:45:07Z,2026-09-04T18:31:04Z,sagarithm,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnDDmg,69294,"Add Section Headers to Lecture: What Is CSS Specificity, and the Specificity for Inline, Internal, and External CSS?",CLOSED,2026-08-05T18:42:30Z,2026-09-04T18:30:37Z,Webmekanic,freeCodeCamp,freeCodeCamp
@@ -15,9 +24,6 @@ I_kwDOAbI7X88AAAABLnDPcw,69299,Add Section Headers to Lecture: What Are Best Pra
 I_kwDOAbI7X88AAAABPuHGnw,69877,External curriculum tests misclassify overlapping superblock slugs,OPEN,2026-09-04T15:27:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABPaK1Ww,69847,'Continue Learning' Button Bug,OPEN,2026-09-02T20:46:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnC-Aw,69291,Add Section Headers to Lecture: What Are ARIA Roles?,OPEN,2026-08-05T18:42:18Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABPrayzw,69874,Fix JavaScript seed indentation in the Linked List Workshop,OPEN,2026-09-04T10:45:48Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABPPW1pA,69837,Example project in Build an Event RSVP lab allows changes to confirmation message,OPEN,2026-09-01T23:01:46Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABPoHybA,69870,Incorrect pinyin in Chinese A1 numbers quiz,OPEN,2026-09-04T02:56:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABPp2VVw,69871,HTML Module should be structured better,OPEN,2026-09-04T07:29:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnDayg,69304,Add Section Headers to Lecture: How Do Block and Inline Quotes Work in HTML?,CLOSED,2026-08-05T18:43:11Z,2026-09-04T09:59:35Z,laypatel13,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLhojUQ,69275,Editable-region audit for workshop-envelope-budget-app,CLOSED,2026-08-05T07:22:54Z,2026-09-04T08:48:26Z,MkhalFadel,freeCodeCamp,freeCodeCamp
@@ -32,7 +38,6 @@ I_kwDOAbI7X88AAAABIYmdJQ,68703,Replace regex-based test cases in Festival Crowd 
 I_kwDOAbI7X88AAAABLnDZOg,69303,"Add Section Headers to Lecture: What Are Attributes, and How Do They Work?",CLOSED,2026-08-05T18:43:08Z,2026-09-03T08:24:36Z,Aman739-code,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMe6LiQ,69504,Add a quiz for the REST API and Web Services module,CLOSED,2026-08-12T15:43:26Z,2026-09-03T08:17:15Z,Webmekanic,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABO2rdWA,69805,Envelope Budget App Add Entry workflow has an invalid option and selector,CLOSED,2026-08-30T11:32:51Z,2026-09-03T08:05:00Z,MkhalFadel,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABKTKouQ,69073,Text in multiple languages,OPEN,2026-07-27T08:54:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGcgkZQ,68179,forum notifications panel is not shown completely,CLOSED,2026-06-23T16:05:51Z,2026-09-02T19:28:44Z,a2937;majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMHI-og,69456,Two ambiguous questions in the CSS Grid Quiz,CLOSED,2026-08-10T07:35:55Z,2026-09-02T17:35:15Z,ansaftab-1,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnG06Q,69346,Add Section Headers to Lecture: What Are Best Practices for Designing Shopping Carts?,CLOSED,2026-08-05T18:49:50Z,2026-09-02T17:01:19Z,tracemycodes,freeCodeCamp,freeCodeCamp
@@ -119,7 +124,6 @@ I_kwDOAbI7X88AAAABN0pZZQ,69673,Use semantic keyboard markup in Back End Developm
 I_kwDOAbI7X88AAAABN0paIA,69674,Use semantic keyboard markup in How to Set Up the Chinese Keyboard on Your Computer,CLOSED,2026-08-22T15:22:58Z,2026-08-24T08:42:51Z,laxitajain,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABN0pSew,69671,Use semantic keyboard markup in Bash Commands Quiz,CLOSED,2026-08-22T15:22:28Z,2026-08-24T08:41:39Z,laxitajain,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABNZsUyw,69616,Downloadable PDF of lectures,OPEN,2026-08-19T15:27:17Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMsWUKQ,69534,Use of `const` vs `let` vs `var` in the Binary Search Workshop,OPEN,2026-08-13T23:44:20Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABNzD0ww,69668,Elon issues,CLOSED,2026-08-22T08:04:14Z,2026-08-22T09:04:45Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABNzDtWQ,69667,Elon issues,CLOSED,2026-08-22T08:03:48Z,2026-08-22T09:04:44Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861sa5w,60228,Persisting Last User Activity,OPEN,2025-05-08T09:05:56Z,,,freeCodeCamp,freeCodeCamp
@@ -194,8 +198,6 @@ I_kwDOAbI7X88AAAABIud8yg,68810,Replace regex-based test cases in Sentence Maker 
 I_kwDOAbI7X88AAAABLnC3vA,69288,Add Section Headers to Lecture: What Are Some Common ARIA States Used on Custom Control Elements?,OPEN,2026-08-05T18:42:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnC5zg,69289,Add Section Headers to Lecture: What Are Some Common Regular Expression Modifiers Used for Searching?,OPEN,2026-08-05T18:42:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnDAAA,69292,"Add Section Headers to Lecture: What Is Recursion, and How Does It Work?",OPEN,2026-08-05T18:42:22Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnDL7g,69297,"Add Section Headers to Lecture: What Are Capturing Groups and Backreferences, and How Do They Work?",OPEN,2026-08-05T18:42:44Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnC7zw,69290,"Add Section Headers to Lecture: What Is the calc() Function, and How Does It Work?",OPEN,2026-08-05T18:42:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnDByg,69293,Add Section Headers to Lecture: What Are Some Ways to Make Web Applications Keyboard Accessible?,OPEN,2026-08-05T18:42:26Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABM9hs1Q,69554,curriculum: step 3 of [build a string inspector workshop],CLOSED,2026-08-16T14:47:56Z,2026-08-17T03:32:17Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMWZluQ,69484,Factorial Calculator only accepts regular function,CLOSED,2026-08-11T19:20:11Z,2026-08-17T08:30:35Z,wunianze666-netizen,freeCodeCamp,freeCodeCamp
@@ -708,4 +710,3 @@ I_kwDOAbI7X88AAAABEt_aJA,67851,"Search query from ""Get a Hint"" button does not
 I_kwDOAbI7X87SMU7z,62878,Progress Checkmarks not Visible in Dark Mode on Samsung Browser,CLOSED,2025-10-17T14:45:58Z,2025-11-17T09:48:42Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCd1aWA,67436,"""ask for help"" post template makes search preview focus on useless part of post",CLOSED,2026-05-16T16:03:10Z,2026-06-05T08:42:25Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEeByWA,67819,bill splitter step 6,CLOSED,2026-06-05T06:51:09Z,2026-06-06T20:35:31Z,Kd1880,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABEgWVXg,67826,"Suggestion of __str__ implementation in ""Build a Budget App""",CLOSED,2026-06-05T13:35:28Z,2026-06-05T13:56:47Z,,freeCodeCamp,freeCodeCamp
