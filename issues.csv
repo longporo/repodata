@@ -1,5 +1,9 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X88AAAABP_Cxyg,69917,"Regex in ""Build a medical data validator"" (Python curriculum) should use raw string notation",OPEN,2026-09-06T21:16:35Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABLnDByg,69293,Add Section Headers to Lecture: What Are Some Ways to Make Web Applications Keyboard Accessible?,OPEN,2026-08-05T18:42:26Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABPPW1pA,69837,Example project in Build an Event RSVP lab allows changes to confirmation message,OPEN,2026-09-01T23:01:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABPuHGnw,69877,External curriculum tests misclassify overlapping superblock slugs,OPEN,2026-09-04T15:27:05Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABLnDAAA,69292,"Add Section Headers to Lecture: What Is Recursion, and How Does It Work?",OPEN,2026-08-05T18:42:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABP0pSFQ,69897,Movie Ticket Booking Calculator tests reject valid print calls and an equivalent condition,OPEN,2026-09-05T08:42:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABP2w-bg,69902,CSRF plugin tests contain false-positives and routing bug on /signout,OPEN,2026-09-05T15:41:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnDL7g,69297,"Add Section Headers to Lecture: What Are Capturing Groups and Backreferences, and How Do They Work?",OPEN,2026-08-05T18:42:44Z,,,freeCodeCamp,freeCodeCamp
@@ -21,7 +25,6 @@ I_kwDOAbI7X87LX7Ye,62192,Issues with the `pnpm create-new-project` command,CLOSE
 I_kwDOAbI7X88AAAABLnDhlA,69307,"Add Section Headers to Lecture: What Is the aria-expanded Attribute, and How Does It Work?",CLOSED,2026-08-05T18:43:24Z,2026-09-04T15:38:36Z,Aman739-code,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABD1QUwA,67697,`IndependentLowerJaw` shows hints with relevant spaces trimmed,CLOSED,2026-05-29T22:59:30Z,2026-09-04T15:37:48Z,majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnDPcw,69299,Add Section Headers to Lecture: What Are Best Practices for Tables and Accessibility?,CLOSED,2026-08-05T18:42:51Z,2026-09-04T15:32:09Z,Webmekanic,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABPuHGnw,69877,External curriculum tests misclassify overlapping superblock slugs,OPEN,2026-09-04T15:27:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABPaK1Ww,69847,'Continue Learning' Button Bug,OPEN,2026-09-02T20:46:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnC-Aw,69291,Add Section Headers to Lecture: What Are ARIA Roles?,OPEN,2026-08-05T18:42:18Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABPp2VVw,69871,HTML Module should be structured better,OPEN,2026-09-04T07:29:43Z,,,freeCodeCamp,freeCodeCamp
@@ -197,8 +200,6 @@ I_kwDOAbI7X88AAAABIYmoOg,68723,Replace regex-based test cases in Todo App Worksh
 I_kwDOAbI7X88AAAABIud8yg,68810,Replace regex-based test cases in Sentence Maker Lab,OPEN,2026-07-14T06:44:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnC3vA,69288,Add Section Headers to Lecture: What Are Some Common ARIA States Used on Custom Control Elements?,OPEN,2026-08-05T18:42:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnC5zg,69289,Add Section Headers to Lecture: What Are Some Common Regular Expression Modifiers Used for Searching?,OPEN,2026-08-05T18:42:09Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnDAAA,69292,"Add Section Headers to Lecture: What Is Recursion, and How Does It Work?",OPEN,2026-08-05T18:42:22Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnDByg,69293,Add Section Headers to Lecture: What Are Some Ways to Make Web Applications Keyboard Accessible?,OPEN,2026-08-05T18:42:26Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABM9hs1Q,69554,curriculum: step 3 of [build a string inspector workshop],CLOSED,2026-08-16T14:47:56Z,2026-08-17T03:32:17Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMWZluQ,69484,Factorial Calculator only accepts regular function,CLOSED,2026-08-11T19:20:11Z,2026-08-17T08:30:35Z,wunianze666-netizen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnGpWQ,69343,Add Section Headers to Lecture: What Are Best Practices for Designing Breadcrumbs?,CLOSED,2026-08-05T18:49:32Z,2026-08-17T08:19:59Z,jaykumar14921,freeCodeCamp,freeCodeCamp
@@ -709,4 +710,3 @@ I_kwDOAbI7X88AAAABEt9Xtg,67850,"Search query from ""Get a Hint"" button does not
 I_kwDOAbI7X88AAAABEt_aJA,67851,"Search query from ""Get a Hint"" button does not include workshop title",CLOSED,2026-06-08T09:28:55Z,2026-06-08T09:44:46Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87SMU7z,62878,Progress Checkmarks not Visible in Dark Mode on Samsung Browser,CLOSED,2025-10-17T14:45:58Z,2025-11-17T09:48:42Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABCd1aWA,67436,"""ask for help"" post template makes search preview focus on useless part of post",CLOSED,2026-05-16T16:03:10Z,2026-06-05T08:42:25Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABEeByWA,67819,bill splitter step 6,CLOSED,2026-06-05T06:51:09Z,2026-06-06T20:35:31Z,Kd1880,freeCodeCamp,freeCodeCamp
