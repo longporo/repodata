@@ -1,4 +1,9 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+675dd0621db07ffa3622776749edf0714cffd1a0,fix(curriculum): add section headers to lecture (#69937),2026-09-09T13:15:30Z,1,6,AliaOudjana,freeCodeCamp,freeCodeCamp
+bd6412b85e6239bf549f07b50e638c43ed73ef6c,refactor(curriculum): add section headers to lecture (#69920),2026-09-09T09:52:05Z,1,8,notavailable4u,freeCodeCamp,freeCodeCamp
+395d779350c4ad779c32ab8414fa6ab8e9941dce,fix(i18n): align javascript-v9 intro block order with curriculum stru…,2026-09-09T09:43:26Z,1,12,NormanSMA,freeCodeCamp,freeCodeCamp
+d2efd8273734744eaeec857dd3793b03c8c7fd2e,fix(curriculum): add missing device loan ledger (#69936),2026-09-09T08:57:11Z,2,8,wonganjatan,freeCodeCamp,freeCodeCamp
+6fedd796322cb13ade172ca67e07a1dfc36ba4cc,fix(curriculum): typo in React DevTools lecture (#69941),2026-09-09T08:48:41Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
 7809e582ec7bf73df87632d69d01ac8432a0e4c7,fix(api): handle concurrent/parallel get-hint requests,2026-09-08T17:08:25Z,3,121,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 83d47517966e87208a87b87c18d94d011ffbfd5f,feat(curriculum): add device loan ledger lab in js objects (#67155),2026-09-08T14:12:03Z,4,404,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 1fd0b8ebe851a2c149f81ae220bca962595e33d3,fix(curriculum): add missing semicolon in JS Functions Quiz (#69866),2026-09-08T10:55:28Z,1,24,MMEI4,freeCodeCamp,freeCodeCamp
@@ -832,9 +837,3 @@ db5c3419b23120017fc8a6f1b931c4d5aaeefe34,fix(curriculum): audit editable regions
 7586c1a226e87741722db9ca4c010ed6233f7733,fix(curriculum): audited editable regions in workshop-salary-tracker …,2026-06-10T08:09:10Z,36,113,andiedoescode,freeCodeCamp,freeCodeCamp
 d1bb367e998281016012bd6301dfef1fd1b8ef14,fix(curriculum): editable regions in workshop linked list js (#67869),2026-06-10T07:22:53Z,2,4,arunkumar0398,freeCodeCamp,freeCodeCamp
 780a573d42f6eb243b249c765747fe93ce69d0f0,fix(curriculum): audit editable regions for workshop registration for…,2026-06-10T07:22:19Z,4,19,imsomilg,freeCodeCamp,freeCodeCamp
-1103c142c35799480b17542f8941df9c746213a3,fix(curriculum): inconsistencies across workshop-plant-nursery-catalo…,2026-06-09T18:28:35Z,28,129,dragon-slayer27,freeCodeCamp,freeCodeCamp
-4f836d74329110f412c7fe16d94fa2802be5b291,fix(curriculum): editable regions in workshop word counter (#67862),2026-06-09T17:50:25Z,2,4,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-f41c826c8463926faed84f6a9d6791d50f545c03,fix(curriculum): audit editable region in workshop-library-manager (#…,2026-06-09T15:46:11Z,4,14,jimjoice2804,freeCodeCamp,freeCodeCamp
-1ad8ee806daaf35bc8fddf439c04f050eff799f6,fix(curriculum): editable regions in workshop music instrument filter…,2026-06-09T08:27:21Z,12,53,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-99f026636a68a6b99875b81b70fd7dee3e9b8340,fix(curriculum): inconsistencies across steps in accessible audio con…,2026-06-09T08:21:15Z,5,13,dragon-slayer27,freeCodeCamp,freeCodeCamp
-2505507ad667622b437480734092ed628753744a,"chore(i18n,learn): update i18n-curriculum submodule (#67860)",2026-06-09T04:01:35Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
