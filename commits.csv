@@ -1,4 +1,6 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+6a2edb2d206d2e1b9d6711dbc0555ebd9c1e6f02,fix(client): prevent project-previews affecting parent,2026-09-10T14:37:31Z,6,357,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+ddccb0327db8417575b1bcced856823074d88fae,test(e2e): support isolated seeded users (#69744),2026-09-10T13:39:29Z,6,131,Sembauke,freeCodeCamp,freeCodeCamp
 675dd0621db07ffa3622776749edf0714cffd1a0,fix(curriculum): add section headers to lecture (#69937),2026-09-09T13:15:30Z,1,6,AliaOudjana,freeCodeCamp,freeCodeCamp
 bd6412b85e6239bf549f07b50e638c43ed73ef6c,refactor(curriculum): add section headers to lecture (#69920),2026-09-09T09:52:05Z,1,8,notavailable4u,freeCodeCamp,freeCodeCamp
 395d779350c4ad779c32ab8414fa6ab8e9941dce,fix(i18n): align javascript-v9 intro block order with curriculum stru…,2026-09-09T09:43:26Z,1,12,NormanSMA,freeCodeCamp,freeCodeCamp
@@ -827,13 +829,3 @@ bd6f80771c4306f43fb212856010fe15cc154910,fix(curriculum): audit editable regions
 54b47b1a5e392ded454f1de20700f376d10577d8,fix(curriculum): decouple hasattr check in salary tracker step 31 (#6…,2026-06-11T20:08:42Z,1,11,deepak-s-git,freeCodeCamp,freeCodeCamp
 b192cacf44c9c38331c127e71a29b41267f25f16,fix(curriculum): add missing spaces in renderCard signature (#67889),2026-06-11T09:37:17Z,4,8,mahimathacker,freeCodeCamp,freeCodeCamp
 19009e355a97e18afd5248ea6fe21105193651bf,fix: use babel targets when transpiling user code (#53127),2026-06-11T09:01:01Z,88,894,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-db5c3419b23120017fc8a6f1b931c4d5aaeefe34,fix(curriculum): audit editable regions for reusable mega navbar (#67…,2026-06-10T20:55:47Z,8,60,rustom-yadav,freeCodeCamp,freeCodeCamp
-4ed66df9bf960ce3484c708bdc4c7d1f671d3c78,fix(curriculum): audit editable regions in workshop balance sheet (#6…,2026-06-10T16:33:14Z,38,176,imsomilg,freeCodeCamp,freeCodeCamp
-2c33a3fa73b04f73cc978544c7b1a711569a1849,fix(curriculum): add spaces in fortune teller renderCard (#67879),2026-06-10T16:21:10Z,4,8,kavyabhand,freeCodeCamp,freeCodeCamp
-143ed2e8590696217193750934db1610b7661d1d,"chore(i18n,client): processed translations (#67877)",2026-06-10T14:21:43Z,10,1740,camperbot,freeCodeCamp,freeCodeCamp
-5070b38892e611448e0067a378e489e12442e3ee,fix(curriculum): correct CSS language classification across lessons (…,2026-06-10T10:46:35Z,2,8,debojeetmitra,freeCodeCamp,freeCodeCamp
-75d9c07965cf33a7d8ccc418d1837dcc3109fb39,fix(curriculum): audit editable regions for nutritional label worksho…,2026-06-10T10:12:52Z,47,230,imsomilg,freeCodeCamp,freeCodeCamp
-60fa255851d785ee06f7110ce6c5a57d309c8fcd,fix(curriculum): audit editable regions in accessibility quiz worksho…,2026-06-10T10:11:55Z,41,235,imsomilg,freeCodeCamp,freeCodeCamp
-7586c1a226e87741722db9ca4c010ed6233f7733,fix(curriculum): audited editable regions in workshop-salary-tracker …,2026-06-10T08:09:10Z,36,113,andiedoescode,freeCodeCamp,freeCodeCamp
-d1bb367e998281016012bd6301dfef1fd1b8ef14,fix(curriculum): editable regions in workshop linked list js (#67869),2026-06-10T07:22:53Z,2,4,arunkumar0398,freeCodeCamp,freeCodeCamp
-780a573d42f6eb243b249c765747fe93ce69d0f0,fix(curriculum): audit editable regions for workshop registration for…,2026-06-10T07:22:19Z,4,19,imsomilg,freeCodeCamp,freeCodeCamp
