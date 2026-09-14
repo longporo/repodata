@@ -1,6 +1,8 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X88AAAABRBjA9A,70025,Screen reader focus issue when editing HTML closing tags in the editor,OPEN,2026-09-13T02:14:19Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRGy5JQ,70033,Private IP addresses with a port or path are not detected by isPrivate in the solution form,OPEN,2026-09-13T21:36:30Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRGXO-A,70031,Can't pass the 'Build JWT Protected Routes - Lesson 35',OPEN,2026-09-13T20:09:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQzC1uQ,69988,issues in Step 38 of Build a Shape Manager,OPEN,2026-09-11T08:40:20Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRBjA9A,70025,Screen reader focus issue when editing HTML closing tags in the editor,OPEN,2026-09-13T02:14:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmk2w,68717,Replace regex-based test cases in Shape Manager Workshop,OPEN,2026-07-10T18:25:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQyHMkw,69958,Replace regex-based test cases in Build a Voting System Lab,OPEN,2026-09-11T06:43:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQySTBw,69980,"Add Section Headers to Lecture: What Is a Repository, and How Do You Create One?",OPEN,2026-09-11T07:06:15Z,,,freeCodeCamp,freeCodeCamp
@@ -721,5 +723,3 @@ I_kwDOAbI7X88AAAABBu_1bw,67296,Need improvement in accessibility,CLOSED,2026-05-
 I_kwDOAbI7X88AAAABFbuELQ,67948,Windows,CLOSED,2026-06-14T15:17:22Z,2026-06-14T15:27:44Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFQo2IA,67909,Fix grammar and technical inaccuracies in the Review CSS Accessibility content,CLOSED,2026-06-12T09:15:45Z,2026-06-14T14:13:51Z,saugatkarke,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFUr8fQ,67921,Writing and formatting issues in the try...catch...finally lecture,CLOSED,2026-06-12T19:57:42Z,2026-06-14T14:01:22Z,KaushikBalaji05,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87K_RsU,62152,Updating Our Payment Provider Integration,OPEN,2025-09-11T09:10:08Z,,,freeCodeCamp,freeCodeCamp
-MDU6SXNzdWUxNDIwOTEwMTA=,7655,"Steamroller solution working fine, but not passing the level",CLOSED,2016-03-19T18:56:03Z,2016-03-20T14:36:58Z,,freeCodeCamp,freeCodeCamp
