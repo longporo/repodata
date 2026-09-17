@@ -1,12 +1,35 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X88AAAABRqmTFA,70107,"Suggestion: add a diagram to the ""What Is the CSS Box Model"" lesson",OPEN,2026-09-16T22:13:01Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRniMLw,70100,Add the Artifact Provenance Auditor workshop to Introduction to Objects in JavaScript,OPEN,2026-09-16T16:37:42Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRnjEww,70103,Resolve repeated module and block names in Full-Stack Open structure,CLOSED,2026-09-16T16:39:07Z,2026-09-16T16:43:51Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRnjCxA,70102,Correct A1 Professional Spanish intro ordering and remove unused module intros,OPEN,2026-09-16T16:39:04Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRnjABA,70101,Correct A1 Professional Chinese intro ordering and remove unused module intros,OPEN,2026-09-16T16:39:01Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRnWLiw,70099,"Add Section Headers to Lecture: What Are Truthy and Falsy Values, and How Do Boolean Operators and Short-Circuiting Work?",OPEN,2026-09-16T16:18:03Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRnWIfg,70098,"Add Section Headers to Lecture: What Are Character Classes, and What Are Some Common Examples?",OPEN,2026-09-16T16:17:58Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRnWE6A,70097,Add Section Headers to Lecture: How Do Dynamic Arrays Differ From Static Arrays?,OPEN,2026-09-16T16:17:52Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRnWBhA,70096,"Add Section Headers to Lecture: When Is the alt Attribute Needed, and What Are Some Examples of Good Alt Text?",OPEN,2026-09-16T16:17:47Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRnV91Q,70095,"Add Section Headers to Lecture: What Are Dictionaries, and How Do They Work?",OPEN,2026-09-16T16:17:41Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABQySQaA,69979,"Add Section Headers to Lecture: What Are Merge Conflicts, and How Can You Resolve Them?",CLOSED,2026-09-11T07:06:11Z,2026-09-16T15:21:59Z,Webmekanic,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRjJlgw,70082,Employee Profile Generator step 17 rejects a combined print call,CLOSED,2026-09-16T09:26:58Z,2026-09-16T15:18:49Z,BaconMan1168,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRk7lyw,70093,Pin Extractor - Step 2: error in Socrates feedback,OPEN,2026-09-16T12:31:28Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87aPE14,64121,Workshop – Artifact Provenance Auditor,CLOSED,2025-11-25T03:44:42Z,2026-09-16T10:48:04Z,farchettiensis,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRjMEMA,70087,Employee Profile Generator Step 18: fix hint grammar and solution order,OPEN,2026-09-16T09:31:10Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRjMAuQ,70086,Employee Profile Generator Step 16: remove inconsistent seed blank line,OPEN,2026-09-16T09:31:05Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRjL9gw,70085,Employee Profile Generator Step 13: clarify f-string assignment hint,OPEN,2026-09-16T09:31:00Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRjL6Vw,70084,Employee Profile Generator Step 10: add missing introductory comma,OPEN,2026-09-16T09:30:55Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRjL3QA,70083,Employee Profile Generator Step 5: fix comma splice,OPEN,2026-09-16T09:30:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABIYmgqQ,68709,Replace regex-based test cases in Merge Sort Workshop,CLOSED,2026-07-10T18:24:58Z,2026-09-16T08:04:58Z,TEE0207,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABIYmeLg,68705,Replace regex-based test cases in Fruit Search App Workshop,CLOSED,2026-07-10T18:24:53Z,2026-09-16T08:00:38Z,Sembauke,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRemrGw,70074,First-person plural subject pronoun in difference between real and perceived performance lesson,CLOSED,2026-09-15T22:12:16Z,2026-09-16T06:47:36Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABQh1v8g,69945,Clarify Step 1 print instructions in Employee Profile Generator,CLOSED,2026-09-09T20:06:00Z,2026-09-16T06:55:29Z,jithendrabathala,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABQySFNw,69975,Add Section Headers to Lecture: How Do You Push a Local Repository to GitHub?,CLOSED,2026-09-11T07:05:53Z,2026-09-16T06:51:40Z,Webmekanic,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRNdH9A,70048,Correct descriptions and formatting in the Python string methods lesson,CLOSED,2026-09-14T13:25:46Z,2026-09-16T06:49:05Z,JayKanara,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRGy5JQ,70033,Private IP addresses with a port or path are not detected by isPrivate in the solution form,OPEN,2026-09-13T21:36:30Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABQyHgfg,69965,Replace regex-based test cases in Build a Book Organizer Lab,OPEN,2026-09-11T06:44:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQyShbA,69986,Add Section Headers to Lecture: What Does a Typical Code Review Process Look Like for Projects?,OPEN,2026-09-11T07:06:42Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQyR04g,69969,Add Section Headers to Lecture: What Is an Algorithm and How Does Big O Notation Work?,OPEN,2026-09-11T07:05:26Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABRemrGw,70074,First-person plural subject pronoun in difference between real and perceived performance lesson,OPEN,2026-09-15T22:12:16Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABQySFNw,69975,Add Section Headers to Lecture: How Do You Push a Local Repository to GitHub?,OPEN,2026-09-11T07:05:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQyHi5g,69966,Replace regex-based test cases in Debug a Random Background Color Changer Lab,OPEN,2026-09-11T06:44:34Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABQyHgfg,69965,Replace regex-based test cases in Build a Book Organizer Lab,OPEN,2026-09-11T06:44:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87q-Cf9,65887,Improve solution download format to ZIP project structure,OPEN,2026-02-14T19:37:50Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABQh1v8g,69945,Clarify Step 1 print instructions in Employee Profile Generator,OPEN,2026-09-09T20:06:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmiPw,68712,Replace regex-based test cases in Planets Tablist Workshop,OPEN,2026-07-10T18:25:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRNdD8g,70047,Correct punctuation and code formatting in the Python string slicing lesson,CLOSED,2026-09-14T13:25:41Z,2026-09-15T09:32:07Z,tem-ctrl,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQyHSOw,69960,Replace regex-based test cases in Implement a Sorted Index Finder Lab,CLOSED,2026-09-11T06:44:03Z,2026-09-15T09:29:56Z,d4-dhiraj,freeCodeCamp,freeCodeCamp
@@ -19,7 +42,6 @@ I_kwDOAbI7X88AAAABQySNsA,69978,Add Section Headers to Lecture: How Do Priority Q
 I_kwDOAbI7X88AAAABQyR8qw,69972,"Add Section Headers to Lecture: What Is a Pull Request, and How Do You Create One?",CLOSED,2026-09-11T07:05:39Z,2026-09-14T15:03:10Z,jjotteson2,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQyHaiw,69963,Replace regex-based test cases in Build a Confirm the Ending Tool Lab,OPEN,2026-09-11T06:44:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnDm2A,69310,"Add Section Headers to Lecture: What Is a Data Type, and What Are the Different Data Types in JavaScript?",CLOSED,2026-08-05T18:43:34Z,2026-09-14T13:38:35Z,gundavarapuindira25-max,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABRNdH9A,70048,Correct descriptions and formatting in the Python string methods lesson,OPEN,2026-09-14T13:25:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRNc7yA,70045,Clarify multiline strings and immutability in the Python strings lesson,OPEN,2026-09-14T13:25:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQyHYEw,69962,Replace regex-based test cases in Build a String Repeating Function Lab,CLOSED,2026-09-11T06:44:14Z,2026-09-14T13:22:49Z,laypatel13,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQySe6Q,69985,Add Section Headers to Lecture: How Do Dynamic Arrays Differ From Static Arrays?,CLOSED,2026-09-11T07:06:38Z,2026-09-14T13:19:27Z,Webmekanic,freeCodeCamp,freeCodeCamp
@@ -35,7 +57,6 @@ I_kwDOAbI7X88AAAABRLUvXA,70037,Report Card Printer: Correct Python data-type ter
 I_kwDOAbI7X88AAAABRLUsZQ,70036,Report Card Printer: Fix punctuation in Step 7,OPEN,2026-09-14T09:36:52Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQyHPuA,69959,Replace regex-based test cases in Build a Range of Numbers Generator Lab,CLOSED,2026-09-11T06:43:58Z,2026-09-14T09:32:01Z,eva-lng,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRBjA9A,70025,Screen reader focus issue when editing HTML closing tags in the editor,OPEN,2026-09-13T02:14:19Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABRGy5JQ,70033,Private IP addresses with a port or path are not detected by isPrivate in the solution form,OPEN,2026-09-13T21:36:30Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmk2w,68717,Replace regex-based test cases in Shape Manager Workshop,OPEN,2026-07-10T18:25:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQ5r-qA,70006,Build a Flashcard Quiz App - test 9,OPEN,2026-09-11T21:41:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQ8gLKA,70013,"Add missing ""with"" in sentence",CLOSED,2026-09-12T08:14:20Z,2026-09-12T10:46:07Z,rasadregmi,freeCodeCamp,freeCodeCamp
@@ -58,7 +79,6 @@ I_kwDOAbI7X88AAAABHOruMA,68417,[Naomi's Sprint] Replace regex-based test cases i
 I_kwDOAbI7X88AAAABQySZ2A,69983,"Add Section Headers to Lecture: What Are Some Common Relational Databases, and How Do You Install and Use Postgres?",OPEN,2026-09-11T07:06:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQySX0w,69982,"Add Section Headers to Lecture: How Can You Create, Move, and Delete Files and Folders Using Explorer/Finder?",OPEN,2026-09-11T07:06:24Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQySVbw,69981,Add Section Headers to Lecture: How Do Priority Queues and Heaps Work?,OPEN,2026-09-11T07:06:20Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABQySQaA,69979,"Add Section Headers to Lecture: What Are Merge Conflicts, and How Can You Resolve Them?",OPEN,2026-09-11T07:06:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQySLAQ,69977,Add Section Headers to Lecture: What Are Good Problem-Solving Techniques and Ways to Approach Algorithmic Challenges?,OPEN,2026-09-11T07:06:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQySIIg,69976,Add Section Headers to Lecture: What Are Good Problem-Solving Techniques and Ways to Approach Algorithmic Challenges?,OPEN,2026-09-11T07:05:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQySC5g,69974,"Add Section Headers to Lecture: What Is a .gitignore File, and What Are Some Items That Should Be Included Inside It?",OPEN,2026-09-11T07:05:49Z,,,freeCodeCamp,freeCodeCamp
@@ -67,7 +87,6 @@ I_kwDOAbI7X88AAAABQyR3Sw,69970,Add Section Headers to Lecture: What Is an Algori
 I_kwDOAbI7X88AAAABQyRyPg,69968,"Add Section Headers to Lecture: How Do Maps, Hash Maps and Sets Work?",OPEN,2026-09-11T07:05:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQmLsMw,69948,Replace regex-based test cases in Build a String Inverter Lab,CLOSED,2026-09-10T06:43:26Z,2026-09-11T06:44:40Z,jacobptnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQyHdEw,69964,Replace regex-based test cases in Build a Leap Year Calculator Lab,OPEN,2026-09-11T06:44:24Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIYmgqQ,68709,Replace regex-based test cases in Merge Sort Workshop,OPEN,2026-07-10T18:24:58Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPFIx,64124,Workshop – Weather Trend Analyzer,CLOSED,2025-11-25T03:45:33Z,2026-09-10T14:17:41Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQkwtcw,69947,Filter in the catalog,OPEN,2026-09-10T03:08:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnDByg,69293,Add Section Headers to Lecture: What Are Some Ways to Make Web Applications Keyboard Accessible?,CLOSED,2026-08-05T18:42:26Z,2026-09-09T13:15:32Z,AliaOudjana,freeCodeCamp,freeCodeCamp
@@ -79,7 +98,6 @@ I_kwDOAbI7X88AAAABQSRepA,69932,Add Device Loan Ledger to Introduction to Objects
 I_kwDOAbI7X88AAAABQOdGHA,69927,Replace regex-based test cases in Email Masker Lab,OPEN,2026-09-08T07:53:18Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABNutudA,69665,Sign in button on daily challenge archive page is too wide,OPEN,2026-08-21T16:59:37Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPEsi,64118,Lab – Device Loan Ledger,CLOSED,2025-11-25T03:44:12Z,2026-09-08T14:12:05Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIYmeLg,68705,Replace regex-based test cases in Fruit Search App Workshop,OPEN,2026-07-10T18:24:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABPuHGnw,69877,External curriculum tests misclassify overlapping superblock slugs,CLOSED,2026-09-04T15:27:05Z,2026-09-08T10:54:36Z,HarshulAggarwal,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnC-Aw,69291,Add Section Headers to Lecture: What Are ARIA Roles?,CLOSED,2026-08-05T18:42:18Z,2026-09-08T09:16:16Z,laypatel13,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnDvAg,69312,Add Section Headers to Lecture: What Are Common Design Terms to Help You Communicate with Designers?,CLOSED,2026-08-05T18:43:48Z,2026-09-08T09:13:45Z,gundavarapuindira25-max,freeCodeCamp,freeCodeCamp
@@ -245,7 +263,6 @@ I_kwDOAbI7X87Ns2u6,62351,"Make the ""Build a Magazine"" workshop HTML more seman
 I_kwDOAbI7X87aPEQC,64114,Workshop – Sensor Burst Analyzer,OPEN,2025-11-25T03:42:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPElK,64117,Workshop – Smart Campus Directory,OPEN,2025-11-25T03:43:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPEw0,64119,Workshop – Guild Loot Tracker,OPEN,2025-11-25T03:44:25Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87aPE14,64121,Workshop – Artifact Provenance Auditor,OPEN,2025-11-25T03:44:42Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPFTT,64126,Lab – Data Sanitizer Sweep,OPEN,2025-11-25T03:46:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87ea0MK,64627,Create a prototype for Python functions workshop,OPEN,2025-12-15T17:22:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87-BL0e,66931,js-v9 missing workshop on using try/catch/finally (and throw),OPEN,2026-04-14T11:32:08Z,,,freeCodeCamp,freeCodeCamp
@@ -715,10 +732,3 @@ I_kwDOAbI7X88AAAABFiNIew,67967,Broken default.svg in workshop-fortune-teller-app
 I_kwDOAbI7X88AAAABFwcp2A,68010,Remove lab-prime-number-sum-calculator from the higher-order-functions superblock,CLOSED,2026-06-17T08:01:46Z,2026-06-17T13:26:35Z,TEE0207,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFwn7dw,68011,certificate course ,CLOSED,2026-06-17T08:30:12Z,2026-06-17T08:37:05Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFh5Trw,67966,Workshop Fortune Teller App step 7 only accepts implicit return,CLOSED,2026-06-15T14:34:12Z,2026-06-17T07:17:31Z,Vanishagupta18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABFsN65g,67998,question: should module reset also remove progressTimestamps entries (affecting points and calendar)?,CLOSED,2026-06-16T18:31:42Z,2026-06-17T03:01:04Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABFki-hQ,67977,Fix grammar and formatting issues in Links and Images lessons E-H,CLOSED,2026-06-15T20:55:29Z,2026-06-16T23:34:53Z,fraternebahirwe;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABFkd_Gw,67975,"Fix grammar, spelling, and formatting errors in the Importance of Accessibility and Good HTML Structure lectures",CLOSED,2026-06-15T20:42:23Z,2026-06-16T19:17:17Z,majestic-owl448;oLucasJard,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABFnfu8w,67984,Coding Challenge 310: British to American - typo in test results,CLOSED,2026-06-16T07:13:03Z,2026-06-16T14:02:33Z,divyaanshupal,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABFkjDnQ,67978,Replace curly apostrophes in Links and Images lessons A-D,CLOSED,2026-06-15T20:55:40Z,2026-06-16T10:01:18Z,kanan010506,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABFn3sSQ,67987,[phantomstars] Automated fake-engagement analysis — for information only,CLOSED,2026-06-16T08:09:58Z,2026-06-16T08:17:28Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABFLkhSQ,67896,dockerCI/CD pipeline issue,CLOSED,2026-06-11T17:11:30Z,2026-06-11T20:05:29Z,,freeCodeCamp,freeCodeCamp
