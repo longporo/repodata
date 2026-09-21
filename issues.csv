@@ -1,16 +1,23 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X88AAAABMsWUKQ,69534,Use of `const` vs `let` vs `var` in the Binary Search Workshop,OPEN,2026-08-13T23:44:20Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABSRMIQA,70239,Wording for What are BDD and TDD lesson,OPEN,2026-09-20T22:46:40Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRLUsZQ,70036,Report Card Printer: Fix punctuation in Step 7,CLOSED,2026-09-14T09:36:52Z,2026-09-20T19:17:38Z,pheonix14,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABNutudA,69665,Sign in button on daily challenge archive page is too wide,OPEN,2026-08-21T16:59:37Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABR--67A,70173,Movie Ticket Booking Calculator Step 17: age range and operator precedence explanation,CLOSED,2026-09-18T16:16:25Z,2026-09-20T15:46:16Z,aminajao,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRnWE6A,70097,Add Section Headers to Lecture: How Do Dynamic Arrays Differ From Static Arrays?,CLOSED,2026-09-16T16:17:52Z,2026-09-20T15:43:09Z,Wolf-011,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRvo70w,70127,[Naomi's Sprint] Add Section Headers to Long Lessons,OPEN,2026-09-17T09:55:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABSJan2g,70215,"Tests for ""Build a Customer Complaint Form"" Should Dispatch Events When Setting `checked` Property",OPEN,2026-09-19T18:54:22Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABSHP0WQ,70199,"Typo: missing ""it"" in sentence",CLOSED,2026-09-19T13:31:44Z,2026-09-20T12:58:56Z,rr74w9zwdm-svg,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABSNCgtg,70225,"Typo: missing ""to"" in sentence",CLOSED,2026-09-20T07:57:45Z,2026-09-20T12:51:22Z,hu-maeruf,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABSBHtBg,70182,Missing unauthenticated-access test coverage for 3 protected settings routes,CLOSED,2026-09-18T19:53:00Z,2026-09-20T12:33:14Z,mariamanbar,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87q-Cf9,65887,Improve solution download format to ZIP project structure,OPEN,2026-02-14T19:37:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABR--0VQ,70171,Movie Ticket Booking Calculator Step 12: missing articles,CLOSED,2026-09-18T16:16:14Z,2026-09-19T17:52:34Z,anandhuuh007,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABR-_EJQ,70176,Movie Ticket Booking Calculator Step 20: hint grammar and example indentation,CLOSED,2026-09-18T16:16:42Z,2026-09-19T17:27:54Z,suraj,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABSHP0WQ,70199,"Typo: missing ""it"" in sentence",OPEN,2026-09-19T13:31:44Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABSGokLQ,70197,"Typo: Replace ""Map"" with ""WeakMap""",OPEN,2026-09-19T11:44:28Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABRvo70w,70127,[Naomi's Sprint] Add Section Headers to Long Lessons,OPEN,2026-09-17T09:55:07Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABRnWE6A,70097,Add Section Headers to Lecture: How Do Dynamic Arrays Differ From Static Arrays?,OPEN,2026-09-16T16:17:52Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQyHdEw,69964,Replace regex-based test cases in Build a Leap Year Calculator Lab,OPEN,2026-09-11T06:44:24Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABSHaalw,70200,"""Build a Bookmark Manager App"" Example Project Not Working: `iframe` `sandbox` Missing `allow-same-origin` Flag",OPEN,2026-09-19T14:00:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABR---Fg,70174,Movie Ticket Booking Calculator Step 18: hint grammar,CLOSED,2026-09-18T16:16:31Z,2026-09-19T13:16:15Z,KabileshwaranKabil,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABR--DTw,70168,Movie Ticket Booking Calculator tests reject equivalent print expressions,CLOSED,2026-09-18T16:14:52Z,2026-09-19T12:39:41Z,prabhu-omkar,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABSBHtBg,70182,Missing unauthenticated-access test coverage for 3 protected settings routes,OPEN,2026-09-18T19:53:00Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABR-1M8A,70166,Python conditionals lesson title and formatting,CLOSED,2026-09-18T15:59:41Z,2026-09-19T10:44:32Z,Momoru2002,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRjMAuQ,70086,Employee Profile Generator Step 16: remove inconsistent seed blank line,CLOSED,2026-09-16T09:31:05Z,2026-09-19T10:21:57Z,Nishmith121,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQySVbw,69981,Add Section Headers to Lecture: How Do Priority Queues and Heaps Work?,CLOSED,2026-09-11T07:06:20Z,2026-09-19T10:18:04Z,tracemycodes,freeCodeCamp,freeCodeCamp
@@ -24,7 +31,6 @@ I_kwDOAbI7X88AAAABQySLAQ,69977,Add Section Headers to Lecture: What Are Good Pro
 I_kwDOAbI7X88AAAABR-_BDQ,70175,Movie Ticket Booking Calculator Step 19: hint grammar,CLOSED,2026-09-18T16:16:37Z,2026-09-18T22:29:47Z,poojarishreyas,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABR9sviw,70162,Missing period in the Bill Splitter intro,CLOSED,2026-09-18T14:05:58Z,2026-09-18T17:07:07Z,prabhu-omkar,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABR9tv8w,70163,Bill Splitter tests accept extra assignments and incorrect printed amounts,CLOSED,2026-09-18T14:07:35Z,2026-09-18T16:57:23Z,Venkat,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABR--67A,70173,Movie Ticket Booking Calculator Step 17: age range and operator precedence explanation,OPEN,2026-09-18T16:16:25Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABR--3dg,70172,Movie Ticket Booking Calculator Step 16: hint typo and age range,OPEN,2026-09-18T16:16:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABR--wYg,70170,Movie Ticket Booking Calculator Step 8: hint grammar and example indentation,OPEN,2026-09-18T16:16:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABR-1N8A,70167,Python truthy and falsy values lesson examples and wording,OPEN,2026-09-18T15:59:43Z,,,freeCodeCamp,freeCodeCamp
@@ -79,7 +85,6 @@ I_kwDOAbI7X88AAAABQySFNw,69975,Add Section Headers to Lecture: How Do You Push a
 I_kwDOAbI7X88AAAABRNdH9A,70048,Correct descriptions and formatting in the Python string methods lesson,CLOSED,2026-09-14T13:25:46Z,2026-09-16T06:49:05Z,JayKanara,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRGy5JQ,70033,Private IP addresses with a port or path are not detected by isPrivate in the solution form,OPEN,2026-09-13T21:36:30Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQyHgfg,69965,Replace regex-based test cases in Build a Book Organizer Lab,OPEN,2026-09-11T06:44:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87q-Cf9,65887,Improve solution download format to ZIP project structure,OPEN,2026-02-14T19:37:50Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmiPw,68712,Replace regex-based test cases in Planets Tablist Workshop,OPEN,2026-07-10T18:25:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRNdD8g,70047,Correct punctuation and code formatting in the Python string slicing lesson,CLOSED,2026-09-14T13:25:41Z,2026-09-15T09:32:07Z,tem-ctrl,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQyHSOw,69960,Replace regex-based test cases in Implement a Sorted Index Finder Lab,CLOSED,2026-09-11T06:44:03Z,2026-09-15T09:29:56Z,d4-dhiraj,freeCodeCamp,freeCodeCamp
@@ -103,7 +108,6 @@ I_kwDOAbI7X88AAAABQyR_zQ,69973,"Add Section Headers to Lecture: What Is the Pyth
 I_kwDOAbI7X88AAAABRGXO-A,70031,Can't pass the 'Build JWT Protected Routes - Lesson 35',CLOSED,2026-09-13T20:09:43Z,2026-09-14T10:07:56Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQzC1uQ,69988,issues in Step 38 of Build a Shape Manager,CLOSED,2026-09-11T08:40:20Z,2026-09-14T09:56:01Z,Sidsmartz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRLUvXA,70037,Report Card Printer: Correct Python data-type terminology in the catalog introduction,OPEN,2026-09-14T09:36:58Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABRLUsZQ,70036,Report Card Printer: Fix punctuation in Step 7,OPEN,2026-09-14T09:36:52Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQyHPuA,69959,Replace regex-based test cases in Build a Range of Numbers Generator Lab,CLOSED,2026-09-11T06:43:58Z,2026-09-14T09:32:01Z,eva-lng,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRBjA9A,70025,Screen reader focus issue when editing HTML closing tags in the editor,OPEN,2026-09-13T02:14:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmk2w,68717,Replace regex-based test cases in Shape Manager Workshop,OPEN,2026-07-10T18:25:09Z,,,freeCodeCamp,freeCodeCamp
@@ -134,7 +138,6 @@ I_kwDOAbI7X88AAAABIYmhMg,68710,Replace regex-based test cases in Music Player Wo
 I_kwDOAbI7X88AAAABLnDRoQ,69300,Add Section Headers to Lecture: What Are Static Properties and Methods in Classes?,CLOSED,2026-08-05T18:42:55Z,2026-09-09T09:52:07Z,notavailable4u,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQSTn_Q,69933,Align JavaScript v9 intro block order with the curriculum structure,CLOSED,2026-09-08T14:20:19Z,2026-09-09T09:43:28Z,NormanSMA,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQSRepA,69932,Add Device Loan Ledger to Introduction to Objects in JavaScript,CLOSED,2026-09-08T14:17:00Z,2026-09-09T08:57:13Z,wonganjatan,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABNutudA,69665,Sign in button on daily challenge archive page is too wide,OPEN,2026-08-21T16:59:37Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPEsi,64118,Lab – Device Loan Ledger,CLOSED,2025-11-25T03:44:12Z,2026-09-08T14:12:05Z,Jeevankumar-s,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABPuHGnw,69877,External curriculum tests misclassify overlapping superblock slugs,CLOSED,2026-09-04T15:27:05Z,2026-09-08T10:54:36Z,HarshulAggarwal,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnC-Aw,69291,Add Section Headers to Lecture: What Are ARIA Roles?,CLOSED,2026-08-05T18:42:18Z,2026-09-08T09:16:16Z,laypatel13,freeCodeCamp,freeCodeCamp
@@ -143,7 +146,6 @@ I_kwDOAbI7X88AAAABLnDUgg,69301,"Add Section Headers to Lecture: What Is the HSL 
 I_kwDOAbI7X88AAAABLnC7zw,69290,"Add Section Headers to Lecture: What Is the calc() Function, and How Does It Work?",CLOSED,2026-08-05T18:42:13Z,2026-09-08T09:07:53Z,duygri,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABPaK1Ww,69847,'Continue Learning' Button Bug,OPEN,2026-09-02T20:46:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKTKouQ,69073,Text in multiple languages,CLOSED,2026-07-27T08:54:50Z,2026-09-05T10:19:23Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMsWUKQ,69534,Use of `const` vs `let` vs `var` in the Binary Search Workshop,OPEN,2026-08-13T23:44:20Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABPoHybA,69870,Incorrect pinyin in Chinese A1 numbers quiz,CLOSED,2026-09-04T02:56:50Z,2026-09-05T09:01:25Z,duygri,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABPrayzw,69874,Fix JavaScript seed indentation in the Linked List Workshop,CLOSED,2026-09-04T10:45:48Z,2026-09-05T08:59:01Z,Aman739-code,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABPu2Z3A,69879,Remove obsolete Back End Development and APIs v9 module intros,CLOSED,2026-09-04T16:45:03Z,2026-09-04T18:31:13Z,sagarithm,freeCodeCamp,freeCodeCamp
