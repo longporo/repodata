@@ -1,4 +1,25 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+0b25b7d203ea13d60e5fb28aa5fa2fdc4f11bfc1,fix(curriculum): correct npm script commands (#70391),2026-09-25T21:37:00Z,1,4,Abhi-05-git,freeCodeCamp,freeCodeCamp
+a8c1589dab661c7583acbfc69dbcf91b8a49a110,fix(curriculum): improve wording in Caesar cipher step 1 (#70410),2026-09-25T21:35:02Z,1,5,GregArc98,freeCodeCamp,freeCodeCamp
+13da53c1abb2685581b4f6960bbda95a6310abea,fix(curriculum): Caesar Cipher Step 3 has an ambiguous cipher definit…,2026-09-25T21:33:08Z,1,2,umair-hassan2,freeCodeCamp,freeCodeCamp
+c2268130207403a09ba3c831f986fd4f299a0e32,fix(curriculum): correct punctuation in HTML lecture intros (#70406),2026-09-25T21:16:57Z,1,8,aron-intframe,freeCodeCamp,freeCodeCamp
+6401aaea3592588d1e1840ad762107f9908205f1,fix(curriculum): Caesar Cipher Step 6 uses an incorrect preposition (…,2026-09-25T17:49:24Z,1,2,Viswa1103,freeCodeCamp,freeCodeCamp
+de7fec56fa1d4c22165fadb1c6743ef375498aef,fix(curriculum): remove broken scrimba videoUrls from CSS Grid (#70398),2026-09-25T16:42:04Z,20,20,Sidsmartz,freeCodeCamp,freeCodeCamp
+7f95eadbb3ab66867ebbfb5fb32d827559caebbe,fix(curriculum): remove reintroduced variable from caesar cipher work…,2026-09-25T13:38:39Z,4,15,Sidsmartz,freeCodeCamp,freeCodeCamp
+ef58b732c4ba8310d99b1b805c395b3e30b62c7b,fix(curriculum): add headings to primary and foreign keys lesson (#70…,2026-09-25T09:39:07Z,1,6,tem-ctrl,freeCodeCamp,freeCodeCamp
+f88a973a98314ec6efd3826d50b2ca184addeb12,fix(curriculum): correct integers/floats lecture terminology (#70378),2026-09-25T09:07:16Z,1,24,amandeavor,freeCodeCamp,freeCodeCamp
+26e675864fe9ab5c8fb9f02777840f010cbfec80,fix(curriculum): add section headers to git best practices lesson (#7…,2026-09-25T08:33:28Z,1,8,tem-ctrl,freeCodeCamp,freeCodeCamp
+d4e6664ef596079f4984f72eecace1767348916a,fix(curriculum): add section headers to rel vs non-rel dbs lesson (#7…,2026-09-25T08:29:32Z,1,12,tem-ctrl,freeCodeCamp,freeCodeCamp
+1076bed531787f56505f5222e5632e01c285bea9,fix(curriculum): remove broken scrimba video urls from css flexbox (#…,2026-09-25T08:27:32Z,17,17,tem-ctrl,freeCodeCamp,freeCodeCamp
+4c14410c74a0f693dc97a209f3b028e368faac5a,fix(curriculum): add section headers to useactionstate hook lecture (…,2026-09-25T08:18:03Z,1,14,Webmekanic,freeCodeCamp,freeCodeCamp
+611f6d56de9fb35bc0062596fa2a565f2fa5ec6e,fix(curriculum): add section headers to security testing lecture (#70…,2026-09-25T08:10:23Z,1,8,Webmekanic,freeCodeCamp,freeCodeCamp
+a9b25a95961b06621f00ef9b3b06c7ccd2d50447,fix(curriculum): add section headers to css frameworks lecture (#70365),2026-09-25T08:04:33Z,1,10,Webmekanic,freeCodeCamp,freeCodeCamp
+8476cebcd2c752a4d34cd6d498302675c397caae,fix(curriculum): add section headers to sync remote lesson (#70370),2026-09-25T08:02:59Z,1,6,tem-ctrl,freeCodeCamp,freeCodeCamp
+2d90ece2c927063b43bbadeb3202d489a1677e2a,fix(curriculum): clarify dynamic array time complexity question (#70360),2026-09-25T07:02:41Z,1,4,manoj-karanam,freeCodeCamp,freeCodeCamp
+57adde35941819cd2ee911b4fd2fe5a8c057e629,fix(curriculum): add section headers to useoptimistic hook lecture (#…,2026-09-25T07:01:18Z,1,16,Webmekanic,freeCodeCamp,freeCodeCamp
+13ca5f4cfba66f82eb1cdc3cbc6a252e7450cd7d,fix(curriculum): add section headers to real vs perceived performance…,2026-09-25T07:00:52Z,1,14,Webmekanic,freeCodeCamp,freeCodeCamp
+b0c9b899a913e46ac9a232ee1b9c7d6516c80fd5,fix(curriculum): add section headers to vite react setup lecture (#70…,2026-09-25T06:57:30Z,1,12,Webmekanic,freeCodeCamp,freeCodeCamp
+71ab8bde1de702bad12c33bdfede65593c7a5640,fix(curriculum): add section headers to sets lecture (#70356),2026-09-25T06:48:04Z,1,14,laypatel13,freeCodeCamp,freeCodeCamp
 7be6e8bfe05d586380b0c64002cadda7b30d7b27,fix(curriculum): update health check status code to 503 (#70355),2026-09-24T19:45:22Z,1,8,ThisCode09,freeCodeCamp,freeCodeCamp
 b0ed81fb24d25a1b2ba9452cd7e8de789e382e67,fix(curriculum): remove broken scrimba video urls (#70353),2026-09-24T17:29:26Z,22,22,tem-ctrl,freeCodeCamp,freeCodeCamp
 dac431d37613f53bbc18f47403331e4ebfc9f414,test(client): move show-cert-from-superblock rendering coverage to cl…,2026-09-24T16:15:08Z,2,153,Sembauke,freeCodeCamp,freeCodeCamp
@@ -867,14 +888,3 @@ bb5475f5a02e4f4c12347a57296464133ac62910,fix(curriculum): add missing punctuatio
 b73655652dfe1c72329d83269ee74b7e03ceab67,fix(curriculum): correct linebreaks spelling in regex modifiers lesso…,2026-06-26T15:11:44Z,1,2,ayyagarisujanreddy123,freeCodeCamp,freeCodeCamp
 71f0bcd30a4563c13fda4a09511cc7b4d287f2fd,fix(curriculum): improve wording in character classes lesson (#68270),2026-06-26T14:10:21Z,1,8,Budatichethana,freeCodeCamp,freeCodeCamp
 7a8e8465cb65a4e5661db1b11fb3addc714ac7dc,test: move exam show coverage to client (#68172),2026-06-26T07:05:03Z,4,554,Sembauke,freeCodeCamp,freeCodeCamp
-4a3bbb090432700bc114a8bcbbb236d79574227c,fix(curriculum): change provide to type in aria lecture (#68248),2026-06-25T19:40:43Z,1,2,royalknight71,freeCodeCamp,freeCodeCamp
-d1b975a9db88320bf1faefd69404989035ca9f2f,fix(curriculum): editable regions in workshop error message component…,2026-06-25T19:00:07Z,3,10,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-b3115d5bb9428eb2aeeb2731e2f59463f31064c0,fix(curriculum): editable regions in workshop shopping list app (#68215),2026-06-25T18:56:04Z,30,85,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-e6c8fb2d273c55289e9406fc9ae7164e98fdf6c4,fix(curriculum): remove implicit bubbleSort() requirement (#68222),2026-06-25T17:42:16Z,1,31,imsomilg,freeCodeCamp,freeCodeCamp
-f1add0fc64984eb2580f1956f5ad1f62e87ab446,feat: reject FCC_ filters that are too imprecise (#67823),2026-06-25T17:07:10Z,3,560,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-266b1d7235f4579b21928422f3493a3059a2c539,fix: correct ARIA terminology and grammar (#68246),2026-06-25T14:20:46Z,1,6,NidhiPednekar,freeCodeCamp,freeCodeCamp
-311ac0b4a6855d226cca1e43b8e91dc282ceeae0,fix(curriculum): clarify winner message format for tic-tac-toe lab (#…,2026-06-25T09:26:19Z,1,2,Ayan-Bain,freeCodeCamp,freeCodeCamp
-cc014f9ceed2dd618348fc504f05d874d9b67a5d,fix(curriculum): improve consistency and punctuaction (#68225),2026-06-25T08:54:40Z,1,6,PricedTuna,freeCodeCamp,freeCodeCamp
-71b316cc10791a9d1bb19f02d5cfd5141f762c7a,fix(curriculum): correct punctuation in regex quantifiers lesson (#68…,2026-06-25T07:21:34Z,1,12,Eghani,freeCodeCamp,freeCodeCamp
-2fe62f69f65cc892ee663147b0e5ecf1eeabcdf1,fix(curriculum): correct regex character class description (#68220),2026-06-25T06:39:07Z,1,4,AlistairHeus,freeCodeCamp,freeCodeCamp
-88eb7597baa8a6f2f149fb448fa9539f132ecfb3,fix(curriculum): correct grammar in js regex review lecture (#68207),2026-06-25T05:57:50Z,1,6,omarhossdev,freeCodeCamp,freeCodeCamp
