@@ -1,24 +1,43 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X88AAAABTSrK6w,70412,fix(a11y): Python terminal: screen reader output only contains the last print statement,OPEN,2026-09-25T23:26:01Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDtQBCQ,67661,RTL language prep umbrella issue. WIP,CLOSED,2026-05-28T20:53:34Z,2026-09-25T22:00:22Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABS8gtlA,70345,"Omission of ""run"" while describing npm run lint command in ""What Are npm Scripts?"" lesson",CLOSED,2026-09-24T09:41:45Z,2026-09-25T21:37:02Z,Abhi-05-git,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABNZsUyw,69616,Downloadable PDF of lectures,OPEN,2026-08-19T15:27:17Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABTKhoLA,70385,Caesar Cipher Step 1 has capitalization and wording issues,CLOSED,2026-09-25T09:43:47Z,2026-09-25T21:35:05Z,GregArc98;huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABTKiBBA,70387,Caesar Cipher Step 3 has an ambiguous cipher definition,CLOSED,2026-09-25T09:44:18Z,2026-09-25T21:33:10Z,umair-hassan2,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRvRKFA,70119,Correct punctuation in the HTML lecture intros,CLOSED,2026-09-17T09:15:32Z,2026-09-25T21:17:00Z,aron-intframe,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABSUSxeA,70248,Understanding Code Clarity lectures contain inaccurate explanations and wording problems,OPEN,2026-09-21T07:48:51Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABTKiMlw,70388,Caesar Cipher Step 6 uses an incorrect preposition,CLOSED,2026-09-25T09:44:32Z,2026-09-25T17:49:26Z,Viswa1103,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABTC7CQw,70358,A valid answer is not accepted,OPEN,2026-09-24T18:56:26Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X871x_Tt,66604,"Challenge/Lab/Workshop Code Saving Consistency, UX",OPEN,2026-03-23T20:27:21Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDSIEaQ,67593,Add download button to independent lower jaw,OPEN,2026-05-25T07:58:48Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABTJ2lbg,70381,Remove broken Scrimba video links from CSS Grid,CLOSED,2026-09-25T08:33:15Z,2026-09-25T16:42:06Z,Sidsmartz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86N2qYZ,55363,[api]: handling concurrent user record writes,OPEN,2024-06-28T08:46:00Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABTK3lEA,70390,Ambiguous phrasing in Node `fs` module second quiz question,OPEN,2026-09-25T10:16:04Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRvo70w,70127,[Naomi's Sprint] Add Section Headers to Long Lessons,OPEN,2026-09-17T09:55:07Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABTKjaww,70389,Node.js REPL lesson 8 rejects valid console.log calls,OPEN,2026-09-25T09:46:17Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABTKBVBQ,70382,Remove the reintroduced encrypted_text variable from the Caesar cipher workshop,CLOSED,2026-09-25T08:51:14Z,2026-09-25T13:38:40Z,Sidsmartz,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABTKh2-A,70386,Caesar Cipher Step 2 hint has awkward wording,OPEN,2026-09-25T09:44:06Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABTDUKJg,70359,Preposing a change in guideline of python workshop-email-simulator/step-28,OPEN,2026-09-24T19:32:55Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABR9bfCg,70160,Correct definitions and terminology in the Python integers and floats lesson,CLOSED,2026-09-18T13:38:21Z,2026-09-25T09:07:18Z,amandeavor,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABSu9anQ,70310,Use keyboard key markup in the Node.js REPL workshop,CLOSED,2026-09-23T10:37:45Z,2026-09-25T08:47:36Z,c-bodram,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABTI3Qzw,70374,Remove broken Scrimba video links from CSS Flexbox,CLOSED,2026-09-25T06:52:10Z,2026-09-25T08:27:34Z,tem-ctrl,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABTJj12w,70379,Fix the Discount Calculator lab objective and punctuation,OPEN,2026-09-25T08:03:53Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABS0MdcA,70335,"Data Structures Quiz Asks About Amortized Time Complexity, Which Was Not Taught in Preceding Section",CLOSED,2026-09-23T18:21:57Z,2026-09-25T07:02:43Z,manoj-karanam,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRvD4cg,70115,Add images to the file search lesson,OPEN,2026-09-17T08:53:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABRqmTFA,70107,"Suggestion: add a diagram to the ""What Is the CSS Box Model"" lesson",OPEN,2026-09-16T22:13:01Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMsWUKQ,69534,Use of `const` vs `let` vs `var` in the Binary Search Workshop,OPEN,2026-08-13T23:44:20Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABS7NQ4g,70342,Health checks and graceful shutdown lecture text mentions 503 status code but code example uses 500,CLOSED,2026-09-24T07:47:00Z,2026-09-24T19:45:24Z,ThisCode09,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABTDUKJg,70359,Preposing a change in guideline of python workshop-email-simulator/step-28,OPEN,2026-09-24T19:32:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABTAcBnA,70350,Business Card portfolio text test should use textContent,OPEN,2026-09-24T15:15:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABTC7CQw,70358,A valid answer is not accepted,OPEN,2026-09-24T18:56:26Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABTAbpcA,70349,Remove broken Scrimba video links from Applied Accessibility,CLOSED,2026-09-24T15:14:59Z,2026-09-24T17:29:28Z,tem-ctrl,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABRvo70w,70127,[Naomi's Sprint] Add Section Headers to Long Lessons,OPEN,2026-09-17T09:55:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRvD-wA,70117,Add images to the effective web search lesson,OPEN,2026-09-17T08:53:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRvD7jA,70116,Add the README image to the common file types lesson,OPEN,2026-09-17T08:53:53Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABRvD4cg,70115,Add images to the file search lesson,OPEN,2026-09-17T08:53:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRvD13g,70114,Add images to the Explorer/Finder file management lesson,OPEN,2026-09-17T08:53:44Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRu6jwA,70113,Add images to the DOM Inspector and DevTools lesson,OPEN,2026-09-17T08:39:07Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABRqmTFA,70107,"Suggestion: add a diagram to the ""What Is the CSS Box Model"" lesson",OPEN,2026-09-16T22:13:01Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABSz5eag,70332,Implement a Queue - Unmentioned/Circular Dependencies Between Tests,OPEN,2026-09-23T17:54:32Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABS0MdcA,70335,"Data Structures Quiz Asks About Amortized Time Complexity, Which Was Not Taught in Preceding Section",OPEN,2026-09-23T18:21:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABS7gq0w,70344,Inaccurate statement about Buffer module requiring explicit import in Buffer module lesson,OPEN,2026-09-24T08:12:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABS8xMtA,70346,"Clarification needed regarding Express 404 behavior in the lesson ""How Can You Serve Static Files in Express?""",OPEN,2026-09-24T10:04:41Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABS8gtlA,70345,"Omission of ""run"" while describing npm run lint command in ""What Are npm Scripts?"" lesson",OPEN,2026-09-24T09:41:45Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABR9boCg,70161,Correct explanations and examples in the Python augmented assignments lesson,OPEN,2026-09-18T13:38:36Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABR9bfCg,70160,Correct definitions and terminology in the Python integers and floats lesson,OPEN,2026-09-18T13:38:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRGy5JQ,70033,Private IP addresses with a port or path are not detected by isPrivate in the solution form,CLOSED,2026-09-13T21:36:30Z,2026-09-24T15:13:21Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABPPW1pA,69837,Example project in Build an Event RSVP lab allows changes to confirmation message,CLOSED,2026-09-01T23:01:46Z,2026-09-24T15:12:58Z,TEE0207,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnCccw,69286,[Naomi's Sprint] Add Section Headers to Long-Form Lecture Challenges,CLOSED,2026-08-05T18:41:14Z,2026-09-24T15:11:26Z,,freeCodeCamp,freeCodeCamp
@@ -30,12 +49,10 @@ I_kwDOAbI7X88AAAABSuedOA,70304,Fix inaccurate wording in the Working with Tables
 I_kwDOAbI7X88AAAABSvBy2A,70311,Fix missing spaces in Design a Business Card hints,CLOSED,2026-09-23T10:44:40Z,2026-09-23T18:13:27Z,reetik-rana,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABSuy_qA,70307,Business Card lab seed and solutions use incorrect formatting,CLOSED,2026-09-23T10:21:35Z,2026-09-23T13:08:05Z,MehulNegi;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABStEtSQ,70300,Remove broken Scrimba video links from Basic CSS,CLOSED,2026-09-23T07:25:56Z,2026-09-23T11:01:44Z,abinash2553J,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABSu9anQ,70310,Use keyboard key markup in the Node.js REPL workshop,OPEN,2026-09-23T10:37:45Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABSumjuA,70306,Clarify int() input description in Python functions lecture,OPEN,2026-09-23T10:01:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABSu1NoA,70308,Clarify the rm -f flag in the Bash commands lecture,OPEN,2026-09-23T10:24:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABP_Cxyg,69917,"Regex in ""Build a medical data validator"" (Python curriculum) should use raw string notation",OPEN,2026-09-06T21:16:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABSud-jQ,70303,Travel Weather Planner has incomplete and inaccurate tests and hints,OPEN,2026-09-23T09:49:10Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABRvRKFA,70119,Correct punctuation in the HTML lecture intros,OPEN,2026-09-17T09:15:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABR-1N8A,70167,Python truthy and falsy values lesson examples and wording,CLOSED,2026-09-18T15:59:43Z,2026-09-23T08:03:15Z,5h4d0wn1k,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABSUPsRA,70246,Vowel Balance reference solutions mishandle emoji and single vowels,CLOSED,2026-09-21T07:42:55Z,2026-09-23T07:38:46Z,jmes2build;majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABSk_fzA,70281,Sync the Introduction to Loops in JavaScript superblock,CLOSED,2026-09-22T15:30:30Z,2026-09-23T06:49:42Z,Sidsmartz,freeCodeCamp,freeCodeCamp
@@ -63,7 +80,6 @@ I_kwDOAbI7X88AAAABSUQzHA,70247,Crypto Module lecture uses singular wording for t
 I_kwDOAbI7X88AAAABR7yZZg,70155,Device Loan Ledger: Placed before Loops in the Curriculum,CLOSED,2026-09-18T10:28:18Z,2026-09-21T15:29:14Z,majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABNSnYEg,69606,Use of ID versus `id` when referring to the id attribute,OPEN,2026-08-18T22:27:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQyHgfg,69965,Replace regex-based test cases in Build a Book Organizer Lab,CLOSED,2026-09-11T06:44:29Z,2026-09-21T08:39:33Z,Aman739-code,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABSUSxeA,70248,Understanding Code Clarity lectures contain inaccurate explanations and wording problems,OPEN,2026-09-21T07:48:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABSGokLQ,70197,"Typo: Replace ""Map"" with ""WeakMap""",CLOSED,2026-09-19T11:44:28Z,2026-09-21T07:01:24Z,shobhit26-09,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLhuhlA,69276,Indentation and seed continuity audit for workshop-plant-nursery-catalog,CLOSED,2026-08-05T07:34:17Z,2026-09-21T06:15:24Z,Webmekanic,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRLUsZQ,70036,Report Card Printer: Fix punctuation in Step 7,CLOSED,2026-09-14T09:36:52Z,2026-09-20T19:17:38Z,pheonix14,freeCodeCamp,freeCodeCamp
@@ -276,7 +292,6 @@ I_kwDOAbI7X88AAAABN0payg,69675,Use semantic keyboard markup in The Box Model Les
 I_kwDOAbI7X88AAAABN0pZZQ,69673,Use semantic keyboard markup in Back End Development and APIs Review,CLOSED,2026-08-22T15:22:55Z,2026-08-24T08:43:37Z,laxitajain,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABN0paIA,69674,Use semantic keyboard markup in How to Set Up the Chinese Keyboard on Your Computer,CLOSED,2026-08-22T15:22:58Z,2026-08-24T08:42:51Z,laxitajain,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABN0pSew,69671,Use semantic keyboard markup in Bash Commands Quiz,CLOSED,2026-08-22T15:22:28Z,2026-08-24T08:41:39Z,laxitajain,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABNZsUyw,69616,Downloadable PDF of lectures,OPEN,2026-08-19T15:27:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABNzD0ww,69668,Elon issues,CLOSED,2026-08-22T08:04:14Z,2026-08-22T09:04:45Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABNzDtWQ,69667,Elon issues,CLOSED,2026-08-22T08:03:48Z,2026-08-22T09:04:44Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X861sa5w,60228,Persisting Last User Activity,OPEN,2025-05-08T09:05:56Z,,,freeCodeCamp,freeCodeCamp
@@ -370,7 +385,6 @@ I_kwDOAbI7X88AAAABMMK3lw,69473,Donate page loading blank.,CLOSED,2026-08-10T18:1
 I_kwDOAbI7X88AAAABLnGbGw,69339,Add Section Headers to Lecture: How Do You Create Good Background and Foreground Contrast in Your Designs?,CLOSED,2026-08-05T18:49:08Z,2026-08-10T15:46:31Z,waleed-akram,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABL0q9Iw,69392,"Missing test, incomplete hint, and stray assertion arguments in the Build a Mood Board lab",CLOSED,2026-08-07T08:35:40Z,2026-08-10T14:15:44Z,Naman-bh,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMIHrOw,69459,Grammar and accuracy errors in the What Are the Basic Parts of a Computer lecture,CLOSED,2026-08-10T09:45:23Z,2026-08-10T14:06:42Z,SachaKefif,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDtQBCQ,67661,RTL language prep umbrella issue. WIP,OPEN,2026-05-28T20:53:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmdrQ,68704,Replace regex-based test cases in Fortune Teller App Workshop,CLOSED,2026-07-10T18:24:52Z,2026-08-10T09:40:20Z,jaykumar14921,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLwEdGw,69375,Backend lessons don't mention ES module imports,CLOSED,2026-08-06T17:34:35Z,2026-08-10T07:58:40Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnFcbg,69327,"Add Section Headers to Lecture: What Is the Difference Between innerText, textContent, and innerHTML?",CLOSED,2026-08-05T18:47:12Z,2026-08-10T07:15:02Z,SaikiranRayabarapu,freeCodeCamp,freeCodeCamp
@@ -615,7 +629,6 @@ I_kwDOAbI7X88AAAABIYmNWg,68687,Replace regex-based test cases in Inventory Manag
 I_kwDOAbI7X88AAAABIcCkwA,68732,Dead conditional branch in the Build a RegEx Sandbox lab reference solution,CLOSED,2026-07-11T07:52:32Z,2026-07-11T18:34:50Z,Dazzanova,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDt5bvw,67667,Add unit test coverage for getContentConfig() and getLanguageConfig() in file-handler.ts,CLOSED,2026-05-28T23:06:10Z,2026-07-11T14:07:32Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHOM2Iw,68416,Breadth-First Search Step 1 does not accept arrow function syntax,CLOSED,2026-06-30T18:55:30Z,2026-07-11T06:13:57Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDSIEaQ,67593,Add download button to independent lower jaw,OPEN,2026-05-25T07:58:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIZ7ORg,68728,"Typo in ""Exoplanet Search"" challenge description: ""a exoplanet"" should be ""an exoplanet""",CLOSED,2026-07-10T22:16:54Z,2026-07-11T00:14:48Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIUqPsQ,68671,Fix incorrect ordinal in Step 9 hints of the Build an HTML Music Player workshop,CLOSED,2026-07-10T08:47:29Z,2026-07-10T20:36:52Z,rarestpreet,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIXj3rQ,68677,Flaky test in profile.test.tsx,CLOSED,2026-07-10T15:51:04Z,2026-07-10T20:09:24Z,vijaykiran06,freeCodeCamp,freeCodeCamp
@@ -728,11 +741,3 @@ I_kwDOAbI7X88AAAABGqSguw,68234,"Fix grammatically incorrect feedback in the ""Wh
 I_kwDOAbI7X88AAAABG1PIlw,68275,New issue,CLOSED,2026-06-26T16:13:47Z,2026-06-26T16:17:12Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGuwClw,68252,"Inconsistent ""linebreaks"" spelling in regular expression modifiers lesson",CLOSED,2026-06-25T19:01:14Z,2026-06-26T15:11:46Z,Sujanreddy,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGuppOw,68250,"Fix accuracy and consistency wording in the ""What Are Character Classes"" regex lesson",CLOSED,2026-06-25T18:44:06Z,2026-06-26T14:10:23Z,Budatichethana,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGqSiOQ,68236,"Improve awkward wording in the ""What Is the aria-describedby Attribute"" lecture",CLOSED,2026-06-25T08:09:53Z,2026-06-25T19:40:45Z,majestic-owl448;royalknight71,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGcX-qg,68178,"Test implicitly requires bubbleSort(), but never mentioned in user stories of Sorting Visualizer",CLOSED,2026-06-23T15:47:59Z,2026-06-25T17:42:17Z,imsomilg,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGqShkA,68235,"Fix grammar and terminology issues in the ""What Are ARIA Roles?"" lecture",CLOSED,2026-06-25T08:09:51Z,2026-06-25T14:20:48Z,NidhiPednekar,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGBWGiQ,68095,User story #5 of Lab Tic Tac Toe does not specify expected winner message format.,CLOSED,2026-06-19T08:08:32Z,2026-06-25T09:26:21Z,Ayan-Bain,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGYzg3Q,68159,Fix consistency and punctuation in Working with Regular Expressions lecture (Modifiers),CLOSED,2026-06-23T07:32:28Z,2026-06-25T08:54:42Z,PricedTuna,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGYzmvg,68160,Fix punctuation in Working with Regular Expressions lecture (Quantifiers),CLOSED,2026-06-23T07:32:43Z,2026-06-25T07:21:35Z,Eghani,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGYzDDA,68155,Fix technical accuracy and punctuation in Working with Regular Expressions lecture (Character Classes),CLOSED,2026-06-23T07:31:12Z,2026-06-25T06:39:09Z,AlistairHeus,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGY0Ykw,68161,Fix grammar and formatting in JavaScript Regular Expressions Review,CLOSED,2026-06-23T07:34:52Z,2026-06-25T05:57:52Z,omarhossdev,freeCodeCamp,freeCodeCamp
