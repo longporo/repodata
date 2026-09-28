@@ -1,4 +1,6 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+d07df46de52e2442b865dda7b2f97d49838e9740,"chore(i18n,learn): update i18n-curriculum submodule (#70441)",2026-09-28T03:10:28Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+738c847248ce4a9f97145d6396d9b7d8daeb4c66,fix(curriculum): clarify int() description in Python functions lectur…,2026-09-27T20:20:27Z,1,2,Srujankasturi,freeCodeCamp,freeCodeCamp
 8917c7c8c0be657661ed205b3ffdeb5b7798857e,fix(curriculum): correct explanations and examples in python augmente…,2026-09-26T20:45:01Z,1,27,ThisCode09,freeCodeCamp,freeCodeCamp
 312843b0d6eea4b5b37ff537e9b25fbaa2c357cf,fix(curriculum): use 'an array' in Rosetta challenge hints (#70428),2026-09-26T20:17:42Z,9,18,GhostCoder6969,freeCodeCamp,freeCodeCamp
 3c4d976dd18b7929de37f82ce2c78f4b49fa7ad0,fix(curriculum): correct objective text in discount calculator lab (#…,2026-09-26T19:39:10Z,1,8,bharat710,freeCodeCamp,freeCodeCamp
@@ -890,7 +892,3 @@ a3d173a712e4e7e138e527181cd855ab53f0d4d9,fix(curriculum): fix Git Bash spelling 
 b374c15c10b0965d1e4321847d52bb6851a732bb,fix(curriculum): editing regex from workshop-colored-markers to allow…,2026-06-29T06:23:58Z,4,20,Psst02,freeCodeCamp,freeCodeCamp
 ea141885bc744301d07554ef875316abc95b8161,fix(curriculum): update questions and answers of Form Validation Quiz…,2026-06-29T06:18:40Z,1,16,imsomilg,freeCodeCamp,freeCodeCamp
 fad2ffa44cbcfdf5dc48750cf4f75695127d5f37,fix(curriculum): fix GitLab capitalization in version control lecture…,2026-06-29T06:04:10Z,1,2,xNickRivera,freeCodeCamp,freeCodeCamp
-a5e99552a72ce75c2d3426c0ae9e7a3c2018d1fc,fix(curriculum): add missing word and fix comma splice in git lecture…,2026-06-27T16:28:17Z,1,4,Sudarshan180392,freeCodeCamp,freeCodeCamp
-8b98826abd63fdaf63b070a22077d05081a492dc,"fix(curriculum): remove ""or set"" from validity property description (…",2026-06-27T16:02:24Z,1,2,Udhaya-kumar-N,freeCodeCamp,freeCodeCamp
-bc857a29cdd6afc59430b1666a7125b21447dc3c,fix(curriculum): add missing word 'of' in git/github lecture  (#68300),2026-06-27T13:16:11Z,1,2,mika943,freeCodeCamp,freeCodeCamp
-bb5475f5a02e4f4c12347a57296464133ac62910,fix(curriculum): add missing punctuation in regex lesson feedback (#6…,2026-06-27T08:16:33Z,1,4,naresh-coder123,freeCodeCamp,freeCodeCamp
