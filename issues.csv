@@ -1,4 +1,7 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X88AAAABSumjuA,70306,Clarify int() input description in Python functions lecture,CLOSED,2026-09-23T10:01:55Z,2026-09-27T20:20:29Z,Srujankasturi,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABTc4W0A,70434,align-self: stretch fails to work in Flexbox example due to overriding fixed height,OPEN,2026-09-27T06:17:20Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABTYxe7Q,70425,Bad German translations,OPEN,2026-09-26T17:44:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABTKjaww,70389,Node.js REPL lesson 8 rejects valid console.log calls,OPEN,2026-09-25T09:46:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRvo70w,70127,[Naomi's Sprint] Add Section Headers to Long Lessons,OPEN,2026-09-17T09:55:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABTVPdcQ,70414,Python daily challenge 39 (Fill The Tank): description uses camelCase parameter names instead of snake_case,OPEN,2026-09-26T07:34:43Z,,,freeCodeCamp,freeCodeCamp
@@ -9,7 +12,6 @@ I_kwDOAbI7X88AAAABTAcBnA,70350,Business Card portfolio text test should use text
 I_kwDOAbI7X88AAAABSu1NoA,70308,Clarify the rm -f flag in the Bash commands lecture,CLOSED,2026-09-23T10:24:40Z,2026-09-26T19:26:29Z,bassem-krayem,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABS7gq0w,70344,Inaccurate statement about Buffer module requiring explicit import in Buffer module lesson,CLOSED,2026-09-24T08:12:31Z,2026-09-26T19:24:51Z,ramen2020,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABTDUKJg,70359,Preposing a change in guideline of python workshop-email-simulator/step-28,OPEN,2026-09-24T19:32:55Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABTYxe7Q,70425,Bad German translations,OPEN,2026-09-26T17:44:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABTKh2-A,70386,Caesar Cipher Step 2 hint has awkward wording,CLOSED,2026-09-25T09:44:06Z,2026-09-26T17:18:01Z,riya-sharma-01,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABS8xMtA,70346,"Clarification needed regarding Express 404 behavior in the lesson ""How Can You Serve Static Files in Express?""",CLOSED,2026-09-24T10:04:41Z,2026-09-26T17:13:12Z,adityataywade,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABTSrK6w,70412,fix(a11y): Python terminal: screen reader output only contains the last print statement,OPEN,2026-09-25T23:26:01Z,,,freeCodeCamp,freeCodeCamp
@@ -54,7 +56,6 @@ I_kwDOAbI7X88AAAABSuedOA,70304,Fix inaccurate wording in the Working with Tables
 I_kwDOAbI7X88AAAABSvBy2A,70311,Fix missing spaces in Design a Business Card hints,CLOSED,2026-09-23T10:44:40Z,2026-09-23T18:13:27Z,reetik-rana,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABSuy_qA,70307,Business Card lab seed and solutions use incorrect formatting,CLOSED,2026-09-23T10:21:35Z,2026-09-23T13:08:05Z,MehulNegi;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABStEtSQ,70300,Remove broken Scrimba video links from Basic CSS,CLOSED,2026-09-23T07:25:56Z,2026-09-23T11:01:44Z,abinash2553J,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABSumjuA,70306,Clarify int() input description in Python functions lecture,OPEN,2026-09-23T10:01:55Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABP_Cxyg,69917,"Regex in ""Build a medical data validator"" (Python curriculum) should use raw string notation",OPEN,2026-09-06T21:16:35Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABSud-jQ,70303,Travel Weather Planner has incomplete and inaccurate tests and hints,OPEN,2026-09-23T09:49:10Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABR-1N8A,70167,Python truthy and falsy values lesson examples and wording,CLOSED,2026-09-18T15:59:43Z,2026-09-23T08:03:15Z,5h4d0wn1k,freeCodeCamp,freeCodeCamp
@@ -735,7 +736,3 @@ I_kwDOAbI7X88AAAABGxKUWw,68255,Binary search workshop does not accept arrow func
 I_kwDOAbI7X88AAAABF8O9yQ,68068,Workshop discourages usage of modern CSS color syntax,CLOSED,2026-06-18T15:12:23Z,2026-06-29T06:24:00Z,Psst02,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABG27XDA,68280,Form Validation quiz: confusing questions #2 and #8 about checkValidity() and more,CLOSED,2026-06-26T21:20:12Z,2026-06-29T06:18:41Z,imsomilg,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABG5sGyQ,68289,Incorrect GitLab capitalization in the version control lecture,CLOSED,2026-06-27T11:26:30Z,2026-06-29T06:04:12Z,Nick Rivera,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABG5sL6Q,68296,Oftentimes and comma splice issues in the create a branch lecture,CLOSED,2026-06-27T11:26:57Z,2026-06-27T16:28:19Z,Sudarshan180392,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABG2Jhlg,68277,incorrect explanation of the `validity` property in Form Validation with JavaScript Review,CLOSED,2026-06-26T18:54:31Z,2026-06-27T16:02:26Z,Udhaya-kumar-N,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABG5sMXw,68297,Missing word in the pull request lecture,CLOSED,2026-06-27T11:27:00Z,2026-06-27T13:16:12Z,mika,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGuqU5w,68251,"Add missing terminal periods to two answer options in ""How Can You Match and Replace All Occurrences in a String?"" lecture",CLOSED,2026-06-25T18:45:57Z,2026-06-27T08:16:35Z,naresh-coder123,freeCodeCamp,freeCodeCamp
