@@ -1,4 +1,16 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+9551dbb8998178fb5c86038b16af118b606a4677,fix(curriculum): improve wording in PIN extractor step 1 (#70707),2026-10-06T17:38:42Z,1,4,materoo,freeCodeCamp,freeCodeCamp
+8a1b1df77cc00ad6ceb689340c28c9f938b369bf,fix(curriculum): explain >= in movie ticket step 4 (#70692),2026-10-06T17:00:22Z,1,8,aminajao,freeCodeCamp,freeCodeCamp
+16d112d8bf7d7c0db59a6252f093bf96e5947f7c,fix(curriculum): update C# content to align with MS (#70579),2026-10-06T13:51:47Z,16,526,moT01,freeCodeCamp,freeCodeCamp
+c4726f09169c18259b39e11edd5bc230cd89eb6e,chore(deps): upgrade pnpm to 12.9.1,2026-10-06T13:03:21Z,7,180,raisedadead,freeCodeCamp,freeCodeCamp
+e9eeeb1880508957a7b540611e01affaf2da1b05,fix(client): correct block completion check in module prompt (#70650),2026-10-06T11:28:38Z,2,182,ahmaxed,freeCodeCamp,freeCodeCamp
+7f7d186afab6ea9f7c12fe4dbe15e290c80ac15a,chore(deps): update dependency caniuse-lite to v1.0.30001813 (#70669),2026-10-06T08:39:33Z,2,567,renovate[bot],freeCodeCamp,freeCodeCamp
+d372db29551bb25003d66390b2d4963fe1207391,feat(curriculum): python fundamentals first workshop (#70590),2026-10-06T08:07:02Z,8,243,Dario-DC,freeCodeCamp,freeCodeCamp
+2d9377049c367125d265f723d905d4d2dea78723,fix(curriculum): fix grammar in Python Basics Review (#70668),2026-10-06T07:03:15Z,1,2,ferraribp,freeCodeCamp,freeCodeCamp
+c24a7d33e4917cb502212d60b4ade099f2791e24,chore: update codeowners (#70681),2026-10-06T06:51:05Z,1,6,raisedadead,freeCodeCamp,freeCodeCamp
+b3c00798ee20246b28bace6eac76a5f7d95b2ff2,fix(curriculum): add section headers to memoization lesson (#70675),2026-10-06T06:38:53Z,1,10,Sidsmartz,freeCodeCamp,freeCodeCamp
+89ee72b12712a765f910e8a13df59106401b0d90,fix(curriculum): valid answer addition in email simulator workshop (#…,2026-10-06T06:03:26Z,1,12,Rudra-RNC,freeCodeCamp,freeCodeCamp
+118530318ddb3fa90b96f8b30ba64facd112e1d7,fix(curriculum): add images to the Explorer/Finder management lesson …,2026-10-06T05:42:42Z,1,68,Rudra-RNC,freeCodeCamp,freeCodeCamp
 b7d35c3d5a0d3cab618032b8c33ae686eb43a5dd,fix(curriculum): add section headers to enumerate and zip lesson (#70…,2026-10-05T19:56:33Z,1,6,tem-ctrl,freeCodeCamp,freeCodeCamp
 d7df0fc7f9336d058db63c0806502be14af8eca9,fix(curriculum): add section headers to python tuples lesson (#70656),2026-10-05T19:55:36Z,1,8,tem-ctrl,freeCodeCamp,freeCodeCamp
 a54f62a979a1a7e2a5bad1169e0746b108dc45c5,fix(curriculum):  Update Different list-style Properties Work lecture…,2026-10-05T19:51:18Z,1,8,tracemycodes,freeCodeCamp,freeCodeCamp
@@ -927,14 +939,3 @@ f7f7667b17e95d284c18d55eddca137ac4080f1d,chore(curriculum): add semicolon to con
 13b039bb8502991a71328c8daa41376b3fa8f5ee,fix(curriculum): fix grammar and formatting in CSS Colors Review (#68…,2026-07-07T15:34:32Z,1,12,snehaaa-16,freeCodeCamp,freeCodeCamp
 00c232215daa5798e70e51cd9d53cbeec71cf387,"chore(i18n,learn): update i18n-curriculum submodule (#68590)",2026-07-07T11:31:21Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 60b5cf014e2e254225c0ae425b5161ea4620adfb,refactor: copy client i18n files to common folder (#68582),2026-07-07T07:34:47Z,9,208,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-ea003f85d4b55d0c4300fe6955cdb88624a0d4b8,fix: pet adoption grammar (#68592),2026-07-06T21:01:41Z,1,6,Akanshagore,freeCodeCamp,freeCodeCamp
-751f9a69e4a1af6e9aa1a599ec3021a4a35b2309,fix(client): remove code tags from hex codes (#68591),2026-07-06T20:52:32Z,1,4,ronits2407,freeCodeCamp,freeCodeCamp
-4b356a7d8337ab9255379360aacbd5e9785d0c09,fix(curriculum): correct grammar in src/alt attribute sentence (#68588),2026-07-06T20:51:26Z,1,2,ruhaanpathan,freeCodeCamp,freeCodeCamp
-0c8049e15037fb21bdc731b5d7f81f16381fa19f,fix(curriculum): update description and add test to check for const i…,2026-07-06T20:01:00Z,1,13,imsomilg,freeCodeCamp,freeCodeCamp
-75a106f1940716cda75d50372f2c296c1c77692a,fix(curriculum): Improve music player workshop wording for comma spli…,2026-07-06T17:33:31Z,2,4,bibashmanjusubedi,freeCodeCamp,freeCodeCamp
-42d416b6a34af4cc21575f0c59778e62f7a9f391,"fix(i18n, learn): fix incorrect placeholder placement (#68586)",2026-07-06T17:09:16Z,1,2,DanielRosa74,freeCodeCamp,freeCodeCamp
-7eb1cc652450bc810a42dfa1d0a75937d4935070,test: move mobile layout coverage to client (#68369),2026-07-06T14:40:13Z,2,198,Sembauke,freeCodeCamp,freeCodeCamp
-3ba56eb3d53391fcff29a9938a2b0354167e5f1f,fix(curriculum): introduce span element in accessible-audio-controlle…,2026-07-06T09:55:20Z,2,3,imsomilg,freeCodeCamp,freeCodeCamp
-df3a296bead323cb30e96b783149bdab8144fd7b,"fix: Fix writing errors in the ""What Role Does HTML Play on the Web?""…",2026-07-06T08:53:33Z,1,10,AlyssaSuri,freeCodeCamp,freeCodeCamp
-ea83deb95880c791d322f424a9fba2772c844364,fix(curriculum): clarify return value of renderCard in fortune teller…,2026-07-06T08:24:26Z,1,2,imsomilg,freeCodeCamp,freeCodeCamp
-5b71b1babd0e3f5ab68db4f80104a3a514b3a383,fix(curriculum): change period to comma in graphs (#68573),2026-07-06T08:00:59Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
