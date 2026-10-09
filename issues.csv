@@ -1,21 +1,34 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABVAI3Xw,70644,Add styling to `kbd` elements,CLOSED,2026-10-04T23:45:37Z,2026-10-08T20:27:48Z,Supravisor,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABV8YW-g,70779,Clarify hierarchy and navigation history in the breadcrumbs lesson,OPEN,2026-10-08T19:17:16Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABV6D6xA,70764,Inaccurate contrast ratios in UI Design Fundamentals article,OPEN,2026-10-08T16:11:53Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABQ5r-qA,70006,Build a Flashcard Quiz App - test 9,OPEN,2026-09-11T21:41:32Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABVTiGbw,70682,Movie Ticket Booking Calculator Step 3 lacks a greater-than comparison example,OPEN,2026-10-06T07:33:31Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABVyv3Ug,70750,Graphs and Trees Review: correct the vertex wording,CLOSED,2026-10-08T07:01:43Z,2026-10-08T11:35:02Z,HemeshKanyal,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABVyvxkA,70749,Object-Oriented Programming Review: validate the radius during construction and correct wording,OPEN,2026-10-08T07:01:37Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABVyvr6g,70748,Error Handling Review: correct string indexing and integer input explanations,OPEN,2026-10-08T07:01:30Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABVyvmZg,70747,Dictionaries and Sets Review: correct the set difference wording,OPEN,2026-10-08T07:01:24Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABVyvg9A,70746,Loops and Sequences Review: correct headings and range wording,OPEN,2026-10-08T07:01:17Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABVyvaNA,70745,Python Basics Review: carry over grammar corrections from the chapter review,OPEN,2026-10-08T07:01:10Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABTVPdcQ,70414,Python daily challenge 39 (Fill The Tank): description uses camelCase parameter names instead of snake_case,CLOSED,2026-09-26T07:34:43Z,2026-10-08T06:51:45Z,scottcampbelldata,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABT9yPuw,70499,[Naomi's Sprint] Add Section Headers to 400-499 Word Lessons,OPEN,2026-09-29T18:01:05Z,,TEE0207,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABVoIkvQ,70731,"Python Installation Quiz: correct answer wording, capitalization, and output formatting",CLOSED,2026-10-07T14:04:24Z,2026-10-08T06:46:36Z,Vikas,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABUV9SRg,70540,Search bar is non-functional on https://www.freecodecamp.org/learn,CLOSED,2026-10-01T09:42:17Z,2026-10-08T06:40:44Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABT2jiRA,70471,Expand and correct the Graphs and Trees review,CLOSED,2026-09-29T08:01:09Z,2026-10-08T06:31:28Z,jacobptnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABVVIhdQ,70696,Movie Ticket Booking Calculator Step 21 lacks a subtraction example,OPEN,2026-10-06T09:52:01Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABVTtNFQ,70686,Implement a Stack user stories omit required arguments and collection order,CLOSED,2026-10-06T07:49:12Z,2026-10-07T16:16:46Z,aminajao,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABVHumKQ,70659,Device Loan Ledger: Missed learning opportunity,CLOSED,2026-10-05T12:54:52Z,2026-10-07T15:05:56Z,CreedTech,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABVnc8jA,70727,Add images to Computer basics lesson blocks,CLOSED,2025-11-14T18:53:17Z,2026-10-07T15:37:31Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABT9yPuw,70499,[Naomi's Sprint] Add Section Headers to 400-499 Word Lessons,OPEN,2026-09-29T18:01:05Z,,TEE0207,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABVfbTrQ,70720,Add a test for years not divisible by 4 in the leap year calculator lab,CLOSED,2026-10-07T00:16:42Z,2026-10-07T14:55:34Z,miteshanshu,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABVTxGFQ,70687,Fix wording and punctuation in Debug an ISBN Validator,CLOSED,2026-10-06T07:54:49Z,2026-10-07T14:41:59Z,hridhinvarkeyjoseph,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABVneFGQ,70728,Create 3 new illustrations for color theory concepts,OPEN,2025-11-17T22:57:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABL7sXBQ,69421,"Trivia Bot lab hints hard-code console.log call indices, breaking valid solutions with extra logging",OPEN,2026-08-08T03:58:27Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABVoIkvQ,70731,"Python Installation Quiz: correct answer wording, capitalization, and output formatting",OPEN,2026-10-07T14:04:24Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABVjmHVw,70724,Clarify non-overlapping counts in the Employee Profile Validator workshop,OPEN,2026-10-07T08:05:03Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABVjihlQ,70723,Python Installation Review: correct code fence languages and missing Oxford commas,OPEN,2026-10-07T08:00:16Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABVRW_gw,70679,Kitchen inventory workshop presents some previously taught concepts as new,CLOSED,2026-10-06T03:27:49Z,2026-10-07T07:29:41Z,CreedTech,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABUc3lqg,70552,Salary Tracker - Step 39: Socrates giving wrong hints,OPEN,2026-10-01T18:50:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABVT1I7w,70689,PIN Extractor Step 1 has a comma splice and unclear function-body wording,CLOSED,2026-10-06T08:00:39Z,2026-10-06T17:38:44Z,materoo,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABTVPdcQ,70414,Python daily challenge 39 (Fill The Tank): description uses camelCase parameter names instead of snake_case,OPEN,2026-09-26T07:34:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABVTiOSw,70683,Movie Ticket Booking Calculator Step 4 lacks a greater-than-or-equal explanation,CLOSED,2026-10-06T07:33:41Z,2026-10-06T17:00:24Z,aminajao;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87g1bTz,64939,Campers are unable to claim certifications despite meeting qualifications,CLOSED,2025-12-31T06:29:03Z,2026-01-06T12:42:44Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87P6-rG,62555,Make curriculum subject headings anchor linkable for direct sharing,OPEN,2025-10-06T17:34:23Z,,,freeCodeCamp,freeCodeCamp
@@ -29,9 +42,7 @@ I_kwDOAbI7X88AAAABTVvTnA,70415,Step 12 Build a space mission roster is passing c
 I_kwDOAbI7X85nfOB9,50581,Analytics for /email-sign-up,OPEN,2023-06-01T12:37:44Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABPaK1Ww,69847,'Continue Learning' Button Bug,OPEN,2026-09-02T20:46:05Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABVTtJHg,70685,"Python Basics Review: cover missing print, type-checking, and string concepts",OPEN,2026-10-06T07:49:07Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABVTiGbw,70682,Movie Ticket Booking Calculator Step 3 lacks a greater-than comparison example,OPEN,2026-10-06T07:33:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABTC7CQw,70358,A valid answer is not accepted,CLOSED,2026-09-24T18:56:26Z,2026-10-06T06:03:28Z,Rudra-RNC,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABVAI3Xw,70644,Add styling to `kbd` elements,OPEN,2026-10-04T23:45:37Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRvD13g,70114,Add images to the Explorer/Finder file management lesson,CLOSED,2026-09-17T08:53:44Z,2026-10-06T05:42:45Z,Rudra-RNC,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABVORHSw,70673,"Issue with answers on lesson ""What is Progressive Disclosure?""",CLOSED,2026-10-05T21:33:36Z,2026-10-05T21:42:16Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABU5XK5A,70617,Python seed comments bypass dictionary validation and translation,OPEN,2026-10-04T07:43:06Z,,,freeCodeCamp,freeCodeCamp
@@ -77,7 +88,6 @@ I_kwDOAbI7X88AAAABT2Vp0Q,70468,Caesar Cipher Step 25 uses an incorrect possessiv
 I_kwDOAbI7X88AAAABT2cITg,70470,Business Card tests require unstated CSS selectors,CLOSED,2026-09-29T07:51:10Z,2026-10-02T09:31:01Z,aminajao,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMsWUKQ,69534,Use of `const` vs `let` vs `var` in the Binary Search Workshop,CLOSED,2026-08-13T23:44:20Z,2026-10-02T09:20:47Z,tem-ctrl,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABUJyiOQ,70522,Base Check challenge has description and Python solution issues,CLOSED,2026-09-30T13:41:43Z,2026-10-02T09:15:40Z,aminajao,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABUV9SRg,70540,Search bar is non-functional on https://www.freecodecamp.org/learn,OPEN,2026-10-01T09:42:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABTSrK6w,70412,fix(a11y): Python terminal: screen reader output only contains the last print statement,CLOSED,2026-09-25T23:26:01Z,2026-10-01T20:07:12Z,bassem-krayem,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABT5U86w,70481,"Outdated SSL protocol statement in ""What Is HTTPS and Why Is It Important?"" lesson",CLOSED,2026-09-29T11:58:08Z,2026-10-01T19:47:01Z,Lorevdh,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABTK3lEA,70390,Ambiguous phrasing in Node `fs` module second quiz question,CLOSED,2026-09-25T10:16:04Z,2026-10-01T16:10:58Z,awss1i,freeCodeCamp,freeCodeCamp
@@ -97,7 +107,6 @@ I_kwDOAbI7X88AAAABT8y0KA,70497,fix(a11y): Quiz score is not announced to screen 
 I_kwDOAbI7X87aPEw0,64119,Workshop – Guild Loot Tracker,CLOSED,2025-11-25T03:44:25Z,2026-09-30T06:48:58Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPEQC,64114,Workshop – Sensor Burst Analyzer,CLOSED,2025-11-25T03:42:53Z,2026-09-30T06:47:13Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABT_5v2g,70503,Mismatch between challengeType and seed lanuage,CLOSED,2026-09-29T21:05:18Z,2026-09-29T21:09:51Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABT2jiRA,70471,Expand and correct the Graphs and Trees review,OPEN,2026-09-29T08:01:09Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABT6RY1Q,70484,Obsolete JavaScript media type in Back-End Development and APIs review,CLOSED,2026-09-29T13:13:14Z,2026-09-29T18:35:53Z,prashant1177,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABT6RKTw,70483,Obsolete JavaScript media type in HTTP and Web Standards review,CLOSED,2026-09-29T13:12:57Z,2026-09-29T18:16:32Z,Amanthisside,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABT6XCCQ,70485,Correct technical and formatting issues in the Command Line and Bash lessons,CLOSED,2026-09-29T13:20:13Z,2026-09-29T15:23:28Z,aminajao,freeCodeCamp,freeCodeCamp
@@ -201,7 +210,7 @@ I_kwDOAbI7X88AAAABRvROEg,70120,Clarify the semantic HTML lecture intros,CLOSED,2
 I_kwDOAbI7X88AAAABRvRRqw,70121,Correct the closing phrase in the CSS intro,CLOSED,2026-09-17T09:15:45Z,2026-09-18T11:56:03Z,Ankush-Garg887,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRjL6Vw,70084,Employee Profile Generator Step 10: add missing introductory comma,CLOSED,2026-09-16T09:30:55Z,2026-09-18T11:50:15Z,ssprasad-23,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQyR6bQ,69971,Add Section Headers to Lecture: What Is Normalization in SQL?,CLOSED,2026-09-11T07:05:35Z,2026-09-17T19:19:59Z,Webmekanic,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABQySC5g,69974,"Add Section Headers to Lecture: What Is a .gitignore File, and What Are Some Items That Should Be Included Inside It?",CLOSED,2026-09-11T07:05:49Z,2026-09-17T19:13:22Z,Webmekanic,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABQySC5g,69974,"Add Section Headers to Lecture: What Is a .gitignore File, and What Are Some Items That Should Be Included Inside It?",CLOSED,2026-09-11T07:05:49Z,2026-09-17T19:13:22Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRnWLiw,70099,"Add Section Headers to Lecture: What Are Truthy and Falsy Values, and How Do Boolean Operators and Short-Circuiting Work?",CLOSED,2026-09-16T16:18:03Z,2026-09-17T15:33:07Z,tem-ctrl,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRvRYhA,70123,Hyphenate single-page in the JavaScript libraries and frameworks intro,CLOSED,2026-09-17T09:15:56Z,2026-09-17T15:16:48Z,tan-nguyen-git,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQyR04g,69969,Add Section Headers to Lecture: What Is an Algorithm and How Does Big O Notation Work?,CLOSED,2026-09-11T07:05:26Z,2026-09-17T15:08:45Z,tracemycodes,freeCodeCamp,freeCodeCamp
@@ -249,7 +258,6 @@ I_kwDOAbI7X88AAAABRGXO-A,70031,Can't pass the 'Build JWT Protected Routes - Less
 I_kwDOAbI7X88AAAABQzC1uQ,69988,issues in Step 38 of Build a Shape Manager,CLOSED,2026-09-11T08:40:20Z,2026-09-14T09:56:01Z,Sidsmartz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQyHPuA,69959,Replace regex-based test cases in Build a Range of Numbers Generator Lab,CLOSED,2026-09-11T06:43:58Z,2026-09-14T09:32:01Z,eva-lng,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRBjA9A,70025,Screen reader focus issue when editing HTML closing tags in the editor,OPEN,2026-09-13T02:14:19Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABQ5r-qA,70006,Build a Flashcard Quiz App - test 9,OPEN,2026-09-11T21:41:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQ8gLKA,70013,"Add missing ""with"" in sentence",CLOSED,2026-09-12T08:14:20Z,2026-09-12T10:46:07Z,rasadregmi,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQFztww,69918,Tree Traversal: Building a Binary Search Tree - Step 30,CLOSED,2026-09-07T12:39:42Z,2026-09-12T09:01:01Z,Rishiii57,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnC3vA,69288,Add Section Headers to Lecture: What Are Some Common ARIA States Used on Custom Control Elements?,CLOSED,2026-08-05T18:42:05Z,2026-09-12T08:56:01Z,Webmekanic,freeCodeCamp,freeCodeCamp
@@ -730,6 +738,3 @@ I_kwDOAbI7X88AAAABEqRzzA,67843,PyQGIS for GIS automation and DEM mapping,CLOSED,
 I_kwDOAbI7X88AAAABHnmRog,68532,Possible SQL syntax highlighting inconsistency for `TIMESTAMP WITH TIME ZONE`,CLOSED,2026-07-03T20:53:31Z,2026-07-09T06:58:47Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABH3Vskg,68593,[bug] double exam attempt error throws,CLOSED,2026-07-06T20:13:38Z,2026-07-09T06:54:35Z,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHMP86w,68404,Remove the ask for help button that generates a forum post,CLOSED,2026-06-30T14:16:11Z,2026-07-09T05:18:12Z,moT01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABH3c_Vg,68600,"Writing errors in the ""what is UTF-8 character encoding"" lecture",CLOSED,2026-07-06T20:30:12Z,2026-07-08T18:35:38Z,pmanthan009,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHdw9SQ,68479,Curly apostrophes and redundant SEO wording in the Single Page Applications lecture,CLOSED,2026-07-02T15:35:26Z,2026-07-08T11:27:03Z,imsomilg,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIBgDLw,68616,Add white space to whitespace,CLOSED,2026-07-08T01:01:59Z,2026-07-08T05:46:31Z,,freeCodeCamp,freeCodeCamp
