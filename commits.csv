@@ -1,4 +1,26 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+3b8834ea83e802349fdcadc4bb143d6a60f10c06,"chore(i18n,learn): update i18n-curriculum submodule (#70783)",2026-10-09T00:17:52Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+9db8846209586bf58c49a63297603d244d647694,feat(curriculum): add new front end superblock (#70782),2026-10-08T21:24:45Z,22,2095,moT01,freeCodeCamp,freeCodeCamp
+cba01a5fbd14c81063f960fe4ab0ea46b8eef9c0,chore(deps): update dependency @playwright/test to v1.63.0 (#70778),2026-10-08T20:29:41Z,2,44,renovate[bot],freeCodeCamp,freeCodeCamp
+3fda150952ecacbe8181478ef001e076a77e128c,feat(ally): style kbd element (#70781),2026-10-08T20:27:46Z,1,9,Supravisor,freeCodeCamp,freeCodeCamp
+9ed2bf2cd9c341f9b601c51a3d83807fa51a5de5,"chore(i18n,learn): update i18n-curriculum submodule (#70765)",2026-10-08T17:49:47Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+6c5aaa6b021fe7408cd2ab60366cb4f3db002085,fix(deps): update joi (#70770),2026-10-08T17:32:48Z,5,41,renovate[bot],freeCodeCamp,freeCodeCamp
+87e041f975a327df79b7f8e5fd8fdda9b003aeef,test: simplify challenge builder test (#70763),2026-10-08T16:46:51Z,2,51,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+c44340c992c1c6c26bbb9b94791dfe3199448360,fix(challenge-parser): validate HTML content,2026-10-08T15:04:54Z,14,409,huyenltnguyen,freeCodeCamp,freeCodeCamp
+75082acf2c2deb6f8ff3760fc086697421e99567,fix(deps): update dependency micromark to v4.0.3 (#70698),2026-10-08T14:48:49Z,2,39,renovate[bot],freeCodeCamp,freeCodeCamp
+5db8a62c07aafbdabd7ee652123ea0ca204a286b,fix(deps): update dependency nanoid to v3.3.19 (#70694),2026-10-08T14:39:17Z,2,6,renovate[bot],freeCodeCamp,freeCodeCamp
+b1e4e8d4ee657dd6820662ff7a43525097845fff,chore(deps): pin dependencies (#70693),2026-10-08T13:16:30Z,10,425,renovate[bot],freeCodeCamp,freeCodeCamp
+6b63d9735ce2c9682de6ba811fe5f799adc08283,chore(renovate): streamline config and pin deps (#70711),2026-10-08T12:20:40Z,1,30,raisedadead,freeCodeCamp,freeCodeCamp
+fc8304c5f27ef3a492612dbbfe0fe4d91ec1ce7c,fix(curriculum): correct vertex wording in graphs and trees review (#…,2026-10-08T11:35:00Z,1,2,HemeshKanyal,freeCodeCamp,freeCodeCamp
+0100e04bb6cce579ce958a1a8274ba8565dd7e6d,chore(deps): update dependency caniuse-lite to v1.0.30001814 (#70752),2026-10-08T11:11:29Z,2,16,renovate[bot],freeCodeCamp,freeCodeCamp
+9583f419ebaa486dd9eadf7acdaf54bfb93beed0,chore(deps): require pnpm 12 in engines (#70713),2026-10-08T10:18:10Z,11,22,raisedadead,freeCodeCamp,freeCodeCamp
+8890fadcf640652b8e52a5e043fb5f266af6ebcc,fix(curriculum): add section headers to security and privacy implicat…,2026-10-08T07:36:44Z,1,10,lennin331,freeCodeCamp,freeCodeCamp
+ef0cbaf624f9d941155821dc629c8199c1802f55,fix(deps): update dependency sanitize-html to v2.17.7 (#70702),2026-10-08T07:23:43Z,2,111,renovate[bot],freeCodeCamp,freeCodeCamp
+e03135478ac9d34cc83be8024248a9c39e31e9bd,fix(curriculum): make fill the tank description language neutral (#70…,2026-10-08T06:51:42Z,2,12,scottcampbelldata,freeCodeCamp,freeCodeCamp
+88b59f755db80929fc9e9c37f47c37a369c00c14,fix(curriculum): update Python installation quiz wording (#70737),2026-10-08T06:46:34Z,1,14,vikash2006-dot,freeCodeCamp,freeCodeCamp
+d9c189bcd61abdf120edc46fa9dc6a00a5dea504,fix(curriculum): update what is unit testing section lecture headers …,2026-10-08T06:46:10Z,1,12,tracemycodes,freeCodeCamp,freeCodeCamp
+5c99af634d66c9a70c0bb96c03b547acf79ec241,fix(deps): pin jsdom and re-resolve lockfile (#70710),2026-10-08T06:45:18Z,3,3145,raisedadead,freeCodeCamp,freeCodeCamp
+9cf04c30b57eea0c0409194fc3e2870c78fd0faf,fix(curriculum): expand and correct the graphs and trees review (#70642),2026-10-08T06:31:26Z,1,151,jacobptnguyen,freeCodeCamp,freeCodeCamp
 34b1acdeea5443824e818d6b6b6d8a4c7a5fcad0,fix(curriculum): clarify stack lab user stories (#70688),2026-10-07T16:16:44Z,1,12,aminajao,freeCodeCamp,freeCodeCamp
 974dda8872a01989f35ff89666e040bdff2a980d,fix(curriculum): update software development life cycle section heade…,2026-10-07T15:17:09Z,1,14,tracemycodes,freeCodeCamp,freeCodeCamp
 69561d30c096b0154c3ea861f5ccabf5f76c3ae5,fix(curriculum): require ledger serialization helpers (#70717),2026-10-07T15:04:53Z,1,24,CreedTech,freeCodeCamp,freeCodeCamp
@@ -936,8 +958,3 @@ faf4470309500f050a34209ca4fc960e5e6fbc19,fix(curriculum): clarify only one h1 in
 581690fc7116f724924095b01c1da9ff92394123,fix(curriculum): change second person to third person (#68631),2026-07-09T08:47:39Z,1,2,PuddleOfFat,freeCodeCamp,freeCodeCamp
 7a61e17341d564985008b8a42d5829604a24e8a1,fix(curriculum): audit editable regions in workshop flappy penguin (#…,2026-07-09T07:34:36Z,104,672,imsomilg,freeCodeCamp,freeCodeCamp
 710c7a210716d6f379742f48879efe3c5829117f,fix(api): do not throw on second exam error (#68594),2026-07-09T06:54:34Z,2,66,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-e8601a3c02fbde5f2feb01ae9ac3bbcf62c08384,fix(client): use curriculum-help category for forum posts (#68629),2026-07-09T05:18:10Z,12,284,moT01,freeCodeCamp,freeCodeCamp
-e60980b232eefd2a779a3b675b980809ab7556cd,fix(curriculum): reword UTF-8 lecture (#68628),2026-07-08T18:35:35Z,1,4,pmanthan009,freeCodeCamp,freeCodeCamp
-c1ab46e3273cd8d468d69fc693716cf77f633e57,fix(client): split socrates and button analytics events (#68610),2026-07-08T12:13:22Z,5,98,ahmaxed,freeCodeCamp,freeCodeCamp
-aa0bc07758add3abb2938f7e797531894b1b2067,fix(curriculum): replace curly apostrophe and remove redundancy (#68619),2026-07-08T11:27:00Z,1,4,imsomilg,freeCodeCamp,freeCodeCamp
-f7f7667b17e95d284c18d55eddca137ac4080f1d,chore(curriculum): add semicolon to console logs (#68615),2026-07-08T06:13:59Z,16,104,Supravisor,freeCodeCamp,freeCodeCamp
