@@ -1,4 +1,5 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+53e5a586f262d62a66a8d878f41294b2dfc8f3dd,fix(deps): pin dependencies (#70824),2026-10-11T03:23:38Z,15,88,renovate[bot],freeCodeCamp,freeCodeCamp
 b592f3fc30d7e7a7acc91ed23d485f13e95c1172,fix(curriculum): add section headers to how-do-you-update-objects-in-…,2026-10-09T19:38:22Z,1,10,aliyasyeddd,freeCodeCamp,freeCodeCamp
 e13694a7965627e41bac42f6b3938517bd49fb2b,fix(curriculum): accept equivalent step 9 type checks (#70802),2026-10-09T19:18:17Z,1,10,rudraasakariya,freeCodeCamp,freeCodeCamp
 c44005404069e3d1d5f55790093b000c81231d79,fix(curriculum): correct loops review headings (#70798),2026-10-09T17:47:56Z,1,8,rudraasakariya,freeCodeCamp,freeCodeCamp
@@ -956,14 +957,3 @@ acd7f28b3ab5b4478d2349829cc94a431b9ad5fd,chore(curriculum): audit editable regio
 281d612f8536f8cd9bbc95c7215837bbe4885cff,fix(curriculum): remove dead conditional in regex sandbox lab (#68734),2026-07-11T18:34:48Z,1,12,Dazzanova,freeCodeCamp,freeCodeCamp
 d03eab81d62fd6f6dd142b9af4b41dc6bedbc37d,fix(curriculum): audit editable regions in colorful boxes workshop (#…,2026-07-11T18:30:29Z,43,2798,imsomilg,freeCodeCamp,freeCodeCamp
 31075bac011aabed5c6fef0c4b27246984c0f2e9,fix(curriculum): fix formatting issues in fortune teller workshop (#6…,2026-07-11T14:35:33Z,40,173,imsomilg,freeCodeCamp,freeCodeCamp
-1e192373bb7092a1732b01aceab38d98a3a99131,fix(curriculum): correct ordinal in Step 9 hints (#68683),2026-07-10T20:36:50Z,1,4,rarestpreet,freeCodeCamp,freeCodeCamp
-c6fb7653ed6de90fdb3793e1015b066ece984fb8,fix(client): use findBy query in profile dialog test (#68679),2026-07-10T20:09:23Z,1,2,vijaykiran06,freeCodeCamp,freeCodeCamp
-ff36c23bf364b114dc12626c298d26861e86ff66,fix(curriculum): correct grammar and formatting in HTML audio lecture…,2026-07-10T16:16:04Z,1,6,Vader069,freeCodeCamp,freeCodeCamp
-4409938d7b611376a30c07f4b1e1592c3c2c4732, fix(curriculum): replace mixed tab/space indentation in greeting car…,2026-07-10T16:14:20Z,25,74,SanthoshBalagur,freeCodeCamp,freeCodeCamp
-58cd83fe1b2bd5d72d9f840c89ec2d4a8d5a8a5e,fix(curriculum): editable regions in workshop merge sort js (#68509),2026-07-10T14:45:43Z,18,69,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-95913e14308951c7b8ee113bf4a55c488567ef0e,test: move certification rendering to client (#68036),2026-07-10T14:12:45Z,7,964,Sembauke,freeCodeCamp,freeCodeCamp
-1059767f7e0b6648bd2851e6cfc86446fc3d6112,fix: disable Sentry source-map upload/finalize,2026-07-10T11:46:27Z,3,87,raisedadead,freeCodeCamp,freeCodeCamp
-cd94fbf5b90cf282fd68788380fe500022ffad76,feat: move logs to sentry,2026-07-10T11:46:27Z,77,8131,raisedadead,freeCodeCamp,freeCodeCamp
-1f1f8a296c35f8e543d98be0a96af44a39e46e00,fix(client): include workshop/block title in Get a Hint search query …,2026-07-10T07:04:35Z,5,59,Otto-Deviant1904,freeCodeCamp,freeCodeCamp
-22d670a204bc88c102c3eb6d6ae48e345782e2a7,fix(curriculum): correct writing in link element lecture (#68667),2026-07-10T06:40:26Z,1,10,vijaykiran06,freeCodeCamp,freeCodeCamp
-d1841a3b40f2363ceb71dea057d21a5f3356b0f9,fix(curriculum): verify head is nested inside html in bookstore-page …,2026-07-10T06:34:43Z,1,2,Otto-Deviant1904,freeCodeCamp,freeCodeCamp
