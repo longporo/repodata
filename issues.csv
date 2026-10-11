@@ -1,14 +1,15 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABWYbThA,70825,[Learn RAG and MCP Fundamentals] Provide Links to Labs Mentioned in Course Videos,OPEN,2026-10-11T01:32:11Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABV6D6xA,70764,Inaccurate contrast ratios in UI Design Fundamentals article,OPEN,2026-10-08T16:11:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABWKdBwQ,70801,Medical Data Validator seed code changes without corresponding instructions,OPEN,2026-10-09T17:47:26Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABT9yPuw,70499,[Naomi's Sprint] Add Section Headers to 400-499 Word Lessons,OPEN,2026-09-29T18:01:05Z,,TEE0207,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABWKaheQ,70800,Medical Data Validator Step 9 rejects an equivalent type check,CLOSED,2026-10-09T17:44:08Z,2026-10-09T19:18:19Z,rudraasakariya,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABVyvg9A,70746,Loops and Sequences Review: correct headings and range wording,CLOSED,2026-10-08T07:01:17Z,2026-10-09T17:47:59Z,rudraasakariya,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABWKacUA,70799,Medical Data Validator Step 3 accepts a float where an integer is required,OPEN,2026-10-09T17:44:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABSz5eag,70332,Implement a Queue - Unmentioned/Circular Dependencies Between Tests,CLOSED,2026-09-23T17:54:32Z,2026-10-09T10:53:19Z,xiao115255,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABT9yPuw,70499,[Naomi's Sprint] Add Section Headers to 400-499 Word Lessons,OPEN,2026-09-29T18:01:05Z,,TEE0207,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIYmk2w,68717,Replace regex-based test cases in Shape Manager Workshop,CLOSED,2026-07-10T18:25:09Z,2026-10-09T10:37:23Z,jacobptnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABVyvr6g,70748,Error Handling Review: correct string indexing and integer input explanations,CLOSED,2026-10-08T07:01:30Z,2026-10-09T10:19:49Z,shubhamrai9122-creator,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABV6D6xA,70764,Inaccurate contrast ratios in UI Design Fundamentals article,OPEN,2026-10-08T16:11:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABV8YW-g,70779,Clarify hierarchy and navigation history in the breadcrumbs lesson,CLOSED,2026-10-08T19:17:16Z,2026-10-09T09:40:59Z,scottcampbelldata,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABVAI3Xw,70644,Add styling to `kbd` elements,CLOSED,2026-10-04T23:45:37Z,2026-10-08T20:27:48Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQ5r-qA,70006,Build a Flashcard Quiz App - test 9,OPEN,2026-09-11T21:41:32Z,,,freeCodeCamp,freeCodeCamp
@@ -719,12 +720,3 @@ I_kwDOAbI7X88AAAABIYmNWg,68687,Replace regex-based test cases in Inventory Manag
 I_kwDOAbI7X88AAAABIcCkwA,68732,Dead conditional branch in the Build a RegEx Sandbox lab reference solution,CLOSED,2026-07-11T07:52:32Z,2026-07-11T18:34:50Z,Dazzanova,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDt5bvw,67667,Add unit test coverage for getContentConfig() and getLanguageConfig() in file-handler.ts,CLOSED,2026-05-28T23:06:10Z,2026-07-11T14:07:32Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABHOM2Iw,68416,Breadth-First Search Step 1 does not accept arrow function syntax,CLOSED,2026-06-30T18:55:30Z,2026-07-11T06:13:57Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIZ7ORg,68728,"Typo in ""Exoplanet Search"" challenge description: ""a exoplanet"" should be ""an exoplanet""",CLOSED,2026-07-10T22:16:54Z,2026-07-11T00:14:48Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIUqPsQ,68671,Fix incorrect ordinal in Step 9 hints of the Build an HTML Music Player workshop,CLOSED,2026-07-10T08:47:29Z,2026-07-10T20:36:52Z,rarestpreet,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIXj3rQ,68677,Flaky test in profile.test.tsx,CLOSED,2026-07-10T15:51:04Z,2026-07-10T20:09:24Z,vijaykiran06,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIUm5Ag,68670,Fix grammar and note formatting in the HTML audio and video elements lecture,CLOSED,2026-07-10T08:39:06Z,2026-07-10T16:16:07Z,Vader069,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIDIExw,68617,Mixed tab/space indentation in Greeting Card workshop seed,CLOSED,2026-07-08T06:56:32Z,2026-07-10T16:14:22Z,SanthoshBalagur,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABHu9qMw,68567,Failed to set up chrome-headless-shell during `pnpm install` in WSL,CLOSED,2026-07-05T18:32:24Z,2026-07-10T11:25:09Z,AyushK5ingh;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X877Epz6,66832,Get a Hint - page redirection from Workshop,CLOSED,2026-04-06T14:52:29Z,2026-07-10T07:04:37Z,Otto-Deviant1904,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABH3c7PQ,68598,"Writing and formatting errors in the ""role of the link element"" lecture",CLOSED,2026-07-06T20:30:05Z,2026-07-10T06:40:28Z,vijaykiran06,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIMQrYA,68642,Step 1 hint assertion does not verify head is nested inside html in the Bookstore Page workshop,CLOSED,2026-07-09T08:43:43Z,2026-07-10T06:34:45Z,Otto-Deviant1904,freeCodeCamp,freeCodeCamp
