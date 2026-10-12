@@ -1,4 +1,5 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+ae48da123851012290b2e2ab4af187fa7236ef3e,chore(github): rename none team in codeowners (#70839),2026-10-11T15:23:46Z,1,6,raisedadead,freeCodeCamp,freeCodeCamp
 53e5a586f262d62a66a8d878f41294b2dfc8f3dd,fix(deps): pin dependencies (#70824),2026-10-11T03:23:38Z,15,88,renovate[bot],freeCodeCamp,freeCodeCamp
 b592f3fc30d7e7a7acc91ed23d485f13e95c1172,fix(curriculum): add section headers to how-do-you-update-objects-in-…,2026-10-09T19:38:22Z,1,10,aliyasyeddd,freeCodeCamp,freeCodeCamp
 e13694a7965627e41bac42f6b3938517bd49fb2b,fix(curriculum): accept equivalent step 9 type checks (#70802),2026-10-09T19:18:17Z,1,10,rudraasakariya,freeCodeCamp,freeCodeCamp
@@ -952,8 +953,3 @@ ea906fb81537fb30ab711512a89f4db5f48550a0,fix(curriculum): add missing periods to
 8b687701ade1cb00258b6b59e0ed40144c6508e2,fix(curriculum): audit editable regions for workshop-fcc-authors-page…,2026-07-12T12:30:04Z,27,470,bdtripp,freeCodeCamp,freeCodeCamp
 b782a4d9f6dfe4c59bd2e266b034374dae9c2c73,fix(client): update graduate count in funding manifest (#68730),2026-07-12T12:24:18Z,1,2,Sushanth012,freeCodeCamp,freeCodeCamp
 3f2d2167e5f7dc647eccac8123b5b5d000dc62ea,fix(curriculum): correct punctuation in HTML boilerplate lecture (#68…,2026-07-12T10:20:39Z,1,2,thetalhamubarak,freeCodeCamp,freeCodeCamp
-29fafcab9c140d19dccea41b75fe431d50e3b4e1,fix(curriculum): use Explorer helper in inventory lab test (#68729),2026-07-11T18:50:40Z,1,5,neetcodeprogress-lang,freeCodeCamp,freeCodeCamp
-acd7f28b3ab5b4478d2349829cc94a431b9ad5fd,chore(curriculum): audit editable regions for workshop-festival-crowd…,2026-07-11T18:44:23Z,25,52,bdtripp,freeCodeCamp,freeCodeCamp
-281d612f8536f8cd9bbc95c7215837bbe4885cff,fix(curriculum): remove dead conditional in regex sandbox lab (#68734),2026-07-11T18:34:48Z,1,12,Dazzanova,freeCodeCamp,freeCodeCamp
-d03eab81d62fd6f6dd142b9af4b41dc6bedbc37d,fix(curriculum): audit editable regions in colorful boxes workshop (#…,2026-07-11T18:30:29Z,43,2798,imsomilg,freeCodeCamp,freeCodeCamp
-31075bac011aabed5c6fef0c4b27246984c0f2e9,fix(curriculum): fix formatting issues in fortune teller workshop (#6…,2026-07-11T14:35:33Z,40,173,imsomilg,freeCodeCamp,freeCodeCamp
