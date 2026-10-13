@@ -1,4 +1,29 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+2579fc8416d69b0bbbf7972ec84c2dc46dc6a63a,docs(curriculum): link RAG and MCP labs (#70854),2026-10-13T03:55:31Z,1,2,KeuqS,freeCodeCamp,freeCodeCamp
+b6226b76f9f589d4eb1edba3ca123ee0c27fc2ad,fix(curriculum): correct queue lab hints (#70853),2026-10-13T03:12:31Z,1,16,asxxb,freeCodeCamp,freeCodeCamp
+1b886382fa2a2af6709f4c9911aa950c030b5333,fix(curriculum): clarify non-overlapping counts in Employee Profile V…,2026-10-13T02:41:02Z,1,2,Stackforge-07,freeCodeCamp,freeCodeCamp
+a8e0994a759484fe3cf65f77f73b608cd51697de,fix(curriculum): update reference values using refs section headers (…,2026-10-13T02:38:33Z,1,8,tracemycodes,freeCodeCamp,freeCodeCamp
+c52990cabe4df620118a4a0257e562c441e1d5ed,fix(curriculum): type safe math toolkit workshop typo (#70855),2026-10-13T02:36:09Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+bc38e5738aa236ea9d4a2522c3fc88e9e4a63185,fix: Build a new workshop for debugging using throw/try/catch/finally…,2026-10-13T01:12:38Z,14,1385,dhhhhruv,freeCodeCamp,freeCodeCamp
+7d1a8c2c4771987af6e448e9aa1730c2b5cb925f,fix(curriculum): reject boolean shift in caesar (#70754),2026-10-13T00:48:58Z,9,232,aminajao,freeCodeCamp,freeCodeCamp
+d3d995c95112bb2d92074a5c8f66ad82de790d90,fix(client): allow trending links in footer determine their text dire…,2026-10-13T00:10:50Z,3,152,huyenltnguyen,freeCodeCamp,freeCodeCamp
+515768151b685d6cf2044177a8c4d5e56315e6d8,fix(curriculum): add section headers to explanation of terminals (#70…,2026-10-12T23:57:26Z,1,12,meemeealm,freeCodeCamp,freeCodeCamp
+cd5804eff8deef900b3e2453989ea316bd80afaa,fix(curriculum): correct grammar in python basics review (#70822),2026-10-12T23:19:27Z,1,6,NicMota,freeCodeCamp,freeCodeCamp
+508987c79d996cacc5b990789a569e190f709b36,fix(curriculum): add section headers to common security threats lectu…,2026-10-12T22:44:07Z,1,12,TEE0207,freeCodeCamp,freeCodeCamp
+8168d491c1c4294d4a6de10ccbb039dca9e27323,fix(curriculum): correct set difference wording in dictionaries and s…,2026-10-12T22:40:44Z,1,2,judit-escofet,freeCodeCamp,freeCodeCamp
+51c2bf68b76e22659a676050f78d53d9fc3839b9,fix(curriculum): correct code fence languages and Oxford commas in Py…,2026-10-12T22:39:48Z,1,10,TTNAN,freeCodeCamp,freeCodeCamp
+e22b46eb37a2200adb9914656683323d91f9ba53,fix(curriculum): validate radius in constructor and fix wording in OO…,2026-10-12T22:38:27Z,1,6,Nikhithaasreeya52,freeCodeCamp,freeCodeCamp
+d8aa1a3decacbe0563f2c31880d853cc04b56735,fix(curriculum): add section headers to typescript objects and arrays…,2026-10-12T22:37:16Z,1,12,Sidsmartz,freeCodeCamp,freeCodeCamp
+df3fc2d6421349527dc9e074ecd936e9e3cc9acf,fix(curriculum): add section headers to key performance concepts less…,2026-10-12T22:32:42Z,1,6,Sidsmartz,freeCodeCamp,freeCodeCamp
+b5b5884df9f9b0f173107ff843218df8d6c38abe,fix(curriculum): correct UI contrast ratios and explanations (#70818),2026-10-12T22:22:58Z,1,28,vikash2006-dot,freeCodeCamp,freeCodeCamp
+698828ae57bff9bb07079e26e5cfb33a050bccd5,fix(curriculum): add section headers to performance tools lesson (#70…,2026-10-12T20:30:16Z,1,12,tem-ctrl,freeCodeCamp,freeCodeCamp
+8006cad4e5ce1fcaec1c26015716bcd4e9bdb604,fix(curriculum): add section headers to single page applications less…,2026-10-12T20:26:21Z,1,6,tem-ctrl,freeCodeCamp,freeCodeCamp
+e2f8d9bd10270d0c43f0d1b505e854c9ffcabfb6,fix(curriculum): add section headers to compatibility testing lesson …,2026-10-12T20:22:25Z,1,6,tem-ctrl,freeCodeCamp,freeCodeCamp
+cb2e09deda5d238ed50e5bb0ac826a68a78b5bc3,fix(curriculum): add section headers to WebSockets in Node.js lecture…,2026-10-12T20:08:38Z,1,14,TEE0207,freeCodeCamp,freeCodeCamp
+88bf9cef2c0d966e635d062235d5affa3a3ab1ca,fix(curriculum): require integer age in medical validator step 3 (#70…,2026-10-12T18:28:20Z,1,2,knownshah,freeCodeCamp,freeCodeCamp
+39aba6976ca47cfc43b16b0c555c2120e3b415df,fix(curriculum): show `>` before the movie ticket booking calculator …,2026-10-12T17:36:18Z,1,15,qwist1233-cpu,freeCodeCamp,freeCodeCamp
+529579ae9291dac00135ad2e72329c99ab957218,fix(curriculum): sync JavaScript chapter review (#70743),2026-10-12T17:21:51Z,1,3439,majestic-owl448,freeCodeCamp,freeCodeCamp
+a5ad4e487e003edc6a164f251e577ce2349679ac,chore(deps): update eslint (#70833),2026-10-12T06:04:25Z,2,184,renovate[bot],freeCodeCamp,freeCodeCamp
 ae48da123851012290b2e2ab4af187fa7236ef3e,chore(github): rename none team in codeowners (#70839),2026-10-11T15:23:46Z,1,6,raisedadead,freeCodeCamp,freeCodeCamp
 53e5a586f262d62a66a8d878f41294b2dfc8f3dd,fix(deps): pin dependencies (#70824),2026-10-11T03:23:38Z,15,88,renovate[bot],freeCodeCamp,freeCodeCamp
 b592f3fc30d7e7a7acc91ed23d485f13e95c1172,fix(curriculum): add section headers to how-do-you-update-objects-in-…,2026-10-09T19:38:22Z,1,10,aliyasyeddd,freeCodeCamp,freeCodeCamp
@@ -948,8 +973,3 @@ a6a8752fe25202de4c07c67da4ad805e37056b02,feat: add freecodecamp-os challenge typ
 97e0519cdc304dedb1b2ee34ee3fa759868b713a,fix(curriculum): add missing tested requirements to travel agency lab…,2026-07-13T08:14:09Z,1,4,TemRevil,freeCodeCamp,freeCodeCamp
 e00822e71f978ce192ff2b60e5d0b809fb053239,fix(curriculum): replace regex test with Explorer AST helper in count…,2026-07-13T07:52:11Z,1,4,SanthoshBalagur,freeCodeCamp,freeCodeCamp
 96e3096ac7187239a2622fa65100f8aec4f5cf53,feat(api): tag runtime gauges with byte and millisecond units,2026-07-13T06:59:55Z,2,50,raisedadead,freeCodeCamp,freeCodeCamp
-00204db42004b233b9d2833b363d677754f5e876,fix(curriculum): move punctuation outside backticks (#68761),2026-07-12T23:46:58Z,1,8,byte-Raccoon,freeCodeCamp,freeCodeCamp
-ea906fb81537fb30ab711512a89f4db5f48550a0,fix(curriculum): add missing periods to hint text in audio/video lab …,2026-07-12T23:17:47Z,1,4,typovrak,freeCodeCamp,freeCodeCamp
-8b687701ade1cb00258b6b59e0ed40144c6508e2,fix(curriculum): audit editable regions for workshop-fcc-authors-page…,2026-07-12T12:30:04Z,27,470,bdtripp,freeCodeCamp,freeCodeCamp
-b782a4d9f6dfe4c59bd2e266b034374dae9c2c73,fix(client): update graduate count in funding manifest (#68730),2026-07-12T12:24:18Z,1,2,Sushanth012,freeCodeCamp,freeCodeCamp
-3f2d2167e5f7dc647eccac8123b5b5d000dc62ea,fix(curriculum): correct punctuation in HTML boilerplate lecture (#68…,2026-07-12T10:20:39Z,1,2,thetalhamubarak,freeCodeCamp,freeCodeCamp
