@@ -1,4 +1,16 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+62ae8d6fad0c6a9730cf02879da1bed03e4c806f,fix(curriculum): remove extra undefined output from closures example …,2026-10-14T01:23:43Z,1,2,shubhamrai9122-creator,freeCodeCamp,freeCodeCamp
+3eccad069183ce4c0773d5d63d8bb2fc04d905b1,fix(curriculum): correct starting code formatting in medical data val…,2026-10-14T01:00:55Z,9,67,Piyush495,freeCodeCamp,freeCodeCamp
+e9862b9c32287271099eac751f1b08b33c7c935f,fix(curriculum): replace ambiguous quiz distractor (#70871),2026-10-13T22:54:15Z,1,2,harshita168y,freeCodeCamp,freeCodeCamp
+0b4ebd617c746f85a6986db780dd55e3b36c5772,fix(curriculum): use blond spelling consistently in A2 English (#70858),2026-10-13T22:32:39Z,6,16,moshtaba-gh,freeCodeCamp,freeCodeCamp
+e7e98c34b0d30f56fddd9e654089a80032700eb3,fix(curriculum): fix config manager lab wording (#70868),2026-10-13T20:54:40Z,1,36,aminajao,freeCodeCamp,freeCodeCamp
+051870c0688b902f570412a726e3d69750a197c9,fix(curriculum): add section headers to prop drilling lesson (#70844),2026-10-13T19:34:01Z,1,8,Sidsmartz,freeCodeCamp,freeCodeCamp
+a9d6a39b1c20e6b7622ee550f6d1eae0cb45f7fe,fix(curriculum): introduce == before or in movie ticket (#70690),2026-10-13T19:26:18Z,10,56,aminajao,freeCodeCamp,freeCodeCamp
+09234add2333d63fa8e0d6dacd9e698bf558c471,fix(curriculum): use code-formatted id wording for the HTML id attrib…,2026-10-13T19:11:39Z,19,84,Srujankasturi,freeCodeCamp,freeCodeCamp
+59b407c89921f02e84fafea85ac6c225ad444fc6,"chore(i18n,learn): update i18n-curriculum submodule (#70867)",2026-10-13T16:11:11Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+2ed0cdc7e9f5047103dba40b15671a5a606ebf1c,fix: Improve contribution analytics image alt text (#70797),2026-10-13T15:52:23Z,1,2,aakansha260,freeCodeCamp,freeCodeCamp
+42ef79ed298075d0210f4cce258a490eec8098fc,fix(curriculum): explain != and precedence in step 16 (#70705),2026-10-13T15:00:00Z,2,22,aminajao,freeCodeCamp,freeCodeCamp
+358edbb0bf9d4e5e7c69247f1683e1dba8ab0a62,"feat(curriculum): cover missing print, isinstance, and string concept…",2026-10-13T07:15:13Z,1,78,linhdmn,freeCodeCamp,freeCodeCamp
 2579fc8416d69b0bbbf7972ec84c2dc46dc6a63a,docs(curriculum): link RAG and MCP labs (#70854),2026-10-13T03:55:31Z,1,2,KeuqS,freeCodeCamp,freeCodeCamp
 b6226b76f9f589d4eb1edba3ca123ee0c27fc2ad,fix(curriculum): correct queue lab hints (#70853),2026-10-13T03:12:31Z,1,16,asxxb,freeCodeCamp,freeCodeCamp
 1b886382fa2a2af6709f4c9911aa950c030b5333,fix(curriculum): clarify non-overlapping counts in Employee Profile V…,2026-10-13T02:41:02Z,1,2,Stackforge-07,freeCodeCamp,freeCodeCamp
@@ -956,20 +968,3 @@ c4041b6b57e637c451f98cdd2799806e26c0fc52,fix(curriculum): allow optional whitesp
 7edc2af093cccf7b6b8bdfeff85483e876765bf7,fix(curriculum): assert data state in medical data validator step 19 …,2026-07-14T09:44:14Z,1,37,typovrak,freeCodeCamp,freeCodeCamp
 a3fd029c7448c5cc7bcfc237de8a82c53a5e9e25,fix(curriculum): remove solution changes and comma splice in heart ic…,2026-07-14T06:57:36Z,2,5,saikiranrayabarapu,freeCodeCamp,freeCodeCamp
 1b46e67deee8d63f29cea21ca2a4b1299f1c6bbb,feat(api): add moderation score to ExamEnvironmentExamModeration (#68…,2026-07-14T04:30:41Z,1,4,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-c115efdd41f868d8850156f6a7a211219c35a847,fix(curriculum): correct backticks and grammar in iframe lecture (#68…,2026-07-13T23:40:20Z,1,12,RakshitKaintura,freeCodeCamp,freeCodeCamp
-4320252f7f50a9761e2805172c533fdaca8a4819,fix(curriculum): rename workshops to follow naming convention (#68794),2026-07-13T20:50:59Z,18,128,Ksound22,freeCodeCamp,freeCodeCamp
-6636e3f57238d2be2a248edaaa31a67352c8e3ff,fix: Fix grammar and code-tag issues in the Basic HTML catalog intro …,2026-07-13T17:43:07Z,1,10,YYuan02,freeCodeCamp,freeCodeCamp
-4ba262ded8c948e9f1f465b6be08a2d456f6db2a,fix(curriculum): format examples as bulleted list (#68791),2026-07-13T15:55:55Z,1,5,abyss-ux,freeCodeCamp,freeCodeCamp
-ae859b4829d612845909460ca2e471b771b28b18,fix(api): cleanup sentry noise and adjust donate logs (#68787),2026-07-13T14:19:02Z,4,32,raisedadead,freeCodeCamp,freeCodeCamp
-69d98df29ab61f22aa7f597e231457ce74760673,fix(gha): update default levels and config (#68779),2026-07-13T14:08:03Z,1,22,raisedadead,freeCodeCamp,freeCodeCamp
-ff7a0d7ab747330c24a1399bb0e647461a39e9f5,fix(curriculum): correct text in travel agency page lab (#68782),2026-07-13T12:35:26Z,1,10,Priyadharshinidhandapani,freeCodeCamp,freeCodeCamp
-2f265de79806365d4f053a17637d0c0fc9d7143b,fix(curriculum): editable regions in workshop media catalogue (#68560),2026-07-13T12:13:53Z,41,772,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-005a967c95dadc5924a6a683be4aff07cab8b00b,fix(api): scrub Mongo literals from Sentry spans (#68780),2026-07-13T11:29:18Z,3,108,raisedadead,freeCodeCamp,freeCodeCamp
-2f7bc3fc36737b77aaae41eea2e7917909cd25d8,fix(curriculum): correct apostrophe and add serial comma in Basic HTM…,2026-07-13T11:24:46Z,1,4,Jatinmor89,freeCodeCamp,freeCodeCamp
-4219d1d31db108f24af6927b9b6fe4a2bc28931a,fix(curriculum): editable regions in workshop decimal to binary conve…,2026-07-13T10:43:37Z,61,180,Ayan-Bain,freeCodeCamp,freeCodeCamp
-a6a8752fe25202de4c07c67da4ad805e37056b02,feat: add freecodecamp-os challenge types (#68439),2026-07-13T10:17:21Z,27,849,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-6e836b4df7942959eaf644a1c0412218bf003431,fix(curriculum): use Explorer helper in countup workshop step 3 (#68753),2026-07-13T08:58:50Z,1,7,laypatel13,freeCodeCamp,freeCodeCamp
-5051a6ef5f495c42ab9c489f495f12974f3154e2,fix(curriculum): format vocab introduction as bullets (#68765),2026-07-13T08:24:34Z,1,6,lennin331,freeCodeCamp,freeCodeCamp
-97e0519cdc304dedb1b2ee34ee3fa759868b713a,fix(curriculum): add missing tested requirements to travel agency lab…,2026-07-13T08:14:09Z,1,4,TemRevil,freeCodeCamp,freeCodeCamp
-e00822e71f978ce192ff2b60e5d0b809fb053239,fix(curriculum): replace regex test with Explorer AST helper in count…,2026-07-13T07:52:11Z,1,4,SanthoshBalagur,freeCodeCamp,freeCodeCamp
-96e3096ac7187239a2622fa65100f8aec4f5cf53,feat(api): tag runtime gauges with byte and millisecond units,2026-07-13T06:59:55Z,2,50,raisedadead,freeCodeCamp,freeCodeCamp
