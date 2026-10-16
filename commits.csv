@@ -1,4 +1,44 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+85da3cd3be0b026e54a51a12d1054abdd48e6057,fix(deps): update dependency date-fns to v4.4.0 (#70974),2026-10-16T00:47:22Z,3,26,renovate[bot],freeCodeCamp,freeCodeCamp
+24d648f8fc58c29a4789ba2d476c10d835633e62,fix(deps): update dependency js-yaml to v3.15.2 (#70972),2026-10-15T20:45:48Z,3,12,renovate[bot],freeCodeCamp,freeCodeCamp
+eb34305b08064f81ede06c1334c1f1effe0848bc,fix(deps): update dependency bson to v7.3.3 (#70971),2026-10-15T20:42:16Z,3,16,renovate[bot],freeCodeCamp,freeCodeCamp
+83f7dffea3e9b9bbd3507bbcebc9cb6aff1a5925,fix(curriculum): correct article in medical data validator step 3 hin…,2026-10-15T17:57:31Z,1,2,rajpalkavyaaa,freeCodeCamp,freeCodeCamp
+b00786b3eaba26e334d4b0a87b4f4267c9554c47,fix(curriculum): allow keyword flags in medical data validator step 3…,2026-10-15T17:41:49Z,1,4,TanmayNileshShinde,freeCodeCamp,freeCodeCamp
+e2c0eebd7944ba42594d0c6b57057fb1ee13e8aa,fix(deps): update dependency @paypal/react-paypal-js to v10.6.0 (#70965),2026-10-15T17:13:31Z,2,20,renovate[bot],freeCodeCamp,freeCodeCamp
+9776b29df2ecb7fb400a197975afc95aa6d8d040,fix(deps): update dependency @freecodecamp/ui to v6.1.0 (#70954),2026-10-15T16:38:09Z,2,43,renovate[bot],freeCodeCamp,freeCodeCamp
+65cfaf683c717d0c4438c995cef1f298d4aa19ed,fix(deps): update babel monorepo (#70953),2026-10-15T16:03:12Z,6,2294,renovate[bot],freeCodeCamp,freeCodeCamp
+81c2345b11abcc535b3d8fc71c5c5af1ac71f347,fix(curriculum): accept equivalent key comparisons and fixed typo in …,2026-10-15T16:00:34Z,1,14,prem-programs,freeCodeCamp,freeCodeCamp
+5cf710d9cae8de74bdf2cb577d143772fe91649a,fix(deps): update algolia (#70952),2026-10-15T15:00:43Z,2,985,renovate[bot],freeCodeCamp,freeCodeCamp
+5ac88b2d4eb08a1823c1c016f1799a936ed29118,feat(curriculum): new front end html review + quiz + make survey form…,2026-10-15T14:58:09Z,12,2460,moT01,freeCodeCamp,freeCodeCamp
+41c6bcfcda9341358d79d957a5b0cdae8dca653d,chore(deps): update dependency puppeteer to v25.13.0 (#70950),2026-10-15T14:25:37Z,2,77,renovate[bot],freeCodeCamp,freeCodeCamp
+26e4028f01888dbfe75e03b108fae2bfba905987,fix(curriculum): add Oxford comma to Medical Data Validator Step 44 h…,2026-10-15T14:23:13Z,1,2,or-zamir,freeCodeCamp,freeCodeCamp
+463273538f7b8791949940941e93a944db314c7f,chore(deps): update pnpm to v12.10.1 (#70949),2026-10-15T14:04:07Z,2,124,renovate[bot],freeCodeCamp,freeCodeCamp
+6fc9707b4a317379c21b514249aa6e0406eb2623,chore(deps): update dependency turbo to v2.11.7 (#70942),2026-10-15T13:43:17Z,2,70,renovate[bot],freeCodeCamp,freeCodeCamp
+47d005eb9c4b315f64b4153ad56e9522a5a7be61,chore(deps): update dependency webpack to v5.111.1 (#70946),2026-10-15T13:40:35Z,2,300,renovate[bot],freeCodeCamp,freeCodeCamp
+a2203cc50ccccad8301823f89f9015359abc0bc9,fix(curriculum): accept equivalent diagnosis expression in step 33 (#…,2026-10-15T13:37:56Z,1,4,prem-programs,freeCodeCamp,freeCodeCamp
+367f8e1bcc8fde42900150a7fd2787ce86953dcd,chore(deps): update dependency tsx to v4.23.15 (#70941),2026-10-15T13:00:44Z,4,361,renovate[bot],freeCodeCamp,freeCodeCamp
+b95bc0dddbec3cef5689e1ac11cd2087ad43fa61,fix(curriculum): clarify fetch API json parsing in async lesson (#70935),2026-10-15T12:58:18Z,1,2,dipesh-singh07,freeCodeCamp,freeCodeCamp
+545c349e85b0875157aace0025d32a0c14a14980,fix(curriculum): remove float desc from bill splitter step 3 (#70934),2026-10-15T12:42:37Z,1,6,priyanshutryingtocode,freeCodeCamp,freeCodeCamp
+32db37fba6b9d5683e239dc5b4f0a8e035e54a71,fix(curriculum): add subtraction example to movie ticket calculator s…,2026-10-15T12:36:02Z,1,11,mariamanbar,freeCodeCamp,freeCodeCamp
+be474e836a6459813aa5cf66506bf5f7deb1ab28,fix(curriculum): remove print explanation from movie ticket booking (…,2026-10-15T12:15:45Z,1,6,Supravisor,freeCodeCamp,freeCodeCamp
+bd468130cfd6f99793f3482fd0b05ee66cb17dd3,fix(curriculum): medical data validator step-40 (#70938),2026-10-15T12:14:02Z,1,4,tem-ctrl,freeCodeCamp,freeCodeCamp
+b488eb68a79158f6b56c14bb8d1a492e66094da6,chore(deps): update dependency @playwright/test to v1.64.0 (#70939),2026-10-15T12:11:39Z,2,28,renovate[bot],freeCodeCamp,freeCodeCamp
+c2947951fb863afc5d7d2dece7023f4e562bf3c2,fix(curriculum): remove isinstance explanation from caesar cipher (#7…,2026-10-15T12:09:24Z,1,7,Supravisor,freeCodeCamp,freeCodeCamp
+0d4d61610e9d964bc9c85022ffada6bbc09779a3,fix(deps): update dependency nanoid to v3.3.20 (#70918),2026-10-15T10:14:40Z,2,13,renovate[bot],freeCodeCamp,freeCodeCamp
+bd1480c25a5dfd6f4d5aad4a3e49a34420ad3468,chore(deps): update dependency typescript-eslint to v8.71.1 (#70917),2026-10-15T10:12:56Z,2,150,renovate[bot],freeCodeCamp,freeCodeCamp
+0b3f30e6ba892dd685c6de4e5dc472afd29a7ff1,fix(curriculum): add headings to health checks and graceful shutdowns…,2026-10-15T10:10:42Z,1,10,aliyasyeddd,freeCodeCamp,freeCodeCamp
+32e978754b4d775d3f915d75ef0ef7fedfd041b4,fix(curriculum): update python installation instructions and punctuat…,2026-10-15T09:30:34Z,2,34,Vader069,freeCodeCamp,freeCodeCamp
+fb3adad401a8914ef2ad8d9f180e6f595a0b02dc,chore(deps): update dependency puppeteer to v25.12.0 (#70846),2026-10-15T06:37:48Z,2,150,renovate[bot],freeCodeCamp,freeCodeCamp
+fe58476c912fb1fab3e56ac453f2d615e1670dcd,chore(deps): update dependency msw to ^2.15.0 (#70795),2026-10-15T06:37:26Z,2,72,renovate[bot],freeCodeCamp,freeCodeCamp
+de0653b772e2ea159ff7565b8e779f21a4680044,fix(deps): update dependency postcss to v8.5.28 (#70699),2026-10-15T06:37:02Z,2,304,renovate[bot],freeCodeCamp,freeCodeCamp
+475e7f7537c89fea03bee865ce94f9a1dcc41f41,fix(curriculum): add section headers to Stream Module lecture (#70821),2026-10-15T06:30:00Z,1,16,TEE0207,freeCodeCamp,freeCodeCamp
+57d2f679d9310863638ad21b6715a9fa3b695f61,fix(curriculum): correct condition wording and punctuation in boolean…,2026-10-15T06:28:02Z,1,12,wigsdev,freeCodeCamp,freeCodeCamp
+b8c065bec998d939f3e7b0fd30c007d7557c6ad0,fix(curriculum): add section headers to Intro to Github Pages (#70708),2026-10-15T06:18:06Z,1,12,meemeealm,freeCodeCamp,freeCodeCamp
+7cb25cd7992cd914e2beaf2fbe91636e899bb69b,fix(curriculum): add section headers to Bash Scripting lesson (#70766),2026-10-15T06:13:48Z,1,20,meemeealm,freeCodeCamp,freeCodeCamp
+dc73e4b66d64422857370e0116f570ed0c1fe8ff,fix: use four-space indentation in Python examples (#70912),2026-10-15T05:52:29Z,1,10,harikabanda-crypto,freeCodeCamp,freeCodeCamp
+76af5302405838cdbff49c7c8230978c556302cf,fix(curriculum): correct dict loop lesson wording (#70897),2026-10-15T05:43:19Z,1,4,aminajao,freeCodeCamp,freeCodeCamp
+a9706862b7fda7db6df22d55c4b9fa9f17fef345,fix(curriculum): replace regex tests with Explorer helpers in music p…,2026-10-15T05:35:54Z,14,162,tracemycodes,freeCodeCamp,freeCodeCamp
+34343d11872b0bb84af8eb14899b5d5f0418dec3,chore(github): update CODEOWNERS,2026-10-15T04:38:54Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
 e98ca23ca180dc5c973745b26f0d3e3ce69a59bb,fix(curriculum): correct interactive shell lesson (#70902),2026-10-15T01:36:47Z,1,22,aminajao,freeCodeCamp,freeCodeCamp
 2cb4b15671f085f81e42419826dfadc02ce0bcbd,fix(curriculum): clarify assert in raise lesson (#70900),2026-10-15T01:34:08Z,1,13,aminajao,freeCodeCamp,freeCodeCamp
 6f9bbc1abb5336f20a45ae13fc4c84240edd4f05,fix(curriculum): correct error messages lesson (#70899),2026-10-15T01:31:50Z,1,4,aminajao,freeCodeCamp,freeCodeCamp
@@ -946,15 +986,3 @@ e517262a7b42737424dc704a5fbd1a4ad4ef67c7,"fix(curriculum, lesson): correct gramm
 c02773f3eb9edcc6ef6484634b4d3812cbe36f83,refactor(curriculum): replace legacy helpers with Explorer AST helper…,2026-07-16T07:52:33Z,1,44,bdtripp,freeCodeCamp,freeCodeCamp
 3555deb6c11b9e3df5453dd2cc6d599c0ebf77d8,fix(curriculum): correct title case for structural hierarchy lecture …,2026-07-16T06:16:19Z,2,4,superezzdev,freeCodeCamp,freeCodeCamp
 f2a38651945ba89f46eb67a9f0b20a969cdbf4a1,feat(curriculum): mark cert projects for backend curriculum (#68834),2026-07-16T06:10:30Z,2,72,Ksound22,freeCodeCamp,freeCodeCamp
-39c57a6de13022dadb003afef95e199de8f225ea,fix(curriculum): mock the RPG Creature API in creature search project…,2026-07-16T01:53:44Z,1,54,majestic-owl448,freeCodeCamp,freeCodeCamp
-5a31c3d68df47582d3e13a3955e0ec20e5becf5e,"chore(i18n,learn): update i18n-curriculum submodule (#68863)",2026-07-15T23:47:11Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-23f7912708753024f17446edfecefa6501d63258,fix(curriculum): replace regex with explorer helper in lab traffic li…,2026-07-15T17:51:08Z,1,20,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-2ce951f475a17a0bd180758f1a437ba484226db1,fix(curriculum): div elements lecture text (#68847),2026-07-15T15:16:07Z,2,10,eva-lng,freeCodeCamp,freeCodeCamp
-c8faa1dff64057d9582a05a16ac43245ef51a5d0,fix(tests): update modal tests to use waitFor for asynchronous behavi…,2026-07-15T15:13:06Z,4,79,huyenltnguyen,freeCodeCamp,freeCodeCamp
-3adb9f83852d5670e7017b2237434e33db71c044,fix(api): add in-flight timeout for blue-green rollover (#68825),2026-07-15T13:50:04Z,5,88,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-76e377237551d141c8eb1e95018b59fd24bdff7f,"fix(curriculum): correct wording, quiz feedback, and comma splice in …",2026-07-15T09:12:31Z,2,10,ayussh-2,freeCodeCamp,freeCodeCamp
-2c6eab1d4fe2cea8cb397d098ddc14040bd7ba0a,fix(curriculum): improve travel agency page hints and closing tags (#…,2026-07-15T08:33:33Z,1,56,chauhan-varun,freeCodeCamp,freeCodeCamp
-e890e168f61f8736b32d9bc6248ebc6213582e49,fix(curriculum): replace regex tests with Explorer API in note-taking…,2026-07-15T08:32:14Z,5,46,arunkumar0398,freeCodeCamp,freeCodeCamp
-290223fbe460f5db9df50fb8577fdd8d3349fab7,fix: Replace regex based test cases in quiz game lab (#68821),2026-07-15T07:27:27Z,1,13,YYuan02,freeCodeCamp,freeCodeCamp
-3055f2b76e1357535a8b7527eec97bf4b9e47dd8,fix(curriculum): correct wording and formatting in video display work…,2026-07-15T07:13:21Z,2,4,Anwiii,freeCodeCamp,freeCodeCamp
-79a5cf1b986f5ecf77015b435f6db541cd57aed8,chore(curriculum): add punctuation to Following Best Practices quiz (…,2026-07-15T06:37:18Z,1,24,Supravisor,freeCodeCamp,freeCodeCamp
