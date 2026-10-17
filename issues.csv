@@ -1,14 +1,50 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X88AAAABXq6fiw,70999,Correct index.html and filename guidance in the file naming lesson,CLOSED,2026-10-16T11:36:41Z,2026-10-16T21:50:42Z,wigsdev,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXq-Xsg,71006,"Correct wording, method arguments, and question formatting in the list methods lesson",CLOSED,2026-10-16T11:41:50Z,2026-10-16T21:48:42Z,kevinjosh10,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXsSRvg,71037,Python Basics Review: correct string-method definitions and wording,CLOSED,2026-10-16T13:22:08Z,2026-10-16T21:43:31Z,Vishaal-batcoderda,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABXYMBOg,70926,Medical Data Validator Step 36: clarify which list contains strings,OPEN,2026-10-15T09:45:41Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABXYFHFw,70921,Medical Data Validator Step 16: inconsistent quotes in Python seed,OPEN,2026-10-15T09:38:20Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXq7dNw,71000,Correct grammar and higher-order terminology in the lambda functions lesson,CLOSED,2026-10-16T11:37:56Z,2026-10-16T21:33:26Z,kevinjosh10,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABUc3lqg,70552,Salary Tracker - Step 39: Socrates giving wrong hints,OPEN,2026-10-01T18:50:21Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXn9kyA,70989,Dictionaries and Sets Quiz: missing space in symmetric difference question,CLOSED,2026-10-16T07:46:13Z,2026-10-16T18:58:51Z,YATH-CODE;yatharth2soni,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXweoqw,71058,Email simulator workshop has inconsistent instructions between steps,OPEN,2026-10-16T18:33:26Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXwbo-A,71057,Salary Tracker workshop has inconsistent instructions and seed continuity,OPEN,2026-10-16T18:29:41Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXwTlGw,71056,PIN Extractor: fix seed continuity and Step 11 validation,OPEN,2026-10-16T18:19:37Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXrErWg,71011,Clarify file operations and correct wording in the Explorer and Finder lesson,CLOSED,2026-10-16T11:49:36Z,2026-10-16T17:51:30Z,caio-bittencourt,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABW68gZg,70869,ISBN validator tests accept unhandled exceptions after the expected message,OPEN,2026-10-13T15:34:13Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXq80FA,71003,Correct wording and exception terminology in the ranges lesson,CLOSED,2026-10-16T11:39:44Z,2026-10-16T17:33:31Z,kevinjosh10,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXYFpSA,70922,Medical Data Validator Step 27: incorrect preposition in description,CLOSED,2026-10-15T09:38:56Z,2026-10-16T16:02:37Z,Hemasree1738,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87aPElK,64117,Workshop – Smart Campus Directory,CLOSED,2025-11-25T03:43:53Z,2026-10-16T14:31:26Z,Rudro4038,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXr21GQ,71033,Clarify Lighthouse and PageSpeed Insights in the accessibility auditing tools lesson,OPEN,2026-10-16T12:50:42Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXr-mVQ,71036,PIN Extractor Step 4: fix the preposition and PIN capitalization,OPEN,2026-10-16T12:59:48Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXr-eSw,71035,PIN Extractor Step 3: clarify the instructions and fix a missing article,OPEN,2026-10-16T12:59:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXrBfKg,71009,Correct the vowel-search explanation and heading capitalization in the loops lesson,CLOSED,2026-10-16T11:45:31Z,2026-10-16T12:47:01Z,aminajao,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXq-4Hw,71007,Correct loop explanations and function-name capitalization in the enumerate and zip lesson,CLOSED,2026-10-16T11:42:28Z,2026-10-16T12:46:51Z,aminajao,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXq8jdw,71002,"Correct heading capitalization, wording, and unpacking guidance in the lists lesson",CLOSED,2026-10-16T11:39:23Z,2026-10-16T12:46:40Z,aminajao,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXq_N-w,71008,"Correct the error message, punctuation, and headings in the tuples lesson",CLOSED,2026-10-16T11:42:53Z,2026-10-16T12:46:26Z,aminajao,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXq9Yng,71005,"Correct terminology, wording, and sorting guidance in the tuple methods lesson",CLOSED,2026-10-16T11:40:30Z,2026-10-16T12:46:16Z,aminajao,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXq7wZw,71001,Correct explanations and title capitalization in the list comprehensions lesson,CLOSED,2026-10-16T11:38:21Z,2026-10-16T12:36:16Z,aminajao,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXrEtew,71012,Correct search-box wording and clarify Spotlight instructions in the file search lesson,OPEN,2026-10-16T11:49:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXrEpUw,71010,Correct pinning instructions and feature descriptions in the file management applications lesson,OPEN,2026-10-16T11:49:34Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXq9F_w,71004,"Correct file format explanations, questions, and title capitalization in the common file types lesson",OPEN,2026-10-16T11:40:07Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXq6JXg,70998,Correct project-root explanations and questions in the file organization lesson,OPEN,2026-10-16T11:36:14Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXq1--A,70997,Python Installation Quiz: limit website download advice to Windows and macOS,OPEN,2026-10-16T11:30:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXq1m4A,70996,Python Basics Quiz: remove inaccurate output comments and correct printed-string answers,OPEN,2026-10-16T11:30:18Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXq04FQ,70995,Loops and Sequences Quiz: correct printed output and countable-noun wording,OPEN,2026-10-16T11:29:21Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXq0Xxg,70994,"Error Handling Quiz: correct terminology, identifier formatting, and intro capitalization",OPEN,2026-10-16T11:28:42Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXLwilw,70886,"Python dictionaries lesson: clarify valid keys, method question, and view outputs",CLOSED,2026-10-14T15:40:48Z,2026-10-16T10:25:28Z,Code-Breaker-Ctrl,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABT9yPuw,70499,[Naomi's Sprint] Add Section Headers to 400-499 Word Lessons,OPEN,2026-09-29T18:01:05Z,,TEE0207,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABSHaalw,70200,"""Build a Bookmark Manager App"" Example Project Not Working: `iframe` `sandbox` Missing `allow-same-origin` Flag",OPEN,2026-09-19T14:00:17Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXn8ZEA,70988,Python Basics Quiz: refer to string methods consistently,OPEN,2026-10-16T07:44:38Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXn5y8w,70987,Quiz creation fails in create-next-challenge and insert-challenge,OPEN,2026-10-16T07:41:04Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXYIm0Q,70923,Medical Data Validator Step 15: tests do not verify preservation of existing records,CLOSED,2026-10-15T09:42:06Z,2026-10-16T07:04:52Z,TanmayNileshShinde,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXYMBOg,70926,Medical Data Validator Step 36: clarify which list contains strings,CLOSED,2026-10-15T09:45:41Z,2026-10-16T07:01:33Z,PrashantGC00,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXYFHFw,70921,Medical Data Validator Step 16: inconsistent quotes in Python seed,CLOSED,2026-10-15T09:38:20Z,2026-10-16T07:01:15Z,RDrahul123,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXlyIRA,70975,Third-party AI-assisted report on freeCodeCamp (research reference only),CLOSED,2026-10-16T04:00:50Z,2026-10-16T06:04:43Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXLlXiw,70880,Running Python scripts lesson: document VS Code setup and correct wording,OPEN,2026-10-14T15:29:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXYD5ZA,70919,Medical Data Validator Step 3: incorrect article in age hint,CLOSED,2026-10-15T09:36:56Z,2026-10-15T17:57:34Z,rajpalkavyaaa,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXYOWXw,70927,Medical Data Validator Step 38: test rejects keyword flags argument,CLOSED,2026-10-15T09:48:21Z,2026-10-15T17:41:51Z,TanmayNileshShinde,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABXYIm0Q,70923,Medical Data Validator Step 15: tests do not verify preservation of existing records,OPEN,2026-10-15T09:42:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXYJKwA,70924,Medical Data Validator Step 18: valid key comparison rejected and incorrect example output,CLOSED,2026-10-15T09:42:41Z,2026-10-15T16:00:37Z,prem-programs,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXaVTnQ,70943,Title: Back End Development and APIs v9 certificate missing from public profile,OPEN,2026-10-15T12:26:57Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABSHaalw,70200,"""Build a Bookmark Manager App"" Example Project Not Working: `iframe` `sandbox` Missing `allow-same-origin` Flag",OPEN,2026-09-19T14:00:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXYO8CA,70928,Medical Data Validator Step 44: missing Oxford comma in hint,CLOSED,2026-10-15T09:48:59Z,2026-10-15T14:23:16Z,or-zamir,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXYQAHQ,70929,Medical Data Validator Step 33: test rejects equivalent diagnosis expression,CLOSED,2026-10-15T09:50:13Z,2026-10-15T13:37:58Z,prem-programs,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXPLjlA,70904,"Seemingly Contradictory Info in JS Lesson ""What Is the Fetch API, and What Are Common Types of Resources That Are Fetched from the Network?""",CLOSED,2026-10-14T19:38:02Z,2026-10-15T12:58:21Z,Dipesh Singh,freeCodeCamp,freeCodeCamp
@@ -18,10 +54,8 @@ I_kwDOAbI7X88AAAABXYbrpA,70932,Movie Ticket Booking Calculator Step 9 repeats th
 I_kwDOAbI7X88AAAABXYVZyg,70930,Medical Data Validator Step 40: test accepts a filter that misses invalid IDs,CLOSED,2026-10-15T09:56:24Z,2026-10-15T12:14:05Z,tem-ctrl,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXYbtrg,70933,Caesar Cipher Step 17 repeats the isinstance explanation,CLOSED,2026-10-15T10:03:40Z,2026-10-15T12:09:26Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXYLHLw,70925,Medical Data Validator Step 31: equivalent age comparison rejected and description grammar,OPEN,2026-10-15T09:44:41Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABXYFpSA,70922,Medical Data Validator Step 27: incorrect preposition in description,OPEN,2026-10-15T09:38:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXYEeWA,70920,Medical Data Validator Step 4: incorrect article in age hint,OPEN,2026-10-15T09:37:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXLlU8A,70879,Python installation lesson: update installation instructions and correct wording,CLOSED,2026-10-14T15:29:09Z,2026-10-15T09:30:37Z,Vader069,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABT9yPuw,70499,[Naomi's Sprint] Add Section Headers to 400-499 Word Lessons,OPEN,2026-09-29T18:01:05Z,,TEE0207,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABW6q33g,70860,Booleans and Conditionals: correct condition wording and punctuation,CLOSED,2026-10-13T15:15:05Z,2026-10-15T06:28:04Z,wigsdev,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABW6rAZw,70861,Booleans and Conditionals: use four-space indentation in syntax examples,CLOSED,2026-10-13T15:15:13Z,2026-10-15T05:52:31Z,harikabanda-crypto,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXLwnDA,70887,Python dictionary loops lesson: correct loop syntax and rounding explanations,CLOSED,2026-10-14T15:40:52Z,2026-10-15T05:43:21Z,aminajao,freeCodeCamp,freeCodeCamp
@@ -38,15 +72,12 @@ I_kwDOAbI7X88AAAABXLpkgg,70884,Python exception handling lesson: format the try 
 I_kwDOAbI7X88AAAABW6rPuA,70863,Truthy and Falsy Values: correct short-circuit answer wording and punctuation,CLOSED,2026-10-13T15:15:29Z,2026-10-15T01:12:51Z,Oluwaloseyi Oluwatofunmi,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXLEM8A,70876,Learn JavaScript Debugging is missing the Library Book Search workshop,CLOSED,2026-10-14T14:54:14Z,2026-10-14T21:13:42Z,nightcityblade,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABW6yFOw,70864,Clarify the ISBN validator lab introduction,CLOSED,2026-10-13T15:22:47Z,2026-10-14T19:56:25Z,udit19199,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABXLwilw,70886,"Python dictionaries lesson: clarify valid keys, method question, and view outputs",OPEN,2026-10-14T15:40:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABWKdBwQ,70801,Medical Data Validator seed code changes without corresponding instructions,CLOSED,2026-10-09T17:47:26Z,2026-10-14T01:00:58Z,Piyush495,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABW6zGNg,70865,Loops and Sequences Quiz has one distractor that is also correct,CLOSED,2026-10-13T15:23:53Z,2026-10-13T22:54:18Z,harshita168y,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABW3eKQw,70856,Learn How to Discuss Roles and Responsibilities Task 10 transcript spelling does not match the accepted answer,CLOSED,2026-10-13T11:32:31Z,2026-10-13T22:32:41Z,moshtaba-gh,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABW6pjkA,70859,User Configuration Manager lab has wording and punctuation errors,CLOSED,2026-10-13T15:13:40Z,2026-10-13T20:54:42Z,aminajao,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABVTiUvQ,70684,Movie Ticket Booking Calculator Step 14 lacks an equality comparison explanation,CLOSED,2026-10-06T07:33:49Z,2026-10-13T19:26:20Z,aminajao,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABNSnYEg,69606,Use of ID versus `id` when referring to the id attribute,CLOSED,2026-08-18T22:27:08Z,2026-10-13T19:11:42Z,Srujankasturi,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABUc3lqg,70552,Salary Tracker - Step 39: Socrates giving wrong hints,OPEN,2026-10-01T18:50:21Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABW68gZg,70869,ISBN validator tests accept unhandled exceptions after the expected message,OPEN,2026-10-13T15:34:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABW6rIvg,70862,Truthy and Falsy Values: correct grammar and evaluation explanations,OPEN,2026-10-13T15:15:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABVVIcKQ,70695,Movie Ticket Booking Calculator Step 16 lacks inequality and boolean precedence guidance,CLOSED,2026-10-06T09:51:54Z,2026-10-13T15:00:02Z,aminajao,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X871x_Tt,66604,"Challenge/Lab/Workshop Code Saving Consistency, UX",OPEN,2026-03-23T20:27:21Z,,,freeCodeCamp,freeCodeCamp
@@ -484,7 +515,6 @@ I_kwDOAbI7X88AAAABGpWcdA,68228,add Number.isInteger to module review,OPEN,2026-0
 I_kwDOAbI7X88AAAABIunPCg,68818,Replace regex-based test cases in Fortune Teller Lab,OPEN,2026-07-14T07:07:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87X6o3A,63813,Workshop/Lab for exploring console?,OPEN,2025-11-13T19:13:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Ns2u6,62351,"Make the ""Build a Magazine"" workshop HTML more semantic and update structural hierarchy ",OPEN,2025-09-24T21:42:43Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87aPElK,64117,Workshop – Smart Campus Directory,OPEN,2025-11-25T03:43:53Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPFTT,64126,Lab – Data Sanitizer Sweep,OPEN,2025-11-25T03:46:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABM9hs1Q,69554,curriculum: step 3 of [build a string inspector workshop],CLOSED,2026-08-16T14:47:56Z,2026-08-17T03:32:17Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMWZluQ,69484,Factorial Calculator only accepts regular function,CLOSED,2026-08-11T19:20:11Z,2026-08-17T08:30:35Z,wunianze666-netizen,freeCodeCamp,freeCodeCamp
@@ -718,11 +748,3 @@ I_kwDOAbI7X88AAAABJLt4JA,68910,Bug: Unclosed Tags Pass Validation,CLOSED,2026-07
 I_kwDOAbI7X88AAAABJA996w,68870,Punctuation and title mismatch errors in the quotes and abbreviations lectures,CLOSED,2026-07-16T07:59:47Z,2026-07-17T06:03:07Z,duna-akin,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87KZO0N,62094,A problem with some of the tests in the TriviaBot lab,CLOSED,2025-09-08T20:25:43Z,2025-09-22T15:17:41Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIiIjGQ,68755,docs: add NixOS troubleshooting for Prisma setup,CLOSED,2026-07-12T15:32:33Z,2026-07-12T18:37:04Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIlw2Nw,68768,Fix incorrect CSS expansion and stray comma in the Replaced Elements lecture (Working with Media),CLOSED,2026-07-13T07:33:54Z,2026-07-16T20:10:18Z,Gaurav-7065,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABItZ5-w,68806,Text out of synch with speech,CLOSED,2026-07-14T03:01:11Z,2026-07-16T17:00:47Z,DanielRosa74,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIYmN4w,68688,Replace regex-based test cases in Javascript Trivia Bot Lab,CLOSED,2026-07-10T18:24:11Z,2026-07-16T16:47:24Z,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABI_0lzg,68865,No audio component in Giving Advice and Suggestions quiz,CLOSED,2026-07-16T04:42:19Z,2026-07-16T16:33:13Z,Pranayd555,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABJAwshA,68867,Curriculum Typo: ReferenceError in Javascript String Indexing Quiz Question,CLOSED,2026-07-16T07:28:02Z,2026-07-16T13:58:05Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABI8Q3wg,68859,Fix text errors in Understanding Nuanced Semantic Elements description lists lecture,CLOSED,2026-07-15T17:50:26Z,2026-07-16T08:44:06Z,jeffrinkdev;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIYmL7w,68684,Replace regex-based test cases in Cargo Manifest Validator Lab,CLOSED,2026-07-10T18:24:06Z,2026-07-16T07:52:34Z,bdtripp,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABI5EbAA,68844,"Title case error in ""Why is it Important to Have Good Structural Hierarchy?"" lecture",CLOSED,2026-07-15T10:40:16Z,2026-07-16T06:16:21Z,majestic-owl448;superezzdev,freeCodeCamp,freeCodeCamp
