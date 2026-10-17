@@ -1,4 +1,36 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+cee17a454280bfed51c567b774c54ad9bc5691be,fix(curriculum): clarify index.html and filename guidance in file nam…,2026-10-16T21:50:40Z,1,12,wigsdev,freeCodeCamp,freeCodeCamp
+434d76799b52f8cb197d730140946cc227dc4953,fix(curriculum): correct wording and argument terminology in list met…,2026-10-16T21:48:40Z,1,20,kevinjosh10,freeCodeCamp,freeCodeCamp
+98909412921d29f5ff80743d8d9d014d01fc03ac,fix(curriculum): correct string-method definitions and wording (#71053),2026-10-16T21:43:28Z,1,14,Vishaal-batcoderda,freeCodeCamp,freeCodeCamp
+2929e647528263210a55dd137c2fbe908fc36e07,fix(curriculum): correct grammar and higher-order terminology in lamb…,2026-10-16T21:33:24Z,1,10,kevinjosh10,freeCodeCamp,freeCodeCamp
+2557ee7935f64d90dd72bf53837fb05cd928f136,fix(curriculum): add space in symmetric difference quiz question (#71…,2026-10-16T18:58:49Z,1,2,yatharth2soni,freeCodeCamp,freeCodeCamp
+ede35336cac3acbda6ea54f21f5b938a49fcf64d,fix(curriculum): correct explorer and finder lecture (#71041),2026-10-16T17:51:27Z,1,12,caio-bittencourt,freeCodeCamp,freeCodeCamp
+81bb1d533b741b53f42cc3b41161503c89ee6a09,fix(curriculum): correct wording and exception terminology in ranges …,2026-10-16T17:33:28Z,1,10,kevinjosh10,freeCodeCamp,freeCodeCamp
+d9359e0648d9bda6e9ba2b38e24917841caa4aa9,perf(client): scope curriculum queries to their superblock (#69773),2026-10-16T16:47:16Z,9,88,Sembauke,freeCodeCamp,freeCodeCamp
+e7c19e9bd2587f2d492441ea191dfc89f60fd01b,"fix(tools, curriculum): generate lecture projects (#70458)",2026-10-16T16:19:34Z,5,147,majestic-owl448,freeCodeCamp,freeCodeCamp
+95ef7b1310e8093404fa28da9c6988fe04db86a5,test(e2e): support isolated account deletion and related data (#70069),2026-10-16T16:07:23Z,5,91,Sembauke,freeCodeCamp,freeCodeCamp
+9ecc4894e7f84786df659ddde2ea9ebb5e3c1d4e,test(e2e): scope mail assertions to each test account (#70070),2026-10-16T16:04:19Z,3,55,Sembauke,freeCodeCamp,freeCodeCamp
+2cadd6349ea47dbf7f2c46a4de6971c9ab0e941f,fix(curriculum): correct preposition in Medical Data Validator step 2…,2026-10-16T16:02:34Z,1,2,Hemasree1738,freeCodeCamp,freeCodeCamp
+9b6c63fa327bbcc3e28c2fed16772bd9da166edb,fix(api): retry failed challenge update queries (#70322),2026-10-16T15:56:36Z,2,206,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+e5825d9df026b6041aa56558e587cd236319d73c,fix(curriculum): require a function declaration in Emoji Reactor step…,2026-10-16T15:47:16Z,1,2,majestic-owl448,freeCodeCamp,freeCodeCamp
+8ad6f4fad828cfafcbdcb5f077e86fa7ec431506,feat(curriculum): add smart campus workshop to JS cert (#69120),2026-10-16T14:31:24Z,55,9714,Rudro4038,freeCodeCamp,freeCodeCamp
+32925b9fc0c21f79b79e8a48aae84bb177c6a63c,chore(deps): update pnpm to v12.11.1 (#71039),2026-10-16T13:41:38Z,2,124,renovate[bot],freeCodeCamp,freeCodeCamp
+71566f8b24360c0d2ba8a65de231fd6d6497ce5f,chore(deps): update dependency ubuntu to v26 (#70980),2026-10-16T13:19:14Z,19,62,renovate[bot],freeCodeCamp,freeCodeCamp
+a40b20e20de0a4a06e1b308e816086bba61beec2,fix(curriculum): correct vowel loop explanation (#71013),2026-10-16T12:46:58Z,1,4,aminajao,freeCodeCamp,freeCodeCamp
+98c69c84e28cfec56e7a950a62b1f2081e0c04f4,fix(curriculum): correct enumerate and zip lesson (#71018),2026-10-16T12:46:48Z,2,8,aminajao,freeCodeCamp,freeCodeCamp
+f824f482812595946eed130da76367a479e03c78,fix(curriculum): correct lists lesson wording (#71017),2026-10-16T12:46:37Z,1,14,aminajao,freeCodeCamp,freeCodeCamp
+f2be4ecb505744b8cfe728e60b620bdb253ddd54,fix(curriculum): correct tuples lesson wording (#71014),2026-10-16T12:46:23Z,1,14,aminajao,freeCodeCamp,freeCodeCamp
+068a991c931d4148ad2e1e6419422e3e3ad7e13a,fix(curriculum): correct tuple methods lesson (#71016),2026-10-16T12:46:13Z,1,12,aminajao,freeCodeCamp,freeCodeCamp
+3ae6d3489222bf49ac1f91d09344bec489bd12db,fix(curriculum): correct list comprehensions lesson (#71019),2026-10-16T12:36:14Z,2,8,aminajao,freeCodeCamp,freeCodeCamp
+73b762e0fac09806f034cd485fe66e5639603f99,"fix(curriculum): clarify dictionary keys, method question, and output…",2026-10-16T10:25:25Z,1,17,Code-Breaker-Ctrl,freeCodeCamp,freeCodeCamp
+5dec865f64930777314b2b12b1e5094d1e290298,chore(deps): update pnpm to v12.11.0 (#70991),2026-10-16T09:58:27Z,2,124,renovate[bot],freeCodeCamp,freeCodeCamp
+731136901f6c6e8e397e56531356e2f88733782c,chore(deps): update github-owned actions to v7 (#70981),2026-10-16T08:00:24Z,14,68,renovate[bot],freeCodeCamp,freeCodeCamp
+310a280d17015043ff49d33a2dce06864ef589a0,fix(curriculum): add section headers to security vs privacy lecture (…,2026-10-16T07:56:45Z,1,10,Webmekanic,freeCodeCamp,freeCodeCamp
+b187f6b972a1875118711735f2d92b85eecd9ba7,fix(curriculum): verify record preservation in medical data validator…,2026-10-16T07:04:50Z,1,36,TanmayNileshShinde,freeCodeCamp,freeCodeCamp
+1893e13213b97289eebd921f7ee82a1da4a5d4c8,fix(curriculum): clarify medical data validator string list (#70962),2026-10-16T07:01:31Z,1,2,PrashantGC00,freeCodeCamp,freeCodeCamp
+d7e0c44d24810d9cd21dd2b7c086749c2073c393,fix(curriculum): use single quotes in medical data validator (#70973),2026-10-16T07:01:13Z,1,2,RDrahul123,freeCodeCamp,freeCodeCamp
+6a7b929113a0eb420e798c814cff662c0751bd2b,fix(deps): update growthbook to v1.8.0 (#70977),2026-10-16T05:09:20Z,3,26,renovate[bot],freeCodeCamp,freeCodeCamp
+9a24c29939528b76cbfb494ee1f1cca67fa9b04e,fix(deps): update font awesome (#70976),2026-10-16T04:27:51Z,2,62,renovate[bot],freeCodeCamp,freeCodeCamp
 85da3cd3be0b026e54a51a12d1054abdd48e6057,fix(deps): update dependency date-fns to v4.4.0 (#70974),2026-10-16T00:47:22Z,3,26,renovate[bot],freeCodeCamp,freeCodeCamp
 24d648f8fc58c29a4789ba2d476c10d835633e62,fix(deps): update dependency js-yaml to v3.15.2 (#70972),2026-10-15T20:45:48Z,3,12,renovate[bot],freeCodeCamp,freeCodeCamp
 eb34305b08064f81ede06c1334c1f1effe0848bc,fix(deps): update dependency bson to v7.3.3 (#70971),2026-10-15T20:42:16Z,3,16,renovate[bot],freeCodeCamp,freeCodeCamp
@@ -971,18 +1003,3 @@ f9536dee26027d96cf2cc257999d9b416bdef363,fix(curriculum): Editable region marker
 2c3e02f413493767ace55682e69bde7625dca6c8,test(api): speed up get-challenges test (#68884),2026-07-17T06:38:54Z,1,8,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 0d7f5239fe281e3ff8c77d7073ab7c52ebacb84a,fix(api): typed error for unsaveable challenge (#68898),2026-07-17T06:34:23Z,3,20,raisedadead,freeCodeCamp,freeCodeCamp
 e7b348d503e62949e10e7dfc565e419502f9d8e3,fix(curriculum): correct punctuation and title mismatch in text and t…,2026-07-17T06:03:05Z,3,6,duna-akin,freeCodeCamp,freeCodeCamp
-f6590d82ad81b2b34e5584e53452bd3642181dca,fix(api): submit exam metric to attempt update (#68894),2026-07-17T02:41:02Z,1,4,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-3b5fef7025b2c20d2a964f1fd07373967e9a0be9,fix(client): mirror challenge layout in RTL languages (#68881),2026-07-16T21:07:55Z,7,196,ahmaxed,freeCodeCamp,freeCodeCamp
-a76d7f35c73048d7ffe057e8b72e484d7ef8a8d8,fix(curriculum): correct CSS expansion and remove unnecessary comma (…,2026-07-16T20:10:16Z,1,4,Gaurav-7065,freeCodeCamp,freeCodeCamp
-2c72fed177e8ce3a7f75f953d03c769eb5910529,fix(curriculum): audit editable regions in space mission roster works…,2026-07-16T19:37:04Z,20,105,arunkumar0398,freeCodeCamp,freeCodeCamp
-41df57325017b36890248f47c81ff138f93f10ec,refactor: simplify api shutdown (#68852),2026-07-16T17:49:13Z,1,12,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-46d7778612ccb5a1cb356f0bae579190cfa73b4d,fix(curriculum): fix out-of-sync dialog in B1 (#68882),2026-07-16T17:00:45Z,1,52,DanielRosa74,freeCodeCamp,freeCodeCamp
-f945c94a2e207c39dc18c173373b1530e51b16b4,fix(curriculum): replace regex with explorer helper in lab javascript…,2026-07-16T16:47:22Z,1,27,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-221abc907b73e178686313546240fe59967873ed,fix(curriculum): remove transcript note from quiz with no audio (#688…,2026-07-16T16:33:11Z,1,2,Pranayd555,freeCodeCamp,freeCodeCamp
-7dfec24a26f0261fd529946bfcfdbdf510a60002,"feat(i18n, learn): add Arabic to workflow (#68603)",2026-07-16T10:25:20Z,5,74,DanielRosa74,freeCodeCamp,freeCodeCamp
-90a266f4b56900f2c206eae2f64c751e0d9b8fd1,test(client): avoid timeout in experience description validation test…,2026-07-16T10:22:13Z,1,11,majestic-owl448,freeCodeCamp,freeCodeCamp
-cf37189b130fba513b8e955f5495b4014d9340fa,fix(tests): assert step tests fail on their initial seed contents (#6…,2026-07-16T09:08:12Z,1,5,majestic-owl448,freeCodeCamp,freeCodeCamp
-e517262a7b42737424dc704a5fbd1a4ad4ef67c7,"fix(curriculum, lesson): correct grammar errors in Semantic HTML Elem…",2026-07-16T08:44:04Z,1,6,jeffrinkdev,freeCodeCamp,freeCodeCamp
-c02773f3eb9edcc6ef6484634b4d3812cbe36f83,refactor(curriculum): replace legacy helpers with Explorer AST helper…,2026-07-16T07:52:33Z,1,44,bdtripp,freeCodeCamp,freeCodeCamp
-3555deb6c11b9e3df5453dd2cc6d599c0ebf77d8,fix(curriculum): correct title case for structural hierarchy lecture …,2026-07-16T06:16:19Z,2,4,superezzdev,freeCodeCamp,freeCodeCamp
-f2a38651945ba89f46eb67a9f0b20a969cdbf4a1,feat(curriculum): mark cert projects for backend curriculum (#68834),2026-07-16T06:10:30Z,2,72,Ksound22,freeCodeCamp,freeCodeCamp
