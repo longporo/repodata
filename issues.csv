@@ -1,10 +1,12 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABYI2Wsg,71076,Shape Manager workshop doesn't check constants are correctly assigned,OPEN,2026-10-18T22:32:24Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABUc3lqg,70552,Salary Tracker - Step 39: Socrates giving wrong hints,OPEN,2026-10-01T18:50:21Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABX5Dd4w,71069,Mismatch between answer choices and correct option mapping in Ukrainian localization of quiz,OPEN,2026-10-17T12:25:21Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABDSIEaQ,67593,Add download button to independent lower jaw,OPEN,2026-05-25T07:58:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXrEpUw,71010,Correct pinning instructions and feature descriptions in the file management applications lesson,CLOSED,2026-10-16T11:49:34Z,2026-10-18T01:46:53Z,PrashantGC00,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXYEeWA,70920,Medical Data Validator Step 4: incorrect article in age hint,CLOSED,2026-10-15T09:37:36Z,2026-10-18T01:44:50Z,ankit06-webdev,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABX5Dd4w,71069,Mismatch between answer choices and correct option mapping in Ukrainian localization of quiz,OPEN,2026-10-17T12:25:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXn8ZEA,70988,Python Basics Quiz: refer to string methods consistently,CLOSED,2026-10-16T07:44:38Z,2026-10-17T19:09:22Z,hrshalive-potato,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABUc3lqg,70552,Salary Tracker - Step 39: Socrates giving wrong hints,OPEN,2026-10-01T18:50:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXr-mVQ,71036,PIN Extractor Step 4: fix the preposition and PIN capitalization,CLOSED,2026-10-16T12:59:48Z,2026-10-17T18:58:55Z,AdilRaj_03;adilraj786,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXwTlGw,71056,PIN Extractor: fix seed continuity and Step 11 validation,CLOSED,2026-10-16T18:19:37Z,2026-10-17T18:56:26Z,wigsdev,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXq1m4A,70996,Python Basics Quiz: remove inaccurate output comments and correct printed-string answers,CLOSED,2026-10-16T11:30:18Z,2026-10-17T13:27:44Z,kevinjosh10,freeCodeCamp,freeCodeCamp
@@ -222,7 +224,6 @@ I_kwDOAbI7X88AAAABTKhoLA,70385,Caesar Cipher Step 1 has capitalization and wordi
 I_kwDOAbI7X88AAAABTKiBBA,70387,Caesar Cipher Step 3 has an ambiguous cipher definition,CLOSED,2026-09-25T09:44:18Z,2026-09-25T21:33:10Z,umair-hassan2,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRvRKFA,70119,Correct punctuation in the HTML lecture intros,CLOSED,2026-09-17T09:15:32Z,2026-09-25T21:17:00Z,aron-intframe,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABTKiMlw,70388,Caesar Cipher Step 6 uses an incorrect preposition,CLOSED,2026-09-25T09:44:32Z,2026-09-25T17:49:26Z,Viswa1103,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABDSIEaQ,67593,Add download button to independent lower jaw,OPEN,2026-05-25T07:58:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABTJ2lbg,70381,Remove broken Scrimba video links from CSS Grid,CLOSED,2026-09-25T08:33:15Z,2026-09-25T16:42:06Z,Sidsmartz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABTKBVBQ,70382,Remove the reintroduced encrypted_text variable from the Caesar cipher workshop,CLOSED,2026-09-25T08:51:14Z,2026-09-25T13:38:40Z,Sidsmartz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABR9bfCg,70160,Correct definitions and terminology in the Python integers and floats lesson,CLOSED,2026-09-18T13:38:21Z,2026-09-25T09:07:18Z,amandeavor,freeCodeCamp,freeCodeCamp
@@ -738,8 +739,3 @@ I_kwDOAbI7X88AAAABIE-m3w,68621,workshop flappy penguin step 59 test update,CLOSE
 I_kwDOAbI7X88AAAABIlyqGA,68773,Fix redundant wording and quiz answers missing the focus state in Working with Links lectures,CLOSED,2026-07-13T07:38:16Z,2026-07-20T08:37:38Z,kaushik552k,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABJA9WZA,68869,"Redundant and imprecise wording in the ""How Do You Display Times and Dates in HTML?"" lecture",CLOSED,2026-07-16T07:58:15Z,2026-07-20T07:42:41Z,spacesyntaxwho,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABJXVkWw,68941,chore(security): harden utility CI workflows with explicit token permissions,CLOSED,2026-07-19T16:12:25Z,2026-07-20T03:34:35Z,mariamanbar,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABJRfbpw,68922,Inconsistent syntax highlighting for id inside an f-string expression,CLOSED,2026-07-18T07:26:55Z,2026-07-18T15:18:20Z,Shubh Thakkar,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABJBa06w,68872,Fix incorrect wording in Working with Specialized Semantic Elements lecture,CLOSED,2026-07-16T09:04:21Z,2026-07-18T08:24:49Z,xusnitdinov,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABJLEnDg,68909,Typo in Page of Playing Cards lab instructions,CLOSED,2026-07-17T10:43:01Z,2026-07-18T08:12:28Z,ayush-04jha,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABJHg6JQ,68895,Test checks for text change not related to step,CLOSED,2026-07-16T23:52:14Z,2026-07-18T08:09:14Z,Your Namejaykumar14921@gmail.comjay,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIYmPXw,68691,Replace regex-based test cases in Profile Lookup Lab,CLOSED,2026-07-10T18:24:15Z,2026-07-18T07:29:29Z,neetcodeprogress-lang,freeCodeCamp,freeCodeCamp
