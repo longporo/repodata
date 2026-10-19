@@ -1,4 +1,7 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+c58ed3e0a692e3a1b19281ac8b2f7655ac49c392,fix(deps): update dependency typebox to v1.3.36 (#71078),2026-10-19T03:43:57Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
+c53ca6a127b3679009ce0397bb4a089c07102039,chore(deps): update pnpm to v12.11.2 (#71060),2026-10-18T17:37:13Z,2,124,renovate[bot],freeCodeCamp,freeCodeCamp
+a2d176e8b08c2fd398515a603845807398920790,fix(e2e): failing playwright tests (#71074),2026-10-18T17:36:48Z,3,13,moT01,freeCodeCamp,freeCodeCamp
 d8ad7a793290261e24d18a98b48775bf92b100f2,fix(curriculum): file management applications lesson corrections (#71…,2026-10-18T01:46:51Z,1,8,PrashantGC00,freeCodeCamp,freeCodeCamp
 71376b27c9acab0f37f8a5d902b619ab689d08af,fix(curriculum): change article from a to an in medical data validato…,2026-10-18T01:44:48Z,1,2,ankit06-webdev,freeCodeCamp,freeCodeCamp
 0ad6e1172036474022e4dfdeb060939d4599f9ba,fix: Fix Python basics quiz (#71059),2026-10-17T19:09:19Z,1,4,hrshalive-potato,freeCodeCamp,freeCodeCamp
@@ -1003,9 +1006,3 @@ c1e29ce1e786af1b1dcce1c95b554baed9e4923d,fix(curriculum): Editable region marker
 95cf685d2ce0649730938399c10be0cef09938ad,fix(curriculum): remove redundant wording in times and dates lecture …,2026-07-20T07:42:40Z,1,6,spacesyntaxwho,freeCodeCamp,freeCodeCamp
 0c6cc840a5432746ee6b0bc25c2343a791bd68fa,chore(deps): update github actions (#68932),2026-07-20T03:35:43Z,15,142,renovate[bot],freeCodeCamp,freeCodeCamp
 98a89a065ce01ae2390508d552d00c28689a984b,chore: secure GitHub Actions with explicit token permissions (#68940),2026-07-20T03:34:34Z,3,6,mariamanbar,freeCodeCamp,freeCodeCamp
-839daddf08cf132115da8ebf55be1892a26b60d8,feat: final front end dev libs v9 changes (#68658),2026-07-18T19:59:44Z,7,20,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-94529702715c522c7d992753f70c823ccc12a0b1,fix(curriculum): rename `id` to `dev_id` in `zip()` examples to fix i…,2026-07-18T15:18:18Z,3,14,shubhthakkar06,freeCodeCamp,freeCodeCamp
-79949df1a745833ce8d30ab4e5f6693617a0610c,fix(curriculum): correct wording in specialized semantic elements lec…,2026-07-18T08:24:47Z,2,4,xusnitdinov,freeCodeCamp,freeCodeCamp
-42a9c8dc7e67d23aa8fbd24316147852e5c45482,fix(curriculum): correct its typo in Page of Playing Cards lab instru…,2026-07-18T08:12:26Z,1,4,ayush-04jha,freeCodeCamp,freeCodeCamp
-d47f24dc081acba8a9cda73f553ed7f1a7553952,fix(curriculum): reword second h3 hint in workshop-curriculum-outline…,2026-07-18T08:09:12Z,1,2,jaykumar14921,freeCodeCamp,freeCodeCamp
-24e10b5e655feedc99ad190e0ce86c6b27c89a79,fix(curriculum): replace regex-based test in profile lookup lab (#68900),2026-07-18T07:29:27Z,1,10,neetcodeprogress-lang,freeCodeCamp,freeCodeCamp
