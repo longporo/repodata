@@ -1,4 +1,27 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+6f5e789f2581b10da81d57afc02808d94139e103,chore(deps): update dependency typescript-eslint to v8.71.2 (#71124),2026-10-19T20:53:45Z,2,172,renovate[bot],freeCodeCamp,freeCodeCamp
+5e3dd3a99e637dfc75ddf122d6906c8c5e15e2d7,fix(curriculum): Add hyphen in title of OOP quiz (#71123),2026-10-19T20:42:53Z,1,2,Zyrox-exe,freeCodeCamp,freeCodeCamp
+085eae44e114f45f56eb0b38c6b4f54ddc21da7d,fix(curriculum): format loop review method labels (#71113),2026-10-19T20:18:22Z,1,22,JakkulaVeerababu,freeCodeCamp,freeCodeCamp
+fec25fb390198828abcc6d0f77fdb2012d5d8c85,fix(curriculum): punctuation in key performance concepts lecture (#71…,2026-10-19T20:11:41Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+321fd87ba5ee8dd0a1c377ff5057483beb7e09b3,fix(curriculum): clarify quicksort lab restrictions (#71100),2026-10-19T20:08:58Z,1,4,Stackforge-07,freeCodeCamp,freeCodeCamp
+d54493451f87f057afc2d67e349359e0cb17f4f8,fix(curriculum): correct python classes and objects lectures (#71119),2026-10-19T19:58:20Z,5,25,wigsdev,freeCodeCamp,freeCodeCamp
+7c6f478e9c63311121dcf771b83c5d837063daae,fix(curriculum): format graph complexity notation (#71115),2026-10-19T19:56:26Z,3,14,JakkulaVeerababu,freeCodeCamp,freeCodeCamp
+9687767c7ffd3d4ae2280daf812f48ad5f43ab18,fix(curriculum): format email simulator identifiers (#71114),2026-10-19T19:53:10Z,8,32,JakkulaVeerababu,freeCodeCamp,freeCodeCamp
+993e519c16e63889532c48752ebf06010b9fb804,fix(deps): update algolia (#71118),2026-10-19T17:29:47Z,2,68,renovate[bot],freeCodeCamp,freeCodeCamp
+e941d5057d33cacb2665e06e259a20f4eca5572c,fix(curriculum): remove duplicated html lecture (#71108),2026-10-19T17:26:10Z,5,443,moT01,freeCodeCamp,freeCodeCamp
+cb9571ccb21067d54728470915ef03cbdf8a96e3,fix(curriculum): correct truthy and falsy explanations (#71105),2026-10-19T15:23:30Z,1,10,JakkulaVeerababu,freeCodeCamp,freeCodeCamp
+42f60713f573fad18a0eaa53296800b1e7f7c708,chore(deps): lock file maintenance (#71079),2026-10-19T14:50:42Z,10,9789,renovate[bot],freeCodeCamp,freeCodeCamp
+e2e2a48f4b61b059a0516f1b2a1f8c5e459ff04a,fix(curriculum): replace untaught concepts in Python Data Structures …,2026-10-19T14:26:19Z,1,23,prasadchinthapalli09,freeCodeCamp,freeCodeCamp
+b82e2ed340be814d4e88d4e9221c91d795b2c5c7,fix(curriculum): reorder python algorithms and data structures (#70970),2026-10-19T14:05:43Z,55,5531,Dario-DC,freeCodeCamp,freeCodeCamp
+9dcbe1e6e3f837b75fca876e971375e68118c005,fix(curriculum): add section headers to cli command options lesson (#…,2026-10-19T14:01:10Z,1,8,tem-ctrl,freeCodeCamp,freeCodeCamp
+a1a5661f01506960d013fd719cbc5f5e8fd6fded,fix(curriculum): resolve instruction and seed continuity in salary tr…,2026-10-19T13:53:06Z,12,29,Piyush495,freeCodeCamp,freeCodeCamp
+e1c1c277522ff1f24506e144ac54184b6d319735,fix(curriculum): update print tests for bisection method lab (#71085),2026-10-19T13:44:49Z,1,165,Piyush495,freeCodeCamp,freeCodeCamp
+b3d2ff87c05b0e86e023f0be563916c1ee452506,fix(curriculum): hyphenate object-oriented and capitalize Python in O…,2026-10-19T12:44:52Z,1,12,JuanVP8,freeCodeCamp,freeCodeCamp
+73c360b3947442d07ab9dd252758e39bceb692e1,fix(curriculum): correct JSON parsing explanations in Fetch API HTTP …,2026-10-19T08:45:43Z,1,4,ysflamine,freeCodeCamp,freeCodeCamp
+a58c87a080f93211712895cc95fb6c4ed0cb7edd,test(e2e): isolate project submissions and previews (#70068),2026-10-19T08:43:18Z,5,104,Sembauke,freeCodeCamp,freeCodeCamp
+55749b279709d841f2dc15e1cdd2a824f1998ef2,fix(curriculum): accept equivalent age check in medical validator (#7…,2026-10-19T07:29:51Z,1,6,felipetmasiero,freeCodeCamp,freeCodeCamp
+315e12e644708079bd4c1c91a215457d56879aa4,fix(curriculum): clarify instructions in PIN Extractor Step 3 (#71072),2026-10-19T06:46:51Z,1,4,Aryan9891,freeCodeCamp,freeCodeCamp
+cee78e0025cb68cc28994c09c2c08edb5c39e215,feat(curriculum): flesh out css section in front end web dev superblo…,2026-10-19T05:47:44Z,31,5891,moT01,freeCodeCamp,freeCodeCamp
 c58ed3e0a692e3a1b19281ac8b2f7655ac49c392,fix(deps): update dependency typebox to v1.3.36 (#71078),2026-10-19T03:43:57Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
 c53ca6a127b3679009ce0397bb4a089c07102039,chore(deps): update pnpm to v12.11.2 (#71060),2026-10-18T17:37:13Z,2,124,renovate[bot],freeCodeCamp,freeCodeCamp
 a2d176e8b08c2fd398515a603845807398920790,fix(e2e): failing playwright tests (#71074),2026-10-18T17:36:48Z,3,13,moT01,freeCodeCamp,freeCodeCamp
@@ -1004,5 +1027,3 @@ c1e29ce1e786af1b1dcce1c95b554baed9e4923d,fix(curriculum): Editable region marker
 8f1dfa83a08a2e5c6065a0dc49dd4fdc95ccdcf7,fix(curriculum): editable regions in workshop merge sort (#68925),2026-07-20T09:01:47Z,24,230,AdityaSingh-18,freeCodeCamp,freeCodeCamp
 2ca7c7c7d15d27a833554bf5ec32573851e5be66,fix(curriculum): correct wording and add missing focus state in links…,2026-07-20T08:37:36Z,2,12,kaushik552k,freeCodeCamp,freeCodeCamp
 95cf685d2ce0649730938399c10be0cef09938ad,fix(curriculum): remove redundant wording in times and dates lecture …,2026-07-20T07:42:40Z,1,6,spacesyntaxwho,freeCodeCamp,freeCodeCamp
-0c6cc840a5432746ee6b0bc25c2343a791bd68fa,chore(deps): update github actions (#68932),2026-07-20T03:35:43Z,15,142,renovate[bot],freeCodeCamp,freeCodeCamp
-98a89a065ce01ae2390508d552d00c28689a984b,chore: secure GitHub Actions with explicit token permissions (#68940),2026-07-20T03:34:34Z,3,6,mariamanbar,freeCodeCamp,freeCodeCamp
