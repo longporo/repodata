@@ -1,4 +1,29 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+4464f5ff58c7fd31a605b275d8df96d55634283f,fix(curriculum): prioritize focus border over validation styles (#71185),2026-10-20T23:06:01Z,1,28,Balaji-Coder06,freeCodeCamp,freeCodeCamp
+b667a9f4a51a9e6740cf953b6aa5d7b16b1cbc60,fix: grammar and punctuation in merge sort workshop (#71206),2026-10-20T22:25:21Z,8,22,fiodora-coursework,freeCodeCamp,freeCodeCamp
+5415b054d1dd5500a4949ae5deba896c09a1a5f3,chore(deps): update dependency eslint-plugin-turbo to v2.11.8 (#71191),2026-10-20T21:37:17Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
+e0c8ff5b9bf2ea913c9c46858a3990a951c30c7f,fix(curriculum): assert upper-bound update in binary search step 13 (…,2026-10-20T19:37:09Z,1,23,Prag-deesh,freeCodeCamp,freeCodeCamp
+2daee26caf7b41a7407712965fec7bae211470c9,fix(curriculum): correct title and variable formatting in linked list…,2026-10-20T19:34:33Z,2,6,wigsdev,freeCodeCamp,freeCodeCamp
+1174dd802846de8b1633a4e3456692a4fa5f2a5d,fix(curriculum): correct breadth-first search workshop wording and ty…,2026-10-20T19:31:30Z,4,8,wigsdev,freeCodeCamp,freeCodeCamp
+042f0bf4c9dc8ffa99afaf24dd236537cc0c3a57,fix(curriculum): allow either assignment order in musical instrument …,2026-10-20T19:27:44Z,1,4,wigsdev,freeCodeCamp,freeCodeCamp
+0368561228de5e30f7e495c909cc74ae20ecafd6,fix(curriculum): resolve binary search workshop errors (#71177),2026-10-20T14:47:02Z,4,10,Aditya-kumar-yadav,freeCodeCamp,freeCodeCamp
+b18e848886ad1331640894fc3cd1d8e9e4b38c11,fix(curriculum): allow polygon pictures with dimensions of 50 (#71173),2026-10-20T14:34:24Z,1,30,Stackforge-07,freeCodeCamp,freeCodeCamp
+f60295cc91b2080b23d714a2650abf91d3531956,fix(curriculum): capitalize PIN in workshop introductions (#71174),2026-10-20T14:25:14Z,1,12,codertanmay305,freeCodeCamp,freeCodeCamp
+223f27bcd606e8626a7383e13b8ca6b505425f33,fix(curriculum): correct Tower of Hanoi grammar (#71168),2026-10-20T14:23:11Z,1,6,prerna020,freeCodeCamp,freeCodeCamp
+df53c407fd8dd8fc2a4a6d54da20b28463fc78f0,fix(curriculum): js polynomial time complexity claim (#71172),2026-10-20T13:47:06Z,1,2,priyanshutryingtocode,freeCodeCamp,freeCodeCamp
+51140b9d3d8cb6b01bd27c78432e1b725eb31ebc,chore(deps): update pnpm to v12.13.0 (#71169),2026-10-20T10:33:47Z,2,124,renovate[bot],freeCodeCamp,freeCodeCamp
+c3a16c7140310dda3ba27581bfcded6f8593d88a,fix(curriculum): capitalize PIN acronym in step 6 (#71143),2026-10-20T09:38:22Z,1,2,PRN-6,freeCodeCamp,freeCodeCamp
+e24ac23e758af4a3222fb5c038a0603945287d98,fix(curriculum): clarify game character stat clamping (#71098),2026-10-20T09:34:58Z,1,4,Nacl-HCl,freeCodeCamp,freeCodeCamp
+1a58aad80c083345cffc24e0692594e22d076153,fix(curriculum): clarify index explanation and hint wording in Step 7…,2026-10-20T09:30:35Z,1,4,vridhichaudhary,freeCodeCamp,freeCodeCamp
+3bd92df44131637c7f845d9bbb34a3077998aeac,fix(curriculum): add missing article in PIN extractor step 5 (#71137),2026-10-20T09:29:58Z,1,2,Prag-deesh,freeCodeCamp,freeCodeCamp
+97279558b8c1e09ed645096aa8ce2bc9b0c0d770,fix(curriculum): clarify search explanations and formatting in search…,2026-10-20T09:15:15Z,6,32,JordyR1986,freeCodeCamp,freeCodeCamp
+862c30fe2a0483568bcfbd4899560eedeb131f46,fix(deps): update dependency postcss to v8.5.30 (#71142),2026-10-20T09:03:57Z,2,508,renovate[bot],freeCodeCamp,freeCodeCamp
+9f921f24aac4bdb137890daabafe21c273df5cb2,chore(deps): update dependency @testing-library/user-event to v14.6.8…,2026-10-20T09:02:16Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
+f0f4a2a41c2bf64b347ac2e27c9501cf786fc4b8,fix(curriculum): correct python abstraction lecture and intro wording…,2026-10-20T09:00:06Z,2,46,wigsdev,freeCodeCamp,freeCodeCamp
+8c7cf7972692c37f6f50e6f672a88cad6c251554,chore: assign English intro.json to curriculum team (#71141),2026-10-20T08:32:09Z,1,1,majestic-owl448,freeCodeCamp,freeCodeCamp
+43ed7ef66d0f098d7a5818acf37ec0ea5bc4f8a8,fix(curriculum): use MathJax for 2^n - 1 in Tower of Hanoi lab and wo…,2026-10-20T08:23:37Z,2,4,JordyR1986,freeCodeCamp,freeCodeCamp
+931e53c1d5b9b5f036085aba036585fff89f40f0,fix(curriculum): clarify edge case explanation in PIN extractor step …,2026-10-20T08:06:56Z,1,2,arpitneewaliya,freeCodeCamp,freeCodeCamp
+98c9dd72d697ccb746c2edc476047ef658a5dfa4,fix(curriculum): clarify next(err) best practices bullet (#71133),2026-10-20T07:48:27Z,1,2,mudasirrashid,freeCodeCamp,freeCodeCamp
 6f5e789f2581b10da81d57afc02808d94139e103,chore(deps): update dependency typescript-eslint to v8.71.2 (#71124),2026-10-19T20:53:45Z,2,172,renovate[bot],freeCodeCamp,freeCodeCamp
 5e3dd3a99e637dfc75ddf122d6906c8c5e15e2d7,fix(curriculum): Add hyphen in title of OOP quiz (#71123),2026-10-19T20:42:53Z,1,2,Zyrox-exe,freeCodeCamp,freeCodeCamp
 085eae44e114f45f56eb0b38c6b4f54ddc21da7d,fix(curriculum): format loop review method labels (#71113),2026-10-19T20:18:22Z,1,22,JakkulaVeerababu,freeCodeCamp,freeCodeCamp
@@ -1012,18 +1037,3 @@ a3d7ac8eb5dc95c06a7ad29c44784e8ef43d0880,fix(curriculum): improve HTML video pla
 97cabdefcc3f79744108cc96ca15e1dbeb0003e4,perf(client): fix O(n^2) block lookup in challenge page creation (#68…,2026-07-21T18:00:51Z,1,29,Sembauke,freeCodeCamp,freeCodeCamp
 cfa0eb775271181864eb061a1b3b22a43b8df6ca,fix(curriculum): use Explorer helper for empty array/object declarati…,2026-07-21T17:12:09Z,10,131,laypatel13,freeCodeCamp,freeCodeCamp
 414b426e5005f36cfaae431b583522928349189c,fix(curriculum): use Explorer helper in teacher chatbot workshop (#68…,2026-07-21T16:47:33Z,6,45,lennin331,freeCodeCamp,freeCodeCamp
-8ae71bd8d83251bafe2ec8b63a24b5dc2761775b,"chore(i18n,learn): update i18n-curriculum submodule (#68955)",2026-07-21T03:34:58Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-adf94d0709054dcbeb6f013e8d45896efb0f29b2,fix(curriculum): correct text in nuanced semantic elements lectures (…,2026-07-20T17:52:45Z,2,6,Atishay17,freeCodeCamp,freeCodeCamp
-7e18304d6369864a7f101d6bb1c27c824e73e088,fix(curriculum): align N-Queens lab title (#68944),2026-07-20T16:08:16Z,1,6,adranjan4,freeCodeCamp,freeCodeCamp
-f5662bd8f88062a66a0144b14d51aeab2d456724,refactor(curriculum): replace regex with AST helpers in Mathbot Works…,2026-07-20T15:52:00Z,16,185,yashvi-jain,freeCodeCamp,freeCodeCamp
-aef57f35d27e4d2672562bd939474dc14f6c3734,fix(curriculum): rework head-section hints for Recipe Page lab (#68792),2026-07-20T15:26:29Z,1,36,SanthoshBalagur,freeCodeCamp,freeCodeCamp
-2b332f5bf477ef5bbc66e723c2a14bf4152b1bb0,fix(curriculum): fix editable regions for workshop discount calculato…,2026-07-20T15:11:26Z,30,84,harshlm15,freeCodeCamp,freeCodeCamp
-349ac6b5ce9b7fea4f6c0d88ab7391611c517165,fix(client): remove lower jaw (#68916),2026-07-20T12:53:16Z,29,1749,ahmaxed,freeCodeCamp,freeCodeCamp
-dca87f96bbe6bea6f7c3f07f7970cf790430d155,fix(curriculum): replace regex test with Explorer AST helper in strin…,2026-07-20T10:49:31Z,1,4,eng-abdelrahman-sharaf,freeCodeCamp,freeCodeCamp
-b0e4cf2148936b17d3e2518b5d64a34c8ca109ef,fix(curriculum): consistent indentation in Build a List of Major Web …,2026-07-20T09:51:15Z,7,260,YYuan02,freeCodeCamp,freeCodeCamp
-975bb6c99c28d9a4da7703a7ae6eb0714f45912d,fix(curriculum): audit editable regions in workshop debug coding jour…,2026-07-20T09:39:38Z,9,34,arunkumar0398,freeCodeCamp,freeCodeCamp
-916bda2c21231b4947ebafadfafac25a9bb822fd,fix(curriculum): use getStyleAny to accept reordered compound class s…,2026-07-20T09:26:18Z,13,116,imsomilg,freeCodeCamp,freeCodeCamp
-c1e29ce1e786af1b1dcce1c95b554baed9e4923d,fix(curriculum): Editable region markers in workshop-heritage-library…,2026-07-20T09:11:26Z,18,43,Vishhh03,freeCodeCamp,freeCodeCamp
-8f1dfa83a08a2e5c6065a0dc49dd4fdc95ccdcf7,fix(curriculum): editable regions in workshop merge sort (#68925),2026-07-20T09:01:47Z,24,230,AdityaSingh-18,freeCodeCamp,freeCodeCamp
-2ca7c7c7d15d27a833554bf5ec32573851e5be66,fix(curriculum): correct wording and add missing focus state in links…,2026-07-20T08:37:36Z,2,12,kaushik552k,freeCodeCamp,freeCodeCamp
-95cf685d2ce0649730938399c10be0cef09938ad,fix(curriculum): remove redundant wording in times and dates lecture …,2026-07-20T07:42:40Z,1,6,spacesyntaxwho,freeCodeCamp,freeCodeCamp
