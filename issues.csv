@@ -1,9 +1,17 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABXLlXiw,70880,Running Python scripts lesson: document VS Code setup and correct wording,CLOSED,2026-10-14T15:29:11Z,2026-10-23T20:51:10Z,Supravisor;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABZfBKMg,71346,Book Inventory App: Tests 48-53 fail due to broken CSS parser,OPEN,2026-10-23T20:47:31Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABUc3lqg,70552,Salary Tracker - Step 39: Socrates giving wrong hints,OPEN,2026-10-01T18:50:21Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABZnqEFA,71362,Translation error in Ukrainian version of Bash Scripting Quiz,OPEN,2026-10-24T14:59:28Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABZNE97A,71321,Nutritional Label Step 5 fails in Firefox 158 due to CSSOM font-family serialization,CLOSED,2026-10-22T19:51:47Z,2026-10-24T08:25:17Z,kunvarsingh,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABZkcF4Q,71354,Build a Hash Table hints should use the populated instance,OPEN,2026-10-24T08:11:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABZkYiWg,71352,Linked list class workshop tests accept statements in the wrong order,OPEN,2026-10-24T08:03:59Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABZkUX7g,71351,Linked List Class Step 7 misdescribes the is_empty method,OPEN,2026-10-24T07:54:57Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABZkTWAQ,71349,Merge sort Step 4 rejects a valid explicit slice endpoint,OPEN,2026-10-24T07:52:50Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABZkSEvg,71348,Discount calculator workshop: clarify initializer behavior and required type annotations,OPEN,2026-10-24T07:49:58Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABZfBKMg,71346,Book Inventory App: Tests 48-53 fail due to broken CSS parser,CLOSED,2026-10-23T20:47:31Z,2026-10-24T07:33:40Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABZdCkOg,71344,Incorrect Syntax in Correct Answer for Question in JavaScript Certification Exam,OPEN,2026-10-23T18:14:57Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABYvQykA,71212,UI/Doc suggestion: clarify active target branches (main vs staging) in contributor search results,OPEN,2026-10-21T05:51:38Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXLlXiw,70880,Running Python scripts lesson: document VS Code setup and correct wording,CLOSED,2026-10-14T15:29:11Z,2026-10-23T20:51:10Z,Supravisor;huyenltnguyen,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABUc3lqg,70552,Salary Tracker - Step 39: Socrates giving wrong hints,OPEN,2026-10-01T18:50:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABT9yPuw,70499,[Naomi's Sprint] Add Section Headers to 400-499 Word Lessons,CLOSED,2026-09-29T18:01:05Z,2026-10-23T16:43:35Z,TEE0207,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABYOinnw,71090,Object-Oriented Programming Quiz has an unhyphenated title and comma splices,CLOSED,2026-10-19T08:54:31Z,2026-10-23T16:36:00Z,Thanvik931,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABZH74jw,71302,Build a Budget App: fix sentence fragment in horizontal-line test hint,CLOSED,2026-10-22T14:10:51Z,2026-10-23T16:27:06Z,me-adityaraj8,freeCodeCamp,freeCodeCamp
@@ -23,7 +31,6 @@ I_kwDOAbI7X88AAAABZIO9sw,71305,Build a Planet Class tests require specific initi
 I_kwDOAbI7X88AAAABZIZmaA,71307,Build a Player Interface tests require specific initializer assignment syntax,CLOSED,2026-10-22T14:39:26Z,2026-10-23T08:01:44Z,Rishiii57,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABZT6OCQ,71335,feat(client): Add a Clear Console button to challenge output pane,CLOSED,2026-10-23T07:11:05Z,2026-10-23T07:58:57Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRBjA9A,70025,Screen reader focus issue when editing HTML closing tags in the editor,OPEN,2026-09-13T02:14:19Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABZNE97A,71321,Nutritional Label Step 5 fails in Firefox 158 due to CSSOM font-family serialization,OPEN,2026-10-22T19:51:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABYSlJjA,71104,Lousy lesson questions,OPEN,2026-10-19T13:46:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABZIF8FQ,71304,Build a Hash Table: unchanged-collection test misses changes to nested values,CLOSED,2026-10-22T14:19:54Z,2026-10-22T15:07:12Z,florianaltendorfer,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABZEAD4A,71278,Salary Tracker tests do not restore stdout safely,CLOSED,2026-10-22T09:40:23Z,2026-10-22T14:04:22Z,wigsdev,freeCodeCamp,freeCodeCamp
@@ -54,7 +61,6 @@ I_kwDOAbI7X88AAAABYva51A,71217,Grammar and formatting fixes in Understanding Inh
 I_kwDOAbI7X88AAAABYvS2wg,71213,Build a Budget App has wording and formatting errors,CLOSED,2026-10-21T05:54:59Z,2026-10-21T18:42:55Z,florianaltendorfer,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABYvcPfg,71219,Fix code examples in the polymorphism lecture,CLOSED,2026-10-21T06:09:33Z,2026-10-21T18:40:43Z,Sidsmartz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABYgqlLQ,71159,PIN Extractor Step 18: indent the seed insertion line,CLOSED,2026-10-20T10:08:18Z,2026-10-21T15:48:53Z,mitulkheni,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABYvQykA,71212,UI/Doc suggestion: clarify active target branches (main vs staging) in contributor search results,OPEN,2026-10-21T05:51:38Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABYgqsDA,71160,PIN Extractor Step 19: correct PIN capitalization and return insertion indentation,CLOSED,2026-10-20T10:08:26Z,2026-10-21T15:14:22Z,Kickz1nn,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABYvX0WA,71215,Correct wording and formatting in Understanding Graphs and Trees,CLOSED,2026-10-21T06:02:54Z,2026-10-21T15:07:27Z,reetik-rana,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABYgPCmw,71155,Python Countup Step 2 accepts a base case that excludes negative numbers,CLOSED,2026-10-20T09:33:40Z,2026-10-21T15:03:04Z,priyanshutryingtocode,freeCodeCamp,freeCodeCamp
@@ -791,15 +797,3 @@ I_kwDOAbI7X88AAAABKA5oZw,69013,Grammar and library-name capitalization errors in
 I_kwDOAbI7X88AAAABKDL6CQ,69021,"Fix missing semicolon, curly apostrophe, and missing backticks in the How Do Width and Height Work lecture",CLOSED,2026-07-24T14:32:57Z,2026-07-25T07:54:34Z,TexasAppz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKDL8YQ,69024,"Fix missing period, curly apostrophes, and code spacing in three What Is CSS lectures",CLOSED,2026-07-24T14:33:01Z,2026-07-25T07:46:13Z,Bhavani Govindaraj,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKIQUug,69032,Responsive Web Design - Feature Selection Page test fails when transition is applied to checkbox,CLOSED,2026-07-25T07:12:03Z,2026-07-25T07:33:09Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIunGdw,68813,Replace regex-based test cases in String Formatter Workshop,CLOSED,2026-07-14T07:07:28Z,2026-07-24T17:39:24Z,eng-abdelrahman-sharaf,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87RXna-,62778,CSS Projects Availability Table: Enhance Table Accessibility with ARIA and Captions,CLOSED,2025-10-13T19:59:00Z,2026-07-24T14:43:22Z,Webmekanic;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABJ-WDpw,69007,"Wording (nitpick): ""counter clockwise"" should be ""counterclockwise"" or a variant",CLOSED,2026-07-24T01:29:44Z,2026-07-24T09:38:22Z,HamzaSarwer;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABKAaMJw,69012,Build a Todo App workshop Step 51: editable region insertion line missing indentation,CLOSED,2026-07-24T08:00:38Z,2026-07-24T09:02:45Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87PIe5G,62452,create-new-project extra metadata property with lectures,CLOSED,2025-10-01T21:04:02Z,2026-07-24T07:59:38Z,Muskan-88;Sembauke,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X863ocO_,60469,Todo App using Local Storage — formInputValuesUpdated,CLOSED,2025-05-21T16:36:14Z,2026-07-24T07:58:42Z,Fixito,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIYmM2w,68686,Replace regex-based test cases in Debug Type Coercion Errors Lab,CLOSED,2026-07-10T18:24:09Z,2026-07-24T07:55:37Z,SanthoshBalagur;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABJ60kfw,69000,Duplicate const restriction sentence in Build a Weather App lab description,CLOSED,2026-07-23T15:59:26Z,2026-07-24T07:13:03Z,Benlite777,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABJ5lRTA,68999,Cargo Manifest challenge does not accept arrow functions,CLOSED,2026-07-23T13:30:43Z,2026-07-24T07:03:48Z,RAJ-A58,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIYmmwA,68721,Replace regex-based test cases in Space Mission Roster Workshop,CLOSED,2026-07-10T18:25:14Z,2026-07-24T06:58:59Z,eng-abdelrahman-sharaf,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87aPEGx,64112,Lab – Story Fragment Shuffler,CLOSED,2025-11-25T03:42:25Z,2026-07-24T06:51:25Z,l3onhard;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIYmjQg,68714,Replace regex-based test cases in Reusable Mega Navbar Workshop,CLOSED,2026-07-10T18:25:05Z,2026-07-24T06:50:32Z,laypatel13,freeCodeCamp,freeCodeCamp
