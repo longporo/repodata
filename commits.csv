@@ -1,4 +1,5 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+1d59c16e9ce7bf4b6b951203440850a65430b327,fix(curriculum): support unquoted font-family in Nutritional Label St…,2026-10-24T08:25:14Z,2,6,kunvarsingh,freeCodeCamp,freeCodeCamp
 ef0c4062c416d57cd82e2e207f7d9d794e068d60,fix(curriculum): update Python setup (#70906),2026-10-23T20:51:08Z,1,44,Supravisor,freeCodeCamp,freeCodeCamp
 59a03378ff0ee7a9a9e056e97f1a0f96181519ef,fix(curriculum): remove refs to removed lessons (#70979),2026-10-23T20:31:00Z,9,84,Ksound22,freeCodeCamp,freeCodeCamp
 ad30bc98f7d8f968fb626f003560aa357c78e34c,fix(curriculum): check printed matrix rows (#71236),2026-10-23T20:22:33Z,1,3,majestic-owl448,freeCodeCamp,freeCodeCamp
@@ -1076,17 +1077,3 @@ d2dead4b922d619ccaab7136dc36bbb31173a30d,fix(docs): remove stale entry from READ
 990deeb128643a4aff4e13ee10562fdd315df162,fix(curriculum): correct grammar and library-name capitalization in I…,2026-07-25T09:02:11Z,1,2,ATURKIEH,freeCodeCamp,freeCodeCamp
 a635c786330a605420d4a94118af8b37fb491f41,"fix(curriculum): correct semicolon, apostrophe, and backticks in widt…",2026-07-25T07:54:32Z,1,6,TexasAppz,freeCodeCamp,freeCodeCamp
 f4d63e1eca37e9d2cc8dc1d48fda2686d8ea3144,fix: correct punctuation errors in CSS lecture descriptions (#69025),2026-07-25T07:46:11Z,3,8,Bhavani2016,freeCodeCamp,freeCodeCamp
-57c593e240e18b9e993c3980025a3fcec96dcc7f,fix(curriculum): use Explorer helper in string formatter workshop (#6…,2026-07-24T17:39:22Z,3,9,eng-abdelrahman-sharaf,freeCodeCamp,freeCodeCamp
-6ae628779bd8d654932dba66cbd9a14fa3f6234b,fix(api): allow freecodecamp-os challenges through coderoad endpoints…,2026-07-24T15:59:15Z,11,23,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-e0375225874cbf97c5b5bfe767dd777ab329182b,fix(api): sentry hygiene and coverage (#68795),2026-07-24T15:52:20Z,27,479,raisedadead,freeCodeCamp,freeCodeCamp
-0cd3b37a612a65a5b5d636755cc48f661179a6cc,fix(curriculum): enhance table a11y for availability table lab (#66867),2026-07-24T14:43:20Z,1,291,Webmekanic,freeCodeCamp,freeCodeCamp
-5083f0ff460eaa93afb4b523c8b4b8a6bf813db1,test(client): remove per-keystroke typing from flaky client tests (#6…,2026-07-24T14:05:37Z,1,12,Sembauke,freeCodeCamp,freeCodeCamp
-25b93d9a2ebb02e1abc7130e7d59777662d48c3b,fix(curriculum): use counterclockwise spelling consistently (#69011),2026-07-24T09:38:20Z,9,18,alihamzaio,freeCodeCamp,freeCodeCamp
-5f74fbb13a80343781a983d4eb4c062a0eb3b862,fix(scripts): use per-type metadata templates in create-new-project (…,2026-07-24T07:59:36Z,2,66,Muskan-88,freeCodeCamp,freeCodeCamp
-adc93a79ee96b7db4bbc9ee4cdcafb110293f195,fix(curriculum): update regex for todo form input checks (#66235),2026-07-24T07:58:41Z,53,1351,Fixito,freeCodeCamp,freeCodeCamp
-1647c6a422f8114d1aafe3f162ab8602edaf9577,fix(curriculum): replace regex tests with AST in Debug Type Coercion …,2026-07-24T07:55:35Z,1,71,SanthoshBalagur,freeCodeCamp,freeCodeCamp
-38bb9d2fa0eacb669c63996bd22170d2354a02c3,fix(curriculum): remove duplicate const restriction from weather app …,2026-07-24T07:13:01Z,1,2,Benlite777,freeCodeCamp,freeCodeCamp
-9fdfdd8b6d6b823a7908f178e178850e2897aa5d,fix(curriculum): handle const arrow function reassignment in cargo ma…,2026-07-24T07:03:47Z,1,12,RAJ-A58,freeCodeCamp,freeCodeCamp
-986eb2d6ff063d9bc93577750af5cfcce758c791,fix(curriculum): replace regex test with Explorer AST helper in space…,2026-07-24T06:58:57Z,13,156,eng-abdelrahman-sharaf,freeCodeCamp,freeCodeCamp
-c2ff292efbd4f0a04f20a37378c1c9c92f585df6,feat(curriculum): add lab-story-fragment-restoration to JavaScript-v9…,2026-07-24T06:51:24Z,4,558,l3onhard,freeCodeCamp,freeCodeCamp
-b3e608216cb8310fba30afcdcf571e4e2f6dea31,fix(curriculum): use Explorer helper in mega navbar workshop step 1 (…,2026-07-24T06:50:30Z,1,4,laypatel13,freeCodeCamp,freeCodeCamp
