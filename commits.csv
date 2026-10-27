@@ -1,4 +1,17 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+c1374070ae8b4d9e2719147a5d3c2efcc5282547,fix(curriculum): replace boilerplate intros for python oop and inheri…,2026-10-26T20:34:15Z,1,18,florianaltendorfer,freeCodeCamp,freeCodeCamp
+aa07f22c99d6d1aa004364a201063fac7b9c8745,fix(curriculum): require lists from Media Catalogue getters (#71387),2026-10-26T20:32:56Z,2,2,sogav21,freeCodeCamp,freeCodeCamp
+6d3ade76f2df8bae55280fa7d1c53ddf077bdc10,chore(deps): update eslint (#71391),2026-10-26T20:27:32Z,2,162,renovate[bot],freeCodeCamp,freeCodeCamp
+7fb6161278ae2c94a6e7a6f13eabf5ed1b089a2c,feat(curriculum): add linked list operations lab to python algorithms…,2026-10-26T20:23:51Z,4,534,Dario-DC,freeCodeCamp,freeCodeCamp
+3323b3cb90582c8e934cb2b4daffd67e3d7ca913,feat(curriculum): add doubly linked list lab to python algorithms and…,2026-10-26T20:04:05Z,4,523,Dario-DC,freeCodeCamp,freeCodeCamp
+3e053c91499cdb7a982fbbc59912ee234e627688,fix(deps): update dependency markdown-it to ^14.3.2 (#71333),2026-10-26T17:25:26Z,2,4,renovate[bot],freeCodeCamp,freeCodeCamp
+9a89263ed602a43db183ae050e51dd0b1ea3b698,fix(curriculum): describe hash table hash as sum of Unicode code poin…,2026-10-26T12:18:28Z,1,6,florianaltendorfer,freeCodeCamp,freeCodeCamp
+fc679271a3d90eb617d0041021950b85c9eb9a3f,fix(curriculum): clarify separate print() call requirements in Python…,2026-10-26T12:17:30Z,3,12,florianaltendorfer,freeCodeCamp,freeCodeCamp
+29d86437e918275b204a80c6acf28c986a33c408,fix(curriculum): check statement order in Linked List Workshop steps …,2026-10-26T10:14:55Z,2,54,Pushkar-Shahi,freeCodeCamp,freeCodeCamp
+aca99ed54f83c0bcf8be20173ce6ce0d68ee461f,fix(curriculum): use ht in hash table hints (#71356),2026-10-26T10:02:46Z,1,12,aminajao,freeCodeCamp,freeCodeCamp
+e8dbd49078c301952d37907bfc401e25cdcfb018,chore(curriculum): replace curly quotes in space mission roster works…,2026-10-26T09:54:44Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+d65f286a87795cac7e2cc140c2e2f38f7ae28178,fix(curriculum): allow any solution order in n-queens tests (#71377),2026-10-26T09:42:52Z,1,7,wigsdev,freeCodeCamp,freeCodeCamp
+11858599782887bdcdf8bed3f030b80df00da243,feat(curriculum): add insertion sort lab to python algorithms and dat…,2026-10-26T08:12:47Z,4,272,Dario-DC,freeCodeCamp,freeCodeCamp
 d6d7c30c60750ad0118635ddfd0cec37810d2b92,fix(curriculum): clarify is_empty method description (#71363),2026-10-25T10:20:40Z,1,2,EulenisT,freeCodeCamp,freeCodeCamp
 528e3939fa4c9248fcb19929f261fa99e56ca63e,fix(curriculum): accept explicit slice endpoint in Merge Sort Step 4 …,2026-10-25T10:03:54Z,1,5,kunvarsingh,freeCodeCamp,freeCodeCamp
 4f4f00b8caf92536bfa118b3d2d7e57588361a62,fix(curriculum): corrected Mismatch in names for CSS backgrounds and …,2026-10-25T10:01:39Z,2,6,codertanmay305,freeCodeCamp,freeCodeCamp
@@ -1068,11 +1081,3 @@ e4b9a378d177c2123ce761ec73b131c5dc3491fe,fix(curriculum): add missing console.lo
 2bb4a5e201cbe4ed1369cbe13b65158e1a91d3f1,fix: atomic concurrent modern-challenge updates (#68949),2026-07-27T06:58:05Z,9,158,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 a26195fa438a433e76d45b6f929a1cc661693143,fix(curriculum): correct comma spacing in four challenge descriptions…,2026-07-27T06:43:16Z,4,8,Ayush3396,freeCodeCamp,freeCodeCamp
 0acef203acd4adf69d3199b722ebd49d37f9ba72,fix(curriculum): use AST helper for toggle text workshop step 8 (#68982),2026-07-27T05:56:22Z,1,4,typovrak,freeCodeCamp,freeCodeCamp
-aa66160b985671217a80bb31b6fd8fbe87da0e8c,chore(deps): upgrade sanitize-html to 2.17.4 (#69036),2026-07-27T03:51:29Z,2,27,anupamme,freeCodeCamp,freeCodeCamp
-0605426fa9b1bff572832c4b6cd4e37616d7cf06,fix(curriculum): update Python intro copy (#69049),2026-07-26T23:59:44Z,1,2,nahidh-os,freeCodeCamp,freeCodeCamp
-71a8b2f5d24adf4f319d71f572c06c0d4a062973,fix(curriculum): correct casing for undefined and null data types in …,2026-07-26T23:54:39Z,1,6,akashwi,freeCodeCamp,freeCodeCamp
-43b577946728505f0f1b611d83347848475c3076,fix(curriculum): updated typo of form questions feedback (#69044),2026-07-26T19:41:32Z,2,10,vinniit-23,freeCodeCamp,freeCodeCamp
-9156d65be5f1575114c5fe5a1bcc83c37769fed7,fix: add the missing keyword in var explanation (#69043),2026-07-26T19:06:21Z,1,2,syeda-hira-batool,freeCodeCamp,freeCodeCamp
-5ff85de7b26b50afa675dc619e13a8bb005f980d,fix: Fix typographical errors in lecture markdown (#69041),2026-07-26T19:01:11Z,1,8,ashis-baral,freeCodeCamp,freeCodeCamp
-b0f9e69773b33caa1232a905d7cbb7e10806565b,fix(curriculum): correct grammar in margins and padding lecture (#69038),2026-07-26T07:16:58Z,1,6,Vanshdeep001,freeCodeCamp,freeCodeCamp
-68d866f56e81d121577aad3c853244caec351eac,fix(curriculum): use Explorer helper in String Inspector Workshop (#6…,2026-07-26T06:40:37Z,8,40,eng-abdelrahman-sharaf,freeCodeCamp,freeCodeCamp
