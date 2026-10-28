@@ -1,4 +1,24 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+7f7c912e42acca3e47046c637381409fcff65acc,chore(deps): update dependency eslint-plugin-turbo to v2.11.10 (#71422),2026-10-28T03:52:48Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
+277027cc8b0b1fc7dd4589b310f044d498ad98e7,fix(curriculum): remove refs to removed lessons (#71402),2026-10-28T03:50:13Z,8,34,Ksound22,freeCodeCamp,freeCodeCamp
+a224b2e5ead24533c138d0dffc524fc4da5c3e74,chore(deps): update dependency joi to v18.3.0 (#71416),2026-10-27T21:20:15Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
+fb1dcbc686f67564c8a186dd5478fe95bb69f8f8,fix(curriculum): remove misleading tries paragraph (#71420),2026-10-27T21:15:06Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+92455fe7636dd8e9b0ba4c604be13807ea8b6e1b,fix(curriculum): reject non-positive amounts in encapsulation lecture…,2026-10-27T20:17:14Z,1,2,Aryan9891,freeCodeCamp,freeCodeCamp
+0dc0b867ce80d351aee208a2ca7e15d4449beb39,fix(curriculum): accept equivalent solutions in media catalogue step …,2026-10-27T20:06:50Z,1,6,Sidsmartz,freeCodeCamp,freeCodeCamp
+3ff3c799be5ec90d850509140dbb6147c007e30b,fix(curriculum): correct typo in A2 English task 68 (#71394),2026-10-27T20:05:05Z,1,4,Shubham02022002,freeCodeCamp,freeCodeCamp
+63d09ce193c60147da1f5e1070591b516680cf05,chore(deps): update dependency core-js to v3.51.0 (#71412),2026-10-27T19:50:16Z,2,20,renovate[bot],freeCodeCamp,freeCodeCamp
+f2a529f928e54b749910c8455643431c3a4c139b,fix(curriculum): Correct Dynamic Programming Lecture Explanations (#7…,2026-10-27T19:47:54Z,1,28,aliyasyeddd,freeCodeCamp,freeCodeCamp
+8bd0c0fabc284264cbbb13b03e34851f603664d2,fix(deps): update dependency postcss to v8.5.31 (#71401),2026-10-27T16:29:22Z,2,428,renovate[bot],freeCodeCamp,freeCodeCamp
+cdf81b55b93563de254edb1c73ab10d3904390ab,fix(curriculum): apply cafe menu workshop audit findings (#71276),2026-10-27T16:27:17Z,6,62,Ksound22,freeCodeCamp,freeCodeCamp
+5eef3cda1939943dc3aedb14e9390fcebd99466d,docs: clarify exam question count limit (#71371),2026-10-27T13:53:44Z,1,2,PointerL,freeCodeCamp,freeCodeCamp
+2384646d4a6a508b90129238d6fe8578ad1d0363,fix(client): show backend v9 certification on profiles (#70944),2026-10-27T13:52:00Z,3,42,majestic-owl448,freeCodeCamp,freeCodeCamp
+84192ac3d917efd07d944de12fe69f1366b1c8c8,fix(deps): update dependency fast-uri to v2.4.8 (#71396),2026-10-27T13:21:28Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
+e79e803ce2fb71abf23d0d6c403344a7246471fc,fix(scripts): change develop:server to develop:api in start script (#…,2026-10-27T13:19:30Z,1,2,Vader069,freeCodeCamp,freeCodeCamp
+b0d90a8ebe8db196402cf5d6491fcb7c0dd7e5ba,feat(curriculum): add css review and quiz (#71122),2026-10-27T08:45:55Z,10,2868,moT01,freeCodeCamp,freeCodeCamp
+d2ec8d6798b37aec1209203399b7b2dda00fc6a9,chore(turbo): disable agent guidance,2026-10-27T07:15:03Z,1,1,raisedadead,freeCodeCamp,freeCodeCamp
+47f3e9ccbe7f7b847f3f30ff86ce578dfa958c19,fix(readme): use prettier thematic break,2026-10-27T07:08:01Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
+1b6bb95c3075f489a444afe7f5933c108a2f9bd2,docs(readme): add Vultr sponsor logo,2026-10-27T06:48:30Z,3,15,raisedadead,freeCodeCamp,freeCodeCamp
+70e49d8934e1e6a3d108b77fdad22a0c1737eb6c,fix(deps): update dependency pinyin-tone to v2.4.1 (#71395),2026-10-27T06:26:52Z,2,13,renovate[bot],freeCodeCamp,freeCodeCamp
 c1374070ae8b4d9e2719147a5d3c2efcc5282547,fix(curriculum): replace boilerplate intros for python oop and inheri…,2026-10-26T20:34:15Z,1,18,florianaltendorfer,freeCodeCamp,freeCodeCamp
 aa07f22c99d6d1aa004364a201063fac7b9c8745,fix(curriculum): require lists from Media Catalogue getters (#71387),2026-10-26T20:32:56Z,2,2,sogav21,freeCodeCamp,freeCodeCamp
 6d3ade76f2df8bae55280fa7d1c53ddf077bdc10,chore(deps): update eslint (#71391),2026-10-26T20:27:32Z,2,162,renovate[bot],freeCodeCamp,freeCodeCamp
@@ -1066,18 +1086,3 @@ fcb35c9a65bee1d5be8a2d7cc7a89a9565d893e1,fix: correct data types lesson examples
 6a182498c3a29ca7b2647d959090f65ec599c8e7,fix(curriculum): remove unused workshop-calorie-counter block (#69094),2026-07-28T10:12:09Z,97,23761,Webmekanic,freeCodeCamp,freeCodeCamp
 7f7379efeb4cce4b01397a64f431918921eaf136,fix(api): dcc empty collections return 200 not 404 (#68890),2026-07-28T09:54:00Z,5,60,raisedadead,freeCodeCamp,freeCodeCamp
 7c68382a6e4cf0ec5284540003d4ce0f5e4e7265,fix(curriculum): typo in future continous ordinal number (#69052),2026-07-28T06:35:29Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-e1e2f014c4ffb2bd13e84d7e7b42d87df6581261,fix(curriculum): correct Hotel Feedback Form hint tests (#69084),2026-07-27T19:32:21Z,11,33,owevertonguedes,freeCodeCamp,freeCodeCamp
-561abd960ff39fd18b2fbff6663c6d4bf73c0d36,fix(curriculum): correct Cafe Menu hint assertions (#69083),2026-07-27T16:41:46Z,3,4,owevertonguedes,freeCodeCamp,freeCodeCamp
-a6afcf235300d052d9c712493cc0622488b980f9,fix(api): bypass cors warn logging for /exam-environment/ (#68923),2026-07-27T14:44:46Z,3,20,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-c1f85c67ba0507a1f17e912f62ebb3758e37706e,test(api): remove race from challenge test (#69079),2026-07-27T14:44:43Z,1,3,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-b70b3caea6fdaa23bd055ce83a746e427e34cb59,feat(curriculum): automate seed-code semicolon fixes (#66766),2026-07-27T14:44:00Z,837,6176,Sembauke,freeCodeCamp,freeCodeCamp
-52a08e7ae728c182da51892bfdf3078cd5f8af1e,fix(client): mirror landing page hero image and catalog arrow for RTL…,2026-07-27T14:26:22Z,2,15,ahmaxed,freeCodeCamp,freeCodeCamp
-959e55112425db2f9c3461ac61c1f46b0abaa08a,fix(curriculum): improve wording in declaring-variables lecture (#69078),2026-07-27T14:08:35Z,1,14,Hashim1999164,freeCodeCamp,freeCodeCamp
-e162a9127255026b195215f29221903fe2712ac4,fix(curriculum): use Explorer helper in reusable profile card compone…,2026-07-27T13:23:54Z,3,52,laypatel13,freeCodeCamp,freeCodeCamp
-b6380af76d8ac7a625aaf1d92b9999ec87a8013b,test(client): move staging warning modal coverage to client tests (#6…,2026-07-27T09:06:23Z,2,104,Sembauke,freeCodeCamp,freeCodeCamp
-714728029394edade815ca4f8c94364602b718d9,feat(curriculum) add envelope budget app (#64427),2026-07-27T09:05:29Z,102,30859,larymak,freeCodeCamp,freeCodeCamp
-171e6d80c38bb90be88d5c6d0a2cf5ed2a064b58,fix(curriculum): improve string concatenation lecture wording (#69070),2026-07-27T08:59:33Z,1,13,Vam-si-krish,freeCodeCamp,freeCodeCamp
-e4b9a378d177c2123ce761ec73b131c5dc3491fe,fix(curriculum): add missing console.log removal instruction and hint…,2026-07-27T08:26:15Z,1,12,laxitajain,freeCodeCamp,freeCodeCamp
-2bb4a5e201cbe4ed1369cbe13b65158e1a91d3f1,fix: atomic concurrent modern-challenge updates (#68949),2026-07-27T06:58:05Z,9,158,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-a26195fa438a433e76d45b6f929a1cc661693143,fix(curriculum): correct comma spacing in four challenge descriptions…,2026-07-27T06:43:16Z,4,8,Ayush3396,freeCodeCamp,freeCodeCamp
-0acef203acd4adf69d3199b722ebd49d37f9ba72,fix(curriculum): use AST helper for toggle text workshop step 8 (#68982),2026-07-27T05:56:22Z,1,4,typovrak,freeCodeCamp,freeCodeCamp
