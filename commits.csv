@@ -1,4 +1,16 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+e7093476eb95376ec1a144ea2b4380fce54bc18e,chore(deps): update pnpm to v12.15.0 (#71437),2026-10-28T22:14:11Z,2,126,renovate[bot],freeCodeCamp,freeCodeCamp
+391a4ab8957faf3bcf9174e082130c67bd022482,fix(ci): drop the wrong cleanup time comment (#71442),2026-10-28T22:10:24Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
+e2201478bf39061f5b3d871fb9a1c9d857423425,fix(curriculum): correct path.dirname() output in Path Module lecture…,2026-10-28T18:23:16Z,1,3,NotAFlightRisk,freeCodeCamp,freeCodeCamp
+af02ebea245d110046ad31d9dc4e5cbc4c680c35,fix(curriculum): clarify Python basics quiz questions (#71433),2026-10-28T16:20:40Z,1,22,Pranitha06sri,freeCodeCamp,freeCodeCamp
+b8b489ee3c8a32a87edd6cc16f2622f57dd5a91f,fix(curriculum): count transfer withdrawals in budget app spend chart…,2026-10-28T13:37:03Z,1,167,rustom-yadav,freeCodeCamp,freeCodeCamp
+0c5ba4ad0e09d8cebbcade201c2c0c3a1968222a,fix(curriculum): tighten salary tracker tests (#71427),2026-10-28T11:37:50Z,3,9,1cbyc,freeCodeCamp,freeCodeCamp
+41fd37702e257b41fc46c6e50b3a155bb0e13aee,fix(curriculum): clarify name mangling in encapsulation lesson (#71421),2026-10-28T08:45:15Z,1,4,Supravisor,freeCodeCamp,freeCodeCamp
+65df097590ae56a43159b7991b5c11ba613aa437,fix(curriculum): correct class syntax and output examples in oop enca…,2026-10-28T08:42:44Z,2,8,Sidsmartz,freeCodeCamp,freeCodeCamp
+2b86fcfbb2b0ac13bc308d9efef78683a5cab944,fix(curriculum): accept list comprehension in shortest path step 9 (#…,2026-10-28T08:40:47Z,1,13,Sidsmartz,freeCodeCamp,freeCodeCamp
+aabcae76637dfdd4081d1487be9aae55d65cb59c,fix(curriculum): use descriptive function names in project euler 159 …,2026-10-28T08:38:16Z,2,20,Sidsmartz,freeCodeCamp,freeCodeCamp
+94d97dfdbbac79f6cc5ccb9d9ba8cfd05af65d55,fix(curriculum): clarify that the radius must be positive (#71418),2026-10-28T08:36:33Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+f6eb5881a78ef5cb6f1ac0b18930ca7a6a36c987,chore(deps): update dependency puppeteer to v25.15.0 (#71424),2026-10-28T08:10:16Z,2,20,renovate[bot],freeCodeCamp,freeCodeCamp
 7f7c912e42acca3e47046c637381409fcff65acc,chore(deps): update dependency eslint-plugin-turbo to v2.11.10 (#71422),2026-10-28T03:52:48Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
 277027cc8b0b1fc7dd4589b310f044d498ad98e7,fix(curriculum): remove refs to removed lessons (#71402),2026-10-28T03:50:13Z,8,34,Ksound22,freeCodeCamp,freeCodeCamp
 a224b2e5ead24533c138d0dffc524fc4da5c3e74,chore(deps): update dependency joi to v18.3.0 (#71416),2026-10-27T21:20:15Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
@@ -1083,6 +1095,3 @@ fcb35c9a65bee1d5be8a2d7cc7a89a9565d893e1,fix: correct data types lesson examples
 9d1daa7d690dbde7222a3f0024cadec43b445dd8,fix(curriculum): Text changes in Build a Hotel Form Steps (#69095),2026-07-29T10:03:58Z,3,19,waleed-akram,freeCodeCamp,freeCodeCamp
 00bd2568bf03deb166095d2d47583c115d569256,fix(curriculum): clarify style tag hint in cafe menu step 10 (#69100),2026-07-29T09:18:16Z,1,2,Aimwee,freeCodeCamp,freeCodeCamp
 4fbcc5a33866096be1c16ee105a2cd0a2098714f,fix(curriculum): capitalize Man-in-the-Middle (#69101),2026-07-29T09:05:24Z,4,8,Anavyarai,freeCodeCamp,freeCodeCamp
-6a182498c3a29ca7b2647d959090f65ec599c8e7,fix(curriculum): remove unused workshop-calorie-counter block (#69094),2026-07-28T10:12:09Z,97,23761,Webmekanic,freeCodeCamp,freeCodeCamp
-7f7379efeb4cce4b01397a64f431918921eaf136,fix(api): dcc empty collections return 200 not 404 (#68890),2026-07-28T09:54:00Z,5,60,raisedadead,freeCodeCamp,freeCodeCamp
-7c68382a6e4cf0ec5284540003d4ce0f5e4e7265,fix(curriculum): typo in future continous ordinal number (#69052),2026-07-28T06:35:29Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
