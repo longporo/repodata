@@ -1,4 +1,13 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+dcb150b92253efea72454e8be4ab5a160f5649c3,fix(curriculum): simplify what is python lesson (#71450),2026-10-29T17:20:10Z,1,68,moT01,freeCodeCamp,freeCodeCamp
+7f15986d36e0b0601964600005a5754b6803bb20,chore(deps): update dependency puppeteer to v25.16.0 (#71446),2026-10-29T15:37:52Z,2,389,renovate[bot],freeCodeCamp,freeCodeCamp
+2b7e6901c9f09bc1f1e076ce0cb96eeb8365629c,fix: remove python install module (#71445),2026-10-29T15:34:22Z,2,27,moT01,freeCodeCamp,freeCodeCamp
+acc8565c7b1bc4b5ce9d64966909a481084d8c5b,fix(curriculum): note selection sort lab limits (#71298),2026-10-29T12:40:58Z,1,2,aminajao,freeCodeCamp,freeCodeCamp
+1e0958b31bfbc80862f0aea7b0d2cd9aced907dd,feat(curriculum): add binary search tree workshop to python algorithm…,2026-10-29T09:53:18Z,32,3066,Dario-DC,freeCodeCamp,freeCodeCamp
+8bc264025f9427bfdf5ce3f927fbc3fcb19be9ed,fix(curriculum): update type hint instructions for discount calculato…,2026-10-29T09:43:24Z,6,12,Vader069,freeCodeCamp,freeCodeCamp
+4098213f1d66ea772959a495534b2868d31263d4,feat(curriculum): add Python incidence matrix lab (#71347),2026-10-29T09:41:17Z,4,182,majestic-owl448,freeCodeCamp,freeCodeCamp
+55e1c05dd052a4adc4f57dc0e36d3290b2c0bf73,fix(curriculum): require new flashcard to be displayed after adding i…,2026-10-29T09:03:33Z,1,29,yhcb21,freeCodeCamp,freeCodeCamp
+75e5e34b37a800ee795f132be035e21d7b795c7d,fix(curriculum): accept valid email simulator code (#71435),2026-10-29T08:15:51Z,5,75,zicziczic,freeCodeCamp,freeCodeCamp
 e7093476eb95376ec1a144ea2b4380fce54bc18e,chore(deps): update pnpm to v12.15.0 (#71437),2026-10-28T22:14:11Z,2,126,renovate[bot],freeCodeCamp,freeCodeCamp
 391a4ab8957faf3bcf9174e082130c67bd022482,fix(ci): drop the wrong cleanup time comment (#71442),2026-10-28T22:10:24Z,1,2,raisedadead,freeCodeCamp,freeCodeCamp
 e2201478bf39061f5b3d871fb9a1c9d857423425,fix(curriculum): correct path.dirname() output in Path Module lecture…,2026-10-28T18:23:16Z,1,3,NotAFlightRisk,freeCodeCamp,freeCodeCamp
@@ -1088,10 +1097,3 @@ b8a3bf49154115a0babb6042df83ce64232cdeab,fix(curriculum): correct grammar and fo
 2e3fed263fc2d27c732bd52895fdab3171dd5100,fix(curriculum): update wording in hotel feedback steps 19-22 (#69122),2026-07-30T08:23:24Z,4,18,Wolf-011,freeCodeCamp,freeCodeCamp
 e5410e3f5566589f8a567ab3d798b042b6c0df95,fix(curriculum): Replace regex-based test cases in Word Counter Works…,2026-07-30T08:21:53Z,4,59,TEE0207,freeCodeCamp,freeCodeCamp
 054ce65a138414bc795601890e291d0da22478ec,fix(curriculum): correct CSS indentation in workshop cafe menu (#69114),2026-07-30T07:34:42Z,1,2,priyaaa405,freeCodeCamp,freeCodeCamp
-1d591bd2b4a7b362b0bfa5ef19d1c032b36d2f88,"fix(curriculum): use ""$0"" when clearing cart totals in steps 60 and 6…",2026-07-29T17:17:25Z,2,28,Vendetaaaa,freeCodeCamp,freeCodeCamp
-fcb35c9a65bee1d5be8a2d7cc7a89a9565d893e1,fix: correct data types lesson examples (#69112),2026-07-29T16:46:45Z,1,17,ladanhamoud,freeCodeCamp,freeCodeCamp
-504415715fb8d6e3766ae76cb1081b0919efc2c2,fix(curriculum): remove interactive editor from sort empty slot examp…,2026-07-29T15:30:30Z,1,6,Supravisor,freeCodeCamp,freeCodeCamp
-6f0c6237da38418e1b3546f32a0332e90632925f,"fix: added missing space in rel=""stylesheet""/> in workshop-cafe-menu …",2026-07-29T10:44:12Z,77,156,dishamittalnitb,freeCodeCamp,freeCodeCamp
-9d1daa7d690dbde7222a3f0024cadec43b445dd8,fix(curriculum): Text changes in Build a Hotel Form Steps (#69095),2026-07-29T10:03:58Z,3,19,waleed-akram,freeCodeCamp,freeCodeCamp
-00bd2568bf03deb166095d2d47583c115d569256,fix(curriculum): clarify style tag hint in cafe menu step 10 (#69100),2026-07-29T09:18:16Z,1,2,Aimwee,freeCodeCamp,freeCodeCamp
-4fbcc5a33866096be1c16ee105a2cd0a2098714f,fix(curriculum): capitalize Man-in-the-Middle (#69101),2026-07-29T09:05:24Z,4,8,Anavyarai,freeCodeCamp,freeCodeCamp
