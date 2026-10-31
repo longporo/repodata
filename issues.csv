@@ -1,11 +1,18 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABbV3ZoQ,71473,JavaScript reviews still say callbacks run after the outer function finishes,OPEN,2026-10-31T01:54:26Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABaTpBaA,71400,Table on certification page for exams doesn't show a solution.,OPEN,2026-10-27T13:43:32Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABbObT4Q,71470,Don't show C# exam results on cert page,OPEN,2026-10-30T15:32:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABaTjbfA,71399,Table on certification page doesn't look good.,OPEN,2026-10-27T13:38:03Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABbNyhaw,71469,Correct explanations and missing concepts in the Python Loops and Sequences Review,OPEN,2026-10-30T14:52:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABa9iUwQ,71447,Python variable naming guidance incorrectly excludes non-ASCII characters,OPEN,2026-10-29T16:43:34Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABbAOVGg,71452,Update Technology Trends Quiz option for consistency,OPEN,2026-10-29T19:36:18Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABbH4X6w,71458,Nth Fibonacci Number Calculator lab rejects valid memoized recursion,CLOSED,2026-10-30T07:37:18Z,2026-10-30T08:34:27Z,Aryan9891,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABbH63VQ,71459,Python Basics Review omits taught concepts and function arguments,OPEN,2026-10-30T07:40:51Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABbAOVGg,71452,Update Technology Trends Quiz option for consistency,CLOSED,2026-10-29T19:36:18Z,2026-10-30T07:27:16Z,sutarkumar,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABajr3BA,71430,"Python Basics Review: correct explanations, examples, and formatting",CLOSED,2026-10-28T10:35:37Z,2026-10-30T07:18:29Z,armandocompean1207-glitch,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABajnDig,71429,Email simulator: tests reject valid solutions in steps 30–45,CLOSED,2026-10-28T10:30:24Z,2026-10-30T06:56:50Z,armandocompean1207-glitch,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABZFgQAg,71290,Document the restrictions in the Selection Sort lab description,CLOSED,2026-10-22T11:31:18Z,2026-10-29T12:41:01Z,aminajao;majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABZ1SJVA,71379,Campfire Mode Spontaneously Turning Off and Changing Volume,OPEN,2026-10-25T19:48:59Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABaTjbfA,71399,Table on certification page doesn't look good.,OPEN,2026-10-27T13:38:03Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABaTpBaA,71400,Table on certification page for exams doesn't show a solution.,OPEN,2026-10-27T13:43:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABZkSEvg,71348,Discount calculator workshop: clarify initializer behavior and required type annotations,CLOSED,2026-10-24T07:49:58Z,2026-10-29T09:43:27Z,Vader069,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABQ5r-qA,70006,Build a Flashcard Quiz App - test 9,CLOSED,2026-09-11T21:41:32Z,2026-10-29T09:03:36Z,yhcb21,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABajm9pQ,71428,Email simulator: tests reject valid solutions in steps 23–29,CLOSED,2026-10-28T10:30:19Z,2026-10-29T08:15:54Z,zicziczic,freeCodeCamp,freeCodeCamp
@@ -14,8 +21,6 @@ I_kwDOAbI7X88AAAABaj0sQQ,71431,Python Basics Quiz: clarify built-in types and st
 I_kwDOAbI7X88AAAABYNOtnw,71083,Budget App solution excludes transfer withdrawals from spending chart,CLOSED,2026-10-19T07:07:11Z,2026-10-28T13:37:05Z,rustom-yadav,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABaiOxnA,71425,Salary Tracker: fix validation-removal tests and accept an equivalent salary comparison,CLOSED,2026-10-28T08:54:11Z,2026-10-28T11:37:53Z,1cbyc,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABakEtjA,71432,"Urgent: Bug / Test Runner Failure on ""Build a Page of Playing Cards"" Project",CLOSED,2026-10-28T11:02:47Z,2026-10-28T11:22:42Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABajr3BA,71430,"Python Basics Review: correct explanations, examples, and formatting",OPEN,2026-10-28T10:35:37Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABajnDig,71429,Email simulator: tests reject valid solutions in steps 30–45,OPEN,2026-10-28T10:30:24Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABaZVHew,71408,Encapsulation lesson presents name mangling as enforced access control,CLOSED,2026-10-27T19:38:02Z,2026-10-28T08:45:18Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABaZZXEg,71411,Correct class syntax and output examples in the Python OOP and encapsulation lectures,CLOSED,2026-10-27T19:42:18Z,2026-10-28T08:42:47Z,Sidsmartz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABaZSKXg,71406,Shortest Path Algorithm Step 9 rejects a valid list comprehension,CLOSED,2026-10-27T19:34:54Z,2026-10-28T08:40:49Z,Sidsmartz,freeCodeCamp,freeCodeCamp
@@ -777,12 +782,3 @@ I_kwDOAbI7X88AAAABKSf7GA,69066,Instruction and hint wording issues in Build a Ho
 I_kwDOAbI7X88AAAABHQp8yg,68424,inflexible test in js Build a Countdown lab,CLOSED,2026-07-01T03:36:58Z,2026-07-31T07:54:40Z,laypatel13,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABKSNnxw,69058,Wording and formatting issues in the type() and isinstance() lesson,CLOSED,2026-07-27T06:45:41Z,2026-07-31T07:26:22Z,prateek-dagar,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABIgxTLw,68744,JS cert: question's answer on functions lecture is misleading,CLOSED,2026-07-12T09:25:47Z,2026-07-31T07:24:16Z,Jamwilltim,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABKwvSuA,69121,Missing backticks around a CSS value in a hint of Step 17 of the Cafe Menu workshop,CLOSED,2026-07-30T07:04:57Z,2026-07-30T17:47:41Z,bhavana-mb,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABKSfw_Q,69062,Grammar and formatting issues in Build a Hotel Feedback Form Steps 2 to 7 and the block intro,CLOSED,2026-07-27T07:22:03Z,2026-07-30T17:23:20Z,rohit-h11,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87bNhO2,64229,`--fcc-expected--` and `--fcc-actual--` handle falsy values incorrecly,CLOSED,2025-11-30T13:18:03Z,2026-07-30T16:13:34Z,Sembauke,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABKSf8pg,69067,Hint and description wording issues in Build a Hotel Feedback Form Step 29,CLOSED,2026-07-27T07:22:25Z,2026-07-30T13:18:00Z,SudhamshuH,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABKTYtww,69074,Replace regex-based test cases in Envelope Budget App Workshop,CLOSED,2026-07-27T09:20:47Z,2026-07-30T10:27:24Z,TheSeydiCharyyev;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABKrvbzg,69115,Shopping Cart workshop cart rows show prices without a dollar sign,CLOSED,2026-07-29T17:20:39Z,2026-07-30T08:31:54Z,Mehedov,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABKSf6Vw,69065,Incomplete instructions and formatting issues in Build a Hotel Feedback Form Steps 19 to 22,CLOSED,2026-07-27T07:22:20Z,2026-07-30T08:23:26Z,Wolf-011,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIYmp1g,68726,Replace regex-based test cases in Word Counter Workshop,CLOSED,2026-07-10T18:25:21Z,2026-07-30T08:21:55Z,TEE0207;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABKWJk7Q,69082,Workshop Cafe Menu Step 7: CSS example indentation uses one space instead of two,CLOSED,2026-07-27T15:00:56Z,2026-07-30T07:34:44Z,priyaaa405,freeCodeCamp,freeCodeCamp
