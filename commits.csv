@@ -1,4 +1,10 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+67239c70776df016bb074ab25a90f397bbf2484c,"chore(i18n,learn): update i18n-curriculum submodule (#71493)",2026-11-01T00:01:23Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+fa19e7059de1304f78050b21a32c0a1b131e787a,fix(curriculum): JS name in Python daily challenge 132 (#71505),2026-10-31T18:04:49Z,1,2,NotAFlightRisk,freeCodeCamp,freeCodeCamp
+cf50a7105a25e1fea3776eec98639323fef6670c,chore(renovate): opt in to automerge (#71476),2026-10-31T12:35:49Z,1,1,raisedadead,freeCodeCamp,freeCodeCamp
+9e9da57d42f65016ffe5bad5efba4250b58e6680,fix(curriculum): align callback review definitions (#71474),2026-10-31T11:09:15Z,2,4,jerome-queck,freeCodeCamp,freeCodeCamp
+7def24d8c45c0d331615370819d93ae09a07a86d,fix(curriculum): correct explanations and missing concepts in loops r…,2026-10-31T10:42:44Z,2,56,wigsdev,freeCodeCamp,freeCodeCamp
+78646837abaeccf9de3bc977418fab46e96e588b,fix(deps): update dependency @babel/standalone to v7.29.11 (#71475),2026-10-31T06:32:03Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
 f5999861310d414d93119930152b38755cb3e09f,fix(deps): update dependency @paypal/react-paypal-js to v10.6.1 (#71472),2026-10-30T23:05:06Z,2,20,renovate[bot],freeCodeCamp,freeCodeCamp
 c0a271246ebfd702e3cb8a56cbe1a9a7c0f38374,chore(deps): update dependency webpack to v5.112.2 (#71468),2026-10-30T15:47:44Z,2,70,renovate[bot],freeCodeCamp,freeCodeCamp
 a7766eb44e23826ee3a90673e5174c3e765c52c7,test(e2e): remove shared user seeding (#71093),2026-10-30T15:44:53Z,52,529,Sembauke,freeCodeCamp,freeCodeCamp
@@ -1090,12 +1096,3 @@ ea05bcec8410e7af5740872a24ae731037298a59,fix: Fix CSS flexbox lecture content is
 90e98ed9d355f57a01f6f39b3bd7a8998f03227c,fix(curriculum): update description for cafe menu step 25 (#69159),2026-08-01T07:59:18Z,2,4,TheRodzz,freeCodeCamp,freeCodeCamp
 9598d291cd71d0973fcac5dcfc6e1d0141789c4a,fix(curriculum): improve string lessons (#69163),2026-08-01T07:23:43Z,3,23,anjupathak03,freeCodeCamp,freeCodeCamp
 891592d724bf9f337e92760231ef1c1d7d4612e2,fix(curriculum): typo in cafe menu step 27 (#69162),2026-08-01T07:00:11Z,1,2,benpaul2002,freeCodeCamp,freeCodeCamp
-522b60813c9ff7294b4cf10d6f12aa3b033ecf19,fix(curriculum): clarify hint wording for Hotel Feedback Form steps 1…,2026-07-31T21:16:31Z,4,12,Funmax365,freeCodeCamp,freeCodeCamp
-0f1d2607b88deaabb7dbf88abcdcc0660f513665,fix(curriculum): fix plural possessive typo in Cafe Menu step 37 (#69…,2026-07-31T21:04:03Z,1,2,developmentwithparth1311,freeCodeCamp,freeCodeCamp
-05992eaeb92aa7e76ca5f19bb8c53ef4819d28bf,fix(curriculum): refactor workshop cafe menu assertions to use DOM (#…,2026-07-31T18:26:06Z,19,85,rohit-h11,freeCodeCamp,freeCodeCamp
-477a25a513b734a37b7fc188126413ed943bc393,fix(curriculum): resolve hint assertion and setup issues in Cafe Menu…,2026-07-31T15:44:17Z,8,130,TEE0207,freeCodeCamp,freeCodeCamp
-906c5197b7cb0b0b5f42bca7a07ae318a014a5f9,fix(curriculum): audit workshop-todo-app editable regions (redux) (#6…,2026-07-31T11:32:25Z,60,623,jeffrinkdev,freeCodeCamp,freeCodeCamp
-3cfb6c633e6e77df8cd96549ad212a69450d9054,fix(curriculum): update hint wording in hotel feedback form (#69140),2026-07-31T08:25:19Z,4,14,Nishant9764,freeCodeCamp,freeCodeCamp
-e9c9372d0d03a922bfa4a886329b136cc5d14e31,fix(curriculum): use Explorer helper for recursion check in countdown…,2026-07-31T07:54:38Z,1,30,laypatel13,freeCodeCamp,freeCodeCamp
-5c97ed1941a80194bc061311294cfcfc5242d44c,fix(curriculum): correct type and isinstance lesson wording (#69135),2026-07-31T07:26:20Z,1,9,prateek-dagar,freeCodeCamp,freeCodeCamp
-0cc36edc51bff003cd7c6593fddf035068e86e28,fix(curriculum): change answer options for unclear functions question…,2026-07-31T07:24:14Z,1,8,Jamwilltim,freeCodeCamp,freeCodeCamp
