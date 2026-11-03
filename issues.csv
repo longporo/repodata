@@ -1,27 +1,40 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X88AAAABbObT4Q,71470,Don't show C# exam results on cert page,OPEN,2026-10-30T15:32:08Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABaTjbfA,71399,Table on certification page doesn't look good.,OPEN,2026-10-27T13:38:03Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X86I27rX,54796,[Certification Projects] Show a dialog when user leaving the page,OPEN,2024-05-14T18:29:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABbmWimA,71509,"Certification page layout is not responsive on mobile (frame, QR code, seal, long URL and exam table)",OPEN,2026-11-01T12:54:40Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABbsMNIg,71513,Fix line break formatting in Learn Future Continuous while Describing Actions,OPEN,2026-11-01T23:11:03Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABaTpBaA,71400,Table on certification page for exams doesn't show a solution.,OPEN,2026-10-27T13:43:32Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABbZ_jHQ,71480,"Correct DOM and Web API lesson explanations, question, and formatting",OPEN,2026-10-31T11:13:20Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABaTjbfA,71399,Table on certification page doesn't look good.,OPEN,2026-10-27T13:38:03Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABbObT4Q,71470,Don't show C# exam results on cert page,OPEN,2026-10-30T15:32:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABb1sBdA,71532,Data Structures Review contains inaccurate explanations and omits taught concepts,OPEN,2026-11-02T13:10:00Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87aPFTT,64126,Lab – Data Sanitizer Sweep,CLOSED,2025-11-25T03:46:02Z,2026-11-02T16:05:04Z,MarkI2;majestic-owl448;moT01,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABb2NadQ,71535,Searching and Sorting Algorithms Review has inaccurate explanations and missing taught concepts,OPEN,2026-11-02T13:43:13Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABb2A5EQ,71534,Recursion Review: align coverage and examples with the Python module,OPEN,2026-11-02T13:30:28Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABb0-n3A,71526,Python Basics Review omits floating-point approximation and decimal-string conversion,OPEN,2026-11-02T12:22:16Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABb1hePg,71531,"Object Oriented Programming Review has capitalization, punctuation, spacing, and grammar errors",OPEN,2026-11-02T12:59:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABb1XheQ,71530,Dynamic Programming Review omits concepts taught in the lesson,OPEN,2026-11-02T12:48:55Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABb1QHgg,71529,"Error Handling Review: missing concepts, inaccurate definition, and formatting errors",OPEN,2026-11-02T12:40:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABb1I17g,71528,Dictionaries and Sets Review has inaccurate explanations and missing concepts,OPEN,2026-11-02T12:32:38Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABb06IiQ,71525,Classes and Objects Review omits topics taught in the lessons and workshops,OPEN,2026-11-02T12:17:28Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABb0mpyg,71524,Fix line break formatting in Talk About Past Experiences,OPEN,2026-11-02T11:56:04Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABbzm7gA,71519,Object-Oriented Programming review has inaccurate explanations and missing topics,OPEN,2026-11-02T10:45:56Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABbZ7alg,71478,Regex matching lesson question rejects valid ways to collect matches,CLOSED,2026-10-31T11:05:07Z,2026-11-02T10:33:45Z,wigsdev,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABbaDJQg,71482,Curly apostrophes in JavaScript and Front-End Development lessons,CLOSED,2026-10-31T11:20:27Z,2026-11-02T10:30:15Z,skullboy-david,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABbH63VQ,71459,Python Basics Review omits taught concepts and function arguments,CLOSED,2026-10-30T07:40:51Z,2026-11-02T10:29:23Z,dsilvadeepal,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABa9iUwQ,71447,Python variable naming guidance incorrectly excludes non-ASCII characters,CLOSED,2026-10-29T16:43:34Z,2026-11-02T10:23:59Z,TEE0207,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABbcr6Ig,71503,Introduction to Loops in JavaScript is missing the Campus Directory Normalizer workshop,CLOSED,2026-10-31T16:12:22Z,2026-11-02T10:19:07Z,AnshBravo,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABbZ_jHQ,71480,"Correct DOM and Web API lesson explanations, question, and formatting",CLOSED,2026-10-31T11:13:20Z,2026-11-02T10:18:26Z,dsilvadeepal,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABbsMNIg,71513,Fix line break formatting in Learn Future Continuous while Describing Actions,CLOSED,2026-11-01T23:11:03Z,2026-11-02T10:14:14Z,aradivarekar07,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABbcfMVA,71498,Python debugging lesson headings should use title case,CLOSED,2026-10-31T15:50:51Z,2026-11-02T10:05:24Z,dsilvadeepal,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABbaBuJA,71481,Correct reference copying and method binding explanations in JavaScript object lessons,CLOSED,2026-10-31T11:17:28Z,2026-11-02T09:48:17Z,wigsdev,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABbZ96VA,71479,Weather app labs mishandle missing data and zero measurements,OPEN,2026-10-31T11:10:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABZnqEFA,71362,Translation error in Ukrainian version of Bash Scripting Quiz,CLOSED,2026-10-24T14:59:28Z,2026-11-01T00:01:25Z,camperbot,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABbcfMVA,71498,Python debugging lesson headings should use title case,OPEN,2026-10-31T15:50:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABbbzq7A,71494,Digital Pet Game lab: PetMood enum and Record tests reject valid TypeScript,OPEN,2026-10-31T14:40:19Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABbcr6Ig,71503,Introduction to Loops in JavaScript is missing the Campus Directory Normalizer workshop,OPEN,2026-10-31T16:12:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABbZ7TZg,71477,Python Installation Review has conflicting installation guidance and missing concepts,OPEN,2026-10-31T11:04:54Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABba4fpg,71486,Learning Flow and Certification Project Difficulty - Budget App & Polygon Calculator,OPEN,2026-10-31T13:02:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABbaDJQg,71482,Curly apostrophes in JavaScript and Front-End Development lessons,OPEN,2026-10-31T11:20:27Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABbaBuJA,71481,Correct reference copying and method binding explanations in JavaScript object lessons,OPEN,2026-10-31T11:17:28Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABbV3ZoQ,71473,JavaScript reviews still say callbacks run after the outer function finishes,CLOSED,2026-10-31T01:54:26Z,2026-10-31T11:09:17Z,jerome-queck,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABbZ7alg,71478,Regex matching lesson question rejects valid ways to collect matches,OPEN,2026-10-31T11:05:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXn5y8w,70987,Quiz creation fails in create-next-challenge and insert-challenge,OPEN,2026-10-16T07:41:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABbNyhaw,71469,Correct explanations and missing concepts in the Python Loops and Sequences Review,CLOSED,2026-10-30T14:52:21Z,2026-10-31T10:42:46Z,wigsdev,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABa9iUwQ,71447,Python variable naming guidance incorrectly excludes non-ASCII characters,OPEN,2026-10-29T16:43:34Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABbH4X6w,71458,Nth Fibonacci Number Calculator lab rejects valid memoized recursion,CLOSED,2026-10-30T07:37:18Z,2026-10-30T08:34:27Z,Aryan9891,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABbH63VQ,71459,Python Basics Review omits taught concepts and function arguments,OPEN,2026-10-30T07:40:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABbAOVGg,71452,Update Technology Trends Quiz option for consistency,CLOSED,2026-10-29T19:36:18Z,2026-10-30T07:27:16Z,sutarkumar,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABajr3BA,71430,"Python Basics Review: correct explanations, examples, and formatting",CLOSED,2026-10-28T10:35:37Z,2026-10-30T07:18:29Z,armandocompean1207-glitch,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABajnDig,71429,Email simulator: tests reject valid solutions in steps 30–45,CLOSED,2026-10-28T10:30:24Z,2026-10-30T06:56:50Z,armandocompean1207-glitch,freeCodeCamp,freeCodeCamp
@@ -169,7 +182,6 @@ I_kwDOAbI7X88AAAABYT1tvg,71110,Graphs and trees lectures are missing inline code
 I_kwDOAbI7X88AAAABYTtjug,71106,Email simulator workshop is missing inline code formatting,CLOSED,2026-10-19T14:57:18Z,2026-10-19T19:53:13Z,JakkulaVeerababu,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABW6rIvg,70862,Truthy and Falsy Values: correct grammar and evaluation explanations,CLOSED,2026-10-13T15:15:22Z,2026-10-19T15:23:33Z,JakkulaVeerababu,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABYOfAxw,71089,Data Structures Quiz assesses untaught amortized complexity and load factor concepts,CLOSED,2026-10-19T08:50:12Z,2026-10-19T14:26:21Z,prasadchinthapalli09,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87aPFTT,64126,Lab – Data Sanitizer Sweep,OPEN,2025-11-25T03:46:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXwbo-A,71057,Salary Tracker workshop has inconsistent instructions and seed continuity,CLOSED,2026-10-16T18:29:41Z,2026-10-19T13:53:08Z,Piyush495,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABYM6glQ,71082,Bisection Method lab rejects valid multiargument print calls,CLOSED,2026-10-19T06:40:28Z,2026-10-19T13:44:51Z,Piyush495,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABYI2Wsg,71076,Shape Manager workshop doesn't check constants are correctly assigned,CLOSED,2026-10-18T22:32:24Z,2026-10-19T13:11:48Z,,freeCodeCamp,freeCodeCamp
@@ -207,7 +219,7 @@ I_kwDOAbI7X88AAAABXq8jdw,71002,"Correct heading capitalization, wording, and unp
 I_kwDOAbI7X88AAAABXq_N-w,71008,"Correct the error message, punctuation, and headings in the tuples lesson",CLOSED,2026-10-16T11:42:53Z,2026-10-16T12:46:26Z,aminajao,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXq9Yng,71005,"Correct terminology, wording, and sorting guidance in the tuple methods lesson",CLOSED,2026-10-16T11:40:30Z,2026-10-16T12:46:16Z,aminajao,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXq7wZw,71001,Correct explanations and title capitalization in the list comprehensions lesson,CLOSED,2026-10-16T11:38:21Z,2026-10-16T12:36:16Z,aminajao,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABXLwilw,70886,"Python dictionaries lesson: clarify valid keys, method question, and view outputs",CLOSED,2026-10-14T15:40:48Z,2026-10-16T10:25:28Z,Code-Breaker-Ctrl,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXLwilw,70886,"Python dictionaries lesson: clarify valid keys, method question, and view outputs",CLOSED,2026-10-14T15:40:48Z,2026-10-16T10:25:28Z,Soul-Ninja,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABSHaalw,70200,"""Build a Bookmark Manager App"" Example Project Not Working: `iframe` `sandbox` Missing `allow-same-origin` Flag",OPEN,2026-09-19T14:00:17Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXYIm0Q,70923,Medical Data Validator Step 15: tests do not verify preservation of existing records,CLOSED,2026-10-15T09:42:06Z,2026-10-16T07:04:52Z,TanmayNileshShinde,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXYMBOg,70926,Medical Data Validator Step 36: clarify which list contains strings,CLOSED,2026-10-15T09:45:41Z,2026-10-16T07:01:33Z,PrashantGC00,freeCodeCamp,freeCodeCamp
@@ -551,7 +563,6 @@ I_kwDOAbI7X88AAAABMHI-og,69456,Two ambiguous questions in the CSS Grid Quiz,CLOS
 I_kwDOAbI7X88AAAABLnG06Q,69346,Add Section Headers to Lecture: What Are Best Practices for Designing Shopping Carts?,CLOSED,2026-08-05T18:49:50Z,2026-09-02T17:01:19Z,tracemycodes,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnGDMg,69333,"Add Section Headers to Lecture: What Are Bitwise Operators, and How Do They Work?",CLOSED,2026-08-05T18:48:27Z,2026-09-02T08:00:07Z,jaykumar14921,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86UO0yN,55941,Ambient camping sounds in freecodecamp website,OPEN,2024-08-26T13:43:51Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86I27rX,54796,[Certification Projects] Show a dialog when user leaving the page,OPEN,2024-05-14T18:29:06Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Xq1cH,63788,Escaping HTML entities,OPEN,2025-11-12T21:42:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnDjRw,69308,"Add Section Headers to Lecture: What Is a CSS Reset, and What Are Some Common Examples?",CLOSED,2026-08-05T18:43:27Z,2026-09-02T07:03:14Z,Aman739-code,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnDJpg,69296,"Add Section Headers to Lecture: What Are Some Common Flex Properties, and How Do They Work?",CLOSED,2026-08-05T18:42:40Z,2026-09-01T19:00:46Z,ManuelOrji2,freeCodeCamp,freeCodeCamp
@@ -772,7 +783,3 @@ I_kwDOAbI7X88AAAABLNfYZA,69223,fix(curriculum): correct Date object constructor 
 I_kwDOAbI7X88AAAABLHluyg,69192,Missing code formatting and singular nouns in Step 52 of the Cafe Menu workshop,CLOSED,2026-08-02T06:35:33Z,2026-08-03T07:20:26Z,lyeba19,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLENdhw,69186,Clarify logging instructions in “Build a Sentence Maker” lab challenge (tests 16 & 26),CLOSED,2026-08-01T15:04:50Z,2026-08-03T06:49:11Z,Sembauke,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLHlz8A,69194,Incomplete sentence and missing code formatting in Step 55 of the Cafe Menu workshop,CLOSED,2026-08-02T06:35:59Z,2026-08-03T06:48:33Z,siuu07,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLHl3Hg,69195,Missing preposition in Step 58 of the Cafe Menu workshop,CLOSED,2026-08-02T06:36:13Z,2026-08-02T13:29:32Z,raahu1l,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIYmevQ,68706,Replace regex-based test cases in Greeting Bot Workshop,CLOSED,2026-07-10T18:24:54Z,2026-08-02T10:56:48Z,Er-SarthakBansal,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLHv9ng,69198,Writing problems in Step 66 of the Cafe Menu workshop,CLOSED,2026-08-02T07:25:04Z,2026-08-02T10:24:55Z,NitheshNaik,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLCoNfw,69168,Hint in Step 48 of the Cafe Menu workshop does not say which section it checks,CLOSED,2026-08-01T07:26:42Z,2026-08-02T06:44:03Z,SujayBWJ,freeCodeCamp,freeCodeCamp
