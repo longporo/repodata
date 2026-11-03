@@ -1,4 +1,20 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+124bba5f531aae30f22d679a49923b81634b7f69,feat(curriculum): Add data sanitizer sweep lab (#70433),2026-11-02T16:05:00Z,4,283,MarkI2,freeCodeCamp,freeCodeCamp
+ac20846794ce1eb06607a7e5bff1d250a45ac8c1,feat(curriculum): add text decoration lecture to basic css (#71434),2026-11-02T15:54:48Z,2,207,Ksound22,freeCodeCamp,freeCodeCamp
+d948eb93ebb484dceeb5437562c499372fb64d08,test(e2e): run test files with three workers (#70112),2026-11-02T15:44:22Z,1,7,Sembauke,freeCodeCamp,freeCodeCamp
+e5ba64be6965a224ffaacf9722f0ca35cee8cfee,fix(curriculum): sync Python lesson copies (#71273),2026-11-02T13:33:28Z,6,44,majestic-owl448,freeCodeCamp,freeCodeCamp
+3d52c81b89ea44604dc8bc01c196c9d8f5639145,fix(curriculum): grammar in closures lesson (#71507),2026-11-02T11:26:29Z,1,4,JasonColapietro,freeCodeCamp,freeCodeCamp
+eefd1c4cf320806c9ad7109e1b15718401752704,fix(curriculum): period missing from console example in math toolkit …,2026-11-02T11:00:32Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+f3750a9a705e74218c8369984f7390eaa03440ce,fix(curriculum): clarify matchAll iterator question scope to lesson (…,2026-11-02T10:33:43Z,2,4,wigsdev,freeCodeCamp,freeCodeCamp
+c9e0e64c62bd0b0a2b88526ee6345308700f1363,fix(curriculum): use straight apostrophes in JavaScript and Front-End…,2026-11-02T10:30:12Z,16,100,skullboy-david,freeCodeCamp,freeCodeCamp
+7f3d7071a85c5370bfe2a2e8e97c0c7e8d0aba68,fix(curriculum): complete Python basics review (#71497),2026-11-02T10:29:20Z,1,77,dsilvadeepal,freeCodeCamp,freeCodeCamp
+edc6b9714b6ac6da7582e36a6fd72055a87d2de9,fix(curriculum): stop Python variable naming rule from excluding non-…,2026-11-02T10:23:57Z,4,10,TEE0207,freeCodeCamp,freeCodeCamp
+7efbd4c95ce7152664bdef6a5eafa565f8218b81,fix(curriculum):add campus directory normalizer to loops superblock (…,2026-11-02T10:19:04Z,2,7,AnshBravo,freeCodeCamp,freeCodeCamp
+8eb296b4d7e97932d69bb0f55f06b78e2bd81abd,fix(curriculum): correct DOM lesson explanations (#71500),2026-11-02T10:18:24Z,12,56,dsilvadeepal,freeCodeCamp,freeCodeCamp
+a9792f293c7066a04b829cb347bdfbe4b98e2a1d,fix(curriculum): add line breaks in thank you messages (#71514),2026-11-02T10:14:11Z,5,5,aradivarekar07,freeCodeCamp,freeCodeCamp
+dc34e99d72b654931c4cb5104d3ee778591161cf,fix(curriculum): correct Python debugging headings (#71499),2026-11-02T10:05:21Z,1,8,dsilvadeepal,freeCodeCamp,freeCodeCamp
+0a83437a1e9de94a14a7327bb8797ebb4759df71,fix(curriculum): correct object reference and method binding explanat…,2026-11-02T09:48:11Z,4,8,wigsdev,freeCodeCamp,freeCodeCamp
+384720ffabc0c7320596e5459c7c0deefebaf74b,feat(curriculum): linear data structure review python algorithms (#71…,2026-11-02T08:40:04Z,1,130,Dario-DC,freeCodeCamp,freeCodeCamp
 67239c70776df016bb074ab25a90f397bbf2484c,"chore(i18n,learn): update i18n-curriculum submodule (#71493)",2026-11-01T00:01:23Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 fa19e7059de1304f78050b21a32c0a1b131e787a,fix(curriculum): JS name in Python daily challenge 132 (#71505),2026-10-31T18:04:49Z,1,2,NotAFlightRisk,freeCodeCamp,freeCodeCamp
 cf50a7105a25e1fea3776eec98639323fef6670c,chore(renovate): opt in to automerge (#71476),2026-10-31T12:35:49Z,1,1,raisedadead,freeCodeCamp,freeCodeCamp
@@ -238,7 +254,7 @@ f824f482812595946eed130da76367a479e03c78,fix(curriculum): correct lists lesson w
 f2be4ecb505744b8cfe728e60b620bdb253ddd54,fix(curriculum): correct tuples lesson wording (#71014),2026-10-16T12:46:23Z,1,14,aminajao,freeCodeCamp,freeCodeCamp
 068a991c931d4148ad2e1e6419422e3e3ad7e13a,fix(curriculum): correct tuple methods lesson (#71016),2026-10-16T12:46:13Z,1,12,aminajao,freeCodeCamp,freeCodeCamp
 3ae6d3489222bf49ac1f91d09344bec489bd12db,fix(curriculum): correct list comprehensions lesson (#71019),2026-10-16T12:36:14Z,2,8,aminajao,freeCodeCamp,freeCodeCamp
-73b762e0fac09806f034cd485fe66e5639603f99,"fix(curriculum): clarify dictionary keys, method question, and output…",2026-10-16T10:25:25Z,1,17,Code-Breaker-Ctrl,freeCodeCamp,freeCodeCamp
+73b762e0fac09806f034cd485fe66e5639603f99,"fix(curriculum): clarify dictionary keys, method question, and output…",2026-10-16T10:25:25Z,1,17,Soul-Ninja,freeCodeCamp,freeCodeCamp
 5dec865f64930777314b2b12b1e5094d1e290298,chore(deps): update pnpm to v12.11.0 (#70991),2026-10-16T09:58:27Z,2,124,renovate[bot],freeCodeCamp,freeCodeCamp
 731136901f6c6e8e397e56531356e2f88733782c,chore(deps): update github-owned actions to v7 (#70981),2026-10-16T08:00:24Z,14,68,renovate[bot],freeCodeCamp,freeCodeCamp
 310a280d17015043ff49d33a2dce06864ef589a0,fix(curriculum): add section headers to security vs privacy lecture (…,2026-10-16T07:56:45Z,1,10,Webmekanic,freeCodeCamp,freeCodeCamp
@@ -1082,8 +1098,3 @@ b76c1ecffb8156a35c62e42ecd9f7661699d1de4,fix(curriculum): fixed missing semicolo
 cb1b34476ce7f3d0407df5bd91a766f27a202676,fix(curriculum): fix wording issues and simplify log checks in senten…,2026-08-03T06:49:09Z,1,31,Sembauke,freeCodeCamp,freeCodeCamp
 9d5e4173735642546364b0eba3bd3a892094213e,fix(curriculum): improve wording in step 55 of cafe menu workshop (#6…,2026-08-03T06:48:31Z,1,2,siuu07,freeCodeCamp,freeCodeCamp
 8c36be50c9f06a0dde12ba8f2388eaa161672be7,fix(curriculum): restore whitespace-tolerant message check in greetin…,2026-08-03T06:27:03Z,2,12,Sembauke,freeCodeCamp,freeCodeCamp
-a0805361f1be64a069dc7e6436c568a2e3da3811,"chore(i18n,learn): update i18n-curriculum submodule (#69220)",2026-08-03T05:12:32Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-021eec557047382ff6cd9002b7fd09cd0d0c2c50,fix(curriculum): add missing preposition in cafe menu step 58 (#69201),2026-08-02T13:29:30Z,1,2,raahu1l,freeCodeCamp,freeCodeCamp
-275eab2a9ddb80de9dd25407a7d8f63e3030a805,refactor(curriculum): replace greeting bot regex tests with helpers (…,2026-08-02T10:56:46Z,10,84,Er-SarthakBansal,freeCodeCamp,freeCodeCamp
-45b5c1e26d54f8b27353040b28f44937ea9efa0c,fix(curriculum): correct spelling and wording in cafe-menu step 66 (#…,2026-08-02T10:24:53Z,1,5,NitheshNaik,freeCodeCamp,freeCodeCamp
-0f890bb3e27576c8c74117def6defd0bf735a228,fix(curriculum): clarify Cafe Menu workshop Step 48 section hint (#69…,2026-08-02T06:44:02Z,1,2,SujayBWJ,freeCodeCamp,freeCodeCamp
