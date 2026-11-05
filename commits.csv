@@ -1,4 +1,13 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+fdc1020b6143845d653302d53434a6bbec19fd0e,fix(curriculum): explain Python keyword arguments (#71587),2026-11-04T21:12:52Z,2,77,majestic-owl448,freeCodeCamp,freeCodeCamp
+a80abfd6b08619626fe100513bf83a156fd20108,feat(curriculum): add RPG certification project (#71579),2026-11-04T21:04:12Z,5,364,majestic-owl448,freeCodeCamp,freeCodeCamp
+06caf33ee6ad04256fe803673a50b6a27ea8b62f,fix(curriculum): clarify parameter reassignment in Kitchen Inventory …,2026-11-04T21:01:16Z,1,2,majestic-owl448,freeCodeCamp,freeCodeCamp
+3dcfcf409dbee23e4acaeefd2700ab6a9808b142,feat(client): add new curriculum alert ab test (#71582),2026-11-04T14:10:34Z,2,14,ahmaxed,freeCodeCamp,freeCodeCamp
+0a594806947d970dcdecad8189932967c0626e0a,fix(curriculum): improve data structures review content (#71543),2026-11-04T09:26:32Z,1,237,AnshBravo,freeCodeCamp,freeCodeCamp
+21f0b632bc49621669f897c6ee795a07e90426f4,fix(curriculum): align dynamic programming review with Python module …,2026-11-04T08:06:07Z,1,58,Rohan-Dedhia,freeCodeCamp,freeCodeCamp
+fb707af1506fa42c39f211b2288cbbcbf92328a3,fix(curriculum): improve searching and sorting algorithms review accu…,2026-11-04T08:00:59Z,1,67,AnshBravo,freeCodeCamp,freeCodeCamp
+19270cda6bd00ab5b8b6cfed634c460f3a53fd1c,fix(curriculum): align recursion review with python module (#71538),2026-11-04T07:26:15Z,1,79,Sidsmartz,freeCodeCamp,freeCodeCamp
+563fa4f6bf214264199925d81d0d0f2582c75db2,fix(curriculum): improve explanation in plan future events task 61 (#…,2026-11-04T07:22:46Z,1,2,LastGregStanding,freeCodeCamp,freeCodeCamp
 058d47f714ac970e970a660e17fab08adfa7ef56,fix(curriculum): enforce email simulator call order (#71426),2026-11-03T20:16:29Z,1,40,majestic-owl448,freeCodeCamp,freeCodeCamp
 7e7fb8ff9ff2dd810c961a247721b0a62e904788,feat(curriculum): explain Python parameter reassignment (#71566),2026-11-03T19:58:19Z,3,30,majestic-owl448,freeCodeCamp,freeCodeCamp
 7832400f455ed9193d6f6980ea50b1f56b7de85f,fix(curriculum): correct British date format example (#71564),2026-11-03T18:58:25Z,1,2,BipinBudhathoki01,freeCodeCamp,freeCodeCamp
@@ -1092,12 +1101,3 @@ edaa960ce7114212b53a32503d6e35127d453806,fix(curriculum): improve Flexbox lectur
 3746de82cf9eedfb03abae987d5fa1817427d249,feat(client): upgrade to React 19 (#69271),2026-08-05T11:52:18Z,98,1249,Sembauke,freeCodeCamp,freeCodeCamp
 397e04dda353327253c799f231c3561cb8d46a24,refactor(curriculum): correct Greeting Bot Step 15 solution (#69277),2026-08-05T10:23:52Z,1,6,SnehaAN144,freeCodeCamp,freeCodeCamp
 17b9b993f8d2dc1f7304c321054c8f736e56aab3,fix(curriculum): avoid implicit globals in Product Showcase Lab (#69269),2026-08-05T07:08:15Z,1,17,MkhalFadel,freeCodeCamp,freeCodeCamp
-78fa6d68996e63fee8b66bfd56ad3ae4636a3e9d,fix(curriculum): fix typo in Workshop Cafe Menu Step 76 (#69272),2026-08-04T20:58:36Z,1,2,manjushree66,freeCodeCamp,freeCodeCamp
-6fa1b5cb31f7b6eb7286a8188b25ad0771399a92,"fix(api): revert ""fix: atomic concurrent modern-challenge updates (#6…",2026-08-04T13:09:37Z,9,157,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-604ae9fd7c385467b04cce3a872a2e892182e176,fix(client): dc calendar showing future challenges (#69256),2026-08-04T11:23:30Z,2,118,moT01,freeCodeCamp,freeCodeCamp
-be3d9ffcdab81fa57d92a6ae42a0b3e35fb70680,fix(curriculum): stub fetch in fCC Forum Leaderboard lab tests (#69242),2026-08-04T10:38:39Z,1,534,majestic-owl448,freeCodeCamp,freeCodeCamp
-a8e20bfe545ced139a52681b6dbb540733166def,fix(curriculum): stub fetch in Digital Pet Game lab tests (#69241),2026-08-04T10:37:13Z,1,1,majestic-owl448,freeCodeCamp,freeCodeCamp
-80b751082ca3deba833dc5f44be38f3edc4c7245,fix(curriculum): stub fetch in fCC Authors Page workshop step 26 test…,2026-08-04T10:36:04Z,1,6,majestic-owl448,freeCodeCamp,freeCodeCamp
-c5ff73d401bcf1f1c173220ccf651ca2c6e0663d,fix: (curriculum): replace regex tests with Explorer AST in Nth Fib (…,2026-08-04T06:50:50Z,1,13,SanthoshBalagur,freeCodeCamp,freeCodeCamp
-7b07e02ed84f5f34941f5fa624f023f7e76c52e7,fix(curriculum): audit editable regions for workshop-cat-painting (#6…,2026-08-04T06:31:07Z,80,3320,SanthoshBalagur,freeCodeCamp,freeCodeCamp
-706693bcc20e038d2c7a59c5429e31b713463e7f,fix(curriculum): add redeclaration example to let and const lecture (…,2026-08-04T06:02:15Z,1,10,nguyenduybao1,freeCodeCamp,freeCodeCamp
