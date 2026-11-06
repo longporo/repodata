@@ -1,22 +1,27 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABcYxLzw,71584,Offering Free API Credits for Developer Education Projects,OPEN,2026-11-04T09:18:54Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABcZ6SJA,71585,Bug: Settings sagas silently drop errors on failure,OPEN,2026-11-04T10:46:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABcsJLvg,71591,CSS Colors is outdated,OPEN,2026-11-05T09:19:37Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXn5y8w,70987,Quiz creation fails in create-next-challenge and insert-challenge,OPEN,2026-10-16T07:41:04Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABA4Q_Kw,67175,rdb local setup instructions don't say what to do to start a 2nd workshop,CLOSED,2026-04-29T22:07:49Z,2026-11-05T10:37:26Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABba4fpg,71486,Learning Flow and Certification Project Difficulty - Budget App & Polygon Calculator,OPEN,2026-10-31T13:02:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABbbzq7A,71494,Digital Pet Game lab: PetMood enum and Record tests reject valid TypeScript,OPEN,2026-10-31T14:40:19Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABcOWuvw,71565,Clarify standard-library module questions in the Dictionaries and Sets Quiz,CLOSED,2026-11-03T18:49:07Z,2026-11-05T12:34:04Z,Supravisor,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABSb9QAw,70262,Design a Movie Review Page - Socrates fails to diagnose the issue,CLOSED,2026-09-21T20:42:13Z,2026-11-05T10:46:22Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABaTjbfA,71399,Table on certification page doesn't look good.,OPEN,2026-10-27T13:38:03Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABcYxLzw,71584,Offering Free API Credits for Developer Education Projects,CLOSED,2026-11-04T09:18:54Z,2026-11-05T10:39:48Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABb1sBdA,71532,Data Structures Review contains inaccurate explanations and omits taught concepts,CLOSED,2026-11-02T13:10:00Z,2026-11-04T09:26:35Z,AnshBravo;majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABb1XheQ,71530,Dynamic Programming Review omits concepts taught in the lesson,CLOSED,2026-11-02T12:48:55Z,2026-11-04T08:06:10Z,Rohan-Dedhia,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABUc3lqg,70552,Salary Tracker - Step 39: Socrates giving wrong hints,OPEN,2026-10-01T18:50:21Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABaTjbfA,71399,Table on certification page doesn't look good.,OPEN,2026-10-27T13:38:03Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABaTpBaA,71400,Table on certification page for exams doesn't show a solution.,OPEN,2026-10-27T13:43:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABb2NadQ,71535,Searching and Sorting Algorithms Review has inaccurate explanations and missing taught concepts,CLOSED,2026-11-02T13:43:13Z,2026-11-04T08:01:02Z,AnshBravo,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABb2A5EQ,71534,Recursion Review: align coverage and examples with the Python module,CLOSED,2026-11-02T13:30:28Z,2026-11-04T07:26:17Z,Sidsmartz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABcOm17g,71567,Improve explanation of How to Plan Future Events - Task 61,CLOSED,2026-11-03T19:06:39Z,2026-11-04T07:22:48Z,LastGregStanding,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRySz4w,70139,/settings urls with fragments do not scroll correctly,OPEN,2026-09-17T14:13:20Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABcO64tw,71568,Audio is cut off in Learn Basic Personal Information - Task 30,OPEN,2026-11-03T19:27:15Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABba4fpg,71486,Learning Flow and Certification Project Difficulty - Budget App & Polygon Calculator,OPEN,2026-10-31T13:02:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABbObT4Q,71470,Don't show C# exam results on cert page,OPEN,2026-10-30T15:32:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABbzm7gA,71519,Object-Oriented Programming review has inaccurate explanations and missing topics,CLOSED,2026-11-02T10:45:56Z,2026-11-03T18:54:24Z,skullboy-david,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABb06IiQ,71525,Classes and Objects Review omits topics taught in the lessons and workshops,CLOSED,2026-11-02T12:17:28Z,2026-11-03T18:52:37Z,TEE0207,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABcOWuvw,71565,Clarify standard-library module questions in the Dictionaries and Sets Quiz,OPEN,2026-11-03T18:49:07Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABb1I17g,71528,Dictionaries and Sets Review has inaccurate explanations and missing concepts,CLOSED,2026-11-02T12:32:38Z,2026-11-03T18:38:32Z,TEE0207,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABb0-n3A,71526,Python Basics Review omits floating-point approximation and decimal-string conversion,CLOSED,2026-11-02T12:22:16Z,2026-11-03T12:59:22Z,bula393,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABb1QHgg,71529,"Error Handling Review: missing concepts, inaccurate definition, and formatting errors",CLOSED,2026-11-02T12:40:39Z,2026-11-03T12:47:23Z,wigsdev,freeCodeCamp,freeCodeCamp
@@ -39,11 +44,9 @@ I_kwDOAbI7X88AAAABbsMNIg,71513,Fix line break formatting in Learn Future Continu
 I_kwDOAbI7X88AAAABbcfMVA,71498,Python debugging lesson headings should use title case,CLOSED,2026-10-31T15:50:51Z,2026-11-02T10:05:24Z,dsilvadeepal,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABbaBuJA,71481,Correct reference copying and method binding explanations in JavaScript object lessons,CLOSED,2026-10-31T11:17:28Z,2026-11-02T09:48:17Z,wigsdev,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABZnqEFA,71362,Translation error in Ukrainian version of Bash Scripting Quiz,CLOSED,2026-10-24T14:59:28Z,2026-11-01T00:01:25Z,camperbot,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABbbzq7A,71494,Digital Pet Game lab: PetMood enum and Record tests reject valid TypeScript,OPEN,2026-10-31T14:40:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABbV3ZoQ,71473,JavaScript reviews still say callbacks run after the outer function finishes,CLOSED,2026-10-31T01:54:26Z,2026-10-31T11:09:17Z,jerome-queck,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABXn5y8w,70987,Quiz creation fails in create-next-challenge and insert-challenge,OPEN,2026-10-16T07:41:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABbNyhaw,71469,Correct explanations and missing concepts in the Python Loops and Sequences Review,CLOSED,2026-10-30T14:52:21Z,2026-10-31T10:42:46Z,wigsdev,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABbH4X6w,71458,Nth Fibonacci Number Calculator lab rejects valid memoized recursion,CLOSED,2026-10-30T07:37:18Z,2026-10-30T08:34:27Z,Aryan9891,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABbH4X6w,71458,Nth Fibonacci Number Calculator lab rejects valid memoized recursion,CLOSED,2026-10-30T07:37:18Z,2026-10-30T08:34:27Z,Aryan Sachin,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABbAOVGg,71452,Update Technology Trends Quiz option for consistency,CLOSED,2026-10-29T19:36:18Z,2026-10-30T07:27:16Z,sutarkumar,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABajr3BA,71430,"Python Basics Review: correct explanations, examples, and formatting",CLOSED,2026-10-28T10:35:37Z,2026-10-30T07:18:29Z,armandocompean1207-glitch,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABajnDig,71429,Email simulator: tests reject valid solutions in steps 30–45,CLOSED,2026-10-28T10:30:24Z,2026-10-30T06:56:50Z,armandocompean1207-glitch,freeCodeCamp,freeCodeCamp
@@ -63,11 +66,10 @@ I_kwDOAbI7X88AAAABaZSKXg,71406,Shortest Path Algorithm Step 9 rejects a valid li
 I_kwDOAbI7X88AAAABaZTVrA,71407,Project Euler problems 159 and 480 use numbered function names,CLOSED,2026-10-27T19:36:08Z,2026-10-28T08:38:19Z,Sidsmartz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABaZO-hQ,71405,Getters and setters: clarify that the radius must be positive,CLOSED,2026-10-27T19:31:34Z,2026-10-28T08:36:36Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABaZW0hw,71409,Trees and tries lesson confuses trie search cost with memory use,CLOSED,2026-10-27T19:39:48Z,2026-10-27T21:15:10Z,Supravisor,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABaZN3HQ,71404,Encapsulation lecture: positive-amount validation accepts zero,CLOSED,2026-10-27T19:30:23Z,2026-10-27T20:17:16Z,Aryan9891,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABaZN3HQ,71404,Encapsulation lecture: positive-amount validation accepts zero,CLOSED,2026-10-27T19:30:23Z,2026-10-27T20:17:16Z,Aryan Sachin,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABaZLGNw,71403,Media Catalogue step 40 rejects equivalent condition and string concatenation,CLOSED,2026-10-27T19:27:15Z,2026-10-27T20:06:53Z,Sidsmartz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABaIYlQw,71392,Typo on A2 English for Developers Certification (Beta),CLOSED,2026-10-26T21:35:15Z,2026-10-27T20:05:08Z,Shubham02022002;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABYf_zUw,71148,Correct explanations in the dynamic programming lecture,CLOSED,2026-10-20T09:15:14Z,2026-10-27T19:47:57Z,aliyasyeddd,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABSb9QAw,70262,Design a Movie Review Page - Socrates fails to diagnose the issue,OPEN,2026-09-21T20:42:13Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABFblmlA,67944,Add keyboard shortcut hint to Check Code and Submit buttons,OPEN,2026-06-14T14:33:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXaVTnQ,70943,Title: Back End Development and APIs v9 certificate missing from public profile,CLOSED,2026-10-15T12:26:57Z,2026-10-27T13:52:03Z,majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABZ584mg,71381,Root start script references undefined develop:server,CLOSED,2026-10-26T04:38:56Z,2026-10-27T07:19:21Z,,freeCodeCamp,freeCodeCamp
@@ -195,7 +197,7 @@ I_kwDOAbI7X88AAAABYI2Wsg,71076,Shape Manager workshop doesn't check constants ar
 I_kwDOAbI7X88AAAABYOlFSg,71092,Object-Oriented Programming Quiz introductions need hyphens and Python capitalization,CLOSED,2026-10-19T08:57:25Z,2026-10-19T12:44:55Z,JuanVP8,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXVKIMw,70913,Correct JSON parsing explanations in the Fetch API HTTP methods lesson,CLOSED,2026-10-15T05:27:46Z,2026-10-19T08:45:46Z,ysflamine,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXYLHLw,70925,Medical Data Validator Step 31: equivalent age comparison rejected and description grammar,CLOSED,2026-10-15T09:44:41Z,2026-10-19T07:29:53Z,felipetmasiero,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABXr-eSw,71035,PIN Extractor Step 3: clarify the instructions and fix a missing article,CLOSED,2026-10-16T12:59:39Z,2026-10-19T06:46:54Z,Aryan9891,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXr-eSw,71035,PIN Extractor Step 3: clarify the instructions and fix a missing article,CLOSED,2026-10-16T12:59:39Z,2026-10-19T06:46:54Z,Aryan Sachin,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABDSIEaQ,67593,Add download button to independent lower jaw,OPEN,2026-05-25T07:58:48Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXrEpUw,71010,Correct pinning instructions and feature descriptions in the file management applications lesson,CLOSED,2026-10-16T11:49:34Z,2026-10-18T01:46:53Z,PrashantGC00,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXYEeWA,70920,Medical Data Validator Step 4: incorrect article in age hint,CLOSED,2026-10-15T09:37:36Z,2026-10-18T01:44:50Z,ankit06-webdev,freeCodeCamp,freeCodeCamp
@@ -758,9 +760,3 @@ I_kwDOAbI7X85fQ8lG,49492,Show warning to users when they try to source the wrong
 I_kwDOAbI7X88AAAABLl78Ew,69283,"Suggestion for clarifying ""What is CSS Specificity, and the Specificity for Inline, Internal, and External CSS""",CLOSED,2026-08-05T16:14:05Z,2026-08-06T12:29:59Z,Supravisor;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLN4dpQ,69225,Workshop Cafe Menu Step 67 description credits the border color change with the line height,CLOSED,2026-08-03T08:15:26Z,2026-08-06T09:02:45Z,Sagar-Kumar01,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnC1Wg,69287,Add Section Headers to Lecture: How Do You Work with External Fonts Like Font Squirrel and Google Fonts?,CLOSED,2026-08-05T18:42:00Z,2026-08-06T09:00:27Z,darmijo15,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLj-HYA,69279,Rounding edge case in challenge-359,CLOSED,2026-08-05T12:34:10Z,2026-08-05T18:23:28Z,Rikka-8964,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABD4hlXA,67721,[Umbrella issue] Curriculum Audit - Editable region markers and seed continuity — v9 workshops,CLOSED,2026-05-30T20:13:02Z,2026-08-05T16:59:03Z,Vishhh03;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLOUf5Q,69237,"Wording, example, and markup problems across the two CSS Flexbox lectures",CLOSED,2026-08-03T09:13:01Z,2026-08-05T15:50:02Z,Kunal241207,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLO47Hw,69245,Step 15 solution of the Greeting Bot workshop does not match the step seed,CLOSED,2026-08-03T10:23:17Z,2026-08-05T10:23:54Z,SnehaAN144,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLC2miw,69171,2026_08_01 Coding Challenge 356: Magic Square Solver - the link to the task is in the table for August 2025,CLOSED,2026-08-01T08:28:03Z,2026-08-02T06:42:56Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLRSkZQ,69255,Unit Test Button Names in Product Showcase Lab,CLOSED,2026-08-03T15:09:40Z,2026-08-05T07:08:17Z,MkhalFadel;imsomilg,freeCodeCamp,freeCodeCamp
