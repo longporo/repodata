@@ -1,4 +1,7 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+a7292b4f26e37f59ba12d670e53d8806d5c2527f,fix(curriculum): revert RPG certification project duplication (#71590),2026-11-05T12:56:03Z,4,352,majestic-owl448,freeCodeCamp,freeCodeCamp
+721afe66f9e83f95ab18d89349f49b4795264d70,fix(curriculum): save Bisection Method submissions (#71580),2026-11-05T12:54:24Z,1,1,majestic-owl448,freeCodeCamp,freeCodeCamp
+fd4891280a7c0251157d6708249119ebd7f7a41b,fix(curriculum): specify module in dictionaries and sets quiz (#71573),2026-11-05T12:34:02Z,1,4,Supravisor,freeCodeCamp,freeCodeCamp
 fdc1020b6143845d653302d53434a6bbec19fd0e,fix(curriculum): explain Python keyword arguments (#71587),2026-11-04T21:12:52Z,2,77,majestic-owl448,freeCodeCamp,freeCodeCamp
 a80abfd6b08619626fe100513bf83a156fd20108,feat(curriculum): add RPG certification project (#71579),2026-11-04T21:04:12Z,5,364,majestic-owl448,freeCodeCamp,freeCodeCamp
 06caf33ee6ad04256fe803673a50b6a27ea8b62f,fix(curriculum): clarify parameter reassignment in Kitchen Inventory …,2026-11-04T21:01:16Z,1,2,majestic-owl448,freeCodeCamp,freeCodeCamp
@@ -57,7 +60,7 @@ f5999861310d414d93119930152b38755cb3e09f,fix(deps): update dependency @paypal/re
 c0a271246ebfd702e3cb8a56cbe1a9a7c0f38374,chore(deps): update dependency webpack to v5.112.2 (#71468),2026-10-30T15:47:44Z,2,70,renovate[bot],freeCodeCamp,freeCodeCamp
 a7766eb44e23826ee3a90673e5174c3e765c52c7,test(e2e): remove shared user seeding (#71093),2026-10-30T15:44:53Z,52,529,Sembauke,freeCodeCamp,freeCodeCamp
 c1aef19ff1b659ebdaaf48dcfb65472d00dd232c,feat(curriculum): flesh out new front end JS (#71417),2026-10-30T13:11:52Z,58,10398,moT01,freeCodeCamp,freeCodeCamp
-cf563f4ae2f83e543fd3ff6844dbdb0380b01992,fix(curriculum): allow memoized recursion in Nth Fibonacci Number Cal…,2026-10-30T08:34:25Z,1,8,Aryan9891,freeCodeCamp,freeCodeCamp
+cf563f4ae2f83e543fd3ff6844dbdb0380b01992,fix(curriculum): allow memoized recursion in Nth Fibonacci Number Cal…,2026-10-30T08:34:25Z,1,8,Aryan Sachin,freeCodeCamp,freeCodeCamp
 24b202b1064caf9c758b79214c97de433955b359,fix(curriculum): update technology trends quiz option for consistency…,2026-10-30T07:27:14Z,1,2,sutarkumar,freeCodeCamp,freeCodeCamp
 6c18ff37b8d00be86316947267c1d8d504a334b2,chore(deps): update dependency webpack to v5.112.1 (#71457),2026-10-30T07:21:23Z,2,93,renovate[bot],freeCodeCamp,freeCodeCamp
 4d203ef8e7be9054aa5d924c690eeafd45934acd,fix(curriculum): improve Python explanations and formatting (#71438),2026-10-30T07:18:27Z,2,56,armandocompean1207-glitch,freeCodeCamp,freeCodeCamp
@@ -88,7 +91,7 @@ f6eb5881a78ef5cb6f1ac0b18930ca7a6a36c987,chore(deps): update dependency puppetee
 277027cc8b0b1fc7dd4589b310f044d498ad98e7,fix(curriculum): remove refs to removed lessons (#71402),2026-10-28T03:50:13Z,8,34,Ksound22,freeCodeCamp,freeCodeCamp
 a224b2e5ead24533c138d0dffc524fc4da5c3e74,chore(deps): update dependency joi to v18.3.0 (#71416),2026-10-27T21:20:15Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
 fb1dcbc686f67564c8a186dd5478fe95bb69f8f8,fix(curriculum): remove misleading tries paragraph (#71420),2026-10-27T21:15:06Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-92455fe7636dd8e9b0ba4c604be13807ea8b6e1b,fix(curriculum): reject non-positive amounts in encapsulation lecture…,2026-10-27T20:17:14Z,1,2,Aryan9891,freeCodeCamp,freeCodeCamp
+92455fe7636dd8e9b0ba4c604be13807ea8b6e1b,fix(curriculum): reject non-positive amounts in encapsulation lecture…,2026-10-27T20:17:14Z,1,2,Aryan Sachin,freeCodeCamp,freeCodeCamp
 0dc0b867ce80d351aee208a2ca7e15d4449beb39,fix(curriculum): accept equivalent solutions in media catalogue step …,2026-10-27T20:06:50Z,1,6,Sidsmartz,freeCodeCamp,freeCodeCamp
 3ff3c799be5ec90d850509140dbb6147c007e30b,fix(curriculum): correct typo in A2 English task 68 (#71394),2026-10-27T20:05:05Z,1,4,Shubham02022002,freeCodeCamp,freeCodeCamp
 63d09ce193c60147da1f5e1070591b516680cf05,chore(deps): update dependency core-js to v3.51.0 (#71412),2026-10-27T19:50:16Z,2,20,renovate[bot],freeCodeCamp,freeCodeCamp
@@ -244,7 +247,7 @@ b3d2ff87c05b0e86e023f0be563916c1ee452506,fix(curriculum): hyphenate object-orien
 73c360b3947442d07ab9dd252758e39bceb692e1,fix(curriculum): correct JSON parsing explanations in Fetch API HTTP …,2026-10-19T08:45:43Z,1,4,ysflamine,freeCodeCamp,freeCodeCamp
 a58c87a080f93211712895cc95fb6c4ed0cb7edd,test(e2e): isolate project submissions and previews (#70068),2026-10-19T08:43:18Z,5,104,Sembauke,freeCodeCamp,freeCodeCamp
 55749b279709d841f2dc15e1cdd2a824f1998ef2,fix(curriculum): accept equivalent age check in medical validator (#7…,2026-10-19T07:29:51Z,1,6,felipetmasiero,freeCodeCamp,freeCodeCamp
-315e12e644708079bd4c1c91a215457d56879aa4,fix(curriculum): clarify instructions in PIN Extractor Step 3 (#71072),2026-10-19T06:46:51Z,1,4,Aryan9891,freeCodeCamp,freeCodeCamp
+315e12e644708079bd4c1c91a215457d56879aa4,fix(curriculum): clarify instructions in PIN Extractor Step 3 (#71072),2026-10-19T06:46:51Z,1,4,Aryan Sachin,freeCodeCamp,freeCodeCamp
 cee78e0025cb68cc28994c09c2c08edb5c39e215,feat(curriculum): flesh out css section in front end web dev superblo…,2026-10-19T05:47:44Z,31,5891,moT01,freeCodeCamp,freeCodeCamp
 c58ed3e0a692e3a1b19281ac8b2f7655ac49c392,fix(deps): update dependency typebox to v1.3.36 (#71078),2026-10-19T03:43:57Z,2,18,renovate[bot],freeCodeCamp,freeCodeCamp
 c53ca6a127b3679009ce0397bb4a089c07102039,chore(deps): update pnpm to v12.11.2 (#71060),2026-10-18T17:37:13Z,2,124,renovate[bot],freeCodeCamp,freeCodeCamp
@@ -1091,13 +1094,3 @@ d2614d1c2ff567a31be8a9723b5d4b415970e5ea,fix(curriculum): add id attribute to el
 6d26c688fba244a19db4e1b0b00e093cc6413923,fix(curriculum): correct Step 67 description in Cafe Menu workshop (#…,2026-08-06T09:02:43Z,1,2,Sagar-Kumar01,freeCodeCamp,freeCodeCamp
 44d07f4df293eaffecaf492cf76f8a2bf78663c2,fix(curriculum): add section headers to external fonts lecture (#69353),2026-08-06T09:00:25Z,1,16,darmijo15,freeCodeCamp,freeCodeCamp
 05ae9b91a82d256fb59865caac788161aa6d3f67,fix(curriculum): typo in IDE name (#69354),2026-08-06T06:58:09Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-f4b07d54ac9e189536b62e1c852f4f8746cb6ba9,fix(curriculum): improve prose consistency in cargo manifest validato…,2026-08-05T23:43:50Z,1,165,Sembauke,freeCodeCamp,freeCodeCamp
-c9666713457986931d3d02a88bb3ade22d21fa9b,fix(curriculum): improve prose consistency in reusable mega navbar wo…,2026-08-05T23:30:11Z,10,53,Sembauke,freeCodeCamp,freeCodeCamp
-eb65b09fe146c9542fefa45cad76ac691ace1ac6,fix(curriculum): allow a corner header cell in availability table lab…,2026-08-05T23:14:04Z,1,6,majestic-owl448,freeCodeCamp,freeCodeCamp
-5f220bb865b7e857729f9e79d04e78a3ceb37294,fix(curriculum): clarify option count in weather app hint (#69282),2026-08-05T23:11:19Z,1,4,majestic-owl448,freeCodeCamp,freeCodeCamp
-f0a7d3a4a0a1eb3bb78bf002cf9d5da81c54ba3c,fix: update challenge 359 rounding test case (#69284),2026-08-05T18:23:26Z,2,8,Rikka-8964,freeCodeCamp,freeCodeCamp
-97320a9139e1a3dbcb1a9287e535108523dca0c3,fix(curriculum): Editable region markers in workshop-build-a-football…,2026-08-05T16:59:01Z,71,719,Vishhh03,freeCodeCamp,freeCodeCamp
-edaa960ce7114212b53a32503d6e35127d453806,fix(curriculum): improve Flexbox lecture content and examples (#69265),2026-08-05T15:50:00Z,2,243,Kunal241207,freeCodeCamp,freeCodeCamp
-3746de82cf9eedfb03abae987d5fa1817427d249,feat(client): upgrade to React 19 (#69271),2026-08-05T11:52:18Z,98,1249,Sembauke,freeCodeCamp,freeCodeCamp
-397e04dda353327253c799f231c3561cb8d46a24,refactor(curriculum): correct Greeting Bot Step 15 solution (#69277),2026-08-05T10:23:52Z,1,6,SnehaAN144,freeCodeCamp,freeCodeCamp
-17b9b993f8d2dc1f7304c321054c8f736e56aab3,fix(curriculum): avoid implicit globals in Product Showcase Lab (#69269),2026-08-05T07:08:15Z,1,17,MkhalFadel,freeCodeCamp,freeCodeCamp
