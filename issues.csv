@@ -1,10 +1,17 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X88AAAABcZ6SJA,71585,Bug: Settings sagas silently drop errors on failure,OPEN,2026-11-04T10:46:08Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABcsJLvg,71591,CSS Colors is outdated,OPEN,2026-11-05T09:19:37Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABXn5y8w,70987,Quiz creation fails in create-next-challenge and insert-challenge,OPEN,2026-10-16T07:41:04Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABA4Q_Kw,67175,rdb local setup instructions don't say what to do to start a 2nd workshop,CLOSED,2026-04-29T22:07:49Z,2026-11-05T10:37:26Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87X6o3A,63813,Workshop/Lab for exploring console?,OPEN,2025-11-13T19:13:51Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Ns2u6,62351,"Make the ""Build a Magazine"" workshop HTML more semantic and update structural hierarchy ",OPEN,2025-09-24T21:42:43Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABdH2iwA,71609,Mega Navbar step 11: React.useState hasn't been taught yet,OPEN,2026-11-06T19:35:36Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABdCZ1Jg,71605,Simplify definition formatting in First Question Basics - task 4 and 5,OPEN,2026-11-06T13:37:12Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABdESUOA,71607,Break long closed captions into multiple lines in How to Clarify Misunderstandings,OPEN,2026-11-06T15:36:18Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABA4Q_Kw,67175,rdb local setup instructions don't say what to do to start a 2nd workshop,OPEN,2026-04-29T22:07:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABdCk3Ow,71606,English sentences are not translated in First Basics Questions - task 4 and 5,OPEN,2026-11-06T13:49:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABba4fpg,71486,Learning Flow and Certification Project Difficulty - Budget App & Polygon Calculator,OPEN,2026-10-31T13:02:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABcsJLvg,71591,CSS Colors is outdated,OPEN,2026-11-05T09:19:37Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABUc3lqg,70552,Salary Tracker - Step 39: Socrates giving wrong hints,OPEN,2026-10-01T18:50:21Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABcZ6SJA,71585,Bug: Settings sagas silently drop errors on failure,OPEN,2026-11-04T10:46:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXn5y8w,70987,Quiz creation fails in create-next-challenge and insert-challenge,OPEN,2026-10-16T07:41:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABbbzq7A,71494,Digital Pet Game lab: PetMood enum and Record tests reject valid TypeScript,OPEN,2026-10-31T14:40:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABcOWuvw,71565,Clarify standard-library module questions in the Dictionaries and Sets Quiz,CLOSED,2026-11-03T18:49:07Z,2026-11-05T12:34:04Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABSb9QAw,70262,Design a Movie Review Page - Socrates fails to diagnose the issue,CLOSED,2026-09-21T20:42:13Z,2026-11-05T10:46:22Z,,freeCodeCamp,freeCodeCamp
@@ -12,7 +19,6 @@ I_kwDOAbI7X88AAAABaTjbfA,71399,Table on certification page doesn't look good.,OP
 I_kwDOAbI7X88AAAABcYxLzw,71584,Offering Free API Credits for Developer Education Projects,CLOSED,2026-11-04T09:18:54Z,2026-11-05T10:39:48Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABb1sBdA,71532,Data Structures Review contains inaccurate explanations and omits taught concepts,CLOSED,2026-11-02T13:10:00Z,2026-11-04T09:26:35Z,AnshBravo;majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABb1XheQ,71530,Dynamic Programming Review omits concepts taught in the lesson,CLOSED,2026-11-02T12:48:55Z,2026-11-04T08:06:10Z,Rohan-Dedhia,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABUc3lqg,70552,Salary Tracker - Step 39: Socrates giving wrong hints,OPEN,2026-10-01T18:50:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABaTpBaA,71400,Table on certification page for exams doesn't show a solution.,OPEN,2026-10-27T13:43:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABb2NadQ,71535,Searching and Sorting Algorithms Review has inaccurate explanations and missing taught concepts,CLOSED,2026-11-02T13:43:13Z,2026-11-04T08:01:02Z,AnshBravo,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABb2A5EQ,71534,Recursion Review: align coverage and examples with the Python module,CLOSED,2026-11-02T13:30:28Z,2026-11-04T07:26:17Z,Sidsmartz,freeCodeCamp,freeCodeCamp
@@ -682,8 +688,6 @@ I_kwDOAbI7X861UGwZ,60180,Handle log statements in redirection.ts,CLOSED,2025-05-
 I_kwDOAbI7X88AAAABIYmZqg,68697,Replace regex-based test cases in Build A Football Player Card Builder Workshop,CLOSED,2026-07-10T18:24:42Z,2026-08-17T11:44:09Z,jacobptnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnGetA,69340,"Add Section Headers to Lecture: What Are the Different Link States, and Why Are They Important?",CLOSED,2026-08-05T18:49:15Z,2026-08-17T11:33:12Z,laypatel13,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGpWcdA,68228,add Number.isInteger to module review,OPEN,2026-06-25T05:38:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87X6o3A,63813,Workshop/Lab for exploring console?,OPEN,2025-11-13T19:13:51Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Ns2u6,62351,"Make the ""Build a Magazine"" workshop HTML more semantic and update structural hierarchy ",OPEN,2025-09-24T21:42:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABM9hs1Q,69554,curriculum: step 3 of [build a string inspector workshop],CLOSED,2026-08-16T14:47:56Z,2026-08-17T03:32:17Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMWZluQ,69484,Factorial Calculator only accepts regular function,CLOSED,2026-08-11T19:20:11Z,2026-08-17T08:30:35Z,wunianze666-netizen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnGpWQ,69343,Add Section Headers to Lecture: What Are Best Practices for Designing Breadcrumbs?,CLOSED,2026-08-05T18:49:32Z,2026-08-17T08:19:59Z,jaykumar14921,freeCodeCamp,freeCodeCamp
@@ -751,12 +755,3 @@ I_kwDOAbI7X88AAAABLnGh-w,69341,"Add Section Headers to Lecture: What Are Classes
 I_kwDOAbI7X88AAAABLnGmXg,69342,Add Section Headers to Lecture: What Are Font Families and How Do They Work?,CLOSED,2026-08-05T18:49:27Z,2026-08-07T08:13:24Z,SudhamshuH,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnFqDg,69330,Add Section Headers to Lecture: What Is the Difference Between Presentational and Semantic HTML?,CLOSED,2026-08-05T18:47:39Z,2026-08-07T08:10:56Z,Webmekanic,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLyyZzA,69384,[Translation Bug] Test requirement descriptions are inverted/swapped in Japanese (Responsive Web Design),CLOSED,2026-08-07T02:56:51Z,2026-08-07T07:42:03Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABEE8zEA,67770,Course progress steps are not conveyed to the screen reader users,OPEN,2026-06-02T05:06:10Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABK-HRcw,69150,Invalid CSS placeholder and class name described as a selector in Step 22 of the Cafe Menu workshop,CLOSED,2026-07-31T15:50:22Z,2026-08-06T17:16:49Z,1t1sCooL,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnF61A,69332,"Add Section Headers to Lecture: What Are Regex Quantifiers, and How Do They Work?",CLOSED,2026-08-05T18:48:10Z,2026-08-06T15:52:40Z,SudhamshuH,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIYmaMQ,68698,Replace regex-based test cases in Calculator Workshop,CLOSED,2026-07-10T18:24:44Z,2026-08-06T14:55:23Z,jeffrinkdev,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnFVEg,69325,Add Section Headers to Lecture: How Does the This Keyword Work?,CLOSED,2026-08-05T18:46:58Z,2026-08-06T14:40:09Z,Priyesh1311421,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X85fQ8lG,49492,Show warning to users when they try to source the wrong files,CLOSED,2023-02-24T09:45:10Z,2026-08-06T13:44:41Z,Sembauke,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLl78Ew,69283,"Suggestion for clarifying ""What is CSS Specificity, and the Specificity for Inline, Internal, and External CSS""",CLOSED,2026-08-05T16:14:05Z,2026-08-06T12:29:59Z,Supravisor;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLN4dpQ,69225,Workshop Cafe Menu Step 67 description credits the border color change with the line height,CLOSED,2026-08-03T08:15:26Z,2026-08-06T09:02:45Z,Sagar-Kumar01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnC1Wg,69287,Add Section Headers to Lecture: How Do You Work with External Fonts Like Font Squirrel and Google Fonts?,CLOSED,2026-08-05T18:42:00Z,2026-08-06T09:00:27Z,darmijo15,freeCodeCamp,freeCodeCamp
