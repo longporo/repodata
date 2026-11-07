@@ -1,4 +1,6 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+fe2e0b8e1ad4a40ec5f7486055a99d0c3e5d8438,fix(curriculum): split employee validator step 7 (#71603),2026-11-06T18:01:24Z,17,165,majestic-owl448,freeCodeCamp,freeCodeCamp
+41002cedfd198b9196a5378b7eeb51ed6093a912,refactor: typescript 7 + oxlint (#71559),2026-11-06T11:17:40Z,212,3944,ojeytonwilliams,freeCodeCamp,freeCodeCamp
 a7292b4f26e37f59ba12d670e53d8806d5c2527f,fix(curriculum): revert RPG certification project duplication (#71590),2026-11-05T12:56:03Z,4,352,majestic-owl448,freeCodeCamp,freeCodeCamp
 721afe66f9e83f95ab18d89349f49b4795264d70,fix(curriculum): save Bisection Method submissions (#71580),2026-11-05T12:54:24Z,1,1,majestic-owl448,freeCodeCamp,freeCodeCamp
 fd4891280a7c0251157d6708249119ebd7f7a41b,fix(curriculum): specify module in dictionaries and sets quiz (#71573),2026-11-05T12:34:02Z,1,4,Supravisor,freeCodeCamp,freeCodeCamp
@@ -1078,19 +1080,3 @@ fd7804d93be9146f59316657935bf7a78c00daf0,"refactor(curriculum): add section head
 5f6429fdabc7f8a4b2329f2d7b851301518996f0,fix(client): fix broken lint on main in multiple-choice-questions.tes…,2026-08-07T08:44:41Z,2,22,Sembauke,freeCodeCamp,freeCodeCamp
 9789d0922fe07d5b0422dd5c38fd99fc9e94f1b7,refactor(curriculum): Add Section Headers to Lecture: What Are Font F…,2026-08-07T08:13:23Z,1,8,SudhamshuH,freeCodeCamp,freeCodeCamp
 9ce71bac527350d7910fa7cd3557b41764b1f457,feat(curriculum): Add Section Headers To Semantic HTML Lecture (#69368),2026-08-07T08:10:54Z,1,14,Webmekanic,freeCodeCamp,freeCodeCamp
-645dbf7ba364a5377ac517cd7d4aba6310b2cf78,test: move RWD intro page coverage to client (#68363),2026-08-06T19:11:02Z,3,207,Sembauke,freeCodeCamp,freeCodeCamp
-93a0a975543d9f3ba0fa50ab1ddcc97beba9834e,test: move learn page coverage to client (#68366),2026-08-06T19:08:47Z,2,190,Sembauke,freeCodeCamp,freeCodeCamp
-78f1b70aa6281bedc9f7e655a84100649f24cf22,test: move challenge reset modal coverage to client (#68039),2026-08-06T19:06:11Z,2,187,Sembauke,freeCodeCamp,freeCodeCamp
-cfab7424188fc1ae34f2de5837e1c3a112494de2,test: move multiple choice question coverage to client (#68383),2026-08-06T19:04:01Z,2,169,Sembauke,freeCodeCamp,freeCodeCamp
-639ff5ac61534550decdd8b841bab52c7e952567,test: move help button coverage to client (#68345),2026-08-06T19:01:38Z,3,217,Sembauke,freeCodeCamp,freeCodeCamp
-4e418a16a449f517bd32c310a8ae9c9dd3df8992,fix(curriculum): correct CSS placeholder and selector wording in Cafe…,2026-08-06T17:16:47Z,1,4,1t1sCooL,freeCodeCamp,freeCodeCamp
-220ff7898556e560b22d951de62b74bb305d0c33,refactor(curriculum): Add Section Headers to Lecture: What Are Regex …,2026-08-06T15:52:38Z,1,12,SudhamshuH,freeCodeCamp,freeCodeCamp
-eb95251d467909929e92662a22e7aac1ca06cbc6,fix(curriculum): fix grammar and wording issues in mood board lab (#6…,2026-08-06T15:52:18Z,1,14,Sembauke,freeCodeCamp,freeCodeCamp
-228654e43eafe49d55cdda0aead8213fab395858,fix(curriculum): start hint text with You/Your in reusable footer lab…,2026-08-06T15:17:20Z,1,4,Sembauke,freeCodeCamp,freeCodeCamp
-7ef74ff623592bc65e39a63d0dd8de7b41cb7184,refactor(curriculum): Replace regex-based test cases in Calculator Wo…,2026-08-06T14:55:21Z,17,138,jeffrinkdev,freeCodeCamp,freeCodeCamp
-734dd74b598912dc541c6021e5a8e4e04069ac8e,"refactor(curriculum): update section headers for ""How Does the This K…",2026-08-06T14:40:07Z,1,10,Priyesh1311421,freeCodeCamp,freeCodeCamp
-57faa5eb56f8cca6b4799c0b71304ad12d9f9c89,feat(learn): warn for unsupported local resource imports (#67088),2026-08-06T13:44:38Z,5,255,Sembauke,freeCodeCamp,freeCodeCamp
-d2614d1c2ff567a31be8a9723b5d4b415970e5ea,fix(curriculum): add id attribute to element with class attribute to …,2026-08-06T12:29:57Z,1,29,Supravisor,freeCodeCamp,freeCodeCamp
-6d26c688fba244a19db4e1b0b00e093cc6413923,fix(curriculum): correct Step 67 description in Cafe Menu workshop (#…,2026-08-06T09:02:43Z,1,2,Sagar-Kumar01,freeCodeCamp,freeCodeCamp
-44d07f4df293eaffecaf492cf76f8a2bf78663c2,fix(curriculum): add section headers to external fonts lecture (#69353),2026-08-06T09:00:25Z,1,16,darmijo15,freeCodeCamp,freeCodeCamp
-05ae9b91a82d256fb59865caac788161aa6d3f67,fix(curriculum): typo in IDE name (#69354),2026-08-06T06:58:09Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
