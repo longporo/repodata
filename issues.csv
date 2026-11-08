@@ -1,15 +1,17 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABdH2iwA,71609,Mega Navbar step 11: React.useState hasn't been taught yet,OPEN,2026-11-06T19:35:36Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABUc3lqg,70552,Salary Tracker - Step 39: Socrates giving wrong hints,OPEN,2026-10-01T18:50:21Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABdSaDZw,71612,Typo in Learn Basic Personal Information - task 35,OPEN,2026-11-07T14:51:23Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABTYxe7Q,70425,Bad German translations,OPEN,2026-09-26T17:44:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87X6o3A,63813,Workshop/Lab for exploring console?,OPEN,2025-11-13T19:13:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Ns2u6,62351,"Make the ""Build a Magazine"" workshop HTML more semantic and update structural hierarchy ",OPEN,2025-09-24T21:42:43Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABdH2iwA,71609,Mega Navbar step 11: React.useState hasn't been taught yet,OPEN,2026-11-06T19:35:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABdCZ1Jg,71605,Simplify definition formatting in First Question Basics - task 4 and 5,OPEN,2026-11-06T13:37:12Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABdESUOA,71607,Break long closed captions into multiple lines in How to Clarify Misunderstandings,OPEN,2026-11-06T15:36:18Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABA4Q_Kw,67175,rdb local setup instructions don't say what to do to start a 2nd workshop,OPEN,2026-04-29T22:07:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABdCk3Ow,71606,English sentences are not translated in First Basics Questions - task 4 and 5,OPEN,2026-11-06T13:49:11Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABba4fpg,71486,Learning Flow and Certification Project Difficulty - Budget App & Polygon Calculator,OPEN,2026-10-31T13:02:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABcsJLvg,71591,CSS Colors is outdated,OPEN,2026-11-05T09:19:37Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABUc3lqg,70552,Salary Tracker - Step 39: Socrates giving wrong hints,OPEN,2026-10-01T18:50:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABcZ6SJA,71585,Bug: Settings sagas silently drop errors on failure,OPEN,2026-11-04T10:46:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXn5y8w,70987,Quiz creation fails in create-next-challenge and insert-challenge,OPEN,2026-10-16T07:41:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABbbzq7A,71494,Digital Pet Game lab: PetMood enum and Record tests reject valid TypeScript,OPEN,2026-10-31T14:40:19Z,,,freeCodeCamp,freeCodeCamp
@@ -371,7 +373,6 @@ I_kwDOAbI7X88AAAABUFR8gA,70512,Typo in a redirection statement in the HTTP respo
 I_kwDOAbI7X86mW4zg,58168,Build a House Painting,CLOSED,2025-01-15T21:55:34Z,2025-01-16T08:01:26Z,gagan-bhullar-tech,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABUFoARA,70513,Fix prose issues in the HTTP response codes lesson,CLOSED,2026-09-30T07:51:49Z,2026-09-30T13:32:23Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRvD-wA,70117,Add images to the effective web search lesson,CLOSED,2026-09-17T08:53:57Z,2026-09-30T13:06:48Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABTYxe7Q,70425,Bad German translations,OPEN,2026-09-26T17:44:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRu6jwA,70113,Add images to the DOM Inspector and DevTools lesson,CLOSED,2026-09-17T08:39:07Z,2026-09-30T12:42:11Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABT8y0KA,70497,fix(a11y): Quiz score is not announced to screen reader users after finishing a quiz,OPEN,2026-09-29T16:32:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87aPEw0,64119,Workshop – Guild Loot Tracker,CLOSED,2025-11-25T03:44:25Z,2026-09-30T06:48:58Z,,freeCodeCamp,freeCodeCamp
@@ -739,19 +740,3 @@ I_kwDOAbI7X88AAAABL_QtVg,69428,Curricula sidebar: completed blocks are never sho
 I_kwDOAbI7X88AAAABLxbQQg,69382,File Metadata Microservice: last test can't pass because the proxy fetch has no Response.blob(),CLOSED,2026-08-06T21:55:38Z,2026-08-08T16:52:05Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLwxh6A,69378,Incorrect sentence casing,CLOSED,2026-08-06T19:43:31Z,2026-08-08T12:57:39Z,huyenltnguyen;wehamed,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnDFrQ,69295,Add Section Headers to Lecture: What Are the Different Types of CSS Combinators?,CLOSED,2026-08-05T18:42:34Z,2026-08-08T12:12:27Z,SaikiranRayabarapu,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABL6y5qg,69418,cnp,CLOSED,2026-08-07T23:49:25Z,2026-08-08T03:52:42Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABL6zhTw,69419,Def,CLOSED,2026-08-07T23:52:18Z,2026-08-08T03:52:36Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABL0qO1w,69391,Restore the missing semicolon in the Toggle Text App workshop Step 13 solution,CLOSED,2026-08-07T08:34:03Z,2026-08-07T21:38:19Z,huyenltnguyen;soumyakumari0205-svg,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABL1Cq_w,69395,"Wrong PowerShell product name, curly quotes, and heading case problems in the Node installation lesson",CLOSED,2026-08-07T09:29:53Z,2026-08-07T21:12:54Z,Dev-Mayuresh,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLvvA3g,69373,Envelope Budget - Step 48,CLOSED,2026-08-06T16:34:30Z,2026-08-07T16:44:31Z,MkhalFadel,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABL1Cy8Q,69396,Challenge titles in the lecture-working-with-nodejs-and-event-driven-architecture block JSON are not in title case,CLOSED,2026-08-07T09:30:08Z,2026-08-07T16:15:48Z,KesleyDavid,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnGX6A,69338,"Add Section Headers to Lecture: What Is the aria-live Attribute, and How Does It Work?",CLOSED,2026-08-05T18:49:04Z,2026-08-07T16:01:38Z,laypatel13,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABL1C4uw,69397,Block title for lecture-working-with-nodejs-and-event-driven-architecture in intro.json uses NodeJS and sentence case,CLOSED,2026-08-07T09:30:19Z,2026-08-07T15:47:08Z,gideonadeti,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnG4cw,69347,Add Section Headers to Lecture: What Is the Difference Between content-box and border-box?,CLOSED,2026-08-05T18:49:55Z,2026-08-07T15:23:47Z,SudhamshuH;imsomilg,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLtyItw,69361,Remove extra period,CLOSED,2026-08-06T12:33:55Z,2026-08-07T13:11:50Z,huyenltnguyen;raitaskeen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABL1Oi3A,69399,intro.json block order for Front End Development Libraries (v9) does not match the superblock JSON,CLOSED,2026-08-07T09:55:55Z,2026-08-07T12:23:26Z,Dazzanova,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLucWOA,69365,Misleading code example in backend lesson,CLOSED,2026-08-06T13:53:26Z,2026-08-07T09:30:40Z,Rashid0312;majestic-owl448,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnGh-w,69341,"Add Section Headers to Lecture: What Are Classes, and How Do They Work in JavaScript?",CLOSED,2026-08-05T18:49:20Z,2026-08-07T09:27:46Z,majestic-owl448;priyansh3010,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnGmXg,69342,Add Section Headers to Lecture: What Are Font Families and How Do They Work?,CLOSED,2026-08-05T18:49:27Z,2026-08-07T08:13:24Z,SudhamshuH,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnFqDg,69330,Add Section Headers to Lecture: What Is the Difference Between Presentational and Semantic HTML?,CLOSED,2026-08-05T18:47:39Z,2026-08-07T08:10:56Z,Webmekanic,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLyyZzA,69384,[Translation Bug] Test requirement descriptions are inverted/swapped in Japanese (Responsive Web Design),CLOSED,2026-08-07T02:56:51Z,2026-08-07T07:42:03Z,,freeCodeCamp,freeCodeCamp
