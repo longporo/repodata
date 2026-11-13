@@ -1,11 +1,12 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABeFPBEw,71652,Grammar issue in Basic Personal Information - Task 32,CLOSED,2026-11-10T18:57:47Z,2026-11-13T01:11:52Z,ishanniselva-collab,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABeGB-7w,71653,Change block layout of Sharing Your Personal Details Review to `challenge-list`,OPEN,2026-11-10T19:47:46Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABelTrEA,71670,Proposal: Add a practice sandbox for beginners in CONTRIBUTING.md,CLOSED,2026-11-12T10:00:50Z,2026-11-12T11:44:23Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABdtGwag,71634,JavaScript Certification: Loops - Build a Sentence Analyzer Step 1,CLOSED,2026-11-09T14:51:59Z,2026-11-11T14:14:18Z,Aksh-ll,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABcO64tw,71568,Audio issues in A1 Spanish,OPEN,2026-11-03T19:27:15Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABaTjbfA,71399,Table on certification page doesn't look good.,OPEN,2026-10-27T13:38:03Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABeGB-7w,71653,Change block layout of Sharing Your Personal Details Review to `challenge-list`,OPEN,2026-11-10T19:47:46Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXn5y8w,70987,Quiz creation fails in create-next-challenge and insert-challenge,OPEN,2026-10-16T07:41:04Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABeFPBEw,71652,Grammar issue in Basic Personal Information - Task 32,OPEN,2026-11-10T18:57:47Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABdveArA,71636,Fix typo and unicode en-dash in create-this-challenge template headers,CLOSED,2026-11-09T17:11:59Z,2026-11-10T18:41:05Z,Ayush,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABNRwnUw,69604,"Certification Project: Build a Digital Pet Game - Test #6 not allowing ""onChange"" handler for pet name",CLOSED,2026-08-18T20:28:00Z,2026-11-10T15:50:05Z,majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABK_NtUQ,69158,"Digital Pet Game - Step for says form shouldn't be ""Visible"" but test looks at existence",CLOSED,2026-07-31T18:29:20Z,2026-11-10T15:50:05Z,majestic-owl448,freeCodeCamp,freeCodeCamp
@@ -713,10 +714,3 @@ I_kwDOAbI7X88AAAABIYmpYg,68725,Replace regex-based test cases in Wildlife Tracke
 I_kwDOAbI7X88AAAABLnG67A,69348,Add Section Headers to Lecture: How Does Operator Precedence Work?,CLOSED,2026-08-05T18:50:00Z,2026-08-13T14:51:18Z,typovrak,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMnMeUQ,69521,Docs: Update formatting in documentation guidelines,CLOSED,2026-08-13T12:25:37Z,2026-08-13T13:16:07Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMcbU7g,69493,Fix grammar and formatting issues in the How to Install Visual Studio Code onto Your Computer lecture,CLOSED,2026-08-12T10:54:59Z,2026-08-13T07:59:58Z,d4-dhiraj,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMiBUAg,69517,Refactor: Use `Languages` enum for `clientLocale` in `video-player` component,CLOSED,2026-08-12T22:45:43Z,2026-08-13T00:38:48Z,huyenltnguyen;syedsohailhussain1,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMfIjDQ,69508,intro.json block order for The Odin Project does not match the superblock JSON,CLOSED,2026-08-12T16:10:27Z,2026-08-13T00:15:23Z,abdulwaarith0,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMfIfdw,69507,intro.json block order for Learn SQL and Bash does not match the superblock JSON,CLOSED,2026-08-12T16:10:19Z,2026-08-12T21:57:04Z,Your Name,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMfInuw,69509,javascript-fundamentals-review is missing the lab-story-fragment-restoration block,CLOSED,2026-08-12T16:10:37Z,2026-08-12T21:50:25Z,Kunal241207,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMcbZig,69494,Fix wrong preposition in the challengeOrder title for the VS Code installation lecture,CLOSED,2026-08-12T10:55:09Z,2026-08-12T14:21:04Z,MahyarCode,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABL1ChpA,69393,Content and formatting problems in the What is Node lesson of the Introduction to Node.js module,CLOSED,2026-08-07T09:29:32Z,2026-08-12T11:31:15Z,Lavanya-N24,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMHKJtw,69458,"Grammar, spelling, and capitalization errors in What Are the Different Types of Internet Service Providers",CLOSED,2026-08-10T07:38:37Z,2026-08-12T10:26:23Z,Gilbert;zairahira,freeCodeCamp,freeCodeCamp
