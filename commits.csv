@@ -1,4 +1,20 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+f823179c8334c1a51575ba87fa0487e8868134bd,chore(deps): update dependency @playwright/test to v1.65.0 (#71682),2026-11-13T01:16:28Z,2,28,renovate[bot],freeCodeCamp,freeCodeCamp
+2d909bb92499b6f7a6bd89c55a2f22a77b81ec9a,fix(curriculum): correct Delgado sentence (#71679),2026-11-13T01:11:50Z,1,2,ishanniselva-collab,freeCodeCamp,freeCodeCamp
+388ca976ea397483e4f857019db97ebc36e9dbf9,fix(deps): update dependency bson to v7.3.4 (#71681),2026-11-13T00:48:42Z,3,16,renovate[bot],freeCodeCamp,freeCodeCamp
+7fce48a0f6b78fcd93d907fc86475e6286bde34e,fix(deps): update algolia (#71675),2026-11-12T23:28:54Z,2,62,renovate[bot],freeCodeCamp,freeCodeCamp
+28e9608ffa6e01bc2f9c1ca8d4a91dd9f8a43e4a,chore(deps): update dependency oxlint-tsgolint to v7.0.2006 (#71678),2026-11-12T23:26:13Z,2,89,renovate[bot],freeCodeCamp,freeCodeCamp
+356caac469ce250ba4bf949a29f09fd10947fbaf,ci: drop Node version from required check names,2026-11-12T14:57:36Z,1,24,raisedadead,freeCodeCamp,freeCodeCamp
+b030df1b4b62a047319755f1de8a874fc691cd66,chore(renovate): hold Docker updates for review,2026-11-12T14:53:49Z,1,5,raisedadead,freeCodeCamp,freeCodeCamp
+6fc9d74392e0f658916f2c83d3b47ea02120ba8e,chore(deps): update pnpm to v12.18.0 (#71674),2026-11-12T14:08:30Z,2,124,renovate[bot],freeCodeCamp,freeCodeCamp
+8aafa3fd57cb4f00347581bd30efcd172fbeff8b,fix(deps): update babel monorepo to v7.29.13 (#71673),2026-11-12T14:06:38Z,3,957,renovate[bot],freeCodeCamp,freeCodeCamp
+15eb56c66c4e0f5435a00bed1d26a9fd30846f2c,ci(deploy): drop the optional second API target (#71672),2026-11-12T14:03:48Z,1,64,raisedadead,freeCodeCamp,freeCodeCamp
+f7f120634a93bfdac726062cb8f2e3eadedb23b8,fix(curriculum): extra verb in manage conversation (#71660),2026-11-12T13:23:00Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
+5bd1594854a1502e84a846061b973ad06cec8efa,chore(deps): update dependency joi to v18.3.2 (#71668),2026-11-12T11:33:58Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
+92d51e18e58e8d52fa78d12f277311cf59850944,chore(deps): update dependency prettier to v3.9.9 (#70796),2026-11-12T11:32:59Z,17,89,renovate[bot],freeCodeCamp,freeCodeCamp
+d4f4e3383d5ca9170cc68dc30705425ad24aa5d6,fix(curriculum): correct title of A1 Spanish review lessons (#71663),2026-11-12T08:57:41Z,5,21,huyenltnguyen,freeCodeCamp,freeCodeCamp
+ccf5e7ba34114bb3af6c270c5ff92f895aff4cbb,chore(deps): update dependency @typescript/vfs-1.6.1 to v1.6.6 (#71667),2026-11-12T08:55:41Z,2,19,renovate[bot],freeCodeCamp,freeCodeCamp
+9df1d45f2abcd9c1fae91c00709a4e07faf232fe,chore(deps): update dependency @typescript/vfs to v1.6.6 (#71666),2026-11-12T07:55:05Z,2,19,renovate[bot],freeCodeCamp,freeCodeCamp
 104f479b56725bb060305ba2575b7bb93ce9a502,chore(deps): update dependency @types/react-test-renderer to v16.9.13…,2026-11-12T04:06:47Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
 53c4d519b1a72b1999812ab425cff7d7b958bbe0,chore(deps): update dependency oxlint to v1.91.0 (#71661),2026-11-11T22:05:32Z,3,178,renovate[bot],freeCodeCamp,freeCodeCamp
 7033ac91c07fcfbaa266d12abbf84a61a0b20950,test: use fixtures for curriculum-data tests (#68513),2026-11-11T22:03:16Z,2,585,ojeytonwilliams,freeCodeCamp,freeCodeCamp
@@ -1057,15 +1073,3 @@ aec879c41098119b1a032bffccff452def77f4c7,feat: remove ona (#69351),2026-08-13T09
 75232d05f17c4df1c4bc99f466e2bace0d8b3b98,fix: grammar and formatting in VS Code install lecture (#69511),2026-08-13T07:59:56Z,1,8,d4-dhiraj,freeCodeCamp,freeCodeCamp
 e5846e51a778331e6465f6b4b2e5449ca114acb3,feat(curriculum): add REST API and Web Services review (#69503),2026-08-13T07:37:18Z,5,130,majestic-owl448,freeCodeCamp,freeCodeCamp
 52c5bcafbc691e683ab6c3540434e4c27bc92755,fix(curriculum): stop file metadata test from using Response.blob() (…,2026-08-13T07:33:00Z,1,17,majestic-owl448,freeCodeCamp,freeCodeCamp
-684a580d787ee64f7053f86a5a4dc8fa5b2ed2f9,refactor(client): use Languages enum for clientLocale in video-player…,2026-08-13T00:38:46Z,1,10,syedsohailhussain1,freeCodeCamp,freeCodeCamp
-b74ef511b59daf2c14db8948fb0ae99743a4b17a,fix(client): align The Odin Project intro.json block order with the s…,2026-08-13T00:15:21Z,1,12,abdulwaarith0,freeCodeCamp,freeCodeCamp
-ce5748f3c8192c8753db66c96eeb6a0a0028d0b7,fix(curriculum): stub fetch in Motorcycle Shop lab tests (#69243),2026-08-12T22:03:39Z,1,301,majestic-owl448,freeCodeCamp,freeCodeCamp
-a7e28fd2bcde0283920dfd50eb8d90a0230a158d,fix: reorder lab-world-cup-database to correct position in curriculum…,2026-08-12T21:57:02Z,1,12,Anwiii,freeCodeCamp,freeCodeCamp
-2b8fb9a2068d697da9460508473d7d7457034471,fix: add missing lab-story-fragment-restoration to javascript-fundame…,2026-08-12T21:50:23Z,2,8,Kunal241207,freeCodeCamp,freeCodeCamp
-f686e87748c88dd45b3a2c91878cd3eca6e2313b,fix: stabilize dialog tests (#69500),2026-08-12T16:38:22Z,1,11,huyenltnguyen,freeCodeCamp,freeCodeCamp
-98d0a917ecb47e0583c5d15d9ccd6706ec28f412,test(client): move signout modal rendering coverage to client (#68512),2026-08-12T16:37:47Z,5,237,Sembauke,freeCodeCamp,freeCodeCamp
-ca185a2acdc916946ddce84029ea32409d7b0a43,fix(curriculum): restore list sub-headings in backend lessons (#69502),2026-08-12T16:14:57Z,3,34,Dario-DC,freeCodeCamp,freeCodeCamp
-d1b303847e9a6a76469d15d049fd77e6e0df3273,fix(curriculum): correct the wrong preposition (#69501),2026-08-12T14:21:02Z,1,2,MahyarCode,freeCodeCamp,freeCodeCamp
-fa2b1f067fa02d3fbc08544acc4e34faf4211969,fix(curriculum): correct Node.js lesson wording (#69492),2026-08-12T11:31:12Z,1,12,Lavanya-N24,freeCodeCamp,freeCodeCamp
-9c64f91b0754fddf125f3f313c7b976dc95343b7,fix(curriculum): correct ISP lesson wording (#69483),2026-08-12T10:26:21Z,1,20,fuentez145,freeCodeCamp,freeCodeCamp
-0febf22779c9d5df562dd411dbe11365dca397a8,test(e2e): make donation payment widgets run on every PR (#69477),2026-08-12T07:30:35Z,8,646,Sembauke,freeCodeCamp,freeCodeCamp
