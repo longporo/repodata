@@ -1,4 +1,12 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+7db71168cbb70aa3e0059aa7a1f45dfaaaad9caa,fix(curriculum): add missing data sanitizer sweep lab (#71699),2026-11-14T00:49:11Z,2,7,Piyush495,freeCodeCamp,freeCodeCamp
+4db0df6a95896d24ad3fe3575e1aeb87d5445576,feat(curriculum): add f-string formatting to movie ticket workshop (#…,2026-11-14T00:43:32Z,13,206,Ksound22,freeCodeCamp,freeCodeCamp
+3f88a8554590d210c1ecd681823029a1c8b7a0a4,chore(deps): update dependency oxlint to v1.92.0 (#71695),2026-11-13T15:21:54Z,3,228,renovate[bot],freeCodeCamp,freeCodeCamp
+583ea068af3e6b0fb28ab0e7f61a515f4b443784,"ci(docker): build arm64 on PRs, gate latest tag (#71693)",2026-11-13T15:18:48Z,2,22,raisedadead,freeCodeCamp,freeCodeCamp
+c0d66010fb5d7cc19da3b96328c296fdd451a673,"fix(docker): build arm64 natively, pin node image (#71690)",2026-11-13T14:00:20Z,3,98,raisedadead,freeCodeCamp,freeCodeCamp
+0e36aee5d81512be827b41761446abdc90076293,fix(curriculum): updated Spanish review layout (#71655),2026-11-13T09:40:53Z,1,2,BuddiePowell,freeCodeCamp,freeCodeCamp
+de74555301d5edb92cb58160bb1906edaf4280d9,chore(deps): update dependency glob to v13.0.7 (#71685),2026-11-13T06:27:42Z,2,14,renovate[bot],freeCodeCamp,freeCodeCamp
+cd0c02e20b0ba8f085a87cd69b00175b0ba9003c,chore(deps): move to Node 26 (#70714),2026-11-13T06:22:43Z,23,444,raisedadead,freeCodeCamp,freeCodeCamp
 f823179c8334c1a51575ba87fa0487e8868134bd,chore(deps): update dependency @playwright/test to v1.65.0 (#71682),2026-11-13T01:16:28Z,2,28,renovate[bot],freeCodeCamp,freeCodeCamp
 2d909bb92499b6f7a6bd89c55a2f22a77b81ec9a,fix(curriculum): correct Delgado sentence (#71679),2026-11-13T01:11:50Z,1,2,ishanniselva-collab,freeCodeCamp,freeCodeCamp
 388ca976ea397483e4f857019db97ebc36e9dbf9,fix(deps): update dependency bson to v7.3.4 (#71681),2026-11-13T00:48:42Z,3,16,renovate[bot],freeCodeCamp,freeCodeCamp
@@ -1063,13 +1071,3 @@ fe6fea5212d305e17d1aeb05b9bbc5b86c51c7cf,fix(curriculum): reorder backend cert m
 60e41ae6f5a11cc6f95ee2487e361d8275dd2441,fix(curriculum): numbered list in backend lesson (#69538),2026-08-14T13:34:42Z,1,46,Dario-DC,freeCodeCamp,freeCodeCamp
 a6f4178cfc985ecf9db89ea0130ea3469b1e73fd,fix(curriculum): update keyboard shortcut text (#69536),2026-08-14T12:43:31Z,1,16,noqokhxnh,freeCodeCamp,freeCodeCamp
 c51bf5c452ee49b6ae75d9a2ee938a092bf555d6,fix(curriculum): fix grammar and terminology consistency in toggle te…,2026-08-14T06:28:53Z,7,18,Sembauke,freeCodeCamp,freeCodeCamp
-fef536d2ed3c6d2bd21dac847ad60448e7112f3f,fix(curriculum): correct wording in Vite lesson (#69531),2026-08-13T21:20:51Z,1,10,lberge17,freeCodeCamp,freeCodeCamp
-602f66168b4f9e9da30d94c7e720230754ccd240,fix(curriculum): improve wording in the keyboard and mouse lesson (#6…,2026-08-13T21:17:33Z,1,8,Pastalikek65,freeCodeCamp,freeCodeCamp
-adabac3b77c5d04548c377139dbd2b5db60fd929,fix(curriculum): add section headers to text-shadow lecture (#69506),2026-08-13T19:21:02Z,1,22,laypatel13,freeCodeCamp,freeCodeCamp
-d42422bed271d83eb9494b4ccb57187ad326d17b,fix(curriculum): improve wording in code editor and IDE lesson (#69522),2026-08-13T16:56:35Z,1,12,subodh-77,freeCodeCamp,freeCodeCamp
-85d8fe4638523927ca6215f892509720a05c8356,refactor(curriculum): replace regex with AST helpers in workshop-wild…,2026-08-13T15:58:45Z,7,45,eva-lng,freeCodeCamp,freeCodeCamp
-865e553204f7fed482c4696ba767f94d316442c7,fix(curriculum): add section headers to operator precedence lecture (…,2026-08-13T14:51:16Z,1,32,typovrak,freeCodeCamp,freeCodeCamp
-aec879c41098119b1a032bffccff452def77f4c7,feat: remove ona (#69351),2026-08-13T09:34:15Z,19,468,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-75232d05f17c4df1c4bc99f466e2bace0d8b3b98,fix: grammar and formatting in VS Code install lecture (#69511),2026-08-13T07:59:56Z,1,8,d4-dhiraj,freeCodeCamp,freeCodeCamp
-e5846e51a778331e6465f6b4b2e5449ca114acb3,feat(curriculum): add REST API and Web Services review (#69503),2026-08-13T07:37:18Z,5,130,majestic-owl448,freeCodeCamp,freeCodeCamp
-52c5bcafbc691e683ab6c3540434e4c27bc92755,fix(curriculum): stop file metadata test from using Response.blob() (…,2026-08-13T07:33:00Z,1,17,majestic-owl448,freeCodeCamp,freeCodeCamp
