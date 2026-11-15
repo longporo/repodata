@@ -1,4 +1,5 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+d90c322c78f495484aa39d16f9e50ec3e6645dd3,fix(curriculum): correct keyboard shortcut notation for Windows key (…,2026-11-14T13:40:45Z,2,4,huyenltnguyen,freeCodeCamp,freeCodeCamp
 7db71168cbb70aa3e0059aa7a1f45dfaaaad9caa,fix(curriculum): add missing data sanitizer sweep lab (#71699),2026-11-14T00:49:11Z,2,7,Piyush495,freeCodeCamp,freeCodeCamp
 4db0df6a95896d24ad3fe3575e1aeb87d5445576,feat(curriculum): add f-string formatting to movie ticket workshop (#…,2026-11-14T00:43:32Z,13,206,Ksound22,freeCodeCamp,freeCodeCamp
 3f88a8554590d210c1ecd681823029a1c8b7a0a4,chore(deps): update dependency oxlint to v1.92.0 (#71695),2026-11-13T15:21:54Z,3,228,renovate[bot],freeCodeCamp,freeCodeCamp
@@ -1064,10 +1065,3 @@ c0a9e0207a00b6c6dc6132dc9c0ec3e74342fa53,fix(curriculum): replace regex-based te
 8b1614cba2e71931dc96d4f6ba67d2cf278c50b4,fix(client): align BEDA v9 intro.json block order with the superblock…,2026-08-16T13:22:46Z,1,44,minutechreview,freeCodeCamp,freeCodeCamp
 5fb3a23089a728718f6b0e1c5b0b9c31a50e3968,"chore(i18n,learn): update i18n-curriculum submodule (#69549)",2026-08-16T02:34:04Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 7065ee266fb2e6c4e59645a33dd04ebe016f2ea7,fix(curriculum): wrapped the link with backticks to stop overflowing …,2026-08-15T13:39:32Z,1,2,muhammadali-se,freeCodeCamp,freeCodeCamp
-9832b5fc93222e91b0578ee7de7139fcd34e73ac,fix(curriculum): address content issues in code editors lecture (#69527),2026-08-14T18:40:05Z,3,18,Dazzanova,freeCodeCamp,freeCodeCamp
-933a376a861ea63d221b6eb40cc11d10e0c6fc39,"fix(client): correct RTL layout on settings, profile and superblock p…",2026-08-14T17:24:59Z,9,67,ahmaxed,freeCodeCamp,freeCodeCamp
-80511b2de76acf757920c203d11342e05456b5cb,fix(client): correct text direction for language curriculum content i…,2026-08-14T17:22:08Z,14,198,ahmaxed,freeCodeCamp,freeCodeCamp
-fe6fea5212d305e17d1aeb05b9bbc5b86c51c7cf,fix(curriculum): reorder backend cert modules (#69518),2026-08-14T13:41:55Z,4,182,Ksound22,freeCodeCamp,freeCodeCamp
-60e41ae6f5a11cc6f95ee2487e361d8275dd2441,fix(curriculum): numbered list in backend lesson (#69538),2026-08-14T13:34:42Z,1,46,Dario-DC,freeCodeCamp,freeCodeCamp
-a6f4178cfc985ecf9db89ea0130ea3469b1e73fd,fix(curriculum): update keyboard shortcut text (#69536),2026-08-14T12:43:31Z,1,16,noqokhxnh,freeCodeCamp,freeCodeCamp
-c51bf5c452ee49b6ae75d9a2ee938a092bf555d6,fix(curriculum): fix grammar and terminology consistency in toggle te…,2026-08-14T06:28:53Z,7,18,Sembauke,freeCodeCamp,freeCodeCamp
