@@ -1,7 +1,8 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X88AAAABfCPtLw,71697,Add the missing Data Sanitizer Sweep lab to Introduction to Loops in JavaScript,CLOSED,2026-11-13T18:38:59Z,2026-11-14T00:49:14Z,Piyush495,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABfCQoMw,71698,fix(curriculum): clarify wording and fix grammar in Multi-Paragraph Quotes lesson,OPEN,2026-11-13T18:39:57Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABdH2iwA,71609,Mega Navbar step 11: React.useState hasn't been taught yet,OPEN,2026-11-06T19:35:36Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABfCPtLw,71697,Add the missing Data Sanitizer Sweep lab to Introduction to Loops in JavaScript,CLOSED,2026-11-13T18:38:59Z,2026-11-14T00:49:14Z,Piyush495,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABZdCkOg,71344,Incorrect Syntax in Correct Answer for Question in JavaScript Certification Exam,CLOSED,2026-10-23T18:14:57Z,2026-11-13T17:42:42Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABbbzq7A,71494,Digital Pet Game lab: PetMood enum and Record tests reject valid TypeScript,OPEN,2026-10-31T14:40:19Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABdmiuEA,71627,Inaccurate description of default sizing in Rothko painting #12,OPEN,2026-11-09T07:02:57Z,,,freeCodeCamp,freeCodeCamp
@@ -23,7 +24,6 @@ I_kwDOAbI7X88AAAABba4fpg,71486,Learning Flow and Certification Project Difficult
 I_kwDOAbI7X88AAAABdCZ1Jg,71605,Simplify definition formatting in First Question Basics - task 4 and 5,CLOSED,2026-11-06T13:37:12Z,2026-11-10T08:26:50Z,dukee1,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABdSaDZw,71612,Typo in Learn Basic Personal Information - task 35,CLOSED,2026-11-07T14:51:23Z,2026-11-10T08:26:05Z,Debomitra De,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABA4Q_Kw,67175,rdb local setup instructions don't say what to do to start a 2nd workshop,OPEN,2026-04-29T22:07:49Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABdH2iwA,71609,Mega Navbar step 11: React.useState hasn't been taught yet,OPEN,2026-11-06T19:35:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABULOOZA,70526,PR path-labeler can remove labels added by concurrent workflows,OPEN,2026-09-30T15:26:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABUc3lqg,70552,Salary Tracker - Step 39: Socrates giving wrong hints,OPEN,2026-10-01T18:50:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABTYxe7Q,70425,Bad German translations,OPEN,2026-09-26T17:44:36Z,,,freeCodeCamp,freeCodeCamp
@@ -708,5 +708,3 @@ I_kwDOAbI7X88AAAABM8QF8w,69550,docs: fix minor formatting inconsistency and dead
 I_kwDOAbI7X88AAAABMZJziw,69489,intro.json block order for Back End Development and APIs (v9) does not match the superblock JSON,CLOSED,2026-08-12T02:49:59Z,2026-08-16T13:22:49Z,minutechreview,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLyw64Q,69383,[Translation Bug] Test requirement descriptions are inverted/swapped in Japanese (Responsive Web Design),CLOSED,2026-08-07T02:52:26Z,2026-08-16T02:34:05Z,camperbot,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMCWTRA,69448,Display issue on a freecodecamp learning page,CLOSED,2026-08-09T13:20:37Z,2026-08-15T13:39:34Z,muhammadali-se,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMpFK6g,69524,Content issues in the Working with Code Editors and IDEs lecture,CLOSED,2026-08-13T16:04:00Z,2026-08-14T18:40:07Z,Dazzanova,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMoXpZg,69523,Fix style issues in the code editor keyboard shortcuts lecture,CLOSED,2026-08-13T14:44:45Z,2026-08-14T12:43:33Z,noqokhxnh,freeCodeCamp,freeCodeCamp
