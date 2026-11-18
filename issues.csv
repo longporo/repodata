@@ -1,11 +1,11 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X88AAAABdH2iwA,71609,Mega Navbar step 11: React.useState hasn't been taught yet,CLOSED,2026-11-06T19:35:36Z,2026-11-18T02:07:14Z,thejesh23,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABf5S_ew,71706,Preserve catalog filters when navigating back from a course,CLOSED,2026-11-17T02:10:11Z,2026-11-18T01:54:58Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABf5S_ew,71706,Preserve catalog filters when navigating back from a course,OPEN,2026-11-17T02:10:11Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87Xq1cH,63788,Escaping HTML entities,OPEN,2025-11-12T21:42:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABfCQoMw,71698,fix(curriculum): clarify wording and fix grammar in Multi-Paragraph Quotes lesson,OPEN,2026-11-13T18:39:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABaIYlQw,71392,Typo on A2 English for Developers Certification (Beta),CLOSED,2026-10-26T21:35:15Z,2026-10-27T20:05:08Z,Shubham02022002;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABaTjbfA,71399,Table on certification page doesn't look good.,OPEN,2026-10-27T13:38:03Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABdH2iwA,71609,Mega Navbar step 11: React.useState hasn't been taught yet,OPEN,2026-11-06T19:35:36Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87Xq1cH,63788,Escaping HTML entities,OPEN,2025-11-12T21:42:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABfCPtLw,71697,Add the missing Data Sanitizer Sweep lab to Introduction to Loops in JavaScript,CLOSED,2026-11-13T18:38:59Z,2026-11-14T00:49:14Z,Piyush495,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABZdCkOg,71344,Incorrect Syntax in Correct Answer for Question in JavaScript Certification Exam,CLOSED,2026-10-23T18:14:57Z,2026-11-13T17:42:42Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABbbzq7A,71494,Digital Pet Game lab: PetMood enum and Record tests reject valid TypeScript,OPEN,2026-10-31T14:40:19Z,,,freeCodeCamp,freeCodeCamp
@@ -694,14 +694,3 @@ I_kwDOAbI7X88AAAABND_5zA,69565,Fix style issues in the JavaScript libraries and 
 I_kwDOAbI7X88AAAABLnGK4w,69335,Add Section Headers to Lecture: What Are Examples of Input Pseudo-classes?,CLOSED,2026-08-05T18:48:42Z,2026-08-18T07:32:13Z,Aman739-code;imsomilg,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABM9f2nQ,69553,Fortune Telling - Step 53,CLOSED,2026-08-16T14:41:11Z,2026-08-18T07:24:50Z,caio-bittencourt,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnFf4g,69328,"Add Section Headers to Lecture: What Are Pseudo-elements, and How Do They Work?",CLOSED,2026-08-05T18:47:19Z,2026-08-18T07:07:16Z,imsomilg;laypatel13,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABNEBYhw,69567,Correct computer hardware and development tool explanations,CLOSED,2026-08-17T11:59:46Z,2026-08-17T21:13:57Z,Daniel,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABF-pJNQ,68087,captureOneTimePayment passes wrong arguments to onApprove in PayPal donation handler,CLOSED,2026-06-18T21:50:31Z,2026-08-17T17:14:33Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABKEFOug,69026,Fix(api): incorrect fallback values in normalizeDate and getPoints,CLOSED,2026-07-24T16:40:23Z,2026-08-17T17:03:06Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X861UGwZ,60180,Handle log statements in redirection.ts,CLOSED,2025-05-06T08:17:32Z,2026-08-17T16:35:28Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIYmZqg,68697,Replace regex-based test cases in Build A Football Player Card Builder Workshop,CLOSED,2026-07-10T18:24:42Z,2026-08-17T11:44:09Z,jacobptnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnGetA,69340,"Add Section Headers to Lecture: What Are the Different Link States, and Why Are They Important?",CLOSED,2026-08-05T18:49:15Z,2026-08-17T11:33:12Z,laypatel13,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGpWcdA,68228,add Number.isInteger to module review,OPEN,2026-06-25T05:38:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABM9hs1Q,69554,curriculum: step 3 of [build a string inspector workshop],CLOSED,2026-08-16T14:47:56Z,2026-08-17T03:32:17Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMWZluQ,69484,Factorial Calculator only accepts regular function,CLOSED,2026-08-11T19:20:11Z,2026-08-17T08:30:35Z,wunianze666-netizen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnGpWQ,69343,Add Section Headers to Lecture: What Are Best Practices for Designing Breadcrumbs?,CLOSED,2026-08-05T18:49:32Z,2026-08-17T08:19:59Z,jaykumar14921,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABM42P0g,69547,[Playwright] Fix an always-passing dialog assertion,CLOSED,2026-08-15T14:49:06Z,2026-08-17T07:47:35Z,,freeCodeCamp,freeCodeCamp
