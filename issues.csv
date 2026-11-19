@@ -1,9 +1,13 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X88AAAABdH2iwA,71609,Mega Navbar step 11: React.useState hasn't been taught yet,CLOSED,2026-11-06T19:35:36Z,2026-11-18T02:07:14Z,thejesh23,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABf5S_ew,71706,Preserve catalog filters when navigating back from a course,CLOSED,2026-11-17T02:10:11Z,2026-11-18T01:54:58Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABgUt9hQ,71720,Clarify wording for Daily Coding Challenge - Rectangle Count,OPEN,2026-11-18T09:36:31Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABe9Z8rw,71691,"[JS v9] Data Structures Review: clarify Big O bounds, sorting cases, and auxiliary space",OPEN,2026-11-13T13:50:54Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABXn5y8w,70987,Quiz creation fails in create-next-challenge and insert-challenge,CLOSED,2026-10-16T07:41:04Z,2026-11-18T20:50:49Z,MuhammadAhmad67889,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABgYBrSw,71722,Make `kbd` elements match `code` styling,CLOSED,2026-11-18T12:57:29Z,2026-11-18T20:07:33Z,LuckysHorizon,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Xq1cH,63788,Escaping HTML entities,OPEN,2025-11-12T21:42:22Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABfCQoMw,71698,fix(curriculum): clarify wording and fix grammar in Multi-Paragraph Quotes lesson,OPEN,2026-11-13T18:39:57Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABdH2iwA,71609,Mega Navbar step 11: React.useState hasn't been taught yet,CLOSED,2026-11-06T19:35:36Z,2026-11-18T02:07:14Z,thejesh23,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABf5S_ew,71706,Preserve catalog filters when navigating back from a course,CLOSED,2026-11-17T02:10:11Z,2026-11-18T01:54:58Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABaIYlQw,71392,Typo on A2 English for Developers Certification (Beta),CLOSED,2026-10-26T21:35:15Z,2026-10-27T20:05:08Z,Shubham02022002;huyenltnguyen,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABaTjbfA,71399,Table on certification page doesn't look good.,OPEN,2026-10-27T13:38:03Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABfCPtLw,71697,Add the missing Data Sanitizer Sweep lab to Introduction to Loops in JavaScript,CLOSED,2026-11-13T18:38:59Z,2026-11-14T00:49:14Z,Piyush495,freeCodeCamp,freeCodeCamp
@@ -12,13 +16,11 @@ I_kwDOAbI7X88AAAABbbzq7A,71494,Digital Pet Game lab: PetMood enum and Record tes
 I_kwDOAbI7X88AAAABdmiuEA,71627,Inaccurate description of default sizing in Rothko painting #12,OPEN,2026-11-09T07:02:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABcsJLvg,71591,CSS Colors is outdated,OPEN,2026-11-05T09:19:37Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABe9hJgQ,71692,"[JS v9] Dynamic Programming Review: add problem setup, recurrence complexity, and coin change algorithm",OPEN,2026-11-13T13:57:29Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABe9Z8rw,71691,"[JS v9] Data Structures Review: clarify Big O bounds, sorting cases, and auxiliary space",OPEN,2026-11-13T13:50:54Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABeGB-7w,71653,Change block layout of Sharing Your Personal Details Review to `challenge-list`,CLOSED,2026-11-10T19:47:46Z,2026-11-13T09:40:55Z,BuddiePowell,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABeFPBEw,71652,Grammar issue in Basic Personal Information - Task 32,CLOSED,2026-11-10T18:57:47Z,2026-11-13T01:11:52Z,ishanniselva-collab,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABelTrEA,71670,Proposal: Add a practice sandbox for beginners in CONTRIBUTING.md,CLOSED,2026-11-12T10:00:50Z,2026-11-12T11:44:23Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABdtGwag,71634,JavaScript Certification: Loops - Build a Sentence Analyzer Step 1,CLOSED,2026-11-09T14:51:59Z,2026-11-11T14:14:18Z,Aksh-ll,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABcO64tw,71568,Audio issues in A1 Spanish,OPEN,2026-11-03T19:27:15Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABXn5y8w,70987,Quiz creation fails in create-next-challenge and insert-challenge,OPEN,2026-10-16T07:41:04Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABdveArA,71636,Fix typo and unicode en-dash in create-this-challenge template headers,CLOSED,2026-11-09T17:11:59Z,2026-11-10T18:41:05Z,Ayush,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABNRwnUw,69604,"Certification Project: Build a Digital Pet Game - Test #6 not allowing ""onChange"" handler for pet name",CLOSED,2026-08-18T20:28:00Z,2026-11-10T15:50:05Z,majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABK_NtUQ,69158,"Digital Pet Game - Step for says form shouldn't be ""Visible"" but test looks at existence",CLOSED,2026-07-31T18:29:20Z,2026-11-10T15:50:05Z,majestic-owl448,freeCodeCamp,freeCodeCamp
@@ -685,12 +687,3 @@ I_kwDOAbI7X88AAAABND-q7A,69564,Update and clarify the React introduction,CLOSED,
 I_kwDOAbI7X88AAAABLnGuig,69344,"Add Section Headers to Lecture: How Do the Navigator, Window, and Document Work?",CLOSED,2026-08-05T18:49:41Z,2026-08-19T18:38:10Z,Aman739-code,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABJjXlSw,68957,Monaco editor accessibility breaks with NVDA in later HTML lessons and becomes unusable starting with the first CSS lesson,OPEN,2026-07-21T06:24:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABNQnVyQ,69602,Typo in Library Manager Workshop Step 16,CLOSED,2026-08-18T18:04:39Z,2026-08-19T10:40:54Z,Abhi-kumar23,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABNOv_OA,69596,User Configuration Manager test hides missing variable hint,CLOSED,2026-08-18T14:21:09Z,2026-08-18T21:03:09Z,Kunal241207,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABNEEEcA,69568,Fix remaining issues in the code editors and IDEs lessons,CLOSED,2026-08-17T12:05:07Z,2026-08-18T18:59:23Z,BaconMan1168;Daniel,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABNPN3WA,69598,Python Basics review includes concepts not taught in the module,CLOSED,2026-08-18T15:11:06Z,2026-08-18T18:49:52Z,Dazzanova,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABND95Dg,69561,Fix style issues in the safe computer sign-in lecture,CLOSED,2026-08-17T11:53:31Z,2026-08-18T15:44:11Z,dev-sriramp,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABMEbSfw,69453,Difference between acronyms and initialisms,CLOSED,2026-08-09T21:52:54Z,2026-08-18T08:19:26Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABND_5zA,69565,Fix style issues in the JavaScript libraries and frameworks lecture,CLOSED,2026-08-17T11:56:46Z,2026-08-18T08:13:31Z,AnandKumar-001,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnGK4w,69335,Add Section Headers to Lecture: What Are Examples of Input Pseudo-classes?,CLOSED,2026-08-05T18:48:42Z,2026-08-18T07:32:13Z,Aman739-code;imsomilg,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABM9f2nQ,69553,Fortune Telling - Step 53,CLOSED,2026-08-16T14:41:11Z,2026-08-18T07:24:50Z,caio-bittencourt,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnFf4g,69328,"Add Section Headers to Lecture: What Are Pseudo-elements, and How Do They Work?",CLOSED,2026-08-05T18:47:19Z,2026-08-18T07:07:16Z,imsomilg;laypatel13,freeCodeCamp,freeCodeCamp
