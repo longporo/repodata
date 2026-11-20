@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+cb6130cf8d3e3aab7a61d559a62826f6a746bdff,fix(deps): update dependency pinyin-tone to v2.5.2 (#71745),2026-11-19T18:13:22Z,2,13,renovate[bot],freeCodeCamp,freeCodeCamp
+03b74597b2743f96e870f43c49312ca571f1b970,chore(deps): update pnpm to v12.20.0 (#71744),2026-11-19T18:10:20Z,2,132,renovate[bot],freeCodeCamp,freeCodeCamp
+dac2d6c2c94b75d26b3eb28d1b5b43e43fa1d871,fix(curriculum): add missing comma to dialogue transcripts (#71739),2026-11-19T18:07:28Z,3,6,huyenltnguyen,freeCodeCamp,freeCodeCamp
+928ba3e1af9fcd82997c0d3f07d6cd0404e94efc,chore(deps): update dependency i18next-fs-backend to v2.6.12 (#71743),2026-11-19T17:14:09Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
+c528d0afb44bd740c3497b0e5f0ebe388fb6d337,feat(curriculum): add lesson on aligning and padding text in f-string…,2026-11-19T17:11:37Z,4,320,Ksound22,freeCodeCamp,freeCodeCamp
+7b4291332a35f8869c03eda8d634fae45efbbe87,chore(deps): update dependency prettier to v3.10.1 (#71741),2026-11-19T14:16:27Z,3,18,renovate[bot],freeCodeCamp,freeCodeCamp
+8c8f21c97506bdfb1336047afd9c2c2efd81079b,chore(deps): update dependency @testing-library/user-event to v14.6.1…,2026-11-19T14:12:38Z,2,24,renovate[bot],freeCodeCamp,freeCodeCamp
 df93ccea36b50fe4c9bd280fa18f8760982d6cc2,"chore(i18n,learn): update i18n-curriculum submodule (#71735)",2026-11-18T23:16:06Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
 c258215db7779bb4e9127c0bb42e22d765c53e68,fix(deps): update dependency sanitize-html to v2.18.2 (#71733),2026-11-18T21:23:00Z,2,14,renovate[bot],freeCodeCamp,freeCodeCamp
 724a1eb02be7a655e3458d6cf075844ab1a4a36d,fix(deps): update babel monorepo to v7.29.14 (#71734),2026-11-18T21:21:31Z,4,318,renovate[bot],freeCodeCamp,freeCodeCamp
@@ -1074,8 +1081,3 @@ b4f70b015433908f4d5c41b2e2fb7aee7187db71,fix(client): link to github.com/codespa
 f59114a445ef5fd3c166fbe69651537980d36244,fix(client): expand computer basics catalog intro (#69620),2026-08-20T09:28:10Z,1,2,KevinBamwisho,freeCodeCamp,freeCodeCamp
 5e7f914f05e789ffdef99dcfd9eca8a02fcdb550,fix: correct React component lesson (#69624),2026-08-20T09:17:31Z,1,34,saswat9658,freeCodeCamp,freeCodeCamp
 581d4ba5db87880047924788011fbf55fe29b5d8,"refactor(curriculum): Added Section Headers to Lecture ""What Is the P…",2026-08-20T08:53:35Z,1,12,SudhamshuH,freeCodeCamp,freeCodeCamp
-8327bb6a45e48392ad5a656e8ce89255eabef05b,fix(curriculum): correct React import and export explanations (#69617),2026-08-19T20:39:53Z,1,26,Lostcrown301,freeCodeCamp,freeCodeCamp
-f62ba7ade6a226184af3bb75f898e148ca21eb38,fix(curriculum): clarify React intro wording (#69618),2026-08-19T18:56:41Z,1,14,Suyoag,freeCodeCamp,freeCodeCamp
-67638a33014c7cf5e880936df7438f6928b3a4b9,feat(curriculum): add headers to navigator window document (#69615),2026-08-19T18:38:08Z,1,6,Aman739-code,freeCodeCamp,freeCodeCamp
-ea594ae5b46429f43d1c6205cb3fe183f6573faf,fix(curriculum): correct typos in workshop-library-manager (#69613),2026-08-19T10:40:52Z,1,4,Abhi-kumar23,freeCodeCamp,freeCodeCamp
-5d5c06cd11e714b6c9aa72294d73e5aa30906007,fix(curriculum): reword otp button text (#69605),2026-08-19T10:03:36Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
