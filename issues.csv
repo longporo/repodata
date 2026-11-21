@@ -1,6 +1,8 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X88AAAABULOOZA,70526,PR path-labeler can remove labels added by concurrent workflows,OPEN,2026-09-30T15:26:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABhILPKw,71751,Typo in block identifier: en-a2-quiz-giving-adivice-and-suggestions (adivice -> advice),CLOSED,2026-11-20T19:21:05Z,2026-11-20T22:20:46Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABfCQoMw,71698,fix(curriculum): clarify wording and fix grammar in Multi-Paragraph Quotes lesson,CLOSED,2026-11-13T18:39:57Z,2026-11-20T09:14:48Z,guru-bharadwaj20,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABULOOZA,70526,PR path-labeler can remove labels added by concurrent workflows,OPEN,2026-09-30T15:26:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABcsJLvg,71591,CSS Colors is outdated,OPEN,2026-11-05T09:19:37Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86UO0yN,55941,Ambient camping sounds in freecodecamp website,CLOSED,2024-08-26T13:43:51Z,2026-11-19T14:26:47Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABgUt9hQ,71720,Clarify wording for Daily Coding Challenge - Rectangle Count,OPEN,2026-11-18T09:36:31Z,,,freeCodeCamp,freeCodeCamp
@@ -8,7 +10,6 @@ I_kwDOAbI7X88AAAABe9Z8rw,71691,"[JS v9] Data Structures Review: clarify Big O bo
 I_kwDOAbI7X88AAAABXn5y8w,70987,Quiz creation fails in create-next-challenge and insert-challenge,CLOSED,2026-10-16T07:41:04Z,2026-11-18T20:50:49Z,MuhammadAhmad67889,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABgYBrSw,71722,Make `kbd` elements match `code` styling,CLOSED,2026-11-18T12:57:29Z,2026-11-18T20:07:33Z,LuckysHorizon,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Xq1cH,63788,Escaping HTML entities,OPEN,2025-11-12T21:42:22Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABfCQoMw,71698,fix(curriculum): clarify wording and fix grammar in Multi-Paragraph Quotes lesson,OPEN,2026-11-13T18:39:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABdH2iwA,71609,Mega Navbar step 11: React.useState hasn't been taught yet,CLOSED,2026-11-06T19:35:36Z,2026-11-18T02:07:14Z,thejesh23,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABf5S_ew,71706,Preserve catalog filters when navigating back from a course,CLOSED,2026-11-17T02:10:11Z,2026-11-18T01:54:58Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABaIYlQw,71392,Typo on A2 English for Developers Certification (Beta),CLOSED,2026-10-26T21:35:15Z,2026-10-27T20:05:08Z,Shubham02022002;huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -668,17 +669,3 @@ I_kwDOAbI7X88AAAABNhnfYA,69638,Use semantic keyboard markup for Python shell sho
 I_kwDOAbI7X88AAAABLnGysw,69345,"Add Section Headers to Lecture: What Is the @property Rule, and How Does It Work with Fallbacks?",CLOSED,2026-08-05T18:49:46Z,2026-08-21T07:46:14Z,jaykumar14921,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABNhjN5g,69631,Add an accessible file-management keyboard shortcut summary,CLOSED,2026-08-20T10:49:41Z,2026-08-21T07:10:54Z,hishammoizuddin,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnD1Zw,69314,"Add Section Headers to Lecture: What Is CSS Flexbox, and When Should You Use It?",CLOSED,2026-08-05T18:43:59Z,2026-08-21T06:20:42Z,laypatel13,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABNhk46g,69634,Use semantic keyboard markup for the performance metrics DevTools shortcut,CLOSED,2026-08-20T10:53:01Z,2026-08-20T18:27:40Z,caio-bittencourt,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABNhk4BA,69633,Use semantic keyboard markup for DevTools shortcuts,CLOSED,2026-08-20T10:52:59Z,2026-08-20T18:27:04Z,caio-bittencourt,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABNhk3MQ,69632,Use semantic keyboard markup for accessibility auditing shortcuts,CLOSED,2026-08-20T10:52:58Z,2026-08-20T18:26:27Z,caio-bittencourt,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABNhimHQ,69628,Use semantic keyboard markup for the INP DevTools shortcut,CLOSED,2026-08-20T10:48:35Z,2026-08-20T18:25:49Z,caio-bittencourt,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABNhiz7A,69629,Use semantic keyboard markup for the Vite server shortcut,CLOSED,2026-08-20T10:48:57Z,2026-08-20T18:24:01Z,caio-bittencourt,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABNhnegg,69637,Use semantic keyboard markup for the Express shutdown shortcut,CLOSED,2026-08-20T10:58:24Z,2026-08-20T18:17:44Z,Daniel,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABNhngJQ,69639,Use semantic keyboard markup for screen reader shortcuts,CLOSED,2026-08-20T10:58:27Z,2026-08-20T18:08:57Z,aryanraj7791,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X86rBZDN,58932,Update logging in routes,CLOSED,2025-02-21T14:59:14Z,2026-08-20T18:08:25Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABNEAD8Q,69566,Correct the SPA navigation and performance explanations,CLOSED,2026-08-17T11:57:03Z,2026-08-20T14:08:32Z,jiubao76799-png,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABNhcxOA,69626,Use semantic keyboard markup for the Spotlight shortcut,CLOSED,2026-08-20T10:36:58Z,2026-08-20T13:51:55Z,Daniel,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87dzwze,64545,"rdb-v9 codespaces link should point to ""Your codespaces"" instead of rdb-alpha repo",CLOSED,2025-12-11T23:39:06Z,2026-08-20T09:56:26Z,Sembauke,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABND9mtA,69560,Expand the computer basics catalog intro,CLOSED,2026-08-17T11:52:59Z,2026-08-20T09:28:12Z,KevinBamwisho,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABND-Wkg,69562,Fix React component explanations and examples,CLOSED,2026-08-17T11:54:14Z,2026-08-20T09:17:33Z,saswat9658,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnG_Ew,69349,"Add Section Headers to Lecture: What Is the Purpose of Functions, and How Do They Work?",CLOSED,2026-08-05T18:50:08Z,2026-08-20T08:53:37Z,SudhamshuH,freeCodeCamp,freeCodeCamp
