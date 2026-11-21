@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+302a6ca099bb4c3cc3c43be34bf6232bc2f30747,fix(curriculum): accept linked list boolean identity checks (#71749),2026-11-20T16:11:29Z,1,20,majestic-owl448,freeCodeCamp,freeCodeCamp
+295cde108a93f562028683185c89de9eac0d35f3,feat(curriculum): add sudoku solver workshop to python algorithms and…,2026-11-20T15:23:56Z,29,2831,Dario-DC,freeCodeCamp,freeCodeCamp
+f1036e4bfc6271df23a09e827aa555d40eaf1870,"chore(i18n,learn): update i18n-curriculum submodule (#71750)",2026-11-20T14:16:45Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
+f28dc5571c2041d17b9e4745a7c7ab70f19e506a,feat(curriculum): add f-string formatting to bill splitter workshop (…,2026-11-20T11:02:56Z,9,414,Ksound22,freeCodeCamp,freeCodeCamp
+8a065e64dc22d4ce5bd8d2616cc9f15665fbe192,test(api): increase authToken ttl to reduce test flake (#71742),2026-11-20T10:09:05Z,2,13,ojeytonwilliams,freeCodeCamp,freeCodeCamp
+ed2b5f67a07390ede81f045a2e41158803027384,fix(curriculum): clarify wording in block and inline quotes lesson (#…,2026-11-20T09:14:44Z,1,10,guru-bharadwaj20,freeCodeCamp,freeCodeCamp
+f4f73d00efd9ae28d702f268e6c8e61bef58af71,chore(deps): update dependency oxlint-tsgolint to v7.0.2007 (#71748),2026-11-20T07:01:49Z,2,76,renovate[bot],freeCodeCamp,freeCodeCamp
 cb6130cf8d3e3aab7a61d559a62826f6a746bdff,fix(deps): update dependency pinyin-tone to v2.5.2 (#71745),2026-11-19T18:13:22Z,2,13,renovate[bot],freeCodeCamp,freeCodeCamp
 03b74597b2743f96e870f43c49312ca571f1b970,chore(deps): update pnpm to v12.20.0 (#71744),2026-11-19T18:10:20Z,2,132,renovate[bot],freeCodeCamp,freeCodeCamp
 dac2d6c2c94b75d26b3eb28d1b5b43e43fa1d871,fix(curriculum): add missing comma to dialogue transcripts (#71739),2026-11-19T18:07:28Z,3,6,huyenltnguyen,freeCodeCamp,freeCodeCamp
@@ -1062,22 +1069,3 @@ b5af882abfe6589344cb28bd10df90f8090e1ca3,feat(curriculum): add headers to tree-s
 d72d48032fb57066b6c0d486e722ac46690a3701,"fix(curriculum): use separate kbd elements for Ctrl, Z, and Enter (#6…",2026-08-21T07:49:38Z,1,2,Dazzanova,freeCodeCamp,freeCodeCamp
 00257a5e459b5c4690dcafe048124f006b5468f9,fix(curriculum): add section headers to @property rule lecture (#69603),2026-08-21T07:46:12Z,1,18,jaykumar14921,freeCodeCamp,freeCodeCamp
 54e2ed5b0ab4dff3979f65160319103362c7211a,fix(curriculum): add file-management keyboard shortcut summary table …,2026-08-21T07:10:53Z,1,38,hishammoizuddin,freeCodeCamp,freeCodeCamp
-e70841fe7b17b00adbe33c5501d853563e6cf629,fix(curriculum): add section headers to css-flexbox lecture (#69625),2026-08-21T06:20:40Z,1,8,laypatel13,freeCodeCamp,freeCodeCamp
-c77b18edcd91e1a37043de0e8036e58ded67d873,fix(tools): remove linked issue check (#68470),2026-08-20T18:46:53Z,3,142,majestic-owl448,freeCodeCamp,freeCodeCamp
-92df06148650a34424a317cd9b66c9628bf64c4e,fix(curriculum): use kbd for F12 in performance metrics lesson (#69652),2026-08-20T18:27:38Z,1,2,caio-bittencourt,freeCodeCamp,freeCodeCamp
-338424c75ec1ca2d6656b0ae7dc5dd932caf0cbd,fix(curriculum): use kbd elements for DevTools shortcuts (#69651),2026-08-20T18:27:02Z,1,2,caio-bittencourt,freeCodeCamp,freeCodeCamp
-3c25a05829747cb028eb5645aba0ccfe6e19cc4a,fix(curriculum): use kbd for F12 in accessibility tools lesson (#69650),2026-08-20T18:26:26Z,1,4,caio-bittencourt,freeCodeCamp,freeCodeCamp
-5c64ed4878ad056b9611382a7bd7db56a554c93b,fix(curriculum): use kbd element for F12 shortcut (#69649),2026-08-20T18:25:46Z,1,6,caio-bittencourt,freeCodeCamp,freeCodeCamp
-e072f9ff1c005db5fc90f58dab76046a07047fa0,fix(curriculum): use kbd elements for Vite shortcut (#69648),2026-08-20T18:23:59Z,1,2,caio-bittencourt,freeCodeCamp,freeCodeCamp
-21775b71e245f24d29fde994abe6b5bf5a03a635,fix(curriculum): use kbd elements for express shutdown shortcut (#69646),2026-08-20T18:17:42Z,1,4,BaconMan1168,freeCodeCamp,freeCodeCamp
-f4a17736963b7c6ef5b17326267feef369c1c165,fix(curriculum): use semantic keyboard markup (#69644),2026-08-20T18:08:55Z,1,4,aryanraj7791,freeCodeCamp,freeCodeCamp
-03d0f2cdbbe1f735560cd03c34420af179c7a690,chore(api): remove shadow-capture dev tool (#69559),2026-08-20T18:07:41Z,5,153,Sembauke,freeCodeCamp,freeCodeCamp
-e39a82457342e74c7328dfe0a42373565f5b2fc1,fix(curriculum): clarify SPA navigation and performance explanations …,2026-08-20T14:08:30Z,1,10,jiubao76799,freeCodeCamp,freeCodeCamp
-dbfe4f14edd8d17f37e10961fe72dee2a592f55c,fix(curriculum): use kbd markup for spotlight shortcut (#69641),2026-08-20T13:51:53Z,1,2,BaconMan1168,freeCodeCamp,freeCodeCamp
-2e93a4a4e1f6f64420ab7f284254df15d8b4f7ac,fix(curriculum): make forum leaderboard fetch stub response-like (#69…,2026-08-20T11:43:03Z,1,14,majestic-owl448,freeCodeCamp,freeCodeCamp
-6b8d9f2d1bae92b81b70fce939a4efcb37b6d97d,fix(curriculum): make motorcycle shop fetch stub response-like (#69574),2026-08-20T11:24:52Z,1,14,majestic-owl448,freeCodeCamp,freeCodeCamp
-4515bf22c806dc175b0a19dc1beaefa94be6d762,feat(tools): flag PRs from main branch (#68471),2026-08-20T09:56:58Z,1,79,majestic-owl448,freeCodeCamp,freeCodeCamp
-b4f70b015433908f4d5c41b2e2fb7aee7187db71,fix(client): link to github.com/codespaces to resume RDB workspace (#…,2026-08-20T09:56:24Z,2,51,Sembauke,freeCodeCamp,freeCodeCamp
-f59114a445ef5fd3c166fbe69651537980d36244,fix(client): expand computer basics catalog intro (#69620),2026-08-20T09:28:10Z,1,2,KevinBamwisho,freeCodeCamp,freeCodeCamp
-5e7f914f05e789ffdef99dcfd9eca8a02fcdb550,fix: correct React component lesson (#69624),2026-08-20T09:17:31Z,1,34,saswat9658,freeCodeCamp,freeCodeCamp
-581d4ba5db87880047924788011fbf55fe29b5d8,"refactor(curriculum): Added Section Headers to Lecture ""What Is the P…",2026-08-20T08:53:35Z,1,12,SudhamshuH,freeCodeCamp,freeCodeCamp
