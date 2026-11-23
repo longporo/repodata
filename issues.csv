@@ -1,11 +1,13 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABhkD-Dw,71761,Size mismatch between lecture headings,CLOSED,2026-11-22T20:27:22Z,2026-11-22T23:38:20Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABhfnGRQ,71760,Build A Player Interface: Type hints invalidating Test No. 9,OPEN,2026-11-22T13:02:40Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABgUt9hQ,71720,Clarify wording for Daily Coding Challenge - Rectangle Count,OPEN,2026-11-18T09:36:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABhILPKw,71751,Typo in block identifier: en-a2-quiz-giving-adivice-and-suggestions (adivice -> advice),CLOSED,2026-11-20T19:21:05Z,2026-11-20T22:20:46Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABfCQoMw,71698,fix(curriculum): clarify wording and fix grammar in Multi-Paragraph Quotes lesson,CLOSED,2026-11-13T18:39:57Z,2026-11-20T09:14:48Z,guru-bharadwaj20,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABULOOZA,70526,PR path-labeler can remove labels added by concurrent workflows,OPEN,2026-09-30T15:26:56Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABcsJLvg,71591,CSS Colors is outdated,OPEN,2026-11-05T09:19:37Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X86UO0yN,55941,Ambient camping sounds in freecodecamp website,CLOSED,2024-08-26T13:43:51Z,2026-11-19T14:26:47Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABgUt9hQ,71720,Clarify wording for Daily Coding Challenge - Rectangle Count,OPEN,2026-11-18T09:36:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABe9Z8rw,71691,"[JS v9] Data Structures Review: clarify Big O bounds, sorting cases, and auxiliary space",OPEN,2026-11-13T13:50:54Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABXn5y8w,70987,Quiz creation fails in create-next-challenge and insert-challenge,CLOSED,2026-10-16T07:41:04Z,2026-11-18T20:50:49Z,MuhammadAhmad67889,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABgYBrSw,71722,Make `kbd` elements match `code` styling,CLOSED,2026-11-18T12:57:29Z,2026-11-18T20:07:33Z,LuckysHorizon,freeCodeCamp,freeCodeCamp
@@ -656,5 +658,3 @@ I_kwDOAbI7X88AAAABN0payg,69675,Use semantic keyboard markup in The Box Model Les
 I_kwDOAbI7X88AAAABN0pZZQ,69673,Use semantic keyboard markup in Back End Development and APIs Review,CLOSED,2026-08-22T15:22:55Z,2026-08-24T08:43:37Z,laxitajain,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABN0paIA,69674,Use semantic keyboard markup in How to Set Up the Chinese Keyboard on Your Computer,CLOSED,2026-08-22T15:22:58Z,2026-08-24T08:42:51Z,laxitajain,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABN0pSew,69671,Use semantic keyboard markup in Bash Commands Quiz,CLOSED,2026-08-22T15:22:28Z,2026-08-24T08:41:39Z,laxitajain,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABNzD0ww,69668,Elon issues,CLOSED,2026-08-22T08:04:14Z,2026-08-22T09:04:45Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABNzDtWQ,69667,Elon issues,CLOSED,2026-08-22T08:03:48Z,2026-08-22T09:04:44Z,,freeCodeCamp,freeCodeCamp
