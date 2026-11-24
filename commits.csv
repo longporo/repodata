@@ -1,4 +1,11 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+085eff34ff3c447bb13a3458cd289eba551390bf,perf(ci): cut devcontainer CI time (#71768),2026-11-24T03:25:19Z,3,45,raisedadead,freeCodeCamp,freeCodeCamp
+7e21382196ae83adb9f370b0cc90572f9e8c9533,feat(curriculum): workshop debugging registration form updates (#66731),2026-11-23T23:09:28Z,18,3693,Psst02,freeCodeCamp,freeCodeCamp
+e6f7968747dacccf8f8c85fdcac799a6b1ac46e9,chore(deps): update dependency oxlint to v1.94.0 (#71767),2026-11-23T13:32:39Z,3,178,renovate[bot],freeCodeCamp,freeCodeCamp
+7eb30b8672539bf7d851a1c81bd5ffe73652e51f,fix(client): update contribution links (#71765),2026-11-23T13:29:02Z,11,22,majestic-owl448,freeCodeCamp,freeCodeCamp
+1a2cc6866a2e06d41eee90e5fef1cf4909c8ea82,chore(deps): update dependency @testing-library/user-event to v14.6.1…,2026-11-23T11:34:05Z,2,12,renovate[bot],freeCodeCamp,freeCodeCamp
+334299067dda18bf3b3902562bd3f8092f6ec041,feat(curriculum): add circular queue lab to python algorithms ad data…,2026-11-23T11:29:55Z,3,508,Dario-DC,freeCodeCamp,freeCodeCamp
+94e12f661fccf1aa2e89af21424599f7580a795f,fix(client): stop writing webpack stats in CI (#71762),2026-11-23T07:49:05Z,5,186,raisedadead,freeCodeCamp,freeCodeCamp
 0724476e0948320111eb4e21ab4448b389aaa17b,chore(deps): update pnpm to v12.21.0 (#71758),2026-11-21T11:22:23Z,2,132,renovate[bot],freeCodeCamp,freeCodeCamp
 a09ce850de64e38cbd3c5d02e360a35ddd39f201,fix(deps): update dependency postcss to v8.5.33 (#71756),2026-11-21T07:17:03Z,2,494,renovate[bot],freeCodeCamp,freeCodeCamp
 635e98d44c621384ed8457c12c396477d0acf7d5,chore(deps): update dependency @playwright/test to v1.65.1 (#71755),2026-11-21T07:14:49Z,2,28,renovate[bot],freeCodeCamp,freeCodeCamp
@@ -1040,9 +1047,3 @@ d8525b9a13b4c5c1cda67c2cc5dce881abb59f59,fix(curriculum): correct fs module docu
 d6ec0ecf1bec77e0eb205f45fb561b729f8fb4be,fix(curriculum): removed first person plural pronoun (#69689),2026-08-24T10:11:57Z,1,22,wonganjatan,freeCodeCamp,freeCodeCamp
 71e4b09c9f8d96bc407b785294952a9d777dc194,fix(curriculum): reduce Python concept load (#69664),2026-08-24T10:04:25Z,12,433,majestic-owl448,freeCodeCamp,freeCodeCamp
 42351cfab002c26393e00a77612a6bdaf57eec69,fix(curriculum): correct spelling of symbol in Spanish contact inform…,2026-08-24T09:43:49Z,1,2,ingsunny,freeCodeCamp,freeCodeCamp
-be3c034c04eac46608dbca740b67f7d173d84f81,fix(curriculum): add nano keyboard shortcut summary table (#69657),2026-08-24T08:49:55Z,1,48,hishammoizuddin,freeCodeCamp,freeCodeCamp
-b751b28dd10048e75d5db0dcd8fc00775e957e12,fix(curriculum): mark Ctrl+C as keyboard input (#69676),2026-08-24T08:44:54Z,1,2,barry166,freeCodeCamp,freeCodeCamp
-8d8f57cb630b76504732c441007584c1c639824d,fix: use kbd element for F12 keyboard input (#69677),2026-08-24T08:44:18Z,1,2,laxitajain,freeCodeCamp,freeCodeCamp
-1e8097c2433236926201a9bc09b5171f689c2a19,fix: use kbd elements for Ctrl+C shortcut (#69679),2026-08-24T08:43:35Z,1,2,laxitajain,freeCodeCamp,freeCodeCamp
-37b6d150faa0a4264039f7873d9dd22eb86c112b,fix: use kbd elements for Chinese keyboard shortcut (#69678),2026-08-24T08:42:50Z,1,2,laxitajain,freeCodeCamp,freeCodeCamp
-723fb482eab8eeb9f21c1c744f68e0992532859e,fix: use kbd elements for Bash keyboard shortcuts (#69680),2026-08-24T08:41:37Z,1,16,laxitajain,freeCodeCamp,freeCodeCamp
