@@ -1,8 +1,9 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X87X6o3A,63813,Workshop/Lab for exploring console?,CLOSED,2025-11-13T19:13:51Z,2026-11-23T23:09:32Z,Psst02;Sembauke;majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABhkD-Dw,71761,Size mismatch between lecture headings,CLOSED,2026-11-22T20:27:22Z,2026-11-22T23:38:20Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABhfnGRQ,71760,Build A Player Interface: Type hints invalidating Test No. 9,OPEN,2026-11-22T13:02:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABgUt9hQ,71720,Clarify wording for Daily Coding Challenge - Rectangle Count,OPEN,2026-11-18T09:36:31Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABhfnGRQ,71760,Build A Player Interface: Type hints invalidating Test No. 9,OPEN,2026-11-22T13:02:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABhILPKw,71751,Typo in block identifier: en-a2-quiz-giving-adivice-and-suggestions (adivice -> advice),CLOSED,2026-11-20T19:21:05Z,2026-11-20T22:20:46Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABfCQoMw,71698,fix(curriculum): clarify wording and fix grammar in Multi-Paragraph Quotes lesson,CLOSED,2026-11-13T18:39:57Z,2026-11-20T09:14:48Z,guru-bharadwaj20,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABULOOZA,70526,PR path-labeler can remove labels added by concurrent workflows,OPEN,2026-09-30T15:26:56Z,,,freeCodeCamp,freeCodeCamp
@@ -36,7 +37,6 @@ I_kwDOAbI7X88AAAABdSaDZw,71612,Typo in Learn Basic Personal Information - task 3
 I_kwDOAbI7X88AAAABA4Q_Kw,67175,rdb local setup instructions don't say what to do to start a 2nd workshop,OPEN,2026-04-29T22:07:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABUc3lqg,70552,Salary Tracker - Step 39: Socrates giving wrong hints,OPEN,2026-10-01T18:50:21Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABTYxe7Q,70425,Bad German translations,OPEN,2026-09-26T17:44:36Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X87X6o3A,63813,Workshop/Lab for exploring console?,OPEN,2025-11-13T19:13:51Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Ns2u6,62351,"Make the ""Build a Magazine"" workshop HTML more semantic and update structural hierarchy ",OPEN,2025-09-24T21:42:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABdESUOA,71607,Break long closed captions into multiple lines in How to Clarify Misunderstandings,OPEN,2026-11-06T15:36:18Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABdCk3Ow,71606,English sentences are not translated in First Basics Questions - task 4 and 5,OPEN,2026-11-06T13:49:11Z,,,freeCodeCamp,freeCodeCamp
@@ -653,8 +653,3 @@ I_kwDOAbI7X88AAAABNe6rVA,69622,fs lesson incorrectly states that every method ha
 I_kwDOAbI7X88AAAABN7rQ8Q,69686,First-person plural subject pronoun in Working with Data in React,CLOSED,2026-08-24T00:39:16Z,2026-08-24T10:11:59Z,wonganjatan,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABN9ADEw,69688,Spelling Error,CLOSED,2026-08-24T05:15:39Z,2026-08-24T09:43:51Z,ingsunny,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABNhjDyw,69630,Add an accessible Nano keyboard shortcut summary,CLOSED,2026-08-20T10:49:25Z,2026-08-24T08:49:57Z,hishammoizuddin,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABN0pYkg,69672,Use semantic keyboard markup in Error Handling in Express Review,CLOSED,2026-08-22T15:22:52Z,2026-08-24T08:44:56Z,barry166,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABN0payg,69675,Use semantic keyboard markup in The Box Model Lesson A,CLOSED,2026-08-22T15:23:00Z,2026-08-24T08:44:20Z,laxitajain,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABN0pZZQ,69673,Use semantic keyboard markup in Back End Development and APIs Review,CLOSED,2026-08-22T15:22:55Z,2026-08-24T08:43:37Z,laxitajain,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABN0paIA,69674,Use semantic keyboard markup in How to Set Up the Chinese Keyboard on Your Computer,CLOSED,2026-08-22T15:22:58Z,2026-08-24T08:42:51Z,laxitajain,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABN0pSew,69671,Use semantic keyboard markup in Bash Commands Quiz,CLOSED,2026-08-22T15:22:28Z,2026-08-24T08:41:39Z,laxitajain,freeCodeCamp,freeCodeCamp
