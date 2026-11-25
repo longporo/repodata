@@ -1,4 +1,13 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+c5b4f1bd4d4b1fcbe8525000630c97f260d3e2fd,fix(ci): skip unused browser downloads (#71518),2026-11-25T02:54:03Z,2,9,Sembauke,freeCodeCamp,freeCodeCamp
+59d12c697457558dc20b0704a110c9178f3ef479,chore(deps): update pnpm to v12.22.0 (#71776),2026-11-25T02:53:42Z,2,132,renovate[bot],freeCodeCamp,freeCodeCamp
+75b7b03a89beb311b4d540e4e91cd22832e5d2d5,refactor(client): remove unused Gatsby dependencies (#71647),2026-11-25T02:51:48Z,2,335,Sembauke,freeCodeCamp,freeCodeCamp
+0182fbf652fa21d09e4eb4d16c1c85aa7077e19d,perf(client): reuse Babel Standalone presets (#71364),2026-11-25T02:50:30Z,3,52,Sembauke,freeCodeCamp,freeCodeCamp
+9b778f5f160bf152aea6c09a1e00fa3bc9b81053,chore(deps): update dependency puppeteer to v25.18.1 (#71775),2026-11-25T01:57:06Z,2,20,renovate[bot],freeCodeCamp,freeCodeCamp
+21933f8b1264b7908b966060cf8c0550839ac902,fix(curriculum): improve shortest-path condition and path-copying che…,2026-11-24T19:43:51Z,3,53,majestic-owl448,freeCodeCamp,freeCodeCamp
+6f7d821cc8a43d7226b51705a17371463f52e25f,fix(deps): update algolia (#71772),2026-11-24T15:43:59Z,2,62,renovate[bot],freeCodeCamp,freeCodeCamp
+04b6ba36a1456f35b3b45a2d15c8992eeff0201c,refactor(client): remove unused Redux DevTools dependency (#71650),2026-11-24T15:41:36Z,2,20,Sembauke,freeCodeCamp,freeCodeCamp
+897f835c7a918115b8096ba76fbff2bbe16c5d78,feat(curriculum): add grid path counter workshop (#71572),2026-11-24T14:10:32Z,36,2908,Ksound22,freeCodeCamp,freeCodeCamp
 085eff34ff3c447bb13a3458cd289eba551390bf,perf(ci): cut devcontainer CI time (#71768),2026-11-24T03:25:19Z,3,45,raisedadead,freeCodeCamp,freeCodeCamp
 7e21382196ae83adb9f370b0cc90572f9e8c9533,feat(curriculum): workshop debugging registration form updates (#66731),2026-11-23T23:09:28Z,18,3693,Psst02,freeCodeCamp,freeCodeCamp
 e6f7968747dacccf8f8c85fdcac799a6b1ac46e9,chore(deps): update dependency oxlint to v1.94.0 (#71767),2026-11-23T13:32:39Z,3,178,renovate[bot],freeCodeCamp,freeCodeCamp
@@ -1030,20 +1039,3 @@ bad4a86befc3ba77089f4f983ab7dc6f8c119f4e,fix(curriculum): add section headers to
 e5f1287a94662b38a92b8c4516acf7f5ad36fb29,feat(curriculum): add section headers to em and rem lecture (#69728),2026-08-25T09:02:33Z,1,8,Aman739-code,freeCodeCamp,freeCodeCamp
 f3da54339381bedc745171c5cb900a3ae835ac10,fix(curriculum): make Python v9 explanations self-contained (#69716),2026-08-25T08:20:12Z,4,22,majestic-owl448,freeCodeCamp,freeCodeCamp
 b866bd2cd581d651505316bbb8c09a47a9378846,fix(curriculum): clarify Report Card Printer wording (#69670),2026-08-25T08:12:59Z,5,12,majestic-owl448,freeCodeCamp,freeCodeCamp
-58a8741ab179e75f256fa5118afc0b762d017edc,fix(curriculum): update Node lecture (#69702),2026-08-25T05:52:18Z,1,54,ingsunny,freeCodeCamp,freeCodeCamp
-0a30d37f10c012db34c3d92fd201ce7d7cf84877,fix(curriculum): use kbd elements for keyboard shortcuts (#69713),2026-08-24T15:35:17Z,1,16,Venkat-Entropik,freeCodeCamp,freeCodeCamp
-56af925fb50a3108dbe181b3c4e983eda985030d,test(e2e): isolate user token lifecycle (#69691),2026-08-24T15:22:34Z,5,205,Sembauke,freeCodeCamp,freeCodeCamp
-1e05bd7f936ef658da5e5e5c7c33cbb020507cf2,fix(curriculum): restore event target examples (#69714),2026-08-24T15:20:04Z,1,24,barry166,freeCodeCamp,freeCodeCamp
-36512013f615bb786f4550edced29ea4f0db4ef2,fix(curriculum): use kbd in bash review pages (#69712),2026-08-24T14:30:06Z,1,10,duna-akin,freeCodeCamp,freeCodeCamp
-5b222af4d83dc854aa15951468a5a376894796fa,fix(curriculum): use keyboard markup (#69710),2026-08-24T14:06:51Z,1,10,BaconMan1168,freeCodeCamp,freeCodeCamp
-9c591994456104bae9b2c6b310594f5dd024528a,fix(curriculum): add semantic keyboard markup in Python debugging tec…,2026-08-24T13:46:25Z,1,10,wonganjatan,freeCodeCamp,freeCodeCamp
-0ad07089c8a85ce853d9e0a38a211e82a8b36c6e,fix(curriculum): mention globalThis in Node.js lesson (#69684),2026-08-24T13:44:56Z,1,2,guptakrish490,freeCodeCamp,freeCodeCamp
-6c36249a59d15d5c89d05d10e065cedc5058c3f8,fix: use kbd markup for Spanish keyboard shortcut (#69703),2026-08-24T13:37:36Z,1,2,priyanshupundir,freeCodeCamp,freeCodeCamp
-ed9e44a21d40b5ed537a1f776e264ae699720774,fix: use kbd markup for Chinese keyboard shortcut (#69701),2026-08-24T13:11:13Z,1,2,priyanshupundir,freeCodeCamp,freeCodeCamp
-f89ee8ebbd26294029ec6715b59409ebd29eba6c,fix: use kbd markup for Windows logo key (#69704),2026-08-24T13:10:53Z,1,2,priyanshupundir,freeCodeCamp,freeCodeCamp
-de520e9e088d7937141140acbf7db50294318e20,fix(curriculum): fix grammar and terminology consistency in fruit sea…,2026-08-24T12:14:45Z,9,24,Sembauke,freeCodeCamp,freeCodeCamp
-98dc3416fff5042718cae0d032e62b3d9abe6828,fix(curriculum): mock forum data fetch in fcc forum leaderboard (#69196),2026-08-24T12:09:55Z,48,1916,majestic-owl448,freeCodeCamp,freeCodeCamp
-d8525b9a13b4c5c1cda67c2cc5dce881abb59f59,fix(curriculum): correct fs module documentation (#69640),2026-08-24T10:46:45Z,1,16,saswat9658,freeCodeCamp,freeCodeCamp
-d6ec0ecf1bec77e0eb205f45fb561b729f8fb4be,fix(curriculum): removed first person plural pronoun (#69689),2026-08-24T10:11:57Z,1,22,wonganjatan,freeCodeCamp,freeCodeCamp
-71e4b09c9f8d96bc407b785294952a9d777dc194,fix(curriculum): reduce Python concept load (#69664),2026-08-24T10:04:25Z,12,433,majestic-owl448,freeCodeCamp,freeCodeCamp
-42351cfab002c26393e00a77612a6bdaf57eec69,fix(curriculum): correct spelling of symbol in Spanish contact inform…,2026-08-24T09:43:49Z,1,2,ingsunny,freeCodeCamp,freeCodeCamp
