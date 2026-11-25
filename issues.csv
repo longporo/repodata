@@ -1,8 +1,15 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X88AAAABdmiuEA,71627,Inaccurate description of default sizing in Rothko painting #12,OPEN,2026-11-09T07:02:57Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABgUt9hQ,71720,Clarify wording for Daily Coding Challenge - Rectangle Count,OPEN,2026-11-18T09:36:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGpWcdA,68228,add Number.isInteger to module review,OPEN,2026-06-25T05:38:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABiOK-VQ,71774,Found typo in Full Stack Certification: Back-end Development & APIs: Working with npm Scripts: What Are npm Scripts?,OPEN,2026-11-24T21:13:16Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABcZ6SJA,71585,Bug: Settings sagas silently drop errors on failure,OPEN,2026-11-04T10:46:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABMAUtUg,69446,Clarify lack of support on archived course pages,CLOSED,2026-08-09T03:01:14Z,2026-11-24T18:30:50Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABbObT4Q,71470,Don't show C# exam results on cert page,OPEN,2026-10-30T15:32:08Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABTYxe7Q,70425,Bad German translations,CLOSED,2026-09-26T17:44:36Z,2026-11-24T09:22:20Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87X6o3A,63813,Workshop/Lab for exploring console?,CLOSED,2025-11-13T19:13:51Z,2026-11-23T23:09:32Z,Psst02;Sembauke;majestic-owl448,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABhkD-Dw,71761,Size mismatch between lecture headings,CLOSED,2026-11-22T20:27:22Z,2026-11-22T23:38:20Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABgUt9hQ,71720,Clarify wording for Daily Coding Challenge - Rectangle Count,OPEN,2026-11-18T09:36:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABhfnGRQ,71760,Build A Player Interface: Type hints invalidating Test No. 9,OPEN,2026-11-22T13:02:40Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABhILPKw,71751,Typo in block identifier: en-a2-quiz-giving-adivice-and-suggestions (adivice -> advice),CLOSED,2026-11-20T19:21:05Z,2026-11-20T22:20:46Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABfCQoMw,71698,fix(curriculum): clarify wording and fix grammar in Multi-Paragraph Quotes lesson,CLOSED,2026-11-13T18:39:57Z,2026-11-20T09:14:48Z,guru-bharadwaj20,freeCodeCamp,freeCodeCamp
@@ -20,7 +27,6 @@ I_kwDOAbI7X88AAAABaTjbfA,71399,Table on certification page doesn't look good.,OP
 I_kwDOAbI7X88AAAABfCPtLw,71697,Add the missing Data Sanitizer Sweep lab to Introduction to Loops in JavaScript,CLOSED,2026-11-13T18:38:59Z,2026-11-14T00:49:14Z,Piyush495,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABZdCkOg,71344,Incorrect Syntax in Correct Answer for Question in JavaScript Certification Exam,CLOSED,2026-10-23T18:14:57Z,2026-11-13T17:42:42Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABbbzq7A,71494,Digital Pet Game lab: PetMood enum and Record tests reject valid TypeScript,OPEN,2026-10-31T14:40:19Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABdmiuEA,71627,Inaccurate description of default sizing in Rothko painting #12,OPEN,2026-11-09T07:02:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABe9hJgQ,71692,"[JS v9] Dynamic Programming Review: add problem setup, recurrence complexity, and coin change algorithm",OPEN,2026-11-13T13:57:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABeGB-7w,71653,Change block layout of Sharing Your Personal Details Review to `challenge-list`,CLOSED,2026-11-10T19:47:46Z,2026-11-13T09:40:55Z,BuddiePowell,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABeFPBEw,71652,Grammar issue in Basic Personal Information - Task 32,CLOSED,2026-11-10T18:57:47Z,2026-11-13T01:11:52Z,ishanniselva-collab,freeCodeCamp,freeCodeCamp
@@ -36,11 +42,9 @@ I_kwDOAbI7X88AAAABdCZ1Jg,71605,Simplify definition formatting in First Question 
 I_kwDOAbI7X88AAAABdSaDZw,71612,Typo in Learn Basic Personal Information - task 35,CLOSED,2026-11-07T14:51:23Z,2026-11-10T08:26:05Z,Debomitra De,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABA4Q_Kw,67175,rdb local setup instructions don't say what to do to start a 2nd workshop,OPEN,2026-04-29T22:07:49Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABUc3lqg,70552,Salary Tracker - Step 39: Socrates giving wrong hints,OPEN,2026-10-01T18:50:21Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABTYxe7Q,70425,Bad German translations,OPEN,2026-09-26T17:44:36Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87Ns2u6,62351,"Make the ""Build a Magazine"" workshop HTML more semantic and update structural hierarchy ",OPEN,2025-09-24T21:42:43Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABdESUOA,71607,Break long closed captions into multiple lines in How to Clarify Misunderstandings,OPEN,2026-11-06T15:36:18Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABdCk3Ow,71606,English sentences are not translated in First Basics Questions - task 4 and 5,OPEN,2026-11-06T13:49:11Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABcZ6SJA,71585,Bug: Settings sagas silently drop errors on failure,OPEN,2026-11-04T10:46:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABcOWuvw,71565,Clarify standard-library module questions in the Dictionaries and Sets Quiz,CLOSED,2026-11-03T18:49:07Z,2026-11-05T12:34:04Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABSb9QAw,70262,Design a Movie Review Page - Socrates fails to diagnose the issue,CLOSED,2026-09-21T20:42:13Z,2026-11-05T10:46:22Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABcYxLzw,71584,Offering Free API Credits for Developer Education Projects,CLOSED,2026-11-04T09:18:54Z,2026-11-05T10:39:48Z,,freeCodeCamp,freeCodeCamp
@@ -51,7 +55,6 @@ I_kwDOAbI7X88AAAABb2NadQ,71535,Searching and Sorting Algorithms Review has inacc
 I_kwDOAbI7X88AAAABb2A5EQ,71534,Recursion Review: align coverage and examples with the Python module,CLOSED,2026-11-02T13:30:28Z,2026-11-04T07:26:17Z,Sidsmartz,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABcOm17g,71567,Improve explanation of How to Plan Future Events - Task 61,CLOSED,2026-11-03T19:06:39Z,2026-11-04T07:22:48Z,LastGregStanding,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABRySz4w,70139,/settings urls with fragments do not scroll correctly,OPEN,2026-09-17T14:13:20Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABbObT4Q,71470,Don't show C# exam results on cert page,OPEN,2026-10-30T15:32:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABbzm7gA,71519,Object-Oriented Programming review has inaccurate explanations and missing topics,CLOSED,2026-11-02T10:45:56Z,2026-11-03T18:54:24Z,skullboy-david,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABb06IiQ,71525,Classes and Objects Review omits topics taught in the lessons and workshops,CLOSED,2026-11-02T12:17:28Z,2026-11-03T18:52:37Z,TEE0207,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABb1I17g,71528,Dictionaries and Sets Review has inaccurate explanations and missing concepts,CLOSED,2026-11-02T12:32:38Z,2026-11-03T18:38:32Z,TEE0207,freeCodeCamp,freeCodeCamp
@@ -639,17 +642,3 @@ I_kwDOAbI7X88AAAABOCU73g,69723,Use semantic keyboard markup in Relational Databa
 I_kwDOAbI7X88AAAABOBkG6A,69715,Correct inaccurate explanations and examples in the Node fs lesson,CLOSED,2026-08-24T14:52:25Z,2026-08-25T09:17:41Z,Dazzanova,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnFNMQ,69323,Add Section Headers to Lecture: What Are the Roles of the aria-label and aria-labelledby Attributes?,CLOSED,2026-08-05T18:46:43Z,2026-08-25T09:02:48Z,jaykumar14921,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnFCXg,69321,"Add Section Headers to Lecture: What Are ems and rems in CSS, and When Should You Use Them?",CLOSED,2026-08-05T18:46:22Z,2026-08-25T09:02:35Z,Aman739-code,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLvP0Fw,69370,Update installing node lecture,CLOSED,2026-08-06T15:22:41Z,2026-08-25T05:52:20Z,ingsunny,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABN-vwPA,69694,Use semantic keyboard markup in keyboard accessibility lesson,CLOSED,2026-08-24T09:28:00Z,2026-08-24T15:35:19Z,Venkat,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABN-H1DA,69690,The interactive editor is not logging event targets in the examples,CLOSED,2026-08-24T08:11:56Z,2026-08-24T15:20:07Z,barry166,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABN-v0hQ,69695,Use semantic keyboard markup in Bash Commands Review,CLOSED,2026-08-24T09:28:06Z,2026-08-24T14:30:08Z,duna-akin,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABN-v4Rw,69696,Use semantic keyboard markup in Relational Databases Review,CLOSED,2026-08-24T09:28:11Z,2026-08-24T14:06:53Z,Daniel,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABN-vs_A,69693,Use semantic keyboard markup in Python debugging techniques,CLOSED,2026-08-24T09:27:54Z,2026-08-24T13:46:27Z,wonganjatan,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLvCpFA,69369,Missing information in What is node lecture,CLOSED,2026-08-06T14:58:19Z,2026-08-24T13:44:57Z,guptakrish490,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABN-v_pQ,69698,Use semantic keyboard markup in Spanish keyboard setup,CLOSED,2026-08-24T09:28:22Z,2026-08-24T13:37:38Z,priyanshupundir,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABN-wEUA,69699,Use semantic keyboard markup for Windows shortcut in Chinese keyboard setup,CLOSED,2026-08-24T09:28:28Z,2026-08-24T13:11:15Z,priyanshupundir,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABN-v8KA,69697,Use semantic keyboard markup for the Windows logo key,CLOSED,2026-08-24T09:28:17Z,2026-08-24T13:10:55Z,priyanshupundir,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABNe6rVA,69622,fs lesson incorrectly states that every method has a synchronous version,CLOSED,2026-08-20T04:49:52Z,2026-08-24T10:46:47Z,saswat9658,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABN7rQ8Q,69686,First-person plural subject pronoun in Working with Data in React,CLOSED,2026-08-24T00:39:16Z,2026-08-24T10:11:59Z,wonganjatan,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABN9ADEw,69688,Spelling Error,CLOSED,2026-08-24T05:15:39Z,2026-08-24T09:43:51Z,ingsunny,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABNhjDyw,69630,Add an accessible Nano keyboard shortcut summary,CLOSED,2026-08-20T10:49:25Z,2026-08-24T08:49:57Z,hishammoizuddin,freeCodeCamp,freeCodeCamp
