@@ -1,9 +1,12 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
-I_kwDOAbI7X88AAAABdmiuEA,71627,Inaccurate description of default sizing in Rothko painting #12,OPEN,2026-11-09T07:02:57Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABgUt9hQ,71720,Clarify wording for Daily Coding Challenge - Rectangle Count,OPEN,2026-11-18T09:36:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABGpWcdA,68228,add Number.isInteger to module review,OPEN,2026-06-25T05:38:29Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABibHVGA,71780,Failed challenge submissions navigate away and clear project links,OPEN,2026-11-25T13:03:02Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABieQ1sQ,71783,Build a Campus Directory Normalizer - Step 47 - Step 50,OPEN,2026-11-25T15:55:31Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABigTpIA,71785,context error,CLOSED,2026-11-25T17:59:23Z,2026-11-25T18:44:42Z,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABgUt9hQ,71720,Clarify wording for Daily Coding Challenge - Rectangle Count,CLOSED,2026-11-18T09:36:31Z,2026-11-25T15:40:19Z,moT01,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABiOK-VQ,71774,Found typo in Full Stack Certification: Back-end Development & APIs: Working with npm Scripts: What Are npm Scripts?,OPEN,2026-11-24T21:13:16Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABdmiuEA,71627,Inaccurate description of default sizing in Rothko painting #12,OPEN,2026-11-09T07:02:57Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABGpWcdA,68228,add Number.isInteger to module review,OPEN,2026-06-25T05:38:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABcZ6SJA,71585,Bug: Settings sagas silently drop errors on failure,OPEN,2026-11-04T10:46:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMAUtUg,69446,Clarify lack of support on archived course pages,CLOSED,2026-08-09T03:01:14Z,2026-11-24T18:30:50Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABbObT4Q,71470,Don't show C# exam results on cert page,OPEN,2026-10-30T15:32:08Z,,,freeCodeCamp,freeCodeCamp
@@ -635,10 +638,3 @@ I_kwDOAbI7X88AAAABOCU3ew,69721,Use semantic keyboard markup in JavaScript V9,CLO
 I_kwDOAbI7X88AAAABLnGU3w,69337,Add Section Headers to Lecture: How Do Loops and Iteration Work in JavaScript?,CLOSED,2026-08-05T18:48:58Z,2026-08-26T16:24:14Z,jaykumar14921,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABOCU1xA,69720,Use semantic keyboard markup in Front End Libraries V9,CLOSED,2026-08-24T16:11:47Z,2026-08-26T07:46:33Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnDfeQ,69306,"Add Section Headers to Lecture: What Are Margins and Padding, and How Do They Work?",CLOSED,2026-08-05T18:43:20Z,2026-08-26T07:45:31Z,laypatel13,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnFEtA,69322,Add Section Headers to Lecture: What Is the Mobile First Approach in Responsive Web Design?,CLOSED,2026-08-05T18:46:27Z,2026-08-25T09:47:06Z,Aman739-code,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABOCU55g,69722,Use semantic keyboard markup in Python V9,CLOSED,2026-08-24T16:11:53Z,2026-08-25T09:40:38Z,aryanraj7791,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnE_og,69320,"Add Section Headers to Lecture: What Are Conditional Statements, and How Do If/Else If/Else Statements Work?",CLOSED,2026-08-05T18:46:17Z,2026-08-25T09:37:01Z,Aman739-code,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABOCU73g,69723,Use semantic keyboard markup in Relational Databases V9,CLOSED,2026-08-24T16:11:56Z,2026-08-25T09:24:51Z,Kunal241207,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABOBkG6A,69715,Correct inaccurate explanations and examples in the Node fs lesson,CLOSED,2026-08-24T14:52:25Z,2026-08-25T09:17:41Z,Dazzanova,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnFNMQ,69323,Add Section Headers to Lecture: What Are the Roles of the aria-label and aria-labelledby Attributes?,CLOSED,2026-08-05T18:46:43Z,2026-08-25T09:02:48Z,jaykumar14921,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnFCXg,69321,"Add Section Headers to Lecture: What Are ems and rems in CSS, and When Should You Use Them?",CLOSED,2026-08-05T18:46:22Z,2026-08-25T09:02:35Z,Aman739-code,freeCodeCamp,freeCodeCamp
