@@ -1,4 +1,9 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+c4b5ab38502f64af116aefa60c14da2dd9f04ff5,test(e2e): verify experience changes persist after reload (#71801),2026-11-27T01:54:53Z,1,98,Sembauke,freeCodeCamp,freeCodeCamp
+3d9b652a2072aea0e04541986e0b1449981daee0,fix(curriculum): fix command script and remove code block (#71790),2026-11-26T14:46:46Z,1,6,JoshuaCaba,freeCodeCamp,freeCodeCamp
+12d4bd2cef318e50699bbee3d9e3367ac7d1d603,fix(client): move course progress steps into main module button for s…,2026-11-26T14:29:29Z,4,167,Ayan-Bain,freeCodeCamp,freeCodeCamp
+580eb96b0bb45e42b027def96383317070600f08,fix(client): unblock homepage rendering (#69950),2026-11-26T14:15:48Z,8,176,Sembauke,freeCodeCamp,freeCodeCamp
+3eba3bcc90249377bb13fe27c689317a780cb9ad,test(e2e): advance donation countdown with Playwright clock (#71520),2026-11-26T14:05:28Z,1,47,Sembauke,freeCodeCamp,freeCodeCamp
 18b0b76b7409e6929075dc88a50571776a55e5d8,test(e2e): verify sign-out clears the browser session (#71554),2026-11-26T06:57:34Z,1,46,Sembauke,freeCodeCamp,freeCodeCamp
 ed2dab79ab09f6f43fae2fc7e782e99ed6c76435,perf(ci): skip submodule checkout in English jobs (#71540),2026-11-26T06:54:15Z,1,5,Sembauke,freeCodeCamp,freeCodeCamp
 847ed18b05915d25852861159ed0fa06089cce45,test(e2e): verify template challenge completion is saved (#71595),2026-11-26T06:53:03Z,1,48,Sembauke,freeCodeCamp,freeCodeCamp
@@ -1031,11 +1036,3 @@ b7a8cf8b259253459eed7f65a60134918b58c6c9,test(api): handle concurrent requests g
 ef522910350810df71d6838f19dc497efcf1af7c,fix(client): update JSON module imports (#69766),2026-08-27T13:27:01Z,20,89,Sembauke,freeCodeCamp,freeCodeCamp
 9eff33bed61d1acc84e51c1c591fdeef1e48a083,fix(curriculum): set data-sanitizer challenge type to 32 (#69771),2026-08-27T11:04:49Z,1,2,ShaunSHamilton,freeCodeCamp,freeCodeCamp
 70a07d6d0a94c2370d9a6c1e7b699e3bcc95e305,feat(curriculum): Add section headers to hex codes lecture (#69750),2026-08-27T08:03:48Z,1,6,Webmekanic,freeCodeCamp,freeCodeCamp
-a764dc96d92cfffaed6bbdbd5287c12974bf482d,chore(a11y): kbd elements in JavaScript V9 (#69734),2026-08-27T07:32:49Z,11,36,Supravisor,freeCodeCamp,freeCodeCamp
-88e3ce7f25c80625e77bb8652f5a38f819da5e51,"chore(i18n,learn): update i18n-curriculum submodule (#69763)",2026-08-27T03:06:36Z,1,2,camperbot,freeCodeCamp,freeCodeCamp
-d94f5cddee91e8654d0bdfe4ceb3e989012783a5,fix(curriculum): add section headers to loops lecture (#69747),2026-08-26T16:24:12Z,1,8,jaykumar14921,freeCodeCamp,freeCodeCamp
-c306144dd049ec6f93adbcdb884b411ee90ffb15,fix(devcontainer): correct the bind and port reset (#69753),2026-08-26T15:08:32Z,8,195,raisedadead,freeCodeCamp,freeCodeCamp
-1fb1ca975f0b2f61885d67884e2efc32aff22ae7,fix(devcontainer): drop the compose !reset tag (#69752),2026-08-26T11:19:32Z,8,45,raisedadead,freeCodeCamp,freeCodeCamp
-67d1acf323b1d23155b372704c527c6d6e62fcbc,feat(devcontainer): fix Codespaces and simplify (#69749),2026-08-26T09:21:44Z,12,340,raisedadead,freeCodeCamp,freeCodeCamp
-1531f37f359dccf30a56ee79138a6d1eaf84c643,chore(a11y): kbd element for render a page (#69731),2026-08-26T07:46:31Z,1,2,Supravisor,freeCodeCamp,freeCodeCamp
-d96c665b0c49e1f34c420e446781caa1eaf1aa79,fix(curriculum): add section headers to margins-padding lecture (#69706),2026-08-26T07:45:29Z,1,8,laypatel13,freeCodeCamp,freeCodeCamp
