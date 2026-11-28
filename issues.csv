@@ -1,15 +1,16 @@
 issue_id,issue_number,title,state,created_date,closed_date,contributors,repo_owner,repo_name
+I_kwDOAbI7X88AAAABjObzdQ,71815,Couldn't use git commit command with node latest version,OPEN,2026-11-28T03:58:45Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X87jCu44,65122,Dependency Dashboard,OPEN,2026-01-13T14:35:39Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABieQ1sQ,71783,Build a Campus Directory Normalizer - Step 47 - Step 50,OPEN,2026-11-25T15:55:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABi2J_QA,71804,JavaScript Math Review misstates when the nullish coalescing operator returns a value,OPEN,2026-11-26T19:09:49Z,,,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABisH-6A,71793,Fix typo in CSS Grid quiz question regarding explicit and implicit grids,CLOSED,2026-11-26T08:49:32Z,2026-11-27T12:00:16Z,gaeloro,freeCodeCamp,freeCodeCamp
+I_kwDOAbI7X88AAAABdmiuEA,71627,Inaccurate description of default sizing in Rothko painting #12,CLOSED,2026-11-09T07:02:57Z,2026-11-27T11:12:12Z,Supravisor,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABiOK-VQ,71774,Found typo in Full Stack Certification: Back-end Development & APIs: Working with npm Scripts: What Are npm Scripts?,CLOSED,2026-11-24T21:13:16Z,2026-11-26T14:46:50Z,JoshuaCaba,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABhfnGRQ,71760,Build A Player Interface: Type hints invalidating Test No. 9,OPEN,2026-11-22T13:02:40Z,,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABieQ1sQ,71783,Build a Campus Directory Normalizer - Step 47 - Step 50,OPEN,2026-11-25T15:55:31Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABEE8zEA,67770,Course progress steps are not conveyed to the screen reader users,CLOSED,2026-06-02T05:06:10Z,2026-11-26T14:29:32Z,Ayan-Bain;huyenltnguyen,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABisH-6A,71793,Fix typo in CSS Grid quiz question regarding explicit and implicit grids,OPEN,2026-11-26T08:49:32Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABibHVGA,71780,Failed challenge submissions navigate away and clear project links,OPEN,2026-11-25T13:03:02Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABigTpIA,71785,context error,CLOSED,2026-11-25T17:59:23Z,2026-11-25T18:44:42Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABgUt9hQ,71720,Clarify wording for Daily Coding Challenge - Rectangle Count,CLOSED,2026-11-18T09:36:31Z,2026-11-25T15:40:19Z,moT01,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABdmiuEA,71627,Inaccurate description of default sizing in Rothko painting #12,OPEN,2026-11-09T07:02:57Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABGpWcdA,68228,add Number.isInteger to module review,OPEN,2026-06-25T05:38:29Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABcZ6SJA,71585,Bug: Settings sagas silently drop errors on failure,OPEN,2026-11-04T10:46:08Z,,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABMAUtUg,69446,Clarify lack of support on archived course pages,CLOSED,2026-08-09T03:01:14Z,2026-11-24T18:30:50Z,,freeCodeCamp,freeCodeCamp
@@ -632,9 +633,3 @@ I_kwDOAbI7X88AAAABJdCMBQ,68948,Tests on the last Front-End Dev certification pro
 I_kwDOAbI7X88AAAABNqBpfQ,69661,"Run Tests fails in ""Learn Node.js REPL"" lab even when terminal command is correct (Backend JS v9, Codespaces)",CLOSED,2026-08-21T07:05:05Z,2026-08-28T08:34:16Z,,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnFZVg,69326,"Add Section Headers to Lecture: What Is Responsive Web Design, and What Is Its Relationship to Tools Like CSS Grid and Flexbox?",CLOSED,2026-08-05T18:47:06Z,2026-08-28T07:25:01Z,Aman739-code,freeCodeCamp,freeCodeCamp
 I_kwDOAbI7X88AAAABLnDrcQ,69311,"Add Section Headers to Lecture: What Are the Roles of the HTML Audio and Video Elements, and How Do They Work?",CLOSED,2026-08-05T18:43:43Z,2026-08-28T07:24:42Z,d4-dhiraj,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABIYmcoA,68702,Replace regex-based test cases in Fcc Authors Page Workshop,CLOSED,2026-07-10T18:24:49Z,2026-08-27T16:10:31Z,Sembauke,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnGGqg,69334,Add Section Headers to Lecture: What Are Examples of Element User Action Pseudo-classes?,CLOSED,2026-08-05T18:48:35Z,2026-08-27T15:58:14Z,jaykumar14921,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnD-Hw,69317,"Add Section Headers to Lecture: What Is the aria-hidden Attribute, and How Does It Work?",CLOSED,2026-08-05T18:44:15Z,2026-08-27T15:25:45Z,Aman739-code,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABNtjgPQ,69663,Inserting Emoji's,CLOSED,2026-08-21T14:33:35Z,2026-08-27T14:50:20Z,,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABLnFwBw,69331,"Add Section Headers to Lecture: What Are Hex Codes, and How Do They Work in CSS?",CLOSED,2026-08-05T18:47:50Z,2026-08-27T08:03:50Z,Webmekanic,freeCodeCamp,freeCodeCamp
-I_kwDOAbI7X88AAAABOCU3ew,69721,Use semantic keyboard markup in JavaScript V9,CLOSED,2026-08-24T16:11:50Z,2026-08-27T07:32:52Z,Supravisor,freeCodeCamp,freeCodeCamp
