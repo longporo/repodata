@@ -1,4 +1,10 @@
 sha,message,created_date,number_of_files_updated,diff,author,repo_owner,repo_name
+0ecad898e64b4553ff625f9c9d7d14d642cf296b,fix(curriculum): correct wording in CSS Grid quiz question (#71802),2026-11-27T12:00:12Z,1,8,gaeloro,freeCodeCamp,freeCodeCamp
+ce1f73a933022982fdcc7e57b5455b62c0b80e73,test(e2e): verify Escape closes the completion modal (#71794),2026-11-27T11:17:45Z,1,46,Sembauke,freeCodeCamp,freeCodeCamp
+ed384f0f4a3f2e43f396df49e0e9c71a534e635f,fix(curriculum): clarify frame sizing in Rothko painting (#71778),2026-11-27T11:12:09Z,1,4,Supravisor,freeCodeCamp,freeCodeCamp
+4ef9bc380ce30b061c646622ee537c0ce7a86841,"fix(curriculum,api): correct typos in comments (#71809)",2026-11-27T11:11:01Z,2,12,Damoness,freeCodeCamp,freeCodeCamp
+a18999b94e487dd345b9e0479bb73551869e1c1e,chore(deps): update dependency webpack to v5.113.0 (#71810),2026-11-27T11:09:43Z,2,119,renovate[bot],freeCodeCamp,freeCodeCamp
+2b04024592bef18af13f120295c2f6f8bbc589d5,chore(deps): update dependency autoprefixer to v10.7.0 (#71807),2026-11-27T07:47:04Z,2,68,renovate[bot],freeCodeCamp,freeCodeCamp
 c4b5ab38502f64af116aefa60c14da2dd9f04ff5,test(e2e): verify experience changes persist after reload (#71801),2026-11-27T01:54:53Z,1,98,Sembauke,freeCodeCamp,freeCodeCamp
 3d9b652a2072aea0e04541986e0b1449981daee0,fix(curriculum): fix command script and remove code block (#71790),2026-11-26T14:46:46Z,1,6,JoshuaCaba,freeCodeCamp,freeCodeCamp
 12d4bd2cef318e50699bbee3d9e3367ac7d1d603,fix(client): move course progress steps into main module button for s…,2026-11-26T14:29:29Z,4,167,Ayan-Bain,freeCodeCamp,freeCodeCamp
@@ -1021,18 +1027,3 @@ a2a72f69b28d7c7b571a2e9b66bce5204b6fef21,fix(api): drop dead socrates upstream e
 aaad305dfd3851adeeca289e40be60e0275a70ff,chore(api/client): remove temp daily challenge transition code (#69775),2026-08-28T13:03:17Z,5,121,moT01,freeCodeCamp,freeCodeCamp
 925e5f7eb363b50d85baab1d4281aa280905187f,refactor(curriculum): add section headers to responsive web design le…,2026-08-28T07:24:59Z,1,14,Aman739-code,freeCodeCamp,freeCodeCamp
 fd7bf8451e2a38e3eb206a41bf52a54da2671526,fix(curriculum): add section headers to audio/video elements lecture …,2026-08-28T07:24:40Z,1,16,d4-dhiraj,freeCodeCamp,freeCodeCamp
-f26f71a42903192ee1eec01ea45bd6182cd7095f,ci: reuse client build for e2e tests (#69758),2026-08-28T03:55:28Z,2,159,Sembauke,freeCodeCamp,freeCodeCamp
-9237d11a0e57972b31db30079d60311764ae3921,test: move portfolio validation coverage to client (#68385),2026-08-27T17:46:45Z,2,277,Sembauke,freeCodeCamp,freeCodeCamp
-353fa7b38a81cf4b9cd9dd666ee8a3d7f055df47,test: move independent lower jaw button coverage to client (#68352),2026-08-27T17:44:11Z,2,85,Sembauke,freeCodeCamp,freeCodeCamp
-d04ee71facfd769d1187643fa92753b098936876,test(client): move settings page rendering coverage to client (#68397),2026-08-27T17:42:17Z,2,360,Sembauke,freeCodeCamp,freeCodeCamp
-79057ec4805ac4f24028d1ca07a45c57a0bfbe82,test(client): move super block expansion decision coverage to client …,2026-08-27T16:33:53Z,3,244,Sembauke,freeCodeCamp,freeCodeCamp
-f29bd8176bbc7e6dc922bc141f02b1a251663baa,test(client): move solution viewer coverage to client tests (#68515),2026-08-27T16:31:48Z,3,257,Sembauke,freeCodeCamp,freeCodeCamp
-89cf0de3929da4ead7800fb504a8ff81b52a48ea,test: move header coverage to client (#68266),2026-08-27T16:20:09Z,6,716,Sembauke,freeCodeCamp,freeCodeCamp
-9d84404f53cc59bca9616d1d56bdf4f408dde7e1,fix(curriculum): grammar and test fixes in fcc-authors-page workshop …,2026-08-27T16:10:29Z,15,120,Sembauke,freeCodeCamp,freeCodeCamp
-fa1d624bfed60541a418e5e75c122980ba913812,fix(curriculum): add section headers to pseudo classes lecture (#69756),2026-08-27T15:58:12Z,1,16,jaykumar14921,freeCodeCamp,freeCodeCamp
-47492d87a7b9224d147a406c5b068a15228fd82d,refactor(curriculum): add section headers aria-hidden attribute lectu…,2026-08-27T15:25:43Z,1,18,Aman739-code,freeCodeCamp,freeCodeCamp
-6b171230f95a377e3a9763c6d57dae5b17bb0bac,fix(client): use Gatsby's webpack instance for ProvidePlugin (#69769),2026-08-27T14:01:34Z,3,43,Sembauke,freeCodeCamp,freeCodeCamp
-b7a8cf8b259253459eed7f65a60134918b58c6c9,test(api): handle concurrent requests gracefully (#69772),2026-08-27T13:35:27Z,1,6,ojeytonwilliams,freeCodeCamp,freeCodeCamp
-ef522910350810df71d6838f19dc497efcf1af7c,fix(client): update JSON module imports (#69766),2026-08-27T13:27:01Z,20,89,Sembauke,freeCodeCamp,freeCodeCamp
-9eff33bed61d1acc84e51c1c591fdeef1e48a083,fix(curriculum): set data-sanitizer challenge type to 32 (#69771),2026-08-27T11:04:49Z,1,2,ShaunSHamilton,freeCodeCamp,freeCodeCamp
-70a07d6d0a94c2370d9a6c1e7b699e3bcc95e305,feat(curriculum): Add section headers to hex codes lecture (#69750),2026-08-27T08:03:48Z,1,6,Webmekanic,freeCodeCamp,freeCodeCamp
